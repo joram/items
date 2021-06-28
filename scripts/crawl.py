@@ -104,18 +104,20 @@ class MECProduct:
             return s.strip("\n ")
 
         tech_specs = {}
-        tech_specs_table = self.soup.find("div", {"id": "pdp-tech-specs"}).find("table").find("tbody")
-        for tr in tech_specs_table.findChildren("tr"):
-            key = _clean(tr.find("th").text)
-            td = tr.find("td")
-            if len(td.findAll("ul")) > 0:
-                ul = td.find("ul")
-                values = [_clean(li.text) for li in ul.findAll("li")]
-            else:
-                values =[_clean(td.text)]
-
-            tech_specs[key] = values
-
+        try:
+            tech_specs_table = self.soup.find("div", {"id": "pdp-tech-specs"}).find("table").find("tbody")
+            for tr in tech_specs_table.findChildren("tr"):
+                key = _clean(tr.find("th").text)
+                td = tr.find("td")
+                if len(td.findAll("ul")) > 0:
+                    ul = td.find("ul")
+                    values = [_clean(li.text) for li in ul.findAll("li")]
+                else:
+                    values =[_clean(td.text)]
+                tech_specs[key] = values
+        except:
+            pass
+        
         divs = self.soup.findAll("div", {"class": "carousel__media"})
         img_urls = []
         for div in divs:
