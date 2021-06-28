@@ -1,0 +1,3 @@
+crawl:
+	./scripts/crawl.py
+
