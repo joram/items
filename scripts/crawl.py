@@ -113,11 +113,11 @@ class MECProduct:
                     ul = td.find("ul")
                     values = [_clean(li.text) for li in ul.findAll("li")]
                 else:
-                    values =[_clean(td.text)]
+                    values = [_clean(td.text)]
                 tech_specs[key] = values
         except:
             pass
-        
+
         divs = self.soup.findAll("div", {"class": "carousel__media"})
         img_urls = []
         for div in divs:
