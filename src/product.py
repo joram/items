@@ -1,25 +1,26 @@
 import json
 import os
-import re
 from typing import List, Optional
+
 from quantulum3 import parser
 
+
 class Product:
-    name:str=""
-    categories=[]
-    description:str=""
-    product_code:str=""
-    tech_specs={}
-    img_urls=[]
+    name: str = ""
+    categories = []
+    description: str = ""
+    product_code: str = ""
+    tech_specs = {}
+    img_urls = []
 
     def __init__(
         self,
-        name:str="",
-        categories:List[str]=list,
-        description:str="",
-        product_code:str="",
+        name: str = "",
+        categories: List[str] = list,
+        description: str = "",
+        product_code: str = "",
         tech_specs=dict,
-        img_urls:List[str]=list,
+        img_urls: List[str] = list,
     ):
         self.name = name
         self.categories = categories
@@ -44,13 +45,13 @@ class Product:
     @property
     def weight(self) -> Optional[float]:
         weight_strs = self.tech_specs.get("Weight", [])
-        raw_weights = [parser.parse(weight_str)[0] for weight_str in weight_strs]
+        raw_weights = [parser.parse(s)[0] for s in weight_strs]
         weights_grams = []
         for w in raw_weights:
             if w.unit.name == "gram":
                 weights_grams.append(w.value)
             if w.unit.name == "kilogram":
-                weights_grams.append(w.value*1000)
+                weights_grams.append(w.value * 1000)
         if len(weights_grams) == 0:
             return None
         max_weight = max(weights_grams)
