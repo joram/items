@@ -1,7 +1,8 @@
 import json
 import os
-from typing import List, Dict
-
+import re
+from typing import List, Optional
+from quantulum3 import parser
 
 class Product:
     name:str=""
@@ -40,13 +41,28 @@ class Product:
             "img_urls": self.img_urls,
         }
 
+    @property
+    def weight(self) -> Optional[float]:
+        weight_strs = self.tech_specs.get("Weight", [])
+        raw_weights = [parser.parse(weight_str)[0] for weight_str in weight_strs]
+        weights_grams = []
+        for w in raw_weights:
+            if w.unit.name == "gram":
+                weights_grams.append(w.value)
+            if w.unit.name == "kilogram":
+                weights_grams.append(w.value*1000)
+        if len(weights_grams) == 0:
+            return None
+        max_weight = max(weights_grams)
+        return max_weight
+
     @classmethod
-    def load_all(cls) -> List["Product"]:
+    def load_all(cls, category=None) -> List["Product"]:
         file_dir = os.path.dirname(os.path.realpath(__file__))
         for filename in os.listdir(f"{file_dir}/products"):
             with open(f"{file_dir}/products/{filename}") as f:
                 data = json.loads(f.read())
-                yield Product(
+                product = Product(
                     name=data.get("name", ""),
                     categories=data.get("categories", []),
                     description=data.get("description", ""),
@@ -54,3 +70,6 @@ class Product:
                     tech_specs=data.get("tech_specs", {}),
                     img_urls=data.get("img_urls", []),
                 )
+                if category and category not in product.categories:
+                    continue
+                yield product
