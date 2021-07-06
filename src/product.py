@@ -60,7 +60,7 @@ class Product:
     @classmethod
     def load_all(cls, category=None) -> List["Product"]:
         file_dir = os.path.dirname(os.path.realpath(__file__))
-        for filename in os.listdir(f"{file_dir}/products"):
+        for filename in os.listdir(f"{file_dir}/products/mec"):
             with open(f"{file_dir}/products/{filename}") as f:
                 data = json.loads(f.read())
                 product = Product(
