@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="mec_items",
+    name="items",
     version="0.0.1",
     author="John Oram",
     author_email="john@oram.ca",
@@ -17,7 +17,8 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_dir={"items": "src"},
-    packages=setuptools.find_packages(where="src"),
+    packages=["items"],
+    package_data={"items": "src"},
+    package_dir={"items": "products"},
     python_requires=">=3.6",
 )

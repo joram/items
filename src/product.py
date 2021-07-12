@@ -58,10 +58,45 @@ class Product:
         return max_weight
 
     @classmethod
+    def load_rei(cls, category=None) -> List["Product"]:
+        file_dir = os.path.dirname(os.path.realpath(__file__))
+
+        for filename in os.listdir(f"{file_dir}/products/rei"):
+            with open(f"{file_dir}/products/rei/{filename}") as f:
+                data = json.loads(f.read())
+                product = Product(
+                    name=data.get("name", ""),
+                    categories=data.get("categories", ""),
+                    product_code=data.get("sku", ""),
+                    tech_specs=data.get("tech_specs", {}),
+                    img_urls=data.get("img_urls", []),
+                )
+                if category and category not in product.categories:
+                    continue
+                yield product
+
+    @classmethod
     def load_all(cls, category=None) -> List["Product"]:
         file_dir = os.path.dirname(os.path.realpath(__file__))
+
+        for filename in os.listdir(f"{file_dir}/products/altitude_sports"):
+            with open(f"{file_dir}/products/altitude_sports/{filename}") as f:
+                data = json.loads(f.read())
+                categories = data.get("category_hierarchy", [])
+                if categories is None:
+                    categories = []
+                product = Product(
+                    name=data.get("name", ""),
+                    categories=categories,
+                    product_code=data.get("sku", ""),
+                    tech_specs=data.get("tech_specs", {}),
+                    img_urls=data.get("img_urls", []),
+                )
+                if category and category not in product.categories:
+                    continue
+                yield product
         for filename in os.listdir(f"{file_dir}/products/mec"):
-            with open(f"{file_dir}/products/{filename}") as f:
+            with open(f"{file_dir}/products/mec/{filename}") as f:
                 data = json.loads(f.read())
                 product = Product(
                     name=data.get("name", ""),
