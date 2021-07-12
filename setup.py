@@ -19,6 +19,6 @@ setuptools.setup(
     ],
     packages=["items"],
     package_data={"items": ["products"]},
-    package_dir={"items": ["src"]},
+    package_dir={"items": "src"},
     python_requires=">=3.6",
 )
