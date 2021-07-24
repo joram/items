@@ -100,7 +100,7 @@ class AltitudeSportsProduct:
     def save(self):
         dir_path = os.path.dirname(os.path.realpath(__file__))
         data = self.json()
-        p = "../src/products/altitude_sports"
+        p = "../items/products/altitude_sports"
         filepath = f"{dir_path}/{p}/as_{data['sku']}.json"
         with open(filepath, "w") as f:
             f.write(json.dumps(data))

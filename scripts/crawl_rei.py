@@ -79,7 +79,7 @@ class REIProduct:
     def save(self):
         dir_path = os.path.dirname(os.path.realpath(__file__))
         data = self.json()
-        p = "../src/products/rei"
+        p = "../items/products/rei"
         filepath = f"{dir_path}/{p}/{data['product_code']}.json"
         with open(filepath, "w") as f:
             f.write(json.dumps(data))

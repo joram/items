@@ -25,6 +25,6 @@ setuptools.setup(
             "products/rei/*",
         ]
     },
-    package_dir={"items": "src"},
+    package_dir={"items": "items"},
     python_requires=">=3.6",
 )

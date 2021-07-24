@@ -76,7 +76,7 @@ class Product:
                 yield product
 
     @classmethod
-    def load_all(cls, category=None) -> List["Product"]:
+    def load_altitude_sports(cls, category=None) -> List["Product"]:
         file_dir = os.path.dirname(os.path.realpath(__file__))
 
         for filename in os.listdir(f"{file_dir}/products/altitude_sports"):
@@ -95,6 +95,10 @@ class Product:
                 if category and category not in product.categories:
                     continue
                 yield product
+
+    @classmethod
+    def load_mec(cls, category=None) -> List["Product"]:
+        file_dir = os.path.dirname(os.path.realpath(__file__))
         for filename in os.listdir(f"{file_dir}/products/mec"):
             with open(f"{file_dir}/products/mec/{filename}") as f:
                 data = json.loads(f.read())

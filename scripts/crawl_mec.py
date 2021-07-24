@@ -75,7 +75,7 @@ class MECProduct:
         img_urls = []
         for div in divs:
             try:
-                img_url = div.find("img")["data-high-res-src"]
+                img_url = div.find("img")["data-high-res-items"]
             except Exception:
                 continue
             img_urls.append(img_url)
@@ -101,7 +101,7 @@ class MECProduct:
         # pprint.pprint(self.json())
         dir_path = os.path.dirname(os.path.realpath(__file__))
         data = self.json()
-        p = "../src/products/mec"
+        p = "../items/products/mec"
         filepath = f"{dir_path}/{p}/{data['product_code']}.json"
         with open(filepath, "w") as f:
             f.write(json.dumps(data))
