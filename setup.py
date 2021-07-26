@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="items",
-    version="0.0.1",
+    version="0.0.2",
     author="John Oram",
     author_email="john@oram.ca",
     description="A small example package",
@@ -20,9 +20,9 @@ setuptools.setup(
     packages=["items"],
     package_data={
         "items": [
-            "products/altitude_sports/*",
-            "products/mec/*",
-            "products/rei/*",
+            "items/altitude_sports/*",
+            "items/mec/*",
+            "items/rei/*",
         ]
     },
     package_dir={"items": "items"},
