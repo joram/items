@@ -61,8 +61,8 @@ class Item:
     def load_rei(cls, category=None) -> List["Item"]:
         file_dir = os.path.dirname(os.path.realpath(__file__))
 
-        for filename in os.listdir(f"{file_dir}/products/rei"):
-            with open(f"{file_dir}/products/rei/{filename}") as f:
+        for filename in os.listdir(f"{file_dir}/items/rei"):
+            with open(f"{file_dir}/items/rei/{filename}") as f:
                 data = json.loads(f.read())
                 product = Item(
                     name=data.get("name", ""),
@@ -79,8 +79,8 @@ class Item:
     def load_altitude_sports(cls, category=None) -> List["Item"]:
         file_dir = os.path.dirname(os.path.realpath(__file__))
 
-        for filename in os.listdir(f"{file_dir}/products/altitude_sports"):
-            with open(f"{file_dir}/products/altitude_sports/{filename}") as f:
+        for filename in os.listdir(f"{file_dir}/items/altitude_sports"):
+            with open(f"{file_dir}/items/altitude_sports/{filename}") as f:
                 data = json.loads(f.read())
                 categories = data.get("category_hierarchy", [])
                 if categories is None:
@@ -99,8 +99,8 @@ class Item:
     @classmethod
     def load_mec(cls, category=None) -> List["Item"]:
         file_dir = os.path.dirname(os.path.realpath(__file__))
-        for filename in os.listdir(f"{file_dir}/products/mec"):
-            with open(f"{file_dir}/products/mec/{filename}") as f:
+        for filename in os.listdir(f"{file_dir}/items/mec"):
+            with open(f"{file_dir}/items/mec/{filename}") as f:
                 data = json.loads(f.read())
                 product = Item(
                     name=data.get("name", ""),
