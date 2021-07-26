@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Paddling tops and pants",
+    "Paddling tops",
+    "Meris Jacket"
+  ],
+  "description": "Designed to handle the extremes of offshore environments, this bombproof dry top provides protection and piece-of-mind in rough conditions. Ultra-durable MarineSpec BP fabric is abrasion- and UV-resistant, with a non-porous membrane that lets body moisture out without letting water in. The relaxed fit allows for layering and ease of movement, and the fitted hood moves with you ensuring unobstructed vision.4-layer MarineSpec BP fabric is waterproof and highly durable, specifically designed for tough salt-water environments.Waterproof YKK\u00ae Aquaseal\u00ae zipper prevents water from sneaking in.Fitted hood with side view windows allows full peripheral vision.2 zippered handwarmer pockets are fleece lined.Zippered shoulder pocket fits a beacon for quick access.Neoprene cuffs keep out water with Velcro\u00ae adjustments.Drop hem adds rear coverage.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164054233118/6013748-AGY12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162994188318/6013748-AGY12-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164054233118/6013748-AGY12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162994188318/6013748-AGY12-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164054233118/6013748-AGY12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162994188318/6013748-AGY12-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164054233118/6013748-AGY12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162994188318/6013748-AGY12-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mustang Survival Meris Jacket - Men's",
+  "product_code": "6013-748",
+  "source_url": "https://www.mec.ca/en/product/6013-748/Meris-Jacket",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details",
+      "2-way zipper"
+    ],
+    "Ideal for": [
+      "Paddleboarding",
+      "Canoeing",
+      "Kayaking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 handwarmer zippered",
+      "2 front cargo",
+      "1 zippered chest",
+      "1 arm zippered"
+    ]
+  }
+}

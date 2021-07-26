@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Sun protection",
+    "Lip balm",
+    "SPF 30 Lip Balm"
+  ],
+  "description": "Protect your lips, while treating them to some aloe vera and vitamin E.  Sun Bum\u2019s lip balms go on smooth, smell great, and keep your lips protected.Broad-spectrum UVA and UVB protection.Water-resistant rating of 80 minutes.Gluten and paraben free.Ingredients: avobenzone 2.00%, homosalate 15.00%, octinoxate 7.50%, octisalate 5.00%, adiphic acid / diglycol crosspolymer, aloe barbadensis leaf extract, ascorbic acid, bht, calendula officinalis flower extract, camellia sinensis leaf extract, caprylic / capric triglyceride, cetyl alcohol, citrus grandis (grapefruit) fruit extract, citrus medica limonum (lemon) fruit extract, cyclohexasiloxane, cyclopentasiloxane, diisobutyl adipate, dimethicone, equisetum arvense extract, ethylhexyl palmitate, fragrance, ginkgo biloba leaf extract, hydrate silica, isostearyl linoleate, macrocystis pyritera extract, mineral oil ozokerite, panax ginseng root extract, peg-8, polysorbate 80, propylene glycol, punica granatum extract, retinyl palmitate, rosmarinus officinalis (rosemary) extract, salix alba (willow) bark extract, salvia officinalis (sage) extract, sodium saccharin, theobroma cacao (cocoa) seed butter, tocopheryl acetate.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879372271646/5055313-NUT02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879372369950/5055313-KYL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879372271646/5055313-NUT02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879372369950/5055313-KYL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879372271646/5055313-NUT02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879372369950/5055313-KYL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879372271646/5055313-NUT02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879372369950/5055313-KYL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sun Bum SPF 30 Lip Balm",
+  "product_code": "5055-313",
+  "source_url": "https://www.mec.ca/en/product/5055-313/SPF-30-Lip-Balm",
+  "tech_specs": {
+    "Alcohol free\n\nAlcohol is a skin irritant, so alcohol-free sun products are better for sensitive skin.": [
+      "No"
+    ],
+    "Fragrance free": [
+      "No"
+    ],
+    "Hypoallergenic": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Beach",
+      "Travel",
+      "Everyday use"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Noncomedogenic\n\nNoncomedogenic skin care products are less likely to block pores.": [
+      "Yes"
+    ],
+    "PABA free": [
+      "No"
+    ],
+    "Reef and coral friendly\n\nFree of the two most common ingredients known to affect coral health (oxybenzone and octinoxate).": [
+      "No"
+    ],
+    "SPF": [
+      "30"
+    ],
+    "Type": [
+      "Lips"
+    ],
+    "Water/sweatproof": [
+      "Yes"
+    ]
+  }
+}

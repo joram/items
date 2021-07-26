@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country skate",
+    "Skate ski boots",
+    "RS Vitane Prolink Boots"
+  ],
+  "description": "Push off with confidence in Salomon's RS Vitane Prolink boot. With an ultra-supportive cuff, this boot provides solid lateral support in a trim but comfortable performance fit. The mouldable liners provide custom comfort, great for passionate skating enthusiasts who want proven performance.3-D mesh interior fabric wicks sweat to improve breathability.One-pull Quicklace system tightens precisely with polygliding hooks and a tough Kevlar lace.Adjustable heel strap keeps your feet locked in place.Active Energizer cuff offers progresive support that allows your muscles to relax and provide fast ski return.Fibreglass reinforced plastic chassis for strong heel support and torsional rigidity.Carbon skating plate provides power at the end of the kick.Narrow heel and instep volume suit smaller feet.Prolink soles are NNN and Prolink compatible and provide a low-profile boot\u2013binding connection for exceptional snow feel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137292738590/6011206-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137292738590/6011206-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon RS Vitane Prolink Boots - Women's",
+  "product_code": "6011-206",
+  "source_url": "https://www.mec.ca/en/product/6011-206/RS-Vitane-Prolink-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "NNN"
+    ],
+    "Hinged/high cuff": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Skate ski racing",
+      "Fitness skate skiing"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lace cover": [
+      "Yes"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ]
+  }
+}

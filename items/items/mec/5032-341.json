@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "Rock Lockster 20mm Dual Adjust Buckle"
+  ],
+  "description": "Replaces the male end of a 20mm buckle.Not compatible with all buckle styles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815568355358/5032341-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815568355358/5032341-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "National Molding Rock Lockster 20mm Dual Adjust Buckle",
+  "product_code": "5032-341",
+  "source_url": "https://www.mec.ca/en/product/5032-341/Rock-Lockster-20mm-Dual-Adjust-Buckle",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

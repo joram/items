@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Road maps and atlases",
+    "Canada Central Adventure Travel Map"
+  ],
+  "description": "Covers eastern Alberta to western Quebec, and as far north as southern Northwest Territories and southern Nunavut. Highlights hundreds of points of interest, and includes parks, historic locations, nature reserves, cities, towns, road networks, and some trails for those seeking more remote experiences. Waterproof and tear-resistant, so it can handle lots of folding and unfolding, and being jammed into your backpack.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815851372574/5033815-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815851372574/5033815-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "National Geographic Canada Central Adventure Travel Map",
+  "product_code": "5033-815",
+  "source_url": "https://www.mec.ca/en/product/5033-815/Canada-Central-Adventure-Travel-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Regionality": [
+      "Prairies",
+      "Ontario",
+      "Quebec"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

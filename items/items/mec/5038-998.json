@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike chain rings",
+    "Super Road Chainring (110mm/5-Bolt)"
+  ],
+  "description": "A precision-machined road ring with shifting ramps for smoothness and stainless steel pins on outer rings for durability.Made of CNC-machined 7075-T6 aluminum.110mm, 5-bolt.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806753894430/5038998-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806753894430/5038998-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "FSA Super Road Chainring (110mm/5-Bolt)",
+  "product_code": "5038-998",
+  "source_url": "https://www.mec.ca/en/product/5038-998/Super-Road-Chainring-%28110mm-5-Bolt%29",
+  "tech_specs": {
+    "Attachment": [
+      "5-bolts"
+    ],
+    "Bolt circle diameter\n\nBolt circle diameter (BCD): the diameter of an imaginary circle that intersects the centre of each chainring bolt.": [
+      "110mm"
+    ],
+    "Ideal for": [
+      "Sport road cycling",
+      "Performance and race road cycling",
+      "Cyclocross"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "7075-T6 aluminum"
+    ],
+    "Teeth": [
+      "50 (50 Tooth)"
+    ],
+    "Weight": [
+      "120g (50 Tooth)"
+    ]
+  }
+}

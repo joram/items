@@ -1,0 +1,88 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Climbing helmets",
+    "Crag Sender MIPS Helmet"
+  ],
+  "description": "There's no longer a reason to not protect your noggin. You hardly notice this lightweight and low-profile helmet when you're on your way to sending your project. In the event of an impact to the helmet, MIPS technology reduces the rotational forces to your head, helping prevent brain injury more effectively than your average climbing helmet. Large openings and an integrated air channel help you keep a cool head through cruxes.Kevlar reinforced shell provides lightweight impact protection.MIPS technology reduces rotational forces to the head in the event of an impact, lessening the potential damage to the brain.Large ventilation openings for air circulation.Padded interior adds comfort.Lightweight adjustment system reduces weight and provides a secure fit.2 clips and rear elastic for attaching a headlamp",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179616837662/6014805-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620835358/6014805-BK000-ALT-ADJUSTER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620900894/6014805-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620966430/6014805-BK000-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620999198/6014805-BK000-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179621097502/6014805-BK000-ALT-STRAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179621228574/6014805-BK000-ALT-VENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179616837662/6014805-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620835358/6014805-BK000-ALT-ADJUSTER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620900894/6014805-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620966430/6014805-BK000-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620999198/6014805-BK000-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179621097502/6014805-BK000-ALT-STRAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179621228574/6014805-BK000-ALT-VENTS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179616837662/6014805-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620835358/6014805-BK000-ALT-ADJUSTER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620900894/6014805-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620966430/6014805-BK000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620999198/6014805-BK000-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179621097502/6014805-BK000-ALT-STRAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179621228574/6014805-BK000-ALT-VENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179616837662/6014805-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620835358/6014805-BK000-ALT-ADJUSTER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620900894/6014805-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620966430/6014805-BK000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179620999198/6014805-BK000-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179621097502/6014805-BK000-ALT-STRAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179621228574/6014805-BK000-ALT-VENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mammut Crag Sender MIPS Helmet",
+  "product_code": "6014-805",
+  "source_url": "https://www.mec.ca/en/product/6014-805/Crag-Sender-MIPS-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Climbing"
+    ],
+    "Circumference\n\nThe internal circumference determines the size head that the helmet will fit.": [
+      "52-57cm (52-57cm)",
+      "56-61cm (56-61cm)"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Molded in the shell"
+    ],
+    "Fit system": [
+      "Dual ratchet system"
+    ],
+    "Headlamp compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Snow and ice climbing"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "EN 12492"
+    ],
+    "Shell material": [
+      "Aramid-reinforced plastic"
+    ],
+    "Vents": [
+      "Yes"
+    ],
+    "Weight": [
+      "229g (52-57cm)"
+    ]
+  }
+}

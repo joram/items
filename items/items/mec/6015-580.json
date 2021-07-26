@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike bags and trailers",
+    "Bike pannier racks",
+    "Hang On Front Rack"
+  ],
+  "description": "An easy-mounting rack for those days when you need to carry a little extra. The stable and secure design handles most bags and baskets.Tubular aluminum has a high strength-to-weight ratio.Handlebar hooks fit bars 22-32mm diameter.Hook and loop strap holds rack secure against bike.Coating at connection points protects rack and bike.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183657230366/6015580-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183657426974/6015580-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183664963614/6015580-BK000-ALT-BAG.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183664996382/6015580-BK000-ALT-BASKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183665291294/6015580-BK000-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183657230366/6015580-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183657426974/6015580-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183664963614/6015580-BK000-ALT-BAG.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183664996382/6015580-BK000-ALT-BASKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183665291294/6015580-BK000-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183657230366/6015580-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183657426974/6015580-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183664963614/6015580-BK000-ALT-BAG.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183664996382/6015580-BK000-ALT-BASKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183665291294/6015580-BK000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183657230366/6015580-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183657426974/6015580-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183664963614/6015580-BK000-ALT-BAG.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183664996382/6015580-BK000-ALT-BASKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183665291294/6015580-BK000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "BiKase Hang On Front Rack",
+  "product_code": "6015-580",
+  "source_url": "https://www.mec.ca/en/product/6015-580/Hang-On-Front-Rack",
+  "tech_specs": {
+    "Adjustable height\n\nThe rack's height can be adjusted to accommodate fenders and various wheel sizes.": [
+      "No"
+    ],
+    "Attachment type": [
+      "Handlebar hooks"
+    ],
+    "Disc brake compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Urban cycling"
+    ],
+    "Light/reflector bracket": [
+      "No"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum"
+    ],
+    "Mounting position": [
+      "Front"
+    ]
+  }
+}

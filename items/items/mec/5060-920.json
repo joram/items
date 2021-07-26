@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Crampons and components",
+    "Crampons",
+    "Skimo Nanotech Crampon"
+  ],
+  "description": "A lightweight and packable crampon for ski mountaineering and touring. The aluminum frame keeps the overall weight low, while the front points are reinforced with Sandvik Nanoflex steel for good penetration and resistance to wear. The T-Stop toe bail system and traditional heel bail attach quickly and provide bombproof fit on most AT ski boots.Made of lightweight aluminum with Sandvik Nanoflex steel alloy reinforcements for durability.10-point design for traction on technical snow.Automatic bindings with T-Stop toe bail system offer a secure attachment on most AT ski boots.Dynamic anti-balling plates prevent snow and ice buildup.Linking bar can be replaced with Dyneema strap (sold separately) to further reduce weight and increase packability.Protective carry bag and Torx key included.Fit boot sizes 36-46.CE and UIAA certified.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993067302942/5060920-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993066352670/5060920-NOC02-ALT-WITHSTRAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993067597854/5060920-NOC02-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993067302942/5060920-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993066352670/5060920-NOC02-ALT-WITHSTRAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993067597854/5060920-NOC02-ALT-HEEL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993067302942/5060920-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993066352670/5060920-NOC02-ALT-WITHSTRAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993067597854/5060920-NOC02-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993067302942/5060920-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993066352670/5060920-NOC02-ALT-WITHSTRAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993067597854/5060920-NOC02-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Skimo Nanotech Crampon",
+  "product_code": "5060-920",
+  "source_url": "https://www.mec.ca/en/product/5060-920/Skimo-Nanotech-Crampon",
+  "tech_specs": {
+    "Antibott included\n\nAnti-snow plates keep snow from balling underfoot.": [
+      "Yes"
+    ],
+    "Attachment system": [
+      "Step-in"
+    ],
+    "Boot sizes\n\nThe manufacturers' recommended boot size. Some crampons can be extended by changing the centre rail.": [
+      "36-46"
+    ],
+    "Front points": [
+      "Fixed"
+    ],
+    "Ideal for": [
+      "Ski mountaineering",
+      "Backcountry skiing"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Material": [
+      "Aluminum and steel"
+    ],
+    "Weight": [
+      "474g"
+    ]
+  }
+}

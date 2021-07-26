@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Radios and headphones",
+    "Headphones",
+    "Vista Wireless Sport Headphones"
+  ],
+  "description": "True wireless freedom from a pair of ultralight earphones. At only 6g per side, it is easy to forget you\u2019re wearing the Vista Sport earphones. Re-engineered drivers deliver immersive sound with crisp detail and low distortion. Bluetooth 5.0 has impressive range, great when you leave your phone on the sidelines. The carrying case secures your earphones with a little magnet, and it  adds up to 10 hours of playback power.6-hour battery life can be extended with charging case.Magnetic case secures your earphones and doubles as a charging dock for up to 10 hours of power.Quick charge boosts gives you 1 hour of playback in 5 minutes.LED indicator lets you know when your earphones and case are good to go.Charging case charges in 2 hours via USB-C.3 sizes of interchangeable silicone ear gels.Bluetooth 5.0 pairs quickly and easily, has multi-point pairing, has a huge 40m range and uses less power.Free Jaybird app lets you customize EQ settings, community support, button controls and more.Integrated microphone and buttons to control music and take calls.IPX7 waterproofing protects your earphones from sweat, rain and splashes.In the box: Vista earphones, 3 different sizes of custom fit ear gels, charging case, USB-C charging cable and documentation.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146821967902/6009236-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146814693406/6009236-BK000-ALT-CASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146814824478/6009236-BK000-ALT-EARBUDS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146814857246/6009236-BK000-ALT-SIZE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146821967902/6009236-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146814693406/6009236-BK000-ALT-CASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146814824478/6009236-BK000-ALT-EARBUDS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146814857246/6009236-BK000-ALT-SIZE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146821967902/6009236-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146814693406/6009236-BK000-ALT-CASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146814824478/6009236-BK000-ALT-EARBUDS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146814857246/6009236-BK000-ALT-SIZE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146821967902/6009236-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146814693406/6009236-BK000-ALT-CASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146814824478/6009236-BK000-ALT-EARBUDS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146814857246/6009236-BK000-ALT-SIZE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Jaybird Vista Wireless Sport Headphones",
+  "product_code": "6009-236",
+  "source_url": "https://www.mec.ca/en/product/6009-236/Vista-Wireless-Sport-Headphones",
+  "tech_specs": {
+    "Bluetooth": [
+      "Yes"
+    ],
+    "Frequency response": [
+      "20Hz-20kHz"
+    ],
+    "Ideal for": [
+      "Fitness and training",
+      "Running",
+      "Everyday use"
+    ],
+    "Inline control": [
+      "Yes"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Microphone": [
+      "Internal mic"
+    ],
+    "Product sustainability": [
+      "Rechargeable batteries"
+    ]
+  }
+}

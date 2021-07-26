@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Eating utensils and cutlery sets",
+    "Pioneer Tablespoon"
+  ],
+  "description": "Classic enamelware cutlery that looks good in camp, at home or in a cabin.Full-length stainless steel tang construction.Classic speckled finish.Chip and scratch resistant.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812598919198/5046064-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812598919198/5046064-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Pioneer Tablespoon",
+  "product_code": "5046-064",
+  "source_url": "https://www.mec.ca/en/product/5046-064/Pioneer-Tablespoon",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Length": [
+      "20cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Packed length": [
+      "20cm"
+    ],
+    "Weight": [
+      "57g"
+    ]
+  }
+}

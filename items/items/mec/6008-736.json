@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Swim fitness",
+    "Performance swim and lap suits",
+    "Hexa Cove Bikini Bottom"
+  ],
+  "description": "An athletic style bikini bottom for for swim training, beach volleyball, paddleboarding and other shoreline pursuits.Made of TYR's Durafast Elite polyester and spandex that's chlorine-resistant and gives a sleek fit.Coordinates with the Hexa Trinity Bikini Top.Moderate coverage",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070899658782/6008736-NVD05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908735518/6008736-NVD05-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908768286/6008736-NVD05-ALT-FLATBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908801054/6008736-NVD05-ALT-FLATFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070899658782/6008736-NVD05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908735518/6008736-NVD05-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908768286/6008736-NVD05-ALT-FLATBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908801054/6008736-NVD05-ALT-FLATFRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070899658782/6008736-NVD05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908735518/6008736-NVD05-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908768286/6008736-NVD05-ALT-FLATBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908801054/6008736-NVD05-ALT-FLATFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070899658782/6008736-NVD05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908735518/6008736-NVD05-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908768286/6008736-NVD05-ALT-FLATBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908801054/6008736-NVD05-ALT-FLATFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "TYR Hexa Cove Bikini Bottom - Women's",
+  "product_code": "6008-736",
+  "source_url": "https://www.mec.ca/en/product/6008-736/Hexa-Cove-Bikini-Bottom",
+  "tech_specs": {
+    "Fabric content": [
+      "94% polyester",
+      "6% spandex"
+    ],
+    "Ideal for": [
+      "Watersports",
+      "Paddleboarding",
+      "Snorkelling",
+      "Beach"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

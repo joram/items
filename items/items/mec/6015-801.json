@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Merino Sport 150 Sunset Stream Graphic T-Shir"
+  ],
+  "description": "Sunsets over snowy peaks are some of the best, it\u2019s a fact. Smartwool quick-drying Sport 150 material wicks moisture away from your body and dries quickly to keep you comfortable. Its natural odor resistance lets you extend the gap between laundry days.Jersey knit merino wool with a nylon core is durable and keeps wool next to your skin.Fine gauge merino wool in front.Rated at UPF 20+ to block 93% of harsh UV.Flatlock finishing and offset seams add comfort while wearing a pack.Regular fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189249384478/6015801-DUS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189251416094/6015801-DUS00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189251481630/6015801-DUS00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189249384478/6015801-DUS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189251416094/6015801-DUS00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189251481630/6015801-DUS00-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189249384478/6015801-DUS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189251416094/6015801-DUS00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189251481630/6015801-DUS00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189249384478/6015801-DUS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189251416094/6015801-DUS00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189251481630/6015801-DUS00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Merino Sport 150 Sunset Stream T-Shirt - Women's",
+  "product_code": "6015-801",
+  "source_url": "https://www.mec.ca/en/product/6015-801/Merino-Sport-150-Sunset-Stream-Graphic-T-Shir",
+  "tech_specs": {
+    "Fabric content": [
+      "56% merino wool",
+      "44% polyester"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "150gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "15-24 (Blocks ~93% of UVA/UVB)"
+    ]
+  }
+}

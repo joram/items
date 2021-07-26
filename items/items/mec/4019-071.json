@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Marine navigation",
+    "Maps",
+    "La Mauricie National Park Map"
+  ],
+  "description": "The colourful La Mauricie National Park is located in the Laurentians north of Trois-Rivieres in Quebec. It features 150km of hiking and backpacking trails, from short walks to the rugged and challenging 75km Laurentian Trail. There are about 200 lakes and rivers in the park for canoe trips. Printed on waterproof paper, with  15m contours, and information on natural and human history, and route descriptions.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815824994334/4019071-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815824994334/4019071-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Map La Mauricie National Park Map",
+  "product_code": "4019-071",
+  "source_url": "https://www.mec.ca/en/product/4019-071/La-Mauricie-National-Park-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Canoeing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Quebec"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

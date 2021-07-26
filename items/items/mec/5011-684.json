@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Edge tuning tools",
+    "Diamond Stone (Fine/Red)"
+  ],
+  "description": "Diamond stone in a plastic support for quick ski de-tuning, de-burring and removal of work-hardened (read: rock damaged) edge material.For fine work and finishing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817174741022/5011684-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817174741022/5011684-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kuu Diamond Stone (Fine/Red)",
+  "product_code": "5011-684",
+  "source_url": "https://www.mec.ca/en/product/5011-684/Diamond-Stone-%28Fine-Red%29",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Off-track touring",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "30g"
+    ]
+  }
+}

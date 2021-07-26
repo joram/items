@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling bottoms",
+    "Bibshorts and bibtights",
+    "Entrata Bib Shorts"
+  ],
+  "description": "Ride for longer. The more comfortable you are, the longer you'll want to ride. These performance bibs feature moisture wicking fabrics and a chamois to relieve pressure in the saddle. They provide light compression to reduce muscle fatigue when you're pushing your limits.Breathable mesh bib straps sit comfortably under a jersey.KISS Air chamois dampens vibrations and cushions your ride.Pro Dry fabric with spandex provides light compression and great moisture management.Body-mapped design combines 8 panels for a great fit in riding position.Gripped hem prevents slippage at the leg.Reflective details.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160494317598/6008342-SAB06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084991275038/6008342-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084995960862/6008342-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160494317598/6008342-SAB06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084991275038/6008342-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084995960862/6008342-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160494317598/6008342-SAB06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084991275038/6008342-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084995960862/6008342-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160494317598/6008342-SAB06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084991275038/6008342-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084995960862/6008342-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Castelli Entrata Bib Shorts - Men's",
+  "product_code": "6008-342",
+  "source_url": "https://www.mec.ca/en/product/6008-342/Entrata-Bib-Shorts",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Antimicrobial treatment",
+      "Reflective details"
+    ],
+    "Chamois": [
+      "Yes"
+    ],
+    "Gripper elastic\n\nGripper elastics prevent the cycling shorts from riding up and leg and arm warmers from sliding down.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Sport road cycling",
+      "Performance and race road cycling"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Weight": [
+      "175g (Medium)"
+    ]
+  }
+}

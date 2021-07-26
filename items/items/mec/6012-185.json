@@ -1,0 +1,96 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Spanish Scrambled Eggs"
+  ],
+  "description": "Delicious scrambled eggs to start your day, all you need to add is water and a little strategically applied heat.Ingredients: dried powdered eggs, skimmed milk powder, wheat flour, dehydrated vegetables (tomato, onion, green bell pepper), baking powder, garlic powder, onion powder, salt, dried parsley, spices.May contain: nuts, peanuts, sesame, fish, sea food, soy and mustard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143679909918/6012185-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143691411486/6012185-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143679909918/6012185-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143691411486/6012185-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143679909918/6012185-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143691411486/6012185-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143679909918/6012185-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143691411486/6012185-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Spanish Scrambled Eggs",
+  "product_code": "6012-185",
+  "source_url": "https://www.mec.ca/en/product/6012-185/Spanish-Scrambled-Eggs",
+  "tech_specs": {
+    "Calories per serving": [
+      "340Cal"
+    ],
+    "Carbohydrates": [
+      "21g"
+    ],
+    "Cholesterol": [
+      "675mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "No"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "3g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "26g"
+    ],
+    "Saturated fat": [
+      "5g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "750mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "12g"
+    ],
+    "Total fat": [
+      "17g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "70g"
+    ]
+  }
+}

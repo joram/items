@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Caps",
+    "Hummingbird Hat"
+  ],
+  "description": "Put a bird on it.Brim is made of organically grown cotton. Front panel is polyester.Mesh back keeps you cool.Adjustable snaps for a custom fit.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168640704542/6012427-VLT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168640475166/6012427-TEL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168640704542/6012427-VLT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168640475166/6012427-TEL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168640704542/6012427-VLT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168640475166/6012427-TEL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168640704542/6012427-VLT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168640475166/6012427-TEL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ambler Hummingbird Hat - Women's",
+  "product_code": "6012-427",
+  "source_url": "https://www.mec.ca/en/product/6012-427/Hummingbird-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ],
+    "Secondary fabric": [
+      "100% organically grown cotton"
+    ]
+  }
+}

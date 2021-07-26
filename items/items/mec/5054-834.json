@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Bike chain service",
+    "Bike Chain Cleaner and Degreaser"
+  ],
+  "description": "A new twist on a classic. WD-40 Bike Chain cleaner and degreaser is a powerfull tool to keep your bike going strong.Foaming action dissolves and removes grease from frames and drivetrains.Thick biodegradable, non citrus based formula won't damage carbon fiber, titanium, aluminum, steel, chrome, rubber or plastic.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8874572480542/5054834-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8874572480542/5054834-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "WD-40 Bike Chain Cleaner and Degreaser",
+  "product_code": "5054-834",
+  "source_url": "https://www.mec.ca/en/product/5054-834/Bike-Chain-Cleaner-and-Degreaser",
+  "tech_specs": {
+    "Biodegradable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "283g"
+    ]
+  }
+}

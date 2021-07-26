@@ -1,0 +1,93 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Mugs, cups and dishes",
+    "Camping drinkware",
+    "Camping mugs and cups",
+    "Infinity Backpacker Mug"
+  ],
+  "description": "Keep this multi-purpose mug uncovered as you hold your red wine up to the evening sun. Come morning, slip on its little nylon sweater to keep your java warm.Clear polypropylene material is recyclable.Press-fit sip-it lid reduces spills and holds in heat.Insulating sleeve with soft handle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192194506782/6012778-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514300958/6012778-RED00-ALT-PARTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192801796126/6012778-RED00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514432030/6012778-GRN00-ALT-PARTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192801697822/6012778-GRN00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514038814/6012778-BL000-ALT-PARTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192801501214/6012778-BL000-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192194277406/6012778-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192194244638/6012778-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192194506782/6012778-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514300958/6012778-RED00-ALT-PARTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192801796126/6012778-RED00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514432030/6012778-GRN00-ALT-PARTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192801697822/6012778-GRN00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514038814/6012778-BL000-ALT-PARTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192801501214/6012778-BL000-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192194277406/6012778-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192194244638/6012778-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192194506782/6012778-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514300958/6012778-RED00-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192801796126/6012778-RED00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514432030/6012778-GRN00-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192801697822/6012778-GRN00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514038814/6012778-BL000-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192801501214/6012778-BL000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192194277406/6012778-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192194244638/6012778-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192194506782/6012778-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514300958/6012778-RED00-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192801796126/6012778-RED00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514432030/6012778-GRN00-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192801697822/6012778-GRN00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514038814/6012778-BL000-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192801501214/6012778-BL000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192194277406/6012778-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192194244638/6012778-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Infinity Backpacker Mug",
+  "product_code": "6012-778",
+  "source_url": "https://www.mec.ca/en/product/6012-778/Infinity-Backpacker-Mug",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Diameter": [
+      "9.1cm"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lid type": [
+      "Press-fit",
+      "Drink-through top"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Polypropylene"
+    ],
+    "Volume": [
+      "500ml"
+    ],
+    "Weight": [
+      "99g"
+    ]
+  }
+}

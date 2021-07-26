@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid supplies",
+    "Ankle Wrap"
+  ],
+  "description": "Moderate support for ankle sprains and fits comfortably inside your shoe. The neoprene sleeve and figure-8 elastic wrap work together to stabilize your ankle joint to prevent sudden twists or turns that could make injuries worse.Small fits men\u2019s shoe size 5-7, women\u2019s 6-7.Medium fits men\u2019s shoe size 7-10, women\u2019s 8-10.Large fits men\u2019s shoe size 11-14, women\u2019s 10-13.If you have larger ankles, it\u2019s recommended to go one size up.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810020077598/5049403-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810020077598/5049403-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810020077598/5049403-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810020077598/5049403-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pro-Tec Athletics Ankle Wrap",
+  "product_code": "5049-403",
+  "source_url": "https://www.mec.ca/en/product/5049-403/Ankle-Wrap",
+  "tech_specs": {
+    "Ideal for": [
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

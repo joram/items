@@ -1,0 +1,69 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Camp stoves and grills",
+    "Backcountry stoves",
+    "Liquid fuel and white gas stoves",
+    "Luna Satellite Burner"
+  ],
+  "description": "Add a compact satellite burner to a JetLink Genesis or Eureka Spire stove, so you can increase your capacity to melt snow, boil water or cook extra servings. This burner is designed to use with JetBoil FluxRing pots, and has the same bayonet mounting system found on JetBoil stoves.Uses JetBoil FluxRing pots.Attaches only to JetBoil/Eureka! Multi-burner JetLink.Packs down small into most JetBoil pots.Stable, low-to-the-ground design.Push button piezo ignition.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812657672222/5045984-ORG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812657672222/5045984-ORG00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812657672222/5045984-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812657672222/5045984-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Jetboil Luna Satellite Burner",
+  "product_code": "5045-984",
+  "source_url": "https://www.mec.ca/en/product/5045-984/Luna-Satellite-Burner",
+  "tech_specs": {
+    "Burner components": [
+      "Aluminum",
+      "Steel"
+    ],
+    "Dimensions": [
+      "9.5\u00a0x\u00a09.5\u00a0x\u00a07cm"
+    ],
+    "Fuel\n\nStoves are designed to burn specific fuels. All stoves should only be used with recommended fuels to prevent damage.": [
+      "LPG"
+    ],
+    "Fuel pump\n\nLiquid fuel stoves require a fuel pump to pressurize the fuel tank.": [
+      "No"
+    ],
+    "Heat reflector\n\nHeat reflectors are placed under the burner and reflect heat back up towards the cooking pot. This helps save fuel and speed cooking time.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output\n\nThe output of any heat generating device is shown in BTUs (British Thermal Units) which measure the amount of heat energy needed to raise the temperature of 1lb. of water by 1\u00b0F.": [
+      "6000BTU"
+    ],
+    "Piezo ignition": [
+      "Yes"
+    ],
+    "Pot included": [
+      "No"
+    ],
+    "Simmers": [
+      "No"
+    ],
+    "Weight": [
+      "192g"
+    ],
+    "Windscreen": [
+      "Yes"
+    ]
+  }
+}

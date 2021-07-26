@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shirts and tops",
+    "Short sleeved training shirts",
+    "Stealth Short Sleeve T-Shirt"
+  ],
+  "description": "Stay focused on your stride. This race-day shirt is a performer. Wicks, stays dry and lays softly against your skin to minimize chafing.DriLayer polyester wicks sweat and dries fast to keep you comfortable and dry.Fitted to be snug against your body for a full range of motion without getting in the way.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133924352030/5058779-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928513566/5058779-BK000-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133924352030/5058779-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928513566/5058779-BK000-ALT-MODEL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133924352030/5058779-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928513566/5058779-BK000-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133924352030/5058779-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928513566/5058779-BK000-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Brooks Stealth Short Sleeve T-Shirt - Men's",
+  "product_code": "5058-779",
+  "source_url": "https://www.mec.ca/en/product/5058-779/Stealth-Short-Sleeve-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Made in": [
+      "Vietnam"
+    ]
+  }
+}

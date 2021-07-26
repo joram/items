@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Footprints",
+    "Homestead Roomy 2 Footprint"
+  ],
+  "description": "Protect the floor of The North Face Stormbreak 3 or Homestead Roomy 2 Tent from wear, tear and sharp objects. Lets you replace the inexpensive footprint rather than the pricier tent body.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024403537950/5064231-CAS18.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024403537950/5064231-CAS18.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Homestead Roomy 2 Footprint",
+  "product_code": "5064-231",
+  "source_url": "https://www.mec.ca/en/product/5064-231/Homestead-Roomy-2-Footprint",
+  "tech_specs": {
+    "Attachment": [
+      "Grommets + nylon tabs"
+    ],
+    "Fabric": [
+      "Polyester"
+    ],
+    "Floor waterproofness\n\nThe standard test for coated fabrics uses a standing pipe (column) filled with water. The figures given are the water column height. A 1000mm coating allowed no leaks after 1 minute under 1000mm of water.": [
+      "2000mm"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Waterproof treatment": [
+      "Polyurethane-coated"
+    ],
+    "Weight": [
+      "255g"
+    ]
+  }
+}

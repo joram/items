@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Gloves and mittens",
+    "Mitts",
+    "Las Lenas Mitts"
+  ],
+  "description": "These nice warm mitts are surprisingly flexible to let you operate door handles, keys, and zippers without having to take them off.Shells are palms are durable, flexible leather that is resistant to wind and water.Thinsulate\u00ae insulation provides warmth without bulk.Lining is textured polyester fleece for comfort and warmth.Knitted wrists slide under your jacket sleeves.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798051041310/5037640-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798051041310/5037640-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Auclair Las Lenas Mitts - Women's",
+  "product_code": "5037-640",
+  "source_url": "https://www.mec.ca/en/product/5037-640/Las-Lenas-Mitts",
+  "tech_specs": {
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Insulation": [
+      "Heavy"
+    ],
+    "Liner fabric": [
+      "100% polyester"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "100% leather"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Leather"
+    ],
+    "Touchscreen compatible": [
+      "No"
+    ],
+    "Type": [
+      "Mittens"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

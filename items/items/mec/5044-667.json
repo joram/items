@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Dry bags",
+    "aLOKSAK Element Proof Bag Multipack"
+  ],
+  "description": "Protect valuables, books, toiletries and electronics, by storing them in these durable, watertight storage bags with aLOKSAK's new double zip-closure.Made of durable 6mm polyethylene blended film that's similar to PVC of the same thickness, but with a lower cold-crack tolerance.Easy to use double zip-closures keep water, dust, and sand from harming your stuff.Soft-sided, they hold objects of all shapes and sizes.Certified waterproof to 60m.Set includes 4 bags: 10 x 18cm, 15 x 15cm,  23 x 15cm,  and 30 x 30cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817491542046/5044667-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817491542046/5044667-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Loksak aLOKSAK Element Proof Bag Multipack",
+  "product_code": "5044-667",
+  "source_url": "https://www.mec.ca/en/product/5044-667/aLOKSAK-Element-Proof-Bag-Multipack",
+  "tech_specs": {
+    "IPX rating\n\nIndicates the degree of protection against liquid. IP X1: Dripping water while in normal operating orientation; IP X4: Splashing water; IP X5: Water jets; IP X6: Powerful water jets; IP X7: Immersion up to 1m \u2264 30 minutes; IP X8: Suitable for submersion as specified by manufacturer.": [
+      "Not IPX rated"
+    ],
+    "Ideal for": [
+      "Watersports"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Ruggedness\n\nFair: made of lightweight materials and designed to be carried inside another bag. Good: strikes a balance between light weight and durability. Excellent: made of heavy duty materials and designed to be carried alone. Exceptional: made of ultra-tough materials and designed to withstand abuse.": [
+      "Fair"
+    ],
+    "Submersible": [
+      "Yes"
+    ],
+    "Waterproofness\n\nWaterproof bags and cases are made with waterproof materials and have waterproof closures. Some are designed to be submersible. Water-resistant bags and cases are made with waterproof materials, but water could sneak in through the seams or closure.": [
+      "Waterproof"
+    ],
+    "Weight": [
+      "58g"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Daypacks and school bags",
+    "School and office packs",
+    "Atom Pack 18L"
+  ],
+  "description": "Consider this your default pack for weekend wanders, day trips, light hikes and far away travels. Sleek and minimalist, the Atom hits the perfect balance of organization and comfort. Stash your lunch, camera, light jacket and compact laptop and get moving.Main fabric is durable 630-denier nylon with 50% recycled content and a DWR finish to shed light rain.Padded shoulder straps have airflow-mesh backing for breezy comfort.Top-mounted, reinforced haul handle.Internal sleeve holds most tablets or 13in. laptops.Zippered front stash pocket holds quick-access items.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8886897999902/5053296-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8886897999902/5053296-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8886897999902/5053296-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8886897999902/5053296-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Atom Pack 18L - Unisex",
+  "product_code": "5053-296",
+  "source_url": "https://www.mec.ca/en/product/5053-296/Atom-Pack-18L",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Clamshell zip"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Dynamic suspension\n\nThe hipbelt and/or shoulder straps of the pack are designed to move, pivot or flex to follow your body\u2019s movements.  Each brand uses their own technology.": [
+      "No"
+    ],
+    "Hipbelt": [
+      "None"
+    ],
+    "Ideal for": [
+      "School",
+      "Office",
+      "Travel"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "630-denier nylon"
+    ],
+    "Padded sleeve fits most\n\nA padded slot to fit electronics or laptops, it may be partially or fully padded on each side.": [
+      "13-inch laptop",
+      "tablet"
+    ],
+    "Secondary fabric": [
+      "200-denier polyester"
+    ],
+    "Ventilated back panel": [
+      "No"
+    ],
+    "Volume": [
+      "18L"
+    ],
+    "Weight": [
+      "488g"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Long sleeved shirts",
+    "Distance Long Sleeve Top"
+  ],
+  "description": "A semi-relaxed fit keeps you in the zone when adding mileage to your runs. Sweat-wicking technology and soft fabric add a touch of comfort.DriLayer recycled polyester and lyocell blend is quick-drying and soft.Fabric wicks sweat away from skin to keep you comfortable.Semi-fitted to contour to your body and let you move freely.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135608954910/6012432-HAA05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133931954206/6012432-HAA05-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135624159262/6012432-HAA05-ALT-MODELFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135624323102/6012432-HAA05-ALT-MODELBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135608954910/6012432-HAA05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133931954206/6012432-HAA05-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135624159262/6012432-HAA05-ALT-MODELFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135624323102/6012432-HAA05-ALT-MODELBACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135608954910/6012432-HAA05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133931954206/6012432-HAA05-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135624159262/6012432-HAA05-ALT-MODELFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135624323102/6012432-HAA05-ALT-MODELBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135608954910/6012432-HAA05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133931954206/6012432-HAA05-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135624159262/6012432-HAA05-ALT-MODELFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135624323102/6012432-HAA05-ALT-MODELBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Brooks Distance Long Sleeve Top - Men's",
+  "product_code": "6012-432",
+  "source_url": "https://www.mec.ca/en/product/6012-432/Distance-Long-Sleeve-Top",
+  "tech_specs": {
+    "Fabric content": [
+      "88% recycled polyester",
+      "12% lyocell"
+    ],
+    "Ideal for": [
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

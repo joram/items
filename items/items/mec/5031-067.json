@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fuel",
+    "Isopro Fuel Canister"
+  ],
+  "description": "For use with MSR\u00ae canister stoves, the fuel is clean-burning, 80/20 blend of Isobutane and propane. The 110-gram canister has a narrow diameter that fits inside 1L Reactor pots and most solo-sized pots.Fuel maintains pressure from 55psi per gram down to 30psi per gram, so it functions well even as the canister empties.Self-sealing Lindal valve.Canister fits inside most individual sized pots.Contains 110g of fuel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8861219553310/5031067-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8861219553310/5031067-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Isopro Fuel Canister",
+  "product_code": "5031-067",
+  "source_url": "https://www.mec.ca/en/product/5031-067/Isopro-Fuel-Canister",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ],
+    "Shelf life (opened)": [
+      "60mo"
+    ],
+    "Shelf life (sealed)": [
+      "60mo"
+    ],
+    "Weight": [
+      "212g"
+    ]
+  }
+}

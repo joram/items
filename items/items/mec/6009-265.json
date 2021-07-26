@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Long sleeved shirts",
+    "Fair Trade Long Sleeve T-Shirt"
+  ],
+  "description": "Organic cotton tee comfort, but with a little more coverage.Soft organic cotton jersey breathes well.Slim fit has a trim, athletic profile.\n\n        Sustainability\n\n\n\n\n\n\nFairTrade\n\n\n\n\n\n\n\n\n\n\n\n                      Certified Fair Trade\n\n\n\n\n\n\n\n\nBluesign\n\n\n\n\n\n\n\n\n\n\n\n                      Bluesign\u00ae Approved Material\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590631966/6009265-VIP14.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182586863646/6009265-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590599198/6009265-NOB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590566430/6009265-GRY02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590533662/6009265-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590631966/6009265-VIP14.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182586863646/6009265-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590599198/6009265-NOB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590566430/6009265-GRY02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590533662/6009265-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590631966/6009265-VIP14.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182586863646/6009265-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590599198/6009265-NOB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590566430/6009265-GRY02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590533662/6009265-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590631966/6009265-VIP14.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182586863646/6009265-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590599198/6009265-NOB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590566430/6009265-GRY02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182590533662/6009265-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Fair Trade Long Sleeve T-Shirt - Men's",
+  "product_code": "6009-265",
+  "source_url": "https://www.mec.ca/en/product/6009-265/Fair-Trade-Long-Sleeve-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "155gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Product sustainability": [
+      "Certified Fair Trade",
+      "Bluesign\u00ae Approved Material",
+      "Organically grown content"
+    ]
+  }
+}

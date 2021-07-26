@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Boardshorts",
+    "Beda Board Shorts"
+  ],
+  "description": "Fast-drying board shorts for those obsessed by waves. A secure lace-up front keeps them in place and back zip pocket holds small essentials.Lightweight moisture wicking fabric.Hook and loop closure with zipper fly.Supplex\u00ae non-stretch waistband keeps shorts fitting securely.Rear zippered key pocket.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191091634206/6016070-SAL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858377758/6016070-SAL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191092060190/6016070-SAL00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191118864414/6016070-SAL00-ALT-SIDEPPL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191091634206/6016070-SAL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858377758/6016070-SAL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191092060190/6016070-SAL00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191118864414/6016070-SAL00-ALT-SIDEPPL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191091634206/6016070-SAL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858377758/6016070-SAL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191092060190/6016070-SAL00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191118864414/6016070-SAL00-ALT-SIDEPPL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191091634206/6016070-SAL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858377758/6016070-SAL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191092060190/6016070-SAL00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191118864414/6016070-SAL00-ALT-SIDEPPL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "NRS Beda Board Shorts - Women's",
+  "product_code": "6016-070",
+  "source_url": "https://www.mec.ca/en/product/6016-070/Beda-Board-Shorts",
+  "tech_specs": {
+    "Fabric content": [
+      "85% recycled polyester",
+      "15% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "5in. (M)"
+    ],
+    "Ideal for": [
+      "Watersports"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Pockets": [
+      "1 back zippered"
+    ]
+  }
+}

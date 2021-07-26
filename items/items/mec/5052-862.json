@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Accessory carabiners and key holders",
+    "SlideLock Carabiner"
+  ],
+  "description": "A handy little stainless steel accessory carabiner with one key difference, it locks.  Get peace of mind, knowing your stuff is exactly where you clipped it.Dimensions are: #2, 4.4 x 2.8cm and #4, 5 x 7.8cm.Weight rating: #2, 4.5kg and #4, 34kgNot for climbing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853926084638/5052862-SNL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163456030/5052862-SNL00-ALT-HANGING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163488798/5052862-SNL00-ALT-PACKING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853926084638/5052862-SNL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163456030/5052862-SNL00-ALT-HANGING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163488798/5052862-SNL00-ALT-PACKING.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853926084638/5052862-SNL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163456030/5052862-SNL00-ALT-HANGING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163488798/5052862-SNL00-ALT-PACKING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853926084638/5052862-SNL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163456030/5052862-SNL00-ALT-HANGING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163488798/5052862-SNL00-ALT-PACKING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nite Ize SlideLock Carabiner",
+  "product_code": "5052-862",
+  "source_url": "https://www.mec.ca/en/product/5052-862/SlideLock-Carabiner",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

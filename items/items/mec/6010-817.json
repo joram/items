@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tools",
+    "Akila Hammer Ice Axe"
+  ],
+  "description": "Light enough to not weigh you down, with enough technical punch for short ice cruxes or couloirs. The Akila is great for winters that involve skimo and alpine adventures. The chromoly steel head resists wear and provides good penetration.One-piece chomoly steel head.Sandblasted curved aluminum shaft with a textured grip.Sliding pommel is adjustable for varying terrain.Includes pick and spike protectors.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9178590674974/6010817-PTR06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9178592411678/6010817-PTR06-ALT-HAMMER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9178590674974/6010817-PTR06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9178592411678/6010817-PTR06-ALT-HAMMER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9178590674974/6010817-PTR06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9178592411678/6010817-PTR06-ALT-HAMMER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9178590674974/6010817-PTR06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9178592411678/6010817-PTR06-ALT-HAMMER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Blue Ice Akila Hammer Ice Axe",
+  "product_code": "6010-817",
+  "source_url": "https://www.mec.ca/en/product/6010-817/Akila-Hammer-Ice-Axe",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Hammer"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Ski mountaineering"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "49cm"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Removable pick": [
+      "No"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "B-rated"
+    ],
+    "Weight": [
+      "345g"
+    ]
+  }
+}

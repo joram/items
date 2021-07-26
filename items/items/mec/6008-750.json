@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Swim fitness",
+    "Performance swim and lap suits",
+    "Hexa Trinity Bikini Top"
+  ],
+  "description": "A sleek top that's equally at home setting the spike or rounding the buoy.Made of TYR's Durafast Elite polyester and spandex that's chlorine-resistant and gives a sleek fit.Coordinates with the Hexa Cove Bikini bottom.Open back is triple bound for breathability without sacrificing stability.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070900019230/6008750-NVD05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908833822/6008750-NVD05-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908866590/6008750-NVD05-ALT-FLATBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908964894/6008750-NVD05-ALT-FLATFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070900019230/6008750-NVD05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908833822/6008750-NVD05-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908866590/6008750-NVD05-ALT-FLATBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908964894/6008750-NVD05-ALT-FLATFRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070900019230/6008750-NVD05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908833822/6008750-NVD05-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908866590/6008750-NVD05-ALT-FLATBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908964894/6008750-NVD05-ALT-FLATFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070900019230/6008750-NVD05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908833822/6008750-NVD05-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908866590/6008750-NVD05-ALT-FLATBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908964894/6008750-NVD05-ALT-FLATFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "TYR Hexa Trinity Bikini Top - Women's",
+  "product_code": "6008-750",
+  "source_url": "https://www.mec.ca/en/product/6008-750/Hexa-Trinity-Bikini-Top",
+  "tech_specs": {
+    "Fabric content": [
+      "94% polyester",
+      "6% spandex"
+    ],
+    "Ideal for": [
+      "Watersports",
+      "Paddleboarding",
+      "Snorkelling",
+      "Beach"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

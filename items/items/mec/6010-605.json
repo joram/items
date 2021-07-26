@@ -1,0 +1,152 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike computers",
+    "Heart rate monitor watches",
+    "3 Watch"
+  ],
+  "description": "Don\u2019t weigh yourself down with more tech. Suunto\u2019s 3 series uses the GPS you\u2019re already carrying (your phone) to collect training data. The free Suunto app lets your phone communicate with your watch to send notifications, reminders and messages. An optical heart rate monitor takes pulse information straight off your wrist, doing away with the need to wear a finicky chest strap. As it learns your current activity level, the 3 provides you with a personalized training plan that offers live updates, letting you know when to go harder or to slow down. It also adapts if you miss a workout, or if you crush it a bit harder than you have before. If a training plan isn\u2019t your style, the 3 series is has 70 different activity profiles. When you're not training, the activity tracker trackd your steps and calories, and monitors the quality of your sleep. It then takes all of your data into consideration when calculating recovery times and tracking progress.Optical heart rate monitor (version 1.2), provides reliable constant heart rate data, and allows you to train without a chest strap, even while swimming!Optical heart rate sensors measure changes in blood volume under the skin, and work best when worn snugly, 1 to 3 finger-widths above your wrist bone.Spot check your heart rate at any point and receive a graph of 10 minutes\u2019 or 12 hours\u2019 worth of heart rate data. During an activity, heart rate data is collected every second.Personalized training plans help you train for maximum efficiency, and adapt on the fly to your output.70 sport modes, from running, swimming, cycling and more.FusedSpeed\u2122 combines GPS and accelerometer data to provide a more stable running pace.Internal accelerometer tracks your running pace and distance on those days you want to leave the phone at home.Physiological metrics include VO2 max estimate and recovery advisor.Burner mode shows how fast yoo're burning grams of fat and carbohydrates.Free Suunto app lets you review training sessions and customize your 3 series experience.Export completed workout data (.gpx files) through the free Sport Tracker app.Stress levels monitor heart rate variability while inactive to produce a stress evaluation: the lower the score, the lower your stress.24/7 activity tracking lets it learn your activity level and guide you towards a more active lifestyle.Records and logs up to 7 days worth of step and calorie data.Sleep tracking mode monitors and reports on rest and total sleep hours. Up to 7 days of sleep data.No GPS means light and slim. At just 14mm high and 36g,.Bluetooth Smart connects to fitness sensors, from heart rate monitors to bike speed and cadence sensors, as well as smartphones featuring Bluetooth 4.0. Note: 3 Fitness will only connect to Bluetooth Smart sensors.Automatically syncs data to paired smartphones running the free Suunto app.Suunto app grants access to the included Suunto Value Pack, giving you premium access to some of the most popular training apps on the market, including: 60-day Strava Summit trial, 30-day Training Peaks premium membership, 3-months of Relive club, a 90-day SportTracks membership and more.Smart notifications (emails, texts, alerts and more) come in via Bluetooth connection to a compatible smartphone.Free software updates add functionality and improve performance.Fits wrists 12-21cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076107182110/6010605-SLG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076113342494/6010605-SLG01-ALT-MEASUREMENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076113408030/6010605-SLG01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076107182110/6010605-SLG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076113342494/6010605-SLG01-ALT-MEASUREMENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076113408030/6010605-SLG01-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076107182110/6010605-SLG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076113342494/6010605-SLG01-ALT-MEASUREMENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076113408030/6010605-SLG01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076107182110/6010605-SLG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076113342494/6010605-SLG01-ALT-MEASUREMENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076113408030/6010605-SLG01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Suunto 3 Watch - Unisex",
+  "product_code": "6010-605",
+  "source_url": "https://www.mec.ca/en/product/6010-605/3-Watch",
+  "tech_specs": {
+    "12/24 hour format": [
+      "Yes"
+    ],
+    "ANT+ compatible\n\nEnsures seamless digital wireless communication between ANT+ devices. For example, data from an ultra-low power wireless sensor can be displayed on a bike computer or smartphone, then downloaded to a PC, etc.": [
+      "No"
+    ],
+    "App compatibility\n\nAn online community where members upload, analyze and share activity data.": [
+      "Suunto",
+      "Third party apps"
+    ],
+    "Battery life": [
+      "30-240\u00a0h"
+    ],
+    "Bluetooth": [
+      "Yes"
+    ],
+    "Button lock": [
+      "Yes"
+    ],
+    "Calorie consumption\n\nCalculated based on data from a heart rate monitor.": [
+      "Yes"
+    ],
+    "Calories in real time\n\nDisplays calorie expenditure during activity, based on heart rate monitor data.": [
+      "Yes"
+    ],
+    "Chest strap": [
+      "Sold separately"
+    ],
+    "Coded signal\n\nA coded instrument ensures no interference between your chest strap and your watch, necessary if you are training in busy gyms or trails where other signals may be encountered.": [
+      "Yes"
+    ],
+    "Countdown timer": [
+      "Yes"
+    ],
+    "Daily alarms": [
+      "1"
+    ],
+    "Date display": [
+      "Yes"
+    ],
+    "Face material\n\nPolycarbonate is inexpensive and light, with good clarity and wear-resistance. Mineral crystal glass offers greater clarity and significantly greater wear-resistance. Sapphire crystal is better still for clarity and wear-resistance.": [
+      "Polycarbonate"
+    ],
+    "Foot pod\n\nAttaches to your shoe, captures your running data (i.e., pace, distance), and transmits it to your heart rate monitor or GPS.": [
+      "Sold separately"
+    ],
+    "Haptic feedback": [
+      "Yes"
+    ],
+    "Heart rate in real time\n\nDisplays beats per minute during activity.": [
+      "Yes"
+    ],
+    "Heart rate monitor": [
+      "Yes"
+    ],
+    "Heart rate target zones\n\nDisplays heart rate zones during activity.": [
+      "Yes"
+    ],
+    "IPX rating\n\nIndicates the degree of protection against liquid. IP X1: Dripping water while in normal operating orientation; IP X4: Splashing water; IP X5: Water jets; IP X6: Powerful water jets; IP X7: Immersion up to 1m \u2264 30 minutes; IP X8: Suitable for submersion as specified by manufacturer.": [
+      "IP X8"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Running, fitness and training"
+    ],
+    "Interface": [
+      "USB",
+      "Wireless"
+    ],
+    "Interval training": [
+      "No"
+    ],
+    "Low battery warning": [
+      "Yes"
+    ],
+    "Made in": [
+      "Finland"
+    ],
+    "Metric/imperial units format": [
+      "Yes"
+    ],
+    "Programmable workouts\n\nWant an easy jog? A fast-paced ride? A workout with lots of variety to keep you on your toes? With programmable workouts you can tailor your training to match whatever you are looking for on a particular day.": [
+      "Advanced"
+    ],
+    "Replaceable batteries": [
+      "No"
+    ],
+    "Replaceable wrist strap": [
+      "Yes"
+    ],
+    "Speed/cadence sensor\n\nMonitors pedalling cadence and measures pedalling strokes per minute.": [
+      "Sold separately"
+    ],
+    "Stopwatch": [
+      "Yes"
+    ],
+    "Touch screen": [
+      "No"
+    ],
+    "Virtual partner\n\nAllows user to monitor training goals with either a virtual partner or alarms.": [
+      "No"
+    ],
+    "Water-resistant": [
+      "30m"
+    ],
+    "WiFi": [
+      "No"
+    ],
+    "Wireless sync": [
+      "Yes"
+    ],
+    "Workout history": [
+      "Yes"
+    ],
+    "Wrist strap material": [
+      "Silicone"
+    ]
+  }
+}

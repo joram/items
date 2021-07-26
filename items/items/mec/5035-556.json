@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Pots and pot sets",
+    "Pots",
+    "Glacier Stainless Steel Cup/Pot"
+  ],
+  "description": "You can heat water or cook in this cup, and it fits neatly around a 1L round water bottle.Made of durable food-grade stainless steel.Folding bail handles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812563857438/5035556-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812563857438/5035556-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Glacier Stainless Steel Cup/Pot",
+  "product_code": "5035-556",
+  "source_url": "https://www.mec.ca/en/product/5035-556/Glacier-Stainless-Steel-Cup-Pot",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Diameter": [
+      "10.7cm"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Volume": [
+      ".53L"
+    ],
+    "Weight": [
+      "139g"
+    ]
+  }
+}

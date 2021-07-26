@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Belts",
+    "Conveyor Belt"
+  ],
+  "description": "Anchor your favourite pants in place with this rugged versatile belt. The infinitely adjustable buckle means you define your waistline, not a pre-set hole.One-piece aluminum buckle allows for precise micro-adjustments.Buckle features a laser-etched Arc\u2019teryx logo.Friction patch under the buckle prevents slippage.Riveted thermoplastic tip allows for easy threading and eliminates the risk of fraying.Contrasting stitch detailing adds and eye-catching contrast.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153610842142/6003899-BNY02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9108119060510/6003899-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153610842142/6003899-BNY02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9108119060510/6003899-BK006.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153610842142/6003899-BNY02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9108119060510/6003899-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153610842142/6003899-BNY02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9108119060510/6003899-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Conveyor Belt - Unisex",
+  "product_code": "6003-899",
+  "source_url": "https://www.mec.ca/en/product/6003-899/Conveyor-Belt",
+  "tech_specs": {
+    "Belt material": [
+      "Nylon"
+    ],
+    "Buckle material": [
+      "Anodized aluminum"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Travel",
+      "Camping and hiking"
+    ],
+    "Length": [
+      "109cm (Black/Black Small)",
+      "116cm (Black/Black Medium)",
+      "126cm (Black/Black Large)"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Width": [
+      "3.7cm (Black/Black)"
+    ]
+  }
+}

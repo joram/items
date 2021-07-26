@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Fenders",
+    "Big Buck Fender - Front"
+  ],
+  "description": "A front fender that works with a bunch of different bikes, even mountain bikes and fat bikes. Your bike doesn\u2019t need a specific fender attachment point to put this on \u2013 it attaches using the bottom end of your steerer tube.Polymer construction is light and durable.Compatible with most suspension and rigid forks.Fits steerer tubes with internal diameter between 18.5 and 34.5mm.Wide profile offers good coverage, even on a fat bike.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396198942/5049468-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396330014/5049468-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396428318/5049468-BK000-ALT-LIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396657694/5049468-BK000-ALT-LIFEBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396198942/5049468-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396330014/5049468-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396428318/5049468-BK000-ALT-LIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396657694/5049468-BK000-ALT-LIFEBACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396198942/5049468-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396330014/5049468-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396428318/5049468-BK000-ALT-LIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396657694/5049468-BK000-ALT-LIFEBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396198942/5049468-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396330014/5049468-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396428318/5049468-BK000-ALT-LIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806396657694/5049468-BK000-ALT-LIFEBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike Big Buck Fender - Front",
+  "product_code": "5049-468",
+  "source_url": "https://www.mec.ca/en/product/5049-468/Big-Buck-Fender---Front",
+  "tech_specs": {
+    "Attachment type": [
+      "Expansion collar"
+    ],
+    "Fits tires": [
+      "All"
+    ],
+    "Ideal for": [
+      "Enduro",
+      "Trail riding",
+      "Cross-country riding"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Polymer"
+    ],
+    "Sold": [
+      "Single Front"
+    ],
+    "V-stays": [
+      "No"
+    ],
+    "Weight": [
+      "260g"
+    ]
+  }
+}

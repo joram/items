@@ -1,0 +1,83 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid kits",
+    "Trek II First Aid Kit"
+  ],
+  "description": "This basic first aid kit from Coghlan\u2019s is contained in its own zippered, compartmentalized nylon soft pack. It is popular with young folk going to summer camps, and any untrained users who will be doing only fairly basic patching up of people.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809996484638/4009271-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809996484638/4009271-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Trek II First Aid Kit",
+  "product_code": "4009-271",
+  "source_url": "https://www.mec.ca/en/product/4009-271/Trek-II-First-Aid-Kit",
+  "tech_specs": {
+    "Adhesive fabric bandages": [
+      "6"
+    ],
+    "Adhesive fabric knuckle bandages": [
+      "2"
+    ],
+    "Antiseptic/antibacterial wipes": [
+      "7"
+    ],
+    "Dimensions": [
+      "22cm"
+    ],
+    "First aid guide": [
+      "Yes"
+    ],
+    "Gauze bandage": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Emergency preparedness",
+      "Backpacking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Medical gloves": [
+      "1"
+    ],
+    "Medical gloves material": [
+      "Latex"
+    ],
+    "Medical tape": [
+      "Yes"
+    ],
+    "Moleskin": [
+      "Yes"
+    ],
+    "Needle": [
+      "Yes"
+    ],
+    "Recommended use": [
+      "Overnight adventure"
+    ],
+    "Safety pins": [
+      "2"
+    ],
+    "Sterile dressing gauze medium": [
+      "6"
+    ],
+    "Triangular bandage": [
+      "Yes"
+    ],
+    "Weight": [
+      "170g"
+    ],
+    "Wound closure strips": [
+      "4"
+    ]
+  }
+}

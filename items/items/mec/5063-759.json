@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling tops",
+    "Cycling jerseys",
+    "Tanks and sleeveless jerseys",
+    "Pro Issue Sleeveless Top"
+  ],
+  "description": "A layer to slide under a jersey on colder days. It has reduced seaming at shoulders for extra comfort and a wider collar to fit under aero jerseys.Made of lightweight polyester 3D mesh fabric for breathability.Body wrap design wicks away moisture to keep you dry throughout your ride.Minimal seams for maximum comfort.Cut long, so you can tuck it into shorts.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000077459486/5063759-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000385249310/5063759-WHT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000077459486/5063759-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000385249310/5063759-WHT00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000077459486/5063759-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000385249310/5063759-WHT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000077459486/5063759-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000385249310/5063759-WHT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Castelli Pro Issue Sleeveless Top - Men's",
+  "product_code": "5063-759",
+  "source_url": "https://www.mec.ca/en/product/5063-759/Pro-Issue-Sleeveless-Top",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Weight": [
+      "44g (Large)"
+    ]
+  }
+}

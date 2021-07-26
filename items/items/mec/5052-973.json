@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bicycle pumps",
+    "Mini bike pumps",
+    "KLIC HV Pump(S)"
+  ],
+  "description": "Makes fixing a flat as quick and painless as possible. The hose is hidden inside the pump until you need it, with magnets to hold it in place. If you knock the hose off the pump while pumping, the one-way valve ensures your tire won't pshhhhhhh and deflate before you reconnect it.High-volume pump gets to maximum pressure of 110 PSI super quick.Hidden, flexible hose reduces stress on the valve.Magnetic pump connector with twisting collar ensures dirt won't get in the connection port.Magnetic hose end attaches to the pump quickly and easily.One-way valve prevents air loss in the event of a disconnection between pump and hose.Screw-on Presta and Schrader hose end (only works on fully-threaded Presta valves; does not work with tubeless valves).Folding and locking t-handle provides a solid grip that tucks away nicely.Includes frame mounting bracket.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854488154142/5052973-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854488154142/5052973-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Crankbrothers KLIC HV Pump(S)",
+  "product_code": "5052-973",
+  "source_url": "https://www.mec.ca/en/product/5052-973/KLIC-HV-Pump%28S%29",
+  "tech_specs": {
+    "Fits valve": [
+      "Presta",
+      "Schrader"
+    ],
+    "Ideal for": [
+      "Cycle touring",
+      "Cyclocross",
+      "Cycle commuting",
+      "Urban cycling",
+      "Enduro",
+      "Trail riding",
+      "Cross-country riding",
+      "Freeride and downhill riding"
+    ],
+    "Length": [
+      "26cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Maximum psi": [
+      "110"
+    ],
+    "Pressure gauge": [
+      "Yes"
+    ],
+    "Type\n\nFloor pumps, frame fit pumps, mini pumps and CO2 inflators are for bicycle tires. Suspension pumps are used to add pressure to your bike shocks.": [
+      "Mini"
+    ],
+    "Weight": [
+      "124g"
+    ]
+  }
+}

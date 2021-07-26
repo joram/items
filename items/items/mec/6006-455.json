@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Paddling tops and pants",
+    "Paddling bottoms",
+    "Saluda Tights"
+  ],
+  "description": "Full-length tights you can wear in the water or out. UPF 50+ sun protection makes your beach days worry-free. Ruching detail at the leg opening adds a kick of style.50+ UPF rating and full leg coverage for excellent sun protection.Custom 4-way stretch fabric moves with you.Hidden pocket.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086982717470/6006455-NBS02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087010930718/6006455-NBS02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086982717470/6006455-NBS02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087010930718/6006455-NBS02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086982717470/6006455-NBS02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087010930718/6006455-NBS02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086982717470/6006455-NBS02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087010930718/6006455-NBS02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Carve Designs Saluda Tights - Women's",
+  "product_code": "6006-455",
+  "source_url": "https://www.mec.ca/en/product/6006-455/Saluda-Tights",
+  "tech_specs": {
+    "Fabric content": [
+      "82% nylon",
+      "12% spandex"
+    ],
+    "Ideal for": [
+      "Beach",
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "1 internal key"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

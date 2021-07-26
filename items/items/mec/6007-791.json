@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Sun hats",
+    "TH5 Hemp Hat"
+  ],
+  "description": "A spin on the classic adventure hat, the Tilley TH5 is made with natural and tough hemp. UPF 50+ protection shields your head when there's no shade in sight, and a broad brim and DWR finish keep you dry when storm clouds gather. A pocket in the crown holds extra cash for those times you don't want to wear a money belt. A well-designed dual cord system keeps it on your head, even in the face of gale-force winds, but if you happen to drop it overboard, the wide foam brim keeps it afloat until you can retrieve it.Durable hemp fabric has UPF 50+ sun protection and a DWR finish to shed light rain.Hydrofil\u00ae sweatband wicks moisture.Wide foam brim floats if dropped in water.Brim is 6.65cm at front, 7cm at back, and 5.5cm on the sides.Hidden crown pocket keeps small essentials safe while travelling.Dual cord system for security in gusty conditions.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087020138526/6007791-NAT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087479906334/6007791-GRO99-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087020072990/6007791-GRO99.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087020138526/6007791-NAT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087479906334/6007791-GRO99-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087020072990/6007791-GRO99.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087020138526/6007791-NAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087479906334/6007791-GRO99-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087020072990/6007791-GRO99.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087020138526/6007791-NAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087479906334/6007791-GRO99-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087020072990/6007791-GRO99.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Tilley Endurables TH5 Hemp Hat - Unisex",
+  "product_code": "6007-791",
+  "source_url": "https://www.mec.ca/en/product/6007-791/TH5-Hemp-Hat",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Stash pocket"
+    ],
+    "Fabric content": [
+      "100% hemp"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Backpacking",
+      "Beach"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ],
+    "Weight": [
+      "150g (7 7/8)"
+    ]
+  }
+}

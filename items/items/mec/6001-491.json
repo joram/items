@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Jackets",
+    "Soft shell jackets",
+    "Ease Performance Half Zip Top"
+  ],
+  "description": "Be ready for anything, the Ease Performance \u00bd zip is your go-to for whatever you get up to. Quick-drying fabric feels warm against skin, and added stretch moves with you. It has the clean lines to make a great layering piece too.Made of soft, stretchy performance knit polyester.Quick-drying fabric adds warmth and comfort.Zip stash pockets store essentials",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047783833630/6001491-CHA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774527518/6001491-CHA01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774560286/6001491-CHA01-ALT-FULLBODY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774658590/6001491-CHA01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047783833630/6001491-CHA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774527518/6001491-CHA01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774560286/6001491-CHA01-ALT-FULLBODY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774658590/6001491-CHA01-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047783833630/6001491-CHA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774527518/6001491-CHA01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774560286/6001491-CHA01-ALT-FULLBODY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774658590/6001491-CHA01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047783833630/6001491-CHA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774527518/6001491-CHA01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774560286/6001491-CHA01-ALT-FULLBODY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774658590/6001491-CHA01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vuori Ease Performance Half Zip Top - Men's",
+  "product_code": "6001-491",
+  "source_url": "https://www.mec.ca/en/product/6001-491/Ease-Performance-Half-Zip-Top",
+  "tech_specs": {
+    "Fabric content": [
+      "92% polyester",
+      "8% elastane"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 side zippered"
+    ]
+  }
+}

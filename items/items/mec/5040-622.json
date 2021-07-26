@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Camp stoves and grills",
+    "Accessories and maintenance",
+    "Pot Support"
+  ],
+  "description": "Adapt any of your camping pots for use with your Jetboil cooking system.Made of stainless steel.Includes pot support that works with most cooking vessels and with Jetboil frying pans and 1.5L pots.Compatible with Jetboil PCS, Zip, Flash, Sol and Sol Ti burners.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812735201310/5040622-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812735201310/5040622-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812735201310/5040622-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812735201310/5040622-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Jetboil Pot Support",
+  "product_code": "5040-622",
+  "source_url": "https://www.mec.ca/en/product/5040-622/Pot-Support",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "35g"
+    ]
+  }
+}

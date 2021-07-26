@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Climbing books",
+    "Guidebooks",
+    "Rockies West Guide"
+  ],
+  "description": "Rockies West is the essential guide to the peaks north of the Trans-Canada Highway, west of the Icefields Parkway and south to the Yellowhead Highway. 461 photographs document 920 routes on 567 peaks.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005834469406/5064573-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005834469406/5064573-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rockies West Guide",
+  "product_code": "5064-573",
+  "source_url": "https://www.mec.ca/en/product/5064-573/Rockies-West-Guide",
+  "tech_specs": {
+    "Author": [
+      "David P Jones"
+    ],
+    "ISBN": [
+      "9781775324102"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Rock climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Rockies"
+    ]
+  }
+}

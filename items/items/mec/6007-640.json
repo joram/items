@@ -1,0 +1,82 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Chargers and adapters",
+    "Portable chargers and power banks",
+    "Flip 12 Charger"
+  ],
+  "description": "Pocket-sized power to keep your favourite USB powered devices up and running.  The Flip 12\u2019s internal capacity of 3350mAh and 1A output is enough to charge most phones once.Works with your favourite USB powered devices: smartphone 100% charge, POV camera 1-2 recharges, headlamp 1-3 recharges, tablet 25% boost4 LED charge status indicator lets you know how much juice you have left.Pass-through charging lets you charge your device while the Flip 12 is being charged.Charge time for your Flip 12 is about 3 Hours from a USB port.Integrated USB plug flips out, meaning you don\u2019t need any extra cables to charge your Flip.Input: USB type-A Male, 5V, up to 1A (5W max), output: USB A Female, 5V, up to 1A (5W max), regulated.Lithium nickel manganese cobalt oxide offer lower energy density, but longer lives and inherent safety.During storage you can keep your Flip 12 plugged into a power source, or you need to fully charge your Flip 12 every 3-6 months and store in a cool, dry place.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052096954398/6007640-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299427870/6007640-GRN00-ALT-CHARGING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299493406/6007640-GRN00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299526174/6007640-GRN00-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299624478/6007640-GRN00-ALT-LIFESTYLE3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299788318/6007640-GRN00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299264030/6007640-BK000-ALT-CHARGING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299460638/6007640-BK000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052096790558/6007640-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052096954398/6007640-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299427870/6007640-GRN00-ALT-CHARGING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299493406/6007640-GRN00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299526174/6007640-GRN00-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299624478/6007640-GRN00-ALT-LIFESTYLE3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299788318/6007640-GRN00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299264030/6007640-BK000-ALT-CHARGING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299460638/6007640-BK000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052096790558/6007640-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052096954398/6007640-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299427870/6007640-GRN00-ALT-CHARGING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299493406/6007640-GRN00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299526174/6007640-GRN00-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299624478/6007640-GRN00-ALT-LIFESTYLE3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299788318/6007640-GRN00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299264030/6007640-BK000-ALT-CHARGING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299460638/6007640-BK000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052096790558/6007640-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052096954398/6007640-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299427870/6007640-GRN00-ALT-CHARGING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299493406/6007640-GRN00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299526174/6007640-GRN00-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299624478/6007640-GRN00-ALT-LIFESTYLE3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299788318/6007640-GRN00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299264030/6007640-BK000-ALT-CHARGING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052299460638/6007640-BK000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052096790558/6007640-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Goal Zero Flip 12 Charger",
+  "product_code": "6007-640",
+  "source_url": "https://www.mec.ca/en/product/6007-640/Flip-12-Charger",
+  "tech_specs": {
+    "Capacity": [
+      "3350mAh"
+    ],
+    "Chemistry": [
+      "Lithium nickel manganese cobalt oxide"
+    ],
+    "Dimensions": [
+      "9.4\u00a0x\u00a02.1\u00a0x\u00a02.1cm"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Travel",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output voltage": [
+      "5volts"
+    ],
+    "Weight": [
+      "70g"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Dry suits, tops and pants",
+    "Dry suit tops",
+    "Gore-Tex Om Dry Top"
+  ],
+  "description": "Created for Kokatat's 50th anniversary, the OM is arguably one of the most technologically advanced drytops around. Tough yet supple, refined yet utilitarian, it's a true blend of all things good. Highly abrasion-resistant material uses laminated construction to ensure dry sessions on the water. The cut gives you full mobility for quick, dynamic moves.Body is 200-denier GORE-TEX\u00ae Pro nylon.Waterproof latex wrist gaskets are protected by punch-through neoprene outer cuffs to keep water out of your sleeves while paddling.Dual-adjustable neoprene skirt incorporates hook-and-loop-compatible neoprene for unhindered stretch.Self-draining arm pocket.Pullover design reduces bulk for great packability.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160792277022/6014327-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160798830622/6014327-RED00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160792277022/6014327-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160798830622/6014327-RED00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160792277022/6014327-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160798830622/6014327-RED00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160792277022/6014327-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160798830622/6014327-RED00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kokatat Gore-Tex Om Dry Top - Men's",
+  "product_code": "6014-327",
+  "source_url": "https://www.mec.ca/en/product/6014-327/Gore-Tex-Om-Dry-Top",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Face fabric": [
+      "Nylon"
+    ],
+    "Ideal for": [
+      "Whitewater kayaking",
+      "Ocean play kayaking",
+      "Kayak touring"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pockets": [
+      "1 arm zippered"
+    ],
+    "Technology": [
+      "GORE-TEX Pro"
+    ]
+  }
+}

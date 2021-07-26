@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Canadian Rockies Map 12th Edition"
+  ],
+  "description": "This popular map is a must-have for anyone planning a trip to Banff, Jasper, Yoho or Kootenay National Park in the Canadian Rockies. Includes 29 points of interest, street maps for towns, amenities, and a mileage chart to help you get around. Also includes lodges, campgrounds, hot springs, golf courses, ski areas, picnic areas, visitor centres and highway viewpoints.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089840906270/6011504-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089840906270/6011504-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Publishing Canadian Rockies Map 12th Edition",
+  "product_code": "6011-504",
+  "source_url": "https://www.mec.ca/en/product/6011-504/Canadian-Rockies-Map-12th-Edition",
+  "tech_specs": {
+    "Edition": [
+      "12th"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2020"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:400,000"
+    ],
+    "Tearproof": [
+      "No"
+    ],
+    "Waterproof": [
+      "No"
+    ]
+  }
+}

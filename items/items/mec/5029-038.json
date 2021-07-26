@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Snowshoeing gear",
+    "Snowshoe accessories",
+    "Snowshoe Strap Keepers"
+  ],
+  "description": "Keep the straps on your MSR snowshoes from getting underfoot. Great as replacement parts or in your field repair kit.Set of 8.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817237032990/5029038-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817237032990/5029038-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Snowshoe Strap Keepers",
+  "product_code": "5029-038",
+  "source_url": "https://www.mec.ca/en/product/5029-038/Snowshoe-Strap-Keepers",
+  "tech_specs": {
+    "Ideal for": [
+      "Snowshoeing"
+    ],
+    "Made in": [
+      "Ireland"
+    ]
+  }
+}

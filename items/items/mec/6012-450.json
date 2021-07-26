@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Gloves and mittens",
+    "Gloves",
+    "Flurry Sensor Gloves"
+  ],
+  "description": "Warm, wool blend fabric and a snug fit make these gloves a just-right layer for multi-day trekking or shorter hikes that might get windy and cool. Touchscreen feature helps with map reading or capturing photos and the silicone print on the fingers helps you grip your gadgets.Made of Alpin-Wool\u2122 Plus wool and synthetic blend.Soft fleece liner is cozy against the skin.Anti-slip silicone print on fingers and palm.Synthetic suede thumb and index tip are touch-screen compatible.Leather grab tab on inner wrist allows glove to be pulled on easily.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448667678/6012450-GZB00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448667678/6012450-GZB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outdoor Research Flurry Sensor Gloves - Men's",
+  "product_code": "6012-450",
+  "source_url": "https://www.mec.ca/en/product/6012-450/Flurry-Sensor-Gloves",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking",
+      "Snowshoeing"
+    ],
+    "Insulation": [
+      "Medium"
+    ],
+    "Liner fabric": [
+      "100% polyester"
+    ],
+    "Liner type": [
+      "Sewn-in"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "43% wool",
+      "38% polyester",
+      "19% nylon"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Grippy palm"
+    ],
+    "Touchscreen compatible": [
+      "Yes"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Weight": [
+      "78g (Large)"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "None"
+    ]
+  }
+}

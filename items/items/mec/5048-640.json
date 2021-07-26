@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike repair stands",
+    "106 Work Tray"
+  ],
+  "description": "Keep your spare parts, tools and lube organized and accessible on your bike repair stand.Features 2 deep-walled compartments, tool or towel bar, lube holder and a tab to hang a plastic trash bag.Direct fit onto PCS-10, PCS-11, PRS-25 and PRS-15.Used with 106-AC accessory collar (sold separately), the 106 tray fits 35-37mm upright tubes like on the PCS-9 and current PCS-1, PCS-4, PCS-4-1, PCS-4-2.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806606405662/5048640-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806606438430/5048640-NOC02-ALT-INSTALL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806606503966/5048640-NOC02-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806606405662/5048640-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806606438430/5048640-NOC02-ALT-INSTALL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806606503966/5048640-NOC02-ALT-FULL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806606405662/5048640-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806606438430/5048640-NOC02-ALT-INSTALL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806606503966/5048640-NOC02-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806606405662/5048640-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806606438430/5048640-NOC02-ALT-INSTALL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806606503966/5048640-NOC02-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool 106 Work Tray",
+  "product_code": "5048-640",
+  "source_url": "https://www.mec.ca/en/product/5048-640/106-Work-Tray",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

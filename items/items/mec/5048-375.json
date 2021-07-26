@@ -1,0 +1,70 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Bike multi-tools",
+    "IB-3 I-Beam Mini Tool"
+  ],
+  "description": "Throw some confidence in your pocket or seat bag. The IB-3 has the tools you need to get out of most jams on the road or trail.Durable aluminum body.1.5, 2, 2.5, 3, 4, 5, 6 and 8mm hex wrenches.T25 Torx\u00ae compatible driver.Flat blade screwdriver.Composite wrapped tire lever with 2 integrated spoke wrenches: SW-0 (3.23mm) and SW-2 (3.45mm).11-speed compatible chain tool.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806494339102/5048375-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806494371870/5048375-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806494568478/5048375-NOC02-ALT-DESCRIPTION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806494339102/5048375-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806494371870/5048375-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806494568478/5048375-NOC02-ALT-DESCRIPTION.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806494339102/5048375-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806494371870/5048375-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806494568478/5048375-NOC02-ALT-DESCRIPTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806494339102/5048375-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806494371870/5048375-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806494568478/5048375-NOC02-ALT-DESCRIPTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool IB-3 I-Beam Mini Tool",
+  "product_code": "5048-375",
+  "source_url": "https://www.mec.ca/en/product/5048-375/IB-3-I-Beam-Mini-Tool",
+  "tech_specs": {
+    "Allen (hex) keys": [
+      "1.5mm",
+      "2mm",
+      "2.5mm",
+      "3mm",
+      "4mm",
+      "5mm",
+      "6mm",
+      "8mm"
+    ],
+    "Chain tool": [
+      "Yes"
+    ],
+    "Flathead (slot) screwdriver": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Phillips (cross) driver": [
+      "No"
+    ],
+    "Spoke wrenches": [
+      "#2: 3.45mm (0.136in)",
+      "#0: 3.23mm (0.127in)"
+    ],
+    "Torx drivers": [
+      "T-25"
+    ],
+    "Weight": [
+      "170g"
+    ]
+  }
+}

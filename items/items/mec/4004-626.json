@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Boat repair",
+    "Vinyl-Tec 2000 Adhesive"
+  ],
+  "description": "An industrial-strength adhesive that creates a strong chemical bond. Use it to attach vinyl-patched D-rings or anchors to Kevlar\u00ae, fibreglass, Royalex\u00ae, R-light (1996 and newer) boats. You can also use it to repair vinyl float bags.100 ml.Note: important to follow directions for a good bond.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818076975134/4004626-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818076975134/4004626-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818076975134/4004626-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818076975134/4004626-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "North Water Vinyl-Tec 2000 Adhesive",
+  "product_code": "4004-626",
+  "source_url": "https://www.mec.ca/en/product/4004-626/Vinyl-Tec-2000-Adhesive",
+  "tech_specs": {
+    "Ideal for": [
+      "Canoeing",
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Weight": [
+      "150g"
+    ]
+  }
+}

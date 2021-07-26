@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Fleece jackets",
+    "Kyanite Hoody"
+  ],
+  "description": "Some pieces find their way into every adventure. The Kyanite hoody has a trim, close-to-the-body fit and articulated patterning that makes it a great base layer for super-cold climbs, a sleek mid-layer on cold, all-day outings and a standalone option for high-output activities like Nordic skiing or winter running. Made from stretchy, breathable Polartec\u00ae, with a light nylon face that adds some abrasion resistance and protection from the elements.Polartec\u00ae fleece is warm, breathable and moisture-wicking, with a nylon face for added durability.Four-way stretch, articulated patterning and gusseted underarms allow freedom of movement.Low-profile hood fits under a helmet.Full front zip has no-slip \"speedbumps\" to prevent accidental opening.Hem, cuffs and collar are bound with durable stretch elastic.Breathable mesh-lined handwarmer pockets.Internal laminated chest pocket.Straight hem.Trim fit for easy layering.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046940876830/6001071-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046940876830/6001071-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Kyanite Hoody - Women's",
+  "product_code": "6001-071",
+  "source_url": "https://www.mec.ca/en/product/6001-071/Kyanite-Hoody",
+  "tech_specs": {
+    "Fabric content": [
+      "53% polyester",
+      "38% nylon",
+      "9% elastane"
+    ],
+    "Hood": [
+      "Low-profile",
+      "Helmet-compatible"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Ice climbing",
+      "Ski mountaineering",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "El Salvador"
+    ],
+    "Pockets": [
+      "2 handwarmer",
+      "1 internal zippered"
+    ],
+    "Technology": [
+      "Polartec Power Stretch Pro"
+    ],
+    "Type": [
+      "Fleece"
+    ],
+    "Weight": [
+      "365g (Small)",
+      "425g (Medium)"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

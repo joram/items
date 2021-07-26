@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Bike chain service",
+    "MLP-1.2 Master Link Pliers"
+  ],
+  "description": "For chains with a master link, that allows them to be installed and removed without a traditional chain tool \u2013 this tool removes even clogged, grimed, or dirty links quickly. Just insert the jaws into the masterlink and squeeze the handles.Removes and installs chain master links.Compatible with all 5- to 12-speed chains that use a master link.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806552174622/5048627-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806552633374/5048627-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806552174622/5048627-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806552633374/5048627-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806552174622/5048627-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806552633374/5048627-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806552174622/5048627-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806552633374/5048627-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool MLP-1.2 Master Link Pliers",
+  "product_code": "5048-627",
+  "source_url": "https://www.mec.ca/en/product/5048-627/MLP-1-2-Master-Link-Pliers",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

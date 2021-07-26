@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike cassettes and freewheels",
+    "CS-HG400 9 Speed 11-32 Cassette"
+  ],
+  "description": "Part of the Shimano Hyperglide line, the teeth have precise, contoured shift gates for smooth and clean shifting even under load.Steel with a nickel-plated finish.Compatible with 9-speed systems.Designed to work with 9-speed HG chains.11-12-14-16-18-21-24-28-32T.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867674980382/5053791-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867674980382/5053791-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano CS-HG400 9 Speed 11-32 Cassette",
+  "product_code": "5053-791",
+  "source_url": "https://www.mec.ca/en/product/5053-791/CS-HG400-9-Speed-11-32-Cassette",
+  "tech_specs": {
+    "Compatibility": [
+      "9-speed"
+    ],
+    "Gear ratio": [
+      "11-32T"
+    ],
+    "Ideal for": [
+      "Cycle touring",
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Nickel plated\n\nNickel plating can increase durability and product life.": [
+      "Yes"
+    ],
+    "Type": [
+      "Cassette"
+    ],
+    "Weight": [
+      "323g"
+    ]
+  }
+}

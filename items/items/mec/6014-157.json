@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Casual socks",
+    "Basic Mini Boot Socks"
+  ],
+  "description": "Fun and comfy socks with a roll top that eleminates pressure around the top of your ankle. The merino blend naturally regulates temperature and lets your feet breathe.Soft merino wool, nylon and spandex blend for all-day comfort.Supportive arch brace hugs your foot for a snug fit.Virtually Seamless\u2122 toe won't cause hotspots or chafing.Narrower profile suits those with narrower feet.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163343069214/6014157-MON17.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163343069214/6014157-MON17.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Basic Mini Boot Socks - Women's",
+  "product_code": "6014-157",
+  "source_url": "https://www.mec.ca/en/product/6014-157/Basic-Mini-Boot-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Quarter"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Mapped"
+    ],
+    "Fabric content": [
+      "55% merino wool",
+      "42% nylon",
+      "3% elastane"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

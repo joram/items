@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Uppers and downers",
+    "Pulleys",
+    "Micro Prusik Minding Pulley"
+  ],
+  "description": "A small prusik-minding pulley, great for wilderness rescue or hauling.Aluminum, with anodized aluminum side plates.Large top hole takes a rescue carabiner.Prusik-minding side plate design is great for hauling.Efficient sealed ballbearing sheaves.Low-profile side plate fasteners eliminate hooking up.Overall dimensions are 9 x 5.5cm3cm (1.4in.) sheave diameter, 2.5cm (1in.) tread diameter.Rope size up to 12mm (use 6 to 8mm prusiks).NFPA rated \"L\" for lightweight use.Minimum breaking strength is 22kN.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807209205790/5000870-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807209205790/5000870-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SMC Micro Prusik Minding Pulley",
+  "product_code": "5000-870",
+  "source_url": "https://www.mec.ca/en/product/5000-870/Micro-Prusik-Minding-Pulley",
+  "tech_specs": {
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Trad and aid climbing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Rope diameter\n\nThe maximum diameter or the range of rope diameter that is compatible with the device.": [
+      "\u226412mm"
+    ],
+    "Sheave material": [
+      "Aluminum"
+    ],
+    "Side plates material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "22kN"
+    ],
+    "Weight": [
+      "105g"
+    ]
+  }
+}

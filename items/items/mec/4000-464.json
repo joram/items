@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Glacier& Waterton Lakes National Parks Trail"
+  ],
+  "description": "This detailed map coveres Waterton Lakes National Park, Akamina Kishinena Provincial Park, and Glacier National Park which includes Lewis and Clark Range, Many Glacier, Lake McDonald, Great Bear Wilderness, Flathead National Forest, Columbia Falls, Horse Reservoir and St. Mary Lake. Displays topographic information and trails. Uses UTM grids.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815783936030/4000464-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815783936030/4000464-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "National Geographic Glacier & Waterton Lakes National Parks Trail",
+  "product_code": "4000-464",
+  "source_url": "https://www.mec.ca/en/product/4000-464/Glacier%26-Waterton-Lakes-National-Parks-Trail",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Regionality": [
+      "Rockies",
+      "USA"
+    ],
+    "Scale": [
+      "1:100,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Wetsuits and neoprene clothing",
+    "Wetsuits",
+    "Shorty Wetsuit"
+  ],
+  "description": "A snug fit for warmth, and lots of range of motion for cannonballing. No seams under the arms means no chafing when kids are swimming, paddling and waving to neighbours on the dock.Made of 2.5mm Thermo-Stretch neoprene.Skin-tight fit for warmth.Flat seams prevent irriation.YKK\u00ae back-entry zipper with a long pull and Velcro flap.Raglan-style sleeves prevent chafing and irritation.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087001722910/6008992-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086997135390/6008992-RED00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086997364766/6008992-RED00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087001722910/6008992-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086997135390/6008992-RED00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086997364766/6008992-RED00-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087001722910/6008992-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086997135390/6008992-RED00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086997364766/6008992-RED00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087001722910/6008992-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086997135390/6008992-RED00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086997364766/6008992-RED00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Shorty Wetsuit - Children",
+  "product_code": "6008-992",
+  "source_url": "https://www.mec.ca/en/product/6008-992/Shorty-Wetsuit",
+  "tech_specs": {
+    "Face fabric": [
+      "2.5mm neoprene"
+    ],
+    "Ideal for": [
+      "Watersports"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Relief opening": [
+      "No"
+    ]
+  }
+}

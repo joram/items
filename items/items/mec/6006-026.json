@@ -1,0 +1,103 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Jackets",
+    "Rain jackets",
+    "Isobel Rain Jacket"
+  ],
+  "description": "A waterproof-breathable jacket with a sleek urban aesthetic. Made from a canvas touch material, the Isobel doesn\u2019t have the same hard look and feel of most technical rainwear. A full mesh lining makes layering easy and paneled construction and an adjustable waist give this jacket a stylish silhouette.Woven polyester shell has a mechanical stretch and a canvas like look and feel.Waterproof breathable construction with sealed seams that are blended with the hydrophilic polyurethane coating.DWR finish.Mesh lining.Adjustable hood.YKK\u00ae Aquaguard\u00ae 2-way zipper.On seam zippered hand pockets.Elasticised cuffs.Internal adjustments at the waist.Articulated pattering.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971005982/6006026-CAC00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168970088478/6006026-CAC00-ALT-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168970022942/6006026-CAC00-ALT-DETAIL3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168970252318/6006026-CAC00-ALT-DETAIL4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971399198/6006026-CAC00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971464734/6006026-CAC00-ALT-ANGLE-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971497502/6006026-CAC00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971694110/6006026-CAC00-ALT-DETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184172539934/6006026-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971005982/6006026-CAC00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168970088478/6006026-CAC00-ALT-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168970022942/6006026-CAC00-ALT-DETAIL3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168970252318/6006026-CAC00-ALT-DETAIL4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971399198/6006026-CAC00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971464734/6006026-CAC00-ALT-ANGLE-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971497502/6006026-CAC00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971694110/6006026-CAC00-ALT-DETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184172539934/6006026-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971005982/6006026-CAC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168970088478/6006026-CAC00-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168970022942/6006026-CAC00-ALT-DETAIL3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168970252318/6006026-CAC00-ALT-DETAIL4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971399198/6006026-CAC00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971464734/6006026-CAC00-ALT-ANGLE-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971497502/6006026-CAC00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971694110/6006026-CAC00-ALT-DETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184172539934/6006026-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971005982/6006026-CAC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168970088478/6006026-CAC00-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168970022942/6006026-CAC00-ALT-DETAIL3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168970252318/6006026-CAC00-ALT-DETAIL4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971399198/6006026-CAC00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971464734/6006026-CAC00-ALT-ANGLE-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971497502/6006026-CAC00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168971694110/6006026-CAC00-ALT-DETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184172539934/6006026-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Indyeva Isobel Rain Jacket - Women's",
+  "product_code": "6006-026",
+  "source_url": "https://www.mec.ca/en/product/6006-026/Isobel-Rain-Jacket",
+  "tech_specs": {
+    "Construction": [
+      "2-layer"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Fabric active breathability\n\nThe rate at which a waterproof breathable fabric expels moisture when the inner surface is moist from perspiration.  Values under 8,000g/m2/24h provide low performance, 20,000g/m2/24h provide moderate performance and values over 30,000g/m2/24h provide high performance.": [
+      "10,000g/m2/24h"
+    ],
+    "Fabric waterproof rating\n\nThe standard test for waterproof fabrics uses a standing column filled with water.  The figures given are the water column height.  A rating of 3,500mm or higher can be considered waterproof.  The higher the rating, the more durable the waterproof fabric will be over time.": [
+      "10,000mm"
+    ],
+    "Face fabric": [
+      "75-denier polyester"
+    ],
+    "Hood": [
+      "Adjustable"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Length": [
+      "Below hip"
+    ],
+    "Lining/backer": [
+      "Polyester"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Pockets": [
+      "2 front zippered"
+    ],
+    "Technology": [
+      "PU Coating"
+    ],
+    "Type": [
+      "Waterproof-breathable"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Waterproof with fully taped seams"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

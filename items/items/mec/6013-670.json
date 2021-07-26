@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water bottles",
+    "Sports bottles",
+    "Gripper Insulated Logo Bottle 550ml"
+  ],
+  "description": "Ever struggled to grab your water bottle on a rainy or hot day? The Gripper's textured top helps you get solid grip, no matter how heavy the downpour or sweaty your hands.Unique textured surface offers improved grip.Soft, squeezable body.Insulated closed cell foil insert keeps your water cool.Silicone mouthpiece and high-flow valve won't leave you thirsty.BPA-free. Safe for fluids between 0 and 70\u00b0C.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9149335699486/6013670-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9149335699486/6013670-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Cannondale Gripper Insulated Logo Bottle 550ml",
+  "product_code": "6013-670",
+  "source_url": "https://www.mec.ca/en/product/6013-670/Gripper-Insulated-Logo-Bottle-550ml",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lid type": [
+      "Sport cap"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Polypropylene",
+      "Silicone"
+    ],
+    "Volume": [
+      "550ml"
+    ]
+  }
+}

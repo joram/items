@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike helmets and body armour",
+    "Bike helmets",
+    "Smiley 2.1 Helmet"
+  ],
+  "description": "Whether they\u2019re striding or peddling, safety comes first, followed very closely by fun. When your little rider takes an inevitable spill, the Smiley 2.1 is here for protextion.Dial in the perfect fit with a fully adjustable internal ring.Netting on the vents keeps insects out.LED light and reflective details help keep everyone seen.8 air vents keep the wind in their hair.Integrated visor protects from the sun and improves impact protection.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199100166174/6016209-WCH00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199100133406/6016209-RSY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199099838494/6016209-BMK01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199100166174/6016209-WCH00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199100133406/6016209-RSY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199099838494/6016209-BMK01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199100166174/6016209-WCH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199100133406/6016209-RSY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199099838494/6016209-BMK01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199100166174/6016209-WCH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199100133406/6016209-RSY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199099838494/6016209-BMK01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Abus Smiley 2.1 Helmet - Children",
+  "product_code": "6016-209",
+  "source_url": "https://www.mec.ca/en/product/6016-209/Smiley-2-1-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Cycling"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Molded in the shell"
+    ],
+    "Fit system": [
+      "Adjustable suspension system"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Shell material": [
+      "Polycarbonate"
+    ],
+    "Vents": [
+      "Yes"
+    ]
+  }
+}

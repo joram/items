@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike bags and trailers",
+    "Bike panniers",
+    "Pannier Packing Cubes"
+  ],
+  "description": "Embrace your inner pack rat. These pannier cubes take packing efficiency and organization to new levels.Tapered design suits Bike-Packer, Back Roller, and Velo-Shopper models.Made of lightweight nylon with 2-way zippers.Includes 3 cubes (2x 6L and 1x 5L).Grab handles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549205534/6008968-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021490718/6008968-GRY00-ALT-BACKS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549205534/6008968-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021490718/6008968-GRY00-ALT-BACKS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549205534/6008968-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021490718/6008968-GRY00-ALT-BACKS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549205534/6008968-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021490718/6008968-GRY00-ALT-BACKS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ortlieb Pannier Packing Cubes",
+  "product_code": "6008-968",
+  "source_url": "https://www.mec.ca/en/product/6008-968/Pannier-Packing-Cubes",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "2-way zipper"
+    ],
+    "Ideal for": [
+      "Bikepacking",
+      "Urban cycling"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Material": [
+      "Nylon"
+    ],
+    "Volume": [
+      "17L"
+    ]
+  }
+}

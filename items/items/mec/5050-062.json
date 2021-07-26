@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Saddles and seat posts",
+    "Seat posts",
+    "Rigid seat posts",
+    "3D Forged 350mm Seat Post (15mm Offset)"
+  ],
+  "description": "Upgrade your bike with swanky, sharp looking seat post. The one-piece design is solid, easy to adjust and hits the sweet spot on price/quality continuum.Made of a single piece of forged 6061-T6 aluminum.2-bolt design is easy to adjust and holds rails securely.Butted tube optimizes the strength-to-weight ratio.Offset is 15mm, length is 350mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8852453457950/5050062-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8852453457950/5050062-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC 3D Forged 350mm Seat Post (15mm Offset)",
+  "product_code": "5050-062",
+  "source_url": "https://www.mec.ca/en/product/5050-062/3D-Forged-350mm-Seat-Post-%2815mm-Offset%29",
+  "tech_specs": {
+    "Diameter": [
+      "27.2mm (27.2mm)",
+      "30.9mm (30.9mm)",
+      "31.6mm (31.6mm)"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Length": [
+      "350mm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "6061-T6 aluminum"
+    ],
+    "Offset": [
+      "15mm"
+    ],
+    "Suspension": [
+      "No"
+    ],
+    "Weight": [
+      "338g (27.2mm)",
+      "372g (30.9mm)",
+      "390g (31.6mm)"
+    ]
+  }
+}

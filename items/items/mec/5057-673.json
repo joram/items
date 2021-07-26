@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Swim fitness",
+    "Performance swim and lap suits",
+    "Solid Jammer"
+  ],
+  "description": "Training for a triathlon or swim race means you need gear that will stand up to hours in the pool. Made of durable, chlorine-resistant polyester, this jammer has a sleek fit and won't sag or fade over time.Made of TYR Durafast One polyester that's highly chlorine-resistant, providing 300+ hours of durable stretch in pool environments.Fully lined for durability and coverage.Fabric provides UPF 50+ sun protection.Compression fit and drawcord waist ensure the suit stays in place.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008598089758/5057673-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008614080542/5057673-NVY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008613851166/5057673-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008598122526/5057673-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008598089758/5057673-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008614080542/5057673-NVY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008613851166/5057673-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008598122526/5057673-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008598089758/5057673-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008614080542/5057673-NVY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008613851166/5057673-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008598122526/5057673-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008598089758/5057673-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008614080542/5057673-NVY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008613851166/5057673-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008598122526/5057673-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "TYR Solid Jammer - Men's",
+  "product_code": "5057-673",
+  "source_url": "https://www.mec.ca/en/product/5057-673/Solid-Jammer",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Swim training"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pockets": [
+      "None"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Apple Crisp"
+  ],
+  "description": "Get a little taste of home cooking on the trails. Happy Yak\u2019s Apple Crisp is the perfect blend of apples, cinnamon and brown sugar, all topped with crunchy granola.Ingredients: granola mix (rolled oat, honey, slivered brown almonds, ground almonds, pumpkin seeds, brown sugar, cinnamon), freeze-dried unsweetened apple puree, dehydrated apples, brown sugar.Contains: almonds, oats (gluten) and pumpkin seeds.May contain: peanuts, sesame, milk, egg, soy, shrimp and wheat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140731117598/6012181-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738326558/6012181-NOC02-ALT-PACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140731117598/6012181-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738326558/6012181-NOC02-ALT-PACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140731117598/6012181-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738326558/6012181-NOC02-ALT-PACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140731117598/6012181-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738326558/6012181-NOC02-ALT-PACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Apple Crisp",
+  "product_code": "6012-181",
+  "source_url": "https://www.mec.ca/en/product/6012-181/Apple-Crisp",
+  "tech_specs": {
+    "Calories per serving": [
+      "260Cal"
+    ],
+    "Carbohydrates": [
+      "51g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "No"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "5g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "5g"
+    ],
+    "Saturated fat": [
+      "0.5g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "120mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "36g"
+    ],
+    "Total fat": [
+      "6g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "65g"
+    ]
+  }
+}

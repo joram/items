@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Swim fitness",
+    "Performance swim and lap suits",
+    "Flipturn Propel Back Swimsuit"
+  ],
+  "description": "A performance suit designed for training and hitting the pool 2 or 3 days a week.Pro LT fabric resists chlorine, sun and salt water.Bright, digital print design.Lined front and back.Includes a zippered bag, great for competitions.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105648255006/6008097-CCT09.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105648255006/6008097-CCT09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Speedo Flipturn Propel Back Swimsuit - Women's",
+  "product_code": "6008-097",
+  "source_url": "https://www.mec.ca/en/product/6008-097/Flipturn-Propel-Back-Swimsuit",
+  "tech_specs": {
+    "Fabric content": [
+      "82% polyester",
+      "18% spandex"
+    ],
+    "Ideal for": [
+      "Swim training",
+      "Triathlon"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

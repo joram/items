@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Batteries",
+    "Rechargeable batteries",
+    "Ultra Quick Charger"
+  ],
+  "description": "A quick wall charger for the ACCU 2 Ultra rechargeable lithium ion battery. For use with the Ultra Headlamp.Europe and North America compatible,100 / 240 Volt.Recharge time is 3 hours for ACCU 2; 5 hours for optional ACCU 4.Lights indicate when charge is complete.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813238779934/5016766-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813238779934/5016766-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Ultra Quick Charger",
+  "product_code": "5016-766",
+  "source_url": "https://www.mec.ca/en/product/5016-766/Ultra-Quick-Charger",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Alpine climbing and mountaineering",
+      "Running"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Weight": [
+      "104g"
+    ]
+  }
+}

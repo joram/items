@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike wheels",
+    "Wheelsets",
+    "Ksyrium SL Rim Brake HG11 Wheelset"
+  ],
+  "description": "Svelte, stiff and tubeless-ready Ksyrium SL wheels are an excellent everyday choice for committed riders and racers. Lighter than the old Ksyrium Elite, by 100g, despite being a wider rim.  The wide internal rim lets you use high-volume tires and lower PSIs, for a smooth-rolling, comfortable ride. The machined aluminum braking surface prevents grabby performance and is tough enough for your gravel bike or CX steed. Buttery cartridge bearings won't let you down after hard training sessions in the rain and are about as easy to adjust as it gets.Maxtal aluminum alloy rims have a higher strength to weight ration than conventional 6106 alloy.Updated design no longer requires rim tape, saving at least another 30g per wheel.Inter spoke milling reduces weight without sacrificing strength, and less weight means less inertia for quicker acceleration and better handling.UB control braking surface.Internal rim width is 19mm and optimized for 25-32mm wide tires.Straight-pull elliptical double-butted steel spokes.Spoke count is 24 front and rear.Instant Drive 360 freewheel is light and fast to engage, with only 9\u00ba of rotation.Aluminum hubs with steel axles.QRM cartridge bearings are easy to adjust and smooth.ASTM CATEGORY 2 : road and off-road with jumps less than 15cm.Includes BR601 quick releases, UST valves and documentation.Front wheel weighs 645g, rear 865g. Weighed without tires.Note \u2013 To ensure longevity of the wheel, Mavic recommends that the total weight supported by the wheels doesn\u2019t exceed 120kg, bike included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164043354142/6013983-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164043354142/6013983-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mavic Ksyrium SL Rim Brake HG11 Wheelset",
+  "product_code": "6013-983",
+  "source_url": "https://www.mec.ca/en/product/6013-983/Ksyrium-SL-Rim-Brake-HG11-Wheelset",
+  "tech_specs": {
+    "Brake compatibility": [
+      "Rim brakes"
+    ],
+    "Front hub width\n\nThe hub width must fit the inside distance between the two fork ends (dropouts).": [
+      "100mm"
+    ],
+    "Hub (front)": [
+      "Mavic Infinity"
+    ],
+    "Hub (rear)\n\nThe hub affects a bike\u2019s rolling efficiency. Internally geared hubs require significantly less maintenance.": [
+      "Mavic Infinity"
+    ],
+    "Ideal for": [
+      "Road cycling",
+      "Gravel riding"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Material": [
+      "Aluminum"
+    ],
+    "Rear hub width": [
+      "130mm"
+    ],
+    "Recommended tire width": [
+      "25-32mm"
+    ],
+    "Retention device": [
+      "Quick-release"
+    ],
+    "Rims": [
+      "Mavic Ksyrium SL"
+    ],
+    "Size": [
+      "700C"
+    ],
+    "Spoke count": [
+      "24"
+    ],
+    "Spokes": [
+      "Stainless"
+    ],
+    "Tire type": [
+      "Clincher",
+      "Tubeless"
+    ],
+    "Valve compatibility\n\nThe type of tube valve the rim will accommodate. Most Schrader wheels can be retrofitted to fit Presta valves.": [
+      "Presta"
+    ],
+    "Weight": [
+      "1.48kg"
+    ]
+  }
+}

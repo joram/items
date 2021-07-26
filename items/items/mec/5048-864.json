@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Batteries",
+    "Lithium batteries",
+    "L18-3500 18650 Li-Ion Battery"
+  ],
+  "description": "A powerful 18650 battery for high-drain devices. While similarly powerful batteries run the risk of overheating, the L18 features 3 degrees of overheat protection to prevent over charge/discharge or short circuits.Ultra-high capacity design is 3500mAh (most other 18650 grade batteries are ~2600mAh).Protection circuitry prevents short circuits.Pressure vents.Voltage is 3.6V.Charge cycle is 500 times.Charging current: recommended 1A, maximum 2A.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806272827422/5048864-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806272991262/5048864-NOC02-ALT-VEMT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273286174/5048864-NOC02-ALT-LEVELS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273384478/5048864-NOC02-ALT-CHARGE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273581086/5048864-NOC02-ALT-COMPARE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273843230/5048864-NOC02-ALT-SHORTCIRC.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806272860190/5048864-NOC02singleonly.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806272827422/5048864-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806272991262/5048864-NOC02-ALT-VEMT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273286174/5048864-NOC02-ALT-LEVELS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273384478/5048864-NOC02-ALT-CHARGE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273581086/5048864-NOC02-ALT-COMPARE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273843230/5048864-NOC02-ALT-SHORTCIRC.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806272860190/5048864-NOC02singleonly.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806272827422/5048864-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806272991262/5048864-NOC02-ALT-VEMT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273286174/5048864-NOC02-ALT-LEVELS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273384478/5048864-NOC02-ALT-CHARGE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273581086/5048864-NOC02-ALT-COMPARE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273843230/5048864-NOC02-ALT-SHORTCIRC.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806272860190/5048864-NOC02singleonly.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806272827422/5048864-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806272991262/5048864-NOC02-ALT-VEMT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273286174/5048864-NOC02-ALT-LEVELS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273384478/5048864-NOC02-ALT-CHARGE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273581086/5048864-NOC02-ALT-COMPARE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806273843230/5048864-NOC02-ALT-SHORTCIRC.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806272860190/5048864-NOC02singleonly.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fenix L18-3500 18650 Li-Ion Battery",
+  "product_code": "5048-864",
+  "source_url": "https://www.mec.ca/en/product/5048-864/L18-3500-18650-Li-Ion-Battery",
+  "tech_specs": {
+    "Capacity": [
+      "3500mAh"
+    ],
+    "Chemistry": [
+      "Lithium-ion"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Rechargeable": [
+      "Yes"
+    ],
+    "Size": [
+      "18650"
+    ],
+    "Weight": [
+      "50g"
+    ]
+  }
+}

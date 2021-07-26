@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water bottles",
+    "Collapsible bottles",
+    "Soft Flask 250ml/8oz Standard"
+  ],
+  "description": "A soft flask that you can stash in a pocket.Made of lightweight TPU that's BPA-free.Welded seams add durability.Withstands freezing or temps up to 60\u00b0C.28mm opening and high-flow valve.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079666966558/6007890-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079626137630/6007890-NOC02-ALT-CAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079626465310/6007890-NOC02-ALT-CAP2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079627022366/6007890-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079628136478/6007890-NOC02-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079666966558/6007890-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079626137630/6007890-NOC02-ALT-CAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079626465310/6007890-NOC02-ALT-CAP2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079627022366/6007890-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079628136478/6007890-NOC02-ALT-LIFESTYLE2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079666966558/6007890-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079626137630/6007890-NOC02-ALT-CAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079626465310/6007890-NOC02-ALT-CAP2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079627022366/6007890-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079628136478/6007890-NOC02-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079666966558/6007890-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079626137630/6007890-NOC02-ALT-CAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079626465310/6007890-NOC02-ALT-CAP2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079627022366/6007890-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079628136478/6007890-NOC02-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Soft Flask 250ml/8oz Standard - Unisex",
+  "product_code": "6007-890",
+  "source_url": "https://www.mec.ca/en/product/6007-890/Soft-Flask-250ml-8oz-Standard",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Running",
+      "Backpacking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Polyethylene"
+    ],
+    "Volume": [
+      ".25L"
+    ]
+  }
+}

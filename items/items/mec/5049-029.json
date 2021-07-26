@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Headbands and ear muffs",
+    "Buffalo Plaid Earwarmer"
+  ],
+  "description": "Downtown wind tunnels have nothing on these earwarmers. Wear them over the top of your head or behind your neck.Knit acrylic exterior.Buffalo plaid pairs well with with jeans, man-beards and artisanal axes.Plush polyester faux-fur lining for extra cozy warmth.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8838934331422/5049029-DKR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8838934528030/5049029-DKR00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8838934331422/5049029-DKR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8838934528030/5049029-DKR00-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8838934331422/5049029-DKR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8838934528030/5049029-DKR00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8838934331422/5049029-DKR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8838934528030/5049029-DKR00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ear Podz Buffalo Plaid Earwarmer - Men's",
+  "product_code": "5049-029",
+  "source_url": "https://www.mec.ca/en/product/5049-029/Buffalo-Plaid-Earwarmer",
+  "tech_specs": {
+    "Fabric content": [
+      "100% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Snowsports"
+    ],
+    "Lining/backer": [
+      "Polyester"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

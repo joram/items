@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking clothing",
+    "Hiking pants",
+    "Sabria Pants"
+  ],
+  "description": "Sleek, durable and lightweight, these are high-performing pants for hiking in technical terrain. A fabric blend of nylon and elastane provides stretch  for high-stepping on rugged trails, and is DWR-treated to help you stay dry long enough to layer up. The low profile waistband is designed to sit comfortably under a pack, and zippered thigh pockets sit below a hipbelt for access when you're on the move.Durable, quick-drying nylon fabric with plenty of stretch.DWR treated for water resistance.Comfortable pull-on waist with internal adjuster.Gusseted crotch for comfort and mobility.Articulated knees.Twin zippered, mesh-lined thigh pockets.UPF rating 50+.Built to the highest standards, with a women's specific design.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131592908830/6001070-DIM29.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078190211102/6001070-COM04-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078139879454/6001070-COM04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131592777758/6001070-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131592908830/6001070-DIM29.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078190211102/6001070-COM04-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078139879454/6001070-COM04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131592777758/6001070-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131592908830/6001070-DIM29.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078190211102/6001070-COM04-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078139879454/6001070-COM04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131592777758/6001070-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131592908830/6001070-DIM29.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078190211102/6001070-COM04-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078139879454/6001070-COM04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131592777758/6001070-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Sabria Pants - Women's",
+  "product_code": "6001-070",
+  "source_url": "https://www.mec.ca/en/product/6001-070/Sabria-Pants",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Gusseted crotch"
+    ],
+    "Fabric content": [
+      "87% nylon",
+      "13% elastane"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Pockets": [
+      "2 front zippered"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ],
+    "Weight": [
+      "190g (4)"
+    ]
+  }
+}

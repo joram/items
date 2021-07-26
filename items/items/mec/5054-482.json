@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "J'explore le Quebec"
+  ],
+  "description": "Entertain your kids with this informative travel guide to Quebec. It includes images and illustrations and highlights a number of points of interest and facts about a variety of locations within the province. For children aged 6-12. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879849635870/5054482-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881079713822/5054482-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879849635870/5054482-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881079713822/5054482-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879849635870/5054482-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881079713822/5054482-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879849635870/5054482-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881079713822/5054482-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses J'explore le Quebec",
+  "product_code": "5054-482",
+  "source_url": "https://www.mec.ca/en/product/5054-482/J%27explore-le-Quebec",
+  "tech_specs": {
+    "Author": [
+      "Christine Ouin, Julie Brodeur"
+    ],
+    "ISBN": [
+      "9782894646496"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "112"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "Quebec"
+    ]
+  }
+}

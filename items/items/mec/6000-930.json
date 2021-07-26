@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Paddleboarding",
+    "Paddleboard accessories",
+    "Fins",
+    "Cruising Fin Pack with Tool Free Screw"
+  ],
+  "description": "A fin for everyday adventures, the tool-free design is easy to remove for storage.Fits the fin box for all Level Six boards, rigid or inflatable.Includes 1 stabilizer fin.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9019243724830/6000930-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9019243724830/6000930-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Cruising Fin Pack with Tool Free Screw",
+  "product_code": "6000-930",
+  "source_url": "https://www.mec.ca/en/product/6000-930/Cruising-Fin-Pack-with-Tool-Free-Screw",
+  "tech_specs": {
+    "Ideal for": [
+      "All-around SUP"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

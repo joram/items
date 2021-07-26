@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Racks, straps, and locks",
+    "Car racks and carriers",
+    "All Terrain Foam Tire"
+  ],
+  "description": "Never get a flat on a portage again. This foam tire is not inflated, so cannot puncture.Sold singlyPins not included20cm tire has 1.9cm axle hole. 25cm tire has 2.5cm axle hole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017770803230/6002627-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017770803230/6002627-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Canadian River Supply All Terrain Foam Tire",
+  "product_code": "6002-627",
+  "source_url": "https://www.mec.ca/en/product/6002-627/All-Terrain-Foam-Tire",
+  "tech_specs": {
+    "Ideal for": [
+      "Canoe tripping",
+      "Cottage and recreational canoeing"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

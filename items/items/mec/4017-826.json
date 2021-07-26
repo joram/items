@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Camp stoves and grills",
+    "Accessories and maintenance",
+    "Omnifuel Maintenance Kit"
+  ],
+  "description": "A complete maintenance and repair kit for pre-2017 Primus\u00ae Omnifuel stove. The kit includes:Gasket (1)O-Ring (3)Jet Orifice (3)Grease tube (1)Leather washer (1)Instruction leaflet (1)Priming pad (1)Spring (1)Valve part (1)Cone (1)",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074412617758/4017826-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074412617758/4017826-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074412617758/4017826-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074412617758/4017826-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Primus Omnifuel Maintenance Kit",
+  "product_code": "4017-826",
+  "source_url": "https://www.mec.ca/en/product/4017-826/Omnifuel-Maintenance-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping"
+    ],
+    "Made in": [
+      "Estonia"
+    ],
+    "Weight": [
+      "65g"
+    ]
+  }
+}

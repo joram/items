@@ -1,0 +1,110 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Luggage",
+    "Rolling bags",
+    "Rolling Continent Cargo Pack"
+  ],
+  "description": "Rolling suitcases are convenient... until you discover that your hotel is actually at the bottom of a narrow cobblestone footpath. Luckily, the Rolling Continent Cargo Pack has a hidden superpower: a deployable backpack strap system that makes it easy to shoulder your load. Redesigned with a streamlined shape, the mesh backpanel and padded shoulder straps make it surprisingly comfortable in backpack mode. As a rolling suitcase, it has wheels that corner well and a telescoping handle that helps you weave and hustle to the departure gate. After extensive field testing for durability, including being thrown down stairs and rattled around baggage carousels, it's up for any adventure.Made of durable 600-denier polyester with a polyurethane coating and a DWR finish for excellent water resistance.Internal/external frame moves weight onto your hips for easier carrying in backpack mode and protects from bumps in rolling mode.Telescoping handle has a push button.Padded, contoured shoulder straps are height-adjustable.Dimpled foam back panel allows air circulation.Padded, contoured hipbelt uses several foam densities for a comfortable fit.Zippered panel covers the shoulder straps and hipbelt in suitcase mode and to protect them if you check the bag. Stow it behind the harness plate in backpack mode.Light PE foam padding adds structure (so it sits like a suitcase) and protects your souvenirs.Two front zippered pockets let you quickly access essentials.Large panel opening to the main compartment has a spill gate to allow overstuffing, and locking zipper heads for added security.Main compartment has a large mesh zippered pocket under the lid and 2 compression straps with buckles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559544350/5052860-BK105.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955094630430/5052860-NOCLR-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559118366/5052860-BK105-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559511582/5052860-BK105-ALT-BACKPACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8949292892190/5052860-BK105-ALT-BODYBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8949293121566/5052860-BK105-ALT-BODYFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950582640670/5052860-BK105-ALT-SIZES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955100430366/5052860-BK105-ALT-EMPTY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559085598/5052860-RTC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559544350/5052860-BK105.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955094630430/5052860-NOCLR-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559118366/5052860-BK105-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559511582/5052860-BK105-ALT-BACKPACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8949292892190/5052860-BK105-ALT-BODYBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8949293121566/5052860-BK105-ALT-BODYFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950582640670/5052860-BK105-ALT-SIZES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955100430366/5052860-BK105-ALT-EMPTY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559085598/5052860-RTC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559544350/5052860-BK105.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955094630430/5052860-NOCLR-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559118366/5052860-BK105-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559511582/5052860-BK105-ALT-BACKPACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8949292892190/5052860-BK105-ALT-BODYBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8949293121566/5052860-BK105-ALT-BODYFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950582640670/5052860-BK105-ALT-SIZES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955100430366/5052860-BK105-ALT-EMPTY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559085598/5052860-RTC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559544350/5052860-BK105.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955094630430/5052860-NOCLR-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559118366/5052860-BK105-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559511582/5052860-BK105-ALT-BACKPACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8949292892190/5052860-BK105-ALT-BODYBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8949293121566/5052860-BK105-ALT-BODYFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950582640670/5052860-BK105-ALT-SIZES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955100430366/5052860-BK105-ALT-EMPTY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948559085598/5052860-RTC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Rolling Continent Cargo Pack - Unisex",
+  "product_code": "5052-860",
+  "source_url": "https://www.mec.ca/en/product/5052-860/Rolling-Continent-Cargo-Pack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Clamshell zip"
+    ],
+    "Additional feature(s)": [
+      "Compression straps"
+    ],
+    "Adjustable shoulder harness\n\nAn adjustable harness lets you change the height of the shoulder straps to fit your specific back length.": [
+      "Yes"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "No"
+    ],
+    "Depth": [
+      "30cm"
+    ],
+    "Hipbelt": [
+      "Padded"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Length": [
+      "64cm (60L)",
+      "71cm (85L)"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "600-denier polyester"
+    ],
+    "Secondary fabric": [
+      "200-denier polyester"
+    ],
+    "Torso length\n\nTorso length is measured from the most prominent vertebrae at the back of your neck (top of shoulders) to the spot on your lower spine that lines up with the top of your hipbone.": [
+      "41-48cm (Black/Asphalt 60L)",
+      "41-53cm (Black/Asphalt 85L)"
+    ],
+    "Ventilated back panel": [
+      "Yes"
+    ],
+    "Volume": [
+      "60L (60L)",
+      "85L (85L)"
+    ],
+    "Weight": [
+      "3.10kg (60L)",
+      "3.40kg (85L)"
+    ],
+    "Width": [
+      "35cm"
+    ]
+  }
+}

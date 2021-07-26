@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Caps",
+    "Chromatic Cap"
+  ],
+  "description": "Rep the dead bird while you hide bedhead and keep the sun from your eyes.Stylish 6-panel design.Adjustable snap back fits most heads.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154486796318/6012522-GRY02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154492858398/6012522-GRY02-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154493055006/6012522-GRY02-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154486599710/6012522-DWL02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154486140958/6012522-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154486796318/6012522-GRY02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154492858398/6012522-GRY02-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154493055006/6012522-GRY02-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154486599710/6012522-DWL02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154486140958/6012522-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154486796318/6012522-GRY02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154492858398/6012522-GRY02-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154493055006/6012522-GRY02-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154486599710/6012522-DWL02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154486140958/6012522-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154486796318/6012522-GRY02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154492858398/6012522-GRY02-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154493055006/6012522-GRY02-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154486599710/6012522-DWL02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154486140958/6012522-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Chromatic Cap - Unisex",
+  "product_code": "6012-522",
+  "source_url": "https://www.mec.ca/en/product/6012-522/Chromatic-Cap",
+  "tech_specs": {
+    "Fabric content": [
+      "62% cotton",
+      "38% polyester"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

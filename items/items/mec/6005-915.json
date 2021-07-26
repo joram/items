@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Shoes",
+    "Sneakers and casual shoes",
+    "Elsa IV Sneakers"
+  ],
+  "description": "Busy days call for shoes that can keep up. This sneaker keeps your feet stylish and comfortable through long commutes and weekend trips to the farmer's market. A grippy sole offers great traction when you have to run for the train.Lightweight canvas upper.Breathable canvas lining.Luftcell PU footbed for all-day comfort.Achilles pad for comfort.Vulcanized construction for a sleek design.High traction TPU outsole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083339702302/6005915-BSW10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083317878814/6005915-BSW10-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083317911582/6005915-BSW10-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083318009886/6005915-BSW10-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083318337566/6005915-BSW10-ALT-TOESOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083318272030/6005915-BSW10-ALT-TOPSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136226336798/6005915-RPB02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097293987870/6005915-NTB10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083339702302/6005915-BSW10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083317878814/6005915-BSW10-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083317911582/6005915-BSW10-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083318009886/6005915-BSW10-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083318337566/6005915-BSW10-ALT-TOESOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083318272030/6005915-BSW10-ALT-TOPSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136226336798/6005915-RPB02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097293987870/6005915-NTB10.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083339702302/6005915-BSW10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083317878814/6005915-BSW10-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083317911582/6005915-BSW10-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083318009886/6005915-BSW10-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083318337566/6005915-BSW10-ALT-TOESOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083318272030/6005915-BSW10-ALT-TOPSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136226336798/6005915-RPB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097293987870/6005915-NTB10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083339702302/6005915-BSW10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083317878814/6005915-BSW10-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083317911582/6005915-BSW10-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083318009886/6005915-BSW10-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083318337566/6005915-BSW10-ALT-TOESOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083318272030/6005915-BSW10-ALT-TOPSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136226336798/6005915-RPB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097293987870/6005915-NTB10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Keen Elsa IV Sneakers - Women's",
+  "product_code": "6005-915",
+  "source_url": "https://www.mec.ca/en/product/6005-915/Elsa-IV-Sneakers",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Canvas"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

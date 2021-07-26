@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "PFDs, helmets and safety equipment",
+    "PFD accessories",
+    "Re-Arm Kit (MA7116)"
+  ],
+  "description": "Deployed your Mustang Survival Khimera PFD? This kit contains everything you need to re-arm it, so you're ready for your next day out on the water.Contains one 12g CO2 cylinder, 1 green indicator pin, and a re-arm manual.Compatible only with Mustang Survival Khimera Hybrid PFD.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8945645191198/5058050-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8945645191198/5058050-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mustang Survival Re-Arm Kit (MA7116)",
+  "product_code": "5058-050",
+  "source_url": "https://www.mec.ca/en/product/5058-050/Re-Arm-Kit-%28MA7116%29",
+  "tech_specs": {
+    "Ideal for": [
+      "Paddleboarding",
+      "Kayaking",
+      "Canoeing"
+    ],
+    "Made in": [
+      "Austria"
+    ]
+  }
+}

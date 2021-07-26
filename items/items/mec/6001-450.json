@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Trousers",
+    "Straight Fit Cords"
+  ],
+  "description": "Superb for no-jeans situations, these soft cords are classic, soft, and whiffle like only corduroy pants can.Made of organically grown cotton blended with spandex.Classic 5-pocket layout.Flat waistband with belt loops, zip fly and front shank closureStraight leg with a back yoke for shaping.Leg opening fits over hiking boots or approach shoes.\n\n        Sustainability\n\n\n\n\n\n\nFairTrade\n\n\n\n\n\n\n\n\n\n\n\n                      Certified Fair Trade",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048429264926/6001450-FOR25.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048419893278/6001450-FOR25-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048419926046/6001450-FOR25-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048429264926/6001450-FOR25.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048419893278/6001450-FOR25-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048419926046/6001450-FOR25-ALT-FLAT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048429264926/6001450-FOR25.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048419893278/6001450-FOR25-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048419926046/6001450-FOR25-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048429264926/6001450-FOR25.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048419893278/6001450-FOR25-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048419926046/6001450-FOR25-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Straight Fit Cords - Men's",
+  "product_code": "6001-450",
+  "source_url": "https://www.mec.ca/en/product/6001-450/Straight-Fit-Cords",
+  "tech_specs": {
+    "Fabric content": [
+      "98% organically grown cotton",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Sri Lanka"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "1 front drop-in",
+      "2 back drop-in"
+    ],
+    "Product sustainability": [
+      "Certified Fair Trade"
+    ]
+  }
+}

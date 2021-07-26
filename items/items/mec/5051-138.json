@@ -1,0 +1,67 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Climbing footwear",
+    "Climbing shoes",
+    "Mythos Eco Rock Shoes"
+  ],
+  "description": "Still sending! The Mythos might be the most successful climbing shoe ever made. A narrow toe profile excels on thin cracks, yet the midsoles are stiff enough to get some bite when edging. The wrap-around lacing system lets you tune the fit along the top of your foot and fine tune the cupping around your heel. This version features laces and webbing made from recycled fishing nets, a sole made from leftover rubber and leather that isn't processed with heavy metals.Uppers are biodegradable leather made using a metal-free tanning process.Laces and webbing are made from recycled fishing nets.Constructed using water-based adhesives.Unlined suede leather uppers provide a glove-like fit.1.1mm Laspoflex midsoles are moderately stiff for good edging, yet supple enough to allow smearing.Grippy 4mm thick La Sportiva Eco-Rubber outsole made from leftover rubber at the La Sportiva factory.La Sportiva suggests downsizing 1-1.5 sizes (performance fit) or 0.5-1 sizes (comfort fit) from your street shoe size.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879420309534/5051138-TAU00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881075847198/5051138-TAU00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881075879966/5051138-TAU00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879420309534/5051138-TAU00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881075847198/5051138-TAU00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881075879966/5051138-TAU00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879420309534/5051138-TAU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881075847198/5051138-TAU00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881075879966/5051138-TAU00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879420309534/5051138-TAU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881075847198/5051138-TAU00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881075879966/5051138-TAU00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "La Sportiva Mythos Eco Rock Shoes - Men's",
+  "product_code": "5051-138",
+  "source_url": "https://www.mec.ca/en/product/5051-138/Mythos-Eco-Rock-Shoes",
+  "tech_specs": {
+    "Asymmetry\n\nHighly asymmetric shoes allow more precision and focused power. Symmetrical shoes are more comfortable for all-around climbing.": [
+      "Low"
+    ],
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Bouldering",
+      "Indoor climbing",
+      "Trad climbing",
+      "Sport and toprope climbing"
+    ],
+    "Lined": [
+      "No"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Outsoles": [
+      "La Sportiva Eco-Rubber"
+    ],
+    "Stiffness\n\nStiffness is provided by the type of sole and the tensioning system. Softer shoes allow more precision. Supportive shoes prevent fatigue.": [
+      "Medium"
+    ],
+    "Type\n\nA neutral shoe suits long routes and cracks. Moderate shoes allow precision and good edging. Aggressive shoes are downturned and tensioned, for power to the toe on steep or overhanging routes.": [
+      "Neutral"
+    ],
+    "Uppers": [
+      "Leather"
+    ],
+    "Weight": [
+      "466g (42)"
+    ]
+  }
+}

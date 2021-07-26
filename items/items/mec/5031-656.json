@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Uppers and downers",
+    "Ascenders",
+    "Croll Ascender S"
+  ],
+  "description": "Unmatched for efficiency on fixed lines, this compact ascender doesn't interfere with progression. Use with a Basic ascender or with an Ascension handled ascender for rope ascents.Aluminum frame with a nylon trigger.Stainless steel cam with angled teeth is self cleaning, and secure on muddy or icy ropes.Steel cam and wear plate are designed for durability.Lower hole angled to keep the chest ascender flat.Upper hole for attaching a shoulder strap and keeping the ascender in position.Not intended for situations such as self belay where it can be shock loaded.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216218142/5031656-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216283678/5031656-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216218142/5031656-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216283678/5031656-NOC02-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216218142/5031656-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216283678/5031656-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216218142/5031656-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216283678/5031656-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Croll Ascender S",
+  "product_code": "5031-656",
+  "source_url": "https://www.mec.ca/en/product/5031-656/Croll-Ascender-S",
+  "tech_specs": {
+    "Body material": [
+      "Aluminum"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Cam material": [
+      "Stainless steel"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Trad and aid climbing"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Rope diameter\n\nThe maximum diameter or the range of rope diameter that is compatible with the device.": [
+      "8-11mm"
+    ],
+    "Weight": [
+      "90g"
+    ]
+  }
+}

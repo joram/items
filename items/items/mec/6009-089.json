@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike lubricants and cleaners",
+    "Lubricants and grease",
+    "C3 Wet Ceramic Chain Lube"
+  ],
+  "description": "Extra long lasting lubricant.  This liquid lube is designed for wet or muddy conditions, reducing friction for a more efficient ride.Easy to use in a drop-on application.Fine point tip lets you apply to hard-to-reach places.Boron nitrite and ceramic formula reduces friction with long-lasting performance.Prevents corrosion between links and plates in your chain.Suitable for road, MTB and cyclocross bikes.95 % biodegradable formula.UV torch included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064724004894/6009089-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064720859166/6009089-NOC02-ALT-CONTAINER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064720891934/6009089-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064720924702/6009089-NOC02-ALT-PACKAGEANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064724004894/6009089-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064720859166/6009089-NOC02-ALT-CONTAINER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064720891934/6009089-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064720924702/6009089-NOC02-ALT-PACKAGEANGLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064724004894/6009089-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064720859166/6009089-NOC02-ALT-CONTAINER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064720891934/6009089-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064720924702/6009089-NOC02-ALT-PACKAGEANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064724004894/6009089-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064720859166/6009089-NOC02-ALT-CONTAINER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064720891934/6009089-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064720924702/6009089-NOC02-ALT-PACKAGEANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Muc-Off C3 Wet Ceramic Chain Lube",
+  "product_code": "6009-089",
+  "source_url": "https://www.mec.ca/en/product/6009-089/C3-Wet-Ceramic-Chain-Lube",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance",
+      "Mountain biking",
+      "Road cycling",
+      "Cyclocross"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Volume": [
+      ".12L"
+    ]
+  }
+}

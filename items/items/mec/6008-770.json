@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Accessories",
+    "Running socks",
+    "Double Layer Escape Quarter Socks"
+  ],
+  "description": "These technical socks are double-layered to reduce friction as you move. Great for hiking and other long days on your feet.Both layers are made of polyester, nylon and LYCRA.Inner layer is smooth against the skin and wicks moisture away from your feet.Lightly cushioned footbed.Stabilizer zones keep them in place.Venting channels add breathability.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9066752278558/6008770-BK621.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9066752213022/6008770-ATB06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9066752278558/6008770-BK621.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9066752213022/6008770-ATB06.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9066752278558/6008770-BK621.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9066752213022/6008770-ATB06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9066752278558/6008770-BK621.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9066752213022/6008770-ATB06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "WrightSock Double Layer Escape Quarter Socks - Unisex",
+  "product_code": "6008-770",
+  "source_url": "https://www.mec.ca/en/product/6008-770/Double-Layer-Escape-Quarter-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Quarter"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "68% polyester",
+      "24% nylon",
+      "8% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Trail running",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

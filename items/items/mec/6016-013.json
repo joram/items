@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing training gear",
+    "Resistance Bands"
+  ],
+  "description": "A pack of 3 resistance bands. Great for rehab, cross training and conditioning. Different resistances allow you to vary the intensity of your workout.Includes 3 latex resistance bands, instructions and carry bag.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194105569310/6016013-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194271670302/6016013-BL000-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194105569310/6016013-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194271670302/6016013-BL000-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194105569310/6016013-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194271670302/6016013-BL000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194105569310/6016013-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194271670302/6016013-BL000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pro-Tec Athletics Resistance Bands",
+  "product_code": "6016-013",
+  "source_url": "https://www.mec.ca/en/product/6016-013/Resistance-Bands",
+  "tech_specs": {
+    "Ideal for": [
+      "Fitness and training",
+      "Climbing training"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

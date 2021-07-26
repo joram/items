@@ -1,0 +1,93 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Sleeping pads",
+    "Inflatable sleeping pads",
+    "Prolite WV Sleeping Pad"
+  ],
+  "description": "Grams count, and this sleeping pad is one of the lightest, most compact available. Designed for long-distance hikers, the Prolite has tapered corners that shave weight. It's new 1-way valve is super-quick to inflate \u2013 about 3 times faster than a Therm-a-Rest classic valve.Mini hex polyester fabric top an bottom.WingLock valve is 3x faster than conventional valves.1-way airflow is quick and easy to operate even while wearing gloves.Deflates almost instantly.Highly compressible Atmos foam expands quickly when you open the valve.Rounded corners and tapered shape reduce packed volume.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081673023518/6008218-POP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081655296030/6008218-POP00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081655951390/6008218-POP00-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081656049694/6008218-POP00-ALT-PARTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081673023518/6008218-POP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081655296030/6008218-POP00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081655951390/6008218-POP00-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081656049694/6008218-POP00-ALT-PARTS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081673023518/6008218-POP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081655296030/6008218-POP00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081655951390/6008218-POP00-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081656049694/6008218-POP00-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081673023518/6008218-POP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081655296030/6008218-POP00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081655951390/6008218-POP00-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081656049694/6008218-POP00-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Therm-a-Rest Prolite WV Sleeping Pad - Unisex",
+  "product_code": "6008-218",
+  "source_url": "https://www.mec.ca/en/product/6008-218/Prolite-WV-Sleeping-Pad",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Stuff sack included"
+    ],
+    "Bottom Fabric": [
+      "50-denier ripstop polyester"
+    ],
+    "Capacity\n\nThe number of average sized people that the product can comfortably sleep.": [
+      "1-person"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Inflation method": [
+      "Self-inflating"
+    ],
+    "Insulation": [
+      "Open-cell foam"
+    ],
+    "Length": [
+      "119cm (Small)",
+      "183cm (Regular)"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "R value (thermal resistance)\n\nMeasures insulative value. Higher values indicate more warmth: 1 to 3 are best for warm weather. 3 to 4 are best for 3-season use.4.5 or higher is best for winter.": [
+      "2.4"
+    ],
+    "Rolled diameter": [
+      "13cm (Small)",
+      "15cm (Regular)"
+    ],
+    "Rolled length": [
+      "28cm"
+    ],
+    "Shape": [
+      "Mummy"
+    ],
+    "Thickness": [
+      "2.5cm"
+    ],
+    "Top Fabric": [
+      "50-denier ripstop polyester"
+    ],
+    "Type": [
+      "Inflatable pad"
+    ],
+    "Weight": [
+      "350g (Small)",
+      "510g (Regular)"
+    ],
+    "Width": [
+      "51cm"
+    ]
+  }
+}

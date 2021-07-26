@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Hydration packs and accessories",
+    "Bladders, reservoirs and accessories",
+    "Platy Water Tank"
+  ],
+  "description": "Transports 6L of water for hut trips, base camps, or car camping. Folded flat, it slides easily into a pack.Sealable zip top makes for easy filling and cleaning.Reinforced handles are comfortable to carry.Side cap allows controlled, spill-free pouring.Measurement lines let you gauge how much water remains.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812280414238/5027910-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812280414238/5027910-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Platypus Platy Water Tank",
+  "product_code": "5027-910",
+  "source_url": "https://www.mec.ca/en/product/5027-910/Platy-Water-Tank",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lid type": [
+      "Screw-top"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Polyurethane",
+      "Polyethylene"
+    ],
+    "Volume": [
+      "4L (4L)",
+      "6L (6 L)"
+    ],
+    "Water filter compatible": [
+      "No"
+    ],
+    "Weight": [
+      "124g (6 L)"
+    ]
+  }
+}

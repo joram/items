@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "FLT Toque"
+  ],
+  "description": "Slouchy and laid-back to exude a relaxed air.Made of Polylana\u00ae fibre with similar characteristics to wool and acrylic.Short and slouchy fit sits just over the ears.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600478238/6010978-GRY85.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131602346014/6010978-BRG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600281630/6010978-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600478238/6010978-GRY85.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131602346014/6010978-BRG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600281630/6010978-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600478238/6010978-GRY85.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131602346014/6010978-BRG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600281630/6010978-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600478238/6010978-GRY85.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131602346014/6010978-BRG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600281630/6010978-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coal FLT Toque - Unisex",
+  "product_code": "6010-978",
+  "source_url": "https://www.mec.ca/en/product/6010-978/FLT-Toque",
+  "tech_specs": {
+    "Fabric content": [
+      "60% polyester",
+      "40% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

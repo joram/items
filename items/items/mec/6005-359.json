@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Pots and pot sets",
+    "Pot sets",
+    "Half Gallon Sous Vide Bag"
+  ],
+  "description": "Reduce your impact on the environment by reusing your food containers. This large, soft sided bag is great for sous vide dinners or storing leftovers for the next day's lunch.Food grade silicone is easy to clean and won't transfer taste.Airtight pinch and press seal keeps food fresh.Dimensions: 26 x 21 x 4cmDishwasher and microwave safe.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038251524126/6005359-CLR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038670331934/6005359-CLR00-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038251524126/6005359-CLR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038670331934/6005359-CLR00-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038251524126/6005359-CLR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038670331934/6005359-CLR00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038251524126/6005359-CLR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038670331934/6005359-CLR00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Stasher Half Gallon Sous Vide Bag",
+  "product_code": "6005-359",
+  "source_url": "https://www.mec.ca/en/product/6005-359/Half-Gallon-Sous-Vide-Bag",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Silicone"
+    ],
+    "Volume": [
+      "1.9L"
+    ],
+    "Weight": [
+      "120g"
+    ]
+  }
+}

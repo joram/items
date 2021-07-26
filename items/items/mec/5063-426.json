@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Climbing helmets",
+    "Salathe Helmet"
+  ],
+  "description": "Ultralight so you barely know it's there, the Edelrid Salathe Helmet is a great option for all types of climbing. Expanded polypropylene cushions your head from falling objects, and a hard shell in the upper and front area gives you additional protection. Lots of ventilation dissipates heat on warm days. On the front, headlamp attachment points can hold a light when you climb into the night.Made of expanded polypropylene for lightweight energy absorption.Partial hard shell adds impact protection and durability in key areas.Large ventilation openings to help you keep a cool head.Padded interior adds comfort.Lightweight adjustment system reduces weight and provides a secure fit.2 front clips and rear elastic for attaching a headlamp.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008001744926/5063426-OAS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008640524318/5063426-OAS00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008641671198/5063426-OAS00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008001744926/5063426-OAS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008640524318/5063426-OAS00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008641671198/5063426-OAS00-ALT-INSIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008001744926/5063426-OAS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008640524318/5063426-OAS00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008641671198/5063426-OAS00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008001744926/5063426-OAS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008640524318/5063426-OAS00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008641671198/5063426-OAS00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Edelrid Salathe Helmet - Unisex",
+  "product_code": "5063-426",
+  "source_url": "https://www.mec.ca/en/product/5063-426/Salathe-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Climbing"
+    ],
+    "Circumference\n\nThe internal circumference determines the size head that the helmet will fit.": [
+      "48-56cm (Small)",
+      "52-62cm (Large)"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "One-piece"
+    ],
+    "Fit system": [
+      "Adjustable air-fit"
+    ],
+    "Headlamp compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Snow and ice climbing"
+    ],
+    "Inner material": [
+      "EPP (expanded polypropylene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "EN 12492",
+      "UIAA 106"
+    ],
+    "Shell material": [
+      "ABS"
+    ],
+    "Vents": [
+      "Yes"
+    ],
+    "Weight": [
+      "200g (Small)"
+    ]
+  }
+}

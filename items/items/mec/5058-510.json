@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Volunteer Traveller's Guide 4th Edition"
+  ],
+  "description": "Do you want to make a difference and help the communities you visit? By volunteering abroad, you can build skills, gain new knowledge, and expand your perspective while helping other people. This guide will help you plan your volunteer experience anywhere in the world.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8940974014494/5058510-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8940974014494/5058510-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Lonely Planet Volunteer Traveller's Guide 4th Edition",
+  "product_code": "5058-510",
+  "source_url": "https://www.mec.ca/en/product/5058-510/Volunteer-Traveller%27s-Guide-4th-Edition",
+  "tech_specs": {
+    "Author": [
+      "Charlotte Hindle, Nate Cavalieri, Rachel Collinson, Korina Miller, Mike Richard, Sarah Wintle"
+    ],
+    "Edition": [
+      "4th"
+    ],
+    "ISBN": [
+      "9781786578679"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pages": [
+      "320"
+    ],
+    "Published": [
+      "2017"
+    ]
+  }
+}

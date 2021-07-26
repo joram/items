@@ -1,0 +1,89 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Vacuum bottles and flasks",
+    "Microlite 1000 Twist Bottle"
+  ],
+  "description": "A sleek design that weighs considerably less than most insulated bottles \u2013 so ideal for rest days.Super-thin insulated walls are only 2mm thick, keeping the weight down.Keeps your drinks hot for up to 18 hours or cold for up to 32 hours.Leakproof screw-top lid.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537631774/6012854-TRU00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518921246/6012854-TRU00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162519052318/6012854-TRU00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518888478/6012854-HRD00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518855710/6012854-HRD00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518757406/6012854-CPS00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518954014/6012854-CPS00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537402398/6012854-HRD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537566238/6012854-CPS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537631774/6012854-TRU00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518921246/6012854-TRU00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162519052318/6012854-TRU00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518888478/6012854-HRD00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518855710/6012854-HRD00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518757406/6012854-CPS00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518954014/6012854-CPS00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537402398/6012854-HRD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537566238/6012854-CPS00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537631774/6012854-TRU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518921246/6012854-TRU00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162519052318/6012854-TRU00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518888478/6012854-HRD00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518855710/6012854-HRD00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518757406/6012854-CPS00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518954014/6012854-CPS00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537402398/6012854-HRD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537566238/6012854-CPS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537631774/6012854-TRU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518921246/6012854-TRU00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162519052318/6012854-TRU00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518888478/6012854-HRD00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518855710/6012854-HRD00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518757406/6012854-CPS00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518954014/6012854-CPS00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537402398/6012854-HRD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537566238/6012854-CPS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Microlite 1000 Twist Bottle",
+  "product_code": "6012-854",
+  "source_url": "https://www.mec.ca/en/product/6012-854/Microlite-1000-Twist-Bottle",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lid type": [
+      "Screw-top"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Volume": [
+      "1L"
+    ],
+    "Water filter compatible": [
+      "No"
+    ],
+    "Weight": [
+      "369g"
+    ]
+  }
+}

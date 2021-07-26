@@ -1,0 +1,91 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water filters",
+    "Gravity filters",
+    "Guardian Gravity Purifier"
+  ],
+  "description": "A true game changer that makes almost any questionable water source safe to drink. The Guardian purifies and filters water, so you don't need to carry chemical water treatment or a UV purifier when you're in virus territory. The gravity system is a low-effort option that needs no pumping - simply fill and raise the reservoir and let gravity filter and purify your water while you set up camp, prep dinner, or just relax.Durable film reservoir with 1000-denier fabric bottom for increased abrasion resistance.Hollow fibre technology uses polymer fibres to create a high-surface-area filter that allows water to flow quickly through a 0.02 micron effective pore size.Activated carbon reduces concentrations of some chemicals (including iodine and chlorine), odours and tastes.Purge valve flushes system without the need to backflush.Universal bottle attapter attaches to most water bottles.Meets NSF protocol P248 military standards.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163013881886/6012587-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988879902/6012587-GRY00-ALT-ALLPIECES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988912670/6012587-GRY00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988945438/6012587-GRY00-ALT-FILTER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988978206/6012587-GRY00-ALT-SCALE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162989010974/6012587-GRY00-ALT-STUFFSACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162989043742/6012587-GRY00-ALT-STUFFSACK-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163013881886/6012587-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988879902/6012587-GRY00-ALT-ALLPIECES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988912670/6012587-GRY00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988945438/6012587-GRY00-ALT-FILTER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988978206/6012587-GRY00-ALT-SCALE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162989010974/6012587-GRY00-ALT-STUFFSACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162989043742/6012587-GRY00-ALT-STUFFSACK-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163013881886/6012587-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988879902/6012587-GRY00-ALT-ALLPIECES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988912670/6012587-GRY00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988945438/6012587-GRY00-ALT-FILTER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988978206/6012587-GRY00-ALT-SCALE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162989010974/6012587-GRY00-ALT-STUFFSACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162989043742/6012587-GRY00-ALT-STUFFSACK-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163013881886/6012587-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988879902/6012587-GRY00-ALT-ALLPIECES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988912670/6012587-GRY00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988945438/6012587-GRY00-ALT-FILTER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162988978206/6012587-GRY00-ALT-SCALE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162989010974/6012587-GRY00-ALT-STUFFSACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162989043742/6012587-GRY00-ALT-STUFFSACK-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Guardian Gravity Purifier",
+  "product_code": "6012-587",
+  "source_url": "https://www.mec.ca/en/product/6012-587/Guardian-Gravity-Purifier",
+  "tech_specs": {
+    "Cartridge life\n\nThe life of the filter cartridge is based on the quantity of water you can treat before the cartridge is no longer effective. This does not apply to battery operated or chemical filter systems.": [
+      "10000L"
+    ],
+    "Dimensions": [
+      "21\u00a0x\u00a012cm"
+    ],
+    "Effective against bacteria\n\nBacteria can cause illnesses such as diarrhea and dysentery and are about 1.0 micron in size, although some can be as small as 0.2 microns.": [
+      "Yes"
+    ],
+    "Effective against particulate\n\nParticulate consists of very small bits and pieces such as dirt or bugs.": [
+      "Yes"
+    ],
+    "Effective against protozoa\n\nProtozoa are larger than one micron and include cryptosporidium and giardia.": [
+      "Yes"
+    ],
+    "Effective against viruses\n\nMost viruses are in the 0.1 micron size range, but they can be as small as 0.002 microns.": [
+      "Yes"
+    ],
+    "Filter size\n\nA 0.5 micron or smaller filters protozoa and some large bacteria; 0.2 micron or smaller filters smaller bacteria such as campylobacter.": [
+      "0.02microns"
+    ],
+    "Filter type\n\nWater can be treated using various types of filters, chemicals or non-chemical purification methods, or a combination. Filters on their own will not remove viruses as they are too small.": [
+      "Hollow fibre technology"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Backpacking",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Output": [
+      "1L/min"
+    ],
+    "Weight": [
+      "532g"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Uppers and downers",
+    "Belay devices",
+    "Smarter Belay Package"
+  ],
+  "description": "Enter the crux with confidence, knowing your belayer will catch you should you blow the move. The Mammut Smarter add-on attaches to the Smart 2.0. In the case of a fall, it triggers to block the rope, even if the brake end is held incorrectly. It can be removed as belay skills increase or when more experienced belayers use it. The Smart HMS carabiner has a safety gate feature that locks in place when the screwgate is closed to keep it in the correct orientation.Belay tube-like geometry quickly feeds rope and brakes for snappy catches and easy holding (for a leader who likes to hang and work projects).Smarter add-on blocks rope during a fall, even in the event of incorrect brake hand position.Integrated loop lets you hang the Smarter on harness when not in use.Carabiner has a clean nose that prevents snagging on the belay loop or device.Safety gate feature captures the belay loop to prevent shifting and cross-loading.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022003150878/5064313-PHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022003150878/5064313-PHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mammut Smarter Belay Package",
+  "product_code": "5064-313",
+  "source_url": "https://www.mec.ca/en/product/5064-313/Smarter-Belay-Package",
+  "tech_specs": {
+    "Belay off anchor\n\nUse an autoblock device with a locking carabiner to belay off the anchor or to bring up two seconds on independent lines.": [
+      "Yes"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Snow and ice climbing",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Rope diameter\n\nThe maximum diameter or the range of rope diameter that is compatible with the device.": [
+      "8.7 - 10.5mm"
+    ],
+    "Type": [
+      "Geometry assisted"
+    ],
+    "Weight": [
+      "190g"
+    ]
+  }
+}

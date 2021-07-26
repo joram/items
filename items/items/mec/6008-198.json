@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Leashes and accessories",
+    "Piolet Pommel"
+  ],
+  "description": "A sliding hand or finger rest for a more comfortable grip on your piolet.Locking lever allows you to adjust the position on the shaft without tools.Compatible with all Blue Ice mountaineering axes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074239471646/6008198-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074232033310/6008198-BK000-ALT-CLOSEDONAXE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074232066078/6008198-BK000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074232229918/6008198-BK000-ALT-OPENONAXE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074239471646/6008198-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074232033310/6008198-BK000-ALT-CLOSEDONAXE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074232066078/6008198-BK000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074232229918/6008198-BK000-ALT-OPENONAXE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074239471646/6008198-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074232033310/6008198-BK000-ALT-CLOSEDONAXE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074232066078/6008198-BK000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074232229918/6008198-BK000-ALT-OPENONAXE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074239471646/6008198-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074232033310/6008198-BK000-ALT-CLOSEDONAXE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074232066078/6008198-BK000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074232229918/6008198-BK000-ALT-OPENONAXE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Blue Ice Piolet Pommel",
+  "product_code": "6008-198",
+  "source_url": "https://www.mec.ca/en/product/6008-198/Piolet-Pommel",
+  "tech_specs": {
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "12g"
+    ]
+  }
+}

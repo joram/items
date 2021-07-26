@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Climbing chalk",
+    "Liquid Chalk"
+  ],
+  "description": "Keep your hands clean and your tips dry. This liquid chalk has a high concentration of ethanol, required at many gyms now days.Made with 80% alcohol base.Great for gyms, and way less messy than loose chalk.Keeps your hands dry without having to re-chalk when working long problems.Large 250ml bottle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160712585246/6013281-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160712585246/6013281-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Evolv Liquid Chalk - Unisex",
+  "product_code": "6013-281",
+  "source_url": "https://www.mec.ca/en/product/6013-281/Liquid-Chalk",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing",
+      "Bouldering",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Type of chalk": [
+      "Liquid"
+    ]
+  }
+}

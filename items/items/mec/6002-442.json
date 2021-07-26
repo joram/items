@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Popular Day Hikes: Northern Okanagan - Revise"
+  ],
+  "description": "The 35 popular day hikes in this guidebook cover the area stretching from Grindrod in the north to Vernon in the south, and between the Okanagan Valley and the Shuswap. Find hidden trails and walk well-trod pathways, with little need for rigorous bushwhacking or tricky scrambling. Routes lead through semi-desert, lakeside or mountain landscapes, and feature a diverse selection of flowering shrubs, plants, and wildlife along the way. Revised second edition features a fresh design and the most current route updates.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032071249950/6002442-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032071249950/6002442-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Popular Day Hikes: Northern Okanagan - Revise",
+  "product_code": "6002-442",
+  "source_url": "https://www.mec.ca/en/product/6002-442/Popular-Day-Hikes%3A-Northern-Okanagan---Revise",
+  "tech_specs": {
+    "Author": [
+      "Gerry Shea"
+    ],
+    "Edition": [
+      "2nd"
+    ],
+    "ISBN": [
+      "9781771602457"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "152"
+    ],
+    "Published": [
+      "2019"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

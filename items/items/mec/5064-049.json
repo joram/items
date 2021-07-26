@@ -1,0 +1,70 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Paddleboarding",
+    "SUP paddles",
+    "Fiberglass Paddle"
+  ],
+  "description": "Cut through placid or rough waters with ease. A fiberglass shaft and a teardrop-shaped fibreglass blade add up to light paddle at a reasonable cost.  The adjustable length adapts to different heights and stroke styles.Fiberglass shaft.Teardrop-shaped blade uses fiberglass reinforced plastic.Adjustable length from 173cm to 221cm so you can share with other paddlers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193344991262/5064049-ORC03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357377566/5064049-ORC03-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357574174/5064049-ORC03-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018943078430/5064049-LKE00-ALT-HANDLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018943242270/5064049-LKE00-ALT-PADDLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018931413022/5064049-LKE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193344991262/5064049-ORC03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357377566/5064049-ORC03-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357574174/5064049-ORC03-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018943078430/5064049-LKE00-ALT-HANDLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018943242270/5064049-LKE00-ALT-PADDLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018931413022/5064049-LKE00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193344991262/5064049-ORC03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357377566/5064049-ORC03-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357574174/5064049-ORC03-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018943078430/5064049-LKE00-ALT-HANDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018943242270/5064049-LKE00-ALT-PADDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018931413022/5064049-LKE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193344991262/5064049-ORC03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357377566/5064049-ORC03-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357574174/5064049-ORC03-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018943078430/5064049-LKE00-ALT-HANDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018943242270/5064049-LKE00-ALT-PADDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018931413022/5064049-LKE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Fiberglass Paddle",
+  "product_code": "5064-049",
+  "source_url": "https://www.mec.ca/en/product/5064-049/Fiberglass-Paddle",
+  "tech_specs": {
+    "Blade dimensions": [
+      "NaN\u00a0x\u00a0NaNcm"
+    ],
+    "Blade material": [
+      "Fibreglass reinforced plastic"
+    ],
+    "Blade shape\n\nBlade shapes are designed to apply power efficiently. Short, wide: immediate power. Long, narrow: better leverage in turbulent water. Wing: channels water for maximum power and speed.": [
+      "Teardrop"
+    ],
+    "Ideal for": [
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Shaft material": [
+      "Fibreglass"
+    ],
+    "Shaft type": [
+      "Straight"
+    ],
+    "Weight": [
+      "900g"
+    ]
+  }
+}

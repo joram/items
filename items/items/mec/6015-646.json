@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Pots and pot sets",
+    "Pots",
+    "Trek Pot 0.6L"
+  ],
+  "description": "Trekking and thru-hiking cooking at it's finest. This small, lightweight pot gives you cooking options, and a non-stick coating aids with clean-up.Made of hard anodized aluminum with a ceramic non-stick coating.Thicker bottoms reduce risk of burning.Locking pot grip can be removed and mounted for packing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197176356894/6015646-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191117783070/6015646-NOC02-ALT-SM.NoRED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191117946910/6015646-NOC02-ALT-SMALLRED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197176356894/6015646-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191117783070/6015646-NOC02-ALT-SM.NoRED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191117946910/6015646-NOC02-ALT-SMALLRED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197176356894/6015646-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191117783070/6015646-NOC02-ALT-SM.NoRED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191117946910/6015646-NOC02-ALT-SMALLRED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197176356894/6015646-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191117783070/6015646-NOC02-ALT-SM.NoRED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191117946910/6015646-NOC02-ALT-SMALLRED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Primus Trek Pot 0.6L",
+  "product_code": "6015-646",
+  "source_url": "https://www.mec.ca/en/product/6015-646/Trek-Pot-0-6L",
+  "tech_specs": {
+    "Diameter": [
+      "9.4cm"
+    ],
+    "Dimensions": [
+      "9.4\u00a0x\u00a09cm"
+    ],
+    "Foldable handle": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Includes": [
+      "1 pot",
+      "Pot gripper",
+      "Lid(s) with strainer"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Hard-anodized aluminum"
+    ],
+    "Non-stick": [
+      "Yes"
+    ],
+    "Volume": [
+      "600ml"
+    ],
+    "Weight": [
+      "140g"
+    ]
+  }
+}

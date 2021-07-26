@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Mount Revelstoke N.P. Map"
+  ],
+  "description": "Mount Revelstoke National Park provides a wonderful variety of hiking and backpacking trails, stunning sub-alpine and alpine scenery, and plentiful wildlife. At a scale 1:50,000 with 25-metre contours, this map shows tree lines, avalanche slopes, rocky ground, and glacial and water features. Includes detailed inset of the base of the Parkway, the town of Revelstoke, and the Summit area.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815790719006/4008170-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815790719006/4008170-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Map Mount Revelstoke N.P. Map",
+  "product_code": "4008-170",
+  "source_url": "https://www.mec.ca/en/product/4008-170/Mount-Revelstoke-N-P-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Rockies",
+      "British Columbia"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

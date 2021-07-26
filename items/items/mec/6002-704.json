@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Mountaineering Over-The-Calf Socks"
+  ],
+  "description": "Heavyweight socks with extra cushion for long days in harsh conditions. Temperature regulating merino provides warmth and comfort on extra-cold and extra-long adventures.Made of high-density knit merino wool with nylon and spandex for durability and fit.True seamless construction makes them irresistibly comfortable.Super-thick cushioning underfoot for comfort in hiking or mountaineering boots.Extra-heavy terry-loop construction adds layers of warmth.Darn Tough sources their wool from non-mulesed sheep.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042328846366/6002704-MDN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042328846366/6002704-MDN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Darn Tough Mountaineering Over-The-Calf Socks - Women's",
+  "product_code": "6002-704",
+  "source_url": "https://www.mec.ca/en/product/6002-704/Mountaineering-Over-The-Calf-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Knee"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "72% merino wool",
+      "26% nylon",
+      "2% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Snowshoeing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thick"
+    ]
+  }
+}

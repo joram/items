@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing harnesses",
+    "Adjustable harnesses",
+    "Momentum Package"
+  ],
+  "description": "The package includes a Momentum Harness, locking carabiner, belay device, chalk bag and a chalk ball. The Momentum harness is an affordable, all-around option that uses Dual Core Construction with a venting foam insert in the center to balance comfort and breathability without pressure points.Bullhorn-shaped waist with Open Air foam is lightweight and breathable.Padded lumbar insert adds some comfort during extended hanging belays.Prethreaded SpeedAdjust buckle.Rocklock screwgate locking carabiner.ATC-XP belay device.Mojo Chalk Bag + chalk ball.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9063297712158/6006808-ANC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9063297712158/6006808-ANC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Momentum Package - Men's",
+  "product_code": "6006-808",
+  "source_url": "https://www.mec.ca/en/product/6006-808/Momentum-Package",
+  "tech_specs": {
+    "Adjustable leg loops": [
+      "Yes"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Drop seat": [
+      "Yes"
+    ],
+    "Gear loops": [
+      "4"
+    ],
+    "Haul loop": [
+      "Yes"
+    ],
+    "Ice clipper slots": [
+      "No"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Leg loop size": [
+      "43-53cm (X-Small)",
+      "46-56cm (Small)",
+      "51-61cm (Medium)",
+      "56-66cm (Large)",
+      "61-71cm (X-Large)",
+      "66-76cm (XX-Large)"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Self-locking buckle": [
+      "Yes"
+    ],
+    "Type": [
+      "Seat harness"
+    ],
+    "Waist size": [
+      "61-69cm (X-Small)",
+      "69-76cm (Small)",
+      "76-84cm (Medium)",
+      "84-91cm (Large)",
+      "91-99cm (X-Large)",
+      "100-114cm (XX-Large)"
+    ]
+  }
+}

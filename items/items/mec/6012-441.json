@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking clothing",
+    "Hiking shorts",
+    "Veza Adventure Shorts"
+  ],
+  "description": "These versatile shorts are as comfortable in the gym as they are on the track or the trail. Stretch fabric moves with you and a couple pockets keep your essentials close at hand.Stretch woven nylon and spandex for freedom of movement.Smooth elastic waistband provides a secure fit.Gusseted crotch for on-the-go comfort.Cotopaxi designates 1% of their revenue to provide grants for non-profits.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161533947934/6012441-MEZ00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534013470/6012441-MEZ00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534079006/6012441-MEZ00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534439454/6012441-MEZ00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168799793182/6012441-IND00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168800186398/6012441-IND00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168800317470/6012441-IND00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168799662110/6012441-IND00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161533947934/6012441-MEZ00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534013470/6012441-MEZ00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534079006/6012441-MEZ00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534439454/6012441-MEZ00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168799793182/6012441-IND00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168800186398/6012441-IND00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168800317470/6012441-IND00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168799662110/6012441-IND00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161533947934/6012441-MEZ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534013470/6012441-MEZ00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534079006/6012441-MEZ00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534439454/6012441-MEZ00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168799793182/6012441-IND00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168800186398/6012441-IND00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168800317470/6012441-IND00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168799662110/6012441-IND00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161533947934/6012441-MEZ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534013470/6012441-MEZ00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534079006/6012441-MEZ00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534439454/6012441-MEZ00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168799793182/6012441-IND00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168800186398/6012441-IND00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168800317470/6012441-IND00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168799662110/6012441-IND00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Cotopaxi Veza Adventure Shorts - Men's",
+  "product_code": "6012-441",
+  "source_url": "https://www.mec.ca/en/product/6012-441/Veza-Adventure-Shorts",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Gusseted crotch"
+    ],
+    "Fabric content": [
+      "91% nylon",
+      "9% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "137gsm"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "8in. (M)"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Pockets": [
+      "2 front",
+      "1 thigh"
+    ]
+  }
+}

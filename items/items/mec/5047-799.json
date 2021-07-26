@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "PhD Outdoor Light Crew Socks"
+  ],
+  "description": "These performance socks have compression bands at the ankle, arch and instep to help hold the sock in place during activity. Designed to fit a women's narrower foot.Made of wool, nylon, elastane.Indestructawool reinforces and strengthens high-impact areas to add durability and long-term cushioning.Mesh zones provide ventilation for moisture and temperature control.Flat knit durable toe seam for high burst strength.Light cushion for varied trail terrain.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805901795358/5047799-LGY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805901795358/5047799-LGY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805901795358/5047799-LGY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805901795358/5047799-LGY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool PhD Outdoor Light Crew Socks - Women's",
+  "product_code": "5047-799",
+  "source_url": "https://www.mec.ca/en/product/5047-799/PhD-Outdoor-Light-Crew-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "Yes"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Mapped"
+    ],
+    "Fabric content": [
+      "58% merino wool",
+      "39% nylon",
+      "3% elastane"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

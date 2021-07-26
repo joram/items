@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Hoodies and sweaters",
+    "Hoodies",
+    "Juniper Classic Hoodie"
+  ],
+  "description": "A dreamy, soft hoodie with a graphic that suggests perfect horizons.Made from a recycled polyester and organic cotton blend.Cork drawcord tabs.Regular fit offers no surprises, just comfort.tentree\u2019s goal is to construct quality apparel and ensure that 10 trees are planted for every article of clothing sold.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136474030110/6006579-RBR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136471277598/6006579-RBR00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130872897566/6006579-MTR88-ALT-NECK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130872864798/6006579-MTR88.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136474030110/6006579-RBR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136471277598/6006579-RBR00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130872897566/6006579-MTR88-ALT-NECK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130872864798/6006579-MTR88.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136474030110/6006579-RBR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136471277598/6006579-RBR00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130872897566/6006579-MTR88-ALT-NECK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130872864798/6006579-MTR88.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136474030110/6006579-RBR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136471277598/6006579-RBR00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130872897566/6006579-MTR88-ALT-NECK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130872864798/6006579-MTR88.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "tentree Juniper Classic Hoodie - Men's",
+  "product_code": "6006-579",
+  "source_url": "https://www.mec.ca/en/product/6006-579/Juniper-Classic-Hoodie",
+  "tech_specs": {
+    "Fabric content": [
+      "60% organically grown cotton",
+      "40% recycled polyester"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "230gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "1 kangaroo"
+    ],
+    "Product sustainability": [
+      "Organically grown content",
+      "Recycled content"
+    ]
+  }
+}

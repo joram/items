@@ -1,0 +1,90 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard backpacks",
+    "Yagi 35 Pack"
+  ],
+  "description": "Spacious and versatile, this backcountry pack is ready for extended tours. The enormous back panel opens fully for quick access to your avi gear or puffy. The versatile strap system holds your skis in any orientation you like, and a pair of ice axe attachments keep your tools ready for encounters with technical terrain.Zippered access to main compartment is easy to use when pack is set down in the snow.Dedicated avy tool pocket has internal dividers for a shovel, probe and other accessories.Dual ice axe and stowable helmet carry systems.Stowable carry straps provide A-frame, diagonal and side ski carry options.Lined pocket protects goggles.Hip belt pockets for quick access.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136227811358/6011103-SPL31.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136249438238/6011103-SPL31-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136249536542/6011103-SPL31-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136249634846/6011103-SPL31-ALT-STRAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136227811358/6011103-SPL31.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136249438238/6011103-SPL31-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136249536542/6011103-SPL31-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136249634846/6011103-SPL31-ALT-STRAP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136227811358/6011103-SPL31.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136249438238/6011103-SPL31-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136249536542/6011103-SPL31-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136249634846/6011103-SPL31-ALT-STRAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136227811358/6011103-SPL31.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136249438238/6011103-SPL31-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136249536542/6011103-SPL31-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136249634846/6011103-SPL31-ALT-STRAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Blue Ice Yagi 35 Pack",
+  "product_code": "6011-103",
+  "source_url": "https://www.mec.ca/en/product/6011-103/Yagi-35-Pack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Clamshell zip",
+      "Top"
+    ],
+    "Additional feature(s)": [
+      "Helmet attachment",
+      "Ice axe/pole attachment",
+      "Hydration compatible (reservoir sold separately)",
+      "Hipbelt pocket(s)",
+      "Compression straps"
+    ],
+    "Carries": [
+      "Skis - diagonal",
+      "Skis - vertical",
+      "Skis - A-frame"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Depth": [
+      "11cm"
+    ],
+    "Hipbelt": [
+      "Padded"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding"
+    ],
+    "Length": [
+      "57cm"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Main fabric": [
+      "210-denier ripstop nylon"
+    ],
+    "Secondary fabric": [
+      "420-denier ripstop nylon"
+    ],
+    "Ventilated back panel": [
+      "No"
+    ],
+    "Volume": [
+      "35L"
+    ],
+    "Weight": [
+      "1.15kg"
+    ],
+    "Width": [
+      "40cm"
+    ]
+  }
+}

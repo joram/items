@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bug spray and bug nets",
+    "Bug spray and insect repellent",
+    "E55 Mosquito Repellent"
+  ],
+  "description": "Create an invisible barrier that keeps bugs away, without needing to put anything on your skin. The Thermacell E55 Repeller is an easy to use, scent free defense against mosquitos. Simply place the E55 on your patio, deck, or anywhere you would like to be mosquito-free, turn it on and within minutes you will have a 10 square meter field of protection. Powered by a rechargeable lithium ion battery, there is no flame or spark often associated with repeller style insect deterrents.10 square meter field of protection in 10\u201330 minutes.Simple push-button activation.No open flame, smouldering coil or scent.Fully charged battery will provide 6-7 hours of protection.USB charging makes charging easy.LED battery charging indicator light and audio cues let you know how your battery is doing, operation status and more.Fully charges in 5 hours and can be used while charging.Lock-out mode prevents accidental activation, great for getting to-and-from.Active ingredient: Metofluthrin.In the box: E55 repeller, 1 x 12 hour of refill and a USB charger.Do not store with battery completely discharged. Batteries should be charged at least once every 3 months during storage. Battery should be discharged and charged after being stored more than a year to maintain optimal battery capacity",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164036800542/6014653-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164030836766/6014653-CHA00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164036800542/6014653-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164030836766/6014653-CHA00-ALT-ANGLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164036800542/6014653-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164030836766/6014653-CHA00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164036800542/6014653-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164030836766/6014653-CHA00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Thermacell E55 Mosquito Repellent",
+  "product_code": "6014-653",
+  "source_url": "https://www.mec.ca/en/product/6014-653/E55-Mosquito-Repellent",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping",
+      "Everyday use"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Plant-based repellent\n\nPlant-based repellents such as citronella do not contain chemical deterents such as DEET and may be more suitable for children.": [
+      "No"
+    ],
+    "Product sustainability": [
+      "Rechargeable batteries"
+    ]
+  }
+}

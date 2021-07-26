@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bug spray and bug nets",
+    "Bug spray and insect repellent",
+    "Kids Treatment 20ml"
+  ],
+  "description": "Designed to provide relief from insect bites and prevent infections, this cream is easy to apply and doesn't sting.Made with eucalyptus oil and tea tree oil for their antiseptic properties, as well as baking soda, aloe vera, and vitamin E for soothing and healing.20ml.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809976135710/5012335-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809976135710/5012335-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "AfterBite Kids Treatment 20ml",
+  "product_code": "5012-335",
+  "source_url": "https://www.mec.ca/en/product/5012-335/Kids-Treatment-20ml",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

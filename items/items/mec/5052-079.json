@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Chargers and adapters",
+    "Adapters",
+    "Pro World USB World Adapter with ground"
+  ],
+  "description": "This grounded plug adapter and single USB port lets you connect 2- or 3-prong appliances to the wall in over 220 countries. A fuse ensures you don\u2019t immediately fry your gadgets should you use it with the wrong voltage. (Note that this adapter is not a voltage converter. Your device must be compatible with the voltage of the outlet you\u2019re using.)Female plugs for Italy, Switzerland, Australia/China, UK, USA/Japan, Europe (Schuko & 2-pole Euro).Male retractable plugs for Italy, Switzerland, Australia/China, UK, USA, Europe (Schuko).Works for both grounded and non-grounded plugs.Single USB top for charging USB devices.Input voltage is 100\u2013250V.Maximum load is 10A.USB output is 5V/2100mA.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850330714142/5052079-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850207932446/5052079-WHT00-ALT-FRNT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850330714142/5052079-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850207932446/5052079-WHT00-ALT-FRNT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850330714142/5052079-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850207932446/5052079-WHT00-ALT-FRNT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850330714142/5052079-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850207932446/5052079-WHT00-ALT-FRNT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Skross Pro World USB World Adapter with ground",
+  "product_code": "5052-079",
+  "source_url": "https://www.mec.ca/en/product/5052-079/Pro-World-USB-World-Adapter-with-ground",
+  "tech_specs": {
+    "Converts voltage": [
+      "No"
+    ],
+    "Female plug type(s)\n\nPlug types accepted by this device.": [
+      "Type A",
+      "Type B",
+      "Type C",
+      "Type E",
+      "Type F",
+      "Type G",
+      "Type J",
+      "Type L",
+      "USB A"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Male plug type(s)\n\nTypes of outlet this device can be plugged into.": [
+      "Type A",
+      "Type B",
+      "Type C",
+      "Type E",
+      "Type F",
+      "Type G",
+      "Type J",
+      "Type L"
+    ]
+  }
+}

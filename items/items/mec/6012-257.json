@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth footwear",
+    "Youth shoes",
+    "Youth running and training shoes",
+    "Kinvara 12 Shoes"
+  ],
+  "description": "Pint sized runners for kids who like to move. These lightweight shoes are are breathable and cushioned, keeping little active feet happy throughout playtime.Synthetic and mesh upper provides a comfy fit.Recycled polyester lining with an antimicrobial treatment keep them fresh.Memory foam footbed and EVA midsole for cushion and comfort.Rubber lugs grip to trail or pavement.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170051334174/6012257-BK110.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170050842654/6012257-BK030.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170051334174/6012257-BK110.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170050842654/6012257-BK030.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170051334174/6012257-BK110.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170050842654/6012257-BK030.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170051334174/6012257-BK110.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170050842654/6012257-BK030.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Saucony Kinvara 12 Shoes - Youths",
+  "product_code": "6012-257",
+  "source_url": "https://www.mec.ca/en/product/6012-257/Kinvara-12-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Road running"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Synthetic"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike locks",
+    "Wheel locks and accessories",
+    "Nutfix Axle Set Locking Skewers (Pair)"
+  ],
+  "description": "Lock you bike up right and these Nutfix Axles hold your wheels in place. Lean your bike on its side and the nuts will unlock. The smart design allows you to change a flat without carrying a key to unlock your parts. To prevent the NutFix\u2122 from being opened, the bike must be standing, attached to a fixed object.Prevents wheels theft due to patented gravity technology.Requires a standard 8mm wrench to install.Anodized surface and stainless nuts offer long-lasting protection against corrosion.Sold in pair.Fits bikes with quick-release skewers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031331774494/6003377-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032071118878/6003377-BK000-ALT-NUT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072167454/6003377-BK000-ALT-THRUAXLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031331774494/6003377-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032071118878/6003377-BK000-ALT-NUT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072167454/6003377-BK000-ALT-THRUAXLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031331774494/6003377-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032071118878/6003377-BK000-ALT-NUT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072167454/6003377-BK000-ALT-THRUAXLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031331774494/6003377-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032071118878/6003377-BK000-ALT-NUT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072167454/6003377-BK000-ALT-THRUAXLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Abus Nutfix Axle Set Locking Skewers (Pair)",
+  "product_code": "6003-377",
+  "source_url": "https://www.mec.ca/en/product/6003-377/Nutfix-Axle-Set-Locking-Skewers-%28Pair%29",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Type": [
+      "Skewer lock"
+    ]
+  }
+}

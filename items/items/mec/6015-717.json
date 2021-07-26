@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Marine navigation",
+    "Compasses",
+    "M-3 NH Compass"
+  ],
+  "description": "A compact baseplate compass packed with features for the serious explorer. It performs accurately in demanding conditions, with markings that are easy to read even in low visibility situations.Serrated bezel ring is easy to turn even while wearing gloves.2-zone geographic system works anywhere in the northern hemisphere.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184173948958/6015717-WHT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184173948958/6015717-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Suunto M-3 NH Compass - Unisex",
+  "product_code": "6015-717",
+  "source_url": "https://www.mec.ca/en/product/6015-717/M-3-NH-Compass",
+  "tech_specs": {
+    "Adjustable declination\n\nSets the compass to indicate true north instead of magnetic north.": [
+      "Yes"
+    ],
+    "Clinometer\n\nMeasures angles of slope, elevation or inclination.": [
+      "No"
+    ],
+    "Dimensions": [
+      "12\u00a0x\u00a06cm"
+    ],
+    "Hemisphere\n\nThe earth's magnetic field varies considerably so most compasses are designed to work in the specific hemisphere zones for which they are being used. A global compass can be used anywhere.": [
+      "Northern Hemisphere"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Emergency preparedness"
+    ],
+    "Luminous markings\n\nLuminous markings allow you to read your compass in dim light conditions.": [
+      "Yes"
+    ],
+    "Made in": [
+      "Finland"
+    ],
+    "Magnifying lens": [
+      "Yes"
+    ],
+    "Sighting mirror": [
+      "No"
+    ]
+  }
+}

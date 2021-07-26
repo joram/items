@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Batteries",
+    "Rechargeable batteries",
+    "ARE-D1 Charger"
+  ],
+  "description": "A single channel smart charger that can charge most, if not all, of your rechargeable batteries. The ARE-D1 automatically adjusts for the inserted battery\u2019s specifications and the backlit LCD display keeps you informed about how the battery is doing. An integrated USB power out port lets the charger and your battery act as a power bank for USB-powered devices.Backlit LCD screen shows you voltage, current, charging time and battery status \u2013 both charging and discharging.Works with various types of batteries: Li-ion 10440, 14500, 16340, 18650, 21700 and 26650; Ni-MH/Ni-Cd: AA, AAA and C.Input: micro USB 5V/2A port for charging (micro USB cable not included).Output: type-A USB 5V/2A port for discharging.Able to charge 1 battery at a time.Spring-loaded design automatically adjusts to the inserted battery.Adjustable charging current (0.5 \u2013 2A).Built-in multilevel protection: overcharge protection, over-current protection, short circuit protection and reverse polarity protection.Dimensions: 12 x 4 x 3cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9069490798622/6009310-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068658688030/6009310-BK000-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068658589726/6009310-BK000-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9069490798622/6009310-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068658688030/6009310-BK000-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068658589726/6009310-BK000-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9069490798622/6009310-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068658688030/6009310-BK000-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068658589726/6009310-BK000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9069490798622/6009310-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068658688030/6009310-BK000-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068658589726/6009310-BK000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fenix ARE-D1 Charger",
+  "product_code": "6009-310",
+  "source_url": "https://www.mec.ca/en/product/6009-310/ARE-D1-Charger",
+  "tech_specs": {
+    "Battery power indicator": [
+      "Yes"
+    ],
+    "Charges": [
+      "10440",
+      "14500",
+      "16340",
+      "18650",
+      "21700",
+      "26650",
+      "AA",
+      "AAA",
+      "C"
+    ],
+    "Charges single batteries": [
+      "Yes"
+    ],
+    "Female plug type(s)\n\nPlug types accepted by this device.": [
+      "USB A",
+      "USB Micro-B"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Quick charge\n\nCharges batteries faster, at a higher power, but will reduce number of potential recharge cycles.": [
+      "Yes"
+    ]
+  }
+}

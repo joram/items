@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Saws, axes and camp shovels",
+    "Saws",
+    "Pocket Chain Saw"
+  ],
+  "description": "Looks like a bike chain \u2013 cuts like a saw! When travelling light you can hold the wire end loops in your thumbs or insert scavenged sticks into the loops as handles for more sustained use. For even more comfort there are two moulded plastic grips included.Includes tin, hooks and handles.Packed in a handy storage can (handles do not fit in can).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812780257310/4008560-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812780290078/4008560-NOC02-ALT-CASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812780257310/4008560-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812780290078/4008560-NOC02-ALT-CASE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812780257310/4008560-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812780290078/4008560-NOC02-ALT-CASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812780257310/4008560-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812780290078/4008560-NOC02-ALT-CASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Supreme Pocket Chain Saw",
+  "product_code": "4008-560",
+  "source_url": "https://www.mec.ca/en/product/4008-560/Pocket-Chain-Saw",
+  "tech_specs": {
+    "Blade length": [
+      "70cm"
+    ],
+    "Blade material": [
+      "Carbon steel"
+    ],
+    "Handle length": [
+      "9.8cm"
+    ],
+    "Handle material": [
+      "Plastic"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "145g"
+    ]
+  }
+}

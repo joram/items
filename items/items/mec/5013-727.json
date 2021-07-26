@@ -1,0 +1,93 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Lasagna with Meat Sauce"
+  ],
+  "description": "Pasta with meat and cheese for two.Ingredients: lasagna: tomatoes (tomato, tomato juice, salt, citric acid, calcium chloride) tomato paste, enriched macaroni product (semolina [wheat], niacin, ferrous sulfate, thiamine mononitrate, riboflavin, folic acid), cooked beef (beef, flavoring, salt) less than 2% of: dehydrated onion, modified corn starch, spice, sugar, garlic powder, cheese blend: dehydrated parmesan & Romano (made from cow's milk) cheeses (part-skim milk, cheese cultures, salt, enzymes), dehydrated mozzarella cheese flavor (mozzarella cheese [part-skim milk, cheese culture, salt, enzymes], whey, salt, sodium phosphate, lactic acid).Allergens: contains dairy and wheat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985183748126/5013727-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985227460638/5013727-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985183748126/5013727-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985227460638/5013727-NOC02-ALT-LIFESTYLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985183748126/5013727-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985227460638/5013727-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985183748126/5013727-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985227460638/5013727-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mountain House Lasagna with Meat Sauce",
+  "product_code": "5013-727",
+  "source_url": "https://www.mec.ca/en/product/5013-727/Lasagna-with-Meat-Sauce",
+  "tech_specs": {
+    "Calories per serving": [
+      "300Cal"
+    ],
+    "Carbohydrates": [
+      "34g"
+    ],
+    "Cholesterol": [
+      "35mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "3g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Protein": [
+      "17g"
+    ],
+    "Saturated fat": [
+      "4.5g"
+    ],
+    "Serving size": [
+      "1/2 package"
+    ],
+    "Sodium": [
+      "400mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "8g"
+    ],
+    "Total fat": [
+      "11g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ],
+    "Weight": [
+      "136g"
+    ]
+  }
+}

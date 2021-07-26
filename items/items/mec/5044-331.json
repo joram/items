@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Tent poles",
+    "Camper 3-Person Tent Pole Set"
+  ],
+  "description": "Replacement pole set for the MEC Camper 3 Tent.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855287136286/5044331-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855287136286/5044331-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Camper 3-Person Tent Pole Set",
+  "product_code": "5044-331",
+  "source_url": "https://www.mec.ca/en/product/5044-331/Camper-3-Person-Tent-Pole-Set",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pole": [
+      "7000-series aluminum"
+    ],
+    "Pole diameter": [
+      "9.5mm"
+    ]
+  }
+}

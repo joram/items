@@ -1,0 +1,111 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bikes",
+    "Road bikes",
+    "Topstone Carbon 5 Bicycle"
+  ],
+  "description": "Leave the pavement behind and start exploring. From the open road to dreamy single track, the Topstone Carbon is fast and agile. Equipped with the innovative Kingpin suspension system, you get a smoother ride without the added weight of a rear linkage. If you find yourself dreaming of bikepacking, this bike loves exploring gravel roads and has lots of room to mount your gear. The Topstone\u2019s tight and lively geometry isn\u2019t only for the rough stuff and is happy on weekend club rides and smile-inducing commutes.BallisTec Carbon frame and carbon fork, with efficient gravel bike geometry.Kingpin suspension offers 30mm of travel with a through-axle pivot on the seat tube and capitalizing the natural flex of the rear stays, seat tube and the rear of the top tube.Plenty of mounting points for your bikepacking loadout.Shimano 11-speed GRX drivetrain (600 and 800) pairs 46-30T chain rings with an 11-34T cassette.Shimano GRX 400 hydraulic disc brakes keep velocity under control.WTB Riddler tires in a plush 37C with offer great grip and are tubeless ready.Wheel sensor pairs with your phone via the free Cannondale app and uses Garmin\u2122 technology to record your rides, provide your: time, speed, distance, calories, etc. and it even tells you about your carbon offset. The app also provides reminders for needed services, tracks service history and more.Wheel sensor works with ANT+\u00ae or Bluetooth\u00ae and uses an easily replaceable 2032 battery that lasts more than a year.Bikes are covered by MEC's Rocksolid Guarantee and Bike Service Agreement. You can bring your bike to any MEC bike shop for free adjustments and minor maintenance for two years after purchase.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156523098142/6013825-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156271603742/6013825-PPL00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156523098142/6013825-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156271603742/6013825-PPL00-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156523098142/6013825-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156271603742/6013825-PPL00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156523098142/6013825-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156271603742/6013825-PPL00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Cannondale Topstone Carbon 5 Bicycle - Unisex",
+  "product_code": "6013-825",
+  "source_url": "https://www.mec.ca/en/product/6013-825/Topstone-Carbon-5-Bicycle",
+  "tech_specs": {
+    "Bottom bracket": [
+      "BB30"
+    ],
+    "Brake levers": [
+      "Shimano GRX 600"
+    ],
+    "Brakes\n\nMechanical disc brakes are more powerful than rim brakes, but less powerful than hydraulic brakes.": [
+      "Shimano GRX 400 (hydraulic disc)"
+    ],
+    "Cassette\n\nCassettes with a smaller range allow you to go faster; a bigger range makes climbing hills easier.": [
+      "Shimano 105 11-speed 11-34T"
+    ],
+    "Chain": [
+      "KMC X11"
+    ],
+    "Crank + rings": [
+      "Cannondale 1 BB30a FSA 46-30T"
+    ],
+    "Derailleur (front)": [
+      "Shimano GRX 800"
+    ],
+    "Derailleur (rear)": [
+      "Shimano GRX 800"
+    ],
+    "Fork": [
+      "BallisTec Carbon"
+    ],
+    "Frame": [
+      "BallisTec Carbon"
+    ],
+    "Grips/tape": [
+      "Cannondale Dual Density"
+    ],
+    "Handlebars": [
+      "Cannondale 3 Flared Drop 6061 31.8mm"
+    ],
+    "Headset": [
+      "Integrated"
+    ],
+    "Hub (front)": [
+      "Formula CL-712"
+    ],
+    "Hub (rear)\n\nThe hub affects a bike\u2019s rolling efficiency. Internally geared hubs require significantly less maintenance.": [
+      "Formula RXC-400"
+    ],
+    "Ideal for": [
+      "Cyclocross",
+      "Gravel riding",
+      "Bikepacking",
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Pedals": [
+      "Sold separately"
+    ],
+    "Rims": [
+      "WTB ST i23 TCS"
+    ],
+    "Saddle": [
+      "Fizik Aliante R5"
+    ],
+    "Seatpost": [
+      "Cannondale 3 6061 Alloy"
+    ],
+    "Shifters": [
+      "Shimano GRX 600"
+    ],
+    "Spokes": [
+      "Stainless"
+    ],
+    "Stem": [
+      "Cannondale C3 6061 31.8mm 7\u00b0"
+    ],
+    "Tires": [
+      "WTB Riddler 700 x 37"
+    ],
+    "Weight": [
+      "9.44kg (Medium)"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Showers, soap & travel toothbrushes",
+    "Campsud Citronella"
+  ],
+  "description": "Concentrated camp soap that uses essential oils from citronella, lavender and peppermint to help keep insects away.Essential oils of citronella, lavender and peppermint help deter insects.Scented products should be stored safely when in bear countryContains purified water and vegetable-based biodegradable anionic and non-ionic cleaning agents.Effective in hot or cold water \u2013 and salt water, too!No animal ingredients or petroleum oils.Note, even biodegradable soaps shouldn't be used in a natural water source. Use 60m away from streams or lakes. Waste water should be poured into a cat hole 15-20cm deep.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096204976158/6007702-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096204976158/6007702-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sierra Dawn Campsud Citronella",
+  "product_code": "6007-702",
+  "source_url": "https://www.mec.ca/en/product/6007-702/Campsud-Citronella",
+  "tech_specs": {
+    "Biodegradable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Suitable for use in salt water": [
+      "Yes"
+    ],
+    "Volume": [
+      "118ml"
+    ]
+  }
+}

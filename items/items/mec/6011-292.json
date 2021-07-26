@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry skis",
+    "Bent Chetler 100 Skis"
+  ],
+  "description": "For skiers who know not every day is a powder day, here's the most versatile member of Atomic's iconic Bent Chetler line. With a stiff tail to rail on groomers, enough backbone to bust through crud and a slightly spooned tip to float and track through powder, the Bent Chetler 100 is a lightweight quiver-killer suited to both backcountry adventures and regular resort use in high-snowfall regions.Core is made of poplar to bring the weight as low as possible.HRZN Tech spoon-like tip reduces deflection and improves control in powder.Full sidewall construction improves steering.Powder Rocker is 20% rocker in the tip, 10% in the tail, and 70% camber underfoot, to add up to maximum stability in weird conditions and float in deep powder.7000-series sintered bases holds wax very well for a fast glide in any snow conditions.Structured topsheet sheds snow.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135633039390/6011292-GRN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135633039390/6011292-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Atomic Bent Chetler 100 Skis - Unisex",
+  "product_code": "6011-292",
+  "source_url": "https://www.mec.ca/en/product/6011-292/Bent-Chetler-100-Skis",
+  "tech_specs": {
+    "Ability\n\nBeginner: new or getting back into skiing.  Intermediate: confident with turning and stopping.  Advanced: highly confident carver. Expert: steeps, drops, park, double blacks -- bring it on.": [
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ],
+    "Bindings included": [
+      "No"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Combination"
+    ],
+    "Core": [
+      "Wood"
+    ],
+    "Dimension": [
+      "127.5-100-118mm (164cm)",
+      "128.5-100-119mm (172cm)",
+      "129.5-100-120mm (180cm)",
+      "130.5-100-121mm (188cm)"
+    ],
+    "Ideal for": [
+      "Freeride and freeskiing",
+      "Alpine touring"
+    ],
+    "Made in": [
+      "Bulgaria"
+    ],
+    "Rocker/camber profile": [
+      "Rocker tip",
+      "Rocker tail"
+    ],
+    "Snow conditions": [
+      "Powder",
+      "Mixed"
+    ],
+    "Terrain": [
+      "Off-Piste"
+    ],
+    "Turning radius": [
+      "16.4m (164cm)",
+      "18m (172cm)",
+      "19.5m (180cm)",
+      "21m (188cm)"
+    ],
+    "Weight": [
+      "3.4kg (180cm)"
+    ]
+  }
+}

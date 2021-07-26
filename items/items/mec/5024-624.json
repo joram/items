@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Canoeing",
+    "Canoe paddles",
+    "Recreational Canoe Paddle"
+  ],
+  "description": "A no-frills paddle at a no-frills price. It makes an adequate entry-level paddle or an excellent emergency spare, since it can kick around below decks for years without damage.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817914544158/5024624-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817914544158/5024624-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Cannon Paddles Recreational Canoe Paddle",
+  "product_code": "5024-624",
+  "source_url": "https://www.mec.ca/en/product/5024-624/Recreational-Canoe-Paddle",
+  "tech_specs": {
+    "Blade dimensions": [
+      "51\u00a0x\u00a020cm\u00a0(20\u00a0x\u00a08in.)"
+    ],
+    "Blade material": [
+      "Polypropylene"
+    ],
+    "Blade shape\n\nBlade shapes are designed to apply power efficiently. Short, wide: immediate power. Long, narrow: better leverage in turbulent water. Wing: channels water for maximum power and speed.": [
+      "General"
+    ],
+    "Ideal for": [
+      "Cottage and recreational canoeing",
+      "Canoe tripping"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Shaft type": [
+      "Straight"
+    ],
+    "Weight": [
+      "798g (60 in)"
+    ]
+  }
+}

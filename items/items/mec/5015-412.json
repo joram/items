@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "The Climbing Handbook"
+  ],
+  "description": "A guide to suit novice rock climbers and those who are interested in tactics for advancing their climbing skills. Learn about grip techniques, choosing equipment, building strength, strategies for difficult climbs, and rescue and safety skills. It covers bouldering as well as roped climbing and introduces competition climbing and training programs. With more than 350 color photographs and easy-to-understand diagrams, this guide combines step-by-step exercises with practice programs that will allow climbers to safely learn and explore all aspects of the sport.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815715516446/5015412-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815715516446/5015412-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The Climbing Handbook",
+  "product_code": "5015-412",
+  "source_url": "https://www.mec.ca/en/product/5015-412/The-Climbing-Handbook",
+  "tech_specs": {
+    "Author": [
+      "Steve Long"
+    ],
+    "ISBN": [
+      "9781554072781"
+    ],
+    "Ideal for": [
+      "Climbing training"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pages": [
+      "192"
+    ],
+    "Published": [
+      "2007"
+    ]
+  }
+}

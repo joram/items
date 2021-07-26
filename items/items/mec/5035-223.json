@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Bike socks",
+    "Elite Socks"
+  ],
+  "description": "Super-smooth toes keep these socks comfortable and snag-free through long rides.Elite Transfer yarns provide excellent moisture transfer.Mesh ventilation over top of foot for maximum breathability.Flat toe seams for comfort in tight-fitting shoes.Anatomic arch compression for a performance fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290910750/5035223-WH005.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153972338718/5035223-PIS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290877982/5035223-BK143.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290910750/5035223-WH005.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153972338718/5035223-PIS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290877982/5035223-BK143.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290910750/5035223-WH005.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153972338718/5035223-PIS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290877982/5035223-BK143.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290910750/5035223-WH005.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153972338718/5035223-PIS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290877982/5035223-BK143.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pearl Izumi Elite Socks - Women's",
+  "product_code": "5035-223",
+  "source_url": "https://www.mec.ca/en/product/5035-223/Elite-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "Yes"
+    ],
+    "Cuff height": [
+      "Quarter"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Forefoot"
+    ],
+    "Fabric content": [
+      "69% polyester",
+      "27% nylon",
+      "4% spandex"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

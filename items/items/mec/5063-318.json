@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Climbing clothing",
+    "Climbing bottoms",
+    "Notion Sport Pants"
+  ],
+  "description": "Put your project pants on. Burly with enough stretch for technical foot-trickery, these slim-fitting climbing pants are cut to work with a harness. Reinforced knees stand up to off-widths or scruffy top-outs.Heavyweight cotton, spandex fabric.Stretch waistband with drawcord sits flat under a harness.2 front pockets and 2 rear pockets are accessible with a harness on.Stretch cuffs keep your feet free for heel hooking.Gusseted crotch offers room for wide stemming or hand-foot matching.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202473369630/5063318-WLD04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040044883998/5063318-WLD04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040026599454/5063318-ANC00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202473697310/5063318-ANC00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202473369630/5063318-WLD04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040044883998/5063318-WLD04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040026599454/5063318-ANC00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202473697310/5063318-ANC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202473369630/5063318-WLD04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040044883998/5063318-WLD04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040026599454/5063318-ANC00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202473697310/5063318-ANC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202473369630/5063318-WLD04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040044883998/5063318-WLD04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040026599454/5063318-ANC00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202473697310/5063318-ANC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Notion Sport Pants - Women's",
+  "product_code": "5063-318",
+  "source_url": "https://www.mec.ca/en/product/5063-318/Notion-Sport-Pants",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Gusseted crotch"
+    ],
+    "Fabric content": [
+      "98% cotton",
+      "2% elastane"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "195gsm"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "31.5in. (all sizes)"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Bouldering"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front",
+      "2 back"
+    ],
+    "Weight": [
+      "354g (Medium)"
+    ]
+  }
+}

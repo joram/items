@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tires",
+    "Gravdal Studded Commuter 26\" x 2.0 Wire Tire"
+  ],
+  "description": "For a more comfortable and safer ride in icy conditions, these ultimate commuter tires keep you going in even the most challenging winter conditions. The Gravdal tires feature 216 carefully positioned studs to provide unmatched traction at lower pressure, and keep the rolling resistance low.5mm reflective strip along the sidewall keeps you visible at night.Studs feature a dome-shaped carbide tip with a steel base for durability.Siping on larger tread lugs increases the acceleration, braking and cornering traction.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993841020958/5061310-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993841020958/5061310-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "45NRTH Gravdal Studded Commuter 26\" x 2.0 Wire Tire",
+  "product_code": "5061-310",
+  "source_url": "https://www.mec.ca/en/product/5061-310/Gravdal-Studded-Commuter-26%22-x-2-0-Wire-Tire",
+  "tech_specs": {
+    "Bead\n\nThe bead holds the tire onto the rim. Beads may be hoops of wire, or made of a flexible material which allows them to be folded compactly. Folding tires are easier to store or pack on trips.": [
+      "Wire"
+    ],
+    "ETRTO\n\nISO/ETRTO universal tire sizing system number for matching the correct tire to the rim.": [
+      "50-559"
+    ],
+    "Ideal for": [
+      "Urban cycling",
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "TPI\n\nThreads per inch. Tires with a higher TPI tend to be more supple and lighter, with less rolling resistance, but are less durable.": [
+      "33"
+    ],
+    "Tire size": [
+      "26 X 2.0in"
+    ],
+    "Tire type": [
+      "Clincher"
+    ],
+    "Wheel position": [
+      "Rear",
+      "Front"
+    ]
+  }
+}

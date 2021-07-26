@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Saws, axes and camp shovels",
+    "Axes and hatchets",
+    "Hultan Hatchet"
+  ],
+  "description": "The Hult\u00e5n hatchet packs a lot of power into a small package, whether you need it to prep kindling for your campfire or chop wood for the stove. Holtafors designed the Hult\u00e5n to a workhorse, striking the right balance between size and usability. The hickory heartwood haft (axe-talk for handle) is comfortable in your hand and provides excellent mechanical advantage. Known for premium materials and classic technique, a Hultafors axe will serve your family for generations.Swedish tool steel head holds its edge and is incredibly tough.Head hung using a standard eye-to-haft mount so it's easy to replace the haft (this head will outlast the handle).Heat-treated axe head is softer towards the handle and harder (58-9HRC) along the edge.American hickory haft provides a surprising amount of mechanical advantage for its size.Linseed oil finish on the hickory haft.Leather sheath protects the edge.Hultafors axe heads feature a lifetime warranty.Hand-finishing means no two are exactly alike.Hand-forged in Hults Bruk, Sweden.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022004068382/6000611-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022410424350/6000611-NOC02-ALT-EYE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022410784798/6000611-NOC02-ALT-SHEATH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022410752030/6000611-NOC02-ALT-HEAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022004068382/6000611-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022410424350/6000611-NOC02-ALT-EYE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022410784798/6000611-NOC02-ALT-SHEATH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022410752030/6000611-NOC02-ALT-HEAD.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022004068382/6000611-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022410424350/6000611-NOC02-ALT-EYE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022410784798/6000611-NOC02-ALT-SHEATH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022410752030/6000611-NOC02-ALT-HEAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022004068382/6000611-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022410424350/6000611-NOC02-ALT-EYE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022410784798/6000611-NOC02-ALT-SHEATH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022410752030/6000611-NOC02-ALT-HEAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hultafors Hultan Hatchet",
+  "product_code": "6000-611",
+  "source_url": "https://www.mec.ca/en/product/6000-611/Hultan-Hatchet",
+  "tech_specs": {
+    "Blade material": [
+      "High carbon steel"
+    ],
+    "Handle material": [
+      "Wood"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Day hiking",
+      "Car camping"
+    ],
+    "Made in": [
+      "Sweden"
+    ],
+    "Overall length": [
+      "37.5cm"
+    ],
+    "Sheath included": [
+      "Yes"
+    ],
+    "Sheath material": [
+      "Leather"
+    ],
+    "Weight": [
+      "805g"
+    ]
+  }
+}

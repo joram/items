@@ -1,0 +1,83 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike racks, carriers and storage",
+    "Car bike racks",
+    "Roof racks",
+    "Upride Bike Carrier"
+  ],
+  "description": "Sling any bike on the roof. This rack won't touch your frame and it holds skinny road bikes, plus-sized mountain bikes, or even a fat bike (with an adapter). Easy to use and secure, it gets your bike to the trailhead without stressing the frame, scratching it or getting it covered in road gunk.Ratcheting wheel strap quickly secures back wheel to tray.Holds the front wheel securely without touching the frame.Set up on the driver or passenger side.Fits most 20 to 29in. wheel diameter bicycles with tires 1 to 3in. wide.Fits Thule\u00ae and Yakima\u00ae bars, and most factory mounted racks.One-Key\u2122 lock cylinder (sold separately) locks the bike to carrier and carrier to rack.Works with bikes with a max wheelbase of 1240mm.Maximum bike weight of 20kg.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944631349278/5058707-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633479198/5058707-SIL00-ALT-STRAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633511966/5058707-SIL00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633675806/5058707-SIL00-ALT-ONCAR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633970718/5058707-SIL00-ALT-LOCK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944634003486/5058707-SIL00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944634298398/5058707-SIL00-ALT-LEVER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944631349278/5058707-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633479198/5058707-SIL00-ALT-STRAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633511966/5058707-SIL00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633675806/5058707-SIL00-ALT-ONCAR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633970718/5058707-SIL00-ALT-LOCK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944634003486/5058707-SIL00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944634298398/5058707-SIL00-ALT-LEVER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944631349278/5058707-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633479198/5058707-SIL00-ALT-STRAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633511966/5058707-SIL00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633675806/5058707-SIL00-ALT-ONCAR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633970718/5058707-SIL00-ALT-LOCK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944634003486/5058707-SIL00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944634298398/5058707-SIL00-ALT-LEVER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944631349278/5058707-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633479198/5058707-SIL00-ALT-STRAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633511966/5058707-SIL00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633675806/5058707-SIL00-ALT-ONCAR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944633970718/5058707-SIL00-ALT-LOCK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944634003486/5058707-SIL00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944634298398/5058707-SIL00-ALT-LEVER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Thule Upride Bike Carrier",
+  "product_code": "5058-707",
+  "source_url": "https://www.mec.ca/en/product/5058-707/Upride-Bike-Carrier",
+  "tech_specs": {
+    "Disc brake compatible": [
+      "Yes"
+    ],
+    "Fits crossbars": [
+      "All"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Includes lock": [
+      "No"
+    ],
+    "Locks to roof rack": [
+      "Yes"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Aluminum",
+      "Plastic"
+    ],
+    "Number of bikes": [
+      "1"
+    ],
+    "Requires roof rack": [
+      "Yes"
+    ],
+    "Type": [
+      "Rooftop bike"
+    ]
+  }
+}

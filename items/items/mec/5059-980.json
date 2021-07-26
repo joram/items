@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tool components",
+    "Mini Marteau Hammer"
+  ],
+  "description": "An ultralight hammer head that fits Petzl\u00ae ice axes and tools with modular heads (Sum'tec, Quark, Nomic or Ergonomic).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990242996254/5059980-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990242996254/5059980-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Mini Marteau Hammer",
+  "product_code": "5059-980",
+  "source_url": "https://www.mec.ca/en/product/5059-980/Mini-Marteau-Hammer",
+  "tech_specs": {
+    "Ideal for": [
+      "Ice climbing",
+      "Alpine climbing and mountaineering"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Weight": [
+      "20g"
+    ]
+  }
+}

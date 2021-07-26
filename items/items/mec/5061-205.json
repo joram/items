@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Footwear accessories",
+    "Insoles",
+    "Blue Insoles"
+  ],
+  "description": "Sleek, high-performance insoles designed to fit trail running shoes, hiking boots and ski boots. A combination of full-length EVA foam and composite heel plates provides a secure, stable platform, delivering better shock absorption to reduce foot, ankle, knee and back pain. Blue insoles can also improve shoe fit to so you end up with less muscle fatigue after a long day on your feet.Forefoot cushion pads.Structured heel cup provides medium support.Medium-profile shape supports medium width feet.Antimicrobial treatment.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955080802334/5061205-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955092926494/5061205-BL000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955094433822/5061205-BL000-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955093418014/5061205-BL000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955080802334/5061205-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955092926494/5061205-BL000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955094433822/5061205-BL000-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955093418014/5061205-BL000-ALT-BOTTOM.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955080802334/5061205-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955092926494/5061205-BL000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955094433822/5061205-BL000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955093418014/5061205-BL000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955080802334/5061205-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955092926494/5061205-BL000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955094433822/5061205-BL000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955093418014/5061205-BL000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Superfeet Blue Insoles - Unisex",
+  "product_code": "5061-205",
+  "source_url": "https://www.mec.ca/en/product/5061-205/Blue-Insoles",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Antimicrobial treatment"
+    ],
+    "Cleaning": [
+      "Hand wash"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Day hiking",
+      "Running",
+      "Fitness and training",
+      "Backcountry skiing"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ],
+    "Material": [
+      "EVA"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fuel",
+    "Isobutane 450g Fuel Canister"
+  ],
+  "description": "Fuel for your fire. A self-sealing valve allows removal of partially consumed canisters for packing or travel.Isobutene/propane blend performs well at cooler temperatures.Designed for use with GSI Pinnacle Stoves.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139397656606/6012717-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140112982046/6012717-NOC02-ALT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139397656606/6012717-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140112982046/6012717-NOC02-ALT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139397656606/6012717-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140112982046/6012717-NOC02-ALT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139397656606/6012717-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140112982046/6012717-NOC02-ALT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Isobutane 450g Fuel Canister",
+  "product_code": "6012-717",
+  "source_url": "https://www.mec.ca/en/product/6012-717/Isobutane-450g-Fuel-Canister",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ],
+    "Shelf life (opened)": [
+      "60mo"
+    ],
+    "Shelf life (sealed)": [
+      "60mo"
+    ],
+    "Weight": [
+      "450g"
+    ]
+  }
+}

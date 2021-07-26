@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Avalanche safety gear",
+    "Avalanche airbags",
+    "Avabag Cartridge"
+  ],
+  "description": "A refillable air cartridge for the Ortovox Avabag airbag system. It is not included with Avabag systems or their compatible backpacks, and is essential to operate them.This canister is shipped empty, so remember to fill it before you head into the the mountains.Can be refilled at paintball or dive shops with a high-pressure compressor.0.36L aluminum bottle.Pressure gauge lets you confirm whether the cartridge is full.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912384819230/5055403-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912384819230/5055403-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ortovox Avabag Cartridge",
+  "product_code": "5055-403",
+  "source_url": "https://www.mec.ca/en/product/5055-403/Avabag-Cartridge",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "649g"
+    ]
+  }
+}

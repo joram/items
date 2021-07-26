@@ -1,0 +1,81 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Drinks",
+    "Energy and recovery drinks",
+    "Endurance Recovery Horchata"
+  ],
+  "description": "Skratch Labs has added a rich-cinnamony, non-chocolate option to add to their Recovery line. Their new Horchata flavour adds a probiotic to help with absorption of protein, and lactase which helps people who have issues with milk products or lactose. Skratch Labs focused on using a select few ingredients full of easy to breakdown proteins and sugars to give your body the fuel it needs.Ingredients: cane sugar, whole milk, nonfat milk, rice flour, dextrose, vanilla extract, cinnamon, lactase, salt, bacillus coagulans gbi-30 6086 (probiotic).Lactase enzyme helps to breaks down the lactose in the milk. So, if you\u2019re lactose intolerant, let the mixed Recovery serving sit for a couple minutes before you drink it.Certified Kosher.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9155267100702/6012825-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9155267100702/6012825-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9155267100702/6012825-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9155267100702/6012825-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Skratch Labs Endurance Recovery Horchata",
+  "product_code": "6012-825",
+  "source_url": "https://www.mec.ca/en/product/6012-825/Endurance-Recovery-Horchata",
+  "tech_specs": {
+    "Best consumed": [
+      "Recovery"
+    ],
+    "Calories per serving": [
+      "200Cal"
+    ],
+    "Carbohydrates": [
+      "34g"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Fitness and training",
+      "Triathlon",
+      "Cycle training"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Potassium": [
+      "389mg"
+    ],
+    "Protein": [
+      "8g"
+    ],
+    "Serving size": [
+      "1/12 package"
+    ],
+    "Servings": [
+      "12"
+    ],
+    "Sodium": [
+      "250mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "31g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "600g"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Button up shirts and polos",
+    "Los Feliz Slim Fit Flannel Long Sleeve Shirt"
+  ],
+  "description": "Soft flannel for year-round wear. Clean and classic, for city wear or hanging out by the campfire.Single chest patch pocket.Slim fit.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140240023582/6010275-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140240023582/6010275-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Los Feliz Slim Fit Flannel Long Sleeve Shirt - Men's",
+  "product_code": "6010-275",
+  "source_url": "https://www.mec.ca/en/product/6010-275/Los-Feliz-Slim-Fit-Flannel-Long-Sleeve-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "80% organically grown cotton",
+      "20% recycled polyester"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "India"
+    ],
+    "Pockets": [
+      "1 external chest"
+    ],
+    "Product sustainability": [
+      "Organically grown content",
+      "Recycled content"
+    ]
+  }
+}

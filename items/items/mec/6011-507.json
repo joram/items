@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Southwest British Columbia& Northern Washing"
+  ],
+  "description": "Navigate your way to all the popular outdoor vacation destinations in Southwest BC and Northern Washington State. Includes all major highways, secondary roads, parks, ski areas, campgrounds and points of interest.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133122322462/6011507-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133122322462/6011507-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Publishing Southwest British Columbia & Northern Washing",
+  "product_code": "6011-507",
+  "source_url": "https://www.mec.ca/en/product/6011-507/Southwest-British-Columbia%26-Northern-Washing",
+  "tech_specs": {
+    "Edition": [
+      "4th"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2020"
+    ],
+    "Regionality": [
+      "British Columbia",
+      "USA"
+    ],
+    "Scale": [
+      "1:800,000"
+    ],
+    "Tearproof": [
+      "No"
+    ],
+    "Waterproof": [
+      "No"
+    ]
+  }
+}

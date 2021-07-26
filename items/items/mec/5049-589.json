@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country classic",
+    "Classic ski bindings",
+    "SNS Interface Adaptor II"
+  ],
+  "description": "Use this handy adaptor to mount Salomon SNS Pilot Sport or Pilot Equipe Classic bindings to cross country skis with a pre-mounted NIS plate.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842293641246/5049589-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842293641246/5049589-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon SNS Interface Adaptor II",
+  "product_code": "5049-589",
+  "source_url": "https://www.mec.ca/en/product/5049-589/SNS-Interface-Adaptor-II",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "SNS Pilot"
+    ],
+    "Ideal for": [
+      "Recreational classic skiing"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Weight": [
+      "56g"
+    ]
+  }
+}

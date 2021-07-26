@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "The Wild Coast Kayak& Hiking Guide Vol 2"
+  ],
+  "description": "A must-have guide for kayakers and others exploring the coast from north Vancouver Island to the Alaska border. It covers both the Inside and Outside passages, with copious information on campsites, landings, launch sites, hiking trails, history, geography, weather, ecology, hazards, attractions and services. Includes colour photos and maps.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815595585566/5011390-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815595585566/5011390-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The Wild Coast Kayak & Hiking Guide Vol 2",
+  "product_code": "5011-390",
+  "source_url": "https://www.mec.ca/en/product/5011-390/The-Wild-Coast-Kayak%26-Hiking-Guide-Vol-2",
+  "tech_specs": {
+    "Author": [
+      "John Kimantas"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9781552857861"
+    ],
+    "Ideal for": [
+      "Kayak touring"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "344"
+    ],
+    "Photographer": [
+      "John Kimantas"
+    ],
+    "Published": [
+      "2010"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

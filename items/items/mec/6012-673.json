@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski straps",
+    "Ski Strap"
+  ],
+  "description": "For fastening your AT or tele skis together for transport. Also useful for emergency boot and binding repairs.Made of plastic with an in-moulded metal buckle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151998361630/6012673-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151995740190/6012673-BK000-ALT-LOOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151998361630/6012673-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151995740190/6012673-BK000-ALT-LOOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151998361630/6012673-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151995740190/6012673-BK000-ALT-LOOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151998361630/6012673-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151995740190/6012673-BK000-ALT-LOOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Ski Strap",
+  "product_code": "6012-673",
+  "source_url": "https://www.mec.ca/en/product/6012-673/Ski-Strap",
+  "tech_specs": {
+    "Adjustable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Snowsports"
+    ],
+    "Length": [
+      "50.8cm (20in)",
+      "63.5cm (25in)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Sold in pairs": [
+      "No"
+    ]
+  }
+}

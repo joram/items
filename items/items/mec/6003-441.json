@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Coolers and food storage",
+    "Food containers",
+    "Medium Beeswax Food Wrap"
+  ],
+  "description": "Carry your lunch or store your veggies in a plastic-free wraps. These self-adhesive and reuseable wraps are great for covering your leftovers, and it is breathable so it keeps your food fresher for longer (when compared to plastic wrap). Plus, it is biodegradable and compostable, so it creates no waste at the end of it's life.Made of hemp and organically grown cotton fabric infused with beeswax, tree resin, and jojoba oil.Includes 3 medium wraps (25 x 25cm).Wash with cold water and a light dishsoap.Keep away from warm water and heat sources.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026802843678/6003441-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023863838/6003441-NOC02-ALT-WRAPPED1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023896606/6003441-NOC02-ALT-WRAPPED4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023994910/6003441-NOC02-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027024453662/6003441-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027024683038/6003441-NOC02-ALT-WRAPPED3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027025666078/6003441-NOC02-ALT0-WRAPPED2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026802843678/6003441-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023863838/6003441-NOC02-ALT-WRAPPED1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023896606/6003441-NOC02-ALT-WRAPPED4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023994910/6003441-NOC02-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027024453662/6003441-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027024683038/6003441-NOC02-ALT-WRAPPED3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027025666078/6003441-NOC02-ALT0-WRAPPED2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026802843678/6003441-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023863838/6003441-NOC02-ALT-WRAPPED1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023896606/6003441-NOC02-ALT-WRAPPED4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023994910/6003441-NOC02-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027024453662/6003441-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027024683038/6003441-NOC02-ALT-WRAPPED3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027025666078/6003441-NOC02-ALT0-WRAPPED2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026802843678/6003441-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023863838/6003441-NOC02-ALT-WRAPPED1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023896606/6003441-NOC02-ALT-WRAPPED4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023994910/6003441-NOC02-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027024453662/6003441-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027024683038/6003441-NOC02-ALT-WRAPPED3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027025666078/6003441-NOC02-ALT0-WRAPPED2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Abeego Medium Beeswax Food Wrap",
+  "product_code": "6003-441",
+  "source_url": "https://www.mec.ca/en/product/6003-441/Medium-Beeswax-Food-Wrap",
+  "tech_specs": {
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Material": [
+      "Hemp",
+      "Cotton"
+    ]
+  }
+}

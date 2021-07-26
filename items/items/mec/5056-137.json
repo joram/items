@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water filters",
+    "Water filter parts and accessories",
+    "SE200 12 Volt Auto Adaptor"
+  ],
+  "description": "Use a car as a power source for the SE200\u2122 Community Chlorine Maker.12-volt adaptor for the SE200 Community Chlorine Maker.Cord length is 1.8m.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951631511582/5056137-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951631511582/5056137-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR SE200 12 Volt Auto Adaptor",
+  "product_code": "5056-137",
+  "source_url": "https://www.mec.ca/en/product/5056-137/SE200-12-Volt-Auto-Adaptor",
+  "tech_specs": {
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

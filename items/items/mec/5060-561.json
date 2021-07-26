@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Accessories",
+    "Running socks",
+    "Airflow Quarter Run Socks"
+  ],
+  "description": "Don't let hot feet distract you from your goals. Synthetic mesh is highly breathable and moisture-wicking so your feet stay cool and dry, and you can focus on pushing your 10km time.Made of moisture-wicking nylon and spandex for dry feet all run long.Anti-slip leg keeps sock in place and protects your ankle from trail or road debris.Mesh structure vents excess heat to keep feet cool.Arch support and seamless toe for a bunch- and chafe-free run.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080730157086/5060561-NEG00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080730157086/5060561-NEG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Airflow Quarter Run Socks - Unisex",
+  "product_code": "5060-561",
+  "source_url": "https://www.mec.ca/en/product/5060-561/Airflow-Quarter-Run-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Quarter"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "97% nylon",
+      "3% spandex"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Made in": [
+      "Colombia"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "India 17th Edition"
+  ],
+  "description": "Explore all that India has to offer. Take a trip to the Taj Mahal, ride a camel through the desert or cruise the backwaters of Kerala. Includes everything a traveller needs: maps, itineraries, transportation information, as well as reviews on restaurants, accomodations and activites.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8919223959582/5057296-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8919223959582/5057296-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Lonely Planet India 17th Edition",
+  "product_code": "5057-296",
+  "source_url": "https://www.mec.ca/en/product/5057-296/India-17th-Edition",
+  "tech_specs": {
+    "Author": [
+      "Sarina Singh, Michael Benanav"
+    ],
+    "Edition": [
+      "17th"
+    ],
+    "ISBN": [
+      "9781786571441"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pages": [
+      "1248"
+    ],
+    "Published": [
+      "2018"
+    ],
+    "Regionality": [
+      "Asia"
+    ]
+  }
+}

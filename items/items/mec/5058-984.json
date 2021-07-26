@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Trousers",
+    "Vidda Pro Trousers"
+  ],
+  "description": "Add a little insurance to your travel plans with the up-for-anything Vidda Pro Trousers. Fjallraven\u2019s G-1000 fabric is tough enough to stand up to the elements or let you scramble up a tree for a better view. Articulated knees follow your movements, letting you hit the local trails straight from the airport. Adjustable cuffs help you get the fit just right, making it easy to stay comfortable through long layovers and multi-day adventures.Constructed from hardwearing, wind- and water-resistant G-1000\u00ae fabric with reinforced knees and rear.Plenty of pocket space for your EDC needs.Articulated knees let the pants move with you.Adjustable cuffs keep you ready for adventure.Regular fit offers reliable comfort.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950587654174/5058984-DGR00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950587654174/5058984-DGR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fjallraven Vidda Pro Trousers - Men's",
+  "product_code": "5058-984",
+  "source_url": "https://www.mec.ca/en/product/5058-984/Vidda-Pro-Trousers",
+  "tech_specs": {
+    "Fabric content": [
+      "65% polyester",
+      "35% organically grown cotton"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "32in. (34)"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "3 thigh"
+    ]
+  }
+}

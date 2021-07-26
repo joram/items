@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Marine navigation",
+    "Compasses",
+    "A-10 NH Compass"
+  ],
+  "description": "A compact compass with a durable, scratch-resistant finish, intended for general recreational use. It's easy to use and designed to fit in the palm of your hand. The durable construction and simplicity of use make it a good choice for beginners and kids.Fixed declination correction scale.Detachable lanyard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039063416862/6005322-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039252127774/6005322-WHT00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039063416862/6005322-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039252127774/6005322-WHT00-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039063416862/6005322-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039252127774/6005322-WHT00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039063416862/6005322-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039252127774/6005322-WHT00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Suunto A-10 NH Compass",
+  "product_code": "6005-322",
+  "source_url": "https://www.mec.ca/en/product/6005-322/A-10-NH-Compass",
+  "tech_specs": {
+    "Adjustable declination\n\nSets the compass to indicate true north instead of magnetic north.": [
+      "No"
+    ],
+    "Clinometer\n\nMeasures angles of slope, elevation or inclination.": [
+      "No"
+    ],
+    "Dimensions": [
+      "10.4\u00a0x\u00a05.6cm"
+    ],
+    "Hemisphere\n\nThe earth's magnetic field varies considerably so most compasses are designed to work in the specific hemisphere zones for which they are being used. A global compass can be used anywhere.": [
+      "Northern Hemisphere"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking",
+      "Emergency preparedness"
+    ],
+    "Luminous markings\n\nLuminous markings allow you to read your compass in dim light conditions.": [
+      "No"
+    ],
+    "Made in": [
+      "Finland"
+    ],
+    "Magnifying lens": [
+      "No"
+    ],
+    "Sighting mirror": [
+      "No"
+    ],
+    "Weight": [
+      "30g"
+    ]
+  }
+}

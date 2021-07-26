@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camp furniture",
+    "Chairs",
+    "Camp Together Camp Chair"
+  ],
+  "description": "For seasons of fireside and beachfront fun, this durable camp chair uses breathable mesh with 600-denier polyester in high stress areas. The cup holder fits a nice cup of hot chocolate, and the chair locks in position so kids can move about without the chair collapsing.Made of powder-coated steel, with breathable mesh and 600-denier reinforcements.Chair locks when unfolded to prevent accidents.Armrests and upper back are padded for support.Includes a stuff sack with carry handle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596064286/5041086-OBP06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596162590/5041086-OBP06-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596228126/5041086-OBP06-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596064286/5041086-OBP06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596162590/5041086-OBP06-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596228126/5041086-OBP06-ALT-PACKED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596064286/5041086-OBP06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596162590/5041086-OBP06-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596228126/5041086-OBP06-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596064286/5041086-OBP06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596162590/5041086-OBP06-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596228126/5041086-OBP06-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Camp Together Camp Chair - Children",
+  "product_code": "5041-086",
+  "source_url": "https://www.mec.ca/en/product/5041-086/Camp-Together-Camp-Chair",
+  "tech_specs": {
+    "Cup holder": [
+      "Yes"
+    ],
+    "Dimensions": [
+      "40\u00a0x\u00a040\u00a0x\u00a065cm"
+    ],
+    "Folded dimensions": [
+      "16.5 cm x 12 cm x 61cm"
+    ],
+    "Frame material": [
+      "Steel"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Load capacity": [
+      "56kg"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "600-denier polyester"
+    ],
+    "Stuff sack": [
+      "Yes"
+    ],
+    "Weight": [
+      "1.6kg"
+    ]
+  }
+}

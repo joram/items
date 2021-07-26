@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tool components",
+    "PUR'ICE Pick"
+  ],
+  "description": "New, tapered picks for getting over thin smears to reach the satisfying \"swack\" of pure fat ice.Pick tapers to 3mm at the tip for easy penetration in the ice.Easy pick removal is ensured by a tapered upper edge and beveled lower teeth.Tapered upper edge for chopping.B-rated. Designed for ice (not mixed) climbing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8945639194654/5059978-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8945949966366/5059978-NOC02-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8945639194654/5059978-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8945949966366/5059978-NOC02-ALT-ANGLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8945639194654/5059978-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8945949966366/5059978-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8945639194654/5059978-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8945949966366/5059978-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl PUR'ICE Pick",
+  "product_code": "5059-978",
+  "source_url": "https://www.mec.ca/en/product/5059-978/PUR%27ICE-Pick",
+  "tech_specs": {
+    "Ideal for": [
+      "Ice climbing"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Weight": [
+      "105g"
+    ]
+  }
+}

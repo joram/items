@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Road maps and atlases",
+    "Southwest British Columbia and Northern Washi"
+  ],
+  "description": "Navigate your way to all the popular outdoor vacation destinations in Southwest BC and Northern Washington State. Includes all major highways, secondary roads, parks, ski areas, campgrounds and points of interest.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035647189022/5050026-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035647189022/5050026-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Publishing Southwest British Columbia and Northern Washington",
+  "product_code": "5050-026",
+  "source_url": "https://www.mec.ca/en/product/5050-026/Southwest-British-Columbia-and-Northern-Washi",
+  "tech_specs": {
+    "Edition": [
+      "2nd"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2015"
+    ],
+    "Regionality": [
+      "British Columbia",
+      "USA"
+    ],
+    "Scale": [
+      "1:84,000"
+    ],
+    "Tearproof": [
+      "No"
+    ],
+    "Waterproof": [
+      "No"
+    ]
+  }
+}

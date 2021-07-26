@@ -1,0 +1,92 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Base layers and underwear",
+    "Briefs and boxers",
+    "Quest 2.0 Boxers"
+  ],
+  "description": "Highly breathable and chafe-free, these boxers are made of a polyester blend that provides firm support. An articulated front pouch with internal mesh panels combine to give you room, while preventing unwanted friction.Made of polyester and 10% spandex.Anti-microbial treatment controls odor.Flatlock seams and an operable fly.9-panel construction because 8-panel is so yesterday.Seamless on the inside front to prevent irritation and reduce chafing.Parallel side panels offer a barrier between one's package and inner thigh.Wide, no-fold waistband wicks and stays dry.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065687070/5046661-MIB03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070864414/5046661-MIB03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343714334/5046661-GSS07-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070962718/5046661-GGG02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070471198/5046661-DAC08-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343681566/5046661-BLM66-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070635038/5046661-BLK32-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350595614/5046661-GSS07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065588766/5046661-GGG02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065326622/5046661-DAC08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350399006/5046661-BLM66.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065097246/5046661-BLK32.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065687070/5046661-MIB03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070864414/5046661-MIB03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343714334/5046661-GSS07-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070962718/5046661-GGG02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070471198/5046661-DAC08-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343681566/5046661-BLM66-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070635038/5046661-BLK32-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350595614/5046661-GSS07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065588766/5046661-GGG02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065326622/5046661-DAC08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350399006/5046661-BLM66.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065097246/5046661-BLK32.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065687070/5046661-MIB03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070864414/5046661-MIB03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343714334/5046661-GSS07-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070962718/5046661-GGG02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070471198/5046661-DAC08-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343681566/5046661-BLM66-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070635038/5046661-BLK32-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350595614/5046661-GSS07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065588766/5046661-GGG02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065326622/5046661-DAC08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350399006/5046661-BLM66.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065097246/5046661-BLK32.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065687070/5046661-MIB03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070864414/5046661-MIB03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343714334/5046661-GSS07-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070962718/5046661-GGG02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070471198/5046661-DAC08-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343681566/5046661-BLM66-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125070635038/5046661-BLK32-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350595614/5046661-GSS07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065588766/5046661-GGG02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065326622/5046661-DAC08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350399006/5046661-BLM66.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125065097246/5046661-BLK32.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Saxx Quest 2.0 Boxers - Men's",
+  "product_code": "5046-661",
+  "source_url": "https://www.mec.ca/en/product/5046-661/Quest-2-0-Boxers",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Antimicrobial treatment"
+    ],
+    "Antimicrobial treatment\n\nA treatment that inhibits bacteria growth and reduces odour.": [
+      "Yes"
+    ],
+    "Fabric content": [
+      "90% polyester",
+      "10% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Relief opening": [
+      "Yes"
+    ],
+    "Type": [
+      "Underwear"
+    ]
+  }
+}

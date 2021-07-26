@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike chains",
+    "PowerLink Gold 9 Speed Chain Connector"
+  ],
+  "description": "No tools required to link chain together. Assembles in seconds.Fits SRAM\u00ae only PC-59, 9-speed chains.Does not fit Sach PC-59 chains.Package contains two pieces to make one complete link.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806830276638/4015143-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806830276638/4015143-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SRAM PowerLink Gold 9 Speed Chain Connector",
+  "product_code": "4015-143",
+  "source_url": "https://www.mec.ca/en/product/4015-143/PowerLink-Gold-9-Speed-Chain-Connector",
+  "tech_specs": {
+    "Compatibility": [
+      "9-speed"
+    ],
+    "Ideal for": [
+      "Bike maintenance",
+      "Road cycling",
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Portugal"
+    ],
+    "Number of links": [
+      "1"
+    ],
+    "Weight": [
+      "3g"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Ski socks",
+    "PhD Ski Ultra Light Socks"
+  ],
+  "description": "Close fitting socks without cushioning designed to work with tight-fitting performance ski boots. Reinforced high-impact zones prolong the life of your socks.Made of soft, itch-free merino wool, with nylon and elastane to maintain fit.Banded fit system features elastic arches and ankle braces, with flex zones to eliminate bunching, slipping, and sagging.Flat knit side panels and toe seams reduce compression.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130061922334/6009772-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130061922334/6009772-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool PhD Ski Ultra Light Socks - Unisex",
+  "product_code": "6009-772",
+  "source_url": "https://www.mec.ca/en/product/6009-772/PhD-Ski-Ultra-Light-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Knee"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "55% merino wool",
+      "41% nylon",
+      "4% elastane"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Handlebars, headsets and stems",
+    "Grips and bar tape",
+    "Tempo Microtex Classic Handlebar Tape"
+  ],
+  "description": "If you're looking for a top performance bartape that won't get slippery, the Tempo Microtex classic is the one to get. Thin but comfortable 2mm-thick tape provides precise control and makes you feel like you're one with your bike. The leather-like texture is extremely durable and easy to care for.Microtex material has a leather-like texture with improved durability.2mm-thick tape provides maximum control.Includes 2 bar end plugs, 2 pieces of finishing tape and 2 short tape sections to cover the shifter clamp area.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010071142430/6001602-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010299961374/6001602-RED00-ALT-ONBAR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010071142430/6001602-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010299961374/6001602-RED00-ALT-ONBAR.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010071142430/6001602-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010299961374/6001602-RED00-ALT-ONBAR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010071142430/6001602-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010299961374/6001602-RED00-ALT-ONBAR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fizik Tempo Microtex Classic Handlebar Tape",
+  "product_code": "6001-602",
+  "source_url": "https://www.mec.ca/en/product/6001-602/Tempo-Microtex-Classic-Handlebar-Tape",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Plugs included": [
+      "Yes"
+    ],
+    "Weight": [
+      "101g"
+    ]
+  }
+}

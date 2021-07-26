@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Boardshorts",
+    "Ebelie Shorts"
+  ],
+  "description": "Lightweight boardshorts that are ready to SUP, surf or paddle the summer away. The soft, yet strong Sorona\u00ae polyester, makes the Ebelie Shorts a hot-day standout.Light, moisture-wicking Sorona polyester.Drawcord waist.Hand pockets have mesh pocket bags for fast draining.Standard fit feels just right.\n\n        Sustainability\n\n\n\n\n\n\n\n\nBluesign\n\n\n\n\n\n\n\n\n\n\n\n                      Bluesign\u00ae Approved Material",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076114259998/6007053-NKL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076110753822/6007053-NKL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076110852126/6007053-NKL00-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076114259998/6007053-NKL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076110753822/6007053-NKL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076110852126/6007053-NKL00-ALT-FLAT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076114259998/6007053-NKL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076110753822/6007053-NKL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076110852126/6007053-NKL00-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076114259998/6007053-NKL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076110753822/6007053-NKL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076110852126/6007053-NKL00-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Ebelie Shorts - Women's",
+  "product_code": "6007-053",
+  "source_url": "https://www.mec.ca/en/product/6007-053/Ebelie-Shorts",
+  "tech_specs": {
+    "Fabric content": [
+      "83% polyester",
+      "13% polyester",
+      "4% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "5in. (M)"
+    ],
+    "Ideal for": [
+      "Beach",
+      "Surfing",
+      "Paddleboarding",
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front slash"
+    ],
+    "Product sustainability": [
+      "Bluesign\u00ae Approved Material"
+    ]
+  }
+}

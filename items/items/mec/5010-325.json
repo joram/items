@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water bottles",
+    "Hard plastic bottles",
+    "Wide-Mouth Loop-Top HDPE Water Bottle"
+  ],
+  "description": "A one-litre bottle, great for hot or cold liquids, powders or solids.Made of durable HDPE (high-density polyethylene).Dishwasher safe (top rack only) \u2013 withstands temperatures from -148\u00baF (-100\u00baC) to 248\u00baF (120\u00baC).Standard 63mm loop-top cap.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812147474462/5010325-GRN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812147474462/5010325-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nalgene Wide-Mouth Loop-Top HDPE Water Bottle",
+  "product_code": "5010-325",
+  "source_url": "https://www.mec.ca/en/product/5010-325/Wide-Mouth-Loop-Top-HDPE-Water-Bottle",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Yoga and fitness",
+      "Travel"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lid type": [
+      "Screw-top w/loop"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "HDPE (high-density polyethylene)"
+    ],
+    "Volume": [
+      "1L"
+    ],
+    "Water filter compatible": [
+      "Yes"
+    ],
+    "Weight": [
+      "107g"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bug spray and bug nets",
+    "Bug spray and insect repellent",
+    "Insect Repellent Pump Spray 37ml"
+  ],
+  "description": "A great alternative to DEET-based repellents, this is a long-lasting, botanical based formula that protects for up to 6 hours.DEET-free formula.37ml pump spray.Active ingredient is 30% plant based Citriodiol, derived from lemon eucalyptus trees.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809979805726/5038077-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809979805726/5038077-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Natrapel Insect Repellent Pump Spray 37ml",
+  "product_code": "5038-077",
+  "source_url": "https://www.mec.ca/en/product/5038-077/Insect-Repellent-Pump-Spray-37ml",
+  "tech_specs": {
+    "DEET\n\nThe active ingredient in many bug repellents. It is not recommended for use on young children.": [
+      "0%"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Plant-based repellent\n\nPlant-based repellents such as citronella do not contain chemical deterents such as DEET and may be more suitable for children.": [
+      "Yes"
+    ],
+    "Volume": [
+      "37ml"
+    ]
+  }
+}

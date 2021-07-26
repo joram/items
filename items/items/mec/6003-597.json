@@ -1,0 +1,69 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country skate",
+    "Skate ski boots",
+    "X10 Skate Boots"
+  ],
+  "description": "High-end boots with unbeatable power transmission. They offer a 3-D cuff for stability and power. The design promotes a natural foot roll to direct energy through your kick. They're suitable for long-distance training and competitive racing.Polyester inner boot is thermomouldable for a custom fit.World cup speed lace pull lace system is quick to tune.3-D soft touch upper cuff and PVC lower provides a precise, enveloping fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055715426334/6003597-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055700713502/6003597-NOC02-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055700746270/6003597-NOC02-ALT-HEELDETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055700779038/6003597-NOC02-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055701073950/6003597-NOC02-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055701401630/6003597-NOC02-ALT-ZIPPER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055715426334/6003597-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055700713502/6003597-NOC02-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055700746270/6003597-NOC02-ALT-HEELDETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055700779038/6003597-NOC02-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055701073950/6003597-NOC02-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055701401630/6003597-NOC02-ALT-ZIPPER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055715426334/6003597-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055700713502/6003597-NOC02-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055700746270/6003597-NOC02-ALT-HEELDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055700779038/6003597-NOC02-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055701073950/6003597-NOC02-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055701401630/6003597-NOC02-ALT-ZIPPER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055715426334/6003597-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055700713502/6003597-NOC02-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055700746270/6003597-NOC02-ALT-HEELDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055700779038/6003597-NOC02-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055701073950/6003597-NOC02-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055701401630/6003597-NOC02-ALT-ZIPPER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rossignol X10 Skate Boots - Unisex",
+  "product_code": "6003-597",
+  "source_url": "https://www.mec.ca/en/product/6003-597/X10-Skate-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "NNN"
+    ],
+    "Hinged/high cuff": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Skate ski racing",
+      "Fitness skate skiing"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lace cover": [
+      "Yes"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ]
+  }
+}

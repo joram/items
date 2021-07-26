@@ -1,0 +1,70 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Crash pads",
+    "Circuit Crash Pad"
+  ],
+  "description": "A protective landing zone that's easy on the backside and on the wallet. Four inches of foam provides solid impact protection, and the durable outer material withstands being dragged around the boulders. Square corners fit well with other pads to eliminate dead space in pad stacks.Tough 900-denier nylon is polyurethane-coated for water resistance.Combination of high and low compression foam makes for a crashzone that cushions without bottoming out.Padded shoulder straps and large waistbelt for transporting it to the crag.Hinged design with 3 metal buckle closures is easy to pack.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187252600862/6006817-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187246571550/6006817-PPL00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165717471262/6006817-AQA20.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187252600862/6006817-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187246571550/6006817-PPL00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165717471262/6006817-AQA20.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187252600862/6006817-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187246571550/6006817-PPL00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165717471262/6006817-AQA20.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187252600862/6006817-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187246571550/6006817-PPL00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165717471262/6006817-AQA20.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Circuit Crash Pad",
+  "product_code": "6006-817",
+  "source_url": "https://www.mec.ca/en/product/6006-817/Circuit-Crash-Pad",
+  "tech_specs": {
+    "Cover fabric": [
+      "900-denier nylon"
+    ],
+    "Cushioning\n\nHigh compression foam disperses impact, low compressions foam absorbs it.": [
+      "High compression + low compression foam"
+    ],
+    "Dimensions": [
+      "120\u00a0x\u00a089\u00a0x\u00a010cm"
+    ],
+    "Folded Shape\n\nSandwich = hinged design. Taco = unhinged, folds in half. Burrito = unhinged, two or more folds.": [
+      "Sandwich"
+    ],
+    "Folded dimensions": [
+      "89 x 60 x 20cm"
+    ],
+    "Ideal for": [
+      "Bouldering"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Number of handles": [
+      "2"
+    ],
+    "Pocket(s)": [
+      "No"
+    ],
+    "Shoulder straps": [
+      "Yes"
+    ],
+    "Waistbelt": [
+      "Yes"
+    ],
+    "Weight": [
+      "3.78kg"
+    ]
+  }
+}

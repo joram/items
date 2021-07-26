@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Spur Boot Light Cushion Socks"
+  ],
+  "description": "Lightly cushioned socks made of a naturally antimicrobial merino wool blend that stands up to multi-day backpacking trips.Made of merino wool, nylon, and Lycra.Lightly cushioned sole provide great comfort without bulk.Lightweight wool yarn in a ribbed performance knit with seamless construction ensures no slipping, no bunching and no blisters.Darn Tough sources their wool from non-mulesed sheep.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083333509150/5051278-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083333509150/5051278-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Darn Tough Spur Boot Light Cushion Socks - Unisex",
+  "product_code": "5051-278",
+  "source_url": "https://www.mec.ca/en/product/5051-278/Spur-Boot-Light-Cushion-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Forefoot"
+    ],
+    "Fabric content": [
+      "50% nylon",
+      "45% merino wool",
+      "5% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

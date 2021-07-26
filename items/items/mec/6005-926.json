@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth clothing",
+    "Youth fleece, hoodies and Sweaters",
+    "Youth fleece jackets",
+    "Camplayer Fleece Cardigan"
+  ],
+  "description": "This soft fleecy layer is great on its own or worn under a shell. Made from light, warm Sherpa fleece the Camplayer Cardigan offers campfire levels of coziness any day of the week.Soft Sherpa Fleece is light and quick-drying.Dual zippered hand pockets.Elastic piping sealed edges.Internal name tag eliminates those games of \u201cwhose is whose\u201dStandard fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091403481118/6005926-VIN06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091414982686/6005926-VIN06-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091415080990/6005926-VIN06-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091403481118/6005926-VIN06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091414982686/6005926-VIN06-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091415080990/6005926-VIN06-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091403481118/6005926-VIN06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091414982686/6005926-VIN06-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091415080990/6005926-VIN06-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091403481118/6005926-VIN06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091414982686/6005926-VIN06-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091415080990/6005926-VIN06-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Camplayer Fleece Cardigan - Girls' - Youths",
+  "product_code": "6005-926",
+  "source_url": "https://www.mec.ca/en/product/6005-926/Camplayer-Fleece-Cardigan",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "240gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 handwarmer zippered"
+    ],
+    "Type": [
+      "Mid-layer"
+    ]
+  }
+}

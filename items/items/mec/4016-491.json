@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "20mm Standard Release Tensionlock"
+  ],
+  "description": "Standard release tension lock. Use with 20mm webbing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815561637918/4016491-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815561637918/4016491-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "National Molding 20mm Standard Release Tensionlock",
+  "product_code": "4016-491",
+  "source_url": "https://www.mec.ca/en/product/4016-491/20mm-Standard-Release-Tensionlock",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "3g"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike chain rings",
+    "X-SYNC Eagle 12Spd Oval DMount Chainring (3of"
+  ],
+  "description": "Customize your setup to your riding style. This oval chainring is 12-speed compatible and designed for use with SRAM cranks with a removable spider system. Tooth profile is engineered for perfect compatiblity with the Eagle drivetrain. Spider system allows for easy switching between direct-mount rings and spiders, giving you the flexibility to try out drivetrain options to find your ideal combination.X-SYNC tooth profile offers great chain retention and smooth, efficient pedal feel.Oval design improves your pedalling efficiency.Aluminum construction keeps the weight low.3mm offset is perfect for bikes with boost spacing.Compatible with cranks using the SRAM direct-mount system.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008599203870/5056409-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008599203870/5056409-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SRAM X-SYNC Eagle 12Spd Oval DMount Chainring (3of",
+  "product_code": "5056-409",
+  "source_url": "https://www.mec.ca/en/product/5056-409/X-SYNC-Eagle-12Spd-Oval-DMount-Chainring-%283of",
+  "tech_specs": {
+    "Attachment": [
+      "Direct mount (SRAM)"
+    ],
+    "Compatibility": [
+      "12-speed"
+    ],
+    "Ideal for": [
+      "Enduro",
+      "Trail riding",
+      "Cross-country riding",
+      "Freeride and downhill riding"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum"
+    ],
+    "Teeth": [
+      "32 (32)",
+      "34 (34)",
+      "36 (36)"
+    ],
+    "Weight": [
+      "104g (32)",
+      "116g (34)",
+      "125g (36)"
+    ]
+  }
+}

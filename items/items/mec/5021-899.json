@@ -1,0 +1,91 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Snacks",
+    "Nuts, fruit and dried foods",
+    "Vanilla Ice Cream Sandwich"
+  ],
+  "description": "This vanilla ice cream bar sandwiched between two chocolate wafers is freeze-dried so it's melt-proof.Ice cream ingredients: milkfat, sugar, nonfat milk, corn syrup, whey, stabilized and emulsified by and diglycerides, guar gum, cellulose gum and carageenan, artificial flavour and vegetable annatto colour.Wafer ingredients: bleached wheat flour, sugar, caramel colour, corn sugar, vegetable shortening (partially hydrogenated oils, soybean, cotton seed), corn flour, corn syrup, cocoa, modified corn starch, salt, baking soda, mono and diglycerides, soy lecithin.Allergins: milk, gluten, wheat, and soy. May contain traces of peanuts and other nuts.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986599194654/5021899-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812423577630/5021899-NOC02-ALT-PREPARED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986599194654/5021899-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812423577630/5021899-NOC02-ALT-PREPARED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986599194654/5021899-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812423577630/5021899-NOC02-ALT-PREPARED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986599194654/5021899-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812423577630/5021899-NOC02-ALT-PREPARED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backpacker's Pantry Vanilla Ice Cream Sandwich",
+  "product_code": "5021-899",
+  "source_url": "https://www.mec.ca/en/product/5021-899/Vanilla-Ice-Cream-Sandwich",
+  "tech_specs": {
+    "Calories per serving": [
+      "210Cal"
+    ],
+    "Carbohydrates": [
+      "30g"
+    ],
+    "Cholesterol": [
+      "25mg"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "0g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "4g"
+    ],
+    "Saturated fat": [
+      "5g"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "180mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "17g"
+    ],
+    "Total fat": [
+      "8g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "31g"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Accessories",
+    "Running socks",
+    "Double Layer Coolmesh II Tab Socks"
+  ],
+  "description": "One of Wrightsock's best selling styles, the lightweight double-layer knit has a minimal feel that suits running, walking or light hiking. The fabric dries fast, so it's a great option for travel too.Dri-WRIGHT II performance fibers provide great moisture management.Stabilizer zone in arch keeps them in place.Mesh panel for airflow and cooler feet.Super-thin design has no cushioning.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002292543518/5038630-TTM00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002293231646/5038630-BLM14.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002292543518/5038630-TTM00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002293231646/5038630-BLM14.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002292543518/5038630-TTM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002293231646/5038630-BLM14.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002292543518/5038630-TTM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002293231646/5038630-BLM14.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "WrightSock Double Layer Coolmesh II Tab Socks - Unisex",
+  "product_code": "5038-630",
+  "source_url": "https://www.mec.ca/en/product/5038-630/Double-Layer-Coolmesh-II-Tab-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "No-show"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "71% polyester",
+      "22% nylon",
+      "7% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Daypacks and school bags",
+    "Daypacks",
+    "Aerios 15 Backpack"
+  ],
+  "description": "A versatile day pack that loves to move fast along the trails. Rugged fabric, a comfortable harness and attachment points for trekking poles suit day hikes with only the essentials. A frame sheet gives the Aerios some structure when packed full, and can be removed to reduce weight or pack down the bag.High-tenacity nylon fabric has a liquid crystal polymer ripstop for added durability.Lightweight shoulder harness with front pockets and adjustable sternum straps.AeroForm back panel enhances airflow.Zippered top access with additional front pocket with secure key clip.Hydration system-compatible, with an internal clip to suspend bladder and passage for drink tube.Stretchy side pockets accommodate 1-litre water bottles.Front bungee and webbing daisy chains secure additional items.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154488729630/6012578-REF09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494464030/6012578-REF09-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494431262/6012578-REF09-ALT-MODEL-BACKAXE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494398494/6012578-REF09-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494562334/6012578-REF09-ALT-MODEL-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494693406/6012578-REF09-ALT-MODEL-HYDRATION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494791710/6012578-REF09-ALT-MODEL-POLES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494857246/6012578-REF09-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494922782/6012578-REF09-ALT-MODEL-SIDEPACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154495250462/6012578-REF09-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154495315998/6012578-REF09-ALT-SUSPENSION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154488729630/6012578-REF09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494464030/6012578-REF09-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494431262/6012578-REF09-ALT-MODEL-BACKAXE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494398494/6012578-REF09-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494562334/6012578-REF09-ALT-MODEL-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494693406/6012578-REF09-ALT-MODEL-HYDRATION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494791710/6012578-REF09-ALT-MODEL-POLES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494857246/6012578-REF09-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494922782/6012578-REF09-ALT-MODEL-SIDEPACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154495250462/6012578-REF09-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154495315998/6012578-REF09-ALT-SUSPENSION.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154488729630/6012578-REF09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494464030/6012578-REF09-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494431262/6012578-REF09-ALT-MODEL-BACKAXE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494398494/6012578-REF09-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494562334/6012578-REF09-ALT-MODEL-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494693406/6012578-REF09-ALT-MODEL-HYDRATION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494791710/6012578-REF09-ALT-MODEL-POLES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494857246/6012578-REF09-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494922782/6012578-REF09-ALT-MODEL-SIDEPACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154495250462/6012578-REF09-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154495315998/6012578-REF09-ALT-SUSPENSION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154488729630/6012578-REF09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494464030/6012578-REF09-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494431262/6012578-REF09-ALT-MODEL-BACKAXE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494398494/6012578-REF09-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494562334/6012578-REF09-ALT-MODEL-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494693406/6012578-REF09-ALT-MODEL-HYDRATION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494791710/6012578-REF09-ALT-MODEL-POLES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494857246/6012578-REF09-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154494922782/6012578-REF09-ALT-MODEL-SIDEPACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154495250462/6012578-REF09-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154495315998/6012578-REF09-ALT-SUSPENSION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Aerios 15 Backpack - Women's",
+  "product_code": "6012-578",
+  "source_url": "https://www.mec.ca/en/product/6012-578/Aerios-15-Backpack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Clamshell zip",
+      "Front"
+    ],
+    "Additional feature(s)": [
+      "Hydration compatible (reservoir sold separately)",
+      "Ice axe/pole attachment"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Hipbelt": [
+      "Removable waistbelt"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Main fabric": [
+      "210-denier ripstop nylon"
+    ],
+    "Secondary fabric": [
+      "100-denier nylon"
+    ],
+    "Ventilated back panel": [
+      "Yes"
+    ],
+    "Volume": [
+      "15L"
+    ],
+    "Weight": [
+      "540g"
+    ]
+  }
+}

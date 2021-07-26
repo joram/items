@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard goggles",
+    "Marshall Goggles"
+  ],
+  "description": "Mid-sized frames accommodate all kinds of faces so everyone gets a clear view of the way ahead. All styles of the Marshall Goggles include a bonus lens, letting you customize your outlook for the conditions.Happy lenses heighten contrast detail in challenging conditions, giving excellent clarity and detail.5.5-base curve ARC spherical dual-layer lens with anti-fog and anti-scratch protection.ARC lens is thicker in the middle, tapered toward the edges for optically correct, distortion-free viewing from all angles.Flexible polyurethane frame conforms to any face for a comfortable fit.Scoop ventilation system combats lens fogging by forcing air through the frame.Triple-density face foam with moisture-wicking fleece.Dual-adjustment, silicone-ribbed strap.Essential White colourway includes a spare Happy yellow with lucid green spectra lens with 53% visible light transmission.Red Rose colourway includes a spare Happy light grey green with red spectra lens with 54% visible light transmission.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146000343070/5060714-DLS07.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146000343070/5060714-DLS07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Spy+ Marshall Goggles - Unisex",
+  "product_code": "5060-714",
+  "source_url": "https://www.mec.ca/en/product/5060-714/Marshall-Goggles",
+  "tech_specs": {
+    "100% UV protection\n\nProvides 100% protection against UVA and UVB rays.": [
+      "Yes"
+    ],
+    "Anti-fog coating\n\nA coating on the inside of the lens that inhibits condensation.": [
+      "Yes"
+    ],
+    "Fits over most eyewear\n\nThese optics are designed to fit comfortably over most eyewear.": [
+      "No"
+    ],
+    "Helmet compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing",
+      "Snowboarding"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Scratch-resistant lens": [
+      "Yes"
+    ],
+    "Vents\n\nVents allow airflow through the goggles which helps to prevent fogging.": [
+      "Yes"
+    ],
+    "Visible Light Transmission\n\n0-10% \u2013 very heavy tint, too dark for most needs. \n10-30% \u2013 heavy tint for bright sunny days.\n20-60% \u2013 light tint, great for cloudy, overcast conditions and shady trails. \n60-80% \u2013 very light tint (often coloured), for improving contrast in low-light conditions, think dawn or dusk. \n80-100% \u2013 little to no tint, this what you want in the dark.": [
+      "15%"
+    ]
+  }
+}

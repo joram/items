@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Pots and pot sets",
+    "Pots",
+    "WindBurner Pot 1.0L"
+  ],
+  "description": "Need a new 1L pot for your MSR WindBurner or Windboiler? Here it is.Pot and heat exchanger are anodized aluminum.Insulator is moulded nylon and high-temp polyester fabric.Lid and cup are foodsafe, BPA-free polypropylene in a formulation that resists shrinking and breakage.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812529451038/5044050-GYY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812529451038/5044050-GYY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR WindBurner Pot 1.0L",
+  "product_code": "5044-050",
+  "source_url": "https://www.mec.ca/en/product/5044-050/WindBurner-Pot-1-0L",
+  "tech_specs": {
+    "Diameter": [
+      "10.5cm"
+    ],
+    "Dimensions": [
+      "10.5\u00a0x\u00a017.5cm"
+    ],
+    "Foldable handle": [
+      "No"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Includes": [
+      "1 pot",
+      "Lid(s)",
+      "Bowl(s)"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Material": [
+      "Hard-anodized aluminum"
+    ],
+    "Non-stick": [
+      "Yes"
+    ],
+    "Volume": [
+      "1L"
+    ],
+    "Weight": [
+      "244g"
+    ]
+  }
+}

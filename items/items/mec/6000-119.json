@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Sleeping pads",
+    "Anti-Condensation 2-Person Mat"
+  ],
+  "description": "Add this anti-condensation mat to your Tepui rooftop tent to help prevent moisture build up.Textured surface lets air flow under your mattress so condensation can't accumulate.At 1.25cm thick, it won't add bulk or prevent your rooftop tent from folding up with the mat installed.2 person version fits Tepui Ayer 2-Person and LoPro 2-Person rooftop tents. Not compatible with the Tepui Hybox 2-Person tent.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022684463134/6000119-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016481087518/6000119-NOC02-ALT-INTERIOR2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016481611806/6000119-NOC02-ALT-INTERIOR1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022684463134/6000119-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016481087518/6000119-NOC02-ALT-INTERIOR2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016481611806/6000119-NOC02-ALT-INTERIOR1.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022684463134/6000119-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016481087518/6000119-NOC02-ALT-INTERIOR2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016481611806/6000119-NOC02-ALT-INTERIOR1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022684463134/6000119-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016481087518/6000119-NOC02-ALT-INTERIOR2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016481611806/6000119-NOC02-ALT-INTERIOR1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Thule Anti-Condensation 2-Person Mat",
+  "product_code": "6000-119",
+  "source_url": "https://www.mec.ca/en/product/6000-119/Anti-Condensation-2-Person-Mat",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Long sleeved shirts",
+    "High Coast Lite Sweater"
+  ],
+  "description": "Lock in comfort no matter where you are. This packable layer has looped polyester yarns that keep you warm and wick moisture away from your skin.Polyester jersey (partly recycled) has a cotton-like feel.Looped inner face moves moisture.Small zippered side pocket.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091101589534/6005416-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091446931486/6005416-NVY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091101589534/6005416-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091446931486/6005416-NVY00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091101589534/6005416-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091446931486/6005416-NVY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091101589534/6005416-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091446931486/6005416-NVY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fjallraven High Coast Lite Sweater - Women's",
+  "product_code": "6005-416",
+  "source_url": "https://www.mec.ca/en/product/6005-416/High-Coast-Lite-Sweater",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Backpacking",
+      "Travel"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "1 side zippered"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Marine navigation",
+    "Maps",
+    "Frost Centre Area Map"
+  ],
+  "description": "This map features over 500 square kilometres of wilderness in the Haliburton Highlands/Muskoka Lakes region of Ontario, including the popular area known as the Leslie Frost Centre lands. A great destination for paddlers and backpackers, this map covers from Livingstone and Fletcher lakes in the north to Halls Lake in the south, and from Lake of Bays to the west to Kennisis and Kimball lakes in the east. Includes topographic and water details, as well as hiking trails, campsites, portages, access points, facilities, natural history, and suggested routes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815791210526/4008276-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815791210526/4008276-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Map Frost Centre Area Map",
+  "product_code": "4008-276",
+  "source_url": "https://www.mec.ca/en/product/4008-276/Frost-Centre-Area-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Canoeing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Ontario"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

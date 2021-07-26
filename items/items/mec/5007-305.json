@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fuel",
+    "SuperFuel White Gas"
+  ],
+  "description": "Stove fuel to use with any stove that burns white gas. This ultra-distilled fuel is designed to burn clean and prevent your stove clogging.Fuel will last up to 5 years before opening. Once exposed to air, it's best to use it within 1 year. Note: date written on the can is the date it was filled, not the expiry date.Contains no additives.Contains 946ml.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812633128990/5007305-NOC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812633128990/5007305-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR SuperFuel White Gas",
+  "product_code": "5007-305",
+  "source_url": "https://www.mec.ca/en/product/5007-305/SuperFuel-White-Gas",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Shelf life (opened)": [
+      "12mo"
+    ],
+    "Shelf life (sealed)": [
+      "60mo"
+    ],
+    "Volume": [
+      "946ml"
+    ],
+    "Weight": [
+      "815g"
+    ]
+  }
+}

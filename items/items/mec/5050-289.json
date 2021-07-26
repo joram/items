@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Edge tuning tools",
+    "Hone Diamond Stone"
+  ],
+  "description": "Mounted on a 5.5mm, precision cast-aluminum backer, the Hone Diamond Stones are the perfect tool to get your edges polished. The range of grits available take care of deburring  edges after filing to polishing and smoothing a mirror finish.Diamond sheet is mounted on a flat, precision die-cast aluminum alloy backer.Extra thick 5.5mm backer dampens vibration and will not flex and roll over causing dulling the cutting surface of the ski or snowboard edge.Dimensions are 120 x 25mm.Unique diamond cluster pattern lasts longer than conventional diamond sheet.Black matte textured finish allows stone to be used wet and provides superior diamond adhesion.Use 100 extra-coarse grit in place of a smooth (fine) finishing file for deburring and removing case hardening from edges caused by hitting rocks or, also ideal for de-tuning the shovel and tail.Use 200 coarse grit as the second stone as you progress from coarse to fine grit while deburring and smoothing your edges.Use 400 medium grit (usually as a third stone) for all-round maintenance and polishing for sharp, smooth edges.Use 800 fine grit as the first stone of final polishing after edge bevel and sharpness are established.Use 1000 X-fine grit for establishing a mirror finish and ultimate edge smoothness through final polishing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842167943198/5050289-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842167943198/5050289-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Tools4Boards Hone Diamond Stone",
+  "product_code": "5050-289",
+  "source_url": "https://www.mec.ca/en/product/5050-289/Hone-Diamond-Stone",
+  "tech_specs": {
+    "Ideal for": [
+      "Snowboarding",
+      "Backcountry skiing",
+      "Downhill skiing",
+      "Off-track touring"
+    ],
+    "Made in": [
+      "Switzerland"
+    ]
+  }
+}

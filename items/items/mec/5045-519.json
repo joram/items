@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "North Shore Trail Map 2nd Edition"
+  ],
+  "description": "The most accurate and detailed GPS based, topographic trail map for the North Shore, revised and updated. Designed for walkers, hikers, and mountain bikers, it covers hikes, rides, peaks, lakes, viewpoints, waterfalls, picnic sites and old growth trees on the shore. Includes the entire Howe Sound Crest Trail from Horseshoe Bay to Porteau Cove. Waterproof and tear resistant, 1:20,000 scale.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815863365662/5045519-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815863365662/5045519-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "North Shore Trail Map 2nd Edition",
+  "product_code": "5045-519",
+  "source_url": "https://www.mec.ca/en/product/5045-519/North-Shore-Trail-Map-2nd-Edition",
+  "tech_specs": {
+    "Edition": [
+      "2nd"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Scale": [
+      "1:20,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

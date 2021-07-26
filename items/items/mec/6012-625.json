@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling tops",
+    "Cycling jerseys",
+    "Short sleeve jerseys",
+    "Astratta Jersey"
+  ],
+  "description": "You're serious about your rides, but that doesn't mean you don't like to have fun. Colourful graphics give playful style to this light and airy jersey.Strada mesh front and back panels have plenty of stretch for a perfect fit.Sleeves and side panels are dimpled open mesh for excellent venting.Full-length YKK\u00ae Vislon\u00ae zipper.3 rear pockets store what you need.Gripper hem with a drop tail provides good coverage.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160698560542/6012625-GRN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160698560542/6012625-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Castelli Astratta Jersey - Women's",
+  "product_code": "6012-625",
+  "source_url": "https://www.mec.ca/en/product/6012-625/Astratta-Jersey",
+  "tech_specs": {
+    "Fabric content": [
+      "93% polyester",
+      "7% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Sport road cycling"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Pockets": [
+      "3 back drop-in"
+    ]
+  }
+}

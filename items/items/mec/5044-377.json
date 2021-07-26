@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Banff Up-Close 3rd Edition"
+  ],
+  "description": "Everything you need to make the most of your time in Banff. This map and guide features a detailed topographic map of the Banff townsite, from the Sundance and Sulphur Mountain areas in the south, north to Mt. Brewster and east to Lake Minnewanka. Hiking, mountain biking and cross-country ski trails are included, as well as popular sights, museums and walks in the area.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035646500894/5044377-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035646500894/5044377-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Publishing Banff Up-Close 3rd Edition",
+  "product_code": "5044-377",
+  "source_url": "https://www.mec.ca/en/product/5044-377/Banff-Up-Close-3rd-Edition",
+  "tech_specs": {
+    "Edition": [
+      "3rd"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking",
+      "Cross-country skiing",
+      "Mountain biking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:35,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

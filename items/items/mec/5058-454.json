@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Boat repair",
+    "UV Protectant 4oz"
+  ],
+  "description": "Think of it as sunscreen and aloe for your stuff. Not only does it protect against UV damage, it replaces lost plasticizers, rejuvenates materials and restores colours. Spritz it on dry suit seals, kayaks, paddleboards, or other outdoor toys.Conditions and protects synthetic and natural materials, including plastic, vinyl, rubber, PVC, leather, fibreglass, Hypalon\u00ae and more.Makes cleaning easier.Nontoxic, biodegradable, non-flammable.Contains 118ml.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948422246430/5058454-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948422246430/5058454-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "ReviveX UV Protectant 4oz",
+  "product_code": "5058-454",
+  "source_url": "https://www.mec.ca/en/product/5058-454/UV-Protectant-4oz",
+  "tech_specs": {
+    "Ideal for": [
+      "Watersports"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

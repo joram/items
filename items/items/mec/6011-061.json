@@ -1,0 +1,85 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard goggles",
+    "Classic Crest Goggles"
+  ],
+  "description": "Simple isn\u2019t a bad thing. Part of Gordini\u2019s Classic line, the Crest Goggles have simple retro styling and don\u2019t get bogged down with outriggers, magnets and all the other tech that pops up on modern goggles. Large cylindrical Pro lenses provide crisp detail from edge to edge, and the ventilated frame reduces the chances of fogging.Fits medium-sized faces best.Cylindrical lens reduces distortion without reducing strength.Ventilated frame and dual-pane thermal lenses reduce the chance of fogging.Strap has silicone beads for improved grip.Includes a goggle storage bag that doubles a lens cloth.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157219024926/6011061-GSB20.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156254400542/6011061-GOR04-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9144128012318/6011061-GOR02-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9144128110622/6011061-GOR02-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9144128208926/6011061-GOR02-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140727906334/6011061-GSB04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157219057694/6011061-GOR04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151792775198/6011061-GOR02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157219024926/6011061-GSB20.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156254400542/6011061-GOR04-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9144128012318/6011061-GOR02-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9144128110622/6011061-GOR02-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9144128208926/6011061-GOR02-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140727906334/6011061-GSB04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157219057694/6011061-GOR04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151792775198/6011061-GOR02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157219024926/6011061-GSB20.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156254400542/6011061-GOR04-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9144128012318/6011061-GOR02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9144128110622/6011061-GOR02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9144128208926/6011061-GOR02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140727906334/6011061-GSB04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157219057694/6011061-GOR04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151792775198/6011061-GOR02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157219024926/6011061-GSB20.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156254400542/6011061-GOR04-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9144128012318/6011061-GOR02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9144128110622/6011061-GOR02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9144128208926/6011061-GOR02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140727906334/6011061-GSB04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157219057694/6011061-GOR04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151792775198/6011061-GOR02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gordini Classic Crest Goggles - Unisex",
+  "product_code": "6011-061",
+  "source_url": "https://www.mec.ca/en/product/6011-061/Classic-Crest-Goggles",
+  "tech_specs": {
+    "100% UV protection\n\nProvides 100% protection against UVA and UVB rays.": [
+      "Yes"
+    ],
+    "Anti-fog coating\n\nA coating on the inside of the lens that inhibits condensation.": [
+      "No"
+    ],
+    "Fits over most eyewear\n\nThese optics are designed to fit comfortably over most eyewear.": [
+      "No"
+    ],
+    "Helmet compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Snowboarding",
+      "Backcountry skiing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Scratch-resistant lens": [
+      "Yes"
+    ],
+    "Vents\n\nVents allow airflow through the goggles which helps to prevent fogging.": [
+      "Yes"
+    ],
+    "Visible Light Transmission\n\n0-10% \u2013 very heavy tint, too dark for most needs. \n10-30% \u2013 heavy tint for bright sunny days.\n20-60% \u2013 light tint, great for cloudy, overcast conditions and shady trails. \n60-80% \u2013 very light tint (often coloured), for improving contrast in low-light conditions, think dawn or dusk. \n80-100% \u2013 little to no tint, this what you want in the dark.": [
+      "49% (Gloss White/Gold)",
+      "54% (Gloss Black/Rose)",
+      "49% (Gloss Black/Gold)",
+      "90% (Gloss Black/Clear)"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Pocket knives and fixed blade knives",
+    "Folding pocket knives",
+    "Order Drop Point Serrated Knife"
+  ],
+  "description": "Gerber knows a good knife needs to be reliable. When they designed the Order they enlisted the help of US disaster relief teams. The result is a compact folder that tucks out of the way when you don\u2019t need it but is ready for anything when you do.420HC blade is easy to sharpen and holds an edge well.Blade is treated with a black ceramic coating which helps reduce wear and corrosion.Textured rubber over-moulded glass-reinforced nylon handle provides a secure grip.Time tested lock back design provides an extra measure of safety.Pocket clip is set up for right handed tip-down carry.Lanyard hold gives you carry options.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000515043358/5063504-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000651587614/5063504-BK000-ALT-CLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000652177438/5063504-BK000-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000515043358/5063504-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000651587614/5063504-BK000-ALT-CLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000652177438/5063504-BK000-ALT-ANGLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000515043358/5063504-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000651587614/5063504-BK000-ALT-CLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000652177438/5063504-BK000-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000515043358/5063504-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000651587614/5063504-BK000-ALT-CLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000652177438/5063504-BK000-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gerber Order Drop Point Serrated Knife",
+  "product_code": "5063-504",
+  "source_url": "https://www.mec.ca/en/product/5063-504/Order-Drop-Point-Serrated-Knife",
+  "tech_specs": {
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Partially serrated"
+    ],
+    "Blade length": [
+      "7.9cm"
+    ],
+    "Blade locking system": [
+      "Yes"
+    ],
+    "Blade material": [
+      "420 HC stainless steel"
+    ],
+    "Handle material": [
+      "Glass-reinforced nylon (GRN)",
+      "Rubber"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use"
+    ],
+    "Knife length (closed)": [
+      "11.4cm"
+    ],
+    "Knife length (open)": [
+      "19.3cm"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Sheath included": [
+      "No"
+    ],
+    "Weight": [
+      "74g"
+    ]
+  }
+}

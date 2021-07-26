@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Avalanche safety gear",
+    "Avalanche shovels and saws",
+    "Snow Saw"
+  ],
+  "description": "The ultimate tool for snowpack analysis, this snow saw also cuts ice and even wood. The glass-filled nylon handle can be attached to an extendable pole with a 14 or 16mm clamp to keep you far away from cornices and allow for easier snow column cutting for tests.Laser-etched centimetre markings on the blade as well as 1mm and 3mm crystal cards.Blade length is 35cm and overall length is 48cm.Nylon blade cover included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989908369438/5060693-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989908369438/5060693-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backcountry Access Snow Saw",
+  "product_code": "5060-693",
+  "source_url": "https://www.mec.ca/en/product/5060-693/Snow-Saw",
+  "tech_specs": {
+    "Blade length": [
+      "35cm"
+    ],
+    "Blade material": [
+      "Stainless steel"
+    ],
+    "Handle length": [
+      "13cm"
+    ],
+    "Handle material": [
+      "Nylon"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Mountain snowshoeing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Sheath included": [
+      "Yes"
+    ],
+    "Sheath material": [
+      "Nylon"
+    ],
+    "Weight": [
+      "240g"
+    ]
+  }
+}

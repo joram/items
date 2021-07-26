@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Batteries",
+    "Lithium batteries",
+    "2430 3V Lithium Battery"
+  ],
+  "description": "A quality Duracell battery to power your favourite small devicesAlso known as: DL2430, BR2430, KL2430, L2430, ECR2430, 5011LC, L20, KCR2430, E-CR2430, KECR2430, LF1/2W.Guaranteed for 10 years in storage with Duracell\u2019s Duralock Power Preserve\u2122 Technology.Common application: calculators, clocks, watches, lights, bike computers, car alarm remotes, cameras and more.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078507339806/6009836-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078507339806/6009836-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Duracell 2430 3V Lithium Battery",
+  "product_code": "6009-836",
+  "source_url": "https://www.mec.ca/en/product/6009-836/2430-3V-Lithium-Battery",
+  "tech_specs": {
+    "Capacity": [
+      "285mAh"
+    ],
+    "Chemistry": [
+      "Lithium"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Size": [
+      "CR2430"
+    ]
+  }
+}

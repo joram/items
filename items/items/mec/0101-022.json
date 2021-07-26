@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Emergency and survival gear",
+    "Whistles",
+    "Classic Whistle"
+  ],
+  "description": "This extremely loud whistle is slightly larger than flat-shaped whistles, but substantially louder. For best performance occasionally wash your whistle in a water / vinegar solution.Pealess with no moving parts to freeze or jam.Waterproof with non-corrosive lanyard ring.Produces 115 dB.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810048225310/0101022-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810048028702/0101022-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810048421918/0101022-ORG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810048225310/0101022-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810048028702/0101022-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810048421918/0101022-ORG00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810048225310/0101022-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810048028702/0101022-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810048421918/0101022-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810048225310/0101022-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810048028702/0101022-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810048421918/0101022-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fox 40 Classic Whistle",
+  "product_code": "0101-022",
+  "source_url": "https://www.mec.ca/en/product/0101-022/Classic-Whistle",
+  "tech_specs": {
+    "Decibels": [
+      "115dB"
+    ],
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Weight": [
+      "20g"
+    ]
+  }
+}

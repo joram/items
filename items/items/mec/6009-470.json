@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Hoodies and sweaters",
+    "Sweaters",
+    "Softly Half Zip Jacket"
+  ],
+  "description": "Ski track at 5pm, meeting friends at 8pm? This sweater uses a wool blend and an insulated front panel to add welcome warmth. A fantastic mid-layer when you're active, and it looks presentable once you move indoors.Merino wool, acrylic blend is warm and durable.Quilted front insulation protects your core.High collar has a YKK \u00ae zip for venting.Thumb loops provide comfort and added warmth.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131855151134/6009470-SNW04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131856986142/6009470-SNW04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131855151134/6009470-SNW04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131856986142/6009470-SNW04-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131855151134/6009470-SNW04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131856986142/6009470-SNW04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131855151134/6009470-SNW04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131856986142/6009470-SNW04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "B Daehlie Softly Half Zip Jacket - Women's",
+  "product_code": "6009-470",
+  "source_url": "https://www.mec.ca/en/product/6009-470/Softly-Half-Zip-Jacket",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Thumb loops"
+    ],
+    "Fabric content": [
+      "50% merino wool",
+      "50% acrylic"
+    ],
+    "Ideal for": [
+      "Active winter wear",
+      "Cross-country skiing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Secondary fabric": [
+      "100% polyester"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

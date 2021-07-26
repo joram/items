@@ -1,0 +1,100 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training food and drinks",
+    "Energy and protein bars",
+    "Peanut Butter Chocolate Chip Bar (Meal)"
+  ],
+  "description": "The flavour combination from your favourite cookies, in a bar that delivers real nourishment.Ingredients: brown rice syrup, oats, chocolate chips (dried cane syrup, chocolate liquor, cocoa butter), peanut butter (peanuts), roasted peanut pieces, sunflower seeds, dates, flax seeds, sesame seeds, almonds, dried cane syrup, crisp brown rice, expeller pressed canola oil, vegetable glycerin, dried pineapple, dried cane syrup, dried papaya, roasted pea extract, citric acid, salt, oat flour, pumpkin seeds, molasses, Arabic gum, natural tocopherols and ascorbic acid (added to present flavour), rosemary extract.Allergens, contains: almonds, peanuts, oats, sesame.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812350144542/5028964-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812350177310/5028964-NOC02-ALT-INGREDIENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812350144542/5028964-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812350177310/5028964-NOC02-ALT-INGREDIENTS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812350144542/5028964-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812350177310/5028964-NOC02-ALT-INGREDIENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812350144542/5028964-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812350177310/5028964-NOC02-ALT-INGREDIENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Probar Peanut Butter Chocolate Chip Bar (Meal)",
+  "product_code": "5028-964",
+  "source_url": "https://www.mec.ca/en/product/5028-964/Peanut-Butter-Chocolate-Chip-Bar-%28Meal%29",
+  "tech_specs": {
+    "Best consumed": [
+      "Before exercise",
+      "Recovery"
+    ],
+    "Calories per serving": [
+      "390Cal"
+    ],
+    "Carbohydrates": [
+      "43g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "6g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Cycling",
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Potassium": [
+      "310mg"
+    ],
+    "Protein": [
+      "11g"
+    ],
+    "Saturated fat": [
+      "4.5g"
+    ],
+    "Serving size": [
+      "1 bar"
+    ],
+    "Servings": [
+      "85g"
+    ],
+    "Sodium": [
+      "150mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "21g"
+    ],
+    "Total fat": [
+      "22g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "85g"
+    ]
+  }
+}

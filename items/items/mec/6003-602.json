@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Bike service parts",
+    "Provincial Trail Derailleur Hanger"
+  ],
+  "description": "If your bike took a tumble, this replacement derailleur hanger may save your ride.Fits the MEC Provincial Trail bicycle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020055912478/6003602-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020055912478/6003602-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Provincial Trail Derailleur Hanger",
+  "product_code": "6003-602",
+  "source_url": "https://www.mec.ca/en/product/6003-602/Provincial-Trail-Derailleur-Hanger",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

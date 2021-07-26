@@ -1,0 +1,67 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Sunglasses",
+    "Casual sunglasses",
+    "Skipper Sunglasses"
+  ],
+  "description": "Ahoy! The Skipper Sunglasses have quality polarized lenses to dim the glare from water and reflective surfaces. Their deep wrap provides side coverage and UV blocking from all angles.Frame fits medium sized heads.Scratch-resistant polycarbonate lenses.8-base curvature hugs the contour of your head, protecting you from all angles.Rubber temple tips and nose pads offer a comfortable fit, that doesn\u2019t shift around.Polarized lenses cut glare and keep vision clear in challenging conditions, making them great for use around water or any reflective surface (pavement, snow, clouds, etc.).Grey lens with blue mirror has 15% visible light transmission.Brown lens has 12% visible light transmission.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813608435742/5047668-GRN87.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813608173598/5047668-BK908.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813608435742/5047668-GRN87.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813608173598/5047668-BK908.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813608435742/5047668-GRN87.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813608173598/5047668-BK908.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813608435742/5047668-GRN87.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813608173598/5047668-BK908.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Skipper Sunglasses - Unisex",
+  "product_code": "5047-668",
+  "source_url": "https://www.mec.ca/en/product/5047-668/Skipper-Sunglasses",
+  "tech_specs": {
+    "100% UVA protected": [
+      "Yes"
+    ],
+    "100% UVB protected": [
+      "Yes"
+    ],
+    "Frame material\n\nTR90 thermoplastic offers good resistance to chemicals and torsion. Propionate is a light, nylon-based, hypoallergenic plastic that's very strong and offers more transparency and gloss than other plastics.": [
+      "TR90 thermoplastic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Interchangeable lenses\n\nInterchangeable lenses let you change lenses to suit differing light conditions or activities.": [
+      "No"
+    ],
+    "Lens height\n\nMeasures the height of the lens within the frame, excluding the lens curve.": [
+      "38mm"
+    ],
+    "Lens material": [
+      "Polycarbonate"
+    ],
+    "Lens performance\n\nFixed tints provide a constant degree of darkness. Photochromic lenses adjust to changing light levels. Polarized lenses absorb horizontal reflected glare to improve clarity around surfaces like snow or water.": [
+      "Polarized"
+    ],
+    "Lens width\n\nRefers to the horizontal width in millimeters of one of the frame's lenses.": [
+      "62mm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Nose bridge width\n\nThe gap between the lenses, measured at the smallest point.": [
+      "16mm"
+    ],
+    "Temple length\n\nThe length of an arm from tip to tip.": [
+      "132mm"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Shoes",
+    "Sneakers and casual shoes",
+    "MX Shoes"
+  ],
+  "description": "Motocross inspired meets urban style. Durable nubuck leather with stylish overlays are grounded by shock-absorbing tech and a durable rubber sole.FluidForm\u2122 uses fluid materials over an anatomic last for stability.Shock Thru\u2122 lightweight midsole provides great support and shock absorption.Supple rubber sole with a tread pattern that provides excellent grip.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549104158/6013098-TTM00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557197854/6013098-TTM00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557394462/6013098-TTM00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557427230/6013098-TTM00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557459998/6013098-TTM00-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557623838/6013098-TTM00-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557656606/6013098-TTM00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557787678/6013098-TTM00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549104158/6013098-TTM00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557197854/6013098-TTM00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557394462/6013098-TTM00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557427230/6013098-TTM00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557459998/6013098-TTM00-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557623838/6013098-TTM00-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557656606/6013098-TTM00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557787678/6013098-TTM00-ALT-SOLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549104158/6013098-TTM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557197854/6013098-TTM00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557394462/6013098-TTM00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557427230/6013098-TTM00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557459998/6013098-TTM00-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557623838/6013098-TTM00-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557656606/6013098-TTM00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557787678/6013098-TTM00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549104158/6013098-TTM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557197854/6013098-TTM00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557394462/6013098-TTM00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557427230/6013098-TTM00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557459998/6013098-TTM00-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557623838/6013098-TTM00-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557656606/6013098-TTM00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557787678/6013098-TTM00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ecco MX Shoes - Men's",
+  "product_code": "6013-098",
+  "source_url": "https://www.mec.ca/en/product/6013-098/MX-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Nubuck leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

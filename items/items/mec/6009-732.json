@@ -1,0 +1,80 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike wheels",
+    "Wheelsets",
+    "Aksium 700c Wheelset"
+  ],
+  "description": "A nice upgrade for your bike that won't wipe out your bank account. The Aksium Wheels have the same tech as spendier models, and while not quite as light, the bladed spokes and aluminum hubs do a good job at keeping the grams off. A great option for year-round riding, or for using as your winter wheelset.S6000 aluminum rims with UB control braking surface.Internal rim width is 17mm.Straight-pull bladed steel spokes.Spoke count is 20 (front and rear).Aluminum hubs with steel axles.FTS-L steel freehub body.BR101 quick releases.Front wheel weighs 845g, rear 995g. Weighed without tires.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089838809118/6009732-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090662662174/6009732-BK000-ALT-PARTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089838809118/6009732-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090662662174/6009732-BK000-ALT-PARTS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089838809118/6009732-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090662662174/6009732-BK000-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089838809118/6009732-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090662662174/6009732-BK000-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mavic Aksium 700c Wheelset",
+  "product_code": "6009-732",
+  "source_url": "https://www.mec.ca/en/product/6009-732/Aksium-700c-Wheelset",
+  "tech_specs": {
+    "Brake compatibility": [
+      "Rim brakes"
+    ],
+    "Front hub width\n\nThe hub width must fit the inside distance between the two fork ends (dropouts).": [
+      "100mm"
+    ],
+    "Hub (front)": [
+      "Mavic Aksium"
+    ],
+    "Hub (rear)\n\nThe hub affects a bike\u2019s rolling efficiency. Internally geared hubs require significantly less maintenance.": [
+      "Mavic Aksium"
+    ],
+    "Ideal for": [
+      "Sport road cycling"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Material": [
+      "Aluminum"
+    ],
+    "Rear hub width": [
+      "130mm"
+    ],
+    "Recommended tire width": [
+      "25-32mm"
+    ],
+    "Retention device": [
+      "Quick-release"
+    ],
+    "Rims": [
+      "Mavic Aksium"
+    ],
+    "Size": [
+      "700C"
+    ],
+    "Spoke count": [
+      "20"
+    ],
+    "Spokes": [
+      "Mavic Aksium"
+    ],
+    "Tire type": [
+      "Clincher"
+    ],
+    "Valve compatibility\n\nThe type of tube valve the rim will accommodate. Most Schrader wheels can be retrofitted to fit Presta valves.": [
+      "Presta"
+    ]
+  }
+}

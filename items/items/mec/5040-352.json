@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Casual socks",
+    "Margarita Crew Socks"
+  ],
+  "description": "Socks with a zesty stripe.Made of soft merino wool, nylon and elastane for some stretch.With ultra-lightweight fabric and no cushioning to suit close-fitting shoes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954432127006/5040352-MMG05.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954432127006/5040352-MMG05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Margarita Crew Socks - Women's",
+  "product_code": "5040-352",
+  "source_url": "https://www.mec.ca/en/product/5040-352/Margarita-Crew-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Quarter"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "67% merino wool",
+      "31% nylon",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

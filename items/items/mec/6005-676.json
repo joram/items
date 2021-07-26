@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Jackets",
+    "Rain jackets",
+    "Fraser Jacket"
+  ],
+  "description": "This waterproof jacket has a supple knit inner layer that makes it much quieter than other hard shells. When the weather gets particularly nasty, the adjustable hood offers an extra layer of protection.Supple 3-layer GORE-TEX\u2122 waterproof breathable material.GORE-TEX C-Knit lining slides easily over other layers and reduces weight while adding breathability.Adjustable StormHood\u2122 has a short brim.Articulated pattering prevents binding or bunching.Hand pockets and 2 chest pockets.Internal cuff gaskets and adjustable hem help seal out the elements.Regular fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079661592606/6005676-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079661592606/6005676-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Fraser Jacket - Men's",
+  "product_code": "6005-676",
+  "source_url": "https://www.mec.ca/en/product/6005-676/Fraser-Jacket",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Wind flap behind zipper"
+    ],
+    "Construction": [
+      "3-layer"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Face fabric": [
+      "70-denier nylon"
+    ],
+    "Hood": [
+      "Adjustable"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Length": [
+      "Hip-length"
+    ],
+    "Lining/backer": [
+      "Nylon"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 external chest",
+      "2 handwarmer zippered"
+    ],
+    "Technology": [
+      "GORE-TEX",
+      "GORE-TEX C-Knit"
+    ],
+    "Type": [
+      "Waterproof-breathable"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Waterproof with fully taped seams"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

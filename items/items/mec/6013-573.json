@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike cassettes and freewheels",
+    "Deore CS-M771 XT 10 Speed Cassette"
+  ],
+  "description": "Lightweight and durable, this 10-speed Shimano XT cassette will give you the gearing to tackle the steeps, up and down.HyperGlide\u2122 cogs are ramped and machined for smooth shifting.2 aluminum spiders keep the weight low.Compatible with HG-X 10-speed chains.Compatible with 2x10 and 1x10 drivetrains.11-13-15-17-19-21-23-26-30-34T (bJ) or 11-13-15-17-19-21-24-28-32-36T (bk).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166610694174/6013573-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166610694174/6013573-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano Deore CS-M771 XT 10 Speed Cassette",
+  "product_code": "6013-573",
+  "source_url": "https://www.mec.ca/en/product/6013-573/Deore-CS-M771-XT-10-Speed-Cassette",
+  "tech_specs": {
+    "Compatibility": [
+      "10-speed"
+    ],
+    "Gear ratio": [
+      "11-34T (11-34 Teeth)",
+      "11-36T (11-36 Teeth)"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Nickel plated\n\nNickel plating can increase durability and product life.": [
+      "Yes"
+    ],
+    "Type": [
+      "Cassette"
+    ],
+    "Weight": [
+      "309g (11-34 Teeth)",
+      "330g (11-36 Teeth)"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill ski poles and baskets",
+    "Booster Carbon Poles"
+  ],
+  "description": "Fixed-length carbon poles are lightweight for super-quick action when you're skiing hard.Made of light and strong 13mm diameter carbon fiber.2K Pistol grips are comfortable and grippy.Comfort strap is easy to adjust.Low profile baskets and steel tips.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138055184414/6011701-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138055184414/6011701-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Komperdell Booster Carbon Poles - Unisex",
+  "product_code": "6011-701",
+  "source_url": "https://www.mec.ca/en/product/6011-701/Booster-Carbon-Poles",
+  "tech_specs": {
+    "Grip material": [
+      "Dual component synthetic"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Austria"
+    ],
+    "Pole material": [
+      "Carbon fibre"
+    ],
+    "Sections": [
+      "1"
+    ],
+    "Sold in pairs": [
+      "Yes"
+    ]
+  }
+}

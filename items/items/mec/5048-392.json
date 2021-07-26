@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Marine navigation",
+    "Compasses",
+    "MC-2 NH Mirror Compass"
+  ],
+  "description": "A reliable tool to keep you on your way, this compass has features for the Northern hemisphere including adjustable declination and clinometer.High-grade steel needle with jewel bearing.Adjustable declination.Liquid filled offers smooth and stable operation.Mirror for sighting bearings and signaling.Sighting hole and notch for accurate bearings.Clinometer.Luminescent markings for working in low light.Metric UTM scales and inch ruler.Baseplate with magnifying lens.Detachable snap-lock lanyard with wristlock. Easy to detach for working with the map.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810600857630/5048392-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810600857630/5048392-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810600857630/5048392-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810600857630/5048392-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Suunto MC-2 NH Mirror Compass",
+  "product_code": "5048-392",
+  "source_url": "https://www.mec.ca/en/product/5048-392/MC-2-NH-Mirror-Compass",
+  "tech_specs": {
+    "Adjustable declination\n\nSets the compass to indicate true north instead of magnetic north.": [
+      "Yes"
+    ],
+    "Clinometer\n\nMeasures angles of slope, elevation or inclination.": [
+      "Yes"
+    ],
+    "Dimensions": [
+      "10.1\u00a0x\u00a06.5cm"
+    ],
+    "Hemisphere\n\nThe earth's magnetic field varies considerably so most compasses are designed to work in the specific hemisphere zones for which they are being used. A global compass can be used anywhere.": [
+      "Northern Hemisphere"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Luminous markings\n\nLuminous markings allow you to read your compass in dim light conditions.": [
+      "Yes"
+    ],
+    "Made in": [
+      "Finland"
+    ],
+    "Magnifying lens": [
+      "Yes"
+    ],
+    "Sighting mirror": [
+      "Yes"
+    ],
+    "Weight": [
+      "74g"
+    ]
+  }
+}

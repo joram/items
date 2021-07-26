@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Swimsuits",
+    "Two-piece swimsuits",
+    "Swim bottoms",
+    "Laguna Bikini Bottoms"
+  ],
+  "description": "Classic bikini bottoms with a twist... literally. These moderate coverage bottoms have a twisted side panel detail to add style to your next trip to the beach.Made of four way stretch nylon with lots of spandex.Fabric provides UPF 50+ sun protection to shield you from harsh UV rays.Moderate rear coverage with a medium front rise.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519071262/5062865-CRR02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519202334/5062865-CRR02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519333406/5062865-CRR02-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518743582/5062865-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519038494/5062865-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518284830/5062865-AQR01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518350366/5062865-AQR01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518546974/5062865-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518055454/5062865-AQR01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519071262/5062865-CRR02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519202334/5062865-CRR02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519333406/5062865-CRR02-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518743582/5062865-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519038494/5062865-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518284830/5062865-AQR01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518350366/5062865-AQR01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518546974/5062865-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518055454/5062865-AQR01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519071262/5062865-CRR02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519202334/5062865-CRR02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519333406/5062865-CRR02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518743582/5062865-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519038494/5062865-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518284830/5062865-AQR01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518350366/5062865-AQR01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518546974/5062865-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518055454/5062865-AQR01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519071262/5062865-CRR02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519202334/5062865-CRR02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519333406/5062865-CRR02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518743582/5062865-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161519038494/5062865-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518284830/5062865-AQR01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518350366/5062865-AQR01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518546974/5062865-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161518055454/5062865-AQR01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Carve Designs Laguna Bikini Bottoms - Women's",
+  "product_code": "5062-865",
+  "source_url": "https://www.mec.ca/en/product/5062-865/Laguna-Bikini-Bottoms",
+  "tech_specs": {
+    "Fabric content": [
+      "82% nylon",
+      "18% spandex"
+    ],
+    "Ideal for": [
+      "Beach",
+      "Watersports"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

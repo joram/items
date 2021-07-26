@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid supplies",
+    "X-Trac Dual Support Knee Support"
+  ],
+  "description": "Keep your patella on the right track by giving it the support it deserves.Provides support to help with the recovery of patellar and quadriceps tendonitis.Helps with patellar tracking disorders.X-shape applies compression and support, without restricting airflow like traditional braces.Circumference measured 2cm above top of patella is 30.5-36.8cm for Small, 36.8-42cm for Medium and 42-50cm for Large.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968178270238/5061420-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968183742494/5061420-BK000-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968178270238/5061420-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968183742494/5061420-BK000-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968178270238/5061420-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968183742494/5061420-BK000-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968178270238/5061420-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968183742494/5061420-BK000-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pro-Tec Athletics X-Trac Dual Support Knee Support",
+  "product_code": "5061-420",
+  "source_url": "https://www.mec.ca/en/product/5061-420/X-Trac-Dual-Support-Knee-Support",
+  "tech_specs": {
+    "Ideal for": [
+      "Fitness and training",
+      "Running"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country classic",
+    "Classic ski boots",
+    "X8 Classic\u00a0Boots"
+  ],
+  "description": "Performance boots for skiers who want to train and race in the same boot. The precise, enveloping fit offers good support, twist resistance, and control through each phase of your stride. The free-flex design promotes natural foot movement, so you can refine your technique and limit energy loss.World-cup speed lace pull system.PVC lace covers with asymmetric zip, frees your instep for comfort.Polyester thermo-adjustable inner liner.3D plastic reinforcements in the heel for pressure control and wear-resistance.Sport sole (NNN compatible) is stable and provides a precise kick with good boot-to-ski contact.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055715065886/6003594-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699697694/6003594-NOC02-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699795998/6003594-NOC02-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699664926/6003594-NOC02-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699861534/6003594-NOC02-ALT-ZIPPER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055715065886/6003594-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699697694/6003594-NOC02-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699795998/6003594-NOC02-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699664926/6003594-NOC02-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699861534/6003594-NOC02-ALT-ZIPPER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055715065886/6003594-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699697694/6003594-NOC02-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699795998/6003594-NOC02-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699664926/6003594-NOC02-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699861534/6003594-NOC02-ALT-ZIPPER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055715065886/6003594-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699697694/6003594-NOC02-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699795998/6003594-NOC02-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699664926/6003594-NOC02-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055699861534/6003594-NOC02-ALT-ZIPPER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rossignol X8 Classic\u00a0Boots - Unisex",
+  "product_code": "6003-594",
+  "source_url": "https://www.mec.ca/en/product/6003-594/X8-Classic%C2%A0Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "NNN"
+    ],
+    "Hinged/high cuff": [
+      "No"
+    ],
+    "Ideal for": [
+      "Recreational classic skiing",
+      "Fitness classic skiing"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lace cover": [
+      "Yes"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ],
+    "Weight": [
+      "980g (42)"
+    ]
+  }
+}

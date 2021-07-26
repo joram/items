@@ -1,0 +1,182 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid kits",
+    "Hiker First Aid Kit"
+  ],
+  "description": "Weighing less than a few energy bars, this kit is lightweight peace of mind. Designed for 1-2 people on 1-2 day trips, this kit takes care of trauma essentials, with 4 different compartments: wound care/burn/blister, medication, cuts and scrapes and stop bleeding fast.Includes a bilingual wilderness first aid guide.Designed for 2 people on 2-day adventures.Zippered case has quick-reference guide printed on the back, so you know where to find what you need when you need it.Internal pockets are labeled (wound care/burn/blister, medication, cuts and scrapes and stop bleeding fast) making off-grid care easier and more instinctual.Precut moleskin patches help you get back on the trail faster and stop blisters before they start.Reflective mountain logo makes the first aid bag easier to find in low-light.Please note that MEC sells the International version of this kit. Contents may vary slightly from the US versions described on the vendor's website.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032438972446/6004537-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032444379166/6004537-NOC02-ALT-REFERENCE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035822465054/6004537-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032445165598/6004537-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032444837918/6004537-NOC02-ALT-CONTENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035830231070/6004537-NOC02-ALT-FRENCH-FR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035830263838/6004537-NOC02-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035830525982/6004537-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032438972446/6004537-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032444379166/6004537-NOC02-ALT-REFERENCE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035822465054/6004537-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032445165598/6004537-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032444837918/6004537-NOC02-ALT-CONTENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035830231070/6004537-NOC02-ALT-FRENCH-FR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035830263838/6004537-NOC02-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035830525982/6004537-NOC02-ALT-LIFESTYLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032438972446/6004537-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032444379166/6004537-NOC02-ALT-REFERENCE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035822465054/6004537-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032445165598/6004537-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032444837918/6004537-NOC02-ALT-CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035830231070/6004537-NOC02-ALT-FRENCH-FR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035830263838/6004537-NOC02-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035830525982/6004537-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032438972446/6004537-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032444379166/6004537-NOC02-ALT-REFERENCE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035822465054/6004537-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032445165598/6004537-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032444837918/6004537-NOC02-ALT-CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035830231070/6004537-NOC02-ALT-FRENCH-FR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035830263838/6004537-NOC02-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035830525982/6004537-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Medical Kits Hiker First Aid Kit",
+  "product_code": "6004-537",
+  "source_url": "https://www.mec.ca/en/product/6004-537/Hiker-First-Aid-Kit",
+  "tech_specs": {
+    "Adhesive fabric bandages": [
+      "5"
+    ],
+    "Adhesive fabric knuckle bandages": [
+      "5"
+    ],
+    "Afterbite wipes": [
+      "3"
+    ],
+    "Antiseptic/antibacterial wipes": [
+      "3"
+    ],
+    "Blister/burn dressing": [
+      "No"
+    ],
+    "CPR face shield": [
+      "No"
+    ],
+    "Cotton tip applicator": [
+      "2"
+    ],
+    "Dimensions": [
+      "12.7\u00a0x\u00a015.2\u00a0x\u00a08.9cm"
+    ],
+    "Disposable razor": [
+      "No"
+    ],
+    "Duct tape": [
+      "No"
+    ],
+    "Elastic bandage with Velcro": [
+      "No"
+    ],
+    "First aid guide": [
+      "Yes"
+    ],
+    "Gauze bandage": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Emergency preparedness",
+      "Backpacking"
+    ],
+    "Irrigation syringe": [
+      "No"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Medical gloves": [
+      "2"
+    ],
+    "Medical gloves material": [
+      "Nitrile"
+    ],
+    "Medical tape": [
+      "Yes"
+    ],
+    "Moleskin": [
+      "Yes"
+    ],
+    "Needle": [
+      "No"
+    ],
+    "Non-adherent sterile dressing": [
+      "8"
+    ],
+    "Patient assessment forms": [
+      "No"
+    ],
+    "Pencil": [
+      "No"
+    ],
+    "Plastic vials": [
+      "0"
+    ],
+    "Recommended use": [
+      "Overnight adventure"
+    ],
+    "Safety pins": [
+      "1"
+    ],
+    "Sam splint": [
+      "No"
+    ],
+    "Scissors/EMT shears": [
+      "Yes"
+    ],
+    "Splinter/tick foreceps": [
+      "Yes"
+    ],
+    "Sterile disposable scalpel": [
+      "No"
+    ],
+    "Sterile dressing gauze large": [
+      "4"
+    ],
+    "Sterile dressing gauze medium": [
+      "2"
+    ],
+    "Sterile scrub brush": [
+      "No"
+    ],
+    "Topical adhesive": [
+      "No"
+    ],
+    "Trauma pad large": [
+      "Yes"
+    ],
+    "Trauma pad medium": [
+      "No"
+    ],
+    "Triangular bandage": [
+      "No"
+    ],
+    "Tubular stockinette": [
+      "No"
+    ],
+    "Watertight pouch\n\nThe pouch is waterproof and has a watertight closure to keep the contents dry in wet conditions.": [
+      "No"
+    ],
+    "Weight": [
+      "200g"
+    ],
+    "Wound closure strips": [
+      "3"
+    ]
+  }
+}

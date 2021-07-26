@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Bike socks",
+    "Woolie Boolie 6 Inch Podium Socks"
+  ],
+  "description": "These breathable, high-quality, mid-weight wool cycling socks provide warmth and comfort when riding in cool conditions.Long wool cuff provides extra protection under cycling tights.Machine washable in cold water without bleach. Can be tumble dried at low heat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054999281694/6007417-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054999281694/6007417-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DeFeet Woolie Boolie 6 Inch Podium Socks - Unisex",
+  "product_code": "6007-417",
+  "source_url": "https://www.mec.ca/en/product/6007-417/Woolie-Boolie-6-Inch-Podium-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "70% merino wool",
+      "27% nylon",
+      "3% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

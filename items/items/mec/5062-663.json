@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Trousers",
+    "Halle Straight"
+  ],
+  "description": "The Halle Pants are loaded with technical features that make them excellent for travel and active days.Prana Stretch Zion fabric provides UPF 50 protection.DWR finish sheds light rain and looks cleaner for longer.Darts at knees.Pocket for necessities and a hidden stash pocket for valuables.Mid-rise fit sits comfortably at the hips.Relaxed fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037382909982/5062663-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037749682206/5062663-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037382909982/5062663-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037749682206/5062663-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037382909982/5062663-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037749682206/5062663-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037382909982/5062663-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037749682206/5062663-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Halle Straight - Women's",
+  "product_code": "5062-663",
+  "source_url": "https://www.mec.ca/en/product/5062-663/Halle-Straight",
+  "tech_specs": {
+    "Fabric content": [
+      "97% nylon",
+      "3% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Travel"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "1 side zippered"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

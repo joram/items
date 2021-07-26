@@ -1,0 +1,70 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Sunglasses",
+    "Casual sunglasses",
+    "Cover Polarized Sunglasses"
+  ],
+  "description": "With an aggressive wrap and deep polarized lenses, these shades have you covered. Durable thermoplastic frames stand up to the rigours of everyday life.Polarized lenses cut glare on water, snow or pavement.Polycarbonate lenses are light and shatter-resistant.8-base lens curve provides a close fit and great coverage.Tough Grilamid thermoplastic frames.Rubber nose pads and temple tips.Microfibre cleaning/storage bag included.Large fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8952665636894/5060174-BK439.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8952665964574/5060174-BBP02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8952665636894/5060174-BK439.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8952665964574/5060174-BBP02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8952665636894/5060174-BK439.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8952665964574/5060174-BBP02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8952665636894/5060174-BK439.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8952665964574/5060174-BBP02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Suncloud Cover Polarized Sunglasses - Unisex",
+  "product_code": "5060-174",
+  "source_url": "https://www.mec.ca/en/product/5060-174/Cover-Polarized-Sunglasses",
+  "tech_specs": {
+    "100% UVA protected": [
+      "Yes"
+    ],
+    "100% UVB protected": [
+      "Yes"
+    ],
+    "Frame material\n\nTR90 thermoplastic offers good resistance to chemicals and torsion. Propionate is a light, nylon-based, hypoallergenic plastic that's very strong and offers more transparency and gloss than other plastics.": [
+      "Grilamid"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Interchangeable lenses\n\nInterchangeable lenses let you change lenses to suit differing light conditions or activities.": [
+      "No"
+    ],
+    "Lens height\n\nMeasures the height of the lens within the frame, excluding the lens curve.": [
+      "41.5mm"
+    ],
+    "Lens material": [
+      "Polycarbonate"
+    ],
+    "Lens performance\n\nFixed tints provide a constant degree of darkness. Photochromic lenses adjust to changing light levels. Polarized lenses absorb horizontal reflected glare to improve clarity around surfaces like snow or water.": [
+      "Polarized"
+    ],
+    "Lens width\n\nRefers to the horizontal width in millimeters of one of the frame's lenses.": [
+      "63mm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Nose bridge width\n\nThe gap between the lenses, measured at the smallest point.": [
+      "17mm"
+    ],
+    "Temple length\n\nThe length of an arm from tip to tip.": [
+      "124mm"
+    ],
+    "Visible Light Transmission\n\n0-10% \u2013 very heavy tint, too dark for most needs. \n10-30% \u2013 heavy tint for bright sunny days.\n20-60% \u2013 light tint, great for cloudy, overcast conditions and shady trails. \n60-80% \u2013 very light tint (often coloured), for improving contrast in low-light conditions, think dawn or dusk. \n80-100% \u2013 little to no tint, this what you want in the dark.": [
+      "15%"
+    ]
+  }
+}

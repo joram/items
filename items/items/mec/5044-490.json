@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski straps",
+    "Alpine Ski Strap"
+  ],
+  "description": "Keeps your AT or downhill skis together.Regular is 48cm and fits skis 80-130mm. X-Large is 59cm and fits skis 125-185mm.3mm of EVA foam protects your waxed bases.Hook and loop wrap closures for a secure fit.Sold singly.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8847035531294/5044490-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8847035531294/5044490-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Alpine Ski Strap",
+  "product_code": "5044-490",
+  "source_url": "https://www.mec.ca/en/product/5044-490/Alpine-Ski-Strap",
+  "tech_specs": {
+    "Adjustable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Off-track touring",
+      "Downhill skiing"
+    ],
+    "Length": [
+      "48cm, 59cm"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Sold in pairs": [
+      "No"
+    ],
+    "Weight": [
+      "10g (Regular)"
+    ]
+  }
+}

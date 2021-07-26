@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Mountaineering axes",
+    "Neve Ice Axe"
+  ],
+  "description": "The classic, even elegant, design of this ice axe suits trekking and mountaineering and travel over glaciated terrain. A generous adze is curved and chops steps like a machine.Forged chromoly steel pick and adzeCurved adze has comfortable hand grip.Carabiner holes at head and spike.Spike is symmetrical for smooth, reliable plunging.Includes a sliding leash.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8852309803038/5038169-WHT91.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8852309803038/5038169-WHT91.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Neve Ice Axe",
+  "product_code": "5038-169",
+  "source_url": "https://www.mec.ca/en/product/5038-169/Neve-Ice-Axe",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Adze"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering"
+    ],
+    "Leash included": [
+      "Yes"
+    ],
+    "Length": [
+      "50 cm, 57 cm, 65 cm, 73cm"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Removable pick": [
+      "No"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "B-rated"
+    ],
+    "Weight": [
+      "425g (65 cm)"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "OK Screw-Lock Carabiner"
+  ],
+  "description": "The oval shape offers a snag-free profile that works with pulleys and adds security and strength to hauling systems.Snag-free keylock nose profile.Red warning indicator when it's unlocked .",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856428544030/5052339-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859988033566/5052339-NOC02-ALT-UNLOCKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859988590622/5052339-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856428544030/5052339-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859988033566/5052339-NOC02-ALT-UNLOCKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859988590622/5052339-NOC02-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856428544030/5052339-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859988033566/5052339-NOC02-ALT-UNLOCKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859988590622/5052339-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856428544030/5052339-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859988033566/5052339-NOC02-ALT-UNLOCKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859988590622/5052339-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl OK Screw-Lock Carabiner",
+  "product_code": "5052-339",
+  "source_url": "https://www.mec.ca/en/product/5052-339/OK-Screw-Lock-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.2cm"
+    ],
+    "Gate type": [
+      "Straight"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Screwgate"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Strength closed": [
+      "25kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "7kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "70g"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Banff Egypt Lake"
+  ],
+  "description": "A 2-sided, full-colour trail map that covers popular hiking and backpacking trails in the Egypt Lake area of Banff National Park. Coverage stretches from east of Taylor Lake to Lake Minnewanka. The back of the map includes recommended day hikes and multi-day backpacking trips, as well themed hikes for birdwatching, wildflowers and more.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133122355230/6012251-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133122355230/6012251-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Publishing Banff Egypt Lake",
+  "product_code": "6012-251",
+  "source_url": "https://www.mec.ca/en/product/6012-251/Banff-Egypt-Lake",
+  "tech_specs": {
+    "Edition": [
+      "1st"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2015"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

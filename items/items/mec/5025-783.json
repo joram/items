@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Brakes, pads and rotors",
+    "Brake pads",
+    "BR-M515 M05 Resin Disc Brake Pads"
+  ],
+  "description": "Replacement brake pads for your MEC Lynx bike.Resin disc pads.Fit Shimano\u00ae M445 hydraulic disc brakes and TRP Spyre brakes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806826344478/5025783-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806826344478/5025783-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano BR-M515 M05 Resin Disc Brake Pads",
+  "product_code": "5025-783",
+  "source_url": "https://www.mec.ca/en/product/5025-783/BR-M515-M05-Resin-Disc-Brake-Pads",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycle touring",
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Type": [
+      "Disc"
+    ],
+    "Weight": [
+      "39g"
+    ]
+  }
+}

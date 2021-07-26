@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Batteries",
+    "Alkaline batteries",
+    "D Battery (2 Pack)"
+  ],
+  "description": "A handy two-pack of D-sized Duracell batteries.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973430849566/0102350-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973430849566/0102350-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Duracell D Battery (2 Pack)",
+  "product_code": "0102-350",
+  "source_url": "https://www.mec.ca/en/product/0102-350/D-Battery-%282-Pack%29",
+  "tech_specs": {
+    "Chemistry": [
+      "Alkaline"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Rechargeable": [
+      "No"
+    ],
+    "Size": [
+      "D"
+    ],
+    "Weight": [
+      "278g"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Swim fitness",
+    "Tri suits",
+    "Pursuit 2.0 Triathlon Wetsuit"
+  ],
+  "description": "First tri? You've got this. This wetsuit makes for fast transitions. With 2 types of neoprene, it's warm, flexible and comfortable.Made of 4mm Yamamoto 38 neoprene for buoyancy and durability.Thermoguard on chest, shoulders and legs to reduce heat loss.2mm panels under the arms and lower back for flexibility.Soft collar seal.Quick-release ankle design.Deep easy-pull back zipper.100% UV protection.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105649664030/6009046-BK064.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105644978206/6009046-BK064-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105645010974/6009046-BK064-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105645436958/6009046-BK064-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105649664030/6009046-BK064.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105644978206/6009046-BK064-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105645010974/6009046-BK064-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105645436958/6009046-BK064-ALT-RIGHT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105649664030/6009046-BK064.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105644978206/6009046-BK064-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105645010974/6009046-BK064-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105645436958/6009046-BK064-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105649664030/6009046-BK064.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105644978206/6009046-BK064-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105645010974/6009046-BK064-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105645436958/6009046-BK064-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Phelps Pursuit 2.0 Triathlon Wetsuit - Men's",
+  "product_code": "6009-046",
+  "source_url": "https://www.mec.ca/en/product/6009-046/Pursuit-2-0-Triathlon-Wetsuit",
+  "tech_specs": {
+    "Face fabric": [
+      "4mm neoprene"
+    ],
+    "Ideal for": [
+      "Swim triathlon"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Relief opening": [
+      "No"
+    ]
+  }
+}

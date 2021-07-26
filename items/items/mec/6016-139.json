@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Killarney Paddler Map 1.1"
+  ],
+  "description": "Plan and execute your canoe trip to Killarney Provincial Park with this thoughtfully designed map. Two-sided design lets you plot route options on the planning side of the map using whiteboard markers and a quick reference itinerary chart. The map even comes with route suggestions for different experience levels. Flip over to the trip side of the map to use colour-coded routes for navigation. And don't stress if you get caught out late \u2013 the trip map uses glow-in-the-dusk ink!",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192819752990/6016139-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695117342/6016139-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695182878/6016139-NOC02-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695313950/6016139-NOC02-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695346718/6016139-NOC02-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695477790/6016139-NOC02-ALT-E.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192819752990/6016139-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695117342/6016139-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695182878/6016139-NOC02-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695313950/6016139-NOC02-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695346718/6016139-NOC02-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695477790/6016139-NOC02-ALT-E.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192819752990/6016139-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695117342/6016139-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695182878/6016139-NOC02-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695313950/6016139-NOC02-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695346718/6016139-NOC02-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695477790/6016139-NOC02-ALT-E.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192819752990/6016139-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695117342/6016139-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695182878/6016139-NOC02-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695313950/6016139-NOC02-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695346718/6016139-NOC02-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695477790/6016139-NOC02-ALT-E.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Unlostify Killarney Paddler Map 1.1",
+  "product_code": "6016-139",
+  "source_url": "https://www.mec.ca/en/product/6016-139/Killarney-Paddler-Map-1-1",
+  "tech_specs": {
+    "Ideal for": [
+      "Canoeing",
+      "Kayak touring"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Published": [
+      "2021"
+    ],
+    "Regionality": [
+      "Ontario"
+    ],
+    "Scale": [
+      "1:62,500"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

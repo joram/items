@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike computers",
+    "Mounts and sensors for bike computers",
+    "Wiring, sensors and parts for bike computers",
+    "dZ4LW/dB4LW2 Wireless Parts Kit"
+  ],
+  "description": "This kit contains all the replacement parts for the Filzer dZ4LW cycling computer.Mounting bracket, transponder, magnet, all mounting straps, etc.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810712760350/5017802-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810712760350/5017802-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810712760350/5017802-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810712760350/5017802-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Filzer dZ4LW/dB4LW2 Wireless Parts Kit",
+  "product_code": "5017-802",
+  "source_url": "https://www.mec.ca/en/product/5017-802/dZ4LW-dB4LW2-Wireless-Parts-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "40g"
+    ]
+  }
+}

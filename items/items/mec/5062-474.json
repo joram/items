@@ -1,0 +1,75 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking footwear",
+    "Hiking shoes",
+    "Moraine Gore-Tex Light Trail Shoes"
+  ],
+  "description": "These lightweight trail shoes are waterproof and stable to keep your adventures easy-going, regardless of the weather. Get all-weather traction with their Vibram\u00ae soles and extend your walking comfort with impact technology that reduces stress as you move over rocks, hardpack and rough ground.Uppers are durable suede with polyester mesh inserts for increased breathability.GORE-TEX Extended Comfort waterproof-breathable construction.Tongue lining features stretch GORE-TEX for waterproofness with outstanding fit and comfort.Structured toe boxes with abrasion-resistant toe rands.Arch suspension in the insole.Midsoles are dual-density, compression-moulded EVA.Activ Impact Technology uses materials to absorb impact and ground shock.Outsoles are Vibram Dynatech 3 for long lasting traction.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022693900318/5062474-GLB01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024253558814/5062474-GLB01-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024253755422/5062474-GLB01-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254378014/5062474-GLB01-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254410782/5062474-GLB01-ALT-TOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254443550/5062474-GLB01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254509086/5062474-GLB01-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022693900318/5062474-GLB01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024253558814/5062474-GLB01-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024253755422/5062474-GLB01-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254378014/5062474-GLB01-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254410782/5062474-GLB01-ALT-TOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254443550/5062474-GLB01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254509086/5062474-GLB01-ALT-MEDIAL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022693900318/5062474-GLB01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024253558814/5062474-GLB01-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024253755422/5062474-GLB01-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254378014/5062474-GLB01-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254410782/5062474-GLB01-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254443550/5062474-GLB01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254509086/5062474-GLB01-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022693900318/5062474-GLB01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024253558814/5062474-GLB01-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024253755422/5062474-GLB01-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254378014/5062474-GLB01-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254410782/5062474-GLB01-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254443550/5062474-GLB01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024254509086/5062474-GLB01-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Scarpa Moraine Gore-Tex Light Trail Shoes - Men's",
+  "product_code": "5062-474",
+  "source_url": "https://www.mec.ca/en/product/5062-474/Moraine-Gore-Tex-Light-Trail-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Rand\n\nRubber on the toe and around the boot improves durability. It can also increase grip while scrambling.": [
+      "Toecap"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Suede",
+      "Polyester"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ],
+    "Weight": [
+      "938g (42)"
+    ]
+  }
+}

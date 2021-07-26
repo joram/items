@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Pocket knives and fixed blade knives",
+    "Folding pocket knives",
+    "Spatha Knife"
+  ],
+  "description": "Small climber\u2019s knife with a locking blade and a carabiner hole for safekeeping.Stainless steel blade has serrated and straight edge.Large hole in the blade lets you open it with one hand.Textured wheel at the pivot point makes it easy to open while wearing gloves.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812904710174/5035286-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994752030/5035286-YLW00-ALT-BLADE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812904710174/5035286-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994752030/5035286-YLW00-ALT-BLADE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812904710174/5035286-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994752030/5035286-YLW00-ALT-BLADE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812904710174/5035286-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994752030/5035286-YLW00-ALT-BLADE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Spatha Knife",
+  "product_code": "5035-286",
+  "source_url": "https://www.mec.ca/en/product/5035-286/Spatha-Knife",
+  "tech_specs": {
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Straight + serrated"
+    ],
+    "Blade length": [
+      "7.6cm"
+    ],
+    "Blade material": [
+      "12C27 stainless steel"
+    ],
+    "Handle material": [
+      "Plastic"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Knife length (closed)": [
+      "9.8cm"
+    ],
+    "Knife length (open)": [
+      "17.4cm"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Sheath included": [
+      "No"
+    ],
+    "Weight": [
+      "43g"
+    ]
+  }
+}

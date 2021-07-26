@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water bottles",
+    "Hard plastic bottles",
+    "MEC S'more Adventure Widemouth Bottle"
+  ],
+  "description": "Pack it in, hydrate, pack it out. This bottle features a wide mouth that\u2019s great for adding ice cubes, swabbing out the insides, and easy opening in colder conditions.Made of Tritan\u2122 co-polyester.Loop top allows clipping onto packs, and lets you flip your lid, without losing it.Standard 63mm threaded opening fits water filters and other accessories.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047274881054/6004673-CLN01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047274881054/6004673-CLN01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nalgene MEC S'more Adventure Widemouth Bottle",
+  "product_code": "6004-673",
+  "source_url": "https://www.mec.ca/en/product/6004-673/MEC-S%27more-Adventure-Widemouth-Bottle",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lid type": [
+      "Screw-top w/loop"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Co-polyester"
+    ],
+    "Volume": [
+      "1L"
+    ],
+    "Water filter compatible": [
+      "Yes"
+    ],
+    "Weight": [
+      "175g"
+    ]
+  }
+}

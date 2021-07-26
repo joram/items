@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tubes and tire liners",
+    "Bike tubes",
+    "700 x 28-32C Tube (Black 48mm Presta Valve)"
+  ],
+  "description": "Roll with confidence. This premium tube is inflated for 24 hours to ensure it\u2019s leak-free, then it\u2019s handpacked into a tapered shape that easily slides into your jersey pocket or seatbag.Made with high-quality butyl rubber.High-quality brass valve (less prone to breaking in a pump) sits atop a smooth black valve stem.Comes with a patch of sandpaper and a glueless patch, in case you\u2019re in a jam.Minimal packaging minimizes environmental impact.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9033550725150/5037132-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806716178462/5037132-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806716342302/5037132-BK000-ALT-PATCHKIT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9033550725150/5037132-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806716178462/5037132-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806716342302/5037132-BK000-ALT-PATCHKIT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9033550725150/5037132-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806716178462/5037132-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806716342302/5037132-BK000-ALT-PATCHKIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9033550725150/5037132-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806716178462/5037132-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806716342302/5037132-BK000-ALT-PATCHKIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rubbers 700 x 28-32C Tube (Black 48mm Presta Valve)",
+  "product_code": "5037-132",
+  "source_url": "https://www.mec.ca/en/product/5037-132/700-x-28-32C-Tube-%28Black-48mm-Presta-Valve%29",
+  "tech_specs": {
+    "Fits tire": [
+      "700 x 28-32"
+    ],
+    "Ideal for": [
+      "Cycle touring",
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Valve\n\nBicycle tubes are valve-specific. Presta \u2013 narrow, with a built-in valve cap that you loosen when pumping up the tire and tighten again afterwards. Schrader \u2013 wide, with a pressure valve similar to those on a car tire.": [
+      "48mm Presta"
+    ],
+    "Weight": [
+      "160g"
+    ]
+  }
+}

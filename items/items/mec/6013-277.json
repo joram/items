@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Hydration packs and accessories",
+    "Bladders, reservoirs and accessories",
+    "Bite Valve 2 Pack"
+  ],
+  "description": "Are you a chewer? Replace worn out bite valves on your HydraPak hydration systems.Fits all HydraPak reservoirs with SoftFlask or UltraFlash bite valves.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184173195294/6013277-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184173195294/6013277-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hydrapak Bite Valve 2 Pack - Unisex",
+  "product_code": "6013-277",
+  "source_url": "https://www.mec.ca/en/product/6013-277/Bite-Valve-2-Pack",
+  "tech_specs": {
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking",
+      "Running",
+      "Mountain biking"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

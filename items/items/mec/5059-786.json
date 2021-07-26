@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Straight gate carabiners",
+    "Oval Carabiner"
+  ],
+  "description": "The iconic oval carabiner with an upgraded design to make it even easier to use. A keylock nose means snag-free clipping and unclipping.Snag-free keylock nose makes clipping and unclipping easy.Symmetrical shape of an oval carabiner weights both sides evenly to prevent shifting.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007969304606/5059786-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008228302878/5059786-BK000-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007969304606/5059786-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008228302878/5059786-BK000-ALT-FLAT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007969304606/5059786-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008228302878/5059786-BK000-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007969304606/5059786-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008228302878/5059786-BK000-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Oval Carabiner",
+  "product_code": "5059-786",
+  "source_url": "https://www.mec.ca/en/product/5059-786/Oval-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "1.8cm"
+    ],
+    "Gate type": [
+      "Straight"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "23kN"
+    ],
+    "Strength cross-loaded": [
+      "9kN"
+    ],
+    "Strength open": [
+      "7kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "58g"
+    ]
+  }
+}

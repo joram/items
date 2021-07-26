@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child clothing",
+    "Toddler and child accessories",
+    "Toddler and child neck gaiters and scarves",
+    "Bandana"
+  ],
+  "description": "Made from 2-layers of highly breathable antimicrobial material, this bandana is a nice alternative to a standard mask.Highly breathable, double-layer material has an antimicrobial finish.Pocket for an optional filter.Machine washable.Can be worn as a neck gaiter too.Bendable nose bar offers a custom fit and reduces fogging with glasses.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143694917662/6012733-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143694917662/6012733-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kombi Bandana - Youths",
+  "product_code": "6012-733",
+  "source_url": "https://www.mec.ca/en/product/6012-733/Bandana",
+  "tech_specs": {
+    "Fabric content": [
+      "88% polyester",
+      "12% spandex"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

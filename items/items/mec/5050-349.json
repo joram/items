@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Skirts and dresses",
+    "Dresses",
+    "Amber Dawn Dress"
+  ],
+  "description": "A playful dress that's a no-fuss solution for casual occasions. Crossover V-neck and tapered straps add tailored detail front and back. A-line silhouette and above-knee length means unrestricted beach walks.Made of soft, organically grown cotton slub-knit jersey with a little spandex for stretch.Semi-flared with an A-line sweep that falls nicely.Fair Trade Certified sewing.\n\n        Sustainability\n\n\n\n\n\n\nFairTrade\n\n\n\n\n\n\n\n\n\n\n\n                      Certified Fair Trade\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090914975774/5050349-BNN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090914975774/5050349-BNN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Amber Dawn Dress - Women's",
+  "product_code": "5050-349",
+  "source_url": "https://www.mec.ca/en/product/5050-349/Amber-Dawn-Dress",
+  "tech_specs": {
+    "Antimicrobial treatment\n\nA treatment that inhibits bacteria growth and reduces odour.": [
+      "No"
+    ],
+    "Fabric content": [
+      "96% organically grown cotton",
+      "4% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Length": [
+      "Above knee"
+    ],
+    "Made in": [
+      "Sri Lanka"
+    ],
+    "Product sustainability": [
+      "Certified Fair Trade",
+      "Organically grown content"
+    ]
+  }
+}

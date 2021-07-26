@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Handlebars, headsets and stems",
+    "Grips and bar tape",
+    "MEC Junior Lock-on Grips"
+  ],
+  "description": "Child-sized lock-on handlebar grips.Grippy dual-density rubber.22.4mm cross-section is comfortable for smaller hands.Plastic clamp.Fits most bar ends.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9043641204766/6003429-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9043641204766/6003429-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC MEC Junior Lock-on Grips",
+  "product_code": "6003-429",
+  "source_url": "https://www.mec.ca/en/product/6003-429/MEC-Junior-Lock-on-Grips",
+  "tech_specs": {
+    "Diameter": [
+      "22.4mm"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Length": [
+      "9.2cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Type": [
+      "Lock-on"
+    ]
+  }
+}

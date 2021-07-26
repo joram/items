@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "Revolver Screwgate Locking Carabiner"
+  ],
+  "description": "An innovative specialty carabiner with an integral pulley for minimizing rope drag. An excellent component for hauling, utility, and rescue systems. It\u2019s fully certified as both a carabiner and a pulley. The carabiner is made with DMM's I-beam technology, allowing the  body of the carabiner to handle the stresses of a pulley while remaining light enough for general use.Made of hot forged, anodized aluminum.Use as rope bearing carabiner only.Pulley rotates with loads up to 11kN before any deformation occurs. Should the pulley deform, the carabiner still retains its rated strength.Rope bearing surface width is 10mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8857622577182/5015812-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8857622577182/5015812-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DMM Revolver Screwgate Locking Carabiner",
+  "product_code": "5015-812",
+  "source_url": "https://www.mec.ca/en/product/5015-812/Revolver-Screwgate-Locking-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "1.6cm"
+    ],
+    "Gate type": [
+      "Straight"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Screwgate"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "24kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "8kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "64g"
+    ]
+  }
+}

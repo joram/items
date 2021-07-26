@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Headbands and ear muffs",
+    "Merino Sport Headband"
+  ],
+  "description": "Pull on this merino headband on cool winter days.Quick dry, stretch-woven shell.Merino Sport 150 mesh lining regulates temperature and sweat.Naturally antimicrobial fabric lets you wear it more, wash it less.Silicone grip holds it securely in place.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163337203742/6012102-SCP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163568480286/6012102-SCP00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163337203742/6012102-SCP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163568480286/6012102-SCP00-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163337203742/6012102-SCP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163568480286/6012102-SCP00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163337203742/6012102-SCP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163568480286/6012102-SCP00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Merino Sport Headband - Unisex",
+  "product_code": "6012-102",
+  "source_url": "https://www.mec.ca/en/product/6012-102/Merino-Sport-Headband",
+  "tech_specs": {
+    "Fabric content": [
+      "86% polyester",
+      "14% elastane"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Secondary fabric": [
+      "56% merino wool",
+      "44% polyester"
+    ]
+  }
+}

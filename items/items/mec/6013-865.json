@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing harnesses",
+    "Adjustable harnesses",
+    "Corax Harness"
+  ],
+  "description": "This is a great all around harness for climbers who want just one for everything from via ferrata to mountaineering. Multi-season carry options include 2 stiff, front gear loops for fast access to draws, 2 flexible rear loops for comfortable when wearing a pack, and compatibility with the Caritool Evo ice screw clip.Made of high-strength webbing and EVA foam that evenly distributes pressure.Dual buckles keep the tie-in point centred and are permanently doubled back.Adjustable leg loops allow clothing options from insulated pants to skin-tight spandex.2 rigid gear loops, 2 flexible rear loops.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167771631646/6013865-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167783297054/6013865-GRY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167783428126/6013865-GRY00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167771631646/6013865-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167783297054/6013865-GRY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167783428126/6013865-GRY00-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167771631646/6013865-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167783297054/6013865-GRY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167783428126/6013865-GRY00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167771631646/6013865-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167783297054/6013865-GRY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167783428126/6013865-GRY00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Corax Harness - Unisex",
+  "product_code": "6013-865",
+  "source_url": "https://www.mec.ca/en/product/6013-865/Corax-Harness",
+  "tech_specs": {
+    "Adjustable leg loops": [
+      "Yes"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Drop seat": [
+      "Yes"
+    ],
+    "Gear loops": [
+      "4"
+    ],
+    "Haul loop": [
+      "Yes"
+    ],
+    "Ice clipper slots": [
+      "No"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Leg loop size": [
+      "54-67cm (Large/X-Large)",
+      "48.5-59cm (Extra Small-Medium)"
+    ],
+    "Made in": [
+      "Malaysia"
+    ],
+    "Self-locking buckle": [
+      "Yes"
+    ],
+    "Type": [
+      "Seat harness"
+    ],
+    "Waist size": [
+      "76-107cm (Large/X-Large)",
+      "65-96cm (Extra Small-Medium)"
+    ],
+    "Weight": [
+      "520g (Large/X-Large)",
+      "470g (Extra Small-Medium)"
+    ]
+  }
+}

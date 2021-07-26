@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard goggles",
+    "Daredevil OTG Goggles"
+  ],
+  "description": "The large frame and interior volume of these goggles fits easily over glasses. The semi-rimless style extends the field of vision to avoid collisions, mishaps and other assorted chaos.Designed for mid-sized faces.Dual thermal lens with Fog-X anti-fog treatmentFloating foam membrane eliminates eyeglass temple pressure. Dual layers amp up comfort.Wide, silicone backed strap has a quick-fit adjustment systemCustom strap graphics.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141607006238/5055581-PDS08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125750407198/5055581-HGM08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141607006238/5055581-PDS08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125750407198/5055581-HGM08.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141607006238/5055581-PDS08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125750407198/5055581-HGM08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141607006238/5055581-PDS08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125750407198/5055581-HGM08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smith Daredevil OTG Goggles - Youths",
+  "product_code": "5055-581",
+  "source_url": "https://www.mec.ca/en/product/5055-581/Daredevil-OTG-Goggles",
+  "tech_specs": {
+    "100% UV protection\n\nProvides 100% protection against UVA and UVB rays.": [
+      "Yes"
+    ],
+    "Anti-fog coating\n\nA coating on the inside of the lens that inhibits condensation.": [
+      "Yes"
+    ],
+    "Fits over most eyewear\n\nThese optics are designed to fit comfortably over most eyewear.": [
+      "Yes"
+    ],
+    "Helmet compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing",
+      "Snowboarding"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Scratch-resistant lens": [
+      "Yes"
+    ],
+    "Vents\n\nVents allow airflow through the goggles which helps to prevent fogging.": [
+      "Yes"
+    ],
+    "Visible Light Transmission\n\n0-10% \u2013 very heavy tint, too dark for most needs. \n10-30% \u2013 heavy tint for bright sunny days.\n20-60% \u2013 light tint, great for cloudy, overcast conditions and shady trails. \n60-80% \u2013 very light tint (often coloured), for improving contrast in low-light conditions, think dawn or dusk. \n80-100% \u2013 little to no tint, this what you want in the dark.": [
+      "30% (Habanero Geo/Ignitor Mirror)",
+      "60% (Polar Tie Dye/Blue Senor Mirror)"
+    ]
+  }
+}

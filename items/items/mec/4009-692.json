@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Uppers and downers",
+    "Pulleys",
+    "Tandem Pulley"
+  ],
+  "description": "For times when 2 is better, this double pulley is used for rigging advantage in hauling systems and providing smooth and efficient tylorean traverses. Fixed sides with aluminum sheaves and sidewalls.Aluminum side walls and sheaves, self-lubricating bushings.Working load is 10kN.Breaking strength of 24kN.Attachment point accepts up to 3 carabiners.For use with ropes up to 13mm diameter.Not suitable for use on cables.CE and UIAA approved.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208189982/4009692-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208615966/4009692-NOC02-ALT-DIAGRAM3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208878110/4009692-NOC02-ALT-DIAGRAM2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208943646/4009692-NOC02-ALT-DIAGRAM1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208189982/4009692-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208615966/4009692-NOC02-ALT-DIAGRAM3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208878110/4009692-NOC02-ALT-DIAGRAM2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208943646/4009692-NOC02-ALT-DIAGRAM1.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208189982/4009692-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208615966/4009692-NOC02-ALT-DIAGRAM3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208878110/4009692-NOC02-ALT-DIAGRAM2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208943646/4009692-NOC02-ALT-DIAGRAM1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208189982/4009692-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208615966/4009692-NOC02-ALT-DIAGRAM3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208878110/4009692-NOC02-ALT-DIAGRAM2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807208943646/4009692-NOC02-ALT-DIAGRAM1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Tandem Pulley",
+  "product_code": "4009-692",
+  "source_url": "https://www.mec.ca/en/product/4009-692/Tandem-Pulley",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Trad and aid climbing"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Rope diameter\n\nThe maximum diameter or the range of rope diameter that is compatible with the device.": [
+      "\u2264 13mm"
+    ],
+    "Sheave material": [
+      "Aluminum"
+    ],
+    "Side plates material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "24kN"
+    ],
+    "Weight": [
+      "195g"
+    ]
+  }
+}

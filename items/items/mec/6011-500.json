@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax",
+    "X Soft Base Race Paraffin"
+  ],
+  "description": "Paraffin base wax designed for speed and protection in warmer, wetter now conditionsSuits snow from -2 to 0\u00b0C.Excellent universal base, melting point of 48\u00b0C is good for saturation and works with polyethylene bases.Apply with a waxing iron at 110-120\u00b0C.250g.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136444342302/6011500-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136444342302/6011500-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Maplus X Soft Base Race Paraffin - Unisex",
+  "product_code": "6011-500",
+  "source_url": "https://www.mec.ca/en/product/6011-500/X-Soft-Base-Race-Paraffin",
+  "tech_specs": {
+    "Ideal for": [
+      "Cross-country skiing",
+      "Skate skiing"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "State": [
+      "Bar"
+    ],
+    "Temperature range": [
+      "0\u00b0C/-2\u00b0C"
+    ],
+    "Type": [
+      "Glide"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fire starters, matches and lighters",
+    "Stormproof Match Kit"
+  ],
+  "description": "Being able to reliably start a fire is always pleasant and sometimes essential. This combination of a rugged container and fiercely burning matches ensures you won\u2019t be caught out in the cold. A great addition to any emergency kit.Contains 25 stormproof matches.Screw-on cap is waterproofed with an O-ring.Striking surface outside. Two additional striking surfaces are protected inside the case.Match burn for 15 seconds and will relight even after several seconds of complete submersion.Extra-long, 7cm matchsticks protect fingers against burns.Dimensions are 2.9 x 7.6cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812620677150/5026864-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812620677150/5026864-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812620677150/5026864-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812620677150/5026864-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "UCO Stormproof Match Kit",
+  "product_code": "5026-864",
+  "source_url": "https://www.mec.ca/en/product/5026-864/Stormproof-Match-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "India"
+    ],
+    "Requires combustible materials\n\nProvides a point of  ignition to light fire, but not the fuel.": [
+      "Yes"
+    ],
+    "Requires ignition\n\nRequires a point of  ignition to light fire.": [
+      "No"
+    ],
+    "Waterproof": [
+      "Yes"
+    ],
+    "Weight": [
+      "48g"
+    ]
+  }
+}

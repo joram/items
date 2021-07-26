@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Sleeping pads",
+    "Closed-cell foam sleeping pads",
+    "Evazote Bivy Sleeping Pad"
+  ],
+  "description": "This 5-millimetre thick foam pad has good resiliency thanks to its high 18 percent EVA content. Its smaller size makes it a good choice for surprise bivies. Evazote\u00ae pads are physically blown with pure nitrogen gas for durability. Flexible to \u201370 degrees Celsius, it\u2019s also abrasion and UV resistant.Dimensions are 150 x 50cm",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816476323870/0808097-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816476323870/0808097-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Zotefoams Evazote Bivy Sleeping Pad - Unisex",
+  "product_code": "0808-097",
+  "source_url": "https://www.mec.ca/en/product/0808-097/Evazote-Bivy-Sleeping-Pad",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Ultralight"
+    ],
+    "Capacity\n\nThe number of average sized people that the product can comfortably sleep.": [
+      "1-person"
+    ],
+    "Ideal for": [
+      "Winter and expedition camping",
+      "Backpacking"
+    ],
+    "Insulation": [
+      "Closed-cell foam"
+    ],
+    "Length": [
+      "150cm"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "R value (thermal resistance)\n\nMeasures insulative value. Higher values indicate more warmth: 1 to 3 are best for warm weather. 3 to 4 are best for 3-season use.4.5 or higher is best for winter.": [
+      "0.7"
+    ],
+    "Rolled diameter": [
+      "10cm"
+    ],
+    "Rolled length": [
+      "51cm"
+    ],
+    "Shape": [
+      "Rectangle"
+    ],
+    "Thickness": [
+      "0.5cm"
+    ],
+    "Type": [
+      "Foam pad"
+    ],
+    "Weight": [
+      "175g"
+    ],
+    "Width": [
+      "50cm"
+    ]
+  }
+}

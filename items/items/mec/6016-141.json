@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Wetsuits and neoprene clothing",
+    "Wetsuits",
+    "Neoprene Pant"
+  ],
+  "description": "Coverage for youngsters who love to swim, surf, kayak or just play in the water. These stretchy neoprene pants add a bit of insulation so they can stay in longer.1mm neoprene with titanium laminate to reflect heat back to your body.Friction-free seams throughout for chafe-free wear.Body-mapped design allows comfortable range of motion.High-rise waist with drawstring adds warmth and coverage.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191098286110/6016141-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191118897182/6016141-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191098286110/6016141-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191118897182/6016141-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191098286110/6016141-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191118897182/6016141-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191098286110/6016141-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191118897182/6016141-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "NRS Neoprene Pant - Youths",
+  "product_code": "6016-141",
+  "source_url": "https://www.mec.ca/en/product/6016-141/Neoprene-Pant",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "High waist cut"
+    ],
+    "Face fabric": [
+      "1mm neoprene"
+    ],
+    "Ideal for": [
+      "Paddleboarding",
+      "Kayaking",
+      "Beach"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Relief opening": [
+      "No"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike wheels",
+    "Single wheels",
+    "C303 27in. 36H Rear Wheel"
+  ],
+  "description": "Good value in a 27 inch wheel. This wheel is suitable for entry level MTB and urban bikes with rim brakes.Single-walled aluminum rims with stainless steel spokes.Compatible with clincher tires with Shraeder valves.36 hole hub fits 8/9 speed cassette with 135mm spacing.Quick release skewer included.Internal rim width: 20.7mm.Rim height: 15mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097569304606/6009313-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097569304606/6009313-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Alex C303 27in. 36H Rear Wheel - Unisex",
+  "product_code": "6009-313",
+  "source_url": "https://www.mec.ca/en/product/6009-313/C303-27in-36H-Rear-Wheel",
+  "tech_specs": {
+    "Brake compatibility": [
+      "Rim brakes"
+    ],
+    "Hub (rear)\n\nThe hub affects a bike\u2019s rolling efficiency. Internally geared hubs require significantly less maintenance.": [
+      "Formula"
+    ],
+    "Ideal for": [
+      "Urban cycling"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Material": [
+      "Aluminum"
+    ],
+    "Rear hub width": [
+      "135mm"
+    ],
+    "Recommended tire width": [
+      "1-1.25 inch"
+    ],
+    "Retention device": [
+      "Quick-release"
+    ],
+    "Size": [
+      "27in."
+    ],
+    "Spoke count": [
+      "36"
+    ],
+    "Spokes": [
+      "Stainless"
+    ],
+    "Tire type": [
+      "Clincher"
+    ],
+    "Valve compatibility\n\nThe type of tube valve the rim will accommodate. Most Schrader wheels can be retrofitted to fit Presta valves.": [
+      "Schrader"
+    ]
+  }
+}

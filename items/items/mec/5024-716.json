@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Field guides",
+    "Animals",
+    "Animal Tracking Pocket Guide"
+  ],
+  "description": "Highlighting North America's most common mammals, this waterproof pocket guide identifies their feeding signs, tracks, scats, burrows, dens, bedding areas, and rubbings. A handy field ruler as well as instructions on making casts of tracks are also included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815888302110/5024716-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815888728094/5024716-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815888302110/5024716-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815888728094/5024716-NOC02-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815888302110/5024716-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815888728094/5024716-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815888302110/5024716-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815888728094/5024716-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Animal Tracking Pocket Guide",
+  "product_code": "5024-716",
+  "source_url": "https://www.mec.ca/en/product/5024-716/Animal-Tracking-Pocket-Guide",
+  "tech_specs": {
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

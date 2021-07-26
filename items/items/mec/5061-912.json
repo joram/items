@@ -1,0 +1,84 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike lights",
+    "Rear bike lights",
+    "Nickel USB Rear Light"
+  ],
+  "description": "Small, easy to charge and bright: all great things in a bike light. The Nickel Rear Light is a lightweight and small taillight solution for those who don\u2019t want or need a larger light. The silicone attachment loop lets you mount it almost anywhere.4 modes: high (1.5 hours at 8 lumens), medium (3.5 hours at 4 lumens), low (7 hours at 2 lumens) and quick flash (5 hours).Easy USB charging means you no longer have to get by with \"good enough\" batteries.LED battery indicator lets you know when it is time to charge.Silicone strap attaches to wrist, backpack, seat post, chainstays, forks, keychain or your pet's collar.O-ring seal makes this light ready for heavy rain \u2013 it's waterproof, but not submersible.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999432126494/5061912-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999430324254/5061912-RED00-ALT-CHARGE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999432126494/5061912-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999430324254/5061912-RED00-ALT-CHARGE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999432126494/5061912-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999430324254/5061912-RED00-ALT-CHARGE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999432126494/5061912-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999430324254/5061912-RED00-ALT-CHARGE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Nickel USB Rear Light",
+  "product_code": "5061-912",
+  "source_url": "https://www.mec.ca/en/product/5061-912/Nickel-USB-Rear-Light",
+  "tech_specs": {
+    "Batteries": [
+      "Rechargeable battery pack (non-removable)"
+    ],
+    "Burn Time - steady": [
+      "7-1.5\u00a0h"
+    ],
+    "Burn time - flash": [
+      "5\u00a0h"
+    ],
+    "Charge time\n\nThe amount of time it takes to fully charge the battery. Applies to lithium and NiMH type batteries. Does not apply to rechargeable or non-rechargeable AA or AAA batteries.": [
+      "1.5\u00a0h"
+    ],
+    "Flash mode": [
+      "Yes"
+    ],
+    "Helmet attachment\n\nIncludes a bracket or mounting system that attaches to most bike helmets.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Urban cycling",
+      "Cycle commuting",
+      "Road cycling"
+    ],
+    "Light modes\n\nThe number of lighting levels/modes the light has (i.e., low, med, high, flash).": [
+      "4 modes"
+    ],
+    "Light source": [
+      "2 red LEDs"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Max light output\n\nThe total quantity of light emitted in every direction from a source of light; measured in lumens.": [
+      "8\u00a0lumens"
+    ],
+    "Product sustainability": [
+      "Rechargeable batteries"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Rechargeable"
+    ],
+    "Red light mode": [
+      "Yes"
+    ],
+    "Regulated output\n\nOn regulated lights brightness is consistent, and does not decrease gradually as the batteries are drained.": [
+      "No"
+    ],
+    "Type\n\nMost Canadian municipalities require a white front light and a red rear light.": [
+      "Rear"
+    ],
+    "Weight": [
+      "18g"
+    ]
+  }
+}

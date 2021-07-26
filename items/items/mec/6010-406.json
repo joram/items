@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Posh Powder Beanie"
+  ],
+  "description": "A comfy and warm knit beanie with an oversized pompom to keep things fun. Great for keeping your ears warm while on the slopes or walking through the city.Made of double-layer merino wool, nylon and acrylic blend.Optimally sized pompom on top.One size fits most.\"",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140115865630/6010406-RBD09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130252402718/6010406-BK000-ALT-ON.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130064805918/6010406-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140115865630/6010406-RBD09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130252402718/6010406-BK000-ALT-ON.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130064805918/6010406-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140115865630/6010406-RBD09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130252402718/6010406-BK000-ALT-ON.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130064805918/6010406-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140115865630/6010406-RBD09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130252402718/6010406-BK000-ALT-ON.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130064805918/6010406-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Posh Powder Beanie - Unisex",
+  "product_code": "6010-406",
+  "source_url": "https://www.mec.ca/en/product/6010-406/Posh-Powder-Beanie",
+  "tech_specs": {
+    "Fabric content": [
+      "55% nylon",
+      "30% merino wool",
+      "15% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

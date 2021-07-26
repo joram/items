@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Southern Chilcotin Mountains Guidebook"
+  ],
+  "description": "Heading to the Southern Chilcotin Mountains? Use this guidebook along with the Southern Chilcotin Mountains Trail Map to help plan your trip. This guidebook includes detailed trail descriptions for hiking, mountaineering, mountain biking and horseback riding within South Chilcotin Mountains Provincial Park, Big Creek Provincial Park, and adjacent recreational areas. Provides trail distance, elevation gain and loss, approximate completion time, campsites, local flora and fauna, and more.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815666987038/5044235-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815666987038/5044235-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Southern Chilcotin Mountains Guidebook",
+  "product_code": "5044-235",
+  "source_url": "https://www.mec.ca/en/product/5044-235/Southern-Chilcotin-Mountains-Guidebook",
+  "tech_specs": {
+    "Author": [
+      "Tim O'Hearn, Claudia O'Hearn"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9780973867954"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Mountain biking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "191"
+    ],
+    "Published": [
+      "2015"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Gloves and mittens",
+    "Gloves",
+    "Lillehammer XC Gloves"
+  ],
+  "description": "Excellent gloves for cross-country skiing or other high-output cold weather activities.Four-way stretch nylon mesh backs are easy-moving and highly breathable.Brushed polyester linings for comfort and dryness against the skin.Goatskin palms for grip and durability.3M\u00ae Thinsulate\u00ae insulation provides warmth without bulk.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135009562654/5005603-BLL08.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135009562654/5005603-BLL08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Auclair Lillehammer XC Gloves - Women's",
+  "product_code": "5005-603",
+  "source_url": "https://www.mec.ca/en/product/5005-603/Lillehammer-XC-Gloves",
+  "tech_specs": {
+    "Ideal for": [
+      "Cross-country skiing"
+    ],
+    "Insulation": [
+      "Medium"
+    ],
+    "Liner fabric": [
+      "100% polyester"
+    ],
+    "Liner type": [
+      "Sewn-in"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "100% nylon"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Leather"
+    ],
+    "Touchscreen compatible": [
+      "No"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Weight": [
+      "125g (Medium)"
+    ]
+  }
+}

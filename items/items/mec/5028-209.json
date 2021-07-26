@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Summits& Icefields 1"
+  ],
+  "description": "A classic guidebook for ski mountaineers in the Rockies. This edition has new tours, particularly in areas where you can grab a few powder turns near the road. Info on other areas is either greatly expanded or completely rewritten and updated. Features mouth-watering colour images and digital shaded maps prepared from satellite imagery to illustrate the routes and terrain.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815619997726/5028209-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815619997726/5028209-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Summits & Icefields 1",
+  "product_code": "5028-209",
+  "source_url": "https://www.mec.ca/en/product/5028-209/Summits%26-Icefields-1",
+  "tech_specs": {
+    "Author": [
+      "Chic Scott, Mark Klassen"
+    ],
+    "Edition": [
+      "3rd"
+    ],
+    "ISBN": [
+      "9781926855783"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "344"
+    ],
+    "Published": [
+      "2011"
+    ],
+    "Regionality": [
+      "Rockies"
+    ]
+  }
+}

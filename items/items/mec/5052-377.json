@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water filters",
+    "Water filter parts and accessories",
+    "Guardian Filter Replacement Cartridge"
+  ],
+  "description": "Replace the purifier cartridge on your MSR Guardian Filter, or just carry one as a back up.Removes viruses, bacteria, and protozoa.Comes with clean side cover.Hollow fiber filter removing bacteria and protozoa.Note: the quality of water will significantly affect the filter's 10000 liter life.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870046302238/5052377-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872663089182/5052377-NOC02-ALT-BRISTL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870046302238/5052377-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872663089182/5052377-NOC02-ALT-BRISTL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870046302238/5052377-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872663089182/5052377-NOC02-ALT-BRISTL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870046302238/5052377-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872663089182/5052377-NOC02-ALT-BRISTL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Guardian Filter Replacement Cartridge",
+  "product_code": "5052-377",
+  "source_url": "https://www.mec.ca/en/product/5052-377/Guardian-Filter-Replacement-Cartridge",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking",
+      "Backpacking",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Kootenay Trips and Trails"
+  ],
+  "description": "British Columbia is the custodian of some of the most spectacular wilderness remaining in the world, including the unique ecosystems of the Kootenay\u2013Columbia basin, which hugs the US/Canadian boundary. From Crow's Nest Pass to the Kettle River, from Kimberley, Cranbrook and Fernie to the Phoenix Road, this colourful and informative guidebook plots routes of travel, places to stay, safe roads for campers, expected wildlife experiences, and much, much more.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986605682718/5061993-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986605682718/5061993-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kootenay Trips and Trails",
+  "product_code": "5061-993",
+  "source_url": "https://www.mec.ca/en/product/5061-993/Kootenay-Trips-and-Trails",
+  "tech_specs": {
+    "Author": [
+      "Murphy Shewchuk"
+    ],
+    "ISBN": [
+      "9781554551002"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "340"
+    ],
+    "Published": [
+      "2018"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

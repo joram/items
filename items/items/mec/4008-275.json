@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Marine navigation",
+    "Maps",
+    "Algonquin - Opeongo Lake Map"
+  ],
+  "description": "Opeongo is the largest lake in Algonquin Park, big enough for a week or more of canoe tripping. Other lakes on this map include Happy Isle, Redrock, Proulx, Wright and Bonfield. Includes information on campsites, portages, facilities, fish species, and recommended trips in the area.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815791144990/4008275-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815791144990/4008275-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Map Algonquin - Opeongo Lake Map",
+  "product_code": "4008-275",
+  "source_url": "https://www.mec.ca/en/product/4008-275/Algonquin---Opeongo-Lake-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Canoeing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Ontario"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

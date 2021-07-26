@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Casual sandals",
+    "The Antonio Sandals"
+  ],
+  "description": "Slip into comfort with these classically styled leather slides. Brave Soles uses locally sourced and upcycled materials when creating their handcrafted footwear.Made from soft and supple locally sourced leather.Soles are made from hand-cut upcycled car tires from Haiti.Foam core mid-sole.Leather footbed.Slightly raised heel for impact absorption and a natural stance.Handmade in the Dominican Republic.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096270381086/6009030-CRL09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096270446622/6009030-CRL09-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9115482947614/6009030-CRL09-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096269955102/6009030-COC00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096269791262/6009030-COC00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096270381086/6009030-CRL09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096270446622/6009030-CRL09-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9115482947614/6009030-CRL09-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096269955102/6009030-COC00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096269791262/6009030-COC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096270381086/6009030-CRL09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096270446622/6009030-CRL09-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9115482947614/6009030-CRL09-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096269955102/6009030-COC00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096269791262/6009030-COC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096270381086/6009030-CRL09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096270446622/6009030-CRL09-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9115482947614/6009030-CRL09-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096269955102/6009030-COC00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096269791262/6009030-COC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Brave Soles The Antonio Sandals - Men's",
+  "product_code": "6009-030",
+  "source_url": "https://www.mec.ca/en/product/6009-030/The-Antonio-Sandals",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Footbed": [
+      "Leather"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Dominican Republic"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "Upper material": [
+      "Leather"
+    ]
+  }
+}

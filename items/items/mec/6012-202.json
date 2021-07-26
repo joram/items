@@ -1,0 +1,99 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Soy Protein Flakes"
+  ],
+  "description": "Derived from a high quality soy concentrate. Add to vegetarian dishes like stews, chilli, pasta sauce, tacos, or lasagna. High in protein and low in fat, a cholesterol-free option to ground meat.Ingredients: soy protein concentrate.May contain: nuts, peanuts, sesame, milk, egg, fish, seafood, wheat, mustard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188143726622/6012202-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132323358/6012202-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188143726622/6012202-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132323358/6012202-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188143726622/6012202-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132323358/6012202-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188143726622/6012202-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132323358/6012202-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Soy Protein Flakes",
+  "product_code": "6012-202",
+  "source_url": "https://www.mec.ca/en/product/6012-202/Soy-Protein-Flakes",
+  "tech_specs": {
+    "Calories per serving": [
+      "100Cal"
+    ],
+    "Carbohydrates": [
+      "5g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "5g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Organic": [
+      "No"
+    ],
+    "Protein": [
+      "17g"
+    ],
+    "Saturated fat": [
+      "0g"
+    ],
+    "Serving size": [
+      "\u00bc package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "5mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "0g"
+    ],
+    "Total fat": [
+      "1g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "100g"
+    ]
+  }
+}

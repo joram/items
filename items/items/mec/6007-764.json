@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Casual sandals",
+    "Escape Biodegradable Sling Shoes"
+  ],
+  "description": "Step in sling-backs with slipper-like comfort and step-in ease. The fact that they are biodegradable is just icing on a seriously comfy cake.Eco-One biodegradable, injection moulded EVA uses no methane in its production.Natural upper.Machine washable.Anatomic contoured footbeds are made of soft cushioning EVA.Firm, non-marking EVA outsole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089547796510/6007764-SST00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090014707742/6007764-SST00-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090014773278/6007764-SST00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090015002654/6007764-SST00-ALT-TOPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089547796510/6007764-SST00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090014707742/6007764-SST00-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090014773278/6007764-SST00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090015002654/6007764-SST00-ALT-TOPS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089547796510/6007764-SST00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090014707742/6007764-SST00-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090014773278/6007764-SST00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090015002654/6007764-SST00-ALT-TOPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089547796510/6007764-SST00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090014707742/6007764-SST00-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090014773278/6007764-SST00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090015002654/6007764-SST00-ALT-TOPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Reef Escape Biodegradable Sling Shoes - Women's",
+  "product_code": "6007-764",
+  "source_url": "https://www.mec.ca/en/product/6007-764/Escape-Biodegradable-Sling-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Footbed": [
+      "EVA"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Removable insole": [
+      "No"
+    ],
+    "Upper material": [
+      "Canvas"
+    ]
+  }
+}

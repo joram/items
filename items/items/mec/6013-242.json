@@ -1,0 +1,90 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Snacks",
+    "Nuts, fruit and dried foods",
+    "Coconut Cashews"
+  ],
+  "description": "Rich, buttery cashews dry roasted and coated of shaved coconut, a delicious way to top up your tank.Ingredients: cashews, sugar, coconut, gum Arabic, water, natural flavour, sea salt.No sulfites.Low in sodium.High in iron.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156284710942/6013242-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156284710942/6013242-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Handfuel Coconut Cashews",
+  "product_code": "6013-242",
+  "source_url": "https://www.mec.ca/en/product/6013-242/Coconut-Cashews",
+  "tech_specs": {
+    "Calories per serving": [
+      "210Cal"
+    ],
+    "Carbohydrates": [
+      "21g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "1g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Potassium": [
+      "150mg"
+    ],
+    "Protein": [
+      "4g"
+    ],
+    "Saturated fat": [
+      "4g"
+    ],
+    "Serving size": [
+      "1/3 package"
+    ],
+    "Servings": [
+      "3"
+    ],
+    "Sodium": [
+      "30mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "14g"
+    ],
+    "Total fat": [
+      "13g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "150g"
+    ]
+  }
+}

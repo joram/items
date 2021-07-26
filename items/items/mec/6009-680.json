@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Snow and ice protection",
+    "Ice screws",
+    "Laser Speed Ice Screw"
+  ],
+  "description": "Bites fast and chews in quick. The shape of the drilling teeth is designed to bite in about a quarter turn, so you can get your screws started rapidly. The integrated crank applies efficient leverage to wind them in with one hand even at awkward angles. A smallish hanger is easier to place in sculpted ice, but big enough to grip with gloves or cold fingers.Shaft is treated stainless steel, hanger is aluminum.Colour-coded cranking handles make identification easier.Swivelling crank on the hanger allows fast placement and removal.Sharpening reserve on the teeth helps with filing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150284857374/6009680-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150294360094/6009680-NOC02-ALT-TIP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150284857374/6009680-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150294360094/6009680-NOC02-ALT-TIP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150284857374/6009680-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150294360094/6009680-NOC02-ALT-TIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150284857374/6009680-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150294360094/6009680-NOC02-ALT-TIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Laser Speed Ice Screw",
+  "product_code": "6009-680",
+  "source_url": "https://www.mec.ca/en/product/6009-680/Laser-Speed-Ice-Screw",
+  "tech_specs": {
+    "CE Certified": [
+      "All except 10cm"
+    ],
+    "Hanger material": [
+      "Aluminum"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Lengths": [
+      "10, 13, 17, 21cm"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Screw material": [
+      "Stainless steel"
+    ],
+    "Weight": [
+      "113g (10)",
+      "128g (13)",
+      "143g (17)",
+      "161g (21)"
+    ]
+  }
+}

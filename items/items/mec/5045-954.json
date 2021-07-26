@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fuel",
+    "Propane Fuel Cylinder 453g"
+  ],
+  "description": "The universal design attaches to portable propane stoves and provides safe, simple operation. Fits all standard portable propane appliances, tabletop grills, and propane torches.Can be recycled through some municipal programs.465g canister is non-refillable.Manufactured to exceed the requirements of the US Department of Transportation and Transport Canada.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041681383454/5045954-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041681383454/5045954-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coleman Propane Fuel Cylinder 453g",
+  "product_code": "5045-954",
+  "source_url": "https://www.mec.ca/en/product/5045-954/Propane-Fuel-Cylinder-453g",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Shelf life (opened)": [
+      "60mo"
+    ],
+    "Shelf life (sealed)": [
+      "60mo"
+    ],
+    "Weight": [
+      "465g"
+    ]
+  }
+}

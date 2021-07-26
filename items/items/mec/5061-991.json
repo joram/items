@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Adventure and documentary",
+    "On My Bike"
+  ],
+  "description": "Set in Vancouver, British Columbia, this follow-up to the successful On My Walk features a young child learning to ride a bike. An enchanting collaboration between Christina Leist and Kari-Lynn Winters, this picture book will delight young children and parents alike.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978826395678/5061991-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978826395678/5061991-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "On My Bike",
+  "product_code": "5061-991",
+  "source_url": "https://www.mec.ca/en/product/5061-991/On-My-Bike",
+  "tech_specs": {
+    "Author": [
+      "Kari-Lynn Winters"
+    ],
+    "ISBN": [
+      "9781926890135"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Illustrator": [
+      "Christina Leist"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "26"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

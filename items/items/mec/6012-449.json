@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Long sleeved shirts",
+    "Alpinist Woven Shirt"
+  ],
+  "description": "Old school flannel styling made from new school material. The Alpinist woven shirt is more than just another flannel, using a blend of technical polyester yarns and wool, you get modern performance from a classic.Polyester. wool blend has a great warmth to weight ratio.T400 polyester yarns have comfortable mechanical stretch.COOLMAX\u00ae helps wick moisture and dry quickly.Snap-down front placket, because buttons feel like a chore.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164905644062/6012449-BNE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164905906206/6012449-BNE00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164906070046/6012449-BNE00-ALT-DETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164906102814/6012449-BNE00-ALT-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164905644062/6012449-BNE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164905906206/6012449-BNE00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164906070046/6012449-BNE00-ALT-DETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164906102814/6012449-BNE00-ALT-DETAIL2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164905644062/6012449-BNE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164905906206/6012449-BNE00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164906070046/6012449-BNE00-ALT-DETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164906102814/6012449-BNE00-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164905644062/6012449-BNE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164905906206/6012449-BNE00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164906070046/6012449-BNE00-ALT-DETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164906102814/6012449-BNE00-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Roark Alpinist Woven Shirt - Men's",
+  "product_code": "6012-449",
+  "source_url": "https://www.mec.ca/en/product/6012-449/Alpinist-Woven-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "74% polyester",
+      "26% wool"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Pockets": [
+      "2 external chest"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Sports bras",
+    "Dare Crossback Bra"
+  ],
+  "description": "Run-ready support in a crossback bra. The moulded cups are designed to encapsulate each breast and provide support during high-impact activities. Perforations and wicking fabric keep you cool during warm or intense sessions.Made of sweat-wicking DriLayer\u00ae HorsePower nylon and spandex.Lightweight, moulded polyester cups for support and shape.Perforations on front and back keep you cool.Integrated bottom band supports and moves with you.Minimal seams for chafe-free wear.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156273897502/6005524-ORC05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256006174/6005524-ORC05-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256333854/6005524-ORC05-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256497694/6005524-ORC05-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256530462/6005524-ORC05-ALT-ZOOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104305029150/6005524-NVY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104305192990/6005524-NVY00-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104305061918/6005524-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156273897502/6005524-ORC05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256006174/6005524-ORC05-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256333854/6005524-ORC05-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256497694/6005524-ORC05-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256530462/6005524-ORC05-ALT-ZOOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104305029150/6005524-NVY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104305192990/6005524-NVY00-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104305061918/6005524-NVY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156273897502/6005524-ORC05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256006174/6005524-ORC05-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256333854/6005524-ORC05-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256497694/6005524-ORC05-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256530462/6005524-ORC05-ALT-ZOOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104305029150/6005524-NVY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104305192990/6005524-NVY00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104305061918/6005524-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156273897502/6005524-ORC05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256006174/6005524-ORC05-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256333854/6005524-ORC05-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256497694/6005524-ORC05-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156256530462/6005524-ORC05-ALT-ZOOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104305029150/6005524-NVY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104305192990/6005524-NVY00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104305061918/6005524-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Brooks Dare Crossback Bra - Women's",
+  "product_code": "6005-524",
+  "source_url": "https://www.mec.ca/en/product/6005-524/Dare-Crossback-Bra",
+  "tech_specs": {
+    "Adjustable closure": [
+      "No"
+    ],
+    "Adjustable straps": [
+      "No"
+    ],
+    "Cup size": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Fabric content": [
+      "63% nylon",
+      "37% spandex"
+    ],
+    "Ideal for": [
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Secondary fabric": [
+      "100% polyester"
+    ],
+    "Support": [
+      "High support"
+    ],
+    "Underwire": [
+      "No"
+    ]
+  }
+}

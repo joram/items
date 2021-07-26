@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Ski socks",
+    "Ski Midweight + Socks"
+  ],
+  "description": "Combines lovely merino wool with technical fibres to balance insulation with comfort. These midweight socks offer plenty of warmth and cushioning for long days in your boots.Made of merino wool, Endurofil polypropylene, nylon and LYCRA\u00ae for warmth and moisture management.Full terry knit foot for added warmth and cushioning with padding through toes, heels, shins and calves.Elasticated arch support prevents bunching and provides a performance fit.Flat toe seam for added comfort.Women's fit is slimmer with a narrow toebox and heel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986946437150/5060320-DPU00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986946437150/5060320-DPU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Bridgedale Ski Midweight + Socks - Women's",
+  "product_code": "5060-320",
+  "source_url": "https://www.mec.ca/en/product/5060-320/Ski-Midweight-%2B-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Knee"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot",
+      "Shin"
+    ],
+    "Fabric content": [
+      "34% merino wool",
+      "33% polypropylene",
+      "32% nylon",
+      "1% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Downhill skiing",
+      "Snowboarding"
+    ],
+    "Made in": [
+      "South Africa"
+    ],
+    "Thickness": [
+      "Thick"
+    ]
+  }
+}

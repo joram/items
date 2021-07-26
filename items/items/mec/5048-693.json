@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Hex and torx compatible tools",
+    "HXS-1.2 L-Shaped Hex Wrench Set"
+  ],
+  "description": "A set of classic L-shaped Allan/hex wrenches, a staple of any well-stocked garage or shop worldwide.Made of through-hardened industrial steel.Includes 1.5, 2, 2.5, 3, 4, 5, 6, 8, and 10mm wrenches.Ball headed wrench tips let you work in tight spots at angles up to 25 degrees.Chamfered edges on the tips for an easy and proper fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806570033182/5048693-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806570328094/5048693-NOC02-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806570033182/5048693-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806570328094/5048693-NOC02-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806570033182/5048693-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806570328094/5048693-NOC02-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806570033182/5048693-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806570328094/5048693-NOC02-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool HXS-1.2 L-Shaped Hex Wrench Set",
+  "product_code": "5048-693",
+  "source_url": "https://www.mec.ca/en/product/5048-693/HXS-1-2-L-Shaped-Hex-Wrench-Set",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

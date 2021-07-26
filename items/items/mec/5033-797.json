@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Travel accessories",
+    "Locks, tags and flags",
+    "Cable Lock"
+  ],
+  "description": "Secure your luggage in busy airports and stations. The flexible cable threads easily around solid objects and fastens securely with a 3-dial combination lock.Made of cast zinc with a flexible coated steel cable.Cable length is 70mm.3-dial combination is re-settable.TSA compliant.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815440166942/5033797-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815440166942/5033797-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Lewis N. Clark Cable Lock",
+  "product_code": "5033-797",
+  "source_url": "https://www.mec.ca/en/product/5033-797/Cable-Lock",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel"
+    ],
+    "Locking mechanism": [
+      "Combination"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Steel"
+    ],
+    "Type": [
+      "Cable lock"
+    ],
+    "Weight": [
+      "54g"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tools",
+    "Viper Hammer Ice Tool"
+  ],
+  "description": "Redesigned from the ground up, this easy-swinging tool is honed for technical ice and mixed routes. The 3-D hydroformed shaft extends through the grip for enhanced rigidity and wicked-solid sticks. The adjustable FlickLock pommel operates as a secondary grip position for low-angle terrain.Modular stainless steel head, uses  2-screw design to easily change picks, hammers and adzes.Shaft is hydroformed for increased stiffness and reduced weight.Dual-density grip has a non-slip texture.Titan T-rated pick  for added durability.Adjustable FlickLock pommel for switching up your hand position.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807176798238/5041941-SLA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807176798238/5041941-SLA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Viper Hammer Ice Tool",
+  "product_code": "5041-941",
+  "source_url": "https://www.mec.ca/en/product/5041-941/Viper-Hammer-Ice-Tool",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Hammer modular"
+    ],
+    "Ideal for": [
+      "Ice climbing"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "50cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Removable pick": [
+      "Yes"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "T-rated shaft + T-rated pick"
+    ],
+    "Weight": [
+      "570g"
+    ]
+  }
+}

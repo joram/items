@@ -1,0 +1,87 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Snacks",
+    "Chocolate bars",
+    "Honeycomb Dark Chocolate Bar"
+  ],
+  "description": "Sweet smooth honey, caramelized into crisp morsels laced through rich 60% cacao dark chocolate making for a deliciously sweet treat that will wow your taste buds.Ingredients: Premium dark chocolate (60% cacao, sugar, cacao butter, soy lecithin [as and emulsifier], natural vanilla), caramelized honey (sugar, corn syrup, honey, water, baking soda).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812472827934/5043916-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812472827934/5043916-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Chuao Honeycomb Dark Chocolate Bar",
+  "product_code": "5043-916",
+  "source_url": "https://www.mec.ca/en/product/5043-916/Honeycomb-Dark-Chocolate-Bar",
+  "tech_specs": {
+    "Calories per serving": [
+      "190Cal"
+    ],
+    "Carbohydrates": [
+      "23g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "3g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "2g"
+    ],
+    "Saturated fat": [
+      "8g"
+    ],
+    "Serving size": [
+      "1/2 bar"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "20mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "19g"
+    ],
+    "Total fat": [
+      "13g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "80g"
+    ]
+  }
+}

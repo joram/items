@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Pocket knives and fixed blade knives",
+    "Folding pocket knives",
+    "Reverb Folding Knife"
+  ],
+  "description": "From your keys, to your pack, to your belt loop, the Reverb folding knife is small enough to clip out of the way, but big enough to be useful.8Cr13MoV blade is easy to sharpen and holds an edge well.Stainless steel frame-lock design offers improved rigidity.Light and strong G10 and carbon fiber front handle scale.Machined fuller on the blade reduces weight and doubles as a nail nick for opening.Clean, snag-free design works well around outdoor gear.Deep-carry pocket clip is designed for right handed tip-up carry.Integrated carabiner clip.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826194974/6013435-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817511454/6013435-BK000-ALT-CLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817576990/6013435-BK000-ALT-HALFOPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826194974/6013435-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817511454/6013435-BK000-ALT-CLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817576990/6013435-BK000-ALT-HALFOPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826194974/6013435-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817511454/6013435-BK000-ALT-CLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817576990/6013435-BK000-ALT-HALFOPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826194974/6013435-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817511454/6013435-BK000-ALT-CLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817576990/6013435-BK000-ALT-HALFOPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kershaw Reverb Folding Knife",
+  "product_code": "6013-435",
+  "source_url": "https://www.mec.ca/en/product/6013-435/Reverb-Folding-Knife",
+  "tech_specs": {
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Straight"
+    ],
+    "Blade length": [
+      "6.4cm"
+    ],
+    "Blade locking system": [
+      "Yes"
+    ],
+    "Blade material": [
+      "8Cr13Mov steel"
+    ],
+    "Handle material": [
+      "G10",
+      "Carbon fibre",
+      "Stainless steel"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Knife length (closed)": [
+      "8.3cm"
+    ],
+    "Knife length (open)": [
+      "15.6cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Sheath included": [
+      "No"
+    ],
+    "Weight": [
+      "46g"
+    ]
+  }
+}

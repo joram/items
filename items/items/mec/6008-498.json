@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Bike socks",
+    "Unlimited 15 Inch Socks"
+  ],
+  "description": "These thin socks fit comfortably into close-fitting cycling shoes, with breathable fabric and an anti-odour treatment for sweaty feet that know no limits.Meryl Skinlife yarns with silver microparticles to keep feet and shoes fresh.Compression cuff keeps sock in place.Midfoot support band for a snug fit.Flat-seam toe for chafe-free comfort.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161860841502/6008498-DSB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084996091934/6008498-DGR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161860841502/6008498-DSB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084996091934/6008498-DGR00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161860841502/6008498-DSB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084996091934/6008498-DGR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161860841502/6008498-DSB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084996091934/6008498-DGR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Castelli Unlimited 15 Inch Socks - Men's",
+  "product_code": "6008-498",
+  "source_url": "https://www.mec.ca/en/product/6008-498/Unlimited-15-Inch-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Antimicrobial treatment"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "85% nylon",
+      "15% elastane"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

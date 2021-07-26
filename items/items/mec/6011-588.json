@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Saws, axes and camp shovels",
+    "Saws",
+    "Taskmaster Saw"
+  ],
+  "description": "Backyard or backcountry, use this compact folding saw for firewood, trail maintenance or   yard work. It cuts easily through branches and small logs.Rugged glass-reinforced nylon handle has rubber panels to add grip.Reliable button-lock is easy to use with or without gloves.High-carbon blade is nickel plated for corrosion resistance.Lanyard hole at the base of the handle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146822885406/6011588-BK031.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146815938590/6011588-BK031-ALT-CLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146816036894/6011588-BK031-ALT-HALFOPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146822885406/6011588-BK031.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146815938590/6011588-BK031-ALT-CLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146816036894/6011588-BK031-ALT-HALFOPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146822885406/6011588-BK031.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146815938590/6011588-BK031-ALT-CLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146816036894/6011588-BK031-ALT-HALFOPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146822885406/6011588-BK031.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146815938590/6011588-BK031-ALT-CLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146816036894/6011588-BK031-ALT-HALFOPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kershaw Taskmaster Saw",
+  "product_code": "6011-588",
+  "source_url": "https://www.mec.ca/en/product/6011-588/Taskmaster-Saw",
+  "tech_specs": {
+    "Blade length": [
+      "18.4cm"
+    ],
+    "Blade material": [
+      "High carbon steel"
+    ],
+    "Handle length": [
+      "23.5cm"
+    ],
+    "Handle material": [
+      "Glass-reinforced nylon (GRN)",
+      "Rubber"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Sheath included": [
+      "No"
+    ],
+    "Weight": [
+      "261g"
+    ]
+  }
+}

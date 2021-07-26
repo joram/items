@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Coquihalla Summit Map 2nd Edition"
+  ],
+  "description": "A waterproof, tearproof topographic route map for backcountry skiing and hiking near the Coquihalla Highway (Highway 5) in southwestern BC. Includes info on ski ascent routes, ski runs, hiking trails and parking areas. 1:33,300 scale with 3D shaded relief.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8922595754014/5057654-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8922595754014/5057654-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coquihalla Summit Map 2nd Edition",
+  "product_code": "5057-654",
+  "source_url": "https://www.mec.ca/en/product/5057-654/Coquihalla-Summit-Map-2nd-Edition",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Scale": [
+      "1:33,300"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

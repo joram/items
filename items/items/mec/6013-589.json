@@ -1,0 +1,82 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike trainers and accessories",
+    "Bike trainers",
+    "M2 Smart Trainer"
+  ],
+  "description": "Seasons change, your training doesn\u2019t have to. Paired with a training app, you can ride with friends all over the world. Powerful electromagnetic resistance adjusts automatically for the course you're riding. Or you can just hop on for a training ride without an app controlling the resistance. The M2 delivers the same smooth power curve as Saris\u2019 Fluid2 trainer.Electromagnetic resistance is responsive and quiet, only 69dB at 32Km/h.Power accuracy readings +/-5%.Integrated sensors for speed, cadence and power.Works with Zwift\u2122, Rouvy\u2122, TrainerRoad\u2122 and more.Communicates over ANT+ FE-C and Bluetooth to connect to devices and sensors.Simulates grades up to 15%Internal cooling system keeps air moving through the trainer, so temperatures stay reasonable.Maximum rider and bike weight of 136kg.Broad frame design stays stable in the sprints.Folds for storage (56 x 23 x 51cm).Tool-free mounting and roller adjustment.5cm resistance unit roller allows for the following wheel sizes 650b, 700c, 27.5in. \u2013 up to a 2.0in. tire and 29in. \u2013 up to a 1.5in. (not including tread).Fits road and mountain bike frames, includes steel quick-release skewer with rear dropout spacing: 120mm, 130mm and 135mm.LED indicators signal connections to devices and sensors.Precision machined roller reduces tire-wear.Adjustable feet keep it level.Includes free 1 month subscription to Rouvy\u2019s virtual training app.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168633036830/6013589-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027101214/6013589-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027199518/6013589-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027330590/6013589-BK000-ALT-CONNECT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027527198/6013589-BK000-ALT-WHEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168633036830/6013589-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027101214/6013589-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027199518/6013589-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027330590/6013589-BK000-ALT-CONNECT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027527198/6013589-BK000-ALT-WHEEL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168633036830/6013589-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027101214/6013589-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027199518/6013589-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027330590/6013589-BK000-ALT-CONNECT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027527198/6013589-BK000-ALT-WHEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168633036830/6013589-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027101214/6013589-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027199518/6013589-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027330590/6013589-BK000-ALT-CONNECT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164027527198/6013589-BK000-ALT-WHEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Saris M2 Smart Trainer",
+  "product_code": "6013-589",
+  "source_url": "https://www.mec.ca/en/product/6013-589/M2-Smart-Trainer",
+  "tech_specs": {
+    "Adjustable resistance": [
+      "Yes"
+    ],
+    "Broadcast communication protocol\n\nANT+ is standard and will work with any ANT+ compatible device. Bluetooth communication, while not standard for bike trainers, works with many software packages and devices.": [
+      "ANT+ FE-C",
+      "Bluetooth"
+    ],
+    "Data type\n\nPower, cadence and speed are helpful for training sessions. This data can be transmitted to apps or software to create virtual rides or to pace yourself when training.": [
+      "Cadence",
+      "Power",
+      "Speed"
+    ],
+    "Dimensions": [
+      "69\u00a0x\u00a065\u00a0x\u00a040cm"
+    ],
+    "External power supply required\n\nIf an external source is required, your trainer needs to be plugged into an outlet, or if unplugged, will have a reduced number of features.": [
+      "Yes"
+    ],
+    "Folding\n\nTrainer can be folded flat for storage.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycle training"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Maximum resistance at 40Km/h": [
+      "1500W"
+    ],
+    "Maximum slope simulation": [
+      "15%"
+    ],
+    "Resistance type\n\nHow the trainer delivers resistance to the rear wheel of your bike.": [
+      "Electromagnetic"
+    ],
+    "Zwift Certified\n\nZwift certified trainers can have their resistance controlled by the software for a realistic experience.": [
+      "Yes"
+    ]
+  }
+}

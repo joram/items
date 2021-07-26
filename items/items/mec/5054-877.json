@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Avalanche safety gear",
+    "Avalanche beacons and transceivers",
+    "Barryvox"
+  ],
+  "description": "One of the best transceivers in the industry, made better. The Barryvox is intuitive, simple to use, and now more powerful and efficient. For beginners or occasional users the clear symbols, large display and mark function lead you to a precise location quickly. Even if you're a trained and frequent user, reducing information overload in a high-stress situation is always beneficial.Ergonomic design is impact-proof and can be operated with gloves on.Software is user-friendly and features a single mark button.Can be updated with new functions.Buried beacons can be marked to speed up searching in multiple-burial scenarios.Display is backlit and easy to read, even with polarized sunglasses.Audio and visual guidance provides information on distance, direction and number of victims.Group test function activates itself when turning the beacon on.70m search strips speeds signal pick-up.Auto-revert function switches from search to send after being immobile for 4 minutes.Automatic self-test, frequency check and function test ensures your beacon is always functioning properly.Send mode battery life is 300 hours. Search 1 hour.Carrying system protects the transceiver and is easy to use with one hand.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8920999231518/5054877-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8920999264286/5054877-NOC02-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8920999231518/5054877-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8920999264286/5054877-NOC02-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8920999231518/5054877-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8920999264286/5054877-NOC02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8920999231518/5054877-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8920999264286/5054877-NOC02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mammut Barryvox Transceiver",
+  "product_code": "5054-877",
+  "source_url": "https://www.mec.ca/en/product/5054-877/Barryvox",
+  "tech_specs": {
+    "Auto-revert to transmit": [
+      "Yes"
+    ],
+    "Batteries": [
+      "3 AAA (included)"
+    ],
+    "Burial direction indicator": [
+      "Arrow"
+    ],
+    "Buried transmitter display": [
+      "1, 2, 3, 4, 5+ victims"
+    ],
+    "Dimensions": [
+      "6.7\u00a0x\u00a02.7\u00a0x\u00a011.5cm"
+    ],
+    "Earphone compatible": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Mountain snowshoeing"
+    ],
+    "Made in": [
+      "Switzerland"
+    ],
+    "Mark function": [
+      "Mark only"
+    ],
+    "Multiple burial modes": [
+      "Yes"
+    ],
+    "Receiving antennas": [
+      "3"
+    ],
+    "Search strip width": [
+      "70m"
+    ],
+    "Type": [
+      "Digital beacon"
+    ],
+    "Weight": [
+      "205g"
+    ]
+  }
+}

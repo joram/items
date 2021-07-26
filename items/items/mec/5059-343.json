@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry ski poles and baskets",
+    "Whippet Attachment"
+  ],
+  "description": "Wether you're bootpacking an icy ridge or setting up for a descent in no-fall terrain, this attachment brings an additionnal layer of safety by converting your Whippet-ready ski pole into a self-arrest tool.Steel pick features canard wing to add a margin of safety for steep terrain.ClickLock mechanism provides quick and secure attachment to grip on Whippet-ready ski poles.Attaches to any Whippet-ready ski pole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983449534494/5059343-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985735790622/5059343-NOC02-ALT-NOGUARD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983449534494/5059343-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985735790622/5059343-NOC02-ALT-NOGUARD.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983449534494/5059343-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985735790622/5059343-NOC02-ALT-NOGUARD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983449534494/5059343-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985735790622/5059343-NOC02-ALT-NOGUARD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Whippet Attachment",
+  "product_code": "5059-343",
+  "source_url": "https://www.mec.ca/en/product/5059-343/Whippet-Attachment",
+  "tech_specs": {
+    "Ideal for": [
+      "Ski mountaineering",
+      "Alpine touring"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "150g"
+    ]
+  }
+}

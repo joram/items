@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry ski bindings",
+    "Backcountry bindings",
+    "EA Rubber Springs"
+  ],
+  "description": "Replace and upgrade your rubber springs on your EA bindings.Includes 2 rubbers springs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8846927659038/5051642-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8846927659038/5051642-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "OAC Skis EA Rubber Springs",
+  "product_code": "5051-642",
+  "source_url": "https://www.mec.ca/en/product/5051-642/EA-Rubber-Springs",
+  "tech_specs": {
+    "Ideal for": [
+      "Off-track touring"
+    ],
+    "Made in": [
+      "Finland"
+    ]
+  }
+}

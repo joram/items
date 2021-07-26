@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Batteries",
+    "Lithium batteries",
+    "2032 3V Lithium Single"
+  ],
+  "description": "A quality Duracell battery to power your favourite small devicesAlso known as: 5004LB, 5004LC, DL2032, CR2032, BR2032, LM2032, ECR2032Guaranteed for 10 years in storage with Duracell\u2019s Duralock Power Preserve\u2122 Technology.Common application: calculators, clocks, watches, lights, bike computers, and cameras",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976244932638/5049257-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976244932638/5049257-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Duracell 2032 3V Lithium Single",
+  "product_code": "5049-257",
+  "source_url": "https://www.mec.ca/en/product/5049-257/2032-3V-Lithium-Single",
+  "tech_specs": {
+    "Capacity": [
+      "225mAh"
+    ],
+    "Chemistry": [
+      "Lithium"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Rechargeable": [
+      "No"
+    ],
+    "Size": [
+      "CR2032"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Quickdraws",
+    "Hotforge Quickdraw"
+  ],
+  "description": "The HotForge draw has a straight and a bent-gate HotForge carabiner threaded on a polyester dogbone. This is a great design in a multi-purpose draw with smooth-clipping keylock nose action.Corrosion resistant anodized aluminum.Carabiners have a deep basket with a flattened bottom so ropes and webbing stays put.Equipped with an 18mm Polyester Dogbone with Straitjacket keeper.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054213931038/6005176-LGY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054213931038/6005176-LGY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Hotforge Quickdraw",
+  "product_code": "6005-176",
+  "source_url": "https://www.mec.ca/en/product/6005-176/Hotforge-Quickdraw",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.2cm",
+      "2.4cm"
+    ],
+    "Gate type": [
+      "Straight + bent"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Sling length": [
+      "16cm (16cm)",
+      "12cm (12 cm)"
+    ],
+    "Sling material": [
+      "Polyester"
+    ],
+    "Sling width": [
+      "18mm"
+    ],
+    "Snag-free nose": [
+      "No"
+    ],
+    "Strength closed": [
+      "24kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "8kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "108g (16cm)",
+      "103g (12 cm)"
+    ]
+  }
+}

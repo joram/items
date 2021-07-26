@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking footwear",
+    "Footwear accessories",
+    "Traction devices",
+    "Running Ice Traction Device"
+  ],
+  "description": "Add confidence to your step. Take the fear out of winter running with these lightweight traction devices. Steel coils under the midfoot and heel improve grip. Removable steel spikes under the forefoot chew through snow and ice.Made of high-strength natural rubber, rated to -40\u00b0C.Abrasion-resistant coils are made from stainless steel. Spikes are made of carbide steel.Reflective Velcro\u00ae strap over your forefoot ensures a secure fit.Designed to slip on over your runners.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809901424670/5031877-GRY20.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809901424670/5031877-GRY20.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809901424670/5031877-GRY20.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809901424670/5031877-GRY20.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Yaktrax Running Ice Traction Device - Unisex",
+  "product_code": "5031-877",
+  "source_url": "https://www.mec.ca/en/product/5031-877/Running-Ice-Traction-Device",
+  "tech_specs": {
+    "Ideal for": [
+      "Trail running",
+      "Road running"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Strap material": [
+      "Rubber"
+    ],
+    "Traction aid material": [
+      "Steel"
+    ],
+    "Weight": [
+      "258g (Medium)"
+    ]
+  }
+}

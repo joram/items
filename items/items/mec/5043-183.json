@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Handlebars, headsets and stems",
+    "Stems",
+    "Omega Stem"
+  ],
+  "description": "Looking to do it all without blowing the budget? Look no further. The Omega stem is designed specifically for road riding, featuring 3D forged and CNC machined aluminum for strength and fatigue resistance.4-bolt cold-forged faceplate holds bar securely in position.40mm fork clamp stack height.Rise is +6 degrees.Bar diameter is 31.8mm.Steer tube: 1-1/8 inch.Sandblasted black anodizing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806924288030/5043183-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806924288030/5043183-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "FSA Omega Stem",
+  "product_code": "5043-183",
+  "source_url": "https://www.mec.ca/en/product/5043-183/Omega-Stem",
+  "tech_specs": {
+    "Diameter": [
+      "31.8mm"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Length": [
+      "70mm (70mm)",
+      "80mm (80mm)",
+      "90mm (90mm)",
+      "100mm (100mm)",
+      "110mm (110mm)",
+      "120mm (120mm)"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "6061-T6 aluminum"
+    ],
+    "Rise": [
+      "6\u00ba"
+    ],
+    "Weight": [
+      "139g (100mm)"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Ropes, cords and slings",
+    "Dynamic climbing ropes",
+    "9.9mm Rope"
+  ],
+  "description": "For rough rock and repeated thrashing, this stout rope is great for TR laps and working projects.Burly, versatile 9.9mm diameter.This is a non-dry rope that is not suitable for ice climbing or alpine terrain.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851027984414/5052307-DBL05.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851027984414/5052307-DBL05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond 9.9mm Rope",
+  "product_code": "5052-307",
+  "source_url": "https://www.mec.ca/en/product/5052-307/9-9mm-Rope",
+  "tech_specs": {
+    "Diameter": [
+      "9.9mm"
+    ],
+    "Dynamic elongation\n\nMaximum elongation in the first UIAA test fall, where a weight is attached to the rope and then dropped. Higher numbers indicate stretchier ropes.": [
+      "32%"
+    ],
+    "Halfway pattern change": [
+      "No"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Impact force\n\nThe amount of force, in kN, that the first UIAA fall puts on the falling object. Less impact force puts less force on the climber, belayer, and protection during a fall.": [
+      "8.4kN"
+    ],
+    "Length": [
+      "60m (60 Meter)",
+      "70m (70 Meter)"
+    ],
+    "Linear weight": [
+      "64g/m"
+    ],
+    "Made in": [
+      "Spain"
+    ],
+    "Static elongation\n\nIn controlled tests, a weight is suspended from the rope (not dropped). Higher numbers indicate stretchier ropes.": [
+      "7.6%"
+    ],
+    "Treatment\n\nDry ropes have a water-resistant treatment on both core and sheath. Dry (UIAA certified) ropes have both core and sheath treated, plus meet the UIAA Water Repellent standard by passing a stringent test where a soaked rope cannot absorb more than 5% of the rope's weight.": [
+      "Non-dry"
+    ],
+    "Type": [
+      "Single (9.9mm - 9.6mm)"
+    ],
+    "UIAA fall rating\n\nIndicates the number of consecutive falls a rope withstood during testing in a controlled environment. The number is for reference only, and does not indicate the number of falls a rope will withstand during actual use or over its lifespan.": [
+      "6"
+    ],
+    "Weight": [
+      "3.84kg (60 Meter)"
+    ]
+  }
+}

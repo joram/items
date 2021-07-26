@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Cooking utensils and cutting boards",
+    "Cooking utensils and food prep",
+    "Pack Grater"
+  ],
+  "description": "Savour freshly shredded cheese or chocolate with this compact, packable grater.Made of stainless steel, silicone and polycarbonate.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812605243422/5031138-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812605243422/5031138-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Pack Grater",
+  "product_code": "5031-138",
+  "source_url": "https://www.mec.ca/en/product/5031-138/Pack-Grater",
+  "tech_specs": {
+    "Dimensions": [
+      "18.2\u00a0x\u00a04\u00a0x\u00a01.2cm"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel",
+      "Silicone",
+      "Polycarbonate"
+    ],
+    "Weight": [
+      "62g"
+    ]
+  }
+}

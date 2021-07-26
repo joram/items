@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Saddles and seat posts",
+    "Seat posts",
+    "Rigid seat posts",
+    "350mm Pro Carbon Seat Post (15mm Offset)"
+  ],
+  "description": "A carbon fibre seat post to smooth out the ride. The one-piece construction is strong and crazy light.Carbon shaft and head with aluminum clamps.Compatible with standard and 7 x 9mm saddle rails.Diameters: 27.2, and 31.6mm.Torque saddle rails to 6nm.Torque seatpost clamp to 5nm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806907314206/5038112-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806907314206/5038112-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC 350mm Pro Carbon Seat Post (15mm Offset)",
+  "product_code": "5038-112",
+  "source_url": "https://www.mec.ca/en/product/5038-112/350mm-Pro-Carbon-Seat-Post-%2815mm-Offset%29",
+  "tech_specs": {
+    "Diameter": [
+      "27.2mm (27.2mm)",
+      "31.6mm (31.6mm)"
+    ],
+    "Ideal for": [
+      "Road cycling",
+      "Mountain biking"
+    ],
+    "Length": [
+      "350mm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Carbon"
+    ],
+    "Offset": [
+      "20mm"
+    ],
+    "Suspension": [
+      "No"
+    ],
+    "Weight": [
+      "185g (27.2mm)",
+      "303g (31.6mm)"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry ski boots",
+    "F1 Ski Boots"
+  ],
+  "description": "For touring focused skiers who prize lightness above all. The F1 uses carbon core technology: a carbon fibre frame runs the length of the boot to provide stiffness and power transfer, while offering progressive flex in the upper. These boots unite powerhouse performance with touring efficiency. The manual ski/walk mechanism is quick and reliable. The pivot point is 6mm further under your foot than standard to increase the efficiency of your stride. Skiers looking for downhill performance close to the Scarpa Maestrale and touring function akin to a Scarpa Alien, need look no further than the F1.Shell is high performance polyamide and Pebax with carbon for lightweight torsional rigidity and power.Pebax tongue works with the medial flex of your leg for a natural stride and seamless power transfer.Intuition Pro Flex Evo liner is thermoformable and has a flex zone for excellent mobility.Fast closure buckle combines an over-sized power strap and buckle into a weight-saving system that's super-quick to pull open and flick closed.Boa ratcheting cable closure system for a quick and secure fit.Optimized touring pivot provides a natural stride.Vibram UFO EVO sole grips on wet, snowy, rock and ice, lug pattern reduces snow build up.Forward lean is adjustable between 20 and 22-degrees.Flex index is 95.102mm last.Compatible with tech bindings only, not compatible with step-in bindings.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985465192478/5050151-ANL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986967703582/5050151-ANL00-ALT-LINER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985465192478/5050151-ANL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986967703582/5050151-ANL00-ALT-LINER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985465192478/5050151-ANL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986967703582/5050151-ANL00-ALT-LINER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985465192478/5050151-ANL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986967703582/5050151-ANL00-ALT-LINER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Scarpa F1 Ski Boots - Women's",
+  "product_code": "5050-151",
+  "source_url": "https://www.mec.ca/en/product/5050-151/F1-Ski-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "Tech"
+    ],
+    "Buckles": [
+      "1"
+    ],
+    "Flex index\n\nIndicates how stiff the boots are when flexed forward.  Flex ranges from 50 (soft) to 130 (very stiff). Note: There is currently no industry standardized test.": [
+      "95"
+    ],
+    "Forward lean\n\nForward lean affects a skiers balance. Some boots have a set forward lean angle; some are adjustable. Less lean places your knees in a more upright (almost standing) position, whereas more lean positions your knees forward over the ball of your feet.": [
+      "20-22\u00ba"
+    ],
+    "Hike mode\n\nA mechanism that allows to release the boot cuff to switch to tour mode.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Alpine touring"
+    ],
+    "Lace-up option": [
+      "Yes"
+    ],
+    "Last width\n\nThe width of the interior of the boot shell across the widest part of the forefoot.": [
+      "102mm"
+    ],
+    "Lower shell material": [
+      "Pebax",
+      "Polyamide",
+      "Carbon fibre"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Range of motion\n\nThe range of motion of the boot when in hike mode.": [
+      "62\u00ba"
+    ],
+    "Shell cuff material": [
+      "Polyamide"
+    ],
+    "Sole type\n\nAlpine Touring: with tread; compatible with DIN touring bindings. Alpine Touring Tech (Tech): with tread; compatible with G3 Onyx and Dynafit. Downhill: without tread; compatible with freeride/downhill bindings.": [
+      "Tech"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ],
+    "Weight": [
+      "2.32kg (24.5)"
+    ]
+  }
+}

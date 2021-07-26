@@ -1,0 +1,91 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth footwear",
+    "Youth boots",
+    "Youth winter boots",
+    "Flurry TP Winter Boots"
+  ],
+  "description": "Let your little ones romp in the snow for hours. The Flurry TPs will keep their feet warm and dry through endless toboggan runs or building the biggest snowman ever.Uppers are water- and wind-resistant polyurethane-coated synthetic fabric.Built-in gaiters seal out snow; barrel lock closures let little fingers use them.Adjustable Gore\u2122 and Velcro\u00ae instep straps fine-tune the fit.Inner boots are 6mm Sorel\u00ae Thermaplus recycled felt, removable for quicker drying, and washable.Midsoles are 2.5mm bonded felt for additional underfoot insulation.Outsoles are waterproof thermal rubber shells with traction enhancing multi-directional lugs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137719672862/5025572-DBT01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735237662/5025572-DBT01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735532574/5025572-DBT01-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735565342/5025572-DBT01-ALT-DOUBLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735729182/5025572-DBT01-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735827486/5025572-DBT01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735860254/5025572-DBT01-ALT-YOUTH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8972715720734/5025572-PUR33-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041720344606/5025572-BSB11.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965235539998/5025572-PUR33.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137719672862/5025572-DBT01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735237662/5025572-DBT01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735532574/5025572-DBT01-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735565342/5025572-DBT01-ALT-DOUBLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735729182/5025572-DBT01-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735827486/5025572-DBT01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735860254/5025572-DBT01-ALT-YOUTH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8972715720734/5025572-PUR33-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041720344606/5025572-BSB11.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965235539998/5025572-PUR33.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137719672862/5025572-DBT01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735237662/5025572-DBT01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735532574/5025572-DBT01-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735565342/5025572-DBT01-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735729182/5025572-DBT01-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735827486/5025572-DBT01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735860254/5025572-DBT01-ALT-YOUTH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8972715720734/5025572-PUR33-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041720344606/5025572-BSB11.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965235539998/5025572-PUR33.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137719672862/5025572-DBT01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735237662/5025572-DBT01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735532574/5025572-DBT01-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735565342/5025572-DBT01-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735729182/5025572-DBT01-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735827486/5025572-DBT01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137735860254/5025572-DBT01-ALT-YOUTH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8972715720734/5025572-PUR33-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041720344606/5025572-BSB11.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965235539998/5025572-PUR33.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sorel Flurry TP Winter Boots - Children to Youths",
+  "product_code": "5025-572",
+  "source_url": "https://www.mec.ca/en/product/5025-572/Flurry-TP-Winter-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Quick pull"
+    ],
+    "Height\n\nThe approximate boot height for the average person.": [
+      "Low calf"
+    ],
+    "Ideal for": [
+      "Snowsports"
+    ],
+    "Insulation": [
+      "6mm felt"
+    ],
+    "Lining material": [
+      "Wool felt"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Upper material": [
+      "Nylon"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ],
+    "Weight": [
+      "924g (Youth Shoe Size 3)"
+    ]
+  }
+}

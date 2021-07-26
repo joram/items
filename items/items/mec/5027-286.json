@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Flip flops",
+    "Ohana Flip"
+  ],
+  "description": "Simple footwear for spending time where the land meets the water.Water-resistant synthetic strap has cushy neoprene padding lined in quick-dry nylon.Soft nylon webbing on the toe-post.Anatomically shape moulded EVA midsole with an Iceva drop-in footbed that adds support.Outsoles are non-marking rubber with siping on the perimeter for grip on wet surfaces.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809294037022/5027286-DJV01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809294037022/5027286-DJV01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Olukai Ohana Flip - Women's",
+  "product_code": "5027-286",
+  "source_url": "https://www.mec.ca/en/product/5027-286/Ohana-Flip",
+  "tech_specs": {
+    "Antimicrobial treatment\n\nA treatment that inhibits bacteria growth and reduces odour.": [
+      "No"
+    ],
+    "Closure": [
+      "Toe thong"
+    ],
+    "Footbed": [
+      "Synthetic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Upper material": [
+      "Synthetic leather",
+      "Nylon"
+    ],
+    "Weight": [
+      "340g (7 Medium)"
+    ]
+  }
+}

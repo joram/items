@@ -1,0 +1,98 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Daypacks and school bags",
+    "Daypacks",
+    "Junior Daypack"
+  ],
+  "description": "A comfy pack with just enough room for your young one\u2019s outdoor essentials. Let them be self-sufficient on day trips or share the load on overnighters.For children 5 years and older.Made of sturdy polyurethane-coated polyester.Comfortable, well-ventilated padded back.S-shaped shoulder straps with soft edges.D-rings on lid for clipping on cups, toys, etc.Sternum strap.Name tag on the inside.2 zippered front pockets and 2 mesh side pockets.Reflective loop for safety light.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163008278558/5060198-VIN12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162493820958/5060198-VIN12-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162493853726/5060198-VIN12-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162493886494/5060198-VIN12-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091647897630/5060198-DNY01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091648061470/5060198-DNY01-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968180760606/5060198-NVY89.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091427270686/5060198-DNY01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163008278558/5060198-VIN12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162493820958/5060198-VIN12-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162493853726/5060198-VIN12-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162493886494/5060198-VIN12-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091647897630/5060198-DNY01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091648061470/5060198-DNY01-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968180760606/5060198-NVY89.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091427270686/5060198-DNY01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163008278558/5060198-VIN12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162493820958/5060198-VIN12-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162493853726/5060198-VIN12-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162493886494/5060198-VIN12-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091647897630/5060198-DNY01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091648061470/5060198-DNY01-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968180760606/5060198-NVY89.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091427270686/5060198-DNY01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163008278558/5060198-VIN12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162493820958/5060198-VIN12-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162493853726/5060198-VIN12-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162493886494/5060198-VIN12-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091647897630/5060198-DNY01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091648061470/5060198-DNY01-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968180760606/5060198-NVY89.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091427270686/5060198-DNY01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Deuter Junior Daypack - Children to Youths",
+  "product_code": "5060-198",
+  "source_url": "https://www.mec.ca/en/product/5060-198/Junior-Daypack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top"
+    ],
+    "Additional feature(s)": [
+      "Reflective details",
+      "Compression straps"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Depth": [
+      "19cm"
+    ],
+    "Dynamic suspension\n\nThe hipbelt and/or shoulder straps of the pack are designed to move, pivot or flex to follow your body\u2019s movements.  Each brand uses their own technology.": [
+      "No"
+    ],
+    "Hipbelt": [
+      "None"
+    ],
+    "Ideal for": [
+      "School",
+      "Day hiking"
+    ],
+    "Length": [
+      "43cm"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "600-denier polyester"
+    ],
+    "Ventilated back panel": [
+      "No"
+    ],
+    "Volume": [
+      "18L"
+    ],
+    "Weight": [
+      "420g"
+    ],
+    "Width": [
+      "24cm"
+    ]
+  }
+}

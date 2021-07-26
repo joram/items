@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "West Kootenay Rock Guide"
+  ],
+  "description": "The West Kootenay region in south-central BC is dotted with quaint heritage towns where the locals revere big lines, backcountry touring, and steep mountain biking. The granite may be bigger and more established in Squamish, but the weather is drier in the Kootenays and the climbing scene is budding. This guide covers over 400 climbs from classic alpine routes to lakeside sport crags.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815602991134/5020654-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815602991134/5020654-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "West Kootenay Rock Guide",
+  "product_code": "5020-654",
+  "source_url": "https://www.mec.ca/en/product/5020-654/West-Kootenay-Rock-Guide",
+  "tech_specs": {
+    "Author": [
+      "Aaron Kristianson, Vince Hempsall"
+    ],
+    "ISBN": [
+      "9780981262208"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Alpine climbing and mountaineering"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "162"
+    ],
+    "Published": [
+      "2009"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

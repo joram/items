@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Swimsuits",
+    "Two-piece swimsuits",
+    "Swim tops",
+    "Tamarindo Top"
+  ],
+  "description": "This sporty bikini top has criss-cross rear straps with a tie closure, to enable the top to be worn \"just-so\" for casual swimming, or tied tightly if you're headed into major curlers.Made of nylon and spandex with 4-way stretch.Chest pads can be removed.Fabric has a 50+ UPF rating.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189846712350/5039651-HIB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189853429790/5039651-HIB00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189853560862/5039651-HIB00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189846712350/5039651-HIB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189853429790/5039651-HIB00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189853560862/5039651-HIB00-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189846712350/5039651-HIB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189853429790/5039651-HIB00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189853560862/5039651-HIB00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189846712350/5039651-HIB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189853429790/5039651-HIB00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189853560862/5039651-HIB00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Carve Designs Tamarindo Top - Women's",
+  "product_code": "5039-651",
+  "source_url": "https://www.mec.ca/en/product/5039-651/Tamarindo-Top",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Removable cups"
+    ],
+    "Fabric content": [
+      "85% nylon",
+      "15% spandex"
+    ],
+    "Ideal for": [
+      "Beach",
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

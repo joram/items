@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth footwear",
+    "Youth shoes",
+    "Youth hiking shoes",
+    "Nitrel v4 Shoes"
+  ],
+  "description": "Footwear for free-range kids. These lightweight shoes use New Balance's AT Tread outsole, which combines trail and road running lug patterns for grip on every adventure. The printed overlay keeps feet locked in so kids can run, jump and scramble with sure-footedness.Synthetic and mesh upper provides a comfy fit.Printed overlays protect high wear areas and hold feet in place.Injection-moulded EVA midsole for cushion and comfort.All-terrain rubber outsole for durable grip on the trail or pavement.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162985242654/6010017-GAY01-ALt-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162985209886/6010017-GAY01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162985537566/6010017-GAY01-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163012079646/6010017-GAY01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162985242654/6010017-GAY01-ALt-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162985209886/6010017-GAY01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162985537566/6010017-GAY01-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163012079646/6010017-GAY01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162985242654/6010017-GAY01-ALt-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162985209886/6010017-GAY01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162985537566/6010017-GAY01-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163012079646/6010017-GAY01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162985242654/6010017-GAY01-ALt-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162985209886/6010017-GAY01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162985537566/6010017-GAY01-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163012079646/6010017-GAY01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "New Balance Nitrel v4 Shoes - Children to Youths",
+  "product_code": "6010-017",
+  "source_url": "https://www.mec.ca/en/product/6010-017/Nitrel-v4-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Running"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Synthetic"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

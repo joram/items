@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Casual sandals",
+    "Lynnden Sandals"
+  ],
+  "description": "Step into summer with these chic sandals. They combine a classic strap design with a modern sole that offers support and cushioning for long days.Supple suede uppers.Adjustable heels strap.Ergonomic footbed and a supportive EVA midsole.Grippy rubber outsole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074708185118/6006230-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704482334/6006230-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704613406/6006230-BK000-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704580638/6006230-BK000-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704875550/6006230-BK000-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704777246/6006230-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074708185118/6006230-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704482334/6006230-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704613406/6006230-BK000-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704580638/6006230-BK000-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704875550/6006230-BK000-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704777246/6006230-BK000-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074708185118/6006230-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704482334/6006230-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704613406/6006230-BK000-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704580638/6006230-BK000-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704875550/6006230-BK000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704777246/6006230-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074708185118/6006230-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704482334/6006230-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704613406/6006230-BK000-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704580638/6006230-BK000-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704875550/6006230-BK000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074704777246/6006230-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "UGG Lynnden Sandals - Women's",
+  "product_code": "6006-230",
+  "source_url": "https://www.mec.ca/en/product/6006-230/Lynnden-Sandals",
+  "tech_specs": {
+    "Closure": [
+      "Adjustable strap"
+    ],
+    "Footbed": [
+      "Leather"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable insole": [
+      "No"
+    ],
+    "Upper material": [
+      "Suede"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Kayaks",
+    "Touring Kayaks",
+    "Aventura 110 Skeg Kayak"
+  ],
+  "description": "Touring made easy. This sturdy kayak brings a full feature-set to a comfortable and versatile design. With a skeg plus the option of a rudder, you get added control for flat, moving or ocean use.Stable hull design made of durable roto-moulded plastic, with drop down skeg.Foam sealed bulkhead at the stern.Oversized sit-inside cockpit, with adjustable thigh braces.Full sized seat, with adjustable high back rest.Deck bungees.Stern hatch.Optional rudder (sold separately).Removable skid plate.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088585859102/6008935-GRN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088585859102/6008935-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Feelfree Aventura 110 Skeg Kayak",
+  "product_code": "6008-935",
+  "source_url": "https://www.mec.ca/en/product/6008-935/Aventura-110-Skeg-Kayak",
+  "tech_specs": {
+    "Beam": [
+      "69cm (27in.)"
+    ],
+    "Hull material": [
+      "Single-layer roto-moulded plastic"
+    ],
+    "Ideal for": [
+      "Kayak touring",
+      "Light kayak touring",
+      "Cottage and recreational kayaking"
+    ],
+    "Length": [
+      "3.3m\u00a0(10ft.\u00a010in.)"
+    ],
+    "Load": [
+      "0-122kg (0-270lb.)"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Weight": [
+      "23.5kg"
+    ]
+  }
+}

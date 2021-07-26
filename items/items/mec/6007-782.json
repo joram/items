@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike helmets and body armour",
+    "Bike helmets",
+    "Signal MIPS Helmet"
+  ],
+  "description": "Head protection for everyday riding. Grab this helmet for workday commutes or weekend tours. It's loaded with vents for summertime comfort, with an adjustable dial fit system that's quick and fuss-free. MIPs adds an extra level of protection for your one-of-a-kind brain.Light in-mold construction absorbs shock from impact without excess weight.Multi-directional Impact Protection System (MIPS) protects your brain from rotational forces.VaporFit system is easy to adjust for a custom fit.AirEvac ventilation features 21 vents for optimal air flow.Performance liner manages moisture effectively and comfortably.Helmet design makes it easy to wear sunglasses or secure them on top.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088329646110/6007782-NYL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076116979742/6007782-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088329646110/6007782-NYL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076116979742/6007782-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088329646110/6007782-NYL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076116979742/6007782-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088329646110/6007782-NYL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076116979742/6007782-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smith Signal MIPS Helmet - Unisex",
+  "product_code": "6007-782",
+  "source_url": "https://www.mec.ca/en/product/6007-782/Signal-MIPS-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Cycling"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Molded in the shell"
+    ],
+    "Fit system": [
+      "Adjustable dial",
+      "Interchangeable foam pads"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "EN 1078",
+      "CPSC"
+    ],
+    "Vents": [
+      "Yes"
+    ],
+    "Weight": [
+      "300g (Medium)"
+    ]
+  }
+}

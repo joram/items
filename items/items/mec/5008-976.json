@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax",
+    "Mach Alpine Speedwax 500g"
+  ],
+  "description": "Three flavours of general-purpose alpine glidewax. Though it may seem counter-intuitive, the alpine glidewaxes are a little softer than and less persistent than the nordic versions.500g packages, each sold separately.Yellow -5\u00b0C and above (moist snow), Red -5\u00b0C to -9\u00b0C (universal), Green -9\u00b0C and below (cold).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817195253790/5008976-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817194893342/5008976-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817195253790/5008976-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817194893342/5008976-GRN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817195253790/5008976-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817194893342/5008976-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817195253790/5008976-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817194893342/5008976-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kuu Mach Alpine Speedwax 500g",
+  "product_code": "5008-976",
+  "source_url": "https://www.mec.ca/en/product/5008-976/Mach-Alpine-Speedwax-500g",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Cross-country skiing",
+      "Snowboarding",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "State": [
+      "Bar"
+    ],
+    "Temperature range": [
+      "\u2264-9\u00b0C",
+      "-9/-5\u00b0C",
+      "\u2265-5\u00b0C"
+    ],
+    "Type": [
+      "Glide"
+    ],
+    "Weight": [
+      "500g"
+    ]
+  }
+}

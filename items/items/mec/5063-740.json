@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Hydration packs and accessories",
+    "Bladders, reservoirs and accessories",
+    "Big Zip EVO Shutoff Valve"
+  ],
+  "description": "Did the dog chew you valve? If you need a replacement valve, here's one for your Big Zip EVO reservoir.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027032055838/5063740-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028065132574/5063740-BL000-ALT-OPENANDCLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027032055838/5063740-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028065132574/5063740-BL000-ALT-OPENANDCLOSED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027032055838/5063740-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028065132574/5063740-BL000-ALT-OPENANDCLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027032055838/5063740-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028065132574/5063740-BL000-ALT-OPENANDCLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Platypus Big Zip EVO Shutoff Valve",
+  "product_code": "5063-740",
+  "source_url": "https://www.mec.ca/en/product/5063-740/Big-Zip-EVO-Shutoff-Valve",
+  "tech_specs": {
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking",
+      "Mountain biking",
+      "Running"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

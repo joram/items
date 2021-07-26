@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "On Rope 2nd Edition"
+  ],
+  "description": "Learn single rope technique with this newly, revised authoritative guide. This edition provides a practical approach to North American vertical rope work. It contains over 700 drawings and includes detailed descriptions of ropes uses and rigging: arboreal, river rescue, window cleaning, and circus rigging among others. Coverage of European single-rope techniques and climbing systems is also expanded in this edition.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815704571934/0505248-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815704571934/0505248-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "On Rope 2nd Edition",
+  "product_code": "0505-248",
+  "source_url": "https://www.mec.ca/en/product/0505-248/On-Rope-2nd-Edition",
+  "tech_specs": {
+    "Author": [
+      "Bruce Smith, Allen Padgett"
+    ],
+    "Edition": [
+      "2nd"
+    ],
+    "ISBN": [
+      "9781879961050"
+    ],
+    "Ideal for": [
+      "Climbing training"
+    ],
+    "Illustrator": [
+      "Ron Buffington"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "382"
+    ],
+    "Published": [
+      "1997"
+    ],
+    "Weight": [
+      "1.38kg"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Casual sandals",
+    "Rose Leather Sandals"
+  ],
+  "description": "Charming, feminine footwear you can wear in the backcountry without stopping at streams. Durable uppers and closed-toe protection keep these adventure sandals going through the long haul.Leather uppers are highly abrasion-resistant.Hook-and-loop closures adjust for a snug, comfortable fit.Quick-drying mesh lining keep feet dry during active use.EVA footbeds and midsoles cradle and cushion your feet.Non-marking rubber with multi-directional lugs for traction at any angle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088616398878/6005894-TAN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621608990/6005894-TAN00-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621641758/6005894-TAN00-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621674526/6005894-TAN00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621772830/6005894-TAN00-ALT-TOESOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621805598/6005894-TAN00-ALT-TOPSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088616398878/6005894-TAN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621608990/6005894-TAN00-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621641758/6005894-TAN00-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621674526/6005894-TAN00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621772830/6005894-TAN00-ALT-TOESOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621805598/6005894-TAN00-ALT-TOPSIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088616398878/6005894-TAN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621608990/6005894-TAN00-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621641758/6005894-TAN00-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621674526/6005894-TAN00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621772830/6005894-TAN00-ALT-TOESOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621805598/6005894-TAN00-ALT-TOPSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088616398878/6005894-TAN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621608990/6005894-TAN00-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621641758/6005894-TAN00-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621674526/6005894-TAN00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621772830/6005894-TAN00-ALT-TOESOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088621805598/6005894-TAN00-ALT-TOPSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Keen Rose Leather Sandals - Women's",
+  "product_code": "6005-894",
+  "source_url": "https://www.mec.ca/en/product/6005-894/Rose-Leather-Sandals",
+  "tech_specs": {
+    "Closure": [
+      "Hook-and-loop"
+    ],
+    "Footbed": [
+      "EVA"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Upper material": [
+      "Leather"
+    ]
+  }
+}

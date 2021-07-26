@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Keelie Top"
+  ],
+  "description": "If your perfect summer day starts at the farmer\u2019s market and ends dangling your toes off a dock, this is your top.Soft organic cotton weave has distinct embroidery.Lace detailing at the seams.Sewn in a certified fair trade factory.Relaxed fit has a cool, all-day comfort.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content\n\n\n\n\n\n\nFairTrade\n\n\n\n\n\n\n\n\n\n\n\n                      Certified Fair Trade",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192813428766/6015858-SWT03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192823816222/6015858-QUN01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192823914526/6015858-QUN01-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192813330462/6015858-QUN01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192813428766/6015858-SWT03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192823816222/6015858-QUN01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192823914526/6015858-QUN01-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192813330462/6015858-QUN01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192813428766/6015858-SWT03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192823816222/6015858-QUN01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192823914526/6015858-QUN01-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192813330462/6015858-QUN01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192813428766/6015858-SWT03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192823816222/6015858-QUN01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192823914526/6015858-QUN01-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192813330462/6015858-QUN01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Keelie Top - Women's",
+  "product_code": "6015-858",
+  "source_url": "https://www.mec.ca/en/product/6015-858/Keelie-Top",
+  "tech_specs": {
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "India"
+    ],
+    "Product sustainability": [
+      "Organically grown content",
+      "Certified Fair Trade"
+    ]
+  }
+}

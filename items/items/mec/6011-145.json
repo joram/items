@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Batteries",
+    "Alkaline batteries",
+    "303/357 1.5V Silver Oxide Cell Battery"
+  ],
+  "description": "A quality Duracell battery to power your favourite small devices.Also known as: 280-03, 280-08, 303/357, D303/357, SB-A9, SR 1154 SW, SR 44 SW, SR 44SW, SR44SW, WS14.Common application: calculators, watches, lights, bike computers, and medical equipment.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145837781022/6011145-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145844138014/6011145-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145837781022/6011145-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145844138014/6011145-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145837781022/6011145-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145844138014/6011145-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145837781022/6011145-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145844138014/6011145-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Duracell 303/357 1.5V Silver Oxide Cell Battery",
+  "product_code": "6011-145",
+  "source_url": "https://www.mec.ca/en/product/6011-145/303-357-1-5V-Silver-Oxide-Cell-Battery",
+  "tech_specs": {
+    "Capacity": [
+      "175mAh"
+    ],
+    "Chemistry": [
+      "Silver-ion"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Switzerland"
+    ],
+    "Rechargeable": [
+      "No"
+    ]
+  }
+}

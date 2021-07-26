@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Pots and pot sets",
+    "Pots",
+    "Alpine StowAway Pot"
+  ],
+  "description": "A classic camping pot with a lid and folding handle. Stainless steel is durable to stand up to knocks and rough handling. It's budget too, so great for cabin and cottage use.Made of high-quality stainless steel.Hinged handles lock the lids on to store stuff when you're not cooking.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812526239774/5040046-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812526239774/5040046-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Alpine StowAway Pot",
+  "product_code": "5040-046",
+  "source_url": "https://www.mec.ca/en/product/5040-046/Alpine-StowAway-Pot",
+  "tech_specs": {
+    "Foldable handle": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Includes": [
+      "1 pot"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Non-stick": [
+      "No"
+    ],
+    "Weight": [
+      "365g (775 ml)"
+    ]
+  }
+}

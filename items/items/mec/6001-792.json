@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Snow and ice protection",
+    "Ice screws",
+    "Octo Bag"
+  ],
+  "description": "A foldable pouch that protects your gear from your ice screws. A mesh pocket holds additional accessories like files or frontpoint replacements.Holds up to 12 screws, 8 in individual slots and 4 between each double slot.Compatible with 9 to 21cm ice screws.Made with TPU coated polyester.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044462370846/6001792-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044442480670/6001792-NOC02-ALT-WGEAR1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044442644510/6001792-NOC02-ALT-WGEAR2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044442742814/6001792-NOC02-ALT-WGEAR3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044462370846/6001792-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044442480670/6001792-NOC02-ALT-WGEAR1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044442644510/6001792-NOC02-ALT-WGEAR2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044442742814/6001792-NOC02-ALT-WGEAR3.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044462370846/6001792-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044442480670/6001792-NOC02-ALT-WGEAR1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044442644510/6001792-NOC02-ALT-WGEAR2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044442742814/6001792-NOC02-ALT-WGEAR3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044462370846/6001792-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044442480670/6001792-NOC02-ALT-WGEAR1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044442644510/6001792-NOC02-ALT-WGEAR2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044442742814/6001792-NOC02-ALT-WGEAR3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Octo Bag",
+  "product_code": "6001-792",
+  "source_url": "https://www.mec.ca/en/product/6001-792/Octo-Bag",
+  "tech_specs": {
+    "Ideal for": [
+      "Ice climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "160g"
+    ]
+  }
+}

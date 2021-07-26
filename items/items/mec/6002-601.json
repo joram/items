@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Shoes",
+    "Sneakers and casual shoes",
+    "Fres Felt Sneakers"
+  ],
+  "description": "Soft, breathable sneakers, easy to pack, easy to wear and made of felted wool. A comfy, padded collar cradles your heel and EVA foam  underfoot provides great cushioning and rebound.5mm wool and nylon felted uppers have TPU overlays.Fleece lined for warmth.EVA foam footbed is comfortable and supportive.Compression-moulded EVA and rubber midsole.Rubber sole sticks to polished floors.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049361842206/6002601-DVG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049372852254/6002601-DVG01-ALT-FABRIC.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373081630/6002601-DVG01-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373114398/6002601-DVG01-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373212702/6002601-DVG01-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373245470/6002601-DVG01-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373343774/6002601-DVG01-ALT-TOPSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049361842206/6002601-DVG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049372852254/6002601-DVG01-ALT-FABRIC.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373081630/6002601-DVG01-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373114398/6002601-DVG01-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373212702/6002601-DVG01-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373245470/6002601-DVG01-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373343774/6002601-DVG01-ALT-TOPSIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049361842206/6002601-DVG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049372852254/6002601-DVG01-ALT-FABRIC.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373081630/6002601-DVG01-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373114398/6002601-DVG01-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373212702/6002601-DVG01-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373245470/6002601-DVG01-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373343774/6002601-DVG01-ALT-TOPSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049361842206/6002601-DVG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049372852254/6002601-DVG01-ALT-FABRIC.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373081630/6002601-DVG01-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373114398/6002601-DVG01-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373212702/6002601-DVG01-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373245470/6002601-DVG01-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049373343774/6002601-DVG01-ALT-TOPSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kari Traa Fres Felt Sneakers - Women's",
+  "product_code": "6002-601",
+  "source_url": "https://www.mec.ca/en/product/6002-601/Fres-Felt-Sneakers",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Upper material": [
+      "Wool felt",
+      "Synthetic"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

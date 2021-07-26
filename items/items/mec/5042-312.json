@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Money belts and wallets",
+    "WB Wallet"
+  ],
+  "description": "From the water-resistant coating, to the built-in RFID shield and the luggage-grade zipper, this travel wallet offers everyday practicality no matter what part of the globe you're trotting.Made of polyester with a water resistant coating.Aluminum RFID shield layer sandwiched between lining and outer fabric prevents information theft from chipped cards or documents.Clamshell access to the main compartment uses a luggage grade YKK zipper.6 card slots.Large zippered pocket for coins.Three interior sleeves hold documents or bills.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8918540255262/5042312-BK200.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8918561980446/5042312-BK200-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8918540255262/5042312-BK200.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8918561980446/5042312-BK200-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8918540255262/5042312-BK200.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8918561980446/5042312-BK200-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8918540255262/5042312-BK200.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8918561980446/5042312-BK200-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC WB Wallet",
+  "product_code": "5042-312",
+  "source_url": "https://www.mec.ca/en/product/5042-312/WB-Wallet",
+  "tech_specs": {
+    "Depth": [
+      "1.7cm"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Travel"
+    ],
+    "Length": [
+      "20cm"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "600-denier polyester"
+    ],
+    "Weight": [
+      "125g"
+    ],
+    "Width": [
+      "10cm"
+    ]
+  }
+}

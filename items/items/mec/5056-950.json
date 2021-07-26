@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking footwear",
+    "Footwear accessories",
+    "Traction devices",
+    "Ultra Light Cleats"
+  ],
+  "description": "A simple solution to walk with confidence on icy sidewalks and driveways.Elastic strap fits over most boots and shoes.5 replaceable steel cleats provide grip.One size fits all.Cleats provide traction for the forefoot only, so are not designed for running or heavy use.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165571325982/5056950-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165571325982/5056950-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Life-Sports Ultra Light Cleats - Unisex",
+  "product_code": "5056-950",
+  "source_url": "https://www.mec.ca/en/product/5056-950/Ultra-Light-Cleats",
+  "tech_specs": {
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ],
+    "Strap material": [
+      "Polyester"
+    ],
+    "Traction aid material": [
+      "Steel"
+    ]
+  }
+}

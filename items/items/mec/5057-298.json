@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Freedom Of The Hills 9th Edition"
+  ],
+  "description": "This classic mountaineering text is considered the bible for climbers and mountaineers. The first edition was published in 1960, and we've sold this book since MEC's earliest days. Mountaineering: The Freedom of the Hills includes sections about equipment, tying knots, specific climbing techniques, glacier and mountain travel, and expedition planning. Major updates in this edition include an expanded chapter on avalanche safety, new alignment with AAC's nationwide universal belay standard, detailed revisions to the information provided about clothing and camping, and a fresh approach to the Ten Essentials. The content is reviewed and updated by a team of expert climbers and climbing educators.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932452663326/5057298-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932452663326/5057298-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The Mountaineers Books Freedom Of The Hills 9th Edition",
+  "product_code": "5057-298",
+  "source_url": "https://www.mec.ca/en/product/5057-298/Freedom-Of-The-Hills-9th-Edition",
+  "tech_specs": {
+    "Edition": [
+      "9th"
+    ],
+    "ISBN": [
+      "9781680510041"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "624"
+    ],
+    "Published": [
+      "2017"
+    ]
+  }
+}

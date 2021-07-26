@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Shoes",
+    "Sneakers and casual shoes",
+    "UltraRange EXO Shoes"
+  ],
+  "description": "Lightweight shoes with a laidback sneaker vibe. They look casual but contain lots of subtle tech to enhance your comfort.Supple textile and synthetic uppers.UltraCush\u00ae tongue has airflow ports for improved breathability.Rugged RapidWeld\u00ae construction details.Plush Ultracush, full-length midsole.Supportive EXO skeleton cradles the forefoot and securely cups the heel for all-day comfort.Super-grippy reverse lug waffle-cut soles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164013371422/6013032-DBW10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025364510/6013032-DBW10-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025430046/6013032-DBW10-ALT-DOUBLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025561118/6013032-DBW10-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025692190/6013032-DBW10-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164013371422/6013032-DBW10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025364510/6013032-DBW10-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025430046/6013032-DBW10-ALT-DOUBLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025561118/6013032-DBW10-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025692190/6013032-DBW10-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164013371422/6013032-DBW10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025364510/6013032-DBW10-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025430046/6013032-DBW10-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025561118/6013032-DBW10-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025692190/6013032-DBW10-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164013371422/6013032-DBW10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025364510/6013032-DBW10-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025430046/6013032-DBW10-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025561118/6013032-DBW10-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164025692190/6013032-DBW10-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vans UltraRange EXO Shoes - Men's",
+  "product_code": "6013-032",
+  "source_url": "https://www.mec.ca/en/product/6013-032/UltraRange-EXO-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Nylon",
+      "Synthetic leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

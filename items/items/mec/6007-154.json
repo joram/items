@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Rashguards and sunguards",
+    "Calder Short Sleeve Top"
+  ],
+  "description": "Catch gnarly waves, not a gnarly sunburn. Quick-drying fabric offers all-day sun protection, while the free and easy cut lets you focus on dropping in.Made of polyester blended with spandex.Provides 50+ UPF protection.Screen printed design.Regular fit.\n\n        Sustainability\n\n\n\n\n\n\n\n\nBluesign\n\n\n\n\n\n\n\n\n\n\n\n                      Bluesign\u00ae Approved Material",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086983274526/6007154-ASH37.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087011782686/6007154-ASH37-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087011848222/6007154-ASH37-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087011880990/6007154-ASH37-ALT-SHOULDER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086983274526/6007154-ASH37.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087011782686/6007154-ASH37-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087011848222/6007154-ASH37-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087011880990/6007154-ASH37-ALT-SHOULDER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086983274526/6007154-ASH37.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087011782686/6007154-ASH37-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087011848222/6007154-ASH37-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087011880990/6007154-ASH37-ALT-SHOULDER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086983274526/6007154-ASH37.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087011782686/6007154-ASH37-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087011848222/6007154-ASH37-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087011880990/6007154-ASH37-ALT-SHOULDER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Calder Short Sleeve Top - Men's",
+  "product_code": "6007-154",
+  "source_url": "https://www.mec.ca/en/product/6007-154/Calder-Short-Sleeve-Top",
+  "tech_specs": {
+    "Fabric content": [
+      "86% polyester",
+      "14% spandex"
+    ],
+    "Ideal for": [
+      "Beach",
+      "Watersports"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Product sustainability": [
+      "Bluesign\u00ae Approved Material"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

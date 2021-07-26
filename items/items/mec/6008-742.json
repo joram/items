@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Pots and pot sets",
+    "Pots",
+    "Trek Pot 1.0L"
+  ],
+  "description": "Trekking and thru-hiking cooking at it's finest. This small and lightweight pot and pan set gives you cooking options, and a non-stick coating aids with clean-up.Made of hard anodized aluminum with a ceramic non-stick coating.Pan doubles as lid.Thicker bottoms reduce risk of burning.Locking pot grips can be removed and mounted for packing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100001181726/6008742-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099998232606/6008742-NOC02-ALT-POT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099998593054/6008742-NOC02-ALT-SET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099998658590/6008742-NOC02-ALT-SET2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100001181726/6008742-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099998232606/6008742-NOC02-ALT-POT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099998593054/6008742-NOC02-ALT-SET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099998658590/6008742-NOC02-ALT-SET2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100001181726/6008742-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099998232606/6008742-NOC02-ALT-POT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099998593054/6008742-NOC02-ALT-SET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099998658590/6008742-NOC02-ALT-SET2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100001181726/6008742-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099998232606/6008742-NOC02-ALT-POT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099998593054/6008742-NOC02-ALT-SET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099998658590/6008742-NOC02-ALT-SET2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Primus Trek Pot 1.0L",
+  "product_code": "6008-742",
+  "source_url": "https://www.mec.ca/en/product/6008-742/Trek-Pot-1-0L",
+  "tech_specs": {
+    "Diameter": [
+      "11.7cm"
+    ],
+    "Dimensions": [
+      "11.7\u00a0x\u00a014.5cm"
+    ],
+    "Foldable handle": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Includes": [
+      "1 pot",
+      "1 frying pan",
+      "Pot gripper"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Hard-anodized aluminum"
+    ],
+    "Non-stick": [
+      "Yes"
+    ],
+    "Volume": [
+      "1L"
+    ],
+    "Weight": [
+      "270g"
+    ]
+  }
+}

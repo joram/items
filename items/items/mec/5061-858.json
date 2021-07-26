@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Climbing chalk",
+    "Bam Bam Chalk 284g"
+  ],
+  "description": "Like peanut butter or salsa, people like different things. This chalk has a super-chunky texture so you crush it between your fingers before you set off with purpose.Contains pure chalk with no potentially harmful drying agents or impurities.Won't overdry your skin, and protects it from drying out or cracking.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8982953820190/5061858-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8982953820190/5061858-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Friction Labs Bam Bam Chalk 284g",
+  "product_code": "5061-858",
+  "source_url": "https://www.mec.ca/en/product/5061-858/Bam-Bam-Chalk-284g",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing",
+      "Bouldering",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Type of chalk": [
+      "Loose"
+    ],
+    "Weight": [
+      "284g"
+    ]
+  }
+}

@@ -1,1 +1,1 @@
-from .product import Product  # noqa
+from .item import Item  # noqa

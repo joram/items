@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Base layers and underwear",
+    "Base layers",
+    "Base layer bottoms",
+    "Rose Pants"
+  ],
+  "description": "Maximum warmth for cold days, the Kari Traa Rose Pant help you build your defense against heat-sneaking winter. The pure merino fabric is super-fine, soft and offers complete freedom of movement. The knit rose pattern and contrasting seams? Just a nod to their hometown of Trysil, Norway.240-denier merino wool has 4-way stretch for unrestricted motion.Fabric wicks moisture to keep you dry and is naturally antimicrobial for comfort and odour management.180-denier side panels add breathability.Elastic waistband for an all-day snug fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928349726/5058308-SHE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928316958/5058308-SHE00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928382494/5058308-SHE00-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928349726/5058308-SHE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928316958/5058308-SHE00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928382494/5058308-SHE00-ALT-FULL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928349726/5058308-SHE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928316958/5058308-SHE00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928382494/5058308-SHE00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928349726/5058308-SHE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928316958/5058308-SHE00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133928382494/5058308-SHE00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kari Traa Rose Pants - Women's",
+  "product_code": "5058-308",
+  "source_url": "https://www.mec.ca/en/product/5058-308/Rose-Pants",
+  "tech_specs": {
+    "Antimicrobial treatment\n\nA treatment that inhibits bacteria growth and reduces odour.": [
+      "No"
+    ],
+    "Fabric content": [
+      "100% merino wool"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "240gsm"
+    ],
+    "Ideal for": [
+      "Snowsports",
+      "Camping and hiking",
+      "Alpine climbing and mountaineering"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Type": [
+      "Base layer"
+    ]
+  }
+}

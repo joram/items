@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bug spray and bug nets",
+    "Bug shirts and bug jackets",
+    "Original Bug Shirt"
+  ],
+  "description": "This bug-battling shirt provides a barrier between you and the midges, flies and mosquitoes, and cuts down the need for using chemical repellents.Polyester with UV protection.Loose fit, mesh sides for breathability.Adjustable zippered mesh hood has a drawstring to work with or without a hat.Adjustable wrists; drawstring with cordlock waist.Shirt folds up into its own carrying pocket.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809985441822/5047909-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809985441822/5047909-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Original Bug Shirt Company Original Bug Shirt - Unisex",
+  "product_code": "5047-909",
+  "source_url": "https://www.mec.ca/en/product/5047-909/Original-Bug-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

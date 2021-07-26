@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "Steel Oval Screwgate Carabiner"
+  ],
+  "description": "A steel carabiner, great for top-roping and other high-wear climbing use. Also good for working with pulleys in rescue systems.Zinc plated steel.Screwgate closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807129514014/5038878-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807129514014/5038878-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Steel Oval Screwgate Carabiner",
+  "product_code": "5038-878",
+  "source_url": "https://www.mec.ca/en/product/5038-878/Steel-Oval-Screwgate-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "1.8cm"
+    ],
+    "Gate type": [
+      "Straight"
+    ],
+    "Ideal for": [
+      "High angle rescue"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Screwgate"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Zinc-plated steel"
+    ],
+    "Strength closed": [
+      "25kN"
+    ],
+    "Strength cross-loaded": [
+      "7kN"
+    ],
+    "Strength open": [
+      "10kN"
+    ],
+    "Weight": [
+      "165g"
+    ]
+  }
+}

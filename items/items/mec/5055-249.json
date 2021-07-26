@@ -1,0 +1,91 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training food and drinks",
+    "Energy gels and chews",
+    "Chia Energy Gel Mocha"
+  ],
+  "description": "Rich mocha-y goodness in an all-natural energy gel. Huma gels use no-nonsense all-natural ingredients that are easy to understand and easy to digest.Ingredients: Evaporated cane juice, brown rice syrup, filtered water, cocoa powder, milled chia seeds, cocoa butter, vanilla, sea salt, coffee, natural caffeine.50mg of natural caffeine for an extra boost of energy.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879404613662/5055249-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879404613662/5055249-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Huma Chia Energy Gel Mocha",
+  "product_code": "5055-249",
+  "source_url": "https://www.mec.ca/en/product/5055-249/Chia-Energy-Gel-Mocha",
+  "tech_specs": {
+    "Best consumed": [
+      "During exercise"
+    ],
+    "Caffeine": [
+      "50mg"
+    ],
+    "Calories per serving": [
+      "100Cal"
+    ],
+    "Carbohydrates": [
+      "25g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "1g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycling",
+      "Running"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Potassium": [
+      "25mg"
+    ],
+    "Protein": [
+      "1g"
+    ],
+    "Saturated fat": [
+      "0g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "105mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "15g"
+    ],
+    "Total fat": [
+      "1g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "36g"
+    ]
+  }
+}

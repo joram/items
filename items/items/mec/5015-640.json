@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Camp stoves and grills",
+    "Backcountry stoves",
+    "Fuel bottles and pumps",
+    "Fuel Bottle"
+  ],
+  "description": "This container stores and transports fuels such as white gas and kerosene. A child resistant cap is included, and the standard connecting threads accept the pump from MSR\u2122 liquid fuel stoves.Made of ultralight, extruded, seamless aluminum.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049610321950/5015640-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623035934/5015640-NOC02-ALT-ALLSIZESBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623232542/5015640-NOC02-ALT-ALLSIZES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623199774/5015640-NOC02-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049610321950/5015640-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623035934/5015640-NOC02-ALT-ALLSIZESBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623232542/5015640-NOC02-ALT-ALLSIZES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623199774/5015640-NOC02-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049610321950/5015640-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623035934/5015640-NOC02-ALT-ALLSIZESBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623232542/5015640-NOC02-ALT-ALLSIZES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623199774/5015640-NOC02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049610321950/5015640-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623035934/5015640-NOC02-ALT-ALLSIZESBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623232542/5015640-NOC02-ALT-ALLSIZES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623199774/5015640-NOC02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Fuel Bottle",
+  "product_code": "5015-640",
+  "source_url": "https://www.mec.ca/en/product/5015-640/Fuel-Bottle",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

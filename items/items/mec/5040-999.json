@@ -1,0 +1,85 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training food and drinks",
+    "Energy gels and chews",
+    "Roctane Lemonade Gel"
+  ],
+  "description": "This gel shot contains an amino acid blend designed to provide nutritional support for extended sessions and endurance sports. The Roctane blend is fuel for activities that require focus, concentration and sustained mental acuity.Ingredients: Matodextrin, water, fructose, ornithine alpha-ketoglutarate (okg), histidine, leucine, sodium citrate, valine, sea salt, citric acid, potassium citrate, calcium carbonate, natural flavor, tartaric acid, isoleucine, malic acid, gellan gum, sodium benzoate (preservative), potassium sorbate (preservative), D-alpha-tocopheryl acetate (natural vitamin E).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135603810334/5040999-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135616786462/5040999-NOC02-ALT-INGREDIENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135603810334/5040999-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135616786462/5040999-NOC02-ALT-INGREDIENTS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135603810334/5040999-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135616786462/5040999-NOC02-ALT-INGREDIENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135603810334/5040999-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135616786462/5040999-NOC02-ALT-INGREDIENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GU Roctane Lemonade Gel",
+  "product_code": "5040-999",
+  "source_url": "https://www.mec.ca/en/product/5040-999/Roctane-Lemonade-Gel",
+  "tech_specs": {
+    "Best consumed": [
+      "During exercise"
+    ],
+    "Calories per serving": [
+      "100Cal"
+    ],
+    "Carbohydrates": [
+      "21g"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycling",
+      "Running"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Potassium": [
+      "55mg"
+    ],
+    "Saturated fat": [
+      "1g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "180mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "6g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "32g"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike locks",
+    "U-locks",
+    "London Granit 53 U-Lock"
+  ],
+  "description": "Give bike thieves some serious pause for thought with this mighty tough lock. The Granit 53 London does exactly what it's built for. It's hard to cut or pry open, so you'll find your ride where you locked it.13mm diameter hardened steel shackle.Double-bolted lock requires two cuts to remove.Protective coating prevents paint damage.2 keys included to ensure you have a backup if one goes missing.Abus security rating of 14/15",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187442458654/6015978-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187442458654/6015978-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Abus London Granit 53 U-Lock",
+  "product_code": "6015-978",
+  "source_url": "https://www.mec.ca/en/product/6015-978/London-Granit-53-U-Lock",
+  "tech_specs": {
+    "Diameter": [
+      "13mm"
+    ],
+    "Dimensions": [
+      "23\u00a0x\u00a015cm"
+    ],
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Locking mechanism": [
+      "Key"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Material": [
+      "Hardened steel"
+    ],
+    "Mounting bracket": [
+      "No"
+    ],
+    "Number of keys": [
+      "2"
+    ],
+    "Type": [
+      "U-Lock"
+    ],
+    "Weight": [
+      "1.15kg"
+    ]
+  }
+}

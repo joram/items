@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Cams, nuts and hexes",
+    "Nuts, hexes and nut tools",
+    "Nut Tool"
+  ],
+  "description": "Avoid the wrath of your second; hand them this nut tool to clean out the protection you placed on the way up. Very lightweight, yet rigid enough to avoid bending. Has a notched end to pound out nuts as well as a hook for grabbing errant cables and triggers. The end is a useful bottle opener.Cut-out holes throughout body keep this tool lightweight.Made of steel for durability.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807430848542/4003621-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807430848542/4003621-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Nut Tool",
+  "product_code": "4003-621",
+  "source_url": "https://www.mec.ca/en/product/4003-621/Nut-Tool",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "50g"
+    ]
+  }
+}

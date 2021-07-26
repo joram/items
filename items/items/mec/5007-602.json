@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Sun hats",
+    "Sun Bucket Hat"
+  ],
+  "description": "Try this hat to keep your brain from baking on those sun-blasted days.SolarShield\u2122 nylon, polyester ripstop fabric, with UPF 50+ protection.Foam-stiffened brim floats, and is shorter and more stable in gusty conditions.Transaction headband for moisture management and comfort.Externaln drawcord adjustment.Removable chin cord with cord lock.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798209998878/5007602-PWT02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798209998878/5007602-PWT02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outdoor Research Sun Bucket Hat - Unisex",
+  "product_code": "5007-602",
+  "source_url": "https://www.mec.ca/en/product/5007-602/Sun-Bucket-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "86% nylon",
+      "14% polyester"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Kayak touring",
+      "Canoe tripping",
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ],
+    "Weight": [
+      "65g (Medium)"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training guides",
+    "Swim Speed Strokes Swim/Triath 2nd Edition"
+  ],
+  "description": "Your guide to becoming a faster swimmer. Improve your swimming and your stroke style for butterfly, backstroke, breaststroke and freestyle. Former Olympian and national champion Sheila Taormina breaks down the techniques and explains the patterns to show you how to reach the next level as a swimmer. Techniques used by several elite swimmers and Olympians are analyzed using clear underwater photographs and straightforward text. Topics include analyses of the pull pattern, the kick, breathing, body position, timing and the curvilinear pull path.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8960372539422/5061296-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8960372539422/5061296-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Swim Speed Strokes Swim/Triath 2nd Edition",
+  "product_code": "5061-296",
+  "source_url": "https://www.mec.ca/en/product/5061-296/Swim-Speed-Strokes-Swim-Triath-2nd-Edition",
+  "tech_specs": {
+    "Author": [
+      "Sheila Taormina"
+    ],
+    "Edition": [
+      "2nd"
+    ],
+    "ISBN": [
+      "9781937715816"
+    ],
+    "Ideal for": [
+      "Swim training"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "200"
+    ],
+    "Published": [
+      "2018"
+    ]
+  }
+}

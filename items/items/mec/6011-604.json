@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country classic",
+    "Classic ski boots",
+    "XC-5 Boots"
+  ],
+  "description": "Higher-end recreational boots that are warm and comfortable on longer tours. They offer control and performance when conditions get rough or unpredictable. The high-cuff construction gives you mobility and stability to ride in the tracks or break new trails.Thermoformable liner for a customized, comfortable fit, soft-touch inner.Active heel support gives you extra power and improved control.High cuff provides support and stability for breaking trail.Speed-lock lacing with a lace cover to keep out snow.Reinforced toe-box and midsole add durability.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134115979294/6011604-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122074142/6011604-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122237982/6011604-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122270750/6011604-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122401822/6011604-BK000-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122762270/6011604-BK000-ALT-ZIPPER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134115979294/6011604-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122074142/6011604-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122237982/6011604-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122270750/6011604-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122401822/6011604-BK000-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122762270/6011604-BK000-ALT-ZIPPER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134115979294/6011604-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122074142/6011604-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122237982/6011604-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122270750/6011604-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122401822/6011604-BK000-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122762270/6011604-BK000-ALT-ZIPPER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134115979294/6011604-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122074142/6011604-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122237982/6011604-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122270750/6011604-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122401822/6011604-BK000-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134122762270/6011604-BK000-ALT-ZIPPER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rossignol XC-5 Boots - Unisex",
+  "product_code": "6011-604",
+  "source_url": "https://www.mec.ca/en/product/6011-604/XC-5-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "NNN"
+    ],
+    "Hinged/high cuff": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Recreational classic skiing",
+      "Off-track touring"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lace cover": [
+      "Yes"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ],
+    "Weight": [
+      "1.1kg (42)"
+    ]
+  }
+}

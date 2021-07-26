@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Eating utensils and cutlery sets",
+    "Spork Folding Utensil"
+  ],
+  "description": "A paradigm shift in folding spork technology. This new design has a stouter hinge that will not buckle under a load of high-density oatmeal.Made of nylon.Redesigned collapsible locking pivot.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812586893342/5030705-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812586532894/5030705-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812586893342/5030705-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812586532894/5030705-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812586893342/5030705-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812586532894/5030705-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812586893342/5030705-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812586532894/5030705-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Spork Folding Utensil",
+  "product_code": "5030-705",
+  "source_url": "https://www.mec.ca/en/product/5030-705/Spork-Folding-Utensil",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Length": [
+      "21cm"
+    ],
+    "Made in": [
+      "Ireland"
+    ],
+    "Material": [
+      "Nylon"
+    ],
+    "Packed length": [
+      "11cm"
+    ],
+    "Weight": [
+      "10g"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Bike forks",
+    "Cro/Moly Disc Only 700c Fork"
+  ],
+  "description": "A no-nonsense chromoly fork for 700c disc brake setups. Threaded eyelets and rack mounts ready this steel-is-real unit for winter riding and/or long haul tours.Steer tube is 1 x 1/8in.Designed for 700c wheelsets.45mm offset.Only compatible with disc brake setups (no rim brake caliper mounts).Low-rider rack mounts for touring or commuting setups.Threaded eyelets for fenders or a rack.Axle to crown length is 382mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806968262686/5044563-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806968262686/5044563-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Cro/Moly Disc Only 700c Fork",
+  "product_code": "5044-563",
+  "source_url": "https://www.mec.ca/en/product/5044-563/Cro-Moly-Disc-Only-700c-Fork",
+  "tech_specs": {
+    "Disc brake mount": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycle touring",
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "1.13kg"
+    ],
+    "Wheel size": [
+      "700c"
+    ]
+  }
+}

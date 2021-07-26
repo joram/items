@@ -1,0 +1,75 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Drinks",
+    "Energy and recovery drinks",
+    "Vitamins 4 Pack"
+  ],
+  "description": "Nuun fuels your training and recovery, and now it can fuel your everyday life. Loaded with electrolytes and all kinds of natural goodness, Nuun Vitamins are a tasty way to get your vitamins and minerals.Engineered with an optimal balance of 11 vitamins and minerals.Contains 4 tubes (Tangerine Lime, Blueberry Pomegranate, Blackberry Citrus \u2013 contains 40mg of caffeine, Ginger Lemonade \u2013 contains 40mg of caffeine), each containing 12 tablets.Dissolve one tablet in 500 to 650ml water.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191084916766/5061082-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191530299422/5061082-NOC02-ALT-TANGERINE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191085015070/5061082-NOC02-ALT-GINGER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191085047838/5061082-NOC02-ALT-BLUEBERRY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191530332190/5061082-NOC02-ALT-BLACKBERRY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191093927966/5061082-NOC02-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191084916766/5061082-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191530299422/5061082-NOC02-ALT-TANGERINE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191085015070/5061082-NOC02-ALT-GINGER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191085047838/5061082-NOC02-ALT-BLUEBERRY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191530332190/5061082-NOC02-ALT-BLACKBERRY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191093927966/5061082-NOC02-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191084916766/5061082-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191530299422/5061082-NOC02-ALT-TANGERINE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191085015070/5061082-NOC02-ALT-GINGER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191085047838/5061082-NOC02-ALT-BLUEBERRY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191530332190/5061082-NOC02-ALT-BLACKBERRY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191093927966/5061082-NOC02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191084916766/5061082-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191530299422/5061082-NOC02-ALT-TANGERINE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191085015070/5061082-NOC02-ALT-GINGER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191085047838/5061082-NOC02-ALT-BLUEBERRY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191530332190/5061082-NOC02-ALT-BLACKBERRY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191093927966/5061082-NOC02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nuun Vitamins 4 Pack",
+  "product_code": "5061-082",
+  "source_url": "https://www.mec.ca/en/product/5061-082/Vitamins-4-Pack",
+  "tech_specs": {
+    "Best consumed": [
+      "Before exercise"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Serving size": [
+      "1 tablet (makes 500-650 ml)"
+    ],
+    "Servings": [
+      "12 per tube"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "212g"
+    ]
+  }
+}

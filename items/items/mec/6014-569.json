@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shorts, tights and pants",
+    "Sweatpants and joggers",
+    "Avenue Jogger"
+  ],
+  "description": "Working hard or hardly working, these comfy joggers are great for training or chilling. Plenty of spandex provides 4-way stretch for unrestricted movement.Made from soft and wicking nylon and spandex.Fabric has 4-way stretch for unrestricted movement.Elastic waistband with drawcord provides a secure fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191094353950/6014569-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191101300766/6014569-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191101661214/6014569-BK000-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191102087198/6014569-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191102218270/6014569-BK000-ALT-BUM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191094353950/6014569-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191101300766/6014569-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191101661214/6014569-BK000-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191102087198/6014569-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191102218270/6014569-BK000-ALT-BUM.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191094353950/6014569-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191101300766/6014569-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191101661214/6014569-BK000-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191102087198/6014569-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191102218270/6014569-BK000-ALT-BUM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191094353950/6014569-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191101300766/6014569-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191101661214/6014569-BK000-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191102087198/6014569-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191102218270/6014569-BK000-ALT-BUM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MPG Avenue Jogger - Women's",
+  "product_code": "6014-569",
+  "source_url": "https://www.mec.ca/en/product/6014-569/Avenue-Jogger",
+  "tech_specs": {
+    "Fabric content": [
+      "75% nylon",
+      "25% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "28in. (M)"
+    ],
+    "Ideal for": [
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front"
+    ]
+  }
+}

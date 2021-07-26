@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Binoculars and monoculars",
+    "AD 9x32 WP Binoculars"
+  ],
+  "description": "Excellent image quality housed in a compact package. The AD series uses high-quality multicoated optics that offer clarity normally associated with much larger binoculars. The body is made of a fiberglass reinforced polycarbonate that makes these both tough and lightweight.Phase-corrected BAK4 roof prisms.Fully multicoated optics offer bright, crisp, true-to-life images.Angle of view is 60 degrees.Waterproof and nitrogen-filled (JIS Class 6) to handle extreme weather conditions.Open bridge design reduces overall weight while improving handling.Reinforced polycarbonate housing is extremely rigid, but light enough to carry anywhere.Twist-up eyecups.Tripod mountable.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813685702686/5043297-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813685735454/5043297-GRN00-ALT-UP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813685702686/5043297-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813685735454/5043297-GRN00-ALT-UP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813685702686/5043297-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813685735454/5043297-GRN00-ALT-UP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813685702686/5043297-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813685735454/5043297-GRN00-ALT-UP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pentax AD 9x32 WP Binoculars",
+  "product_code": "5043-297",
+  "source_url": "https://www.mec.ca/en/product/5043-297/AD-9x32-WP-Binoculars",
+  "tech_specs": {
+    "Dimensions": [
+      "12.7\u00a0x\u00a05.1\u00a0x\u00a013.7cm"
+    ],
+    "Diopter adjustment\n\nThese binoculars can be adjusted for variances between right and left eye vision.": [
+      "Yes"
+    ],
+    "Dust proof": [
+      "Yes"
+    ],
+    "Exit pupil\n\nThe diameter of the objective (outside) lens divided by the binocular's magnification. It indicates the amount of light that reaches your eye (most noticeable in low light conditions). Higher numbers offer brighter images.": [
+      "3.6mm"
+    ],
+    "Eye relief\n\nThe distance between the eyepiece and your eye while still allowing entire field of view. Long eye relief is good for eyeglass wearers.": [
+      "16mm"
+    ],
+    "Field of view\n\nThe widest dimension of circular viewing area that you can see.": [
+      "117m"
+    ],
+    "Fogproof": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Includes case": [
+      "Yes"
+    ],
+    "Lens coating\n\nLens coatings reduce light loss and glare to increase contrast and diminish eyestrain. Coated: one layer on external surfaces only. Fully coated: every surface is coated. Multi-coated: multiple layers on some of the surfaces. Fully multi-coated: multiple layers on every optical surface.": [
+      "Fully multi-coated"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Magnification\n\nThis tells you how many times an object is magnified when observed through the binoculars.": [
+      "9"
+    ],
+    "Minimum focus\n\nThe nearest distance at which the binoculars will focus on an object.": [
+      "250cm"
+    ],
+    "Objective lens\n\nThe diameter of the objective lens will impact how bright, sharp, and comfortable your view is. Generally, bigger is better.": [
+      "32mm"
+    ],
+    "Waterproof\n\nWaterproof binoculars are assembled with O-rings and are purged with nitrogen to avoid condensation. They are ideal for boating or use in rainy weather.": [
+      "Yes"
+    ],
+    "Weight": [
+      "499g"
+    ]
+  }
+}

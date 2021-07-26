@@ -1,0 +1,90 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Vegetable and Peanut Pad Thai"
+  ],
+  "description": "Enjoy the palette pleasing zing of Pad Thai, without worrying about delivery ranges.Ingredients: rice noodles, grounded toasted peanuts, texturized soy proteins, coconut milk powder (dried coconut milk, tapioca maltodextrin,  sodium caseinate), soy sauce powder (soy, wheat, maltodextrin, salt), brown sugar, white sugar,  freeze-dried vegetables (green bean, corn, red bell pepper, pea, broccoli, carrot, water chestnut, mushroom), tomato powder, freeze-dried shallots, garlic powder, citric acidMay contain: nut, peanuts, sesame, egg, fish, sea food, mustard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042304761886/5053600-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042304761886/5053600-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Vegetable and Peanut Pad Thai",
+  "product_code": "5053-600",
+  "source_url": "https://www.mec.ca/en/product/5053-600/Vegetable-and-Peanut-Pad-Thai",
+  "tech_specs": {
+    "Calories per serving": [
+      "920Cal"
+    ],
+    "Carbohydrates": [
+      "120g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "16g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "48g"
+    ],
+    "Saturated fat": [
+      "14g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "1580mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "26g"
+    ],
+    "Total fat": [
+      "14g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "220g"
+    ]
+  }
+}

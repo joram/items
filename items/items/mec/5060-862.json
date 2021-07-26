@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Climbing brushes",
+    "Small Brush"
+  ],
+  "description": "A small brush for cleaning small holds. Use it on its own, or replace a worn-out attachment on your Stick Brush. The pre-drilled holes make it quick and easy to remove the old old and swap in the new one.Made of beech wood with boar's hair bristles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955673935902/5060862-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955673935902/5060862-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "deWoodstok Small Brush",
+  "product_code": "5060-862",
+  "source_url": "https://www.mec.ca/en/product/5060-862/Small-Brush",
+  "tech_specs": {
+    "Ideal for": [
+      "Bouldering",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "Netherlands"
+    ]
+  }
+}

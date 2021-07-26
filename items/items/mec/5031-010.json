@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Banff North Trail Map [Banff and Yoho Nationa"
+  ],
+  "description": "Designed to take you into the wilderness and back. Based on GeoBase and Natural Resources Canada (CanMatrix NTS) information, this outdoor recreation map has trail distances, points of interest, campgrounds, and shaded relief. Use it to plan your trip into Banff National Park and Yoho National Park to explore Lake Louise, Lake O\u2019Hara, Rockwall Pass, Skoki Lodge, Wapta and Waputik icefields, Siffleur Wilderness Area, and Saskatchewan River Crossing. Waterproof, tear-resistant, and printed on synthetic paper with an approximate scale of 1:100,000.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815849144350/5031010-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815849144350/5031010-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "National Geographic Banff North Trail Map [Banff and Yoho Nationa",
+  "product_code": "5031-010",
+  "source_url": "https://www.mec.ca/en/product/5031-010/Banff-North-Trail-Map-%5BBanff-and-Yoho-Nationa",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Camping and hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:100,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

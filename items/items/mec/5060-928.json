@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Climbing books",
+    "Guidebooks",
+    "Quadra Island Rock Climbs 2nd Edition"
+  ],
+  "description": "Undiscovered climbing gems off the coast of BC? Perhaps. The granitic outcrops and sea cliffs on Quadra Island offer some excellent climbing with scenic views. This guide covers more than 180 climbing routes at Chinese Mountains, Morte Lake and on Breton Island. Maps, photo topos and detailed route descriptions provide all the information needed to explore these crags in BC's Discovery Islands.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8960094273566/5060928-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8960094273566/5060928-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Quadra Island Rock Climbs 2nd Edition",
+  "product_code": "5060-928",
+  "source_url": "https://www.mec.ca/en/product/5060-928/Quadra-Island-Rock-Climbs-2nd-Edition",
+  "tech_specs": {
+    "Author": [
+      "Philip Stone"
+    ],
+    "Edition": [
+      "2nd"
+    ],
+    "ISBN": [
+      "9780968076699"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "68"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

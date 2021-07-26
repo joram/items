@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Le Guide Des Sites A Decouvrir Quebec Nature"
+  ],
+  "description": "Plan a journey to Quebec\u2019s nicest nature spots. With colour photos of wildlife, plants, and geographic formations, this guide informs and inspires you to get out and explore. Includes nearly 300 places across the province, along with places to stay, services, and attractions to help you plan your visit. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815645523998/5034614-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815645523998/5034614-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Le Guide Des Sites A Decouvrir Quebec Nature",
+  "product_code": "5034-614",
+  "source_url": "https://www.mec.ca/en/product/5034-614/Le-Guide-Des-Sites-A-Decouvrir-Quebec-Nature",
+  "tech_specs": {
+    "Author": [
+      "Stephane Champagne, Marie-France Letourneau"
+    ],
+    "ISBN": [
+      "9782894352779"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pages": [
+      "322"
+    ],
+    "Published": [
+      "2005"
+    ],
+    "Regionality": [
+      "Quebec"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid supplies",
+    "Triangular Bandage"
+  ],
+  "description": "Use this non-sterile bandage as a sling, dressing cover, or tie for splints, but not on open wounds. Re-stock an existing first aid kit, or use it as a component for building one from scratch.Made of non-woven polyester.106cm x 106cm x 150cm.Note: Does not come with safety pins.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029524324382/4007900-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029524324382/4007900-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Medical Kits Triangular Bandage",
+  "product_code": "4007-900",
+  "source_url": "https://www.mec.ca/en/product/4007-900/Triangular-Bandage",
+  "tech_specs": {
+    "Ideal for": [
+      "Watersports",
+      "Snowsports",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "20g"
+    ]
+  }
+}

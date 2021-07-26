@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Uppers and downers",
+    "Belay devices",
+    "Ohm Assisted Braking Resistor"
+  ],
+  "description": "A solution to add friction so a lighter climber can control the catch of a heavier climber. If you regularly belay someone who is heavier than you, and catching their falls tends to pulls you up and forward, the Ohm Braking Resistor means you need to apply significantly less hand braking force to arrest their fall, and you'll have more control when lowering too. Dynamically adds friction so catches are still soft.Attaches with a draw to the first bolt or placement.Reduces risk of ground fall if the leader falls at the first bolt.Adds no additional friction when paying out rope.Recommended weight difference between lead climber and belayer is 10 to 40kg.Minimum weight for the belayer is 40kg.For single ropes 8.6 - 11mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8857614155806/5052491-OAS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8857614155806/5052491-OAS00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8857614155806/5052491-OAS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8857614155806/5052491-OAS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Edelrid Ohm Assisted Braking Resistor",
+  "product_code": "5052-491",
+  "source_url": "https://www.mec.ca/en/product/5052-491/Ohm-Assisted-Braking-Resistor",
+  "tech_specs": {
+    "Belay off anchor\n\nUse an autoblock device with a locking carabiner to belay off the anchor or to bring up two seconds on independent lines.": [
+      "No"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Sport and toprope climbing",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Rope diameter\n\nThe maximum diameter or the range of rope diameter that is compatible with the device.": [
+      "8.6-11mm"
+    ],
+    "Weight": [
+      "360g"
+    ]
+  }
+}

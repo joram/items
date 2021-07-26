@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "25mm Jam Lever Camming Buckle"
+  ],
+  "description": "This replacement Jam Lever buckle fits 25mm webbing. It is designed for tightly woven, flat webbing. Not recommended for very high-profile webbing, as thicker material might not feed through.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815561605150/4016574-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815561605150/4016574-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "National Molding 25mm Jam Lever Camming Buckle",
+  "product_code": "4016-574",
+  "source_url": "https://www.mec.ca/en/product/4016-574/25mm-Jam-Lever-Camming-Buckle",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "7g"
+    ]
+  }
+}

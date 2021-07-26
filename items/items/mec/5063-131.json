@@ -1,0 +1,77 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Quickdraws",
+    "Spirit Express Quickdraw"
+  ],
+  "description": "The Spirit Express Draw is light enough to rack up for long sport routes. It has a straight-gate on top and a bent-gate carabiner on the bottom. Nice, ergonomic shape and the webbing offers excellent grip for fumble-free clipping.H-shaped profile offers good strength to weight ratio.Wide contact surfaces so the rope glides and reduced wear on the carabiner.Keylock nose on top carabiner.String webbing prevents the bottom carabiner from rotating, and prevents fraying on the sling.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988864512030/5063131-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988881911838/5063131-BK000-ALT-COMPARISON.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988881944606/5063131-BK000-ALT-12CM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988864512030/5063131-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988881911838/5063131-BK000-ALT-COMPARISON.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988881944606/5063131-BK000-ALT-12CM.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988864512030/5063131-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988881911838/5063131-BK000-ALT-COMPARISON.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988881944606/5063131-BK000-ALT-12CM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988864512030/5063131-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988881911838/5063131-BK000-ALT-COMPARISON.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988881944606/5063131-BK000-ALT-12CM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Spirit Express Quickdraw",
+  "product_code": "5063-131",
+  "source_url": "https://www.mec.ca/en/product/5063-131/Spirit-Express-Quickdraw",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.1cm (straight)",
+      "2.5cm (bent)"
+    ],
+    "Gate type": [
+      "Straight + bent"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Sling length": [
+      "11cm (11 cm)",
+      "17cm (17cm)"
+    ],
+    "Sling material": [
+      "Polyester"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "23kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "9kN"
+    ],
+    "Weight": [
+      "93g (11 cm)",
+      "100g (17cm)"
+    ]
+  }
+}

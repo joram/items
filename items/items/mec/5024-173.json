@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Clean up",
+    "Crossover Kitchen Kit"
+  ],
+  "description": "Everything you need to spice up and cook up a gourmet basecamp feast.Includes a camp towel, scrubby pad, soap bottle, compact scraper, pivot tongs, pivot spoon, and pivot spatula. Also a cutting board, oil bottle, and spicer.Nests inside sets such as the Pinacle Backpacker set.Separate wet and dry compartments are good for on-trail maintenance.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812602720286/5024173-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812602720286/5024173-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Crossover Kitchen Kit",
+  "product_code": "5024-173",
+  "source_url": "https://www.mec.ca/en/product/5024-173/Crossover-Kitchen-Kit",
+  "tech_specs": {
+    "Dimensions": [
+      "18.5\u00a0x\u00a010.9\u00a0x\u00a09.4cm"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Co-polyester",
+      "Nylon",
+      "Polyethylene"
+    ],
+    "Weight": [
+      "270g"
+    ]
+  }
+}

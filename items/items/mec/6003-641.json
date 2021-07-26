@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike helmets and body armour",
+    "Bike helmets",
+    "Helmet Cover"
+  ],
+  "description": "Ruggedly built, reliably waterproof and highly visible. What more can you ask of a helmet cover? Wait... is that a detachable neck gaiter that channels run-off onto your waterproof jacket rather than down your neck in icy rivulets? Genius!Made from durable waterproof-breathable fabric.Seam taped for reliable waterproofness.Twin drawcord design adjusts to most helmet sizes and shapes.Detachable gaiter directs water onto the back of your jacket rather than down your neck.Reflective trim on back and sides.As of 2020 Showers Pass is Climate Neutral certified, meaning they fully offset their carbon emissions. Climate Neutral certified is a consumer label that's carried by brands who take responsibility for greenhouse gas emissions generated in production, operation and shipping of  their goods and services.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052092399646/6003641-NGR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052092366878/6003641-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052092399646/6003641-NGR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052092366878/6003641-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052092399646/6003641-NGR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052092366878/6003641-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052092399646/6003641-NGR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052092366878/6003641-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Showers Pass Helmet Cover - Unisex",
+  "product_code": "6003-641",
+  "source_url": "https://www.mec.ca/en/product/6003-641/Helmet-Cover",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Fabric content": [
+      "100% nylon"
+    ],
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Waterproof": [
+      "Yes"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

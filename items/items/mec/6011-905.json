@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth clothing",
+    "Youth swimwear",
+    "Youth rashguards and sunguards",
+    "Long Sleeve Sun T-Shirt"
+  ],
+  "description": "When sun is in the forecast, protect sensitive skin with this fast-drying long sleeve tee. It blocks harsh UV, and dries quickly so young beach goers never gets the chance to feel chilly.UPF 50+ blocks UV rays.FlashDry\u2122 treatment improves wicking and reduces dry time.Raglan sleeves offer freedom to paddle or swim.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187429122078/6011905-SSG03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187446947870/6011905-SSG03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187446718494/6011905-MEB04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187428958238/6011905-MEB04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187429122078/6011905-SSG03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187446947870/6011905-SSG03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187446718494/6011905-MEB04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187428958238/6011905-MEB04.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187429122078/6011905-SSG03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187446947870/6011905-SSG03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187446718494/6011905-MEB04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187428958238/6011905-MEB04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187429122078/6011905-SSG03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187446947870/6011905-SSG03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187446718494/6011905-MEB04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187428958238/6011905-MEB04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Long Sleeve Sun T-Shirt - Boys' - Youths",
+  "product_code": "6011-905",
+  "source_url": "https://www.mec.ca/en/product/6011-905/Long-Sleeve-Sun-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "90% polyester",
+      "10% elastane"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "175gsm"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Beach"
+    ],
+    "Made in": [
+      "Jordan"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

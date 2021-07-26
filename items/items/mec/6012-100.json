@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Caps",
+    "Logo Cork Brim Destination Thicket Hat"
+  ],
+  "description": "A casual hat with a big ol' tentree logo.Flexfit design has internal elastic panels for a custom fit.Cork panel under the brim.tentree\u2019s goal is to construct quality apparel and ensure that 10 trees are planted for every article of clothing sold.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168636968990/6012100-DGR25.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168638541854/6012100-DGR25-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168638378014/6012100-DGR25-ALT-BRIM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168638607390/6012100-DGR25-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168636968990/6012100-DGR25.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168638541854/6012100-DGR25-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168638378014/6012100-DGR25-ALT-BRIM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168638607390/6012100-DGR25-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168636968990/6012100-DGR25.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168638541854/6012100-DGR25-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168638378014/6012100-DGR25-ALT-BRIM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168638607390/6012100-DGR25-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168636968990/6012100-DGR25.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168638541854/6012100-DGR25-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168638378014/6012100-DGR25-ALT-BRIM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168638607390/6012100-DGR25-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "tentree Logo Cork Brim Destination Thicket Hat - Unisex",
+  "product_code": "6012-100",
+  "source_url": "https://www.mec.ca/en/product/6012-100/Logo-Cork-Brim-Destination-Thicket-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "90% recycled polyester",
+      "10% elastane"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Bike headset tools",
+    "HCW-15 Headset Wrench"
+  ],
+  "description": "For years of shop use, this wrench are made of heavy-duty, heat-treated steel.32mm and 36mm head wrench.Laser cut openings offer a precise fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806515572766/5048374-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806515638302/5048374-NOC02-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806515572766/5048374-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806515638302/5048374-NOC02-ALT-FLAT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806515572766/5048374-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806515638302/5048374-NOC02-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806515572766/5048374-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806515638302/5048374-NOC02-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool HCW-15 Headset Wrench",
+  "product_code": "5048-374",
+  "source_url": "https://www.mec.ca/en/product/5048-374/HCW-15-Headset-Wrench",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

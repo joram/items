@@ -1,0 +1,99 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Camp stoves and grills",
+    "Backcountry stoves",
+    "Canister stoves",
+    "Essential Stove Set 1.3L"
+  ],
+  "description": "A stove with a windscreen, a non-stick frying pan and 2 pots to help you cook up a storm, even if there\u2019s a breeze. The nesting design enables quick pack up, so you'll never be stuck in one place for too long.Nesting design is easy to store and pack.Integrated wind guard works well adverse conditions and provides a steady cooking base.Pot gripper works with both pots and frying pan.Frying pan doubles as a lid for either pot.Included pots both have a 1.3L volume.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8885718155294/5055688-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890731986974/5055688-NOC02-ALT-UNPACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890731954206/5055688-NOC02-ALT-DIMENSIONSLID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890732347422/5055688-NOC02-ALT-DIMENSIONSHEIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890732380190/5055688-NOC02-ALT-DIMENSIONSDIAMETER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890734772254/5055688-NOC02-ALT-ONEPOT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890734870558/5055688-NOC02-ALT-ONEPOTUNPACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8885718155294/5055688-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890731986974/5055688-NOC02-ALT-UNPACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890731954206/5055688-NOC02-ALT-DIMENSIONSLID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890732347422/5055688-NOC02-ALT-DIMENSIONSHEIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890732380190/5055688-NOC02-ALT-DIMENSIONSDIAMETER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890734772254/5055688-NOC02-ALT-ONEPOT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890734870558/5055688-NOC02-ALT-ONEPOTUNPACKED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8885718155294/5055688-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890731986974/5055688-NOC02-ALT-UNPACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890731954206/5055688-NOC02-ALT-DIMENSIONSLID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890732347422/5055688-NOC02-ALT-DIMENSIONSHEIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890732380190/5055688-NOC02-ALT-DIMENSIONSDIAMETER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890734772254/5055688-NOC02-ALT-ONEPOT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890734870558/5055688-NOC02-ALT-ONEPOTUNPACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8885718155294/5055688-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890731986974/5055688-NOC02-ALT-UNPACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890731954206/5055688-NOC02-ALT-DIMENSIONSLID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890732347422/5055688-NOC02-ALT-DIMENSIONSHEIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890732380190/5055688-NOC02-ALT-DIMENSIONSDIAMETER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890734772254/5055688-NOC02-ALT-ONEPOT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890734870558/5055688-NOC02-ALT-ONEPOTUNPACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Primus Essential Stove Set 1.3L",
+  "product_code": "5055-688",
+  "source_url": "https://www.mec.ca/en/product/5055-688/Essential-Stove-Set-1-3L",
+  "tech_specs": {
+    "Boil time\n\nThe average time it takes to boil 1L of water. Wind, air temperature and elevation will affect boil time in the field.": [
+      "4.5\u00a0min"
+    ],
+    "Burner components": [
+      "Aluminum",
+      "Steel"
+    ],
+    "Dimensions": [
+      "19.8\u00a0x\u00a09cm"
+    ],
+    "Fuel\n\nStoves are designed to burn specific fuels. All stoves should only be used with recommended fuels to prevent damage.": [
+      "LPG"
+    ],
+    "Fuel pump\n\nLiquid fuel stoves require a fuel pump to pressurize the fuel tank.": [
+      "No"
+    ],
+    "Heat reflector\n\nHeat reflectors are placed under the burner and reflect heat back up towards the cooking pot. This helps save fuel and speed cooking time.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Canoe tripping",
+      "Kayak touring",
+      "Car camping"
+    ],
+    "Made in": [
+      "Estonia"
+    ],
+    "Output\n\nThe output of any heat generating device is shown in BTUs (British Thermal Units) which measure the amount of heat energy needed to raise the temperature of 1lb. of water by 1\u00b0F.": [
+      "7000BTU"
+    ],
+    "Piezo ignition": [
+      "No"
+    ],
+    "Pot included": [
+      "Yes"
+    ],
+    "Simmers": [
+      "Yes"
+    ],
+    "Weight": [
+      "858g"
+    ],
+    "Windscreen": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Swim fitness",
+    "Performance swim and lap suits",
+    "New Turnz One Piece Lap Suit"
+  ],
+  "description": "A bold print meets streamlined styling in this performance one piece. Ultra stretchy endurance fabric is designed to stand up to chlorine lap after lap.Made of chlorine-resistant, super stretchy PBT (polybutylene terephthalate) and polyester.Lined front and back.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105645994014/6008098-ULT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105643536414/6008098-ULT00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105646059550/6008098-ULT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105645994014/6008098-ULT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105643536414/6008098-ULT00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105646059550/6008098-ULT00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105645994014/6008098-ULT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105643536414/6008098-ULT00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105646059550/6008098-ULT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105645994014/6008098-ULT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105643536414/6008098-ULT00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9105646059550/6008098-ULT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Speedo New Turnz One Piece Lap Suit - Women's",
+  "product_code": "6008-098",
+  "source_url": "https://www.mec.ca/en/product/6008-098/New-Turnz-One-Piece-Lap-Suit",
+  "tech_specs": {
+    "Fabric content": [
+      "53% polyester",
+      "47% PBT"
+    ],
+    "Ideal for": [
+      "Swim training"
+    ],
+    "Made in": [
+      "Sri Lanka"
+    ]
+  }
+}

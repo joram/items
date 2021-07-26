@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry ski boots",
+    "Backland Carbon Ski Boots"
+  ],
+  "description": "Tour in comfort, and ski with confidence.  These boots are rigged for backcountry escapades. Light and stiff, while flexible and smooth, the Backland Carbon boots are backcountry changlings. With an incredible 74 degrees of mobility, skinning and bootpacking isn't a suffer-fest. Plus you can remove the tongues for even more comfort on the way up, and slide them back in for the ride back down. Built on a rigid carbon backbone, they offer powerful performance to skiers who are willing to earn it.Ultralight carbon with Grilamid increases shell and cuff strength.Carbon spine adds responsiveness and transmits power, but maintains sensitivity.98mm last provides trim athletic fit.Removable tongue increases comfort during ascents.Platinum liner with Ultrathon foam is thermo-mouldable, hand washable and fast drying.Liner support zones in calf, ankle and tongue improve downhill performance.Free/Lock 4.0 mechanism allows 74-degree range of motion for walking.13-17 degrees of forward lean for skiing.Frictionless pivot uses polymer bushings to move naturally in walk mode.2 aluminum buckles and a 40mm super light strap.Boa Fit System adjusts quickly and easily.Rockered rubber sole walks like an alpine boot.Compatible with tech bindings only.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061791596574/6003916-BK048.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060899684382/6003916-BK048-ALT-INSOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061791596574/6003916-BK048.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060899684382/6003916-BK048-ALT-INSOLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061791596574/6003916-BK048.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060899684382/6003916-BK048-ALT-INSOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061791596574/6003916-BK048.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060899684382/6003916-BK048-ALT-INSOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Atomic Backland Carbon Ski Boots - Unisex",
+  "product_code": "6003-916",
+  "source_url": "https://www.mec.ca/en/product/6003-916/Backland-Carbon-Ski-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "Tech"
+    ],
+    "Buckles": [
+      "2"
+    ],
+    "Flex index\n\nIndicates how stiff the boots are when flexed forward.  Flex ranges from 50 (soft) to 130 (very stiff). Note: There is currently no industry standardized test.": [
+      "110"
+    ],
+    "Forward lean\n\nForward lean affects a skiers balance. Some boots have a set forward lean angle; some are adjustable. Less lean places your knees in a more upright (almost standing) position, whereas more lean positions your knees forward over the ball of your feet.": [
+      "13-17\u00ba"
+    ],
+    "Hike mode\n\nA mechanism that allows to release the boot cuff to switch to tour mode.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Alpine touring",
+      "Freeride and freeskiing",
+      "Ski mountaineering"
+    ],
+    "Lace-up option": [
+      "Yes"
+    ],
+    "Last width\n\nThe width of the interior of the boot shell across the widest part of the forefoot.": [
+      "98mm"
+    ],
+    "Lower shell material": [
+      "Grilamid",
+      "Carbon fibre"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Range of motion\n\nThe range of motion of the boot when in hike mode.": [
+      "74\u00ba"
+    ],
+    "Shell cuff material": [
+      "Grilamid",
+      "Carbon fibre"
+    ],
+    "Sole type\n\nAlpine Touring: with tread; compatible with DIN touring bindings. Alpine Touring Tech (Tech): with tread; compatible with G3 Onyx and Dynafit. Downhill: without tread; compatible with freeride/downhill bindings.": [
+      "Tech"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ],
+    "Weight": [
+      "1.09kg (26.5)"
+    ]
+  }
+}

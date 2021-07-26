@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Sunglasses",
+    "Straps, cleaning and cases",
+    "XL Original"
+  ],
+  "description": "Keep your eyewear in place when the going gets rough and tumble. The Croakies XL Original is a lightweight retainer that you won't notice while you're wearing it, but it will prevent your shades from getting knocked into the waves.Made of colorfast, washable neoprene.Expanded width is designed to fit most large-scale frames.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813670072350/5037816-NOC01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813670105118/5037816-NOC01-ALT-APPLICATION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813670072350/5037816-NOC01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813670105118/5037816-NOC01-ALT-APPLICATION.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813670072350/5037816-NOC01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813670105118/5037816-NOC01-ALT-APPLICATION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813670072350/5037816-NOC01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813670105118/5037816-NOC01-ALT-APPLICATION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Croakies XL Original - Unisex",
+  "product_code": "5037-816",
+  "source_url": "https://www.mec.ca/en/product/5037-816/XL-Original",
+  "tech_specs": {
+    "Ideal for": [
+      "Watersports"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Neoprene"
+    ]
+  }
+}

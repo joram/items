@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Hike Light Mini Socks"
+  ],
+  "description": "Light cushion and fun colours to keep you going on the trails. The flat-knit toe seam keeps your toes comfortable and the arch brace prevents bunching.Made of soft merino wool, nylon and elastane.Arch brace holds sock securely in place.Flat-knit toe seam doesn't cause hotspots or chafing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163340840990/6013653-EVE00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163340840990/6013653-EVE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Hike Light Mini Socks - Women's",
+  "product_code": "6013-653",
+  "source_url": "https://www.mec.ca/en/product/6013-653/Hike-Light-Mini-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Quarter"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "59% merino wool",
+      "39% nylon",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

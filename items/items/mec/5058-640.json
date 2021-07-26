@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Straight gate carabiners",
+    "Phantom Colour Pack Carabiners (5 Pack)"
+  ],
+  "description": "Lightweight without sacrificing size, the Phantom carabiner is up for any climbing adventure where reducing weight is key. This 5-pack comes in a full rainbow to add a little colour to your project.Set of 5 Phantom carabiners.Hot-forged I-beam construction helps keep weight down.Rope groove helps seat rope correctly.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935692468254/5058640-MUL02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935692468254/5058640-MUL02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DMM Phantom Colour Pack Carabiners (5 Pack)",
+  "product_code": "5058-640",
+  "source_url": "https://www.mec.ca/en/product/5058-640/Phantom-Colour-Pack-Carabiners-%285-Pack%29",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.2cm"
+    ],
+    "Gate type": [
+      "Wire"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Rock climbing"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "No"
+    ],
+    "Strength closed": [
+      "23kN"
+    ],
+    "Strength cross-loaded": [
+      "7kN"
+    ],
+    "Strength open": [
+      "9kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "138g"
+    ]
+  }
+}

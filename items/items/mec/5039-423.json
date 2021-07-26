@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Tubeless kits and accessories",
+    "Mountain Tubeless Kit"
+  ],
+  "description": "This kit contains all the fixings you\u2019ll need to convert a pair of tubeless-ready MTB rims. The biodegradable sealant is a blend of fast-setting latex and variously sized particles that dams punctures up to \u00bcin. quickly and effectively.Made of biodegradable ingredients.Includes 24mm rim tape, valve core tool and 2, 48mm RVC valve stems.226ml bottle of sealant has an injector cap and hose.Each half-bottle of sealant adds less than 120g of weight to a wheel.Maintains performance at extreme temperatures and altitudes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8927893684254/5039423-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8927893684254/5039423-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Orange Seal Mountain Tubeless Kit",
+  "product_code": "5039-423",
+  "source_url": "https://www.mec.ca/en/product/5039-423/Mountain-Tubeless-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

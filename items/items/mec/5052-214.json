@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Swimsuits",
+    "Two-piece swimsuits",
+    "Swim tops",
+    "W.O.B. Hook Back Top"
+  ],
+  "description": "There's no time for wardrobe malfunctions when you're setting the spike at the net or rounding the buoy at swim training. This athletic bikini top offers a stay-put fit thanks to adjustable straps and hook closure. Coordinates with the Hook Back Bottom.Made of TYR's Durafast One polyester that is chlorine resistant and provides a sleek fit.Fabric provides UPF 50+ sun protection.Fully lined with removable cups.Adjustable straps and hook back closure let you personalize the fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007292055582/5052214-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007313027102/5052214-NVY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007312240670/5052214-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007292022814/5052214-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007292055582/5052214-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007313027102/5052214-NVY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007312240670/5052214-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007292022814/5052214-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007292055582/5052214-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007313027102/5052214-NVY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007312240670/5052214-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007292022814/5052214-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007292055582/5052214-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007313027102/5052214-NVY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007312240670/5052214-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007292022814/5052214-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "TYR W.O.B. Hook Back Top - Women's",
+  "product_code": "5052-214",
+  "source_url": "https://www.mec.ca/en/product/5052-214/W-O-B-Hook-Back-Top",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Removable cups"
+    ],
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Paddleboarding",
+      "Beach",
+      "Swim training",
+      "Surfing"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

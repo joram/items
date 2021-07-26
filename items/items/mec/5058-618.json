@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Fleece jackets",
+    "Cotton Quilt Snap-T Pullover"
+  ],
+  "description": "Diamond-quilted, heritage-inspired version of our classic Snap-T\u00ae Pullover is made of organic cotton/polyester fabric for everyday warmth.Warm, diamond-quilted organic cotton/polyester jersey blendPullover with 4-snap nylon placket and stand-up collarLeft-chest pocket with nylon flap and snap closureY-Joint sleeves for increased mobility through the shoulders and armsCuffs and hem have spandex trimFeatures P-6 label on the left chestHip length",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011102122014/5058618-NAV00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011614613534/5058618-NAV00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011616186398/5058618-NAV00-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011102122014/5058618-NAV00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011614613534/5058618-NAV00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011616186398/5058618-NAV00-ALT-FLAT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011102122014/5058618-NAV00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011614613534/5058618-NAV00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011616186398/5058618-NAV00-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011102122014/5058618-NAV00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011614613534/5058618-NAV00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011616186398/5058618-NAV00-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Cotton Quilt Snap-T Pullover - Men's",
+  "product_code": "5058-618",
+  "source_url": "https://www.mec.ca/en/product/5058-618/Cotton-Quilt-Snap-T-Pullover",
+  "tech_specs": {
+    "Fabric content": [
+      "79% organically grown cotton",
+      "21% polyester"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "300gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "1 external chest"
+    ]
+  }
+}

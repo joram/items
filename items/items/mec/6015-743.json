@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike racks, carriers and storage",
+    "Car bike racks",
+    "Hitch-mounted racks",
+    "Exo SnowBank"
+  ],
+  "description": "Get your equipment to the mountain with a mount that swings away from your vehicle for  access. Pair with the EXO GearLocker and EXO TopShelf to store boots and gear. Now go snag that first chair.Tool-free cleat system attaches to EXO SwingBase or EXO TopShelf.Carries 5 pairs of skis up to 185cm or 4 snowboards.Locks skis and snowboards when not in use.Must have either EXO SwingBase or EXO TopShelf (sold separately).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194863296542/6015743-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194863296542/6015743-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194863296542/6015743-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194863296542/6015743-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Yakima Exo SnowBank",
+  "product_code": "6015-743",
+  "source_url": "https://www.mec.ca/en/product/6015-743/Exo-SnowBank",
+  "tech_specs": {
+    "Folding": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Snowboarding",
+      "Cross-country skiing",
+      "Backcountry skiing"
+    ],
+    "Includes lock": [
+      "Yes"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Rear hatch access": [
+      "Yes"
+    ],
+    "Receiver class\n\nThe receiver class of the hitch. Type 1 and 2 are most common on cars and trucks.": [
+      "3 (2in.)",
+      "4 (2in.)"
+    ],
+    "Type": [
+      "Ski carrier"
+    ]
+  }
+}

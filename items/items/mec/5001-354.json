@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water treatments and tablets",
+    "MicroPur MP1 Water Treatment Tablets"
+  ],
+  "description": "A self-stable, easy-to-use water treatment option that purifies using chlorine dioxide. Effective against viruses, bacteria, giardia, and cryptosporidium. It'scurrently the only chemical treatment that doesn't require pre-filtering. MicroPur tablets suit hikers, travellers and campers wishing to avoid iodine treatments.Contains 30 tablets. Each tablet treats 1L of water.Tastes like fresh water without chemical tastes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812686442526/5001354-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812686442526/5001354-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Katadyn MicroPur MP1 Water Treatment Tablets",
+  "product_code": "5001-354",
+  "source_url": "https://www.mec.ca/en/product/5001-354/MicroPur-MP1-Water-Treatment-Tablets",
+  "tech_specs": {
+    "Effective against bacteria\n\nBacteria can cause illnesses such as diarrhea and dysentery and are about 1.0 micron in size, although some can be as small as 0.2 microns.": [
+      "Yes"
+    ],
+    "Effective against particulate\n\nParticulate consists of very small bits and pieces such as dirt or bugs.": [
+      "No"
+    ],
+    "Effective against protozoa\n\nProtozoa are larger than one micron and include cryptosporidium and giardia.": [
+      "Yes"
+    ],
+    "Effective against viruses\n\nMost viruses are in the 0.1 micron size range, but they can be as small as 0.002 microns.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Weight": [
+      "20g"
+    ]
+  }
+}

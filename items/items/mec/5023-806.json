@@ -1,0 +1,75 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Neck gaiters and scarves",
+    "Multi Tubular Headwear"
+  ],
+  "description": "This truly multi-purpose piece adapts to your moods. Configure it as a scarf, cap, hood, mask, bandana, headband, or balaclava according to your taste or the temperature.Made of breathable, quick-drying 100% polyester knit.Dimensions are 50 x 25cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955937914910/5023806-MLP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137270423582/5023806-WCB04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137269997598/5023806-FMB02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543762974/5023806-WMT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543697438/5023806-PIN11.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543435294/5023806-PER00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055743541278/5023806-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003646484510/5023806-EBN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085230874654/5023806-DPK10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955937914910/5023806-MLP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137270423582/5023806-WCB04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137269997598/5023806-FMB02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543762974/5023806-WMT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543697438/5023806-PIN11.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543435294/5023806-PER00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055743541278/5023806-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003646484510/5023806-EBN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085230874654/5023806-DPK10.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955937914910/5023806-MLP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137270423582/5023806-WCB04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137269997598/5023806-FMB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543762974/5023806-WMT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543697438/5023806-PIN11.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543435294/5023806-PER00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055743541278/5023806-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003646484510/5023806-EBN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085230874654/5023806-DPK10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955937914910/5023806-MLP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137270423582/5023806-WCB04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137269997598/5023806-FMB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543762974/5023806-WMT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543697438/5023806-PIN11.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543435294/5023806-PER00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055743541278/5023806-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003646484510/5023806-EBN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085230874654/5023806-DPK10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Chaos Multi Tubular Headwear - Unisex",
+  "product_code": "5023-806",
+  "source_url": "https://www.mec.ca/en/product/5023-806/Multi-Tubular-Headwear",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Cross-country skiing",
+      "Road cycling",
+      "Backcountry skiing",
+      "Downhill skiing",
+      "Camping and hiking",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "34g"
+    ]
+  }
+}

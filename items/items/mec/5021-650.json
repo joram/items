@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Wetsuits and neoprene clothing",
+    "Neoprene boots",
+    "Bubba Neoprene Slippers"
+  ],
+  "description": "These low-profile slippers make it easier to get into \u2013 and out of \u2013 snug cockpits. Minimalist design provides little ankle support or abrasion protection, but allows a better feel of river bottoms.5mm neoprene.Thin rubber sole, with a diamond pattern for better grip.Sized in men\u2019s sizes. For a women\u2019s size, subtract one (for a women\u2019s size 8, choose size 7).  Round up if you are between full sizes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809490120734/5021650-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809490120734/5021650-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Bubba Neoprene Slippers - Unisex",
+  "product_code": "5021-650",
+  "source_url": "https://www.mec.ca/en/product/5021-650/Bubba-Neoprene-Slippers",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Ideal for": [
+      "Watersports"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Outsole": [
+      "Textured rubber"
+    ],
+    "Upper material": [
+      "5mm neoprene"
+    ],
+    "Weight": [
+      "474g (8)"
+    ]
+  }
+}

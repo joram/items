@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling tops",
+    "Cycling jerseys",
+    "Short sleeve jerseys",
+    "Strike Short Sleeve Jersey"
+  ],
+  "description": "Stay cool when it's getting hot. This sleek jersey offers no distractions from your ride. It features 3 rear drop-in pockets and raw-cut sleeves that make layering arm warmers easy.Construction combines polyester and mesh panels for optimal breathability and comfort.Gripped hem with a drop tail provides good coverage.Full length zipper lets you vent.3 back drop-in pockets.Reflective details.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088103383070/6008371-ORB07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088100597790/6008371-ORB07-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088122585118/6008371-BAW04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088109674526/6008371-BAW04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088103383070/6008371-ORB07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088100597790/6008371-ORB07-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088122585118/6008371-BAW04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088109674526/6008371-BAW04.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088103383070/6008371-ORB07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088100597790/6008371-ORB07-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088122585118/6008371-BAW04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088109674526/6008371-BAW04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088103383070/6008371-ORB07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088100597790/6008371-ORB07-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088122585118/6008371-BAW04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088109674526/6008371-BAW04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sportful Strike Short Sleeve Jersey - Men's",
+  "product_code": "6008-371",
+  "source_url": "https://www.mec.ca/en/product/6008-371/Strike-Short-Sleeve-Jersey",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "3 back drop-in"
+    ]
+  }
+}

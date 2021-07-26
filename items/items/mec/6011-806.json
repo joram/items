@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bug spray and bug nets",
+    "Bug spray and insect repellent",
+    "Tick Repellent"
+  ],
+  "description": "Powerful protection against deer ticks, wood ticks, and more. Protect yourself from tick-borne diseases and make sure the only thing you bring back from the great outdoors are smiles.Active ingredient: Icaridin 20%, with 0% DEET.Formula is non-irritating, non-greasy and non-allergenic.Provides 12-hour protection from ticks.Won\u2019t damage plastics or synthetics.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194835279902/6011806-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194835279902/6011806-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194835279902/6011806-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194835279902/6011806-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ben's Tick Repellent",
+  "product_code": "6011-806",
+  "source_url": "https://www.mec.ca/en/product/6011-806/Tick-Repellent",
+  "tech_specs": {
+    "DEET\n\nThe active ingredient in many bug repellents. It is not recommended for use on young children.": [
+      "0%"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Picaridin\n\nAn odourless alternative to DEET; suitable for people with sensitive skin.": [
+      "20%"
+    ],
+    "Volume": [
+      "100ml"
+    ]
+  }
+}

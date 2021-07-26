@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Aid climbing gear",
+    "Stubby Haul Bag"
+  ],
+  "description": "A svelte haul bag for fast routes or done-in-a-day walls. It's small but burly enough to stand up abuse and seasons of use. The straps are adjustable and foam-padded for comfort on the approach, and stow away when you're ready to haul.Made of 900gsm vinyl-laminated nylon for abrasion resistance.Double-walled top-skirt ensures water drains over the edge.Removable waistbelt and stowable shoulder straps tuck away while hauling.Webbing attachments on the bottom allow for hauling a ledge or second bag.Cam-lock buckles and 4-point offset hauling points make it easy to open and close.Drain holes.35L capacity.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938223239198/5057768-GYY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938223239198/5057768-GYY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Stubby Haul Bag",
+  "product_code": "5057-768",
+  "source_url": "https://www.mec.ca/en/product/5057-768/Stubby-Haul-Bag",
+  "tech_specs": {
+    "Depth": [
+      "27cm"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Length": [
+      "66cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "Vinyl-laminated nylon"
+    ],
+    "Volume": [
+      "35L"
+    ],
+    "Weight": [
+      "1.81kg"
+    ],
+    "Width": [
+      "33cm"
+    ]
+  }
+}

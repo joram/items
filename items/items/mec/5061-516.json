@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Accessory carabiners and key holders",
+    "SlideLock Key Ring"
+  ],
+  "description": "A handy little aluminum key chain carabiner with one key difference: the carabiner locks. Get peace of mind knowing your keys are exactly where you clipped them.Nylon webbing and key ring helps keep keys lie flat.Not for climbing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968177221662/5061516-ORG00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968177221662/5061516-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nite Ize SlideLock Key Ring",
+  "product_code": "5061-516",
+  "source_url": "https://www.mec.ca/en/product/5061-516/SlideLock-Key-Ring",
+  "tech_specs": {
+    "Dimensions": [
+      "11\u00a0x\u00a03.8cm"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Weight": [
+      "11g"
+    ]
+  }
+}

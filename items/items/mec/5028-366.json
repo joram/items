@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike chains",
+    "CN-HG93 9 Speed Bicycle Chain"
+  ],
+  "description": "A 9-speed chain from the Shimano\u00ae XT/Ultegra series.Chain type is super narrow HG, compatible with 9-speed cassettes.Includes one connecting pin.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806832111646/5028366-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806832111646/5028366-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano CN-HG93 9 Speed Bicycle Chain",
+  "product_code": "5028-366",
+  "source_url": "https://www.mec.ca/en/product/5028-366/CN-HG93-9-Speed-Bicycle-Chain",
+  "tech_specs": {
+    "Compatibility": [
+      "9-speed"
+    ],
+    "Ideal for": [
+      "Bike maintenance",
+      "Road cycling",
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Number of links": [
+      "116"
+    ],
+    "Weight": [
+      "304g"
+    ]
+  }
+}

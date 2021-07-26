@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Ropes, cords and slings",
+    "Slings and webbing",
+    "Accessory Strap 20mm Self-Locking"
+  ],
+  "description": "A handy strap for attaching stuff to packs, panniers or pretty much anything.Made of 20mm nylon webbing, bartacked at one end.Self-locking buckle allows easy tensioning and release.Available in 100, 150 and 200cm lengths.Sold singly.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944630562846/5050923-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944630562846/5050923-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Accessory Strap 20mm Self-Locking",
+  "product_code": "5050-923",
+  "source_url": "https://www.mec.ca/en/product/5050-923/Accessory-Strap-20mm-Self-Locking",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Weight": [
+      "18g (100cm)",
+      "24g (150cm)",
+      "30g (200cm)"
+    ],
+    "Width": [
+      "20mm"
+    ]
+  }
+}

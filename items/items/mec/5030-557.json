@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tubes and tire liners",
+    "Bike tubes",
+    "29 x 1.75-2.5 Tube (42mm Presta Valve)"
+  ],
+  "description": "A premium-priced tube that\u2019s great to carry as a spare.42mm valve stem offers an option in between the popular 35mm and 48mm sizes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806711754782/5030557-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806711754782/5030557-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Continental 29 x 1.75-2.5 Tube (42mm Presta Valve)",
+  "product_code": "5030-557",
+  "source_url": "https://www.mec.ca/en/product/5030-557/29-x-1-75-2-5-Tube-%2842mm-Presta-Valve%29",
+  "tech_specs": {
+    "Fits tire": [
+      "29 x 1.75-2.5in."
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Valve\n\nBicycle tubes are valve-specific. Presta \u2013 narrow, with a built-in valve cap that you loosen when pumping up the tire and tighten again afterwards. Schrader \u2013 wide, with a pressure valve similar to those on a car tire.": [
+      "42mm Presta"
+    ],
+    "Weight": [
+      "232g"
+    ]
+  }
+}

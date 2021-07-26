@@ -1,0 +1,96 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Indian Red Lentil Stew 56g"
+  ],
+  "description": "A portable, amped-up version of classic Indian dal. This hearty red lentil stew is loaded with easy-to-digest, plant-based nutrients to fuel your next peakbagging mission.100% non-GMO ingredients.Rich source of plant-based proteins.Ingredients: potatoes, carrots, lentils, coconut milk, onions, peas, olive oil, sundried tomatoes, garlic, spices and sea salt.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079309107230/5059193-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079629185054/5059193-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079309107230/5059193-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079629185054/5059193-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079309107230/5059193-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079629185054/5059193-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079309107230/5059193-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079629185054/5059193-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nomad Nutrition Indian Red Lentil Stew 56g",
+  "product_code": "5059-193",
+  "source_url": "https://www.mec.ca/en/product/5059-193/Indian-Red-Lentil-Stew-56g",
+  "tech_specs": {
+    "Calories per serving": [
+      "340Cal"
+    ],
+    "Carbohydrates": [
+      "46g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "13g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Protein": [
+      "12g"
+    ],
+    "Saturated fat": [
+      "6g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "150mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "5g"
+    ],
+    "Total fat": [
+      "13g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "50g"
+    ]
+  }
+}

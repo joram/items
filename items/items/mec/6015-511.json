@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Ultralight Bike Touring& Bikepacking"
+  ],
+  "description": "Learn how to make the most of your self-supported cycling adventures. Whether you're a newby or a well-travelled veteran, this user-friendly guide has practical tips and explanations for everyone. It covers techniques for lightweight travel, backcountry skills, and essential backpacking gear for on- or off-road travel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189402017822/6015511-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189402017822/6015511-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Falcon Ultralight Bike Touring & Bikepacking",
+  "product_code": "6015-511",
+  "source_url": "https://www.mec.ca/en/product/6015-511/Ultralight-Bike-Touring%26-Bikepacking",
+  "tech_specs": {
+    "Author": [
+      "Justin Lichter, Justin Kline"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9781493023974"
+    ],
+    "Ideal for": [
+      "Cycle touring and bikepacking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "176"
+    ],
+    "Published": [
+      "2016"
+    ]
+  }
+}

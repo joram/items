@@ -1,0 +1,90 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Jackets",
+    "Casual jackets",
+    "Silent Down Shirt"
+  ],
+  "description": "A soft and supple, warm, down-filled jacket with snap-front shirt styling that\u2019s windproof, weather-resistant and insulated with 700-fill-power 100% Recycled Down (duck and goose down reclaimed from down products).Made of 100% polyester (70% recycled) taffeta with mechanical stretch and a DWR (durable water repellent) finish, and insulated with 700-fill-power 100% Recycled Down (duck and goose down reclaimed from down products).Snap front with stand-up collar.Two chest pockets with snap-flap closure.Two side-entry handwarmer pockets lined with soft microfleece for greater comfort.Adjustable cuffs with snap-tab closure.Hip length.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047782850590/5058522-CLN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047770398750/5058522-CLN00-ALT-FLAT2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071178383390/5058522-CLN00-ALT-DWR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071178285086/5058522-CLN00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071180415006/5058522-CLN00-ALT-COLLAR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071180447774/5058522-CLN00-ALT-CUFF.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071180939294/5058522-CLN00-ALT-FULLBODY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006005485598/5058522-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047782850590/5058522-CLN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047770398750/5058522-CLN00-ALT-FLAT2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071178383390/5058522-CLN00-ALT-DWR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071178285086/5058522-CLN00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071180415006/5058522-CLN00-ALT-COLLAR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071180447774/5058522-CLN00-ALT-CUFF.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071180939294/5058522-CLN00-ALT-FULLBODY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006005485598/5058522-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047782850590/5058522-CLN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047770398750/5058522-CLN00-ALT-FLAT2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071178383390/5058522-CLN00-ALT-DWR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071178285086/5058522-CLN00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071180415006/5058522-CLN00-ALT-COLLAR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071180447774/5058522-CLN00-ALT-CUFF.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071180939294/5058522-CLN00-ALT-FULLBODY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006005485598/5058522-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047782850590/5058522-CLN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047770398750/5058522-CLN00-ALT-FLAT2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071178383390/5058522-CLN00-ALT-DWR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071178285086/5058522-CLN00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071180415006/5058522-CLN00-ALT-COLLAR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071180447774/5058522-CLN00-ALT-CUFF.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9071180939294/5058522-CLN00-ALT-FULLBODY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006005485598/5058522-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Silent Down Shirt - Men's",
+  "product_code": "5058-522",
+  "source_url": "https://www.mec.ca/en/product/5058-522/Silent-Down-Shirt",
+  "tech_specs": {
+    "Construction": [
+      "Sewn-through"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Fabric content": [
+      "70% recycled polyester",
+      "30% polyester"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Travel",
+      "Camping and hiking"
+    ],
+    "Insulation": [
+      "700 fill-power recycled goose and duck down blend"
+    ],
+    "Length": [
+      "Hip-length"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 external chest"
+    ],
+    "Type": [
+      "Insulated down"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Water-resistant"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

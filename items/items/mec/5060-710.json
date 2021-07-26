@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike helmets and body armour",
+    "Bike helmets",
+    "Spell Helmet"
+  ],
+  "description": "Too many helmets in your gear closet? This multipurpose option does the trick for both snowsports and cycling. Combining style and safety, the Spell Helmet uses Salomon's EPS4D foam to protect your head in case you take a bail. The Airflow system and summer pads keeps your head cool during the warmer months, while the removable and washable liner brings stink-free warmth to your winter adventures.Injected ABS Shell is used for its long-lasting durability and ding-resistant strength.Airflow system features internal air channels to keep your head cool.Integrated Custom Dial adjustment provides a precise and comfortable fit.Front air channels helps reduce goggle fogging.EPS4D liner provides high energy absorption on impact.Removable earpads are audio system\u2013compatible.Removable washable liner.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132512411678/5060710-BGE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132512411678/5060710-BGE00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132512411678/5060710-BGE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132512411678/5060710-BGE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Spell Helmet - Women's",
+  "product_code": "5060-710",
+  "source_url": "https://www.mec.ca/en/product/5060-710/Spell-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Snowsports",
+      "Cycling"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Hardshell"
+    ],
+    "Fit system": [
+      "Adjustable dial"
+    ],
+    "Goggle clip": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Snowboarding",
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Removable ear liners": [
+      "Yes"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "EN 1077: 2007",
+      "ASTM F2040",
+      "EN 1078",
+      "CPSC"
+    ],
+    "Shell material": [
+      "ABS"
+    ],
+    "Vents": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Ski socks",
+    "PhD Ski Light Elite Pattern Socks"
+  ],
+  "description": "These lightweight ski socks have strategic cushioned zones for comfort, but the rest of the sock is kept light, so they slide inside performance-fit boots.Made of soft, itch-free merino wool, with nylon and elastane to maintain fit.Banded fit system features elastic arches and ankle braces, with flex zones to eliminate bunching, slipping, and sagging.Mesh ventilation zones increase breathability and improve temperature control.Flat knit side panels and toe seams reduce compression.Narrower profile is designed to fit women's narrower feet.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148703604766/6013439-MMG08.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148703604766/6013439-MMG08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool PhD Ski Light Elite Pattern Socks - Women's",
+  "product_code": "6013-439",
+  "source_url": "https://www.mec.ca/en/product/6013-439/PhD-Ski-Light-Elite-Pattern-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "Yes"
+    ],
+    "Cuff height": [
+      "Knee"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "59% merino wool",
+      "38% nylon",
+      "3% elastane"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

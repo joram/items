@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child footwear",
+    "Toddler and child socks",
+    "Toddler and child ski socks",
+    "Wintersport Mountain Socks"
+  ],
+  "description": "Way more fun than plain black wool. These toasty ski socks are made for young shredders. Tough enough to last through season after season, the Wintersport Mountain Socks have ski-boot-specific cushioning to keep feet comfortable from fresh tracks to last chair.Merino and nylon fabric blend is warm, durable and resists odours.Light cushioning on shin and forefoot are comfortable inside ski boots.Flat-knit toe seam.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134112669726/6010295-NVY13.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134112669726/6010295-NVY13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Wintersport Mountain Socks - Children to Youths",
+  "product_code": "6010-295",
+  "source_url": "https://www.mec.ca/en/product/6010-295/Wintersport-Mountain-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot",
+      "Shin"
+    ],
+    "Fabric content": [
+      "70% merino wool",
+      "29% nylon",
+      "1% elastane"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Snowboarding"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

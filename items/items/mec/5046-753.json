@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fire starters, matches and lighters",
+    "Tinder-On-a-Rope"
+  ],
+  "description": "Start a fire in any weather without using weird chemicals or producing noxious fumes. Made from the stumps of cultivated pine trees, it contains 80% resin content that's easy to light and burns hot.Contains pinus montezumae with up to 80% resin content.No dangerous goods shipping restrictions.Size is 15 x 2.2 x 2.2cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812627918878/5046753-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628115486/5046753-NOC02-ALT-DETAILS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628181022/5046753-NOC02-ALT-SHAVINGS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628213790/5046753-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628508702/5046753-NOC02-ALT-PACKING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812627918878/5046753-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628115486/5046753-NOC02-ALT-DETAILS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628181022/5046753-NOC02-ALT-SHAVINGS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628213790/5046753-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628508702/5046753-NOC02-ALT-PACKING.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812627918878/5046753-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628115486/5046753-NOC02-ALT-DETAILS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628181022/5046753-NOC02-ALT-SHAVINGS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628213790/5046753-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628508702/5046753-NOC02-ALT-PACKING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812627918878/5046753-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628115486/5046753-NOC02-ALT-DETAILS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628181022/5046753-NOC02-ALT-SHAVINGS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628213790/5046753-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812628508702/5046753-NOC02-ALT-PACKING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Light My Fire Tinder-On-a-Rope",
+  "product_code": "5046-753",
+  "source_url": "https://www.mec.ca/en/product/5046-753/Tinder-On-a-Rope",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Honduras"
+    ],
+    "Requires combustible materials\n\nProvides a point of  ignition to light fire, but not the fuel.": [
+      "No"
+    ],
+    "Requires ignition\n\nRequires a point of  ignition to light fire.": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ],
+    "Weight": [
+      "70g"
+    ]
+  }
+}

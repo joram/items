@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Cooking utensils and cutting boards",
+    "Cooking utensils and food prep",
+    "OpenFire Spatula"
+  ],
+  "description": "A substantial spatula for flipping pancakes like a pro over an open fire.Oak handle.Full-tang flexible stainless steel blade.Lanyard hole on the handle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867972186142/5052462-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867972186142/5052462-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Primus OpenFire Spatula",
+  "product_code": "5052-462",
+  "source_url": "https://www.mec.ca/en/product/5052-462/OpenFire-Spatula",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Heat resistant": [
+      "No"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Length": [
+      "40cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Steel",
+      "Wood"
+    ],
+    "Weight": [
+      "140g"
+    ]
+  }
+}

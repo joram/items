@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill ski poles and baskets",
+    "Challenger Ski Poles"
+  ],
+  "description": "For young shredders moving up the progression ladder. A parent-friendly price tag makes these a favourite from Komperdell. Plus they're strong and durable, with a reliable grip. Getting started on greens to blasting down blues and beyond, this pole lets junior riders challenge the hill.14mm diameter in 5083 aluminum.Durable Jet grips with an adjustable system strap.Race basket allow snag free turns.Steel tips handle ice and compact snow.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9043084705822/6004249-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9043084705822/6004249-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Komperdell Challenger Ski Poles",
+  "product_code": "6004-249",
+  "source_url": "https://www.mec.ca/en/product/6004-249/Challenger-Ski-Poles",
+  "tech_specs": {
+    "Grip material": [
+      "Polyurethane"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Austria"
+    ],
+    "Pole material": [
+      "Aluminum"
+    ],
+    "Sold in pairs": [
+      "Yes"
+    ]
+  }
+}

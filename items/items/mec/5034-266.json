@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike derailleurs",
+    "Rear derailleurs",
+    "RD-5701-L 105 GS Rear Derailleur"
+  ],
+  "description": "Incorporating improvements from Shimano\u00ae's Dura-Ace and Ultegra lines, the 105 RD-5701 offers great value. It's fast-shifting, rigid and responsive. The quality bearings offer a quieter ride than before.Wide link design.Max sprocket when used with a double chainset is 32T.Max sprocket when used with a triple chainset is 30T.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8953773850654/5034266-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8953773850654/5034266-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano RD-5701-L 105 GS Rear Derailleur",
+  "product_code": "5034-266",
+  "source_url": "https://www.mec.ca/en/product/5034-266/RD-5701-L-105-GS-Rear-Derailleur",
+  "tech_specs": {
+    "Cage length": [
+      "Medium"
+    ],
+    "Clutch\n\nOne-way friction clutch that increases chain tension, reduces chain and cage movement, and reduces dropped chains. Releases for wheel removal.": [
+      "No"
+    ],
+    "Compatibility": [
+      "10-speed"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Maximum capacity\n\nThe maximum number of teeth difference between the smallest and largest chainrings (front derailleur) or cogs (rear derailleur).": [
+      "40T"
+    ],
+    "Maximum sprocket": [
+      "32T"
+    ],
+    "Minimum sprocket": [
+      "11T"
+    ],
+    "Mounting\n\nBraze-on mounting uses fittings permanently mounted to the frame. Collar mounted derailleurs secure around the seat tube with a clamp. Direct mount are fastened to the chainstay.": [
+      "Direct"
+    ],
+    "Type": [
+      "Rear"
+    ],
+    "Weight": [
+      "240g"
+    ]
+  }
+}

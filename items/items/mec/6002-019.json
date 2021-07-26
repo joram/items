@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax",
+    "Fluoro-Free Liquid Glider Multigrade"
+  ],
+  "description": "Universal liquid product to be applied cold. Protects the ski-base and improves sliding. Spread it uniformly on the ski-base using the special dispenser pad, polish it with a cork, and you are ready to go.Works well in all types of snow, all snow and air humidity.Ideal with air temperature between -5 and -10\u00b0C.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015236198430/6002019-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015236198430/6002019-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rode Fluoro-Free Liquid Glider Multigrade",
+  "product_code": "6002-019",
+  "source_url": "https://www.mec.ca/en/product/6002-019/Fluoro-Free-Liquid-Glider-Multigrade",
+  "tech_specs": {
+    "Ideal for": [
+      "Snowboarding",
+      "Cross-country skiing",
+      "Backcountry skiing",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "State": [
+      "Liquid"
+    ],
+    "Type": [
+      "Glide"
+    ]
+  }
+}

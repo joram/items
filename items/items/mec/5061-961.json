@@ -1,0 +1,92 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Blankets and quilts",
+    "Stellar Blanket"
+  ],
+  "description": "Trek, travel and trudge along, knowing you'll be warm wherever you end up. This blanket is light and packs into it's own pocket so it can easily fit in your carry-on, backpack or suitcase. It has a cinchable bottom edge and can attach to other Therm-a-Rest products to help keep warmth in.30-denier polyester shell and lining is super-soft to the touch.DWR-treated shell repels water moisture and condensation.Water-resistant eraLoft polyester insulation uses hollow fibres for warmth and low weight.Cinchable bottom edge reduces drafts to keep heat in.Perimeter snap loops let you attach it to your Therm-a-Rest quilt, blanket, sheet or Mattress Snap Kit.Compresses into it's own pocket for easy travel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021998628894/5061961-DEP03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9025546420254/5061961-DEP03-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9025547337758/5061961-DEP03-ALT-SIZECOMPARE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081642254366/5061961-BPR05-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081642582046/5061961-BPR05-ALT-LOGO.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081642680350/5061961-BPR05-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081669582878/5061961-BPR05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021998628894/5061961-DEP03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9025546420254/5061961-DEP03-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9025547337758/5061961-DEP03-ALT-SIZECOMPARE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081642254366/5061961-BPR05-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081642582046/5061961-BPR05-ALT-LOGO.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081642680350/5061961-BPR05-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081669582878/5061961-BPR05.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021998628894/5061961-DEP03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9025546420254/5061961-DEP03-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9025547337758/5061961-DEP03-ALT-SIZECOMPARE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081642254366/5061961-BPR05-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081642582046/5061961-BPR05-ALT-LOGO.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081642680350/5061961-BPR05-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081669582878/5061961-BPR05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021998628894/5061961-DEP03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9025546420254/5061961-DEP03-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9025547337758/5061961-DEP03-ALT-SIZECOMPARE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081642254366/5061961-BPR05-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081642582046/5061961-BPR05-ALT-LOGO.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081642680350/5061961-BPR05-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081669582878/5061961-BPR05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Therm-a-Rest Stellar Blanket",
+  "product_code": "5061-961",
+  "source_url": "https://www.mec.ca/en/product/5061-961/Stellar-Blanket",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "DWR-treated shell fabric",
+      "Stuffs in own pocket"
+    ],
+    "Construction": [
+      "Sewn-through"
+    ],
+    "Face fabric": [
+      "30-denier polyester"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Backpacking",
+      "Travel"
+    ],
+    "Insulation": [
+      "220g/sq. m synthetic"
+    ],
+    "Length": [
+      "190cm"
+    ],
+    "Lining/backer": [
+      "30-denier polyester"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Packed size": [
+      "28 x 36cm"
+    ],
+    "Shape": [
+      "Rectangle"
+    ],
+    "Technology": [
+      "eraLoft"
+    ],
+    "Weight": [
+      "612g"
+    ],
+    "Width": [
+      "142cm"
+    ]
+  }
+}

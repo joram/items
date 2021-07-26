@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill ski poles and baskets",
+    "Arctic Lady Ski Poles"
+  ],
+  "description": "Not too flimsy, not too spendy. Just simple, strong poles for snowy adventures. Narrower grips suit smaller hands.Made of strong yet lightweight aluminum, 16mm diameter.Grips are bi-material synthetics, sized for smaller hands.Adjustable webbing straps.Standard downhill baskets.Downhill tips.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132512116766/5060599-WHG03.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132512116766/5060599-WHG03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Arctic Lady Ski Poles - Women's",
+  "product_code": "5060-599",
+  "source_url": "https://www.mec.ca/en/product/5060-599/Arctic-Lady-Ski-Poles",
+  "tech_specs": {
+    "Grip material": [
+      "Dual component synthetic"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Freeride and freeskiing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pole material": [
+      "Aluminum"
+    ],
+    "Sections": [
+      "1"
+    ],
+    "Sold in pairs": [
+      "Yes"
+    ]
+  }
+}

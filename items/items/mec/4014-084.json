@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Accessory carabiners and key holders",
+    "Micron Accessory Carabiner"
+  ],
+  "description": "Definitely NOT for climbing! This small wire gate accessory carabiner is for...accessories (or chihuahuas).Metal.Wire gate.Again: not for climbing use.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807431634974/4014084-AST04.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807431634974/4014084-AST04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Micron Accessory Carabiner",
+  "product_code": "4014-084",
+  "source_url": "https://www.mec.ca/en/product/4014-084/Micron-Accessory-Carabiner",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "30g"
+    ]
+  }
+}

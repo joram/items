@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Footwear accessories",
+    "Shoe and boot care",
+    "Fabric& Leather Protector"
+  ],
+  "description": "This product includes additives that improve the bond between the waterproofing polymers and synthetic fabric fibres (Cordura\u00ae, nylon, and polyester). The treatment improves the water-resistance of fabric boots, but cannot guarantee waterproofness. Also contains tanning agents to condition leather.Will not darken or affect the appearance of the boot.Can be applied to wet or dry boots.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815533162526/4016595-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815533162526/4016595-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nikwax Fabric & Leather Protector",
+  "product_code": "4016-595",
+  "source_url": "https://www.mec.ca/en/product/4016-595/Fabric%26-Leather-Protector",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Type": [
+      "Waterproofer"
+    ],
+    "Weight": [
+      "155g"
+    ]
+  }
+}

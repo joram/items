@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Gear lofts, vestibules and tent add-ons",
+    "Cabin Vestibule"
+  ],
+  "description": "Add this handy vestibule to your MEC Cabin 2.0 tent to keep your entrance dry or stash extra gear.Zips quickly and easily to the front fly, with one side acting as the attachment and the door.Includes 2 steel pegs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078223241246/5060378-AUT23.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078223241246/5060378-AUT23.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Cabin Vestibule",
+  "product_code": "5060-378",
+  "source_url": "https://www.mec.ca/en/product/5060-378/Cabin-Vestibule",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Vestibule coating": [
+      "Polyurethane"
+    ],
+    "Vestibule fabric": [
+      "75-denier polyester"
+    ],
+    "Vestibule waterproofness": [
+      "2000mm"
+    ]
+  }
+}

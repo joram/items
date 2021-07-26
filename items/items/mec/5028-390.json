@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Wash, repair and maintenance",
+    "Tape, needle and thread",
+    "Repair tape and patches",
+    "Duct Tape"
+  ],
+  "description": "Nothing is impossible with duct tape. Consider it your backcountry get-out-of-jail-free card.Two packable sized rolls of  5 x 127cm.Industrial strength for fixing skis, packs, cam triggers, and helicopter doors.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815549612062/5028390-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815549612062/5028390-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Survive Outdoors Longer Duct Tape",
+  "product_code": "5028-390",
+  "source_url": "https://www.mec.ca/en/product/5028-390/Duct-Tape",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Length": [
+      "127cm"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "45g"
+    ],
+    "Width": [
+      "5cm"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Duffey Lake Map"
+  ],
+  "description": "A topographic map for backcountry skiing in the Duffey Lake area of Southwestern British Columbia. This map describes ski mountaineering, backcountry skiing and hiking routes to alpine areas accessible from the Duffey lake area surrounding Cayoosh Pass along Highway 99. Includes ski ascents routes, ski runs, popular names, hiking trails, driving distances and parking areas. A great companion to guides such as Exploring the Coast Mountain on Skis, 103 Hikes in Southwestern British Columbia, Scrambles, or Alpine Select.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8866445951006/5053469-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8866445951006/5053469-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Duffey Lake Map",
+  "product_code": "5053-469",
+  "source_url": "https://www.mec.ca/en/product/5053-469/Duffey-Lake-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Alpine climbing and mountaineering",
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Scale": [
+      "1:33,300"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

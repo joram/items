@@ -1,0 +1,89 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike helmets and body armour",
+    "Bike helmets",
+    "Mobilite Helmet"
+  ],
+  "description": "Urban commuters get to enjoy the protection of MET\u2019s sport helmets  \u0336  without looking like you should be wearing full spandex. Small touches like bug-proof netting in the vents make sure the only thing in your hair is the wind.Integrated LED taillight and rear-facing reflector help keep you seen.Lightweight in-mold construction fuses EPS to a polycarbonate shell to help protect you from impacts.Extended coverage at the base of head.Removeable visor keeps weather off your face.Safe-T fit system lets you adjust your fit quickly and precisely.14 vents with netting let air flow through to keep you comfortable.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164678135838/6013594-MTG03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164678823966/6013594-MTG03-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687540254/6013594-MTG03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687573022/6013594-MTG03-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687212574/6013594-MAT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687409182/6013594-MAT00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687507486/6013594-MAT00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164677939230/6013594-MAT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164678135838/6013594-MTG03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164678823966/6013594-MTG03-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687540254/6013594-MTG03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687573022/6013594-MTG03-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687212574/6013594-MAT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687409182/6013594-MAT00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687507486/6013594-MAT00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164677939230/6013594-MAT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164678135838/6013594-MTG03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164678823966/6013594-MTG03-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687540254/6013594-MTG03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687573022/6013594-MTG03-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687212574/6013594-MAT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687409182/6013594-MAT00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687507486/6013594-MAT00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164677939230/6013594-MAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164678135838/6013594-MTG03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164678823966/6013594-MTG03-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687540254/6013594-MTG03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687573022/6013594-MTG03-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687212574/6013594-MAT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687409182/6013594-MAT00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164687507486/6013594-MAT00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164677939230/6013594-MAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MET Mobilite Helmet - Unisex",
+  "product_code": "6013-594",
+  "source_url": "https://www.mec.ca/en/product/6013-594/Mobilite-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Cycling"
+    ],
+    "Circumference\n\nThe internal circumference determines the size head that the helmet will fit.": [
+      "52-57cm (Matte Black Small/Medium)",
+      "57-60cm (Matte Black Medium/Large)"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Molded in the shell"
+    ],
+    "Fit system": [
+      "Adjustable dial"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "EN 1078"
+    ],
+    "Shell material": [
+      "Polycarbonate"
+    ],
+    "Vents": [
+      "Yes"
+    ],
+    "Weight": [
+      "270g (Medium/Large)"
+    ]
+  }
+}

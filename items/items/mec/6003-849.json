@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Chalk bags",
+    "Method Chalk Bag"
+  ],
+  "description": "A minimal design, with a slot for a brush and ample room for chalk, so you can remain focused on getting to the top of your route.Made of super burly Ballistic nylon with a soft fleece lining.Drawstring and cordlock hold chalk securely inside.Fleece patch on front is soft against your thumb.Includes a waistbelt and double loops for stability.Brush holder holds your favourite brush.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034175250462/6003849-LME34.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034566041630/6003849-LME34-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034175250462/6003849-LME34.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034566041630/6003849-LME34-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034175250462/6003849-LME34.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034566041630/6003849-LME34-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034175250462/6003849-LME34.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034566041630/6003849-LME34-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Flashed Method Chalk Bag",
+  "product_code": "6003-849",
+  "source_url": "https://www.mec.ca/en/product/6003-849/Method-Chalk-Bag",
+  "tech_specs": {
+    "Belt included": [
+      "Yes"
+    ],
+    "Brush holder": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Bouldering",
+      "Indoor climbing"
+    ],
+    "Lining": [
+      "Fleece"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "1680-denier ballistic nylon"
+    ],
+    "Number of belt loops": [
+      "2"
+    ],
+    "Stash pocket": [
+      "No"
+    ]
+  }
+}

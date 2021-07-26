@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shirts and tops",
+    "Training tank tops",
+    "Reylian Top"
+  ],
+  "description": "Burn through your HIIT session or settle deep into pigeon pose. Whether you're working up a sweat or focusing on your breath, the Reylian Top keeps you cool and comfortable. A wide shirttail hem and 4-way stretch fabric let you move freely through your workout.Made of super-soft Modal and spandex for breathability and unrestricted motion.High neck provides a little extra coverage.Back slit keeps you cool and adds a bit of flair.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8967073529886/5058567-CHY01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8972728336414/5058567-CHY01-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8974917009438/5058567-CHY01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8967073529886/5058567-CHY01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8972728336414/5058567-CHY01-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8974917009438/5058567-CHY01-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8967073529886/5058567-CHY01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8972728336414/5058567-CHY01-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8974917009438/5058567-CHY01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8967073529886/5058567-CHY01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8972728336414/5058567-CHY01-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8974917009438/5058567-CHY01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Reylian Top - Women's",
+  "product_code": "5058-567",
+  "source_url": "https://www.mec.ca/en/product/5058-567/Reylian-Top",
+  "tech_specs": {
+    "Fabric content": [
+      "95% Modal",
+      "5% spandex"
+    ],
+    "Ideal for": [
+      "Running, fitness and training"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

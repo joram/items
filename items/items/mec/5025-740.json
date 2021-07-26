@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike cables and housing",
+    "Deore SIS-SP41 Shift Inner/Outer Cable Set"
+  ],
+  "description": "A complete set of cables, including housings and caps for SIS shifters.Outer housing is 4mm diameter. 2, 600mm, 1, 340mm, and 2, 300mm.Inner cable is 1.2mm. 2, 2100mm.3 sealed outer caps with traditional ferrules.2 inner cable end caps.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806963216414/5025740-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806963216414/5025740-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano Deore SIS-SP41 Shift Inner/Outer Cable Set",
+  "product_code": "5025-740",
+  "source_url": "https://www.mec.ca/en/product/5025-740/Deore-SIS-SP41-Shift-Inner-Outer-Cable-Set",
+  "tech_specs": {
+    "Diameter": [
+      "1.2mm"
+    ],
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Length": [
+      "210cm"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Type": [
+      "Shifter"
+    ],
+    "Weight": [
+      "135g"
+    ]
+  }
+}

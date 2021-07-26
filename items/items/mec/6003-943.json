@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Replacement skins",
+    "Skintec Speed Skin 390 Replacement Skin"
+  ],
+  "description": "Replacement skins for speed focused skiers. These skins have a unique weave that exposes longer smoother hairs for improved glide.100% mohair offers great grip and glide across a wide range of conditions.Compatible with Atomic Skintec skis.39cm in length.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061792612382/6003943-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060902174750/6003943-NOC02-ALT-BOX.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060902469662/6003943-NOC02-ALT-LIFTER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061792612382/6003943-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060902174750/6003943-NOC02-ALT-BOX.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060902469662/6003943-NOC02-ALT-LIFTER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061792612382/6003943-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060902174750/6003943-NOC02-ALT-BOX.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060902469662/6003943-NOC02-ALT-LIFTER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061792612382/6003943-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060902174750/6003943-NOC02-ALT-BOX.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060902469662/6003943-NOC02-ALT-LIFTER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Atomic Skintec Speed Skin 390 Replacement Skin",
+  "product_code": "6003-943",
+  "source_url": "https://www.mec.ca/en/product/6003-943/Skintec-Speed-Skin-390-Replacement-Skin",
+  "tech_specs": {
+    "Ideal for": [
+      "Off-track touring",
+      "Fitness classic skiing",
+      "Classic ski racing"
+    ],
+    "Made in": [
+      "Austria"
+    ]
+  }
+}

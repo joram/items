@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Camp stoves and grills",
+    "Backcountry stoves",
+    "Canister stoves",
+    "Classic Trail LPG Stove"
+  ],
+  "description": "Simple to operate, a sturdy stove suitable for all temperate outdoor activities. It's convenient, just light it and cook, no pumping required, and it simmers precisely. LPG stoves do not function well at below-zero temperatures at low or medium altitudes, since the pressure inside LPG cartridges is reduced by the cold. At very high altitudes, the lower ambient air pressure helps offset the reduced internal cartridge pressure and improves sub-zero performance.Stainless steel body, brass fittings.Uses butane/propane canisters (sold separately). 225g canisters boil about 15L of water. 450g canisters boil about 30L of water.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042556977182/4010927-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042556977182/4010927-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Primus Classic Trail LPG Stove",
+  "product_code": "4010-927",
+  "source_url": "https://www.mec.ca/en/product/4010-927/Classic-Trail-LPG-Stove",
+  "tech_specs": {
+    "Boil time\n\nThe average time it takes to boil 1L of water. Wind, air temperature and elevation will affect boil time in the field.": [
+      "3\u00a0min"
+    ],
+    "Burner components": [
+      "Brass",
+      "Stainless steel",
+      "Aluminum"
+    ],
+    "Dimensions": [
+      "12.5\u00a0x\u00a05.5cm"
+    ],
+    "Fuel\n\nStoves are designed to burn specific fuels. All stoves should only be used with recommended fuels to prevent damage.": [
+      "LPG"
+    ],
+    "Fuel pump\n\nLiquid fuel stoves require a fuel pump to pressurize the fuel tank.": [
+      "No"
+    ],
+    "Heat reflector\n\nHeat reflectors are placed under the burner and reflect heat back up towards the cooking pot. This helps save fuel and speed cooking time.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output\n\nThe output of any heat generating device is shown in BTUs (British Thermal Units) which measure the amount of heat energy needed to raise the temperature of 1lb. of water by 1\u00b0F.": [
+      "10000BTU"
+    ],
+    "Piezo ignition": [
+      "No"
+    ],
+    "Pot included": [
+      "No"
+    ],
+    "Simmers": [
+      "Yes"
+    ],
+    "Weight": [
+      "227g"
+    ],
+    "Windscreen": [
+      "No"
+    ]
+  }
+}

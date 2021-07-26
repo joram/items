@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "E.C. Manning& Skagit Valley Provincial Park"
+  ],
+  "description": "BC Parks created this exceptional 1:50,000 scale map of Manning Park, and its beautiful cousin, Skagit Valley Park. These two parks share boundaries, span a huge area and offer hiking, biking, horse riding, cross-country and backcountry skiing. The map has detailed 25m contours and shaded relief, hike and traverse descriptions. GPS ready: UTM and latitude/longitude.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192209121310/6016280-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203649054/6016280-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203714590/6016280-NOC02-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192209121310/6016280-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203649054/6016280-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203714590/6016280-NOC02-ALT-B.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192209121310/6016280-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203649054/6016280-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203714590/6016280-NOC02-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192209121310/6016280-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203649054/6016280-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203714590/6016280-NOC02-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Clark Geomatics E.C. Manning & Skagit Valley Provincial Park",
+  "product_code": "6016-280",
+  "source_url": "https://www.mec.ca/en/product/6016-280/E-C-Manning%26-Skagit-Valley-Provincial-Park",
+  "tech_specs": {
+    "Edition": [
+      "3rd"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Backcountry skiing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

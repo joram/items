@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Maui Revealed: The Ultimate Guidebook 8th Edi"
+  ],
+  "description": "Plan your perfect Hawaiian vacation, whether you're a first-time visitor or a seasoned traveler. Maui Revealed includes candid reviews of restaurants, hotels, beaches and activities to help you make the most of your trip. Explore wild trails, secluded beaches, pristine reefs, stunning waterfalls and rugged craters, along with tons of other hidden gems.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944481763358/5059151-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944481763358/5059151-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Maui Revealed: The Ultimate Guidebook 8th Edition",
+  "product_code": "5059-151",
+  "source_url": "https://www.mec.ca/en/product/5059-151/Maui-Revealed%3A-The-Ultimate-Guidebook-8th-Edi",
+  "tech_specs": {
+    "Author": [
+      "Andrew Doughty"
+    ],
+    "Edition": [
+      "8th"
+    ],
+    "ISBN": [
+      "9780996131889"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pages": [
+      "316"
+    ],
+    "Published": [
+      "2018"
+    ],
+    "Regionality": [
+      "USA"
+    ]
+  }
+}

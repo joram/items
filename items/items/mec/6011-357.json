@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Saddles and seat posts",
+    "Saddles",
+    "ST5 S2 Saddle"
+  ],
+  "description": "Make every ride a comfortable one. With gel padding for extra squish, this comfortable saddle keeps daily rides in the happy zone.Central hole reduces pressure and improves comfort.Narrow sit width.Flexible gel padding for cushioning and dampening.Soft polyurethane cover.7mm steel alloy rails.Reflective details.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100673515550/6011357-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099999248414/6011357-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099999281182/6011357-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100673515550/6011357-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099999248414/6011357-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099999281182/6011357-BK000-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100673515550/6011357-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099999248414/6011357-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099999281182/6011357-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100673515550/6011357-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099999248414/6011357-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099999281182/6011357-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Selle Italia ST5 S2 Saddle - Unisex",
+  "product_code": "6011-357",
+  "source_url": "https://www.mec.ca/en/product/6011-357/ST5-S2-Saddle",
+  "tech_specs": {
+    "Cover material": [
+      "Synthetic"
+    ],
+    "Dimensions": [
+      "27.6\u00a0x\u00a015.5cm"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Rails": [
+      "Steel alloy"
+    ],
+    "Weight": [
+      "396g"
+    ]
+  }
+}

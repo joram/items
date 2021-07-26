@@ -1,0 +1,85 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Hydration packs and accessories",
+    "Bladders, reservoirs and accessories",
+    "Velocity Reservoir"
+  ],
+  "description": "Be your own hydration station. Designed for runners, the Hydrapak Velocity Reservoir fits a small pack or vest. The big opening makes it fast to fill at aid stations, so you can get back on the course. Once you're home, the hose connector and fully reversible design are easy to clean and dry before your next run.Lightweight 0.25mm TPU film is BPA- and PVC-free.Sliding top opening allows rapid refills at aid stations.Top handles to hold it while filling.Bite valve on/off switch prevents leaks.High-flow hose with a Plug-N-Play connector to remove it quickly.Fully reversible design for easy cleaning and drying.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017614827550/5063867-MAL10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915553310/5063867-MAL10-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915586078/5063867-MAL10-ALT-HOSECONNECTION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915717150/5063867-MAL10-ALT-CLIPBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915749918/5063867-MAL10-ALT-CLIPFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915913758/5063867-MAL10-ALT-CLIPCONNECTOR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915880990/5063867-MAL10-ALT-PRODUCTINFO.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018916012062/5063867-MAL10-ALT-SEAM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018916044830/5063867-MAL10-ALT-HOSECONNECTION2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017614827550/5063867-MAL10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915553310/5063867-MAL10-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915586078/5063867-MAL10-ALT-HOSECONNECTION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915717150/5063867-MAL10-ALT-CLIPBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915749918/5063867-MAL10-ALT-CLIPFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915913758/5063867-MAL10-ALT-CLIPCONNECTOR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915880990/5063867-MAL10-ALT-PRODUCTINFO.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018916012062/5063867-MAL10-ALT-SEAM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018916044830/5063867-MAL10-ALT-HOSECONNECTION2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017614827550/5063867-MAL10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915553310/5063867-MAL10-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915586078/5063867-MAL10-ALT-HOSECONNECTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915717150/5063867-MAL10-ALT-CLIPBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915749918/5063867-MAL10-ALT-CLIPFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915913758/5063867-MAL10-ALT-CLIPCONNECTOR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915880990/5063867-MAL10-ALT-PRODUCTINFO.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018916012062/5063867-MAL10-ALT-SEAM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018916044830/5063867-MAL10-ALT-HOSECONNECTION2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017614827550/5063867-MAL10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915553310/5063867-MAL10-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915586078/5063867-MAL10-ALT-HOSECONNECTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915717150/5063867-MAL10-ALT-CLIPBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915749918/5063867-MAL10-ALT-CLIPFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915913758/5063867-MAL10-ALT-CLIPCONNECTOR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018915880990/5063867-MAL10-ALT-PRODUCTINFO.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018916012062/5063867-MAL10-ALT-SEAM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018916044830/5063867-MAL10-ALT-HOSECONNECTION2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hydrapak Velocity Reservoir",
+  "product_code": "5063-867",
+  "source_url": "https://www.mec.ca/en/product/5063-867/Velocity-Reservoir",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Bite valve shut-off switch": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Internal baffle\n\nInternal baffles help reduce liquid sloshing.": [
+      "No"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Polyurethane"
+    ],
+    "Quick-disconnect tube": [
+      "Yes"
+    ],
+    "Volume": [
+      "1.5L"
+    ],
+    "Weight": [
+      "125g"
+    ]
+  }
+}

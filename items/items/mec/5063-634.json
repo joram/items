@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Shoes",
+    "Sneakers and casual shoes",
+    "Landis 2 TX Shoes"
+  ],
+  "description": "Understated beachy shoes made of classic linen fabric, and lined with stout canvas .Uppers are premium linen canvas.Canvas lining.Cotton webbing heel tabs.Contoured EVA sockliner with arch support and heel cupping",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028064739358/5063634-CHB07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028947902494/5063634-CHB07-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028947935262/5063634-CHB07-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028948099102/5063634-CHB07-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028064739358/5063634-CHB07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028947902494/5063634-CHB07-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028947935262/5063634-CHB07-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028948099102/5063634-CHB07-ALT-SOLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028064739358/5063634-CHB07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028947902494/5063634-CHB07-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028947935262/5063634-CHB07-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028948099102/5063634-CHB07-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028064739358/5063634-CHB07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028947902494/5063634-CHB07-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028947935262/5063634-CHB07-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028948099102/5063634-CHB07-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Reef Landis 2 TX Shoes - Men's",
+  "product_code": "5063-634",
+  "source_url": "https://www.mec.ca/en/product/5063-634/Landis-2-TX-Shoes",
+  "tech_specs": {
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Upper material": [
+      "Canvas"
+    ]
+  }
+}

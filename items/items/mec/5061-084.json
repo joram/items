@@ -1,0 +1,67 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Gloves and mittens",
+    "Gloves",
+    "Heat Gloves 4.0 (Batteries Sold Separately)"
+  ],
+  "description": "A battery-powered heating element hidden in your gloves is technology's answer to winter's coldest days. A durable, waterproof shell with Primaloft\u00ae insulation and fleece lining keeps your hands warm in cool conditions, but for deeply cold days, connect Lenz's lithium battery packs to heat fingers and keep your manual dexterity. Individual heating elements right up to your fingertips keep you warm and cozy while skiing, snowshoeing or climbing \u2013 plus, the index finger and thumb are touchscreen-compatible.Waterproof polyester, nylon and spandex shell has 4-way stretch for full dexterity.Polyester fleece lining adds warmth without excess bulk.Goat leather palm for durability and grip.Primaloft\u00ae insulation in backs of hands.Integrated heat element heats each finger separately.Touchscreen-compatible index and thumb let you cycle songs without removing gloves.Compatible with Lenz Lithium Pack rcB 1200 and rcB 1800 (sold separately).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994969059358/5061084-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994969059358/5061084-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Lenz Heat Gloves 4.0 (Batteries Sold Separately) - Men's",
+  "product_code": "5061-084",
+  "source_url": "https://www.mec.ca/en/product/5061-084/Heat-Gloves-4-0-%28Batteries-Sold-Separately%29",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Goggle wipe",
+      "Heated"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snow and ice climbing",
+      "Downhill skiing",
+      "Snowboarding"
+    ],
+    "Insulation": [
+      "Heavy"
+    ],
+    "Liner fabric": [
+      "100% polyester"
+    ],
+    "Liner type": [
+      "Sewn-in"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "60% polyester",
+      "20% nylon",
+      "20% spandex"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Leather"
+    ],
+    "Touchscreen compatible": [
+      "Yes"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "Yes"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

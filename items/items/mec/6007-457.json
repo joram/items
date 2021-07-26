@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Crampons and components",
+    "Crampons",
+    "Stalker Universal Crampons"
+  ],
+  "description": "Great for mountaineering and glacier crossings that don't involve technical climbing, the Stalker Universal Crampon has an updated profile to fit modern mountaineering boots. With a universal binding, they're adaptable to almost any footwear, and fit flexible hiking boots or mountaineering boots without toe or heel welts.Made of durability chromoly steel.12 points design is great for general mountaineering.Binding has thermoplastic heel and toe harness, plus nylon straps.Dynamic anti-balling plates prevent snow and ice buildup.Flexible centre bar works with flexible footwear.Tool-free adjustment for easy sizing.Comes with carrying case for storage.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153973223454/6007457-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153978892318/6007457-NOC02-ALT-BEND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153979023390/6007457-NOC02-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153973223454/6007457-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153978892318/6007457-NOC02-ALT-BEND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153979023390/6007457-NOC02-ALT-BOTTOM.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153973223454/6007457-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153978892318/6007457-NOC02-ALT-BEND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153979023390/6007457-NOC02-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153973223454/6007457-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153978892318/6007457-NOC02-ALT-BEND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153979023390/6007457-NOC02-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Stalker Universal Crampons - Unisex",
+  "product_code": "6007-457",
+  "source_url": "https://www.mec.ca/en/product/6007-457/Stalker-Universal-Crampons",
+  "tech_specs": {
+    "Antibott included\n\nAnti-snow plates keep snow from balling underfoot.": [
+      "Yes"
+    ],
+    "Attachment system": [
+      "Strap-on"
+    ],
+    "Boot sizes\n\nThe manufacturers' recommended boot size. Some crampons can be extended by changing the centre rail.": [
+      "36-48"
+    ],
+    "Front points": [
+      "Fixed"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Material": [
+      "Chromoly steel"
+    ],
+    "Weight": [
+      "885g"
+    ]
+  }
+}

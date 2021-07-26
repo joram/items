@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard goggles",
+    "Riot Goggles"
+  ],
+  "description": "Lightweight, flexible, and comfy, the Riot Goggles conform to lots of different face shapes for gap-free, pressure-free wear. Includes 2 lenses, one for bright sun and one for overcast or cloudy days.Designed for medium sized faces.ChromaPop\u00ae lenses deliver exceptional clarity, high contrast, and dynamic colour optimization, making them great for challenging light conditions.Ventilated cylindrical lenses provide crisp detail edge-to-edge.Tapered Lens Technology (TLT) ensures accurate colors and distortion free viewing.Urethane frame uses Responsive Fit\u2122 that's very flexible without losing strength, so it adjusts to contours of any face shape.2-layer DriWix foam provides a comfortable, breathable seal.Wide, silicone backed strap has a quick-fit adjustment system.Includes a spare yellow with 65% visible light transmission.Includes an extra lens and a microfiber goggle bag.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125753159710/5055593-WVM08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125753061406/5055593-VVM08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125753159710/5055593-WVM08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125753061406/5055593-VVM08.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125753159710/5055593-WVM08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125753061406/5055593-VVM08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125753159710/5055593-WVM08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125753061406/5055593-VVM08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smith Riot Goggles - Women's",
+  "product_code": "5055-593",
+  "source_url": "https://www.mec.ca/en/product/5055-593/Riot-Goggles",
+  "tech_specs": {
+    "100% UV protection\n\nProvides 100% protection against UVA and UVB rays.": [
+      "Yes"
+    ],
+    "Anti-fog coating\n\nA coating on the inside of the lens that inhibits condensation.": [
+      "Yes"
+    ],
+    "Fits over most eyewear\n\nThese optics are designed to fit comfortably over most eyewear.": [
+      "No"
+    ],
+    "Helmet compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing",
+      "Snowboarding"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Scratch-resistant lens": [
+      "Yes"
+    ],
+    "Vents\n\nVents allow airflow through the goggles which helps to prevent fogging.": [
+      "Yes"
+    ],
+    "Visible Light Transmission\n\n0-10% \u2013 very heavy tint, too dark for most needs. \n10-30% \u2013 heavy tint for bright sunny days.\n20-60% \u2013 light tint, great for cloudy, overcast conditions and shady trails. \n60-80% \u2013 very light tint (often coloured), for improving contrast in low-light conditions, think dawn or dusk. \n80-100% \u2013 little to no tint, this what you want in the dark.": [
+      "23% (Violet/Chromapop Everyday Violet Mirror)",
+      "13% (White Vapor/Chromapop Sun Platinum Mirror)"
+    ]
+  }
+}

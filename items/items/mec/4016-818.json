@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "20mm Metal D Ring"
+  ],
+  "description": "Metal D-ring. Use with 20mm webbing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815561703454/4016818-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815561703454/4016818-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Linal 20mm Metal D Ring",
+  "product_code": "4016-818",
+  "source_url": "https://www.mec.ca/en/product/4016-818/20mm-Metal-D-Ring",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "7g"
+    ]
+  }
+}

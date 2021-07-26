@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Provinces Maritimes du Canada"
+  ],
+  "description": "A guide the Maritime provinces of Nova Scotia, New Brunswick and Prince Edward Island. Explore the beauty of the Atlantic Coast with its beaches, lighthouses, and Acadian history. Find out where to stay, where to eat, and what to do to get the most out of your trip. Text in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879849537566/5054483-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881079517214/5054483-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879849537566/5054483-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881079517214/5054483-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879849537566/5054483-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881079517214/5054483-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879849537566/5054483-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881079517214/5054483-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses Provinces Maritimes du Canada",
+  "product_code": "5054-483",
+  "source_url": "https://www.mec.ca/en/product/5054-483/Provinces-Maritimes-du-Canada",
+  "tech_specs": {
+    "Author": [
+      "Benoit Prieur"
+    ],
+    "ISBN": [
+      "9782894647370"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "Atlantic Provinces"
+    ]
+  }
+}

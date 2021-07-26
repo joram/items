@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Woodland Caribou Provincial Park Map"
+  ],
+  "description": "Looking for a quiet, secluded area? With access only by boat or plane, Woodland Caribou Provincial Park is the retreat you've been looking for. There are over 4,000 square kilometers of scenic lakes, rivers, waterfalls and wetlands. Includes access points, portages, lake elevations, sample routes and information on backcountry procedures, natural history, fishing, safety tips and contact information to help you plan your getaway. Also includes the town of Red Lake.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815853535262/5035554-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815853535262/5035554-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Map Woodland Caribou Provincial Park Map",
+  "product_code": "5035-554",
+  "source_url": "https://www.mec.ca/en/product/5035-554/Woodland-Caribou-Provincial-Park-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Camping and hiking",
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Ontario"
+    ],
+    "Scale": [
+      "1:110,000"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

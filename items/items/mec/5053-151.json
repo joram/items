@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Bike service parts",
+    "Derailleur Hanger for Provincial Road 233"
+  ],
+  "description": "A replacement derailleur hanger for the MEC Provincial Road 233 Bike.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8876860243998/5053151-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8876860243998/5053151-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Derailleur Hanger for Provincial Road 233",
+  "product_code": "5053-151",
+  "source_url": "https://www.mec.ca/en/product/5053-151/Derailleur-Hanger-for-Provincial-Road-233",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

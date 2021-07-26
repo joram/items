@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Faster:Demystifying the Science of Triathlon"
+  ],
+  "description": "Get the most out of your training and your gear to achieve what every triathlete wants \u2013 going faster. The author is an aerospace engineer and seasoned triathlete who understands that harder training and costly high-tech equipment won't necessarily deliver the results you want. Learn to understand the forces that really matter, and focus on smart training and making selective gear upgrades to deliver results and put speed increases within your grasp.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815754706974/5036004-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815754706974/5036004-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Faster:Demystifying the Science of Triathlon",
+  "product_code": "5036-004",
+  "source_url": "https://www.mec.ca/en/product/5036-004/Faster%3ADemystifying-the-Science-of-Triathlon",
+  "tech_specs": {
+    "Author": [
+      "Jim Gourley"
+    ],
+    "ISBN": [
+      "9781937715021"
+    ],
+    "Ideal for": [
+      "Triathlon"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "216"
+    ],
+    "Published": [
+      "2013"
+    ]
+  }
+}

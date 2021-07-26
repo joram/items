@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Cyclotourisme en France"
+  ],
+  "description": "Ride the most beautiful routes of France: Perigord, Quercy, Burgundy, the Loire Valley, Alsace, Camargue, Brittany and Normandy. Designed for bike lovers, this guide covers preparation, services available and route planning. Spiral binding for convenience. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815676620830/5046906-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815676620830/5046906-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses Cyclotourisme en France",
+  "product_code": "5046-906",
+  "source_url": "https://www.mec.ca/en/product/5046-906/Cyclotourisme-en-France",
+  "tech_specs": {
+    "Author": [
+      "Carole Saint-Laurent"
+    ],
+    "Edition": [
+      "2nd"
+    ],
+    "ISBN": [
+      "9782894643389"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Cycle touring and bikepacking"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "366"
+    ],
+    "Published": [
+      "2001"
+    ],
+    "Regionality": [
+      "Europe"
+    ]
+  }
+}

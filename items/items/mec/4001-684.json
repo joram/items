@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Aid climbing gear",
+    "Swivel"
+  ],
+  "description": "Fitted between the rope and a load, this swivel allows the load to turn without twisting the rope when hauling.Sealed ball bearings.Accepts up to three carabiners on the load side.Breaking strength is 23kN.Working load is 5kN.CE certified.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807417446430/4001684-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807417446430/4001684-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Swivel",
+  "product_code": "4001-684",
+  "source_url": "https://www.mec.ca/en/product/4001-684/Swivel",
+  "tech_specs": {
+    "Ideal for": [
+      "High angle rescue"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Weight": [
+      "95g"
+    ]
+  }
+}

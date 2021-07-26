@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fire starters, matches and lighters",
+    "Magnesium Fire Starter"
+  ],
+  "description": "Shavings of magnesium provide a flame source of 2982\u00b0C.Kit includes sufficient shavings to start several hundred fires.Designed for safe use.Instructions included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101533118494/4009458-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101533052958/4009458-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101533118494/4009458-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101533052958/4009458-NOC02-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101533118494/4009458-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101533052958/4009458-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101533118494/4009458-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101533052958/4009458-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Magnesium Fire Starter",
+  "product_code": "4009-458",
+  "source_url": "https://www.mec.ca/en/product/4009-458/Magnesium-Fire-Starter",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Requires combustible materials\n\nProvides a point of  ignition to light fire, but not the fuel.": [
+      "Yes"
+    ],
+    "Requires ignition\n\nRequires a point of  ignition to light fire.": [
+      "No"
+    ],
+    "Waterproof": [
+      "Yes"
+    ],
+    "Weight": [
+      "125g"
+    ]
+  }
+}

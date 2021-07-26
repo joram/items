@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Fleece jackets",
+    "Wayroute Crew"
+  ],
+  "description": "A cozy fleece crew for powder days and shoulder-season evenings. Power Grid\u2122 fleece locks in your body heat without adding bulk, great by itself on cool days or with a puffy coat when it's cold.Polartec\u00ae Power Grid\u2122 fleece provides excellent warmth and retains lightness.Reinforced elbows and pocket openings.Plenty of secure pocket space.Slim fit has a trim, athletic fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192208662558/6016183-ASP24.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203485214/6016183-ASP24-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203550750/6016183-ASP24-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192208662558/6016183-ASP24.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203485214/6016183-ASP24-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203550750/6016183-ASP24-ALT-B.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192208662558/6016183-ASP24.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203485214/6016183-ASP24-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203550750/6016183-ASP24-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192208662558/6016183-ASP24.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203485214/6016183-ASP24-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203550750/6016183-ASP24-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Wayroute Crew - Women's",
+  "product_code": "6016-183",
+  "source_url": "https://www.mec.ca/en/product/6016-183/Wayroute-Crew",
+  "tech_specs": {
+    "Fabric content": [
+      "95% polyester",
+      "5% elastane"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "216gsm"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Backcountry skiing"
+    ],
+    "Made in": [
+      "Jordan"
+    ],
+    "Pockets": [
+      "2 handwarmer zippered"
+    ],
+    "Secondary fabric": [
+      "100% nylon"
+    ],
+    "Type": [
+      "Fleece"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike derailleurs",
+    "Derailleur hangers, pulley wheels and parts",
+    "Fenix/Liz Carbon 2013+ Derailleur Hanger"
+  ],
+  "description": "A replacement derailleur hanger for a 2013 or later Ridley Fenix or Liz Carbon Bike.Ridley part number is HANRCERID031.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806976651294/5037049-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806977011742/5037049-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806976651294/5037049-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806977011742/5037049-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806976651294/5037049-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806977011742/5037049-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806976651294/5037049-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806977011742/5037049-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ridley Fenix/Liz Carbon 2013+ Derailleur Hanger",
+  "product_code": "5037-049",
+  "source_url": "https://www.mec.ca/en/product/5037-049/Fenix-Liz-Carbon-2013%2B-Derailleur-Hanger",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Mountaineering axes",
+    "Air Tech Evolution T Ice Axe"
+  ],
+  "description": "A state-of-the-art mountaineering axe that bridges the gap between traditional mountain ice axes and technical steep ice tools. The gently curved shaft offers clearance over bulges and good leverage when you\u2019re really pulling hard.Lightweight, shaped aluminum shaft.Pick is one piece with an aggressive tip.Flush mounted durable spike aids plunging.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8943726264350/5055587-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8943726264350/5055587-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Grivel Air Tech Evolution T Ice Axe",
+  "product_code": "5055-587",
+  "source_url": "https://www.mec.ca/en/product/5055-587/Air-Tech-Evolution-T-Ice-Axe",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Adze"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "48cm (48 cm)",
+      "53cm (53 cm)",
+      "58cm (58 cm)",
+      "66cm (66 cm)"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Removable pick": [
+      "No"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "T-rated"
+    ],
+    "Weight": [
+      "430g (48 cm)"
+    ]
+  }
+}

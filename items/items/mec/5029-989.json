@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax stands, vises and tables",
+    "Economy Waxing Table"
+  ],
+  "description": "A waxing table that with slots for mounting cross-country ski profiles. The compact design is ideal for shorter ski lengths and snowboards.One leg is height adjustable.Removable table top is made of wood.Slots for mounting 2 sets of Swix cross-country waxing profiles.Also works with a pair of ski vices.Table top dimensions are 96 x 45 cm. Height is 83cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817192108062/5029989-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817192108062/5029989-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Swix Economy Waxing Table",
+  "product_code": "5029-989",
+  "source_url": "https://www.mec.ca/en/product/5029-989/Economy-Waxing-Table",
+  "tech_specs": {
+    "Dimensions": [
+      "96\u00a0x\u00a045\u00a0x\u00a083cm"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Cross-country skiing",
+      "Snowboarding",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "11.5kg"
+    ]
+  }
+}

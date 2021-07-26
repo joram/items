@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling footwear",
+    "Cycling shoes",
+    "Livewire Cycling Shoes"
+  ],
+  "description": "This stealthy freeride shoe combines serious big mountain performance with urban styling. Ride Concepts worked with the experts at Rubber Kinetics to create a proprietary outsole compound that provides excellent grip on flat pedals without sacrificing durability. Custom-molded toe and heel guards and a reinforced insole protect your feet from big hits. The stylish suede-like upper is made from durable synthetic with anti-abrasion mesh.Durable synthetic upper with anti-abrasion mesh.Fully gusseted tongue keeps debris out.Molded toe and heel guard.D30 insole adds additional protection in high impact zones underfoot.EVA midsole provides support and shock absorption.Proprietary outsole compound strikes a balance between grip and durability.Hexagonal outsole tread pattern enhances grip on flat pedals.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202474844190/6005499-NVT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040108650526/6005499-NVT00-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040108814366/6005499-NVT00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040108847134/6005499-NVT00-ALT-TOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202474844190/6005499-NVT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040108650526/6005499-NVT00-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040108814366/6005499-NVT00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040108847134/6005499-NVT00-ALT-TOE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202474844190/6005499-NVT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040108650526/6005499-NVT00-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040108814366/6005499-NVT00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040108847134/6005499-NVT00-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202474844190/6005499-NVT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040108650526/6005499-NVT00-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040108814366/6005499-NVT00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040108847134/6005499-NVT00-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ride Concepts Livewire Cycling Shoes - Women's",
+  "product_code": "6005-499",
+  "source_url": "https://www.mec.ca/en/product/6005-499/Livewire-Cycling-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Outsole": [
+      "Rubber"
+    ],
+    "Pedal compatibility": [
+      "Flat"
+    ],
+    "Upper material": [
+      "Synthetic"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

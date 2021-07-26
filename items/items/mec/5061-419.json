@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Edge tuning tools",
+    "Puck Swiss Diamond Disc Stone"
+  ],
+  "description": "Mounted on a 5.5mm thick, precision cast-aluminum backer, the Diamond Disc Stones are the perfect tool to get your edges polished. While these can be handheld, they're the perfect companions to the Tools4Boards Switch system. The full range of grits take care of everything from deburring edges after filing to polishing and smoothing for a mirror finish.Diamond sheet is mounted on a flat, precision die-cast aluminum alloy backer.Extra-thick 5.5mm backer dampens vibration and will not flex and roll over to dull the cutting surface of the ski or snowboard edge.Unique diamond cluster pattern lasts longer than conventional diamond sheet.Use 100 extra-coarse grit in place of a smooth (fine) finishing file for deburring and removing case hardening from edges caused by hitting rocks. It's also ideal for de-tuning the shovel and tail.Use 200 coarse grit as the second stone as you progress from coarse to fine grit while deburring and smoothing your edges.Use 400 medium grit (usually as a third stone) for all-around maintenance and polishing for sharp, smooth edges.Use 800 fine grit as the first stone of final polishing after edge bevel and sharpness are established.Use 1500 X-fine grit for establishing a mirror finish and ultimate edge smoothness through final polishing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997048025118/5061419-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283102750/5061419-NOC02-ALT1500GRIT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283135518/5061419-NOC02-ALT-400GRIT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283332126/5061419-NOC02-ALT-800GRIT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283692574/5061419-NOC02-ALT-200GRIT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997048025118/5061419-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283102750/5061419-NOC02-ALT1500GRIT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283135518/5061419-NOC02-ALT-400GRIT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283332126/5061419-NOC02-ALT-800GRIT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283692574/5061419-NOC02-ALT-200GRIT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997048025118/5061419-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283102750/5061419-NOC02-ALT1500GRIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283135518/5061419-NOC02-ALT-400GRIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283332126/5061419-NOC02-ALT-800GRIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283692574/5061419-NOC02-ALT-200GRIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997048025118/5061419-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283102750/5061419-NOC02-ALT1500GRIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283135518/5061419-NOC02-ALT-400GRIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283332126/5061419-NOC02-ALT-800GRIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997283692574/5061419-NOC02-ALT-200GRIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Tools4Boards Puck Swiss Diamond Disc Stone",
+  "product_code": "5061-419",
+  "source_url": "https://www.mec.ca/en/product/5061-419/Puck-Swiss-Diamond-Disc-Stone",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Off-track touring",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Switzerland"
+    ]
+  }
+}

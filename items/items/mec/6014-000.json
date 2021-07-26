@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Tablecloth Clamps (6 Pack)"
+  ],
+  "description": "No one wants their picnic to blow away in the wind. These clamps secure your tablecloth to most picnic tables.Made of rust-resistant steel.Fits tables up to 5cm thick.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191801159710/6014000-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191799390238/6014000-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191801159710/6014000-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191799390238/6014000-NOC02-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191801159710/6014000-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191799390238/6014000-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191801159710/6014000-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191799390238/6014000-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Tablecloth Clamps (6 Pack)",
+  "product_code": "6014-000",
+  "source_url": "https://www.mec.ca/en/product/6014-000/Tablecloth-Clamps-%286-Pack%29",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Material": [
+      "Steel"
+    ]
+  }
+}

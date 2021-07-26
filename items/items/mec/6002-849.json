@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Fleece jackets",
+    "Lunar Frost Jacket"
+  ],
+  "description": "Plush fleece for chalet evenings. The boxy and cropped silouette is great for apr\u00e8s lounging.Made of deep-pile polyester fleece.Full length zipper with thick pile collar.Elasticized hem gives a slight bubble finish.Cropped length.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058089500702/6002849-NAT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058087469086/6002849-NAT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058089500702/6002849-NAT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058087469086/6002849-NAT00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058089500702/6002849-NAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058087469086/6002849-NAT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058089500702/6002849-NAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058087469086/6002849-NAT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Lunar Frost Jacket - Women's",
+  "product_code": "6002-849",
+  "source_url": "https://www.mec.ca/en/product/6002-849/Lunar-Frost-Jacket",
+  "tech_specs": {
+    "Fabric content": [
+      "65% polyester",
+      "35% recycled polyester"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "335gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 handwarmer"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "Secondary fabric": [
+      "100% recycled polyester"
+    ]
+  }
+}

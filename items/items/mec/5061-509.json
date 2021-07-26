@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tires",
+    "X'Plor MSO 650b Foldable Bead Tire"
+  ],
+  "description": "Bridge the gap between chasing pavement and blazing your own trail. Designed for mixed conditions from off-road touring to gravel racing, the X'Plor MSO fits cyclocross, commuter or touring bikes.Smooth-rolling centre knobs and aggressive shoulder lugs provide traction and durability on dirt, trails or asphalt.Soft rubber compound provides grip and shock absorption.MSO is the airport code of Missoula, Montana, home of the Adventure Cycling Association.This tire requires a tube.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8982031728670/5061509-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983223500830/5061509-BK000-ALT-TREAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983223533598/5061509-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8982031728670/5061509-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983223500830/5061509-BK000-ALT-TREAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983223533598/5061509-BK000-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8982031728670/5061509-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983223500830/5061509-BK000-ALT-TREAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983223533598/5061509-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8982031728670/5061509-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983223500830/5061509-BK000-ALT-TREAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983223533598/5061509-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Donnelly X'Plor MSO 650b Foldable Bead Tire",
+  "product_code": "5061-509",
+  "source_url": "https://www.mec.ca/en/product/5061-509/X%27Plor-MSO-650b-Foldable-Bead-Tire",
+  "tech_specs": {
+    "Bead\n\nThe bead holds the tire onto the rim. Beads may be hoops of wire, or made of a flexible material which allows them to be folded compactly. Folding tires are easier to store or pack on trips.": [
+      "Folding"
+    ],
+    "ETRTO\n\nISO/ETRTO universal tire sizing system number for matching the correct tire to the rim.": [
+      "42-584"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Cycle touring",
+      "Cyclocross"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Recommended PSI\n\nInflating your tires over the recommended PSI (pounds per square inch) could cause your tube and/or tire to rupture.": [
+      "35-55psi"
+    ],
+    "TPI\n\nThreads per inch. Tires with a higher TPI tend to be more supple and lighter, with less rolling resistance, but are less durable.": [
+      "60"
+    ],
+    "Tire size": [
+      "650B X 42"
+    ],
+    "Tire type": [
+      "Clincher"
+    ],
+    "Weight": [
+      "546g"
+    ],
+    "Wheel position": [
+      "Rear",
+      "Front"
+    ]
+  }
+}

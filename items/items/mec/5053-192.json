@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Jeans",
+    "Performance Twill Jeans"
+  ],
+  "description": "A classic look and style, but constructed in a technical fabric to make them just a little bit better.Slim fit with straight legs works well on lean, athletic physiques.Organic cotton and polyester offers a nice mechanical stretch.Polyester content helps wick moisture away from the skin.Classic 5-pocket layout for all your day-to-day necessities.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889350488094/5053192-MKH00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007320006686/5053192-FRG00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007321219102/5053192-FRG00-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007293825054/5053192-FRG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889350488094/5053192-MKH00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007320006686/5053192-FRG00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007321219102/5053192-FRG00-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007293825054/5053192-FRG00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889350488094/5053192-MKH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007320006686/5053192-FRG00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007321219102/5053192-FRG00-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007293825054/5053192-FRG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889350488094/5053192-MKH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007320006686/5053192-FRG00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007321219102/5053192-FRG00-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007293825054/5053192-FRG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Performance Twill Jeans - Men's",
+  "product_code": "5053-192",
+  "source_url": "https://www.mec.ca/en/product/5053-192/Performance-Twill-Jeans",
+  "tech_specs": {
+    "Fabric content": [
+      "67% organically grown cotton",
+      "33% polyester"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "255gsm"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "32in. (34)"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Sri Lanka"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "1 front drop-in",
+      "2 back"
+    ]
+  }
+}

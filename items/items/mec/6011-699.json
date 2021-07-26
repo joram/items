@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill ski poles and baskets",
+    "Smash Poles"
+  ],
+  "description": "A pole for more than just one ski season. These sweet little sticks are made of durable aluminum, and they offer easy length adjustment of up to 25cm. Your young shredder is growing in more ways than one, and these poles can keep up with those growth spurts. With steel tips and a nice grip, they'll still handle nicely on the hill.Adjustable 7075 aluminum ski pole from 80-105 cm.2-section 16mm upper and 14mm lower diameter.Twist lock system for secure height adjustment.Durable polyurethane grips with an adjustable standard strap.Race baskets allow snag free turns.Steel tips handle ice and compact snow.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138055086110/6011699-PNK00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138055086110/6011699-PNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Komperdell Smash Poles - Children",
+  "product_code": "6011-699",
+  "source_url": "https://www.mec.ca/en/product/6011-699/Smash-Poles",
+  "tech_specs": {
+    "Extended length": [
+      "105cm"
+    ],
+    "Grip material": [
+      "Polyurethane"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Locking mechanism": [
+      "Twist lock"
+    ],
+    "Made in": [
+      "Austria"
+    ],
+    "Packed length\n\nThe shortest length of the pole when all sections have been compacted.": [
+      "80cm"
+    ],
+    "Pole material": [
+      "Aluminum"
+    ],
+    "Sections": [
+      "2"
+    ],
+    "Sold in pairs": [
+      "Yes"
+    ]
+  }
+}

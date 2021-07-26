@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shorts, tights and pants",
+    "Sweatpants and joggers",
+    "Everyday High Rise Pants"
+  ],
+  "description": "Comfort from gym to grocery store. Breathable and stretchy, the Everyday Pants are made with flatlock seams that move with you. The relaxed fit with wider leg openings is great for running errands or running around the block.Made with polyester and Lycra that stretches for any activity.FlashDry\u2122 fabric moves moisture away from skin for quick evaporation.High-rise contoured waistband is higher at the back for added coverage.Flatlock seams throughout for chafe-free wear.2 zippered side pockets secure keys, phone and other small items.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046694166558/6002165-BK276.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046702522398/6002165-BK276-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046694166558/6002165-BK276.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046702522398/6002165-BK276-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046694166558/6002165-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046702522398/6002165-BK276-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046694166558/6002165-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046702522398/6002165-BK276-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Everyday High Rise Pants - Women's",
+  "product_code": "6002-165",
+  "source_url": "https://www.mec.ca/en/product/6002-165/Everyday-High-Rise-Pants",
+  "tech_specs": {
+    "Fabric content": [
+      "87% polyester",
+      "13% Lycra Spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "301gsm"
+    ],
+    "Ideal for": [
+      "Fitness and training",
+      "Running",
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front zippered"
+    ]
+  }
+}

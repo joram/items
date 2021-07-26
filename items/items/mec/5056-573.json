@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Wise Ass Journeyman T-shirt"
+  ],
+  "description": "Let your silly side shine in this comfy tee made from recycled materials.Soft organic cotton and recycled polyester blend.Rebus graphic front and centre.Regular fit wears like an old favourite.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082332577822/5056573-RUH88.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048598970398/5056573-MPL01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048599068702/5056573-MPL01-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048631312414/5056573-MPL01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082332577822/5056573-RUH88.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048598970398/5056573-MPL01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048599068702/5056573-MPL01-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048631312414/5056573-MPL01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082332577822/5056573-RUH88.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048598970398/5056573-MPL01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048599068702/5056573-MPL01-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048631312414/5056573-MPL01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082332577822/5056573-RUH88.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048598970398/5056573-MPL01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048599068702/5056573-MPL01-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048631312414/5056573-MPL01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Wise Ass Journeyman T-shirt - Men's",
+  "product_code": "5056-573",
+  "source_url": "https://www.mec.ca/en/product/5056-573/Wise-Ass-Journeyman-T-shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "60% organically grown cotton",
+      "40% recycled polyester"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "India"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling tops",
+    "Cycling jackets",
+    "Conspiracy Jacket"
+  ],
+  "description": "When the sky is leaking, just keep riding. This trim waterproof shell has low-bulk underarm vents so you can keep your cool. The tough fabric packs down super small, so it's easy to stash in a jersey pocket or your pack.Waterproof-breathable fabric is fully seam sealed with a DWR coating to enhance breathability.Rubber overlays on the elbows increases durability.YKK\u00ae Vislon zipper closes smoothly on the front.Underarm gills increase breathability without bulk.Low profile hood fits under a helmet with elastic edges.Elastic cuffs and hem.1 internal key pocket.Athletic fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096156807198/5057043-DIJ00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096146386974/5057043-DIJ00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096156807198/5057043-DIJ00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096146386974/5057043-DIJ00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096156807198/5057043-DIJ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096146386974/5057043-DIJ00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096156807198/5057043-DIJ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096146386974/5057043-DIJ00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Race Face Conspiracy Jacket - Men's",
+  "product_code": "5057-043",
+  "source_url": "https://www.mec.ca/en/product/5057-043/Conspiracy-Jacket",
+  "tech_specs": {
+    "Construction": [
+      "2.5-layer"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Hood": [
+      "Fitted",
+      "Low-profile"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Length": [
+      "Hip-length"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "1 internal key"
+    ],
+    "Type": [
+      "Waterproof-breathable"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Waterproof with fully taped seams"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

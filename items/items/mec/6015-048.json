@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Bug Hunt"
+  ],
+  "description": "Spiders and beetles and bees, oh my! This interactive field guide challenges budding entomologists with scavenger hunts and games to help them learn about insects. It includes a logbook, magnifying glass and stickers to identify and track what's been seen.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199329116190/6015048-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199329116190/6015048-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Bug Hunt",
+  "product_code": "6015-048",
+  "source_url": "https://www.mec.ca/en/product/6015-048/Bug-Hunt",
+  "tech_specs": {
+    "Author": [
+      "Storey Publishing"
+    ],
+    "ISBN": [
+      "9781635863130"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Illustrator": [
+      "Oana Befort"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pages": [
+      "48"
+    ],
+    "Published": [
+      "2021"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Canoeing",
+    "Canoe accessories",
+    "Knee Pads"
+  ],
+  "description": "Unlike U-shaped kneepads, these pads transfer weight shifts from your knee directly into the side of the hull, rather than dissipating into foam attached to the bottom of the boat. They provide positive contact with the bottom and sides of your canoe, giving you far better weight transfer and control.Includes a pair of pads.Waterproof contact cement recommended for attachment to boat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817902288926/5000920-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817902288926/5000920-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "North Water Knee Pads",
+  "product_code": "5000-920",
+  "source_url": "https://www.mec.ca/en/product/5000-920/Knee-Pads",
+  "tech_specs": {
+    "Ideal for": [
+      "Canoeing"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Weight": [
+      "51g"
+    ]
+  }
+}

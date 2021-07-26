@@ -1,0 +1,83 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Shoulder bags, slings and waist packs",
+    "Messenger bags",
+    "Classic Messenger Bag"
+  ],
+  "description": "Refined style that's lightweight and waterproof. Smartly designed, with quick-access pockets for gadgets and gear, a quick-adjust shoulder strap and features to keep you organized through a daily commute or trip out of town.Made of Endurance nylon with a waterproof TPU liner.Double-loop cam buckle enables easy fit adjustment on the fly.Fully adjustable shoulder strap with comfortable air mesh pad.Front organizer with zip and side entry napoleon zip pocket for quick access.Internal organizer pockets in main compartment.Internal water bottle pocket and a slash pocket for magazines.Buckle flap closure with bottom compression straps on all sizes except XS.XS fits an iPad, Small fits 13-inch laptop, Medium fits 15-inch laptop, Large fits 17-inch laptop.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8862962712606/5035675-JBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8863492735006/5035675-JBL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165707968542/5035675-CTN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708001310/5035675-CTN00-SWATCH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8862962712606/5035675-JBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8863492735006/5035675-JBL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165707968542/5035675-CTN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708001310/5035675-CTN00-SWATCH.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8862962712606/5035675-JBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8863492735006/5035675-JBL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165707968542/5035675-CTN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708001310/5035675-CTN00-SWATCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8862962712606/5035675-JBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8863492735006/5035675-JBL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165707968542/5035675-CTN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708001310/5035675-CTN00-SWATCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Timbuk2 Classic Messenger Bag - Unisex",
+  "product_code": "5035-675",
+  "source_url": "https://www.mec.ca/en/product/5035-675/Classic-Messenger-Bag",
+  "tech_specs": {
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Depth": [
+      "12cm (Jet Black X-Small)",
+      "13cm (Jet Black Small)",
+      "18cm (Jet Black Medium)",
+      "20cm (Jet Black Large)"
+    ],
+    "Ideal for": [
+      "Urban cycling",
+      "Cycle commuting",
+      "Office",
+      "School"
+    ],
+    "Length": [
+      "25cm (Jet Black X-Small)",
+      "27cm (Jet Black Small)",
+      "31cm (Jet Black Medium)",
+      "35cm (Jet Black Large)"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Main fabric": [
+      "Nylon"
+    ],
+    "Padded sleeve fits most\n\nA padded slot to fit electronics or laptops, it may be partially or fully padded on each side.": [
+      "Multiple sizes; see product description"
+    ],
+    "Volume": [
+      "9L (Jet Black X-Small)",
+      "14.25L (Jet Black Small)",
+      "21L (Jet Black Medium)",
+      "28L (Jet Black Large)"
+    ],
+    "Weight": [
+      "899g (Medium)"
+    ],
+    "Width": [
+      "30.5cm (Jet Black X-Small)",
+      "41cm (Jet Black Small)",
+      "46cm (Jet Black Medium)",
+      "51cm (Jet Black Large)"
+    ]
+  }
+}

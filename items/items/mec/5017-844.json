@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Field guides",
+    "Animals",
+    "Ontario Birds"
+  ],
+  "description": "Discover Ontario\u2019s birds \u2013 from great egrets to indigo buntings \u2013 with this pocket-sized, folding guide that\u2019s ideal for field use. It\u2019s a portable source of information that\u2019s illustrated with dozens of species commonly seen in the province, and is laminated for durability.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815885549598/5017844-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815885549598/5017844-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ontario Birds",
+  "product_code": "5017-844",
+  "source_url": "https://www.mec.ca/en/product/5017-844/Ontario-Birds",
+  "tech_specs": {
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

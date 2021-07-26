@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Hydration packs and accessories",
+    "Bladders, reservoirs and accessories",
+    "Drink Tube Kit"
+  ],
+  "description": "Replacement hose for your Platypus\u00ae Hoser\u2122 hydration reservoir. You can also use this kit to convert any threaded-opening Platypus bottle to a reservoir.Kit includes the threaded closure, \u00bcin. drink tube, lapel clip and fast-flowing HyFLO\u2122 bite valve.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027032416286/5063744-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027032416286/5063744-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Platypus Drink Tube Kit",
+  "product_code": "5063-744",
+  "source_url": "https://www.mec.ca/en/product/5063-744/Drink-Tube-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking",
+      "Running",
+      "Mountain biking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

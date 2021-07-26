@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Shoes",
+    "Sneakers and casual shoes",
+    "Soft 7 Sneakers"
+  ],
+  "description": "The clean lines of Scandinavian design in a smooth leather sneaker. Classic lace-ups are elevated by a rich, dark leather upper to carry you through from morning commute to happy-hour tacos. A surprisingly lightweight chunky rubber sole stands up to the daily grind.Rich, full-grain leather upper.Classic long-lace closure.Removable leather-lined inlay is supportive and moisture-wicking.Fashionable cupsole construction.Rubber outsole is tough yet light.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955929853982/5059434-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966483486/5059434-BK000-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966745630/5059434-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966778398/5059434-BK000-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966811166/5059434-BK000-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957967171614/5059434-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957967204382/5059434-BK000-ALT-TOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955929853982/5059434-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966483486/5059434-BK000-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966745630/5059434-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966778398/5059434-BK000-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966811166/5059434-BK000-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957967171614/5059434-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957967204382/5059434-BK000-ALT-TOE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955929853982/5059434-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966483486/5059434-BK000-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966745630/5059434-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966778398/5059434-BK000-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966811166/5059434-BK000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957967171614/5059434-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957967204382/5059434-BK000-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955929853982/5059434-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966483486/5059434-BK000-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966745630/5059434-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966778398/5059434-BK000-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957966811166/5059434-BK000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957967171614/5059434-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957967204382/5059434-BK000-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ecco Soft 7 Sneakers - Women's",
+  "product_code": "5059-434",
+  "source_url": "https://www.mec.ca/en/product/5059-434/Soft-7-Sneakers",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Removable insole": [
+      "No"
+    ],
+    "Upper material": [
+      "Full-grain leather"
+    ]
+  }
+}

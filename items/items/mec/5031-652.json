@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Straight gate carabiners",
+    "Spirit Straight Gate Carabiner"
+  ],
+  "description": "It doesn't get more classic than the Spirit, and this one is lighter than ever. The H-shape reduces weight so you can rack up light for long sport routes.Profile offers an impressive strength to weight ratio.Wide contact surfaces allow the rope to glide and reduce wear on the carabiner.Keylock nose for unhindered clipping.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807149043742/5031652-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807149109278/5031652-SIL00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807149043742/5031652-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807149109278/5031652-SIL00-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807149043742/5031652-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807149109278/5031652-SIL00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807149043742/5031652-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807149109278/5031652-SIL00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Spirit Straight Gate Carabiner",
+  "product_code": "5031-652",
+  "source_url": "https://www.mec.ca/en/product/5031-652/Spirit-Straight-Gate-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.1cm"
+    ],
+    "Gate type": [
+      "Straight"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "23kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "9kN"
+    ],
+    "Weight": [
+      "39g"
+    ]
+  }
+}

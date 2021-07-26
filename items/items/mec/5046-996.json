@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Brakes, pads and rotors",
+    "Brake pads",
+    "BR-9000 R55C4 Brake Shoes"
+  ],
+  "description": "Tried and true cartridge pads for Shimano\u00ae road brake calipers. Easy to install and ready for winter training or competition, these affordable pads are Shimano's standard for a reason.Designed for alloy rims only. Not for use with carbon rims.Rubber compound is equally suited for competition or wet weather use.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806827556894/5046996-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806827556894/5046996-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano BR-9000 R55C4 Brake Shoes",
+  "product_code": "5046-996",
+  "source_url": "https://www.mec.ca/en/product/5046-996/BR-9000-R55C4-Brake-Shoes",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling",
+      "Cycle touring",
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Type": [
+      "Caliper"
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Watches",
+    "Altimeter barometer watches",
+    "Core Outdoor Watch"
+  ],
+  "description": "If you range way above sea level (or even a bit below it) the Core Outdoor is what you want on your wrist. Sunrise/sunset times for 400 locations around the world let you know how much daylight you\u2019ve got to summit. The altimeter tracks your ascent and descent rates, and logs them for review at home. Once you\u2019re at rest, the barometer mode automatically kicks in, so the Storm Alarm can warn you of sudden, severe pressure drops. Need to navigate a quick retreat? Use the compass mode to sight, lock a bearing, and go. Snorkelling or surfing between bagging peaks? The depth meter tracks your dives (intentional or otherwise) down to 10 metres.Mineral crystal glass and a readable dot-matrix displayElectro-luminescent backlight option for night use.Operating range of -20 to 60\u00b0C to altitudes of -500m to 9000m.Selectable metric or imperial units.Altimeter reads real-time vertical as a cumulative value, and total ascent and descent.User-removable log graphs and logbook files.Automatic altimeter/barometer switch and a seven-day memory.Resolution is 1m with recording intervals of 1, 5, 30, and 60 seconds.Barometer indicates sea level pressure, weather memory for seven days, trend indicator, and graph.Barometer resolution is 0,05 inHg/1 mbar with a range of 8,9 -32,4 inHg/300-1100 mbar.Storm alarm to indicate sudden changes in air pressure.Compass uses guided calibration, heading in cardinal or half-cardinal points, declination setting, and bearing tracking.Water-resistant to 30m.User replaceable battery.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810410049566/5025115-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810410049566/5025115-BK006.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810410049566/5025115-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810410049566/5025115-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Suunto Core Outdoor Watch - Unisex",
+  "product_code": "5025-115",
+  "source_url": "https://www.mec.ca/en/product/5025-115/Core-Outdoor-Watch",
+  "tech_specs": {
+    "ANT+ compatible\n\nEnsures seamless digital wireless communication between ANT+ devices. For example, data from an ultra-low power wireless sensor can be displayed on a bike computer or smartphone, then downloaded to a PC, etc.": [
+      "No"
+    ],
+    "Altimeter": [
+      "Yes"
+    ],
+    "Altimeter accuracy": [
+      "1m"
+    ],
+    "Altitude alarm": [
+      "No"
+    ],
+    "Barometer": [
+      "Yes"
+    ],
+    "Batteries": [
+      "1 lithium CR2032 (included)"
+    ],
+    "Bearing tracking": [
+      "Yes"
+    ],
+    "Button lock": [
+      "Yes"
+    ],
+    "Case diameter": [
+      "49.1mm"
+    ],
+    "Chest strap": [
+      "Not compatible"
+    ],
+    "Countdown timer": [
+      "Yes"
+    ],
+    "Daily alarms": [
+      "1"
+    ],
+    "Electronic compass\n\nAn electronic compass allows the user to view their heading in situations where they are either standing still or moving too slowly for the GPS to detect.": [
+      "Yes"
+    ],
+    "Face material\n\nPolycarbonate is inexpensive and light, with good clarity and wear-resistance. Mineral crystal glass offers greater clarity and significantly greater wear-resistance. Sapphire crystal is better still for clarity and wear-resistance.": [
+      "Mineral crystal glass"
+    ],
+    "Haptic feedback": [
+      "No"
+    ],
+    "Heading in degrees": [
+      "Yes"
+    ],
+    "Heart rate monitor": [
+      "No"
+    ],
+    "IPX rating\n\nIndicates the degree of protection against liquid. IP X1: Dripping water while in normal operating orientation; IP X4: Splashing water; IP X5: Water jets; IP X6: Powerful water jets; IP X7: Immersion up to 1m \u2264 30 minutes; IP X8: Suitable for submersion as specified by manufacturer.": [
+      "IP X8"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Backcountry skiing"
+    ],
+    "Interval training": [
+      "No"
+    ],
+    "Logging function\n\nDevices with a logging function will track and store altitude changes over a specific period of time. This allows you to track the changes in elevation and total elevation gained or lost during a climb, hike, or ride. It also enables you to track the number of runs you do on a stellar ski day!": [
+      "Yes"
+    ],
+    "Made in": [
+      "Finland"
+    ],
+    "Metric/imperial units format": [
+      "Yes"
+    ],
+    "Replaceable batteries": [
+      "Yes"
+    ],
+    "Replaceable wrist strap": [
+      "Yes"
+    ],
+    "Snooze": [
+      "Yes"
+    ],
+    "Stopwatch": [
+      "Yes"
+    ],
+    "Storm alarm": [
+      "Yes"
+    ],
+    "Sunrise/set time": [
+      "Yes"
+    ],
+    "Temperature": [
+      "Yes"
+    ],
+    "Temperature compensation": [
+      "Yes"
+    ],
+    "Total ascent/descent": [
+      "Yes"
+    ],
+    "Trend indicator": [
+      "Yes"
+    ],
+    "Vertical speed indicator": [
+      "No"
+    ],
+    "Water-resistant": [
+      "30m"
+    ],
+    "Weight": [
+      "64g"
+    ],
+    "Wrist strap material": [
+      "Resin"
+    ]
+  }
+}

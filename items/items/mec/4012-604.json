@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water treatments and tablets",
+    "ClO2 30ml Water Treatment"
+  ],
+  "description": "Lightweight, compact, and low-effort protection against protozoa (including cryptosporidium), bacteria, and viruses. The user combines the two supplied chemicals to form the required amount of buffered (non-explosive) Chlorine Dioxide, then adds the mixture to the water. Comes in drop-dispensing bottles for easy measurement.Treats between 60L and 120L.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8886179659806/4012604-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8886179659806/4012604-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pristine ClO2 30ml Water Treatment",
+  "product_code": "4012-604",
+  "source_url": "https://www.mec.ca/en/product/4012-604/ClO2-30ml-Water-Treatment",
+  "tech_specs": {
+    "Effective against bacteria\n\nBacteria can cause illnesses such as diarrhea and dysentery and are about 1.0 micron in size, although some can be as small as 0.2 microns.": [
+      "Yes"
+    ],
+    "Effective against particulate\n\nParticulate consists of very small bits and pieces such as dirt or bugs.": [
+      "No"
+    ],
+    "Effective against protozoa\n\nProtozoa are larger than one micron and include cryptosporidium and giardia.": [
+      "Yes"
+    ],
+    "Effective against viruses\n\nMost viruses are in the 0.1 micron size range, but they can be as small as 0.002 microns.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "70g"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water filters",
+    "Inline and filter water bottles",
+    "Geopress Replacement Cartridge"
+  ],
+  "description": "Replace the worn out filter on your Grayl Geopress. This element provides protection against viruses such as Hepatitis A, SARS, and Rotavirus, as well as waterborne bacteria and protozoan cysts.Flow rate is 5L/minute.Filter capacity is up to 250L, depending on water quality.Non-woven ceramic stage uses electropositive mesh rather than small pores to trap pathogens. This allows faster flow rates while requiring lower pressure application.Activated natural carbon traps many heavy metals and industrial chemicals, and reduces odours and flavours.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9062492799006/6005095-ORG19.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9062492799006/6005095-ORG19.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Grayl Geopress Replacement Cartridge",
+  "product_code": "6005-095",
+  "source_url": "https://www.mec.ca/en/product/6005-095/Geopress-Replacement-Cartridge",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking",
+      "Emergency preparedness",
+      "Travel",
+      "Backpacking"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

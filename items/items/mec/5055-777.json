@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "The Complete Guide To Backpacking"
+  ],
+  "description": "Learn everything you need to know about backpacking in this easy-to-use guide. Includes detailed descriptions of what to pack and how to pack it, navigation, campsite cooking, managing outdoor hazards and lots more.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8886903570462/5055777-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8886903570462/5055777-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Falcon The Complete Guide To Backpacking",
+  "product_code": "5055-777",
+  "source_url": "https://www.mec.ca/en/product/5055-777/The-Complete-Guide-To-Backpacking",
+  "tech_specs": {
+    "Author": [
+      "Backpacker Magazine, John Burbidge"
+    ],
+    "ISBN": [
+      "9781493025978"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "352"
+    ],
+    "Published": [
+      "2016"
+    ]
+  }
+}

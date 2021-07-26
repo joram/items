@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth clothing",
+    "Youth swimwear",
+    "Youth performance swimwear",
+    "Vaporback Swimsuit with Shelf Bra"
+  ],
+  "description": "Made for girls who practically live in the water, this sleek suit uses TYR's DURAFAST fabric that is won't fade out in the sun or chlorinated pools.Stretchy polyester fabric is comfortable to wear and provides UPF 50+ sun protection.Racer back design provides great range of motion.Inner shelf bra adds support.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070892679198/6001660-CBE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070903394334/6001660-CBE00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070892679198/6001660-CBE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070903394334/6001660-CBE00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070892679198/6001660-CBE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070903394334/6001660-CBE00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070892679198/6001660-CBE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070903394334/6001660-CBE00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "TYR Vaporback Swimsuit with Shelf Bra - Girls' - Youths",
+  "product_code": "6001-660",
+  "source_url": "https://www.mec.ca/en/product/6001-660/Vaporback-Swimsuit-with-Shelf-Bra",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Shelf bra"
+    ],
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Watersports",
+      "Beach",
+      "Swim training"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

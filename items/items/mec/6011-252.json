@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Snowshoeing gear",
+    "Snowshoes",
+    "Treeline Elektra Snowshoes"
+  ],
+  "description": "Tackle your favourite hikes all winter long. Lightweight, smooth-striding suspension moves naturally under your feet, and heel riser bars give your calves a break on steep sections. Sharp steel toe and aft heel crampons bite into crunchy snow for confidence and grip. When it\u2019s time to set out, the comfortable padded bindings tighten with one pull so you don\u2019t waste time getting to fresh tracks in powder-filled forests.Women's specific aluminum Reactiv\u2122 frame changes shape for greater stiffness where you need it.Nytex decking resists abrasion, withstands cold temperatures and sheds snow.Spring-loaded suspension holds the snowshoes close underfoot to move freely, absorb impact, and flex naturally.All-Trac\u2122 crampons have wider traction tabs on the sides and corners in addition to the sharp points on the front and rear.Wrapp\u2122 Swift bindings have comfortable EVA padding and easy-to-use cinch straps.Heel lifts for comfort and efficiency when going uphill.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143678009374/6011252-RED53.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689183262/6011252-RED53-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689445406/6011252-RED53-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689379870/6011252-RED53-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689543710/6011252-RED53-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689576478/6011252-RED53-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143678009374/6011252-RED53.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689183262/6011252-RED53-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689445406/6011252-RED53-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689379870/6011252-RED53-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689543710/6011252-RED53-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689576478/6011252-RED53-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143678009374/6011252-RED53.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689183262/6011252-RED53-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689445406/6011252-RED53-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689379870/6011252-RED53-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689543710/6011252-RED53-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689576478/6011252-RED53-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143678009374/6011252-RED53.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689183262/6011252-RED53-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689445406/6011252-RED53-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689379870/6011252-RED53-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689543710/6011252-RED53-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143689576478/6011252-RED53-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Atlas Treeline Elektra Snowshoes - Women's",
+  "product_code": "6011-252",
+  "source_url": "https://www.mec.ca/en/product/6011-252/Treeline-Elektra-Snowshoes",
+  "tech_specs": {
+    "Heel lift\n\nIndicates if the snowshoe has a heel lift or not. Heel lifts reduce calf strain on uphill climbs.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "General snowshoeing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Max recommended load": [
+      "80-160lb. (23)",
+      "120-200+lb. (27)"
+    ]
+  }
+}

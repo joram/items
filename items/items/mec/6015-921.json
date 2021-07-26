@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Climb accessories",
+    "LaSpo Knee Pad"
+  ],
+  "description": "Get a leg up when climbing in steep, 3-dimensional terrain. This grippy kneebar pad inspires confidence in technical knee scums and provides comfort in bomber knee bars. The pad extends slightly over the knee to provide some protection against sharp rock.4mm rubber is sticky and durable.Neoprene lining and a 3-buckle closure provides a secure fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189054677022/6015921-BK059.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189054677022/6015921-BK059.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "La Sportiva LaSpo Knee Pad",
+  "product_code": "6015-921",
+  "source_url": "https://www.mec.ca/en/product/6015-921/LaSpo-Knee-Pad",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "230g"
+    ]
+  }
+}

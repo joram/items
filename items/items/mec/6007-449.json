@@ -1,0 +1,88 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Tanks and sleeveless shirts",
+    "Van Tank"
+  ],
+  "description": "A tank to take you from Kombi to crag.Soft organic cotton wears well.Racerback keeps things airy.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084193767454/6007449-PK087.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468854814/6007449-PK087-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084469084190/6007449-PK087-ALT-FLATBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084469116958/6007449-PK087-ALT-FLATFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084469149726/6007449-PK087-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468232222/6007449-PBL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468396062/6007449-PBL00-ALT-FLATBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468428830/6007449-PBL00-ALT-BACKDETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468527134/6007449-PBL00-ALT-FLATFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468559902/6007449-PBL00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468592670/6007449-PBL00-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468625438/6007449-PBL00-ALT-LIFESTYLE3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084193636382/6007449-PBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084193767454/6007449-PK087.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468854814/6007449-PK087-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084469084190/6007449-PK087-ALT-FLATBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084469116958/6007449-PK087-ALT-FLATFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084469149726/6007449-PK087-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468232222/6007449-PBL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468396062/6007449-PBL00-ALT-FLATBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468428830/6007449-PBL00-ALT-BACKDETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468527134/6007449-PBL00-ALT-FLATFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468559902/6007449-PBL00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468592670/6007449-PBL00-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468625438/6007449-PBL00-ALT-LIFESTYLE3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084193636382/6007449-PBL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084193767454/6007449-PK087.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468854814/6007449-PK087-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084469084190/6007449-PK087-ALT-FLATBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084469116958/6007449-PK087-ALT-FLATFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084469149726/6007449-PK087-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468232222/6007449-PBL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468396062/6007449-PBL00-ALT-FLATBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468428830/6007449-PBL00-ALT-BACKDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468527134/6007449-PBL00-ALT-FLATFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468559902/6007449-PBL00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468592670/6007449-PBL00-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468625438/6007449-PBL00-ALT-LIFESTYLE3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084193636382/6007449-PBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084193767454/6007449-PK087.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468854814/6007449-PK087-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084469084190/6007449-PK087-ALT-FLATBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084469116958/6007449-PK087-ALT-FLATFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084469149726/6007449-PK087-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468232222/6007449-PBL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468396062/6007449-PBL00-ALT-FLATBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468428830/6007449-PBL00-ALT-BACKDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468527134/6007449-PBL00-ALT-FLATFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468559902/6007449-PBL00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468592670/6007449-PBL00-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084468625438/6007449-PBL00-ALT-LIFESTYLE3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084193636382/6007449-PBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "La Sportiva Van Tank - Women's",
+  "product_code": "6007-449",
+  "source_url": "https://www.mec.ca/en/product/6007-449/Van-Tank",
+  "tech_specs": {
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Indoor climbing",
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ]
+  }
+}

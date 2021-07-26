@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Saws, axes and camp shovels",
+    "Saws",
+    "Boreal 21 Saw"
+  ],
+  "description": "Originally a Kickstarter product,  the Boreal 21 Saw is compact, light and strong. Its innovative folding design keeps you from having to touch the blade. When folded, the saw teeth are protected, so you or your gear won't get shredded.Opens and closes without your fingers touching the blade.Clearance for logs up to 15cm in diameter.Weather-resistant nylon grip offers comfortable sawing without hotspots.Automatic blade tensioner ensures a perfect fit each time, without needing to fiddle with bolts or screws.Extruded, anodized aluminum frame with all stainless steel hardware.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841208791070/5051337-BK059.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963232792606/5051337-BK030-ALT-BLADE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963232956446/5051337-BK030-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963228794910/5051337-BK030.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841208791070/5051337-BK059.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963232792606/5051337-BK030-ALT-BLADE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963232956446/5051337-BK030-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963228794910/5051337-BK030.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841208791070/5051337-BK059.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963232792606/5051337-BK030-ALT-BLADE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963232956446/5051337-BK030-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963228794910/5051337-BK030.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841208791070/5051337-BK059.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963232792606/5051337-BK030-ALT-BLADE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963232956446/5051337-BK030-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963228794910/5051337-BK030.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Agawa Canyon Boreal 21 Saw",
+  "product_code": "5051-337",
+  "source_url": "https://www.mec.ca/en/product/5051-337/Boreal-21-Saw",
+  "tech_specs": {
+    "Blade length": [
+      "53cm"
+    ],
+    "Blade material": [
+      "High carbon steel"
+    ],
+    "Handle length": [
+      "16.5cm"
+    ],
+    "Handle material": [
+      "Aluminum"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Professional trades"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Sheath included": [
+      "No"
+    ],
+    "Weight": [
+      "500g"
+    ]
+  }
+}

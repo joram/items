@@ -1,0 +1,107 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Water sandals",
+    "Original Universal Sandals"
+  ],
+  "description": "Their comfort and durability started the technical sandal revolution. Now the original Tevas are back, complete with classic webbing closures and shock-absorbing footbeds.Uppers are polyester webbing for fast drying.Hook-and-loop closures allow quick, secure fastening.Universal strap system fits all feet.EVA midsoles provide cushioning.Outsoles are rubber for long lasting grip.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168345399326/5062837-LGM20.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200850993182/5062837-BWH00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200851288094/5062837-BWH00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200851255326/5062837-BWH00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908573726/5062837-BLU95-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908606494/5062837-BLU95-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908672030/5062837-BLU95-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909130782/5062837-BLU95-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909491230/5062837-BLU95-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908737566/5062837-BK000-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908770334/5062837-BK000-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909098014/5062837-BK000-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909327390/5062837-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168345301022/5062837-HZA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200830873630/5062837-BWH00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909720606/5062837-BLU95.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909163550/5062837-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168345399326/5062837-LGM20.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200850993182/5062837-BWH00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200851288094/5062837-BWH00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200851255326/5062837-BWH00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908573726/5062837-BLU95-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908606494/5062837-BLU95-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908672030/5062837-BLU95-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909130782/5062837-BLU95-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909491230/5062837-BLU95-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908737566/5062837-BK000-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908770334/5062837-BK000-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909098014/5062837-BK000-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909327390/5062837-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168345301022/5062837-HZA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200830873630/5062837-BWH00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909720606/5062837-BLU95.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909163550/5062837-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168345399326/5062837-LGM20.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200850993182/5062837-BWH00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200851288094/5062837-BWH00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200851255326/5062837-BWH00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908573726/5062837-BLU95-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908606494/5062837-BLU95-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908672030/5062837-BLU95-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909130782/5062837-BLU95-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909491230/5062837-BLU95-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908737566/5062837-BK000-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908770334/5062837-BK000-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909098014/5062837-BK000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909327390/5062837-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168345301022/5062837-HZA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200830873630/5062837-BWH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909720606/5062837-BLU95.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909163550/5062837-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168345399326/5062837-LGM20.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200850993182/5062837-BWH00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200851288094/5062837-BWH00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200851255326/5062837-BWH00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908573726/5062837-BLU95-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908606494/5062837-BLU95-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908672030/5062837-BLU95-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909130782/5062837-BLU95-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909491230/5062837-BLU95-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908737566/5062837-BK000-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018908770334/5062837-BK000-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909098014/5062837-BK000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909327390/5062837-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168345301022/5062837-HZA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200830873630/5062837-BWH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909720606/5062837-BLU95.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018909163550/5062837-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Teva Original Universal Sandals - Women's",
+  "product_code": "5062-837",
+  "source_url": "https://www.mec.ca/en/product/5062-837/Original-Universal-Sandals",
+  "tech_specs": {
+    "Closure": [
+      "Hook-and-loop"
+    ],
+    "Footbed": [
+      "Synthetic"
+    ],
+    "Ideal for": [
+      "Watersports",
+      "Casual wear",
+      "Beach"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Upper material": [
+      "Polyester webbing"
+    ]
+  }
+}

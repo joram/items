@@ -1,0 +1,82 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Chargers and adapters",
+    "Solar chargers",
+    "Venture 30 With Nomad 10 Solar Bundle"
+  ],
+  "description": "This kit combines the powerful Venture 30 battery pack with the efficient Nomad 10 solar panel, supplying you with power (and a way to store it). Each member of this dynamic duo can go it alone, but combined, they give you a way to charge just about any electronic device from, well, just about anywhere.Nomad 10 monocrystalline solar panel is light, folds compactly and can be chained with other panels.Rated power is 10W.USB port (output) is 5V, up to 1.5A (7.5W max), regulated.Venture 30 uses a Li-NMC (lithium nickel manganese cobalt oxide) battery for longer life and greater safety than lithium-ion models.Recharges via the Nomad 10 Solar Panel in 4.5-9 hours or via a 2A USB source in 5 hours.Built-in charging and low-battery protection extend battery life.Dual output ports let you recharge two devices at once.Built-in 150 Lumen flashlight for night ops.IPX6 waterproof rating allows use in the rain.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826588190/6013466-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995526174/6013466-NOC02-ALT-INSITU.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817871902/6013466-NOC02-ALT-SOLARPANEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817904670/6013466-NOC02-ALT-SOLARPANELBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817937438/6013466-NOC02-ALT-VENTURE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817970206/6013466-NOC02-ALT-VENTUREPORTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826588190/6013466-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995526174/6013466-NOC02-ALT-INSITU.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817871902/6013466-NOC02-ALT-SOLARPANEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817904670/6013466-NOC02-ALT-SOLARPANELBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817937438/6013466-NOC02-ALT-VENTURE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817970206/6013466-NOC02-ALT-VENTUREPORTS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826588190/6013466-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995526174/6013466-NOC02-ALT-INSITU.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817871902/6013466-NOC02-ALT-SOLARPANEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817904670/6013466-NOC02-ALT-SOLARPANELBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817937438/6013466-NOC02-ALT-VENTURE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817970206/6013466-NOC02-ALT-VENTUREPORTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826588190/6013466-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995526174/6013466-NOC02-ALT-INSITU.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817871902/6013466-NOC02-ALT-SOLARPANEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817904670/6013466-NOC02-ALT-SOLARPANELBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817937438/6013466-NOC02-ALT-VENTURE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146817970206/6013466-NOC02-ALT-VENTUREPORTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Goal Zero Venture 30 With Nomad 10 Solar Bundle",
+  "product_code": "6013-466",
+  "source_url": "https://www.mec.ca/en/product/6013-466/Venture-30-With-Nomad-10-Solar-Bundle",
+  "tech_specs": {
+    "Auto shutoff\n\nDoes unit have an auto shutoff feature so that unit stops charging when batteries are full?": [
+      "Yes"
+    ],
+    "Batteries": [
+      "1 18650 (included)"
+    ],
+    "Charge time via USB": [
+      "5\u00a0h"
+    ],
+    "Charge time via solar\n\nEstimated charging time under optimal conditions.": [
+      "4.5-9\u00a0h"
+    ],
+    "Charging level indicator": [
+      "Yes"
+    ],
+    "Folded dimensions": [
+      "18.4\u00a0x\u00a03.2\u00a0x\u00a024.1cm"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Travel",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output voltage": [
+      "5volts"
+    ],
+    "USB Port\n\nHas a Type A USB port for charging your electronic devices.": [
+      "Yes"
+    ],
+    "Weight": [
+      "760g"
+    ]
+  }
+}

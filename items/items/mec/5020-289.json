@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fuel",
+    "946ml unit (32fl oz) Stove Fuel"
+  ],
+  "description": "Stove fuel to use with any stove that burns white gas.Fuel is best used within 1 year after opening. As it gets older it can start to clog your stove.Contains 946ml.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812633817118/5020289-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812633817118/5020289-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coleman 946ml unit (32fl oz) Stove Fuel",
+  "product_code": "5020-289",
+  "source_url": "https://www.mec.ca/en/product/5020-289/946ml-unit-%2832fl-oz%29-Stove-Fuel",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Shelf life (opened)": [
+      "12mo"
+    ],
+    "Shelf life (sealed)": [
+      "12mo"
+    ],
+    "Volume": [
+      "946ml"
+    ],
+    "Weight": [
+      "755g"
+    ]
+  }
+}

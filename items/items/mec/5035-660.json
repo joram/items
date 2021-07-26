@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Flip flops",
+    "Ohana Flip"
+  ],
+  "description": "Simple footwear for spending time where the land meets the water.Water-resistant synthetic strap has cushy neoprene padding lined in quick-dry nylon.Soft nylon webbing on the toe-post.Anatomically shape moulded EVA midsole with an Iceva drop-in footbed that adds support.Outsoles are non-marking rubber with siping on the perimeter for grip on wet surfaces.Purchase of this style helps support Olukai's Ohana Giveback Program that aims to preserve Hawaiian culture and traditions.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809370091550/5035660-DJV02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809370746910/5035660-BK176.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809370091550/5035660-DJV02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809370746910/5035660-BK176.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809370091550/5035660-DJV02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809370746910/5035660-BK176.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809370091550/5035660-DJV02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809370746910/5035660-BK176.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Olukai Ohana Flip - Men's",
+  "product_code": "5035-660",
+  "source_url": "https://www.mec.ca/en/product/5035-660/Ohana-Flip",
+  "tech_specs": {
+    "Antimicrobial treatment\n\nA treatment that inhibits bacteria growth and reduces odour.": [
+      "No"
+    ],
+    "Closure": [
+      "Toe thong"
+    ],
+    "Footbed": [
+      "Synthetic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Upper material": [
+      "Synthetic leather"
+    ],
+    "Weight": [
+      "372g (8 Medium)"
+    ]
+  }
+}

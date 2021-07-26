@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Hoodies and sweaters",
+    "Heritage Patch Crew"
+  ],
+  "description": "A modernized version of a classic style in a warm mid-weight fabric. Just right for shoulder-seasons days where a tee won\u2019t cut it and a jacket is overkill.Made of durable polyester blended with soft cotton.Heavier-weight ribbed collar and cuffs.Standard fit feels just right.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165772783646/6012068-MGH1Z.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165772980254/6012068-MGH1Z-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165772783646/6012068-MGH1Z.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165772980254/6012068-MGH1Z-ALT-MODEL-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165772783646/6012068-MGH1Z.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165772980254/6012068-MGH1Z-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165772783646/6012068-MGH1Z.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165772980254/6012068-MGH1Z-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Heritage Patch Crew - Men's",
+  "product_code": "6012-068",
+  "source_url": "https://www.mec.ca/en/product/6012-068/Heritage-Patch-Crew",
+  "tech_specs": {
+    "Fabric content": [
+      "69% cotton",
+      "31% recycled polyester"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "250gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Guatemala"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

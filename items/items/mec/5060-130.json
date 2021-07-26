@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Snorkel gear",
+    "Akumal Mask and Dry Snorkel"
+  ],
+  "description": "Take your snorkelling to the next level (down) with this high-performance mask and snorkel combo. The low volume of the mask makes for easy equalization as you descend, with a soft silicone skirt that forms a comfortable and secure seal. The optical-quality lenses are designed to provide an enhanced viewing experience at greater depths, with a reflective coating and a rose tint that brings out colours in lower light. The dry snorkel lets you breathe easy in choppy conditions, with a purge valve to clear any water that does find its way in.Low-volume mask is easy to equalize.Silicone skirt provides a reliable seal.Lenses are optical-quality tempered glass for superior brightness and truer colours.Rose tinting corrects colours at greater depths.Dry snorkel won't take in water during dives.Purge valve lets you clear any water that gets into snorkel.Soft silicone mouthpiece.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990240243742/5060130-BK741.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990888853534/5060130-BK741-ALT-SNORKELVALVE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990888886302/5060130-BK741-ALT-SNORKEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990889246750/5060130-BK741-ALT-SNORKEL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990890819614/5060130-BK741-ALT-MASK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990890721310/5060130-BK741-ALT-CLIP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990240243742/5060130-BK741.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990888853534/5060130-BK741-ALT-SNORKELVALVE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990888886302/5060130-BK741-ALT-SNORKEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990889246750/5060130-BK741-ALT-SNORKEL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990890819614/5060130-BK741-ALT-MASK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990890721310/5060130-BK741-ALT-CLIP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990240243742/5060130-BK741.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990888853534/5060130-BK741-ALT-SNORKELVALVE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990888886302/5060130-BK741-ALT-SNORKEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990889246750/5060130-BK741-ALT-SNORKEL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990890819614/5060130-BK741-ALT-MASK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990890721310/5060130-BK741-ALT-CLIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990240243742/5060130-BK741.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990888853534/5060130-BK741-ALT-SNORKELVALVE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990888886302/5060130-BK741-ALT-SNORKEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990889246750/5060130-BK741-ALT-SNORKEL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990890819614/5060130-BK741-ALT-MASK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990890721310/5060130-BK741-ALT-CLIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fathom Akumal Mask and Dry Snorkel",
+  "product_code": "5060-130",
+  "source_url": "https://www.mec.ca/en/product/5060-130/Akumal-Mask-and-Dry-Snorkel",
+  "tech_specs": {
+    "Anti-fog coating\n\nA coating on the inside of the lens that inhibits condensation.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Snorkelling"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Scratch-resistant lens": [
+      "Yes"
+    ]
+  }
+}

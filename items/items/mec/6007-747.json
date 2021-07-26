@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Flip flops",
+    "One Biodegradable Flips"
+  ],
+  "description": "What's not to love about simple footwear that you can toss in the washing machine and biodegrades at the end of their useful life?Made of Eco-One biodegradable, injection molded EVA that uses no methane in its production.Anatomic contoured footbeds are made of soft cushioning EVA.Firm, non-marking EVA outsole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089837793310/6007747-GRY17.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089837793310/6007747-GRY17.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Reef One Biodegradable Flips - Men's",
+  "product_code": "6007-747",
+  "source_url": "https://www.mec.ca/en/product/6007-747/One-Biodegradable-Flips",
+  "tech_specs": {
+    "Footbed": [
+      "EVA"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Beach"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Removable insole": [
+      "No"
+    ],
+    "Upper material": [
+      "EVA"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ]
+  }
+}

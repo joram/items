@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Onaping - Levack - Spanish River Map"
+  ],
+  "description": "A recreation and fishing guide for the areas of Onaping, Levack and Spanish River. Double-sided map with sidebars showing fishing information and town maps of Azilda, Chemlsford, Levack and Lively. Includes provincial parks, campsites, rapids, canoe routes and portages, roads, rivers, wetlands and fish species.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815841771550/5023740-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815841771550/5023740-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coordinate GIS Onaping - Levack - Spanish River Map",
+  "product_code": "5023-740",
+  "source_url": "https://www.mec.ca/en/product/5023-740/Onaping---Levack---Spanish-River-Map",
+  "tech_specs": {
+    "Edition": [
+      "1st"
+    ],
+    "Ideal for": [
+      "Canoeing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Ontario"
+    ]
+  }
+}

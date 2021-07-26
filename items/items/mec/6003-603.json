@@ -1,0 +1,67 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country skate",
+    "Skate ski boots",
+    "X8 Skate FW"
+  ],
+  "description": "Recreate and train in these mid-range, performance boots. Their precise, enveloping fit offers good support, twist resistance, and control through each phase of your stride. The women\u2019s-specific fit includes the lower leg as well as the foot, delivering more power, precision and comfort.World-cup speed lace pull system.PVC lace covers with asymmetric zip, frees your instep for comfort.Polyester thermo-adjustable inner liner.3-D plastic reinforcements in the heel for pressure control and wear-resistance.Sport sole (NNN compatible) is stable and provides a precise kick with good boot-to-ski contact.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064218755102/6003603-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064215969822/6003603-NOC02-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064216002590/6003603-NOC02-ALT-HEELDETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064216035358/6003603-NOC02-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064216068126/6003603-NOC02-ALT-TOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064218755102/6003603-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064215969822/6003603-NOC02-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064216002590/6003603-NOC02-ALT-HEELDETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064216035358/6003603-NOC02-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064216068126/6003603-NOC02-ALT-TOE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064218755102/6003603-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064215969822/6003603-NOC02-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064216002590/6003603-NOC02-ALT-HEELDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064216035358/6003603-NOC02-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064216068126/6003603-NOC02-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064218755102/6003603-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064215969822/6003603-NOC02-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064216002590/6003603-NOC02-ALT-HEELDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064216035358/6003603-NOC02-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064216068126/6003603-NOC02-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rossignol X8 Skate FW - Women's",
+  "product_code": "6003-603",
+  "source_url": "https://www.mec.ca/en/product/6003-603/X8-Skate-FW",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "NNN"
+    ],
+    "Hinged/high cuff": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Fitness skate skiing"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lace cover": [
+      "Yes"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ],
+    "Weight": [
+      "1.29kg (42)"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Reversible Merino Toque"
+  ],
+  "description": "Two looks, one toque. The classic knit goes great with all your winter activities, and is fully reversible to let you switch up your style.Made of a merino wool and acrylic blend that's super soft and cozy warm.Double layered jersey balances warmth and breathability.Fully reversible with contrast colour blocking on the opposite side.One size fits most heads.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133510197278/5061866-CIS02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133510426654/5061866-CIS02-ALT-REVERSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133510295582/5061866-ASF01-ALT-REVERSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133514227742/5061866-ASF01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133510197278/5061866-CIS02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133510426654/5061866-CIS02-ALT-REVERSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133510295582/5061866-ASF01-ALT-REVERSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133514227742/5061866-ASF01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133510197278/5061866-CIS02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133510426654/5061866-CIS02-ALT-REVERSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133510295582/5061866-ASF01-ALT-REVERSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133514227742/5061866-ASF01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133510197278/5061866-CIS02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133510426654/5061866-CIS02-ALT-REVERSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133510295582/5061866-ASF01-ALT-REVERSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133514227742/5061866-ASF01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Reversible Merino Toque - Unisex",
+  "product_code": "5061-866",
+  "source_url": "https://www.mec.ca/en/product/5061-866/Reversible-Merino-Toque",
+  "tech_specs": {
+    "Fabric content": [
+      "50% merino wool",
+      "50% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

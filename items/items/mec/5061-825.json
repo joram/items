@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Trousers",
+    "Rad Pants"
+  ],
+  "description": "Make every day #ThrowbackThursday with the re-issued MEC Rad Pants. This isn't an update \u2013 these are the legendary Rad Pants in all their '90s glory. Originally designed for climbing, they were beloved by generations of MEC members for their bugproof design and relaxed fit with tapered legs. The elastic waist and gusseted crotch were a hit for climbers and hikers, while paddlers loved the quick-drying material. The Rad Pants are back, same as ever, and ready for a new generation of Canadians who hike, climb and paddle.Made of heavyweight tear-resistant 100% nylon with a durable water repellency (DWR) finish.Elastic waist with built-in webbing belt.Slash hand pockets with no-spill pocket bags.Large bellowed thigh pockets for ample storage.Rear pocket with Velcro flap closure.Inset gussted crotch allows you to reach and stretch.Durable double bum withstands sliding across rocks.Rib-knit cuffs keep bugs out.Bar-tacked at all potential stress points.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9107639631902/5061825-DES99.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9107639599134/5061825-DES99-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9107223085086/5061825-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9107639631902/5061825-DES99.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9107639599134/5061825-DES99-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9107223085086/5061825-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9107639631902/5061825-DES99.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9107639599134/5061825-DES99-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9107223085086/5061825-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9107639631902/5061825-DES99.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9107639599134/5061825-DES99-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9107223085086/5061825-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Rad Pants - Women's",
+  "product_code": "5061-825",
+  "source_url": "https://www.mec.ca/en/product/5061-825/Rad-Pants",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Gusseted crotch"
+    ],
+    "Fabric content": [
+      "100% nylon"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "118gsm"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Watersports",
+      "Alpine climbing and mountaineering",
+      "Rock climbing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "2 side",
+      "1 back with flap"
+    ],
+    "Weight": [
+      "240g (Medium)"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "Attache Screw-Lock Carabiner"
+  ],
+  "description": "Compact shape is good for belaying or busy stations. The smooth rope-bearing surface and deep pear shape works well with a m\u00fcnter hitch and helps prevent cross-loading.H-shape cross section has a great strength-to-weight ratio.Keylock snag-free nose.Screw lock has red visual indicator for added safety.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807128399902/5035283-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994620958/5035283-NOC02-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994784798/5035283-NOC02-ALT-GATEOPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807128399902/5035283-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994620958/5035283-NOC02-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994784798/5035283-NOC02-ALT-GATEOPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807128399902/5035283-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994620958/5035283-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994784798/5035283-NOC02-ALT-GATEOPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807128399902/5035283-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994620958/5035283-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994784798/5035283-NOC02-ALT-GATEOPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Attache Screw-Lock Carabiner",
+  "product_code": "5035-283",
+  "source_url": "https://www.mec.ca/en/product/5035-283/Attache-Screw-Lock-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.4cm"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Screwgate"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "22kN"
+    ],
+    "Strength cross-loaded": [
+      "7kN"
+    ],
+    "Strength open": [
+      "6kN"
+    ],
+    "Three sigma tested": [
+      "No"
+    ],
+    "Weight": [
+      "56g"
+    ]
+  }
+}

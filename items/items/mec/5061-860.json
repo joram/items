@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing training gear",
+    "ClimbSkin Hand Repair 1oz. Cream"
+  ],
+  "description": "There's hand cream, and then there's hand cream for climbers. Apply ClimbSkin an hour or two before your climb to let it start working its magic. Wash your hands after climbing, then apply it again to be ready for your next session.30ml of hand cream.Contains no artificial colours or scents.Manufacturing process is environmentally friendly, and does not involve testing on animals.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983214784542/5061860-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983214751774/5061860-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983214784542/5061860-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983214751774/5061860-NOC02-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983214784542/5061860-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983214751774/5061860-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983214784542/5061860-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983214751774/5061860-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Climbskin ClimbSkin Hand Repair 1oz. Cream",
+  "product_code": "5061-860",
+  "source_url": "https://www.mec.ca/en/product/5061-860/ClimbSkin-Hand-Repair-1oz-Cream",
+  "tech_specs": {
+    "Ideal for": [
+      "Climbing training"
+    ],
+    "Made in": [
+      "Spain"
+    ]
+  }
+}

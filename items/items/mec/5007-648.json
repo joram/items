@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Sprayskirts",
+    "Touring skirts",
+    "Adventurer Sprayskirt"
+  ],
+  "description": "This coated nylon touring sprayskirt has rim-grip / safety-slip technology that seals well even against the smoothest cockpit rims. Available in a full range of sizes to fit it to your boat.Made of coated nylon packcloth.Tensioned stay peaks at the front deck to prevent pooling.Comfortable waistband.Removable shoulder straps.Double-stitched and sealed seams.To find the right size for your boat, please visit http://www.sealsskirts.com/sizing/sizing.php",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817980473374/5007648-NOC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817980473374/5007648-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Seals Adventurer Sprayskirt",
+  "product_code": "5007-648",
+  "source_url": "https://www.mec.ca/en/product/5007-648/Adventurer-Sprayskirt",
+  "tech_specs": {
+    "Deck attachment": [
+      "Adjustable shockcord"
+    ],
+    "Deck material": [
+      "Nylon"
+    ],
+    "Ideal for": [
+      "Light kayak touring",
+      "Cottage and recreational kayaking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pockets": [
+      "No"
+    ],
+    "Suspenders\n\nSuspenders help ensure the tunnel stays up when the deck is loaded with a wave.": [
+      "Yes"
+    ],
+    "Tensioned deck stay\n\nKeeps the deck taut like a drum so water rolls off.": [
+      "Yes"
+    ],
+    "Tunnel material": [
+      "Nylon"
+    ],
+    "Weight": [
+      "685g (1.4)"
+    ]
+  }
+}

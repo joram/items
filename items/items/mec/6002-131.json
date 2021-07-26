@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child footwear",
+    "Toddler and child socks",
+    "Toddler and child ski socks",
+    "Toddler Trio Socks"
+  ],
+  "description": "Fancy socks for toddlers who like to experience the world outside.Fully cushioned to pair with winter boots and high-volume footwear.Pack of  3.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140115505182/6002131-PIN13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140115341342/6002131-OCA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140115505182/6002131-PIN13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140115341342/6002131-OCA01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140115505182/6002131-PIN13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140115341342/6002131-OCA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140115505182/6002131-PIN13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140115341342/6002131-OCA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Toddler Trio Socks - Infants to Children",
+  "product_code": "6002-131",
+  "source_url": "https://www.mec.ca/en/product/6002-131/Toddler-Trio-Socks",
+  "tech_specs": {
+    "Cuff height": [
+      "Quarter"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "57% merino wool",
+      "41% nylon",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Snowsports"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

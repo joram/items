@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Hike Lightweight T2 Coolmax Performance Boot"
+  ],
+  "description": "Stay cool without sacrificing comfort. Lightweight fabric lets your piggies breath. Anti-shock cushioning stands up to the roughest trails all summer long.Made of Coolmax breathable, moisture wicking polyester, nylon, and elastane to keep your feet cool and dry.Performance fit is sleek and supportive from foot to calf.Flat toe seam gives added comfort.T2 anti-shock cushioning offers next level impact protection.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029608210462/5063070-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030228410398/5063070-NVY00-ALT-HEELTOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030228508702/5063070-NVY00-ALT-TEXTURE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029608210462/5063070-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030228410398/5063070-NVY00-ALT-HEELTOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030228508702/5063070-NVY00-ALT-TEXTURE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029608210462/5063070-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030228410398/5063070-NVY00-ALT-HEELTOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030228508702/5063070-NVY00-ALT-TEXTURE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029608210462/5063070-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030228410398/5063070-NVY00-ALT-HEELTOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030228508702/5063070-NVY00-ALT-TEXTURE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Bridgedale Hike Lightweight T2 Coolmax Performance Boot - Women's",
+  "product_code": "5063-070",
+  "source_url": "https://www.mec.ca/en/product/5063-070/Hike-Lightweight-T2-Coolmax-Performance-Boot",
+  "tech_specs": {
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Fabric content": [
+      "56% polyester",
+      "43% nylon",
+      "1% elastane"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Backpacking",
+      "Day hiking",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "South Africa"
+    ]
+  }
+}

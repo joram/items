@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Hiking Trails III"
+  ],
+  "description": "An essential guide to Strathcona Park and the trails of north Vancouver Island. With routes for new or experienced hikers, this book has lots of details, 78 colour maps, and colour photos to prepare you for your adventure. Covers a huge area of the island: Great Central Lake to Cape Scott, plus Hornby, Quadra, Malcolm, and Nootka islands. Updated and revised with new trails and info.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815601254430/5019128-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815601254430/5019128-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hiking Trails III",
+  "product_code": "5019-128",
+  "source_url": "https://www.mec.ca/en/product/5019-128/Hiking-Trails-III",
+  "tech_specs": {
+    "Author": [
+      "Richard Blier"
+    ],
+    "Edition": [
+      "10th"
+    ],
+    "ISBN": [
+      "9780969766766"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Day hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "224"
+    ],
+    "Published": [
+      "2009"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

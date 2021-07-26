@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling tops",
+    "Cycling jerseys",
+    "Quest Long Sleeve Jersey"
+  ],
+  "description": "A sleek long sleeved jersey to suit smooth cornering and hard efforts on cooler days. A full-length zipper lets you get the air flowing at the top of your climb, and highly efficient wicking keeps you dry and comfortable throughout your ride. Elasticized hem for excellent stay-put power, with a dropped back for coverage when you're in full tuck.Made of polyester Select Transfer fabric for exceptional moisture transfer.UPF rating of 50+ keeps you safe from the sun's harmful rays.Full length zipper offers easy venting.3 back drop-in pockets fit a light windbreaker and a handful of gels.Reflective elements keep you visible.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188156768286/6003137-BRA05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188166336542/6003137-BRA05-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188156768286/6003137-BRA05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188166336542/6003137-BRA05-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188156768286/6003137-BRA05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188166336542/6003137-BRA05-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188156768286/6003137-BRA05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188166336542/6003137-BRA05-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pearl Izumi Quest Long Sleeve Jersey - Men's",
+  "product_code": "6003-137",
+  "source_url": "https://www.mec.ca/en/product/6003-137/Quest-Long-Sleeve-Jersey",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Cycling",
+      "Road cycling"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "3 back drop-in"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

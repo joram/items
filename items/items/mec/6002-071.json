@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Base layers and underwear",
+    "Base layers",
+    "Base layer bottoms",
+    "Merino 250 Baselayer 3/4 Bottoms"
+  ],
+  "description": "Merino is standard issue for next to skin insulation. It works with your body's own heating and cooling system to keep your core temperature where you want it. This heavier weight is a wonderful base layer in very cold weather. Perfect for ski touring, mountaineering and backpacking adventures and for high-output snowshoeing and Nordic skiing.Interlock knit merino wool wicks fast to keep you dry and is naturally antimicrobial.Flatlock seams eliminate chafing.Traditional, functional fly.Wide fabric-covered elastic waistband for long lasting comfort.Inseam is 20.5in.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056332513310/6002071-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056348831774/6002071-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056348864542/6002071-BK000-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056332513310/6002071-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056348831774/6002071-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056348864542/6002071-BK000-ALT-FLAT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056332513310/6002071-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056348831774/6002071-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056348864542/6002071-BK000-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056332513310/6002071-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056348831774/6002071-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056348864542/6002071-BK000-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Merino 250 Baselayer 3/4 Bottoms - Men's",
+  "product_code": "6002-071",
+  "source_url": "https://www.mec.ca/en/product/6002-071/Merino-250-Baselayer-3-4-Bottoms",
+  "tech_specs": {
+    "Fabric content": [
+      "100% merino wool"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "250gsm"
+    ],
+    "Ideal for": [
+      "Snowsports",
+      "Alpine climbing and mountaineering",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Type": [
+      "Base layer"
+    ]
+  }
+}

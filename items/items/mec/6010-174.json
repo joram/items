@@ -1,0 +1,98 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Winter boots",
+    "Casual winter boots",
+    "Adirondack Tall Boots"
+  ],
+  "description": "Beautifully constructed, the Adirondack is proof that fashion and function can coexist in a winter boot. The upper is full-grain leather with a suede shaft that can be flipped up for maximum warmth or folded down, exposing the luxe wool lining. Fully waterproof construction and lightweight synthetic insulation offer comfort in sub-zero situations. A foam midsole and winter-optimized tread provide the support and traction you need to enjoy your winter day-to-day.Waterproof leather uppers over a waterproof bootie.Insulated lining blends 10mm soft wool UGGpure\u2122 and 8mm with Sherpa fleece.Warm 17mm UGGplush\u2122 wool and lyocell insole conforms to your foot.Suede shaft can be rolled up to 30cm or down to ankle height.200g synthetic insulation is warm and lightweight.Supportive EVA midsole.Durable, high-friction rubber outsole.UGG rates these boots to -32\u00b0C.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146506739742/6010174-CHE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515816478/6010174-CHE00-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515783710/6010174-CHE00-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515882014/6010174-CHE00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515980318/6010174-CHE00-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515587102/6010174-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515619870/6010174-BK000-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515554334/6010174-BK000-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515750942/6010174-BK000-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515849246/6010174-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146506510366/6010174-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146506739742/6010174-CHE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515816478/6010174-CHE00-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515783710/6010174-CHE00-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515882014/6010174-CHE00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515980318/6010174-CHE00-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515587102/6010174-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515619870/6010174-BK000-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515554334/6010174-BK000-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515750942/6010174-BK000-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515849246/6010174-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146506510366/6010174-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146506739742/6010174-CHE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515816478/6010174-CHE00-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515783710/6010174-CHE00-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515882014/6010174-CHE00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515980318/6010174-CHE00-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515587102/6010174-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515619870/6010174-BK000-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515554334/6010174-BK000-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515750942/6010174-BK000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515849246/6010174-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146506510366/6010174-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146506739742/6010174-CHE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515816478/6010174-CHE00-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515783710/6010174-CHE00-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515882014/6010174-CHE00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515980318/6010174-CHE00-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515587102/6010174-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515619870/6010174-BK000-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515554334/6010174-BK000-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515750942/6010174-BK000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146515849246/6010174-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146506510366/6010174-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "UGG Adirondack Tall Boots - Women's",
+  "product_code": "6010-174",
+  "source_url": "https://www.mec.ca/en/product/6010-174/Adirondack-Tall-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Height\n\nThe approximate boot height for the average person.": [
+      "Mid-calf"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Insulation": [
+      "200g synthetic insulation"
+    ],
+    "Lining material": [
+      "Wool"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable inner boot": [
+      "No"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Leather",
+      "Suede"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ]
+  }
+}

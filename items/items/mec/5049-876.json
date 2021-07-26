@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Sun protection",
+    "Sunscreen",
+    "SPF 50+ Sunscreen 89ml"
+  ],
+  "description": "Ideal for daily use, as it contains no biologically harmful chemicals, such as avobenzone, oxybenzone, or UV chemical absorbers. Offers broad-spectrum UVA and UVB protection and uses a non-nano formulation. Absorbs easily with a non-oily feel, and doesn\u2019t have an obtrusive smell like some organic sunscreens.Broad-spectrum UVA and UVB protection (per FDA 2012 Rules).Packaging that does not contain BPA, vinyl, or phthalates.Rated at 1, by Environmental Working Group since 2010.Water resistance for 80 minutes.Free of paraben, phthalates, PABA and 1,4 dioxanes.Active ingredient: Zinc oxide 20% (non-nano). Inactive ingredients: cetyl dimethicone, hydrogenated castor oil, magnesium sulfate (epsom salt), sunflower oil, jojoba oil, ascorbic acid (vitamin C), tocopherols (vitamin E), olive oil, raspberry seed oil, cranberry seed oil, hyaluronic acid (made from vegetable), glucose & glucose oxidase and lactoperoxidase, currant, grapefruit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809995763742/5049876-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809996025886/5049876-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809996156958/5049876-NOC02-ALT-SIZING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809995763742/5049876-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809996025886/5049876-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809996156958/5049876-NOC02-ALT-SIZING.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809995763742/5049876-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809996025886/5049876-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809996156958/5049876-NOC02-ALT-SIZING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809995763742/5049876-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809996025886/5049876-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809996156958/5049876-NOC02-ALT-SIZING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Thinksport SPF 50+ Sunscreen 89ml",
+  "product_code": "5049-876",
+  "source_url": "https://www.mec.ca/en/product/5049-876/SPF-50%2B-Sunscreen-89ml",
+  "tech_specs": {
+    "Alcohol free\n\nAlcohol is a skin irritant, so alcohol-free sun products are better for sensitive skin.": [
+      "Yes"
+    ],
+    "Fragrance free": [
+      "Yes"
+    ],
+    "Hypoallergenic": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Beach"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Noncomedogenic\n\nNoncomedogenic skin care products are less likely to block pores.": [
+      "Yes"
+    ],
+    "PABA free": [
+      "Yes"
+    ],
+    "Reef and coral friendly\n\nFree of the two most common ingredients known to affect coral health (oxybenzone and octinoxate).": [
+      "Yes"
+    ],
+    "SPF": [
+      "50"
+    ],
+    "Type": [
+      "Face",
+      "Body"
+    ],
+    "Volume": [
+      "90"
+    ],
+    "Water/sweatproof": [
+      "Yes"
+    ]
+  }
+}

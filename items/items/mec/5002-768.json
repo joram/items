@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking footwear",
+    "Footwear accessories",
+    "Traction devices",
+    "Pro Traction Device"
+  ],
+  "description": "Walking or running on non-technical snow or ice? These little gizmos slip easily onto your footwear to reduce the odds of slipping. They stow easily in your jacket or pack pocket when not needed.Natural rubber, wound with coils to create hundreds of biting edges to grip snow and ice.Removable performance straps.Provides traction through 360 degrees, for security when traversing gentle slopes.Spike-free design prevents shredding pant legs or your legs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809899098142/5002768-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809899098142/5002768-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809899098142/5002768-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809899098142/5002768-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Yaktrax Pro Traction Device - Unisex",
+  "product_code": "5002-768",
+  "source_url": "https://www.mec.ca/en/product/5002-768/Pro-Traction-Device",
+  "tech_specs": {
+    "Ideal for": [
+      "Casual wear",
+      "Day hiking",
+      "Backpacking",
+      "Trail running",
+      "Road running"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Strap material": [
+      "Rubber"
+    ],
+    "Traction aid material": [
+      "Steel",
+      "Rubber"
+    ],
+    "Weight": [
+      "205g (Medium)"
+    ]
+  }
+}

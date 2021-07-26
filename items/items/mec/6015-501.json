@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Emergency First Aid"
+  ],
+  "description": "A pocket-sized folding guide to quickly reference in case of emergency. It covers the basics of what to do in different situations, as well as when to call for help and how to care for victims until medical professionals arrive. Laminated for durability.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189842616350/6015501-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189842616350/6015501-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Waterford Press Emergency First Aid",
+  "product_code": "6015-501",
+  "source_url": "https://www.mec.ca/en/product/6015-501/Emergency-First-Aid",
+  "tech_specs": {
+    "Author": [
+      "James Kavanagh"
+    ],
+    "Edition": [
+      "3rd"
+    ],
+    "ISBN": [
+      "9781620052884"
+    ],
+    "Ideal for": [
+      "Emergency preparedness",
+      "Camping and hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "2"
+    ],
+    "Published": [
+      "2019"
+    ]
+  }
+}

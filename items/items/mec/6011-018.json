@@ -1,0 +1,97 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Shoes",
+    "Sneakers and casual shoes",
+    "UltraRange EXO Shoes"
+  ],
+  "description": "Classic kicks with modern comfort, clean lines and laidback styleSupple textile and synthetic uppers.UltraCush\u00ae tongue has airflow ports for breathability.Rugged RapidWeld\u00ae construction details.Plush Ultracush, full-length midsole.Supportive EXO skeleton cradles your forefoot and cups your heel securely.Super-grippy reverse lug waffle-cut soles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164010618910/6011018-PHR01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021563422/6011018-PHR01-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021628958/6011018-PHR01-ALT-DOUBLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021825566/6011018-PHR01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021989406/6011018-PHR01-ALT-WALL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151792971806/6011018-BK058-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151792939038/6011018-BK058-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151793070110/6011018-BK058-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125071880222/6011018-ADW01-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125072076830/6011018-ADW01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125072240670/6011018-ADW01-ALT-UP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151793037342/6011018-ADW01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9152258048030/6011018-BK058.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9152258080798/6011018-ADW01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164010618910/6011018-PHR01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021563422/6011018-PHR01-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021628958/6011018-PHR01-ALT-DOUBLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021825566/6011018-PHR01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021989406/6011018-PHR01-ALT-WALL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151792971806/6011018-BK058-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151792939038/6011018-BK058-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151793070110/6011018-BK058-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125071880222/6011018-ADW01-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125072076830/6011018-ADW01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125072240670/6011018-ADW01-ALT-UP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151793037342/6011018-ADW01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9152258048030/6011018-BK058.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9152258080798/6011018-ADW01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164010618910/6011018-PHR01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021563422/6011018-PHR01-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021628958/6011018-PHR01-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021825566/6011018-PHR01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021989406/6011018-PHR01-ALT-WALL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151792971806/6011018-BK058-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151792939038/6011018-BK058-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151793070110/6011018-BK058-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125071880222/6011018-ADW01-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125072076830/6011018-ADW01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125072240670/6011018-ADW01-ALT-UP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151793037342/6011018-ADW01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9152258048030/6011018-BK058.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9152258080798/6011018-ADW01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164010618910/6011018-PHR01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021563422/6011018-PHR01-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021628958/6011018-PHR01-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021825566/6011018-PHR01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164021989406/6011018-PHR01-ALT-WALL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151792971806/6011018-BK058-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151792939038/6011018-BK058-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151793070110/6011018-BK058-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125071880222/6011018-ADW01-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125072076830/6011018-ADW01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125072240670/6011018-ADW01-ALT-UP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151793037342/6011018-ADW01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9152258048030/6011018-BK058.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9152258080798/6011018-ADW01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vans UltraRange EXO Shoes - Unisex",
+  "product_code": "6011-018",
+  "source_url": "https://www.mec.ca/en/product/6011-018/UltraRange-EXO-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Nylon",
+      "Synthetic leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

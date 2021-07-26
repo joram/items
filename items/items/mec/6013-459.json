@@ -1,0 +1,102 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Winter boots",
+    "Casual winter boots",
+    "Tyson Mid Waterproof Boots"
+  ],
+  "description": "Classic styling and little more protection from the elements. Not a true a high-top, not a true low-top, the Tyson Mid provides just enough protection to keep snow out of shoes when you have to run for the train.Waterproof leather and fully sealed seams.Soft microfleece lining is warm and wicking.Padded, fleecy collar and tongue seal out cold air.200 grams of Thinsulate\u2122 synthetic insulation is light and efficient.EVA insoles have Cleansport NXTTM non-toxic odour treatment.Heavily lugged outsole has deep aggressive tread that offers improved stability and traction.Kamik rates these boots down to -30\u00b0C.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290779678/6013459-CLT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147285930014/6013459-CLT00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288420382/6013459-CLT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288453150/6013459-CLT00-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288485918/6013459-CLT00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288551454/6013459-CLT00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288059934/6013459-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288158238/6013459-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288191006/6013459-BK000-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288223774/6013459-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288322078/6013459-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290681374/6013459-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290779678/6013459-CLT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147285930014/6013459-CLT00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288420382/6013459-CLT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288453150/6013459-CLT00-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288485918/6013459-CLT00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288551454/6013459-CLT00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288059934/6013459-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288158238/6013459-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288191006/6013459-BK000-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288223774/6013459-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288322078/6013459-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290681374/6013459-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290779678/6013459-CLT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147285930014/6013459-CLT00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288420382/6013459-CLT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288453150/6013459-CLT00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288485918/6013459-CLT00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288551454/6013459-CLT00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288059934/6013459-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288158238/6013459-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288191006/6013459-BK000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288223774/6013459-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288322078/6013459-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290681374/6013459-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290779678/6013459-CLT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147285930014/6013459-CLT00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288420382/6013459-CLT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288453150/6013459-CLT00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288485918/6013459-CLT00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288551454/6013459-CLT00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288059934/6013459-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288158238/6013459-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288191006/6013459-BK000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288223774/6013459-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147288322078/6013459-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147290681374/6013459-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kamik Tyson Mid Waterproof Boots - Men's",
+  "product_code": "6013-459",
+  "source_url": "https://www.mec.ca/en/product/6013-459/Tyson-Mid-Waterproof-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Height\n\nThe approximate boot height for the average person.": [
+      "Above ankle"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Insulation": [
+      "200g synthetic insulation",
+      "Fleece"
+    ],
+    "Lining material": [
+      "Microfleece"
+    ],
+    "Made in": [
+      "India"
+    ],
+    "Removable inner boot": [
+      "No"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ]
+  }
+}

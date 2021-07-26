@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Accessories",
+    "Running socks",
+    "SynchroKnit Surpass Lightweight Low Socks"
+  ],
+  "description": "Less is more? The surpass sock uses SynchroKnit\u2122 Powered by Wigwam design. Removing stitches from unneeded areas of the sock, produces a precise foot-like fit that performs.SynchroKnit\u2122 contour knit, removes unneeded fabric creating a precise fit.Lightweight zone cushioning for comfort.Arch saddle holds sock in place.Seamless toe closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9062494339102/6007105-WHT04.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9062494339102/6007105-WHT04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wigwam SynchroKnit Surpass Lightweight Low Socks - Unisex",
+  "product_code": "6007-105",
+  "source_url": "https://www.mec.ca/en/product/6007-105/SynchroKnit-Surpass-Lightweight-Low-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "Yes"
+    ],
+    "Cuff height": [
+      "No-show"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "52% polyester",
+      "36% nylon",
+      "7% Tencel Lyocell",
+      "5% spandex"
+    ],
+    "Ideal for": [
+      "Running",
+      "Trail running"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

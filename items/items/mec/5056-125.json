@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Camp stoves and grills",
+    "Backcountry stoves",
+    "Canister stoves",
+    "WindBurner Group Stove System"
+  ],
+  "description": "With a radiant stove burner and heat exchanger built into the cooking pot, this WindBurner modular stove system is fast, fuel efficient and really shines when the conditions are challenging. Its internal regulator equalizes pressure so the burner operates at near max output at low fuel pressure and in cold temperatures. The 2.5L pot can be used to cook for groups up to 4, and it gives you a good sized pot if you like a well-simmered feast or need to melt snow for water. Nesting components keep it compact when packed, and the straining lid expands your menu options beyond ramen and rehydrated meals.2.5L pot with ceramic-coated non-stick surfaces and heat exchanger for versatile cooking.Pot lid has strainer holes and locking latch to keep it on tight.Folding Talon handle for easy maneuvering.Pressure regulator provides consistent performance at cool temperatures or when fuel is low.Windproof radiant burner maintains heat levels.227g canister burns for about 95 minutes and boil approximately 18L of water.110g or 227g fuel canister (sold separately) nests perfectly inside.Stove and pot are an integrated system. Can't be used with standard flat-bottomed pots.Fuel canisters available separately.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954407354398/5056125-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954407354398/5056125-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR WindBurner Group Stove System",
+  "product_code": "5056-125",
+  "source_url": "https://www.mec.ca/en/product/5056-125/WindBurner-Group-Stove-System",
+  "tech_specs": {
+    "Boil time\n\nThe average time it takes to boil 1L of water. Wind, air temperature and elevation will affect boil time in the field.": [
+      "6.2\u00a0min"
+    ],
+    "Burner components": [
+      "Brass",
+      "Stainless steel",
+      "Aluminum"
+    ],
+    "Dimensions": [
+      "19.7 x\u00a019.7\u00a0x\u00a013.3cm"
+    ],
+    "Fuel\n\nStoves are designed to burn specific fuels. All stoves should only be used with recommended fuels to prevent damage.": [
+      "LPG"
+    ],
+    "Fuel pump\n\nLiquid fuel stoves require a fuel pump to pressurize the fuel tank.": [
+      "No"
+    ],
+    "Heat reflector\n\nHeat reflectors are placed under the burner and reflect heat back up towards the cooking pot. This helps save fuel and speed cooking time.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Canoe tripping",
+      "Kayak touring"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Output\n\nThe output of any heat generating device is shown in BTUs (British Thermal Units) which measure the amount of heat energy needed to raise the temperature of 1lb. of water by 1\u00b0F.": [
+      "7000BTU"
+    ],
+    "Piezo ignition": [
+      "No"
+    ],
+    "Pot included": [
+      "Yes"
+    ],
+    "Simmers": [
+      "Yes"
+    ],
+    "Weight": [
+      "599g"
+    ],
+    "Windscreen": [
+      "Yes"
+    ]
+  }
+}

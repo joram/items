@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Le meilleur du Quebec"
+  ],
+  "description": "Add 400 unforgettable experiences in la belle province to your bucket list. Includes dedicated sections for foodies, wildlife lovers, cyclists, regional festivals and much more. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815704080414/5050283-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815704080414/5050283-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses Le meilleur du Quebec",
+  "product_code": "5050-283",
+  "source_url": "https://www.mec.ca/en/product/5050-283/Le-meilleur-du-Quebec",
+  "tech_specs": {
+    "ISBN": [
+      "9782894645208"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "288"
+    ],
+    "Published": [
+      "2015"
+    ],
+    "Regionality": [
+      "Quebec"
+    ]
+  }
+}

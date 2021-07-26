@@ -1,0 +1,69 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water filters",
+    "Pump filters",
+    "Emergency Home Water Filtration System"
+  ],
+  "description": "Clean water is important when disaster strikes. This home water filtration system attaches to most standard spigots and uses a two-stage filter to provide safe and taste-free water on demand. Add it to your emergency kit in case of compromised water systems, disasters or boil orders.Fast-flow hollow fibre technology uses polymer fibres remove particulate and pathogens.Activated carbon reduces chemicals and tastes.Threaded adapter fits most spigots, sinks and water barrels.Packaging is hermetically sealed for safe, long-term storage.Nominal 1000L filter life is for clear water.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089349615646/6008270-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089357185054/6008270-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089349615646/6008270-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089357185054/6008270-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089349615646/6008270-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089357185054/6008270-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089349615646/6008270-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089357185054/6008270-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Emergency Home Water Filtration System",
+  "product_code": "6008-270",
+  "source_url": "https://www.mec.ca/en/product/6008-270/Emergency-Home-Water-Filtration-System",
+  "tech_specs": {
+    "Cartridge life\n\nThe life of the filter cartridge is based on the quantity of water you can treat before the cartridge is no longer effective. This does not apply to battery operated or chemical filter systems.": [
+      "1000L"
+    ],
+    "Dimensions": [
+      "19\u00a0x\u00a04.2cm"
+    ],
+    "Effective against bacteria\n\nBacteria can cause illnesses such as diarrhea and dysentery and are about 1.0 micron in size, although some can be as small as 0.2 microns.": [
+      "Yes"
+    ],
+    "Effective against particulate\n\nParticulate consists of very small bits and pieces such as dirt or bugs.": [
+      "Yes"
+    ],
+    "Effective against protozoa\n\nProtozoa are larger than one micron and include cryptosporidium and giardia.": [
+      "Yes"
+    ],
+    "Effective against viruses\n\nMost viruses are in the 0.1 micron size range, but they can be as small as 0.002 microns.": [
+      "No"
+    ],
+    "Filter size\n\nA 0.5 micron or smaller filters protozoa and some large bacteria; 0.2 micron or smaller filters smaller bacteria such as campylobacter.": [
+      "0.2microns"
+    ],
+    "Filter type\n\nWater can be treated using various types of filters, chemicals or non-chemical purification methods, or a combination. Filters on their own will not remove viruses as they are too small.": [
+      "Hollow fibre technology"
+    ],
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Output": [
+      "1.5L/min"
+    ],
+    "Weight": [
+      "100g"
+    ]
+  }
+}

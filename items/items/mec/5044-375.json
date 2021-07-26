@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike books and maps",
+    "Bike maps",
+    "Bragg Creek& Sheep Valley 6th Edition"
+  ],
+  "description": "This map covers the recreational terrain close to Calgary, from Sibbald Flats through Elbow Valley down to Sheep Valley. Popular hiking, cross-country skiing and biking trails covered include: Elbow Falls, Prairie Mountain, Fullerton Loop, Moose Mountain, Sulphur Springs, Nihahi Ridge, Powderface Ridge, Jumpingpound Ridge, Cox Hill, Sheep River Falls, Volcano Ridge, Ole Buck Loop and Deer Ridge. The back of the map includes trail descriptions and photos of 20 day hikes and 7 mountain bike rides.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035646173214/5044375-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035646173214/5044375-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Publishing Bragg Creek & Sheep Valley 6th Edition",
+  "product_code": "5044-375",
+  "source_url": "https://www.mec.ca/en/product/5044-375/Bragg-Creek%26-Sheep-Valley-6th-Edition",
+  "tech_specs": {
+    "Edition": [
+      "6th"
+    ],
+    "Ideal for": [
+      "Mountain biking",
+      "Backpacking",
+      "Day hiking",
+      "Cross-country skiing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Prairies"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

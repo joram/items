@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Marine navigation",
+    "Maps",
+    "Sea To Sky Marine Trail/Howe Sound Map"
+  ],
+  "description": "Plan your trip from West Vancouver to Squamish, via the Sea to Sky Marine Tril. It's double-sided, covering the region on one side with closer-perspective details on the other.55 x 80cm size is easy to handle on the water.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190522159134/6016002-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190518489118/6016002-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190522159134/6016002-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190518489118/6016002-NOC02-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190522159134/6016002-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190518489118/6016002-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190522159134/6016002-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190518489118/6016002-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wild Coast Publishing Sea To Sky Marine Trail/Howe Sound Map",
+  "product_code": "6016-002",
+  "source_url": "https://www.mec.ca/en/product/6016-002/Sea-To-Sky-Marine-Trail-Howe-Sound-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayak touring",
+      "Canoe tripping"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

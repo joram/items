@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "92K02-Desolation Sound"
+  ],
+  "description": "Find your way with this topographical map providing general-purpose, detailed coverage depicting ground relief, water bodies, forest cover, populated areas, and transportation routes. This 1:50,000 scale National Topographic System (NTS) map provides enough detail for a range of recreational activities.Latitude, longitude and UTM coordinates included.Legend on the reverse side.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815789146142/4005202-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815789146142/4005202-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "NTS Map 92K02-Desolation Sound",
+  "product_code": "4005-202",
+  "source_url": "https://www.mec.ca/en/product/4005-202/92K02-Desolation-Sound",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Language": [
+      "English/French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "No"
+    ],
+    "Waterproof": [
+      "No"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Beef Stew With Vegetables and Potatoes"
+  ],
+  "description": "Hearty beef stew to warm your soul. Loaded with tender chunks of beef, potatoes and vegetables, this stew is satisfying and delicious.Ingredients: dried potatoes (sulphites), freeze-dried beef (beef, onion, spices), sauce [glucose solids, hydrolysed corn protein, whole milk powder, potato starch, corn starch, garlic powder, sugar, caramel (sulphites), yeast extract, onion powder, salt, tomato powder, spices, dried herbs], freeze-dried vegetables (peas, carrots/corn), dried onions.May contain: nut, peanuts, sesame, egg, fish, sea food, soya, wheat and mustard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132499206174/6012188-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132499206174/6012188-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Beef Stew With Vegetables and Potatoes",
+  "product_code": "6012-188",
+  "source_url": "https://www.mec.ca/en/product/6012-188/Beef-Stew-With-Vegetables-and-Potatoes",
+  "tech_specs": {
+    "Calories per serving": [
+      "300Cal"
+    ],
+    "Carbohydrates": [
+      "43g"
+    ],
+    "Cholesterol": [
+      "40mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "No"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "4g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "19g"
+    ],
+    "Saturated fat": [
+      "2.5g"
+    ],
+    "Serving size": [
+      "1/2 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "560mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "4g"
+    ],
+    "Total fat": [
+      "9g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ],
+    "Weight": [
+      "130g"
+    ]
+  }
+}

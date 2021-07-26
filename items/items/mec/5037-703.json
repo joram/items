@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Snowshoeing gear",
+    "Snowshoe accessories",
+    "Revo Snowshoe Tails"
+  ],
+  "description": "Add extra flotation to your MSR Revo Snowshoes for deep snow or when wearing a heavy pack.Adds 5in. of length to the deck of any Revo Snowshoe.Sold as a pair.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817238736926/5037703-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817238736926/5037703-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Revo Snowshoe Tails",
+  "product_code": "5037-703",
+  "source_url": "https://www.mec.ca/en/product/5037-703/Revo-Snowshoe-Tails",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain snowshoeing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "298g"
+    ]
+  }
+}

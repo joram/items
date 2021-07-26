@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Sleeping pads",
+    "Sleeping pad accessories",
+    "WingLock Valve Repair Kit"
+  ],
+  "description": "Why replace when you can repair. This little DIY kit gives you everything you need replace the valve in your WingLock\u2122 valve equipped sleeping mat.Includes a new valve, a tube of adhesive and instructions.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082909556766/6008772-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082909556766/6008772-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Therm-a-Rest WingLock Valve Repair Kit",
+  "product_code": "6008-772",
+  "source_url": "https://www.mec.ca/en/product/6008-772/WingLock-Valve-Repair-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "120g"
+    ]
+  }
+}

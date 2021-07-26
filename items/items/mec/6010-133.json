@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Hoodies and sweaters",
+    "Sweaters",
+    "Vardag Sweater"
+  ],
+  "description": "Organic fibres and classic style fit right in wherever you go. Fj\u00e4llr\u00e4ven\u2019s Vardag (weekday) collection focuses on everyday comfort.Retro 1970s Fj\u00e4llr\u00e4ven\u2019s logo.Ribbing at the cuffs, collar and hem hold their shape.Regular fit wears like an old favourite.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169689903134/6010133-STM00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645830174/6010133-STM00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169682497566/6010133-STM00-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169682628638/6010133-STM00-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169682694174/6010133-STM00-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133114261534/6010133-GRN00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133120421918/6010133-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169689903134/6010133-STM00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645830174/6010133-STM00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169682497566/6010133-STM00-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169682628638/6010133-STM00-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169682694174/6010133-STM00-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133114261534/6010133-GRN00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133120421918/6010133-GRN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169689903134/6010133-STM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645830174/6010133-STM00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169682497566/6010133-STM00-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169682628638/6010133-STM00-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169682694174/6010133-STM00-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133114261534/6010133-GRN00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133120421918/6010133-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169689903134/6010133-STM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645830174/6010133-STM00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169682497566/6010133-STM00-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169682628638/6010133-STM00-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169682694174/6010133-STM00-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133114261534/6010133-GRN00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133120421918/6010133-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fjallraven Vardag Sweater - Men's",
+  "product_code": "6010-133",
+  "source_url": "https://www.mec.ca/en/product/6010-133/Vardag-Sweater",
+  "tech_specs": {
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ]
+  }
+}

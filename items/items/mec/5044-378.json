@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Best of Lake Louise 4th Edition"
+  ],
+  "description": "Everything you need to make the most of your time in Lake Louise. This handy map and guide features a topographic map of the Lake Louise area, showing the network of trails around Lake Louise Village, as well as those up at the Chateau Lake Louise. Included are trail descriptions of 6 classic hikes, including the Lake Louise Lakeshore Trail, the Saddleback and Fairview Mountain and hikes to the rustic teahouses at Lake Agnes and Plain of the Six Glaciers. This map also includes descriptions of must-see sights, such as the Chateau Lake Louise and the Sightseeing Gondola, scenic drives and biking trails.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035646468126/5044378-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035646468126/5044378-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Publishing Best of Lake Louise 4th Edition",
+  "product_code": "5044-378",
+  "source_url": "https://www.mec.ca/en/product/5044-378/Best-of-Lake-Louise-4th-Edition",
+  "tech_specs": {
+    "Edition": [
+      "4th"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Casual wear",
+      "Cross-country skiing",
+      "Mountain biking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:35,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Neck gaiters and scarves",
+    "Scarves",
+    "Wool Blend Knit Scarf"
+  ],
+  "description": "Wrap up in cozy warmth. The soft blend pairs well with a toque and tea.Fine-knit acrylic and merino wool.Merino is naturally temperature regulating and antimicrobial.168 x 30cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147293302814/6013504-MAG22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147293237278/6013504-BL563.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147293302814/6013504-MAG22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147293237278/6013504-BL563.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147293302814/6013504-MAG22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147293237278/6013504-BL563.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147293302814/6013504-MAG22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147293237278/6013504-BL563.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Parkhurst Wool Blend Knit Scarf - Unisex",
+  "product_code": "6013-504",
+  "source_url": "https://www.mec.ca/en/product/6013-504/Wool-Blend-Knit-Scarf",
+  "tech_specs": {
+    "Fabric content": [
+      "50% merino wool",
+      "50% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

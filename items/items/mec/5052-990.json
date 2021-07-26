@@ -1,0 +1,97 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Chili Mac with Beef"
+  ],
+  "description": "Spicy chili packed with hearty macaroni noodles for a filling meal that\u2019s perfect for refueling after a day of adventuring.Ingredients: cooked beef crumbles (beef, flavour, salt), enriched macaroni, cooked kidney beans (salt), tomato paste, seasoning (chili pepper, spices, dehydrated onion and garlic, salt, hydrolyzed soy protein, potassium chloride, sugar, maltodextrin, beef extract, disodium inosinate and guanylate, autolyzed yeast, caramel, flavours, citric acid), modified cornstarch.Contains: wheat, soy and barley.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867429449758/5052990-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872356249630/5052990-NOC02-ALT-NUTRI.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872356347934/5052990-NOC02-ALT-SURE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867429449758/5052990-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872356249630/5052990-NOC02-ALT-NUTRI.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872356347934/5052990-NOC02-ALT-SURE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867429449758/5052990-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872356249630/5052990-NOC02-ALT-NUTRI.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872356347934/5052990-NOC02-ALT-SURE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867429449758/5052990-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872356249630/5052990-NOC02-ALT-NUTRI.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872356347934/5052990-NOC02-ALT-SURE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mountain House Chili Mac with Beef",
+  "product_code": "5052-990",
+  "source_url": "https://www.mec.ca/en/product/5052-990/Chili-Mac-with-Beef",
+  "tech_specs": {
+    "Calories per serving": [
+      "290Cal"
+    ],
+    "Carbohydrates": [
+      "39g"
+    ],
+    "Cholesterol": [
+      "30mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "6g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Protein": [
+      "16g"
+    ],
+    "Saturated fat": [
+      "2.5g"
+    ],
+    "Serving size": [
+      "1/2 package"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "990mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "4g"
+    ],
+    "Total fat": [
+      "7g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ],
+    "Weight": [
+      "136g"
+    ]
+  }
+}

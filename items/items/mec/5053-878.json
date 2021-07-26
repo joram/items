@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "How To Read Water"
+  ],
+  "description": "Reconnect with water. Author Tristan Gooley shares hundreds of techniques and observations in this fascinating book. Learn to gauge depth, navigate, forecast weather by reading the clues and patterns in water. Find north using puddles, forecast the weather from waves, decode the colors of ponds, spot dangerous water in the dark, and decipher wave patterns on beaches.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8866446737438/5053878-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8866446737438/5053878-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "How To Read Water",
+  "product_code": "5053-878",
+  "source_url": "https://www.mec.ca/en/product/5053-878/How-To-Read-Water",
+  "tech_specs": {
+    "Author": [
+      "Tristan Gooley"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9781615193585"
+    ],
+    "Ideal for": [
+      "Watersports",
+      "Camping and hiking",
+      "Travel"
+    ],
+    "Illustrator": [
+      "Neil Gower"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "400"
+    ],
+    "Published": [
+      "2016"
+    ]
+  }
+}

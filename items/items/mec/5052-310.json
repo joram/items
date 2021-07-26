@@ -1,0 +1,69 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Mountaineering axes",
+    "Swift Ice Axe"
+  ],
+  "description": "A modern evolution of a classic mountaineering piolet-style axe. The technical, curved profile can be pressed into service in steep couloirs and technical sections of snow and ice. With a plungeable shaft, you're covered for snowslopes and glacier crossings too.FlickLock pommel is adjustable for varying terrain.One-piece hot-forged stainless steel headT-rated aluminum shaft.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854276571166/5052310-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855671046174/5052310-BL000-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855671078942/5052310-BL000-ALT-DETAILLY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855671242782/5052310-BL000-ALT-POKE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854276571166/5052310-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855671046174/5052310-BL000-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855671078942/5052310-BL000-ALT-DETAILLY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855671242782/5052310-BL000-ALT-POKE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854276571166/5052310-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855671046174/5052310-BL000-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855671078942/5052310-BL000-ALT-DETAILLY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855671242782/5052310-BL000-ALT-POKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854276571166/5052310-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855671046174/5052310-BL000-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855671078942/5052310-BL000-ALT-DETAILLY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855671242782/5052310-BL000-ALT-POKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Swift Ice Axe",
+  "product_code": "5052-310",
+  "source_url": "https://www.mec.ca/en/product/5052-310/Swift-Ice-Axe",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Adze"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "50, 57, 64cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Removable pick": [
+      "No"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "T-rated"
+    ],
+    "Weight": [
+      "507g (57 cm)"
+    ]
+  }
+}

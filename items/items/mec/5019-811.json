@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Handlebars, headsets and stems",
+    "Grips and bar tape",
+    "Bar End Plug"
+  ],
+  "description": "Bar end plugs with an iconic Canadian logo.Sold singly",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851631570974/5019811-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851631570974/5019811-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Bar End Plug",
+  "product_code": "5019-811",
+  "source_url": "https://www.mec.ca/en/product/5019-811/Bar-End-Plug",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "3g"
+    ]
+  }
+}

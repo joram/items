@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Aid climbing gear",
+    "Bosun's Chair"
+  ],
+  "description": "Add comfort to hanging belays, long days developing new routes or snapping pics of your buddy's latest proj. The padded seat and adjustable back rest provide a plush place to sit while your partner hangdogs their way through the crux.Wide seat is made of wood with a foam top for comfort.Adjustable suspension lets you customize the seat at each belay.Webbing back rest adds support.Daisy chain gives you organization options.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938223632414/5057767-GYY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938223632414/5057767-GYY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Bosun's Chair",
+  "product_code": "5057-767",
+  "source_url": "https://www.mec.ca/en/product/5057-767/Bosun%27s-Chair",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing",
+      "Route building"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Weight": [
+      "1.1kg"
+    ]
+  }
+}

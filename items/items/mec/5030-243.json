@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking footwear",
+    "Footwear accessories",
+    "Traction devices",
+    "ICETrekkers - Diamond Grip"
+  ],
+  "description": "Multi-faceted steel beads provide hundreds of biting edges. Slip them over your shoes for a secure grip on boilerplate ice or snowy streets. The beads are self-clearing and can transition from gravel, rock and mud easily. Wear them on a walk or run and you won't have to spend time cleaning out snow or ice.Beads are case hardened steel alloy, strung on steel aircraft cable.Sturdy rubber slings stay securely on footwear without straps and remain flexible in sub-zero temperatures.Easy to put on and take off.Durable enough for prolonged use.For insulated and oversized boots, you may need to go up a size.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8921549471774/5030243-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809900769310/5030243-BK000-ALT-MACRO.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8921559597086/5030243-BK000-ALT-SINGLESOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8921549471774/5030243-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809900769310/5030243-BK000-ALT-MACRO.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8921559597086/5030243-BK000-ALT-SINGLESOLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8921549471774/5030243-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809900769310/5030243-BK000-ALT-MACRO.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8921559597086/5030243-BK000-ALT-SINGLESOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8921549471774/5030243-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809900769310/5030243-BK000-ALT-MACRO.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8921559597086/5030243-BK000-ALT-SINGLESOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "IceTrekkers ICETrekkers - Diamond Grip - Unisex",
+  "product_code": "5030-243",
+  "source_url": "https://www.mec.ca/en/product/5030-243/ICETrekkers---Diamond-Grip",
+  "tech_specs": {
+    "Ideal for": [
+      "Casual wear",
+      "Day hiking",
+      "Backpacking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Strap material": [
+      "Rubber"
+    ],
+    "Traction aid material": [
+      "Steel alloy"
+    ],
+    "Weight": [
+      "275g (Medium)"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Climbing brushes",
+    "Stick Brush"
+  ],
+  "description": "The Ferrari of stick brushes. The telescopic pole and adjustable head let you clean even the hardest-to-reach holds. The small, narrow head gets into cracks and tiny edges, while the larger brush sweeps off big slopers and ledges. The only downside? You'll no longer have the excuse that the last sloper was greasy.Telescoping pole reaches 1.4 to 2.28m.Head angle adjusts from -45\u00b0 to +45\u00b0 and locks in place with a simple lever.Replaceable brushes are beech wood and boar's hair.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955674492958/5060801-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955674492958/5060801-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "deWoodstok Stick Brush",
+  "product_code": "5060-801",
+  "source_url": "https://www.mec.ca/en/product/5060-801/Stick-Brush",
+  "tech_specs": {
+    "Ideal for": [
+      "Bouldering",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "Netherlands"
+    ],
+    "Weight": [
+      "816g"
+    ]
+  }
+}

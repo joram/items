@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Wash, repair and maintenance",
+    "Cleaners and waterproofers",
+    "Down Wash Direct 300ml"
+  ],
+  "description": "Gets your loft back. Down Wash restores the performance of untreated down or hydrophobic down, treated with DWR. Great for sleeping bags, jackets and booties, as it won't strip down's natural oils, and it significantly reduces the amount of water that untreated down can absorb.Best for hand washing or front-loading washing machines.Maintains or improves the water-repellency of outer fabrics.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815539912734/5046175-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815539912734/5046175-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815539912734/5046175-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815539912734/5046175-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nikwax Down Wash Direct 300ml",
+  "product_code": "5046-175",
+  "source_url": "https://www.mec.ca/en/product/5046-175/Down-Wash-Direct-300ml",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Type": [
+      "Cleanser"
+    ],
+    "Volume": [
+      "300ml"
+    ]
+  }
+}

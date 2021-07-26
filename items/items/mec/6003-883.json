@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country classic",
+    "Classic ski bindings",
+    "Prolink Pro Classic Bindings"
+  ],
+  "description": "Bindings that suit race days and performance focused skiers. They clip manually to your boots so you can feel when they engage securely. Nice low profile gives you full contact for power transfer and exceptional feel for the terrain.NNN-compatible Prolink composite guideridge is low profile so your boot sits closer to the ski for better snow feel.Ergonomic race lever with secure closure and easy-in, easy out wide opening.Flexor stiffness rating of 85.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053385130014/6003883-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053385130014/6003883-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Prolink Pro Classic Bindings",
+  "product_code": "6003-883",
+  "source_url": "https://www.mec.ca/en/product/6003-883/Prolink-Pro-Classic-Bindings",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "NNN"
+    ],
+    "Ideal for": [
+      "Classic ski racing",
+      "Fitness classic skiing"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Requires NIS plate": [
+      "No"
+    ],
+    "Weight": [
+      "0.25kg"
+    ]
+  }
+}

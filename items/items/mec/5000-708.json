@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "25mm Quick Attach Stealth Buckle"
+  ],
+  "description": "Quick attach stealth buckle. 25mm.Nifty quick attach feature lets you replace the buckle without removing stitching or re-sewing.Pairs with product: 5000-705.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815565504542/5000708-NOC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815565504542/5000708-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "National Molding 25mm Quick Attach Stealth Buckle",
+  "product_code": "5000-708",
+  "source_url": "https://www.mec.ca/en/product/5000-708/25mm-Quick-Attach-Stealth-Buckle",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

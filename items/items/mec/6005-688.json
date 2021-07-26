@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Skirts and dresses",
+    "Dresses",
+    "Ardena Dress"
+  ],
+  "description": "A solid choice for weekend getaways. The Ardena is lightweight, ultra packable, and ultra comfortable, all great qualities for a summer dress.Lightweight fabric blends organic and recycled fibres.2 front pockets.Elasticised waist.Relaxed fit.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096221786142/6005688-EXO05.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096221786142/6005688-EXO05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Ardena Dress - Women's",
+  "product_code": "6005-688",
+  "source_url": "https://www.mec.ca/en/product/6005-688/Ardena-Dress",
+  "tech_specs": {
+    "Fabric content": [
+      "60% organically grown cotton",
+      "40% recycled polyester"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "150gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Length": [
+      "Mid-thigh"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Pockets": [
+      "2 front"
+    ],
+    "Product sustainability": [
+      "Organically grown content",
+      "Recycled content"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Showers, soap & travel toothbrushes",
+    "Moringa/ Mineral Rich Zero Waste Toothpaste"
+  ],
+  "description": "An all-natural way to keep your teeth feeling smooth and clean. And, with its convenient jar packaging, there will be no more arguments about squeezing the tube from the bottom or the middle.Morinaga is rich in minerals and nutrients.Bentonite clay polishes while absorbing stains.Flouride-freeIngredients: calcium carbonate, bentonite clay, colloidal silver, sea salt, xylitol, castile soap, moringa leaf, trace mineral concentrate, spirulina, moringa seed oil, iodine, essential oils of juniper berry, rosemary, peppermint and pine.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184174800926/6006099-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184174800926/6006099-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nelson Naturals Moringa/ Mineral Rich Zero Waste Toothpaste",
+  "product_code": "6006-099",
+  "source_url": "https://www.mec.ca/en/product/6006-099/Moringa-Mineral-Rich-Zero-Waste-Toothpaste",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

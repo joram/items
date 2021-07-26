@@ -1,0 +1,251 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "GPS Navigation",
+    "GPS watches",
+    "Enduro"
+  ],
+  "description": "Forget about your watch\u2019s power and focus on your own. With just a few hours of sun a day, the Enduro runs 3 days or more with everything turned on, or over 3 months in expedition GPS mode. Get day-to-day metrics for training runs and workouts, plus smartwatch and activity tracking functions. The free Connect app pairs your phone to your watch, to download training plans, review activities, receive texts, social media alerts and emails, track the weather and more.Power Glass solar panel extends charge time: from 80 hours to 95 days depending on features used.Sun gauge displays solar charge status.Built-in modes for running \u2013 ultra-specific mode features rest timers, biking, swimming (indoor and out), multisport, gym (strength training, cardio and elliptical, stair stepping, rowing and yoga), golfing (42,000+ courses downloadable), skiing and more.Updated ClimbPro\u2122 gives stats on ascents and descents, showing the grade, length, totals and current position on an elevation profile (for preloaded courses).PacePro\u2122, set your course and desired pace, then compare it to your distance splits, the Enduro compares your needed pace vs your goal pace for each split and for the course.Body Battery\u2122 tracks daily energy levels, monitoring what drains your energy (exercise) and recharges your energy (rest, food), letting you train smarter.Strava Segment integration, preloaded and on-the-fly (through your phone), lets you know when starred segments begin and shows instantaneous data, comparing it to your PR and the current KOM or QOM, and provides results once complete. (requires Strava premium)Mountain biking dynamics distance and speed, grit: overall trail difficulty, and flow: a score of how smoothly you rode the trail.Breadcrumb trails track your trek, navigate you to a saved location or entered coordinate (there are no maps for routing), or navigate you on the trail you took back to where you started.Garmin Pay\u2122, make payments with your watch (if supported by your bank).LiveTrack, share your location and fitness data during activities (through a phone).Connects to 3 satellite constellations (GPS, GLONASS and Galileo) and caches satellite positions.Elevate\u2122 V3 optical heart rate monitor has a red LED for Pulse Ox data and even works while swimming.Physiological data: VO2 max \u2013 focused on trail and ultra running, a race predictor, recovery advisor with an ultra running mode and performance indicator \u2013 many take temperature and altitude into consideration.7-day training load lets you know if you're overtraining, under-training, or on the right path.Compatible with running dynamics sensors (sold separately).Incident detection + assistance mode sends out a LiveTrack link letting your contacts know where you are.24/7 activity tracking learns your activity level and guides you towards a more active lifestyle.Sleep tracking shows total sleep hours as well as movement and restful sleep.Customizable display lets you have activity specific screens with 1 to 8 data fields per screen.Connect IQ to download apps, widgets, templates and data fields.UltraTrac\u2122 mode reduces the GPS communication to save battery.Pre-set and custom power profiles let you maximize your battery\u2019s power.ABC data comes in via the internal altimeter, barometer and a tilt-compensated compass.User-friendly strap changes (compatible with 26mm QuickFit\u2122 bands).In the box: Enduro, charging cable and documentation.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189255118878/6015332-STL08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257019422/6015332-STL08-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257052190/6015332-STL08-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257314334/6015332-STL08-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257510942/6015332-STL08-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257576478/6015332-STL08-ALT-E.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257609246/6015332-STL08-ALT-F.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257740318/6015332-STL08-ALT-G.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257773086/6015332-STL08-ALT-H.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257838622/6015332-STL08-ALT-I.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189255118878/6015332-STL08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257019422/6015332-STL08-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257052190/6015332-STL08-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257314334/6015332-STL08-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257510942/6015332-STL08-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257576478/6015332-STL08-ALT-E.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257609246/6015332-STL08-ALT-F.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257740318/6015332-STL08-ALT-G.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257773086/6015332-STL08-ALT-H.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257838622/6015332-STL08-ALT-I.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189255118878/6015332-STL08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257019422/6015332-STL08-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257052190/6015332-STL08-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257314334/6015332-STL08-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257510942/6015332-STL08-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257576478/6015332-STL08-ALT-E.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257609246/6015332-STL08-ALT-F.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257740318/6015332-STL08-ALT-G.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257773086/6015332-STL08-ALT-H.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257838622/6015332-STL08-ALT-I.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189255118878/6015332-STL08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257019422/6015332-STL08-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257052190/6015332-STL08-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257314334/6015332-STL08-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257510942/6015332-STL08-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257576478/6015332-STL08-ALT-E.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257609246/6015332-STL08-ALT-F.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257740318/6015332-STL08-ALT-G.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257773086/6015332-STL08-ALT-H.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189257838622/6015332-STL08-ALT-I.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Garmin Enduro - Unisex",
+  "product_code": "6015-332",
+  "source_url": "https://www.mec.ca/en/product/6015-332/Enduro",
+  "tech_specs": {
+    "12/24 hour format": [
+      "Yes"
+    ],
+    "ANT+ compatible\n\nEnsures seamless digital wireless communication between ANT+ devices. For example, data from an ultra-low power wireless sensor can be displayed on a bike computer or smartphone, then downloaded to a PC, etc.": [
+      "Yes"
+    ],
+    "Add maps capability\n\nThese units allow you to add maps, so you can mark and name waypoints and create routes on your PC, and then upload the map of your choice to your GPS.": [
+      "No"
+    ],
+    "App compatibility\n\nAn online community where members upload, analyze and share activity data.": [
+      "Garmin Connect",
+      "BaseCamp",
+      "Third party apps"
+    ],
+    "Area calculation": [
+      "Yes"
+    ],
+    "Auto pause\n\nAutomatically pauses timer when you stop or go below a specified pace.": [
+      "Yes"
+    ],
+    "Barometric altimeter\n\nBarometer function helps forecast weather trends. An altimeter can provide one line of position for location on a topo map, useful if the GPS isn't working.": [
+      "Yes"
+    ],
+    "Basemap\n\nA basic set of map data that is included with the GPS. Basemap detail may vary from unit to unit.": [
+      "No"
+    ],
+    "Batteries": [
+      "Lithium-ion (included)"
+    ],
+    "Battery life": [
+      "70 - 2280\u00a0h"
+    ],
+    "Battery power indicator": [
+      "Yes"
+    ],
+    "Bluetooth": [
+      "Yes"
+    ],
+    "Built-in memory": [
+      "64MB"
+    ],
+    "Button lock": [
+      "Yes"
+    ],
+    "Calorie consumption\n\nCalculated based on data from a heart rate monitor.": [
+      "Yes"
+    ],
+    "Calories in real time\n\nDisplays calorie expenditure during activity, based on heart rate monitor data.": [
+      "Yes"
+    ],
+    "Case diameter": [
+      "51mm"
+    ],
+    "Chest strap": [
+      "Sold separately"
+    ],
+    "Coded signal\n\nA coded instrument ensures no interference between your chest strap and your watch, necessary if you are training in busy gyms or trails where other signals may be encountered.": [
+      "Yes"
+    ],
+    "Countdown timer": [
+      "Yes"
+    ],
+    "Custom POI\n\nA POI (point of interest) is a specific location that someone may find interesting (i.e., favourite viewpoint, best coffee stop before the trailhead). The custom POI feature allows the user to load only the POI's that interest them onto their GPS unit.": [
+      "Yes"
+    ],
+    "Data card": [
+      "Not accepted"
+    ],
+    "Dimensions": [
+      "5.1\u00a0x\u00a05.1\u00a0x\u00a01.5cm"
+    ],
+    "Display dimensions": [
+      "3.5\u00a0x\u00a03.5cm"
+    ],
+    "Distance/time alarm": [
+      "Yes"
+    ],
+    "Electronic compass\n\nAn electronic compass allows the user to view their heading in situations where they are either standing still or moving too slowly for the GPS to detect.": [
+      "Yes"
+    ],
+    "Face material\n\nPolycarbonate is inexpensive and light, with good clarity and wear-resistance. Mineral crystal glass offers greater clarity and significantly greater wear-resistance. Sapphire crystal is better still for clarity and wear-resistance.": [
+      "Mineral crystal glass"
+    ],
+    "Foot pod\n\nAttaches to your shoe, captures your running data (i.e., pace, distance), and transmits it to your heart rate monitor or GPS.": [
+      "Sold separately"
+    ],
+    "Haptic feedback": [
+      "Yes"
+    ],
+    "Heart rate in real time\n\nDisplays beats per minute during activity.": [
+      "Yes"
+    ],
+    "Heart rate monitor": [
+      "Yes"
+    ],
+    "Heart rate target zones\n\nDisplays heart rate zones during activity.": [
+      "Yes"
+    ],
+    "IPX rating\n\nIndicates the degree of protection against liquid. IP X1: Dripping water while in normal operating orientation; IP X4: Splashing water; IP X5: Water jets; IP X6: Powerful water jets; IP X7: Immersion up to 1m \u2264 30 minutes; IP X8: Suitable for submersion as specified by manufacturer.": [
+      "IP X8"
+    ],
+    "Ideal for": [
+      "Running, fitness and training",
+      "Road cycling",
+      "Mountain biking"
+    ],
+    "Interface": [
+      "USB",
+      "Wireless"
+    ],
+    "Interval training": [
+      "Yes"
+    ],
+    "Low battery warning": [
+      "Yes"
+    ],
+    "Lug width": [
+      "26mm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Metric/imperial units format": [
+      "Yes"
+    ],
+    "New lap auto start\n\nAutomatically triggers a new lap after reaching a specified difference.": [
+      "Yes"
+    ],
+    "Pace alarm\n\nAn alarm that notifies you if you vary from a pre-set pace.": [
+      "Yes"
+    ],
+    "Pause timer\n\nPauses the timer when slowing or stopping, and automatically resumes when moving again.": [
+      "Yes"
+    ],
+    "Power meter\n\nDisplays output in watts as you ride.": [
+      "Sold separately"
+    ],
+    "Product sustainability": [
+      "Rechargeable batteries"
+    ],
+    "Programmable workouts\n\nWant an easy jog? A fast-paced ride? A workout with lots of variety to keep you on your toes? With programmable workouts you can tailor your training to match whatever you are looking for on a particular day.": [
+      "Advanced"
+    ],
+    "Replaceable wrist strap": [
+      "Yes"
+    ],
+    "Snooze": [
+      "No"
+    ],
+    "Speed/cadence sensor\n\nMonitors pedalling cadence and measures pedalling strokes per minute.": [
+      "Sold separately"
+    ],
+    "Stopwatch": [
+      "Yes"
+    ],
+    "Tide tables": [
+      "No"
+    ],
+    "Touch screen": [
+      "No"
+    ],
+    "Track log": [
+      "200 hours"
+    ],
+    "Unit to unit transfer\n\nShares data wirelessly between compatible units.": [
+      "No"
+    ],
+    "Virtual partner\n\nAllows user to monitor training goals with either a virtual partner or alarms.": [
+      "Yes"
+    ],
+    "Waypoints\n\nWaypoints consist of a standard set of coordinates (two for land, three for air or space) that identify a specific physical location. A route is navigated between two or more waypoints.": [
+      "1000"
+    ],
+    "Weight": [
+      "71g"
+    ],
+    "WiFi": [
+      "No"
+    ],
+    "Wireless sync": [
+      "Yes"
+    ],
+    "Workout history": [
+      "Yes"
+    ],
+    "Wrist strap material": [
+      "Nylon"
+    ]
+  }
+}

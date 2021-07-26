@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax stands, vises and tables",
+    "VISE President Combo Vise"
+  ],
+  "description": "This unique design clamps and holds both skis and snowboards. Center spacer lets you mount skis on edge at the correct height. Remove the spacer to accommodate snowboards vertically.Durable aluminum construction.Two adjustable supports.Jaws open to 30cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817181098014/5026064-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817181098014/5026064-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kuu VISE President Combo Vise",
+  "product_code": "5026-064",
+  "source_url": "https://www.mec.ca/en/product/5026-064/VISE-President-Combo-Vise",
+  "tech_specs": {
+    "Holds": [
+      "Alpine skis",
+      "Snowboards"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Off-track touring",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Ski orientation": [
+      "Horizontal",
+      "Vertical"
+    ]
+  }
+}

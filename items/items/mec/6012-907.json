@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Pride Crop T-Shirt"
+  ],
+  "description": "Be you, be proud and be comfy.Soft Supima cotton and Modal blended jersey breathes well.Water-based screen printed graphic.Regular fit feels just right.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200819863582/6012907-WHF01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199896231966/6012907-WHF01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192202043422/6012907-WHF01-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192201814046/6012907-BK276-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199896199198/6012907-BK276-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200819568670/6012907-BK276.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200819863582/6012907-WHF01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199896231966/6012907-WHF01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192202043422/6012907-WHF01-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192201814046/6012907-BK276-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199896199198/6012907-BK276-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200819568670/6012907-BK276.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200819863582/6012907-WHF01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199896231966/6012907-WHF01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192202043422/6012907-WHF01-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192201814046/6012907-BK276-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199896199198/6012907-BK276-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200819568670/6012907-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200819863582/6012907-WHF01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199896231966/6012907-WHF01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192202043422/6012907-WHF01-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192201814046/6012907-BK276-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199896199198/6012907-BK276-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200819568670/6012907-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Pride Crop T-Shirt - Women's",
+  "product_code": "6012-907",
+  "source_url": "https://www.mec.ca/en/product/6012-907/Pride-Crop-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "50% cotton",
+      "50% Modal"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "130gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "El Salvador"
+    ]
+  }
+}

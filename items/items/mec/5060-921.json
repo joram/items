@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "LP Discover Hawaii 1st Edition"
+  ],
+  "description": "Your passport to the most up-to-date advice on what to see and skip, and what hidden discoveries await you in beautiful Hawaii. Surf the waves at Waikiki, drive up to the edge of a volcano in Hawaii Volcanoes National Park, or swim in a waterfall along the Road to Hana, all with your trusted travel companion. This easy-to-use guide is filled with inspiring photos and focuses on Hawaii's most popular attractions for those looking for the best of the best.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8964035969054/5060921-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8964035969054/5060921-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "LP Discover Hawaii 1st Edition",
+  "product_code": "5060-921",
+  "source_url": "https://www.mec.ca/en/product/5060-921/LP-Discover-Hawaii-1st-Edition",
+  "tech_specs": {
+    "Author": [
+      "Amy C Balfour, Greg Benchwick"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9781786577030"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Singapore"
+    ],
+    "Pages": [
+      "324"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "USA"
+    ]
+  }
+}

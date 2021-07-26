@@ -1,0 +1,77 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard helmets",
+    "Altus Helmet"
+  ],
+  "description": "More than \"just a helmet\", this one looks good and is incredibly comfortable. The light weight construction combines with a fit system that offers next-level comfort to make you likely to forget you're even wearing it... until you walk into apr\u00e8s-ski. Lots of ventilation keeps you cool on warm days, and you can block a few vents on snowy days to keep you warm. The MIPS liner is designed to reduce the rotational forces applied to your head, should you take a spill.Aerocore\u2122 construction featuring Koroyd\u00ae is designed to absorb more impact than traditional helmets.MIPS helps reduce rotational forces in the event of a crash.Adjustable AirEvac\u2122 venting lets you control airflow.VaporFit\u2122 dial adjusts easily for a comfortable fit.XT2\u00ae anti-bacterial liner manages odour.Removable ear pads.Side release buckle for glove-friendly on/off.Audio compatible.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131590058014/6011389-MSP08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138054496286/6011389-MCB08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131589992478/6011389-MBC09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131590058014/6011389-MSP08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138054496286/6011389-MCB08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131589992478/6011389-MBC09.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131590058014/6011389-MSP08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138054496286/6011389-MCB08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131589992478/6011389-MBC09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131590058014/6011389-MSP08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138054496286/6011389-MCB08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131589992478/6011389-MBC09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smith Altus Helmet - Unisex",
+  "product_code": "6011-389",
+  "source_url": "https://www.mec.ca/en/product/6011-389/Altus-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Snowsports"
+    ],
+    "Circumference\n\nThe internal circumference determines the size head that the helmet will fit.": [
+      "51-55cm (Small)",
+      "55-59cm (Medium)",
+      "59-63cm (Large)",
+      "63-67cm (X-Large)"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Molded in the shell"
+    ],
+    "Fit system": [
+      "Adjustable dial"
+    ],
+    "Goggle clip": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Snowboarding"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Removable ear liners": [
+      "Yes"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "ASTM F2040",
+      "EN 1077 B"
+    ],
+    "Shell material": [
+      "Polycarbonate"
+    ],
+    "Vents": [
+      "Yes"
+    ],
+    "Weight": [
+      "450g (Medium)"
+    ]
+  }
+}

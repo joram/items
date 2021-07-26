@@ -1,0 +1,87 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Snacks",
+    "Chocolate bars",
+    "Baconluxious Milk Chocolate Bar"
+  ],
+  "description": "It has been said that bacon makes everything better, chuao prove that adage with their Maple Bacon bar. Smooth 41% cacao milk chocolate, a splash of maple syrup, and a hint of smoked sea salt over crispy uncured bacon bites. It's one seriously amazing chocolate bar.Ingredients: Premium milk chocolate (41% cacao, cacao butter, sugar, dehydrated milk, sunflower & soy lecithin [as and emulsifier], natural vanilla), maple sugar, uncured bacon (pork, water, salt, turbinado sugar, seasoning), bonfire smoked sea salt, natural maple flavour (maple, canola oil).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812472500254/5043914-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812472500254/5043914-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Chuao Baconluxious Milk Chocolate Bar",
+  "product_code": "5043-914",
+  "source_url": "https://www.mec.ca/en/product/5043-914/Baconluxious-Milk-Chocolate-Bar",
+  "tech_specs": {
+    "Calories per serving": [
+      "210Cal"
+    ],
+    "Carbohydrates": [
+      "21g"
+    ],
+    "Cholesterol": [
+      "5mg"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "1g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "3g"
+    ],
+    "Saturated fat": [
+      "8g"
+    ],
+    "Serving size": [
+      "1/2 bar"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "130mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "20g"
+    ],
+    "Total fat": [
+      "14g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ],
+    "Weight": [
+      "80g"
+    ]
+  }
+}

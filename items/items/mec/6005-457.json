@@ -1,0 +1,83 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Shoes",
+    "Approach shoes",
+    "Konseal FL Approach Shoes"
+  ],
+  "description": "Push higher and travel lighter in the vertical world. Designed for technical approaches and day hikes where speed is key. The sole provides traction in any terrain, with a climbing zone to inspire confidence when the trail approaches 5th class.Breathable ripstop mesh upper.TPU overlay and rubber toecap resist abrasion and protect feet from trail bumps.Gusseted tongue keeps trail debris out.Ortholite\u2122 footbed delivers maximum comfort, breathability and arch support.Injected EVA midsole cushions underfoot.TPU chassis adds stability and support in technical terrain.Vibram\u00ae MegaGrip\u2122 rubber outsole provides confident footing in varied terrain.Tread pattern has climbing zone under toes, lugs at rear and midfoot.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086326997022/6005457-IFT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086335811614/6005457-IFT00-ALT-LACES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086335975454/6005457-IFT00-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336073758/6005457-IFT00-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336172062/6005457-IFT00-ALT-TOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336794654/6005457-IFT00-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336761886/6005457-IFT00-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336827422/6005457-IFT00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086337220638/6005457-IFT00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086326997022/6005457-IFT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086335811614/6005457-IFT00-ALT-LACES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086335975454/6005457-IFT00-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336073758/6005457-IFT00-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336172062/6005457-IFT00-ALT-TOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336794654/6005457-IFT00-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336761886/6005457-IFT00-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336827422/6005457-IFT00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086337220638/6005457-IFT00-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086326997022/6005457-IFT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086335811614/6005457-IFT00-ALT-LACES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086335975454/6005457-IFT00-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336073758/6005457-IFT00-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336172062/6005457-IFT00-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336794654/6005457-IFT00-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336761886/6005457-IFT00-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336827422/6005457-IFT00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086337220638/6005457-IFT00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086326997022/6005457-IFT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086335811614/6005457-IFT00-ALT-LACES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086335975454/6005457-IFT00-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336073758/6005457-IFT00-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336172062/6005457-IFT00-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336794654/6005457-IFT00-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336761886/6005457-IFT00-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086336827422/6005457-IFT00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086337220638/6005457-IFT00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Konseal FL Approach Shoes - Women's",
+  "product_code": "6005-457",
+  "source_url": "https://www.mec.ca/en/product/6005-457/Konseal-FL-Approach-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Rand\n\nRubber on the toe and around the boot improves durability. It can also increase grip while scrambling.": [
+      "Toecap"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Synthetic",
+      "TPU"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ],
+    "Weight": [
+      "520g (7)"
+    ]
+  }
+}

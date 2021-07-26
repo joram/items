@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tubes and tire liners",
+    "Bike tubes",
+    "700 x 23-25C Tube (60mm Presta Valve)"
+  ],
+  "description": "A value-priced tube that\u2019s great to carry as a spare.Fits 700 x 23-25C road bike tires.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806713065502/5032723-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806713065502/5032723-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806713065502/5032723-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806713065502/5032723-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC 700 x 23-25C Tube (60mm Presta Valve)",
+  "product_code": "5032-723",
+  "source_url": "https://www.mec.ca/en/product/5032-723/700-x-23-25C-Tube-%2860mm-Presta-Valve%29",
+  "tech_specs": {
+    "Fits tire": [
+      "700 x 23-25"
+    ],
+    "Ideal for": [
+      "Urban cycling",
+      "Cycle commuting",
+      "Cyclocross",
+      "Road cycling"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Valve\n\nBicycle tubes are valve-specific. Presta \u2013 narrow, with a built-in valve cap that you loosen when pumping up the tire and tighten again afterwards. Schrader \u2013 wide, with a pressure valve similar to those on a car tire.": [
+      "60mm Presta"
+    ],
+    "Weight": [
+      "144g"
+    ]
+  }
+}

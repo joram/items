@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Electronics cases",
+    "Camera and radio cases",
+    "Casey Semi Hard Camera Case"
+  ],
+  "description": "Carry your GoPro and all its mounts and accessories together. This hard-shell case fits in a backpack and is big enough for Hero cameras and all your peripherals.Durable, semi-rigid shell and padded inner walls protect and cushion gear.Weather-resistant design guards against light rain and snow.Reposition the interior dividers to customize the layout to fit your gear.Removable pouch is perfect for storing batteries, thumb screws, memory cards and cables.External dimensions are 22 x 17 x 9cm. Internal dimensions are 20 x 14 x 7cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185220722718/6014568-DGR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185220689950/6014568-DGR00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185220722718/6014568-DGR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185220689950/6014568-DGR00-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185220722718/6014568-DGR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185220689950/6014568-DGR00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185220722718/6014568-DGR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185220689950/6014568-DGR00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GoPro Casey Semi Hard Camera Case - Unisex",
+  "product_code": "6014-568",
+  "source_url": "https://www.mec.ca/en/product/6014-568/Casey-Semi-Hard-Camera-Case",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking",
+      "Travel",
+      "Watersports",
+      "Snowsports"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling tops",
+    "Cycling jerseys",
+    "Short sleeve jerseys",
+    "Airmatic Jersey"
+  ],
+  "description": "It might fit and look like a T-shirt, but it's working way harder. This breathable shirt keeps it simple with a drop hem and reflective hits. And bonus! It's got a goggle wipe.Technical heather 100% polyester fabric is breathable, quick-drying and fade-resistant.Drop hem gives good coverage on the back in an agressive riding position.Internal goggle wipe helps you keep your eyewear clean.Reflective details.Regular fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083366637598/6008083-GRM09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083363590174/6008083-GRM09-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083363000350/6008083-BK031-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083366309918/6008083-BK031.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083366637598/6008083-GRM09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083363590174/6008083-GRM09-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083363000350/6008083-BK031-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083366309918/6008083-BK031.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083366637598/6008083-GRM09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083363590174/6008083-GRM09-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083363000350/6008083-BK031-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083366309918/6008083-BK031.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083366637598/6008083-GRM09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083363590174/6008083-GRM09-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083363000350/6008083-BK031-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083366309918/6008083-BK031.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "100 Percent Airmatic Jersey - Women's",
+  "product_code": "6008-083",
+  "source_url": "https://www.mec.ca/en/product/6008-083/Airmatic-Jersey",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details",
+      "Goggle wipe"
+    ],
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

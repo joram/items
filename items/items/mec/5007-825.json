@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water filters",
+    "Pump filters",
+    "Survivor 06 Water Desalinator"
+  ],
+  "description": "Water filters and purifiers can remove pathogens and sometimes chemicals from fresh water, but they can\u2019t make drinkable water from seawater. This compact, hand-powered emergency desalinator can.Uses the same reverse osmosis membrane as those in shipboard desalinators. A patented Energy Recovery System takes advantage of stored energy in the high-pressure reject water that is typically wasted. The pressurized reject water is recirculated to the back side of the piston to aid the next stroke, resulting in less work to achieve fresh water.This unit is designed to be as light and compact as possible. Its nominal 30oz (890ml) per hour output is intended for survival situations only. For routine use, select a large, high-capacity desalinator.Salt rejection is 98.4% on average (95.3% min).Average pump rate is 40 strokes/minute.Flow is 0.89 litres per hour +/- 15%.Dimensions are 12.7 x 20.3 x 6.4 cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812677529630/5007825-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812677529630/5007825-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Katadyn Survivor 06 Water Desalinator",
+  "product_code": "5007-825",
+  "source_url": "https://www.mec.ca/en/product/5007-825/Survivor-06-Water-Desalinator",
+  "tech_specs": {
+    "Dimensions": [
+      "20.3\u00a0x\u00a012.7cm"
+    ],
+    "Filter type\n\nWater can be treated using various types of filters, chemicals or non-chemical purification methods, or a combination. Filters on their own will not remove viruses as they are too small.": [
+      "Desalinator"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Switzerland"
+    ],
+    "Output": [
+      ".015L/min"
+    ],
+    "Weight": [
+      "1.13kg"
+    ]
+  }
+}

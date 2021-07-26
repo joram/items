@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Lono Beanie"
+  ],
+  "description": "What's not to love about a chunky knit beanie? Classic look, classic warmth.Wool and acrylic blend with a large pompom.Full fleece lining adds extra warmth.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141609562142/6009581-MRN37.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141609627678/6009581-HAZ07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141609234462/6009581-APL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141609562142/6009581-MRN37.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141609627678/6009581-HAZ07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141609234462/6009581-APL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141609562142/6009581-MRN37.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141609627678/6009581-HAZ07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141609234462/6009581-APL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141609562142/6009581-MRN37.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141609627678/6009581-HAZ07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9141609234462/6009581-APL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kari Traa Lono Beanie - Women's",
+  "product_code": "6009-581",
+  "source_url": "https://www.mec.ca/en/product/6009-581/Lono-Beanie",
+  "tech_specs": {
+    "Fabric content": [
+      "50% merino wool",
+      "50% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Secondary fabric": [
+      "100% polyester"
+    ]
+  }
+}

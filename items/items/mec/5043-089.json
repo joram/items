@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tires",
+    "Zaffiro Pro Home Trainer 29\" Folding Tire"
+  ],
+  "description": "Save your road tires for the road. The tread pattern and rubber on this model disperses heat and reduces noise, so you can ride the miles on your home trainer.Designed for use with bike trainers, rollers, and turbo trainers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806698483742/5043089-RED00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806698483742/5043089-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vittoria Zaffiro Pro Home Trainer 29\" Folding Tire",
+  "product_code": "5043-089",
+  "source_url": "https://www.mec.ca/en/product/5043-089/Zaffiro-Pro-Home-Trainer-29%22-Folding-Tire",
+  "tech_specs": {
+    "Bead\n\nThe bead holds the tire onto the rim. Beads may be hoops of wire, or made of a flexible material which allows them to be folded compactly. Folding tires are easier to store or pack on trips.": [
+      "Folding"
+    ],
+    "Ideal for": [
+      "Cycle training"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "TPI\n\nThreads per inch. Tires with a higher TPI tend to be more supple and lighter, with less rolling resistance, but are less durable.": [
+      "26"
+    ],
+    "Tire size": [
+      "29 x 1.35in."
+    ],
+    "Tire type": [
+      "Clincher"
+    ],
+    "Weight": [
+      "400g"
+    ],
+    "Wheel position": [
+      "Rear"
+    ]
+  }
+}

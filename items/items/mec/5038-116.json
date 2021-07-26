@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Saddles and seat posts",
+    "Seat posts",
+    "Seat post clamps and accessories",
+    "Road Seat Post Clamp"
+  ],
+  "description": "This secure seat post clamp provides a solid base.Check your seat post diameter and select 28.6mm, 31.8mm, or 34.9mm sizes.Height is 11mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806909050910/5038116-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806909050910/5038116-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Road Seat Post Clamp",
+  "product_code": "5038-116",
+  "source_url": "https://www.mec.ca/en/product/5038-116/Road-Seat-Post-Clamp",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "18g (31.8mm)",
+      "25g (34.9mm)",
+      "19g (28.6mm)"
+    ]
+  }
+}

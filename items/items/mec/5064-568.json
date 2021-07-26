@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Chalk bags",
+    "Roots Chalk Bag"
+  ],
+  "description": "Keep your style simple and your hands dry. This generously sized chalk bag holds plenty of chalk to help you ward off sweaty tips.Made of durable nylon with a faux-leather Evolv patch.Lined with fuzzy fleece.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029611192350/5064568-LKE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030239059998/5064568-LKE00-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029611192350/5064568-LKE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030239059998/5064568-LKE00-ALT-BOTTOM.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029611192350/5064568-LKE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030239059998/5064568-LKE00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029611192350/5064568-LKE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030239059998/5064568-LKE00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Evolv Roots Chalk Bag",
+  "product_code": "5064-568",
+  "source_url": "https://www.mec.ca/en/product/5064-568/Roots-Chalk-Bag",
+  "tech_specs": {
+    "Belt included": [
+      "No"
+    ],
+    "Brush holder": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Bouldering",
+      "Indoor climbing"
+    ],
+    "Lining": [
+      "Fleece"
+    ],
+    "Made in": [
+      "Peru"
+    ],
+    "Main fabric": [
+      "Nylon"
+    ],
+    "Number of belt loops": [
+      "2"
+    ],
+    "Stash pocket": [
+      "No"
+    ]
+  }
+}

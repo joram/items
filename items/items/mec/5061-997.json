@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike reflectors",
+    "Wearable Magnetic Reflectors"
+  ],
+  "description": "Snap these on and be visible. Magnetic reflectors are easy to use on any piece of clothing and are ideal for cyclists and walkers alike.Magnetic closure is easy to transfer from one garment to another.Made with 3M Scotchlite Reflective material.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977340727326/5061997-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977346461726/5061997-WHT00-ALT-CLIPPED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977346756638/5061997-WHT00-ALT-BACKANDFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977341218846/5061997-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977340727326/5061997-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977346461726/5061997-WHT00-ALT-CLIPPED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977346756638/5061997-WHT00-ALT-BACKANDFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977341218846/5061997-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977340727326/5061997-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977346461726/5061997-WHT00-ALT-CLIPPED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977346756638/5061997-WHT00-ALT-BACKANDFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977341218846/5061997-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977340727326/5061997-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977346461726/5061997-WHT00-ALT-CLIPPED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977346756638/5061997-WHT00-ALT-BACKANDFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977341218846/5061997-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Bookman Wearable Magnetic Reflectors",
+  "product_code": "5061-997",
+  "source_url": "https://www.mec.ca/en/product/5061-997/Wearable-Magnetic-Reflectors",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling",
+      "Road cycling"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

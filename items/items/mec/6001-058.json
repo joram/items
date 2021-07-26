@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike racks, carriers and storage",
+    "Bike boxes and travel cases",
+    "Bike Stand"
+  ],
+  "description": "Secure your bike inside the Evoc Bike Travel Bag or Bike Travel Bag Pro with this variable mount adapter. It holds the front fork and rear drop to keep the frame stable in transit.Quick-release skewers secure front fork and rear drop out.Length adjustability and the included adapters work with most types of bike including road, triathlon, downhill, all-mountain and hardtail. Maximum wheel base is 130cm.Dimensions are 131 x 26.5 x 27cm.Note: Not for use with the Evoc Road Bike adapter.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008849485854/6001058-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008849846302/6001058-BK000-ALT-FULLSUSPENSION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008849485854/6001058-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008849846302/6001058-BK000-ALT-FULLSUSPENSION.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008849485854/6001058-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008849846302/6001058-BK000-ALT-FULLSUSPENSION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008849485854/6001058-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008849846302/6001058-BK000-ALT-FULLSUSPENSION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "EVOC Bike Stand",
+  "product_code": "6001-058",
+  "source_url": "https://www.mec.ca/en/product/6001-058/Bike-Stand",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycling",
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "1.4kg"
+    ]
+  }
+}

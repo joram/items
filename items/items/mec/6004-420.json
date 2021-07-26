@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Sun protection",
+    "Lip balm",
+    "Lip Balm"
+  ],
+  "description": "Nourish your lips with a blend of coconut oil and aloe vera. No SPF in this formula.Gluten free, cruelty free, hypoallergenic, paraben free, phthalate free, silicone free, dermatologist tested, artificial flavour free, mineral oil free and synthetic dye free.Ingredients: helianthus annuus (sunflower) seed oil, ricinus communis (castor) seed oil, beeswax, cocos nucifera (coconut) oil, euphorbia cerifera (candelilla) wax, flavor, tocopherol, copernicia cerifera (carnauba) wax, simmondsia chinensis (jojoba) seed oil, aloe barbadensis leaf extract, theobroma cacao (cocoa) seed butter, butyrospermum parkii (shea) butter.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030051856414/6004420-OCE02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030051856414/6004420-OCE02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sun Bum Lip Balm",
+  "product_code": "6004-420",
+  "source_url": "https://www.mec.ca/en/product/6004-420/Lip-Balm",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

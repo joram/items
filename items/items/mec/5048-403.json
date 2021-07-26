@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Crank and bottom bracket tools",
+    "BBT-9 Bottom Bracket Tool"
+  ],
+  "description": "External bottom bracket won't give you trouble anymore. This tool takes them off in no time.One end engages the 16 spline external BB cups.Other end removes the crank arm adjustment cap with 8 internal splines.For BB with 16 external notches and 44mm diameter.Compatible with Shimano\u00ae Hollowtech II\u00ae, Campagnolo\u00ae Ultra-Torque\u2122 and Power Torque\u2122, Race Face\u00ae, FSA\u00ae, SRAM\u00ae, Truvativ\u00ae, Chris King\u00ae, Phil Wood\u00ae outboard bearing, Hawk Racing, Token\u00ae, Fulcrum\u00ae.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806519373854/5048403-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806519635998/5048403-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806519373854/5048403-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806519635998/5048403-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806519373854/5048403-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806519635998/5048403-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806519373854/5048403-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806519635998/5048403-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool BBT-9 Bottom Bracket Tool",
+  "product_code": "5048-403",
+  "source_url": "https://www.mec.ca/en/product/5048-403/BBT-9-Bottom-Bracket-Tool",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "The Best of the Great Trail Volume 1"
+  ],
+  "description": "This is the essential companion to the eastern part of Canada's national trail. Profiling 30 separate sections, crossing 6 provinces and traversing more than 900 km of trail, this guide for the adventurous offers a connoisseur's sampling of the finest components of eastern Canada's Trans Canada Trail. Beginning at Cape Spear and ending on the shores of Lake Huron, Michael Haynes follows the Great Trail through the remote interior of Newfoundland, the coastlines of the Maritimes, the Laurentian Mountains of Quebec, and the lakes and farmlands of Southern Ontario, as well as into cities such as Quebec, Montreal, Ottawa and Toronto. With beautiful colour photographs and comprehensive trail notes for each featured section, as well as GPS coordinates, maps and informative descriptions of points of interest along with way, The Best of The Great Trail, Volume 1 explores the landscapes of eastern Canada in their variegated glory.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010270044190/6000969-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696133150/6000969-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696198686/6000969-NOC02-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696264222/6000969-NOC02-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696657438/6000969-NOC02-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696788510/6000969-NOC02-ALT-E.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696919582/6000969-NOC02-ALT-F.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010270044190/6000969-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696133150/6000969-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696198686/6000969-NOC02-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696264222/6000969-NOC02-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696657438/6000969-NOC02-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696788510/6000969-NOC02-ALT-E.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696919582/6000969-NOC02-ALT-F.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010270044190/6000969-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696133150/6000969-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696198686/6000969-NOC02-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696264222/6000969-NOC02-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696657438/6000969-NOC02-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696788510/6000969-NOC02-ALT-E.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696919582/6000969-NOC02-ALT-F.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010270044190/6000969-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696133150/6000969-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696198686/6000969-NOC02-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696264222/6000969-NOC02-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696657438/6000969-NOC02-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696788510/6000969-NOC02-ALT-E.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193696919582/6000969-NOC02-ALT-F.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The Best of the Great Trail Volume 1",
+  "product_code": "6000-969",
+  "source_url": "https://www.mec.ca/en/product/6000-969/The-Best-of-the-Great-Trail-Volume-1",
+  "tech_specs": {
+    "Author": [
+      "Michael Haynes"
+    ],
+    "ISBN": [
+      "9781773100005"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pages": [
+      "352"
+    ],
+    "Published": [
+      "2018"
+    ]
+  }
+}

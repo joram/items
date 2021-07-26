@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bikes",
+    "Kids' bikes",
+    "Push bikes",
+    "Pushmee Steel Bicycle"
+  ],
+  "description": "Since this steel bike has no pedals or training wheels, kids have to use their legs for balance and movement. This exercise encourages quicker learning and makes the transition to a bicycle with pedals much easier because they've already honed their balance and motor skills.Durable steel alloy frame.Foam filled tires won't get punctures or flats.Soft padded synthetic leather seat keeps tiny tushies happy.Best suited for ages 18 months to 5 years.Easy assembly kit includes wrench.Adjustable seat height from 28 to 44cm.Handlebars adjust from 42-55cm.Aluminum quick release for seat.Comes with detachable bell.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826096670/6013432-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826031134/6013432-PNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146825703454/6013432-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167177383966/6013432-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826096670/6013432-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826031134/6013432-PNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146825703454/6013432-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167177383966/6013432-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826096670/6013432-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826031134/6013432-PNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146825703454/6013432-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167177383966/6013432-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826096670/6013432-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826031134/6013432-PNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146825703454/6013432-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167177383966/6013432-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Runners Pushmee Steel Bicycle - Children",
+  "product_code": "6013-432",
+  "source_url": "https://www.mec.ca/en/product/6013-432/Pushmee-Steel-Bicycle",
+  "tech_specs": {
+    "Frame": [
+      "Steel"
+    ],
+    "Ideal for": [
+      "Urban cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Recommended age": [
+      "2-5"
+    ],
+    "Weight": [
+      "2.7kg"
+    ]
+  }
+}

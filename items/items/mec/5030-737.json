@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Climbing helmets",
+    "Vapor Helmet"
+  ],
+  "description": "Ultralight and low-profile, the Vapor Helmet gives you some welcome ventilation and a comfortable fit. The lightness and generous ventilation make it a great cragging lid, proving helmets aren't just for multi-pitch trad climbs and big alpine faces.BD engineered a sheet of Kevlar and a series of carbon rods between the EPS foam layer and the polycarbonate shell. Sound protection and respectable lightness.Geometric, open-air design provides airflow.Ratchet adjuster with moulded push buttons.Suspension fits inside the helmet for storage in your pack or haul bag.Removable headlamp clips secure a light on pre-dawn starts or when rapping after dark.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810249256990/5030737-STG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810249781278/5030737-BLZ00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810249846814/5030737-BLZ00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810249256990/5030737-STG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810249781278/5030737-BLZ00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810249846814/5030737-BLZ00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810249256990/5030737-STG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810249781278/5030737-BLZ00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810249846814/5030737-BLZ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810249256990/5030737-STG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810249781278/5030737-BLZ00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810249846814/5030737-BLZ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Vapor Helmet - Unisex",
+  "product_code": "5030-737",
+  "source_url": "https://www.mec.ca/en/product/5030-737/Vapor-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Climbing"
+    ],
+    "Circumference\n\nThe internal circumference determines the size head that the helmet will fit.": [
+      "53-59cm (Small/Medium)"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Hardshell"
+    ],
+    "Fit system": [
+      "Adjustable suspension system"
+    ],
+    "Headlamp compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "EN 12492"
+    ],
+    "Shell material": [
+      "Polycarbonate"
+    ],
+    "Vents": [
+      "Yes"
+    ],
+    "Weight": [
+      "186g (Small/Medium)",
+      "199g (Medium/Large)"
+    ]
+  }
+}

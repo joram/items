@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Casual boots",
+    "Leather Ankle Deck Boots"
+  ],
+  "description": "Thunderstorms and snowmelt are no match for these deck boots. Born on the wet and wild margins of the North Pacific, Xtratuf's rugged boots have long been favourites of commercial fishers, kayakers and other people who spend a lot of time in and on the water. A leather exterior keeps puddles and rivers on the outside, where they belong. The low cut and durable pull tabs make it easy to pull on when you've hit snooze too many times.Nubuck leather upperLow-profile cuff and sturdy pull tabs make for easy on and off.Moisture-wicking liner keeps your feet dry and cool in warm weather.Antimocrobial treatment guards against odour.Time-tested chevron tread pattern provides grip on slippery surfaces.Non-marking sole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126067273758/6004506-BRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070026270/6004506-BRN00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070124574/6004506-BRN00-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070157342/6004506-BRN00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070190110/6004506-BRN00-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070288414/6004506-BRN00-ALT-SIDE-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070452254/6004506-BRN00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126067273758/6004506-BRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070026270/6004506-BRN00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070124574/6004506-BRN00-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070157342/6004506-BRN00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070190110/6004506-BRN00-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070288414/6004506-BRN00-ALT-SIDE-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070452254/6004506-BRN00-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126067273758/6004506-BRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070026270/6004506-BRN00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070124574/6004506-BRN00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070157342/6004506-BRN00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070190110/6004506-BRN00-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070288414/6004506-BRN00-ALT-SIDE-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070452254/6004506-BRN00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126067273758/6004506-BRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070026270/6004506-BRN00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070124574/6004506-BRN00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070157342/6004506-BRN00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070190110/6004506-BRN00-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070288414/6004506-BRN00-ALT-SIDE-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9126070452254/6004506-BRN00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Xtratuf Leather Ankle Deck Boots - Men's",
+  "product_code": "6004-506",
+  "source_url": "https://www.mec.ca/en/product/6004-506/Leather-Ankle-Deck-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Removable insole": [
+      "No"
+    ],
+    "Shaft height\n\nHeight measured from the footbed to the top cuff.": [
+      "15cm"
+    ],
+    "Upper material": [
+      "Nubuck leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Base layers and underwear",
+    "Base layers",
+    "Base layer tops",
+    "Performance Light Crew Neck Long Sleeve Basel"
+  ],
+  "description": "When hot and sweaty isn't an option. This lightweight performance long sleeve base layer has integrated ventilation throughout the arms and body to help keep you cool and move sweat away from your body. Plenty of stretch lets you reach and move freely.Made of moisture wicking polyester and nylon that breathes well and dries quickly.Elastane content stretches for unrestricted movement.Seamless mesh zones vent excess heat.Raglan sleeves allow full range of motion.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182660427806/6006477-MBB43.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079335452702/6006477-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182660427806/6006477-MBB43.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079335452702/6006477-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182660427806/6006477-MBB43.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079335452702/6006477-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182660427806/6006477-MBB43.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079335452702/6006477-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Odlo Performance Light Crew Neck Long Sleeve Base Layer - Men's",
+  "product_code": "6006-477",
+  "source_url": "https://www.mec.ca/en/product/6006-477/Performance-Light-Crew-Neck-Long-Sleeve-Basel",
+  "tech_specs": {
+    "Fabric content": [
+      "63% polyester",
+      "33% nylon",
+      "4% elastane"
+    ],
+    "Ideal for": [
+      "Snowsports",
+      "Camping and hiking",
+      "Alpine climbing and mountaineering",
+      "Cross-country skiing"
+    ],
+    "Made in": [
+      "Turkey"
+    ]
+  }
+}

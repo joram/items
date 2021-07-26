@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Workshop and general bike repair",
+    "Shop tools",
+    "MQ-1 Metric Quad Wrench"
+  ],
+  "description": "Like the classic 4-way tire iron, but for your bike. This simple 4-way socket wrench provides excellent leverage.15, 17, and 19mm forged sockets plus a 3/8in. socket drive.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806555156510/5048634-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806555353118/5048634-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806555156510/5048634-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806555353118/5048634-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806555156510/5048634-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806555353118/5048634-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806555156510/5048634-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806555353118/5048634-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool MQ-1 Metric Quad Wrench",
+  "product_code": "5048-634",
+  "source_url": "https://www.mec.ca/en/product/5048-634/MQ-1-Metric-Quad-Wrench",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

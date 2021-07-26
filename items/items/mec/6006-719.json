@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Prevailor Shirt"
+  ],
+  "description": "Breathable and wicking comfort for your sweaty pursuits. This tee has strategically placed seams that allow for movement and won't rub against your sides.Moisture wicking recycled polyester and hemp dries quickly to keep you dry and comfortable.Forward placed seams don't chafe.Anti-odour treatment keeps you smelling fresher, longer.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014075422/6006719-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177011552286/6006719-BK000-ALT-ZFLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014108190/6006719-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014304798/6006719-BK000-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014075422/6006719-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177011552286/6006719-BK000-ALT-ZFLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014108190/6006719-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014304798/6006719-BK000-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014075422/6006719-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177011552286/6006719-BK000-ALT-ZFLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014108190/6006719-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014304798/6006719-BK000-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014075422/6006719-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177011552286/6006719-BK000-ALT-ZFLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014108190/6006719-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014304798/6006719-BK000-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Prevailor Shirt - Men's",
+  "product_code": "6006-719",
+  "source_url": "https://www.mec.ca/en/product/6006-719/Prevailor-Shirt",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Antimicrobial treatment"
+    ],
+    "Fabric content": [
+      "95% recycled polyester",
+      "5% hemp"
+    ],
+    "Ideal for": [
+      "Yoga and fitness",
+      "Running"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

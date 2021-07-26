@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "ABC Midweight Hiker Cushion Boot Socks"
+  ],
+  "description": "Anti-odour. Breathable. Comfortable. These cushioned socks are a naturally antimicrobial wool blend that stands up to long days on the trail.Made of moisture-wicking fine-gauge merino wool, nylon and Lycra\u00ae for coolness in the summer, warmth in winter.Cushioned sole provides great comfort without bulk.Seamless construction provides a smooth fit and ensures no slipping, no bunching and no blisters.Reinforced heel and toe.Darn Tough sources its wool from non-mulesed sheep.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965286035486/5060904-TAU00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973467484190/5060904-TAU00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965286035486/5060904-TAU00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973467484190/5060904-TAU00-ALT-LIFESTYLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965286035486/5060904-TAU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973467484190/5060904-TAU00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965286035486/5060904-TAU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973467484190/5060904-TAU00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Darn Tough ABC Midweight Hiker Cushion Boot Socks - Unisex",
+  "product_code": "5060-904",
+  "source_url": "https://www.mec.ca/en/product/5060-904/ABC-Midweight-Hiker-Cushion-Boot-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "60% merino wool",
+      "38% nylon",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

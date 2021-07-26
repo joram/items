@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Snow and ice protection",
+    "Snow anchors",
+    "Snow Fluke"
+  ],
+  "description": "The MSR Snow Fluke is one of the lightest available. The design uses a strong frame and decking combination that reduces the overall weight without compromising the holding power.Tough, urethane-coated nylon decking maintains surface area and holding power.Strong 7000-series aluminum frame.Corrosion-resistant galvanized steel cable.Tapered ends plunge easily into firm snow.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807451066398/5039169-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807451066398/5039169-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Snow Fluke",
+  "product_code": "5039-169",
+  "source_url": "https://www.mec.ca/en/product/5039-169/Snow-Fluke",
+  "tech_specs": {
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "255g"
+    ]
+  }
+}

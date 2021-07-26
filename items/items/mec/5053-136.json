@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water filters",
+    "Inline and filter water bottles",
+    "Ultralight Water Purifier Bottle"
+  ],
+  "description": "Just like making French Press coffee. Fill the outer cup with unfiltered water, plunge the press down, and drink. You can quench your thirst in seconds as you hike, camp or paddle.  Grayl\u2019s patented electroadsorpative media creates a sub-micron trap to remove pathogens and inorganic compounds.Made of durable polypropylene473ml capacity.Protects against 99.9999% viruses, bacteria, and protozoan cysts.Non-woven ceramic stage uses electropositive mesh to trap pathogens, allows faster flow rates and requires less pressure.Activated natural carbon traps heavy metals and industrial chemicals, and reduces odours and flavours.Integrated anti-microbial agent suppresses the growth of mold, mildew and bacteria to keep the filter fresh between uses.Loop-top lid allows for easy transport and attachment.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870157516830/5053136-ORG00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870157516830/5053136-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Grayl Ultralight Water Purifier Bottle",
+  "product_code": "5053-136",
+  "source_url": "https://www.mec.ca/en/product/5053-136/Ultralight-Water-Purifier-Bottle",
+  "tech_specs": {
+    "Cartridge life\n\nThe life of the filter cartridge is based on the quantity of water you can treat before the cartridge is no longer effective. This does not apply to battery operated or chemical filter systems.": [
+      "150L"
+    ],
+    "Dimensions": [
+      "24.5\u00a0x\u00a07.3cm"
+    ],
+    "Effective against bacteria\n\nBacteria can cause illnesses such as diarrhea and dysentery and are about 1.0 micron in size, although some can be as small as 0.2 microns.": [
+      "Yes"
+    ],
+    "Effective against particulate\n\nParticulate consists of very small bits and pieces such as dirt or bugs.": [
+      "Yes"
+    ],
+    "Effective against protozoa\n\nProtozoa are larger than one micron and include cryptosporidium and giardia.": [
+      "Yes"
+    ],
+    "Effective against viruses\n\nMost viruses are in the 0.1 micron size range, but they can be as small as 0.002 microns.": [
+      "Yes"
+    ],
+    "Filter type\n\nWater can be treated using various types of filters, chemicals or non-chemical purification methods, or a combination. Filters on their own will not remove viruses as they are too small.": [
+      "Non-woven ceramic with an electropositive mesh w/activated carbon"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Emergency preparedness",
+      "Travel",
+      "Backpacking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output": [
+      "2L/min"
+    ],
+    "Weight": [
+      "310g"
+    ]
+  }
+}

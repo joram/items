@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water filters",
+    "Water filter parts and accessories",
+    "Trail Blazer Replacement Purifier"
+  ],
+  "description": "Replacement filter for your Rapid Pure products that use the Trail Blazer filter, like the Trail Blazer Camp System and Explorer System.Fast and easy flow rate of 4.1L/min.Protects against 99.9999% of viruses, bacteria and protozoan cysts.Electropositive filter traps pathogens, allows faster flow rates and requires less pressure.Activated carbon helps remove odours or bad tastes in water.Silver ions suppress the growth of mould, mildew and bacteria to keep the filter fresh between uses.Filter life varies depending on water quality (turbid water will reduce product life).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031330398238/5060399-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031330398238/5060399-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "RapidPure Trail Blazer Replacement Purifier",
+  "product_code": "5060-399",
+  "source_url": "https://www.mec.ca/en/product/5060-399/Trail-Blazer-Replacement-Purifier",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Camping and hiking",
+      "Travel",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

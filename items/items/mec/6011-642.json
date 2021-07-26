@@ -1,0 +1,82 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill skis",
+    "Deacon Junior Skis + Bindings"
+  ],
+  "description": "Bring your ski apprentice with you. Or let them head off on their own. Either way, this setup offers a great platform for young shredders to play on. With a soft flex and rocker tip, the ski is easy to handle on the groomers, keeping your sidekick coming back for more.Synthetic polyurethane core offers soft flex, stability and low weight.Power Shell construction provides durability and dampening.Tip rocker handles nicely on groomed and mixed conditions.Small turning radius lets you initiate turns with less effort.Grippy edges provide precision and control.P-Tex 2100 base gives exceptional glide and durability.Included vMotion Jr bindings.GripWalk compatible.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228433950/6011642-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228433950/6011642-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Volkl Deacon Junior Skis + Bindings - Youths",
+  "product_code": "6011-642",
+  "source_url": "https://www.mec.ca/en/product/6011-642/Deacon-Junior-Skis-%2B-Bindings",
+  "tech_specs": {
+    "Ability\n\nBeginner: new or getting back into skiing.  Intermediate: confident with turning and stopping.  Advanced: highly confident carver. Expert: steeps, drops, park, double blacks -- bring it on.": [
+      "Beginner",
+      "Intermediate"
+    ],
+    "Bindings included": [
+      "Yes"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Structural cap"
+    ],
+    "Core": [
+      "Synthetic"
+    ],
+    "Dimension": [
+      "93-67-76mm (80cm)",
+      "100-68-82mm (90cm)",
+      "100-68-82mm (100cm)",
+      "100-68-82mm (110cm)",
+      "109-69-88mm (120cm)",
+      "109-69-88mm (130cm)",
+      "109-69-88mm (140cm)",
+      "109-69-88mm (150cm)"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Rocker/camber profile": [
+      "Rocker tip"
+    ],
+    "Snow conditions": [
+      "Groomed"
+    ],
+    "Terrain": [
+      "On-Piste"
+    ],
+    "Turning radius": [
+      "8.8m (80cm)",
+      "8.3m (90cm)",
+      "10.4m (100cm)",
+      "12.7m (110cm)",
+      "11.2m (120cm)",
+      "13.3m (130cm)",
+      "15.6m (140cm)",
+      "17.9m (150cm)"
+    ],
+    "Weight": [
+      "2.37kg (80cm)",
+      "2.65kg (90cm)",
+      "2.81kg (100cm)",
+      "3.01kg (110cm)",
+      "3.25kg (120cm)",
+      "3.45kg (130cm)",
+      "3.59kg (140cm)",
+      "3.97kg (150cm)"
+    ]
+  }
+}

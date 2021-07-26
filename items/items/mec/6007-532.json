@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shorts, tights and pants",
+    "Yoga pants",
+    "Daily Leggings"
+  ],
+  "description": "Your go-to daily leggings, for working hard or hardly working. Performance fabric has plenty of stretch for unrestricted movement, and feels great against the skin. The high waist keeps you covered, no matter what you're up to.Synthetic fabric wicks moisture with elastane so you can move.High rise fit with wide elastic waist and drawstring provide no-roll comfort.7/8 length with cuffed hems keep things secure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326499870/6007532-BK936.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326598174/6007532-BK936-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326565406/6007532-BK936-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326729246/6007532-BK936-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326499870/6007532-BK936.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326598174/6007532-BK936-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326565406/6007532-BK936-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326729246/6007532-BK936-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326499870/6007532-BK936.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326598174/6007532-BK936-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326565406/6007532-BK936-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326729246/6007532-BK936-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326499870/6007532-BK936.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326598174/6007532-BK936-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326565406/6007532-BK936-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133326729246/6007532-BK936-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vuori Daily Leggings - Women's",
+  "product_code": "6007-532",
+  "source_url": "https://www.mec.ca/en/product/6007-532/Daily-Leggings",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "High waist cut"
+    ],
+    "Fabric content": [
+      "81% nylon",
+      "19% elastane"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "23.5in. (M)"
+    ],
+    "Ideal for": [
+      "Fitness and training",
+      "Running",
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

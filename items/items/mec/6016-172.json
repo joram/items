@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Wetsuits and neoprene clothing",
+    "Paddling gloves and mitts",
+    "Electron 2mm Neoprene Glove"
+  ],
+  "description": "Protect your hands in cold water. 2mm neoprene locks in body heat without sacrificing dexterity. A grippy palm provides a secure hold on your canoe, kayak or paddleboard paddle.Super stretchy 2mm neoprene with stiched and glued seams.Print on palm and thumb for grip in slippery situations.Hook-and-loop adjustable wrist strap holds gloves securely.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199098724382/6016172-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199098724382/6016172-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Electron 2mm Neoprene Glove - Unisex",
+  "product_code": "6016-172",
+  "source_url": "https://www.mec.ca/en/product/6016-172/Electron-2mm-Neoprene-Glove",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Nose wipe"
+    ],
+    "Ideal for": [
+      "Kayaking",
+      "Paddleboarding",
+      "Surfing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Grippy palm"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

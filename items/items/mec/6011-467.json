@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bug spray and bug nets",
+    "Bug spray and insect repellent",
+    "Butane Fuel Cartridge Refills - 4 Pack"
+  ],
+  "description": "Refuel your butane powered Thermacell Repeller for 48 hours of mosquito protection.Butane canister lasts for up 12 hours.Kit includes 4 butane canisters.Fuel-only refill, repellent mats not included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167546646558/6011467-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167546646558/6011467-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Thermacell Butane Fuel Cartridge Refills - 4 Pack",
+  "product_code": "6011-467",
+  "source_url": "https://www.mec.ca/en/product/6011-467/Butane-Fuel-Cartridge-Refills---4-Pack",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping",
+      "Everyday use",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Philippines"
+    ]
+  }
+}

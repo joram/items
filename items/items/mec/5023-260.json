@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Canadian Rock West Climbing Guide"
+  ],
+  "description": "This full-colour guidebook covers climbs in Western Canada from Squamish to Lake Louise to the Ghost River Valley. It includes 1,300 routes in 70 different climbing areas, some celebrated lines, classic climbs, little-known gems, and the occasional moss-fest. Go sport climbing, do some long trad routes, or investigate the 75 listed boulder problems around Squamish. Photos, topos, and pithy route descriptions, an excellent source for those setting out on a BC road trip.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815607578654/5023260-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815607578654/5023260-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Canadian Rock West Climbing Guide",
+  "product_code": "5023-260",
+  "source_url": "https://www.mec.ca/en/product/5023-260/Canadian-Rock-West-Climbing-Guide",
+  "tech_specs": {
+    "Author": [
+      "Kevin McLane"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9780986519109"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "383"
+    ],
+    "Published": [
+      "2010"
+    ],
+    "Regionality": [
+      "British Columbia",
+      "Rockies"
+    ]
+  }
+}

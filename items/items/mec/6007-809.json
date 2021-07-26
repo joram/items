@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Rain boots",
+    "Jessie Rain Boots"
+  ],
+  "description": "Meet your new foul weather friends. These rain boots combine the full-on waterproofness of a rubber boot with the comfort and support of a sneaker. Kamik's lightweight rubber protects you from the elements without weighing you down, while the contoured footbed provides all-day comfort. The insole is lined with moisture-wicking mesh to help manage the internal climate, with an antimicrobial treatment to keep things fresh.100% waterproof.Lightweight, proprietary rubber is 100% recyclableVibrant printed floral lining.Contoured EVA footbed.Antibacterial insole is topped with moisture-wicking mesh.Grippy rubber outsole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077829140510/6007809-CHA03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078208102430/6007809-CHA03-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078208200734/6007809-CHA03-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078208299038/6007809-CHA03-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077829140510/6007809-CHA03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078208102430/6007809-CHA03-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078208200734/6007809-CHA03-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078208299038/6007809-CHA03-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077829140510/6007809-CHA03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078208102430/6007809-CHA03-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078208200734/6007809-CHA03-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078208299038/6007809-CHA03-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077829140510/6007809-CHA03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078208102430/6007809-CHA03-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078208200734/6007809-CHA03-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078208299038/6007809-CHA03-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kamik Jessie Rain Boots - Women's",
+  "product_code": "6007-809",
+  "source_url": "https://www.mec.ca/en/product/6007-809/Jessie-Rain-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Cuff circumference\n\nCircumference measured at the top of the boot cuff.": [
+      "38cm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Product sustainability": [
+      "Vegan-friendly"
+    ],
+    "Removable insole": [
+      "No"
+    ],
+    "Shaft height\n\nHeight measured from the footbed to the top cuff.": [
+      "32cm"
+    ],
+    "Upper material": [
+      "Rubber"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bicycle pumps",
+    "CO2 inflators",
+    "Red Zeppelin CO2 Inflator"
+  ],
+  "description": "A precision-made metal bodied inflator with a control knob for reliability. A 16g canister fills a 26in. tire to 40psi, and a 700c (27in.) tire to 120psi.Precision-machined aluminum body and head with control knob.Fits Presta and Schrader valves.1-hand control.Insulated cartridge sleeve to prevent frozen fingers (cartridge becomes extremely cold during use).Includes 2 threaded 16g CO2 cartridges.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976456679454/5014512-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861659166/5014512-NOC02-ALT-HEADOFF.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861691934/5014512-NOC02-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976456679454/5014512-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861659166/5014512-NOC02-ALT-HEADOFF.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861691934/5014512-NOC02-ALT-ANGLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976456679454/5014512-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861659166/5014512-NOC02-ALT-HEADOFF.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861691934/5014512-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976456679454/5014512-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861659166/5014512-NOC02-ALT-HEADOFF.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861691934/5014512-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike Red Zeppelin CO2 Inflator",
+  "product_code": "5014-512",
+  "source_url": "https://www.mec.ca/en/product/5014-512/Red-Zeppelin-CO2-Inflator",
+  "tech_specs": {
+    "Fits valve": [
+      "Presta",
+      "Schrader"
+    ],
+    "Ideal for": [
+      "Road cycling",
+      "Cyclocross"
+    ],
+    "Length": [
+      "5cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Maximum psi": [
+      "120"
+    ],
+    "Pressure gauge": [
+      "No"
+    ],
+    "Type\n\nFloor pumps, frame fit pumps, mini pumps and CO2 inflators are for bicycle tires. Suspension pumps are used to add pressure to your bike shocks.": [
+      "CO2"
+    ],
+    "Weight": [
+      "72g"
+    ]
+  }
+}

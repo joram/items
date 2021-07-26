@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Kayak accessories",
+    "Kayak Bilge Pump"
+  ],
+  "description": "A double-action pump that moves water rapidly. Check one more thing off your list of safety gear required by Transport Canada.Stainless steel screws won't rust.Foam handle is easy to grip.Capacity 0.4 LLength: 46 cmPump floats so it\u2019s easy to find.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193335259166/6016244-RED22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350037534/6016244-RED22-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350168606/6016244-RED22-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350430750/6016244-RED22-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350529054/6016244-RED22-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193335259166/6016244-RED22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350037534/6016244-RED22-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350168606/6016244-RED22-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350430750/6016244-RED22-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350529054/6016244-RED22-ALT-D.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193335259166/6016244-RED22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350037534/6016244-RED22-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350168606/6016244-RED22-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350430750/6016244-RED22-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350529054/6016244-RED22-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193335259166/6016244-RED22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350037534/6016244-RED22-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350168606/6016244-RED22-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350430750/6016244-RED22-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350529054/6016244-RED22-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Kayak Bilge Pump",
+  "product_code": "6016-244",
+  "source_url": "https://www.mec.ca/en/product/6016-244/Kayak-Bilge-Pump",
+  "tech_specs": {
+    "Ideal for": [
+      "Watersports"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

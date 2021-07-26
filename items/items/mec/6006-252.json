@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking footwear",
+    "Hiking shoes",
+    "Vaya Light Trail Shoes"
+  ],
+  "description": "Designed around the anatomy of a woman's foot, the Vaya hiking shoe is lightweight and flexible. The welded upper and soft collar allow your foot to move naturally without adding uncomfortable pressure inside the shoe or on your achilles. The sturdy midsole supports and cushions your feet on the trails, and the grippy sole provides solid traction.Synthetic mesh and SensiFlex\u2122 upper supports your foot while allowing for natural flex and expansion.Soft collar provides additional flexibility.Synthetic toecap protects feet and adds durability.Removable OrthoLite\u00ae EVA footbeds make 15km feel like 5km.EnergyCell EVA midsole absorbs trail shocks for comfort over long distances.Non-marking Contagrip\u00ae MD is highly durable and grippy.5mm lugs provide traction over a variety of directions and surfaces.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078499672094/6006252-BCB02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077657206814/6006252-BCB02-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077657305118/6006252-BCB02-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077657403422/6006252-BCB02-ALT-TOPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088321847326/6006252-BCB02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088322175006/6006252-BCB02-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078499672094/6006252-BCB02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077657206814/6006252-BCB02-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077657305118/6006252-BCB02-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077657403422/6006252-BCB02-ALT-TOPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088321847326/6006252-BCB02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088322175006/6006252-BCB02-ALT-LIFESTYLE2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078499672094/6006252-BCB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077657206814/6006252-BCB02-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077657305118/6006252-BCB02-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077657403422/6006252-BCB02-ALT-TOPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088321847326/6006252-BCB02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088322175006/6006252-BCB02-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078499672094/6006252-BCB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077657206814/6006252-BCB02-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077657305118/6006252-BCB02-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077657403422/6006252-BCB02-ALT-TOPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088321847326/6006252-BCB02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088322175006/6006252-BCB02-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Vaya Light Trail Shoes - Women's",
+  "product_code": "6006-252",
+  "source_url": "https://www.mec.ca/en/product/6006-252/Vaya-Light-Trail-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Rand\n\nRubber on the toe and around the boot improves durability. It can also increase grip while scrambling.": [
+      "Toecap"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Mesh",
+      "Synthetic"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ],
+    "Weight": [
+      "510g (7)"
+    ]
+  }
+}

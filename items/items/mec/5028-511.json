@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fire starters, matches and lighters",
+    "Long-Burn Matches"
+  ],
+  "description": "These long matches are a great way to get stoves, campfires, BBQs and lanterns lit without burning your fingers.Carbonized for safe starting.Depending on condition, they burn longer than regular matches, 45 seconds to 1 minute .Length is 9.5cm.Contains 50 matches.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812620709918/5028511-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812620709918/5028511-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "UCO Long-Burn Matches",
+  "product_code": "5028-511",
+  "source_url": "https://www.mec.ca/en/product/5028-511/Long-Burn-Matches",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "India"
+    ],
+    "Requires combustible materials\n\nProvides a point of  ignition to light fire, but not the fuel.": [
+      "Yes"
+    ],
+    "Requires ignition\n\nRequires a point of  ignition to light fire.": [
+      "No"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Weight": [
+      "35g"
+    ]
+  }
+}

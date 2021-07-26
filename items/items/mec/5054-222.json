@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Uniform Toque"
+  ],
+  "description": "You missed your alarm and now running late. Lucky for you, you\u2019ve got this toque as your secret weapon. Soft and roomy, you can throw it on in the morning and leave it there all day.One size fits all.Fine acrylic yarn is soft and warm.Thick cuff adds an extra layer of insulation.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912721051678/5054222-BLM14.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983455137822/5054222-BK941.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912721051678/5054222-BLM14.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983455137822/5054222-BK941.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912721051678/5054222-BLM14.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983455137822/5054222-BK941.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912721051678/5054222-BLM14.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983455137822/5054222-BK941.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coal Uniform Toque - Unisex",
+  "product_code": "5054-222",
+  "source_url": "https://www.mec.ca/en/product/5054-222/Uniform-Toque",
+  "tech_specs": {
+    "Fabric content": [
+      "100% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

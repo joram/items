@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Marine navigation",
+    "Compasses",
+    "Pocket Compass"
+  ],
+  "description": "Attach this little compass and thermometer to your keychain or zipper pull to assess the air temperature and quickly get oriented in foreign cities.Fixed dial.Liquid-filled capsule.Non-magnetic brass ring and carabiner.Alcohol-based thermometer displays Fahrenheit or Celsius.Note: keys made of metals other than brass may interfere with the compass needle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8943061827614/5058475-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8943061827614/5058475-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Silva Pocket Compass",
+  "product_code": "5058-475",
+  "source_url": "https://www.mec.ca/en/product/5058-475/Pocket-Compass",
+  "tech_specs": {
+    "Adjustable declination\n\nSets the compass to indicate true north instead of magnetic north.": [
+      "No"
+    ],
+    "Clinometer\n\nMeasures angles of slope, elevation or inclination.": [
+      "No"
+    ],
+    "Dimensions": [
+      "6.5cm"
+    ],
+    "Hemisphere\n\nThe earth's magnetic field varies considerably so most compasses are designed to work in the specific hemisphere zones for which they are being used. A global compass can be used anywhere.": [
+      "Northern Hemisphere"
+    ],
+    "Ideal for": [
+      "Emergency preparedness",
+      "Travel"
+    ],
+    "Luminous markings\n\nLuminous markings allow you to read your compass in dim light conditions.": [
+      "No"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Magnifying lens": [
+      "No"
+    ],
+    "Sighting mirror": [
+      "No"
+    ],
+    "Weight": [
+      "16g"
+    ]
+  }
+}

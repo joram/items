@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "5/16\" Shock Cord Hook"
+  ],
+  "description": "Hook that attaches to 5/16in. shock cord.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815560294430/1106426-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815560294430/1106426-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nexus 5/16\" Shock Cord Hook",
+  "product_code": "1106-426",
+  "source_url": "https://www.mec.ca/en/product/1106-426/5-16%22-Shock-Cord-Hook",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "New Zealand"
+    ],
+    "Weight": [
+      "10g"
+    ]
+  }
+}

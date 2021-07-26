@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing holds",
+    "Twenty Hold Kit-Mini Jugs"
+  ],
+  "description": "20 mini-jug holds from the So Ill Addicted line. These hand-friendly holds suit steep training walls or low-angle beginner routes.Made of durable urethane.Bolts included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997926207518/5063886-SFM00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997919162398/5063886-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997926207518/5063886-SFM00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997919162398/5063886-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997926207518/5063886-SFM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997919162398/5063886-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997926207518/5063886-SFM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997919162398/5063886-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "So Ill Twenty Hold Kit-Mini Jugs",
+  "product_code": "5063-886",
+  "source_url": "https://www.mec.ca/en/product/5063-886/Twenty-Hold-Kit-Mini-Jugs",
+  "tech_specs": {
+    "Hold size": [
+      "Small"
+    ],
+    "Ideal for": [
+      "Indoor route building"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Urethane"
+    ],
+    "Mounting hardware": [
+      "Bolts"
+    ],
+    "Number of holds": [
+      "20"
+    ]
+  }
+}

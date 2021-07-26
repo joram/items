@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Saws, axes and camp shovels",
+    "Saws",
+    "No18 Saw"
+  ],
+  "description": "A specialized tool fine-tuned for cutting branches 12cm or less in diameter. The blade\u2019s sharp teeth make cutting clean, even and effortless. Excellent for trail maintenance or cutting smaller firewood.Natural varnished beech handle fits comfortably in the hand and minimizes the chance of blisters.Serrated 18cm stainless steel blade cuts on the pull.Locking blade prevents accidental closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146007420958/6013326-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995984926/6013326-NOC02-ALT-INSITU.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146007420958/6013326-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995984926/6013326-NOC02-ALT-INSITU.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146007420958/6013326-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995984926/6013326-NOC02-ALT-INSITU.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146007420958/6013326-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995984926/6013326-NOC02-ALT-INSITU.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Opinel No18 Saw",
+  "product_code": "6013-326",
+  "source_url": "https://www.mec.ca/en/product/6013-326/No18-Saw",
+  "tech_specs": {
+    "Blade length": [
+      "18cm"
+    ],
+    "Blade material": [
+      "Carbon steel"
+    ],
+    "Handle length": [
+      "22cm"
+    ],
+    "Handle material": [
+      "Wood"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Sheath included": [
+      "No"
+    ]
+  }
+}

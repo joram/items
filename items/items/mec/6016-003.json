@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Marine navigation",
+    "Maps",
+    "Nootka Trail Topographic Trail Map"
+  ],
+  "description": "Your reliable trail companion for the remote Nootka Trail. Full trail details, photos. waypoints and trip planning advice. It's double sided, with a map of the region on one side, trip planning info on the other.46 x 61cm size is easy to handle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190522355742/6016003-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190518620190/6016003-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190522355742/6016003-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190518620190/6016003-NOC02-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190522355742/6016003-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190518620190/6016003-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190522355742/6016003-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190518620190/6016003-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wild Coast Publishing Nootka Trail Topographic Trail Map",
+  "product_code": "6016-003",
+  "source_url": "https://www.mec.ca/en/product/6016-003/Nootka-Trail-Topographic-Trail-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

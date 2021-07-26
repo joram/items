@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Fair Trade Graphic Short Sleeve T-Shirt"
+  ],
+  "description": "A T-shirt that's so comfortable, you'll swear you've owned it for years.Soft organic cotton jersey breathes well.Regular fit wears just like you want it to.\n\n        Sustainability\n\n\n\n\n\n\nFairTrade\n\n\n\n\n\n\n\n\n\n\n\n                      Certified Fair Trade\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9186128134174/6009275-HGH06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9186128298014/6009275-HGH06-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9178589724702/6009275-BFG07-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182587060254/6009275-PPS02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179606843422/6009275-BFG07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179606876190/6009275-WCM07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182591189022/6009275-PPS02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9186128134174/6009275-HGH06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9186128298014/6009275-HGH06-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9178589724702/6009275-BFG07-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182587060254/6009275-PPS02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179606843422/6009275-BFG07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179606876190/6009275-WCM07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182591189022/6009275-PPS02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9186128134174/6009275-HGH06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9186128298014/6009275-HGH06-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9178589724702/6009275-BFG07-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182587060254/6009275-PPS02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179606843422/6009275-BFG07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179606876190/6009275-WCM07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182591189022/6009275-PPS02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9186128134174/6009275-HGH06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9186128298014/6009275-HGH06-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9178589724702/6009275-BFG07-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182587060254/6009275-PPS02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179606843422/6009275-BFG07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179606876190/6009275-WCM07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182591189022/6009275-PPS02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Fair Trade Graphic Short Sleeve T-Shirt - Women's",
+  "product_code": "6009-275",
+  "source_url": "https://www.mec.ca/en/product/6009-275/Fair-Trade-Graphic-Short-Sleeve-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "150gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Product sustainability": [
+      "Certified Fair Trade",
+      "Organically grown content"
+    ]
+  }
+}

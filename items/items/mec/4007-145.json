@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Emergency and survival gear",
+    "Rescue tools",
+    "Red Flares (6 Pack)"
+  ],
+  "description": "Use your pen launcher to fire a bright red ball into the air to attract attention or guide rescuers to your location.Includes six cartridges.Each flare reaches an altitude of 50 to 90m, and burns for 4 to 6 seconds.For use with 15mm centre-fire launchers only, not compatible with older rim-fire launchers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810022928414/4007145-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810022928414/4007145-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Tru Flare Red Flares (6 Pack)",
+  "product_code": "4007-145",
+  "source_url": "https://www.mec.ca/en/product/4007-145/Red-Flares-%286-Pack%29",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayaking",
+      "Canoeing",
+      "Alpine climbing and mountaineering"
+    ],
+    "Made in": [
+      "Bulgaria"
+    ],
+    "Weight": [
+      "10g"
+    ]
+  }
+}

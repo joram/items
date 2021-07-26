@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Winter boots",
+    "Active winter boots",
+    "Yose Waterproof Winter Boots"
+  ],
+  "description": "Built for the trails, with a look that suits the city streets, the Yose winter boots are ready for the coldest weather. Thick insulation and a waterproof construction protect feet from winter's worst, with a gusseted tongue to keep you dry in deep snowdrifts.Durable leather with a waterproof membrane bootie.200g DryTech synthetic insulation keeps feet toasty.Wicking synthetic liner with 7mm wool and lyocell insole for warmth.Lightweight Treadlite by UGG\u2122 midsole cushions underfoot.White Spider Rubber outsole grips to icy surfaces.Manufacturer's active temperature rating of -32C.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132493832222/6010184-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132493832222/6010184-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "UGG Yose Waterproof Winter Boots - Women's",
+  "product_code": "6010-184",
+  "source_url": "https://www.mec.ca/en/product/6010-184/Yose-Waterproof-Winter-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Height\n\nThe approximate boot height for the average person.": [
+      "Low calf"
+    ],
+    "Ideal for": [
+      "Active winter wear"
+    ],
+    "Insulation": [
+      "200g synthetic insulation"
+    ],
+    "Lining material": [
+      "Synthetic"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Removable inner boot": [
+      "No"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ]
+  }
+}

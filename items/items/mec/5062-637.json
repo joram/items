@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Boardshorts",
+    "Fenton Boardshorts"
+  ],
+  "description": "Your no brainer board short. Hit the waves in lightweight, high performance trunks designed to move with you all day long.Made from high performance recycled polyester spandex.Durable water repellent finish makes them quick dry and moisture wicking.Drawcord waistband.Side pocket with zip closure keeps the important stuff safe while you surf.Notched side hem for east of movement.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177017942046/5062637-CPT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177011388446/5062637-CPT00-ALT-ZFLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177013059614/5062637-CPT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177013583902/5062637-CPT00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177017942046/5062637-CPT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177011388446/5062637-CPT00-ALT-ZFLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177013059614/5062637-CPT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177013583902/5062637-CPT00-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177017942046/5062637-CPT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177011388446/5062637-CPT00-ALT-ZFLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177013059614/5062637-CPT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177013583902/5062637-CPT00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177017942046/5062637-CPT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177011388446/5062637-CPT00-ALT-ZFLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177013059614/5062637-CPT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177013583902/5062637-CPT00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Fenton Boardshorts - Men's",
+  "product_code": "5062-637",
+  "source_url": "https://www.mec.ca/en/product/5062-637/Fenton-Boardshorts",
+  "tech_specs": {
+    "Fabric content": [
+      "92% recycled polyester",
+      "8% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "10in. (M)"
+    ],
+    "Ideal for": [
+      "Watersports",
+      "Paddleboarding",
+      "Snorkelling",
+      "Surfing",
+      "Beach",
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "1 side zippered"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

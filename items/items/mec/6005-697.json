@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Trousers",
+    "Stowe Pants"
+  ],
+  "description": "Super versatile pants that keep you cool and comfy. Made from a rugged yet lightweight cotton, nylon blend, they wear well, pack small and shed wrinkles. Technical pattering and construction give you freedom of movement to grab a ride share bike or take the stairs two at a time.Dagan\u2122 stretch poplin blends cotton and quick-drying nylon with just enough spandex for stretch.Anatomical patterning, articulated knees and a gusseted crotch improve comfort and freedom of movement.Snap-up rear pockets, dual front hand pockets and zippered side pockets have room for your EDC kit.Regular fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134652686366/6005697-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134652686366/6005697-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Stowe Pants - Men's",
+  "product_code": "6005-697",
+  "source_url": "https://www.mec.ca/en/product/6005-697/Stowe-Pants",
+  "tech_specs": {
+    "Fabric content": [
+      "68% cotton",
+      "28% nylon",
+      "4% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "139gsm"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "32in. (34)"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Travel"
+    ],
+    "Made in": [
+      "Bangladesh"
+    ],
+    "Pockets": [
+      "2 back with flap",
+      "2 front slash",
+      "2 side cargo zippered"
+    ]
+  }
+}

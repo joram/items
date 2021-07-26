@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Chargers and adapters",
+    "Portable chargers and power banks",
+    "Venture 30"
+  ],
+  "description": "Stay charged and ready when you\u2019re off the grid. The Venture 30 recharger is a sleek powerbank made for all your USB devices. No cables to lose and an easy 4-hour charge from a USB source (or 9 hours of full sun from a solar panel). Bonus: this thing is seriously waterproof. Dunk it, spray it, use it in the rain.Built-In Micro B USB male means tangle-free charging for phones and tablets.Cables included for efficient charging.Built-in charging tip powers you up in just 4 hours from a USB. 9 hours of full sun from solar (panel not inluded).Crazy waterproof. Dunk it, spray it, use it in the rain, no rubber plugs needed.30 Wh, 7,800mAh power pack is lightweight and packable.2 high-speed ports provide fast charging, at the same time. Integrated Flood Charge optimizes your charging time.Llithium nickel manganese cobalt oxide battery offers lower energy density, but longer lives and inherent safety.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806291472414/5044564-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806292750366/5044564-NOC02-ALT-CONNECT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806292848670/5044564-NOC02-ALT-PLUG.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806293274654/5044564-NOC02-ALT-SIZE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806291472414/5044564-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806292750366/5044564-NOC02-ALT-CONNECT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806292848670/5044564-NOC02-ALT-PLUG.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806293274654/5044564-NOC02-ALT-SIZE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806291472414/5044564-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806292750366/5044564-NOC02-ALT-CONNECT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806292848670/5044564-NOC02-ALT-PLUG.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806293274654/5044564-NOC02-ALT-SIZE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806291472414/5044564-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806292750366/5044564-NOC02-ALT-CONNECT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806292848670/5044564-NOC02-ALT-PLUG.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806293274654/5044564-NOC02-ALT-SIZE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Goal Zero Venture 30",
+  "product_code": "5044-564",
+  "source_url": "https://www.mec.ca/en/product/5044-564/Venture-30",
+  "tech_specs": {
+    "Capacity": [
+      "7800mAh"
+    ],
+    "Chemistry": [
+      "Lithium nickel manganese cobalt oxide"
+    ],
+    "Dimensions": [
+      "11.4\u00a0x\u00a08.25\u00a0x\u00a02.5cm"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Travel",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output voltage": [
+      "5volts"
+    ],
+    "Rechargeable": [
+      "Yes"
+    ],
+    "Weight": [
+      "250g"
+    ]
+  }
+}

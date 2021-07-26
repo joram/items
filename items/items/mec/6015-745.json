@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike racks, carriers and storage",
+    "Car bike racks",
+    "Hitch-mounted racks",
+    "Exo WarriorWheels Basket Cart Kit"
+  ],
+  "description": "Burly all-terrain wheels and a large handle converts your EXO GearWarrior Basket into a fully functional gear cart. Tool-free assembly that snaps together in a matter of seconds.Easily connects while the GearWarrior is still on your hitch.Carrying capacity 110lbs.Remove when vehicle is moving.Must have either EXO SwingBase or EXO TopShelf (sold separately).Attaches to the EXO GearWarrior or other Yakima Warrior baskets (sold separately).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194863951902/6015745-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195197267998/6015745-BK000-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194863951902/6015745-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195197267998/6015745-BK000-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194863951902/6015745-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195197267998/6015745-BK000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194863951902/6015745-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195197267998/6015745-BK000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Yakima Exo WarriorWheels Basket Cart Kit",
+  "product_code": "6015-745",
+  "source_url": "https://www.mec.ca/en/product/6015-745/Exo-WarriorWheels-Basket-Cart-Kit",
+  "tech_specs": {
+    "Folding": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Rear hatch access": [
+      "Yes"
+    ],
+    "Receiver class\n\nThe receiver class of the hitch. Type 1 and 2 are most common on cars and trucks.": [
+      "3 (2in.)",
+      "4 (2in.)"
+    ]
+  }
+}

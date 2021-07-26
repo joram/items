@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Fixed protection",
+    "KB3 Bolt 3/8\" x 2 1/4\""
+  ],
+  "description": "A short expansion bolt for hand drilled placements. Use for intermediate protection points or rap anchors, where you accept reduced holding power in return for increased speed and efficiency.These are not appropriate for sport routes or mixed routes, which require longer bolts with more holding power.Made of 304 stainless steel.Dog-point end prevents starter threads from being damaged by hammering.Textured expansion sleeve grips rock when tightened.For use with 3/8in. bits. Do not use 10mm bits.Embedded depth 15/8in. shear strength is 22.4kN, tensile strength is 12.1kN. (Specs are for 4000psi concrete and denote load over the threads.)",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807422132254/5013182-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807422132254/5013182-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hilti KB3 Bolt 3/8\" x 2 1/4\"",
+  "product_code": "5013-182",
+  "source_url": "https://www.mec.ca/en/product/5013-182/KB3-Bolt-3-8%22-x-2-1-4%22",
+  "tech_specs": {
+    "Ideal for": [
+      "Outdoor route building"
+    ],
+    "Made in": [
+      "Mexico"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Weight": [
+      "35g"
+    ]
+  }
+}

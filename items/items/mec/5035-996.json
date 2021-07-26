@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Feminine hygiene",
+    "DivaCup Menstrual Cup"
+  ],
+  "description": "Excellent for thru hikes, and expeditions in remote settings, the DivaCup is a hygienic and sustainable alternative to tampons. The DivaCup is a reusable, bell-shaped menstrual cup that is worn internally and sits low in the vaginal canal. It can worn during activity for up to 12 hours without leaks or worry.Made of high quality healthcare grade silicone to assure comfort and durability.Does not contain latex, plastic, PVC, acrylic, acrylate, BPA, phthalate, elastomer, or polyethylene. Is free of colours and dye.Can be worn for up to 12 hours.Features extra grip ridges for easier removal.Approved for sale by Health Canada, the US FDA and the Australian TGA.Model 0 is recommended for women 18 years old or younger, those new to the world of periods.Model 1 is recommended for women under 30 years old who have never delivered vaginally or by caesarean section.Model 2 is recommended for women over 30 years old and/or for women who have delivered vaginally or by caesarean section.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809968173086/5035996-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809968205854/5035996-NOC02-ALT-2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809968173086/5035996-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809968205854/5035996-NOC02-ALT-2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809968173086/5035996-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809968205854/5035996-NOC02-ALT-2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809968173086/5035996-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809968205854/5035996-NOC02-ALT-2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Diva DivaCup Menstrual Cup - Women's",
+  "product_code": "5035-996",
+  "source_url": "https://www.mec.ca/en/product/5035-996/DivaCup-Menstrual-Cup",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Weight": [
+      "19g (1)"
+    ]
+  }
+}

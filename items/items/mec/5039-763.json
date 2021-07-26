@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Uppers and downers",
+    "Ascenders",
+    "Index Ascender"
+  ],
+  "description": "Save effort on big walls and glaciers with this lightweight, durable ascender. An innovative index finger trigger releases the cam, so you can slide it up without having to haul rope out the bottom using your other hand \u2013 even at the beginning of ascents, when there\u2019s not much rope weight below the unit.Aluminum body with stainless steel cams.Dual density grip and trigger is comfortable for banged up fingers.Available right hand and left hand versions.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807217365022/5039763-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807217496094/5039763-GRY00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807217692702/5039763-GLD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807217365022/5039763-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807217496094/5039763-GRY00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807217692702/5039763-GLD00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807217365022/5039763-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807217496094/5039763-GRY00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807217692702/5039763-GLD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807217365022/5039763-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807217496094/5039763-GRY00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807217692702/5039763-GLD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Index Ascender",
+  "product_code": "5039-763",
+  "source_url": "https://www.mec.ca/en/product/5039-763/Index-Ascender",
+  "tech_specs": {
+    "Body material": [
+      "Aluminum"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Cam material": [
+      "Stainless steel"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Trad and aid climbing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Rope diameter\n\nThe maximum diameter or the range of rope diameter that is compatible with the device.": [
+      "8-13mm"
+    ],
+    "Weight": [
+      "200g"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Paddleboarding",
+    "Paddleboard accessories",
+    "Fins",
+    "Connect SUP Touring Fin"
+  ],
+  "description": "Keep it on the straight and narrow. This touring fin is ideal for flatwater exploration and inland waterways. Shape keeps you tracking straight so you can get in more strokes before switching sides.Polycarbonate construction.9 in./23 cm length.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021994008606/6000646-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021994008606/6000646-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "FCS Connect SUP Touring Fin",
+  "product_code": "6000-646",
+  "source_url": "https://www.mec.ca/en/product/6000-646/Connect-SUP-Touring-Fin",
+  "tech_specs": {
+    "Ideal for": [
+      "Paddleboarding"
+    ],
+    "Length": [
+      "23cm"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

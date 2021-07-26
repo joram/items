@@ -1,0 +1,80 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "SM'D Screw-Lock Carabiner"
+  ],
+  "description": "A compact, versatile locker that's easy to manipulate, even while wearing gloves.D-shape is versatile and easy to use.Snag-free, strength-enhancing keylock closure.Manual screw gate features a red warning indicator when it's unlocked.H cross-section for added strength and grip.Individually tested.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856430182430/5052341-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859987771422/5052341-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859987935262/5052341-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859988131870/5052341-NOC02-ALT-UNLOCKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856430182430/5052341-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859987771422/5052341-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859987935262/5052341-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859988131870/5052341-NOC02-ALT-UNLOCKED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856430182430/5052341-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859987771422/5052341-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859987935262/5052341-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859988131870/5052341-NOC02-ALT-UNLOCKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856430182430/5052341-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859987771422/5052341-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859987935262/5052341-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859988131870/5052341-NOC02-ALT-UNLOCKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl SM'D Screw-Lock Carabiner",
+  "product_code": "5052-341",
+  "source_url": "https://www.mec.ca/en/product/5052-341/SM%27D-Screw-Lock-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2cm"
+    ],
+    "Gate type": [
+      "Straight"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Indoor climbing",
+      "Snow and ice climbing"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Screwgate"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "23kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "7kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "46g"
+    ]
+  }
+}

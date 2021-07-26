@@ -1,0 +1,97 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training food and drinks",
+    "Energy and protein bars",
+    "Cool Mint Chocolate Energy Bar"
+  ],
+  "description": "With a taste and texture similar to home-baked goodies, this is a great-tasting, convenient source of energy for any activity.Ingredients: brown rice syrup, rolled oats, cane syrup, roasted soybeans, soy protein isolate, rice flour, alkalized cocoa, soy flour, fig paste, oat fiber, oat flour, dried cane syrup, soybean oil, natural flavors, cocoa butter, sunflower oil, salt, barley malt extract, green tea extract (contains caffeine), unsweetened chocolate, soy lecithin, baking soda, vanilla extract.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812342312990/4018608-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812342312990/4018608-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Clif Bar Cool Mint Chocolate Energy Bar",
+  "product_code": "4018-608",
+  "source_url": "https://www.mec.ca/en/product/4018-608/Cool-Mint-Chocolate-Energy-Bar",
+  "tech_specs": {
+    "Best consumed": [
+      "Before exercise",
+      "During exercise"
+    ],
+    "Caffeine": [
+      "49mg"
+    ],
+    "Calories per serving": [
+      "240Cal"
+    ],
+    "Carbohydrates": [
+      "43g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "5g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Cycling",
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Potassium": [
+      "290mg"
+    ],
+    "Protein": [
+      "10g"
+    ],
+    "Saturated fat": [
+      "1.5g"
+    ],
+    "Serving size": [
+      "1 bar"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "170mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "22g"
+    ],
+    "Total fat": [
+      "5g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "68g"
+    ]
+  }
+}

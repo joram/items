@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "Hotforge Screwgate Carabiner"
+  ],
+  "description": "A large, asymmetric carabiner, great for belaying with 2 ropes or using with complex anchors. The notchless nose design will not get caught on webbing or bolts.Manual locking screwgate features a protective collar that prevents the nose from jamming under load.Asymmetric shape creates large internal space and wide opening.Squarish end helps it stay aligned.Slightly curved spine maximizes gate opening.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211309598/6005162-GRY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211309598/6005162-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Hotforge Screwgate Carabiner",
+  "product_code": "6005-162",
+  "source_url": "https://www.mec.ca/en/product/6005-162/Hotforge-Screwgate-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "1.8cm"
+    ],
+    "Gate type": [
+      "Straight"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Screwgate"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "24kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "8kN"
+    ],
+    "Weight": [
+      "50g"
+    ]
+  }
+}

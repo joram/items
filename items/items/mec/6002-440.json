@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Popular Day Hikes: Kananaskis Country - Revis"
+  ],
+  "description": "A hiking guidebook for visitors or locals who want to explore one of Canada's most scenic natural environments. This guidebook covers hikes in beautiful Kananaskis Country on the eastern slopes of the Canadian Rockies. It features a wide range of choices for day trippers looking for unique and irresistible views throughout this world-renowned mountain range. From easy, short day walks to ridgewalks - with a pitch or two of easy scrambling - there is something in this volume for everyone. Revised second edition features a fresh design and the most current route updates.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032071151646/6002440-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032071151646/6002440-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rocky Mountain Books Popular Day Hikes: Kananaskis Country - Revis",
+  "product_code": "6002-440",
+  "source_url": "https://www.mec.ca/en/product/6002-440/Popular-Day-Hikes%3A-Kananaskis-Country---Revis",
+  "tech_specs": {
+    "Author": [
+      "Gillean Daffern"
+    ],
+    "Edition": [
+      "2nd"
+    ],
+    "ISBN": [
+      "9781771602655"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "152"
+    ],
+    "Photographer": [
+      "Gillean Daffern"
+    ],
+    "Published": [
+      "2019"
+    ],
+    "Regionality": [
+      "Rockies"
+    ]
+  }
+}

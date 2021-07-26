@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Crampons and components",
+    "Crampon components",
+    "Fakir Crampon Bag"
+  ],
+  "description": "A semi-rigid carrying case for your crampons and other pokey things, such as ice screws and spare picks.Made of nylon.Zip closure.Drainage/ventilation holes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089518927902/5005801-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994555422/5005801-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089518927902/5005801-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994555422/5005801-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089518927902/5005801-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994555422/5005801-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089518927902/5005801-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089994555422/5005801-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Fakir Crampon Bag",
+  "product_code": "5005-801",
+  "source_url": "https://www.mec.ca/en/product/5005-801/Fakir-Crampon-Bag",
+  "tech_specs": {
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "155g"
+    ]
+  }
+}

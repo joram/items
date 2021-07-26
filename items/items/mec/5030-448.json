@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Compression bags and stuff sacks",
+    "Universal Cargo Pocket"
+  ],
+  "description": "Add some extra capacity to your pack for extended outings, or just use it to keep stuff separate and organized. Daisy chains and anchor points on the back let you attach this pocket to pretty much any pack in pretty much any orientation.Dimensions are 19.6 x 45 x 8.5cm.Large U-shaped zipper allows full access.Glove-friendly zipper pulls.Small hanging loop at top.2 vertical daisy chains and 3 horizontal webbing attachment points on the back.Daisy chain on centre front for attaching additional items or attaching it in other ways.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083785609246/5030448-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083785445406/5030448-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083785609246/5030448-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083785445406/5030448-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083785609246/5030448-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083785445406/5030448-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083785609246/5030448-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083785445406/5030448-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Universal Cargo Pocket",
+  "product_code": "5030-448",
+  "source_url": "https://www.mec.ca/en/product/5030-448/Universal-Cargo-Pocket",
+  "tech_specs": {
+    "Depth": [
+      "8.5cm"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking"
+    ],
+    "Length": [
+      "45cm"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "300-denier polyester"
+    ],
+    "Weight": [
+      "170g"
+    ],
+    "Width": [
+      "19.6cm"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Bug nets",
+    "NoBugZone Sidewall Curtains"
+  ],
+  "description": "Clip these sidewall curtains to your NoBugZone or NoBugZone 3-in-1 for extra weather protection and privacy.Polyurethane coated polyester blocks rain and wind.UPF 25 sun protection.J-hooks attach to NoBugZone walls.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100017106974/6008369-BGE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099980374046/6008369-BGE00-ALT-ON-SHELTER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100017106974/6008369-BGE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099980374046/6008369-BGE00-ALT-ON-SHELTER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100017106974/6008369-BGE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099980374046/6008369-BGE00-ALT-ON-SHELTER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100017106974/6008369-BGE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099980374046/6008369-BGE00-ALT-ON-SHELTER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Eureka! NoBugZone Sidewall Curtains",
+  "product_code": "6008-369",
+  "source_url": "https://www.mec.ca/en/product/6008-369/NoBugZone-Sidewall-Curtains",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "1.56kg"
+    ]
+  }
+}

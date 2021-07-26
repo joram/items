@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "West Kootenay Touring Guide"
+  ],
+  "description": "The West Kootenay Touring Guide provides you with the complete descriptions of backcountry ski tours for Whitewater, Rossland and Kootenay Pass. It provides info on locating the right trailhead, detailed directions for your skin up, options for your descent and images and maps to help orient you. And it's all in a handy chuck-in-your-pack, 100% recycled-paper format.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924924837918/5042407-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924946464798/5042407-NOC02-ALT-SPREAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924924837918/5042407-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924946464798/5042407-NOC02-ALT-SPREAD.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924924837918/5042407-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924946464798/5042407-NOC02-ALT-SPREAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924924837918/5042407-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924946464798/5042407-NOC02-ALT-SPREAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "West Kootenay Touring Guide",
+  "product_code": "5042-407",
+  "source_url": "https://www.mec.ca/en/product/5042-407/West-Kootenay-Touring-Guide",
+  "tech_specs": {
+    "ISBN": [
+      "NO ISBN"
+    ],
+    "Ideal for": [
+      "Backcountry skiing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "36"
+    ],
+    "Published": [
+      "2015"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

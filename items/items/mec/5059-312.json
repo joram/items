@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Snowshoeing gear",
+    "Snowshoes",
+    "Neokid III Snowshoes"
+  ],
+  "description": "Pint-sized snowshoes for big winter adventures. The Neokid III Snowshoes are easy to use and ergonomically designed for a natural, easy stride. The decks shed snow, so they don't get heavy as kids walk. The super-solid crampons provide great traction in varying conditions to add confidence to winter exploring.Polymer-moulded decks are lightweight yet durable, and stay flexible down to -40\u00b0C.Ergonomic shape encourages a natural stride for happy trekking.Easy to use ratchet bindings provide a locked-in, comfortable fit without pressure points.V-Rail traction is moulded onto the polymer deck for multi-directional traction uphill, downhill or traversing.Carbon steel crampons under toes provide traction and stability in varying conditions.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050145980446/5059312-POW10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050157547550/5059312-POW10-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139398508574/5059312-BLY05-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139398869022/5059312-BLY05-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139392872478/5059312-BLY05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050145980446/5059312-POW10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050157547550/5059312-POW10-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139398508574/5059312-BLY05-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139398869022/5059312-BLY05-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139392872478/5059312-BLY05.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050145980446/5059312-POW10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050157547550/5059312-POW10-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139398508574/5059312-BLY05-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139398869022/5059312-BLY05-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139392872478/5059312-BLY05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050145980446/5059312-POW10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050157547550/5059312-POW10-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139398508574/5059312-BLY05-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139398869022/5059312-BLY05-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139392872478/5059312-BLY05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Louis Garneau Neokid III Snowshoes - Children to Youths",
+  "product_code": "5059-312",
+  "source_url": "https://www.mec.ca/en/product/5059-312/Neokid-III-Snowshoes",
+  "tech_specs": {
+    "Dimensions": [
+      "6 x 16 in.in."
+    ],
+    "Heel lift\n\nIndicates if the snowshoe has a heel lift or not. Heel lifts reduce calf strain on uphill climbs.": [
+      "No"
+    ],
+    "Ideal for": [
+      "General snowshoeing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Max recommended load": [
+      "30-80lb."
+    ],
+    "Weight": [
+      "750g"
+    ]
+  }
+}

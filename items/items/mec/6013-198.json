@@ -1,0 +1,96 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Mexican Style Grilled Chicken Bowl"
+  ],
+  "description": "Tender grilled chicken, corn and beans brought to life with Mexican spices and tossed with fiery pepper-jack cheese.Packaging clearly shows allergens and nutritional information, and has a graduated scale on one side, so you know how much water to add.Ingredients: white rice, black beans, freeze dried grilled chicken (chicken breast with rib meat, salt, potato starch, onion and garlic powder, spices), taco seasoning [paprika, corn meal, salt, onion, spices, garlic, tomato, citric acid, soybean oil (as a processing aid)], sweet corn, pepper jack cheese [(pasteurized  milk, cheese cultures, salt, jalapeno peppers, enzymes), powdered cellulose (added to prevent caking)], tomato flakes, bell pepper red & green combo, red onion, sea salt, crystalized lime (citric acid, lime oil, lime juice), garlic granulated, black pepper, cilantro, jalapeno.Allergens: contains milkNo cooking needed, simply add water, stir, wait and enjoy.Meals have a 5-year shelf life.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182662066206/6013198-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182666326046/6013198-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182662066206/6013198-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182666326046/6013198-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182662066206/6013198-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182666326046/6013198-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182662066206/6013198-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182666326046/6013198-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "AlpineAire Mexican Style Grilled Chicken Bowl",
+  "product_code": "6013-198",
+  "source_url": "https://www.mec.ca/en/product/6013-198/Mexican-Style-Grilled-Chicken-Bowl",
+  "tech_specs": {
+    "Calories per serving": [
+      "320Cal"
+    ],
+    "Carbohydrates": [
+      "24g"
+    ],
+    "Cholesterol": [
+      "20mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "4g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "17g"
+    ],
+    "Saturated fat": [
+      "1.5g"
+    ],
+    "Serving size": [
+      "1/2 package"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "730mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "4g"
+    ],
+    "Total fat": [
+      "4g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ],
+    "Weight": [
+      "176g"
+    ]
+  }
+}

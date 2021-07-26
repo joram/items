@@ -1,0 +1,81 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing harnesses",
+    "Adjustable harnesses",
+    "Momentum Harness"
+  ],
+  "description": "The Momentum is an affordable, all-around climbing harness. It uses Dual Core Construction with 2 slim bands of high-tensile webbing on the outer edges of the waistbelt and a venting foam insert in the centre to balance comfort and breathability without pressure points.Bullhorn-shaped waist with lightweight, breathable padding fits the contours of your hips.Padded lumbar insert adds some comfort during extended hanging belays.Prethreaded SpeedAdjust buckle cinches quickly and securely.Adjustable legs with trakFIT adjustment for easy customization.4 moulded gear loops and a rear belt loop for clipping a chalk bag.Women's specific rise.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054214979614/6005234-KIN01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054214455326/6005234-ANC00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054214979614/6005234-KIN01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054214455326/6005234-ANC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054214979614/6005234-KIN01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054214455326/6005234-ANC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054214979614/6005234-KIN01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054214455326/6005234-ANC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Momentum Harness - Men's",
+  "product_code": "6005-234",
+  "source_url": "https://www.mec.ca/en/product/6005-234/Momentum-Harness",
+  "tech_specs": {
+    "Adjustable leg loops": [
+      "Yes"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Drop seat": [
+      "Yes"
+    ],
+    "Gear loops": [
+      "4"
+    ],
+    "Haul loop": [
+      "No"
+    ],
+    "Ice clipper slots": [
+      "No"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Leg loop size": [
+      "43-53cm (Anthracite X-Small)",
+      "46-56cm (Anthracite Small)",
+      "51-61cm (Anthracite Medium)",
+      "56-66cm (Anthracite Large)",
+      "61-71cm (Anthracite X-Large)",
+      "66-76cm (Anthracite XX-Large)"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Self-locking buckle": [
+      "Yes"
+    ],
+    "Type": [
+      "Seat harness"
+    ],
+    "Waist size": [
+      "61-69cm (Anthracite X-Small)",
+      "69-76cm (Anthracite Small)",
+      "76-84cm (Anthracite Medium)",
+      "84-91cm (Anthracite Large)",
+      "91-99cm (Anthracite X-Large)",
+      "100-114cm (Anthracite XX-Large)"
+    ],
+    "Weight": [
+      "302g (X-Large)"
+    ]
+  }
+}

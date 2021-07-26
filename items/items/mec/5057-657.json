@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "More Scrambles Canadian Rockies 3rd Edition"
+  ],
+  "description": "Lots of interesting routes and a large collection of full-colour photos and maps. The 3rd edition of More Scrambles in the Canadian Rockies covers Waterton, The Castle and Kananaskis comprehensively, including ascents around Middle Kootenay Pass and 39 new routes. Also new are several scrambles around Crowsnest, Banff, Highway 93 North and Yoho. Andrew Nugara outlines several routes to each summit, with alternative and easier descents. In addition to route descriptions, the book contains general information on scrambling, suggested trips for specific conditions, details about each region, and single-day trips to multiple peaks.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8923458928670/5057657-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8923458928670/5057657-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "More Scrambles Canadian Rockies 3rd Edition",
+  "product_code": "5057-657",
+  "source_url": "https://www.mec.ca/en/product/5057-657/More-Scrambles-Canadian-Rockies-3rd-Edition",
+  "tech_specs": {
+    "Author": [
+      "Andrew Nugara"
+    ],
+    "Edition": [
+      "3rd"
+    ],
+    "ISBN": [
+      "9781771602006"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pages": [
+      "480"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "Rockies"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike computers",
+    "Mounts and sensors for bike computers",
+    "Bike computer mounts",
+    "Bike Mount Kit"
+  ],
+  "description": "Take your GPS to the streets or to the trails. Just snap it into this bike mount and you're ready to ride.Fits most watches.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810607411230/5018947-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810607411230/5018947-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Garmin Bike Mount Kit",
+  "product_code": "5018-947",
+  "source_url": "https://www.mec.ca/en/product/5018-947/Bike-Mount-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling",
+      "Cycle training",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "108g"
+    ]
+  }
+}

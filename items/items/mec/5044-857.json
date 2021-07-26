@@ -1,0 +1,93 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Snacks",
+    "Nuts, fruit and dried foods",
+    "Gouda"
+  ],
+  "description": "It\u2019s no secret, cheese is delicious, and Moon Cheese is no exception to this fact.  Moon Cheese takes 100% natural cheese and dries it into individual crunchy bites.  The cheese becomes shelf stable, and perfect for hikes, road trips, or anywhere you need your cheese fix.Compared with other drying methods, the nutraREV\u00ae drying process is more energy efficient, more nutrient rich, and preservative free.Ingredients: Gouda Cheese [Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto (Vegetable Color)].",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164037324830/5044857-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164030935070/5044857-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164037324830/5044857-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164030935070/5044857-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164037324830/5044857-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164030935070/5044857-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164037324830/5044857-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164030935070/5044857-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Moon Cheese Gouda",
+  "product_code": "5044-857",
+  "source_url": "https://www.mec.ca/en/product/5044-857/Gouda",
+  "tech_specs": {
+    "Calories per serving": [
+      "70Cal"
+    ],
+    "Carbohydrates": [
+      "0g"
+    ],
+    "Cholesterol": [
+      "21mg"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "0g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Organic": [
+      "No"
+    ],
+    "Protein": [
+      "5g"
+    ],
+    "Saturated fat": [
+      "3g"
+    ],
+    "Servings": [
+      "4.75"
+    ],
+    "Sodium": [
+      "190mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "0g"
+    ],
+    "Total fat": [
+      "5g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ],
+    "Weight": [
+      "57g"
+    ]
+  }
+}

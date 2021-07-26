@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Baby (0-2 yrs)",
+    "Baby clothing",
+    "Baby bottoms",
+    "Baby pants",
+    "Baby leggings",
+    "Merino Leggings"
+  ],
+  "description": "When you mix merino with nylon, you get super warmth and super durability all in one. These leggings are designed to sit next to skin, working with outer layers to seal warmth in and wick sweat away. Flat seams keep little legs completely chafe-free.Made of merino-wrapped nylon to add durability while maintaining softness and warmth.Designed with room to fit over a diaper.Flatlock seams reduce chafing and bulk when layering.Interior name label so it won't get lost.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140705361950/5054526-VTB01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140705132574/5054526-VTB01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140705361950/5054526-VTB01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140705132574/5054526-VTB01-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140705361950/5054526-VTB01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140705132574/5054526-VTB01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140705361950/5054526-VTB01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140705132574/5054526-VTB01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Merino Leggings - Infants",
+  "product_code": "5054-526",
+  "source_url": "https://www.mec.ca/en/product/5054-526/Merino-Leggings",
+  "tech_specs": {
+    "Fabric content": [
+      "87% merino wool",
+      "13% nylon"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "150gsm"
+    ],
+    "Ideal for": [
+      "Snowsports",
+      "Camping and hiking",
+      "Casual wear"
+    ],
+    "Made in": [
+      "El Salvador"
+    ],
+    "Type": [
+      "Base layer"
+    ]
+  }
+}

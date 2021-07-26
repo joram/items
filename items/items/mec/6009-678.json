@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth footwear",
+    "Youth boots",
+    "Youth winter boots",
+    "Lumi II Waterproof Boots"
+  ],
+  "description": "Defy the elements in durable, waterproof winter boots. Serious insulation keeps small feet warm down to -40\u00b0C, and is removable for milder days as winter starts to shift toward spring. The waterproof shell stands up to deep drifts and slush puddles, and soles designed for cold-weather grip keep them upright during the slippery business of building snow forts.EVA shell is completely waterproof.Durable textile cuff is easy to clean.Hook-and-loop cuff closure.Removable felt liner is rated to -40\u00b0C.Padded tongue and collar.Non-marking rubber outsole is optimized for traction in cold weather.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982693406/6009678-BWV04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153983709214/6009678-BRC03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982693406/6009678-BWV04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153983709214/6009678-BRC03.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982693406/6009678-BWV04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153983709214/6009678-BRC03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982693406/6009678-BWV04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153983709214/6009678-BRC03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Keen Lumi II Waterproof Boots - Children to Youths",
+  "product_code": "6009-678",
+  "source_url": "https://www.mec.ca/en/product/6009-678/Lumi-II-Waterproof-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Quick pull",
+      "Hook-and-loop"
+    ],
+    "Ideal for": [
+      "Snowsports",
+      "Mountain snowshoeing"
+    ],
+    "Insulation": [
+      "Felt",
+      "Synthetic"
+    ],
+    "Lining material": [
+      "Felt"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Rand\n\nRubber on the toe and around the boot improves durability. It can also increase grip while scrambling.": [
+      "None"
+    ],
+    "Removable inner boot": [
+      "Yes"
+    ],
+    "Removable insole": [
+      "No"
+    ],
+    "Upper material": [
+      "Synthetic",
+      "EVA"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ]
+  }
+}

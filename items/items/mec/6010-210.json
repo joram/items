@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Mountaineering axes",
+    "Raven Ice Axe with Grip"
+  ],
+  "description": "Like a good friend, this axe makes a fine companion when crossing glaciers or slogging through snow. It's maneuverable and comfortable to carry, thanks to the ergonomically shaped head, and a reworked spike bites well in ice when plunging. The rubber grip and leash adds an extra level of security.Stainless steel head and spike.Aluminum shaft has a trapezoidal cross-section for a comfortable grip.Updated pick, adze and spike for secure placements and efficient chopping.Dual-density rubber grip is comfortable to hold.Slider Leash included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9149333176350/6010210-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9149333176350/6010210-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Raven Ice Axe with Grip",
+  "product_code": "6010-210",
+  "source_url": "https://www.mec.ca/en/product/6010-210/Raven-Ice-Axe-with-Grip",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Adze"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "60cm (60cm)",
+      "65cm (65 cm)",
+      "70cm (70cm)",
+      "75cm (75cm)"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Removable pick": [
+      "No"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "B-rated"
+    ],
+    "Weight": [
+      "503g (60cm)",
+      "520g (65 cm)",
+      "536g (70cm)",
+      "553g (75cm)"
+    ]
+  }
+}

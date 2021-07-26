@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country skate",
+    "Skate ski boots",
+    "Comp J Boots"
+  ],
+  "description": "These supportive cross-country ski boots allow kids' feet to roll naturally. They're good as a first set, to introduce your kids to the world of Nordic skiing. The combi style works for classic or skate strides, and the upper cuff is designed to cradle the junior-sized foot and provide warmth and comfort.Polyester lining stays dry and adds a layer of warmth.Speed Lace pull lace system is easy to operate.PVC lace cover with centre zip.Plastic upper cuff wraps around the ankle; the lower cuff is flexible PVC.Velcro\u00ae ankle strap.NNN system T4 outsole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992080691230/5060478-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992080691230/5060478-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rossignol Comp J Boots - Children to Youths",
+  "product_code": "5060-478",
+  "source_url": "https://www.mec.ca/en/product/5060-478/Comp-J-Boots",
+  "tech_specs": {
+    "Hinged/high cuff": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cross-country skiing"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lace cover": [
+      "Yes"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Thermoformable inner boot": [
+      "No"
+    ]
+  }
+}

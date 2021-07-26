@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Pocket knives and fixed blade knives",
+    "Knife parts and accessories",
+    "Wave MOLLE Sheath"
+  ],
+  "description": "Attach your full-size Leatherman tool to any MOLLE grid you have available, like the front of your Yeti or the side of your pack. The webbing strap and snap attachment system also accommodate most belt sizes.Internal dimensions: 11.4 x 4.6 x 2.5cm.Stealthy grey Leatherman logo on the front.Grommet allows the sheath to drain.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946457444382/5058931-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946457444382/5058931-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Leatherman Wave MOLLE Sheath",
+  "product_code": "5058-931",
+  "source_url": "https://www.mec.ca/en/product/5058-931/Wave-MOLLE-Sheath",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use",
+      "Professional trades",
+      "Emergency preparedness"
+    ],
+    "Internal dimensions": [
+      "11.4\u00a0x\u00a02.5cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Sheath material": [
+      "Nylon"
+    ]
+  }
+}

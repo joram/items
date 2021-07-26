@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Climbing chalk",
+    "Secret Stuff Hygienic Liquid Chalk"
+  ],
+  "description": "Send your projects while keeping your hands clean. This version of Secret Stuff has a higher than usual concentration of ethanol that is required in many gyms now days.Made with 80% Ethyl alcohol base.Great for gyms, and way less messy than loose chalk.Keeps your hands dry without having to re-chalk when working long problems.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129049882654/6012145-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129050046494/6012145-WHT00-ALT-HAND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129049882654/6012145-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129050046494/6012145-WHT00-ALT-HAND.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129049882654/6012145-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129050046494/6012145-WHT00-ALT-HAND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129049882654/6012145-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129050046494/6012145-WHT00-ALT-HAND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Friction Labs Secret Stuff Hygienic Liquid Chalk",
+  "product_code": "6012-145",
+  "source_url": "https://www.mec.ca/en/product/6012-145/Secret-Stuff-Hygienic-Liquid-Chalk",
+  "tech_specs": {
+    "Ideal for": [
+      "Bouldering",
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Type of chalk": [
+      "Liquid"
+    ]
+  }
+}

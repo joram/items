@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Rashguards and sunguards",
+    "All Day Loose Fit Long Sleeve Rashguard"
+  ],
+  "description": "A favourite surf style in a silky fabric. This quick-drying rashguard delivers UV protection with next-to-skin softness, so you can wear it for long days of paddling, surfing SUP-ing .Polyester, elastane silk touch fabric adds ultimate comfort.Long sleeves and crew neck provide coverage.Overlock hidden seams have a smooth interior.UPF rated to keep you safe through the sunniest surf days.Relaxed fit allows ease of movement.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160795881502/6013171-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160795881502/6013171-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Billabong All Day Loose Fit Long Sleeve Rashguard - Men's",
+  "product_code": "6013-171",
+  "source_url": "https://www.mec.ca/en/product/6013-171/All-Day-Loose-Fit-Long-Sleeve-Rashguard",
+  "tech_specs": {
+    "Fabric content": [
+      "87% polyester",
+      "13% spandex"
+    ],
+    "Ideal for": [
+      "Surf skiing"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

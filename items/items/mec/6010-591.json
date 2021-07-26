@@ -1,0 +1,75 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Fleece jackets",
+    "Canyonlands Full Zip Sweatshirt"
+  ],
+  "description": "This fleece has a tough outer face and a heart-breakingly soft inner side. Sounds complex, but it's actually simple. Throw it on for cold mornings when you need a steadfast layer to buffer you from the elements.Smooth fleece outer face with a soft brushed inside.Hand pockets have reverse coil zips that block wind, won't snag the fabric or absorb water.Standard fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189830459422/6010591-MUB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189856935966/6010591-MUB00-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189857001502/6010591-MUB00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189856706590/6010591-BK276-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189856772126/6010591-BK276-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473567774/6010591-HRH04-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473633310/6010591-HRH04-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189830524958/6010591-BK276.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195466489886/6010591-HRH04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189830459422/6010591-MUB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189856935966/6010591-MUB00-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189857001502/6010591-MUB00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189856706590/6010591-BK276-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189856772126/6010591-BK276-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473567774/6010591-HRH04-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473633310/6010591-HRH04-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189830524958/6010591-BK276.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195466489886/6010591-HRH04.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189830459422/6010591-MUB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189856935966/6010591-MUB00-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189857001502/6010591-MUB00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189856706590/6010591-BK276-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189856772126/6010591-BK276-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473567774/6010591-HRH04-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473633310/6010591-HRH04-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189830524958/6010591-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195466489886/6010591-HRH04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189830459422/6010591-MUB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189856935966/6010591-MUB00-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189857001502/6010591-MUB00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189856706590/6010591-BK276-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189856772126/6010591-BK276-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473567774/6010591-HRH04-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473633310/6010591-HRH04-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189830524958/6010591-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195466489886/6010591-HRH04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Canyonlands Full Zip Sweatshirt - Women's",
+  "product_code": "6010-591",
+  "source_url": "https://www.mec.ca/en/product/6010-591/Canyonlands-Full-Zip-Sweatshirt",
+  "tech_specs": {
+    "Fabric content": [
+      "96% polyester",
+      "4% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "225gsm"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Jordan"
+    ],
+    "Pockets": [
+      "2 front zippered"
+    ]
+  }
+}

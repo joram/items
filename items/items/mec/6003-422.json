@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Handlebars, headsets and stems",
+    "Grips and bar tape",
+    "Contact Handlebar Tape"
+  ],
+  "description": "Super-grippy, shock-absorbing handlebar tape with an anti-slip diamond pattern. Adhesive keeps the tape in place while you're wrapping.30mm wide.3M adhesive backing for easier wrapping.Includes matching 20mm wide finishing tape.Universal bar end plugs.210cm length covers one set of road bike bars.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042322292766/6003422-RED00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042322292766/6003422-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Contact Handlebar Tape",
+  "product_code": "6003-422",
+  "source_url": "https://www.mec.ca/en/product/6003-422/Contact-Handlebar-Tape",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Length": [
+      "210cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Plugs included": [
+      "Yes"
+    ],
+    "Width": [
+      "30mm"
+    ]
+  }
+}

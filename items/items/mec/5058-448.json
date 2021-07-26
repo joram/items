@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Sunglasses",
+    "Casual sunglasses",
+    "Sofia Sunglasses"
+  ],
+  "description": "With classic lines and a hint of a cat-eye, the Sofia sunnies nod to Old Hollywood glamour. Lounge poolside, sip ros\u00e9 on your favourite patio, or add a touch of effortless style to your weekend bike ride to the farmer's market. Whatever you choose to do, know that your eyes are protected from UV rays.Deep lenses block harsh UV.Scratch-resistant polycarbonate lenses.6-base curvature helps block light coming in at angles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8958679679006/5058448-DEM11.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8958679679006/5058448-DEM11.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Sofia Sunglasses - Women's",
+  "product_code": "5058-448",
+  "source_url": "https://www.mec.ca/en/product/5058-448/Sofia-Sunglasses",
+  "tech_specs": {
+    "100% UVA protected": [
+      "Yes"
+    ],
+    "100% UVB protected": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Interchangeable lenses\n\nInterchangeable lenses let you change lenses to suit differing light conditions or activities.": [
+      "No"
+    ],
+    "Lens height\n\nMeasures the height of the lens within the frame, excluding the lens curve.": [
+      "46mm"
+    ],
+    "Lens width\n\nRefers to the horizontal width in millimeters of one of the frame's lenses.": [
+      "57mm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Nose bridge width\n\nThe gap between the lenses, measured at the smallest point.": [
+      "19mm"
+    ],
+    "Temple length\n\nThe length of an arm from tip to tip.": [
+      "140mm"
+    ]
+  }
+}

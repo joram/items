@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Saddles and seat posts",
+    "Seat posts",
+    "Dropper seat posts",
+    "Highline 3 Dropper Seat Post 170mm"
+  ],
+  "description": "This quality dropper seat post delivers snappy performance on the trail.7075-T6 alloy with Trelleborg\u00ae sealing, with 170mm of travel.Cable actuated with hydraulic cartridge.Jagwire\u00ae cable and housing, with internal routing.2-bolt head.Diameter: 30.9mm or 31.6mm.Remote sold separately.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104303620126/6010266-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104303620126/6010266-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Crankbrothers Highline 3 Dropper Seat Post 170mm",
+  "product_code": "6010-266",
+  "source_url": "https://www.mec.ca/en/product/6010-266/Highline-3-Dropper-Seat-Post-170mm",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking",
+      "Gravel riding"
+    ],
+    "Length": [
+      "505mm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "7075-T6 aluminum"
+    ],
+    "Offset": [
+      "0mm"
+    ],
+    "Suspension": [
+      "No"
+    ]
+  }
+}

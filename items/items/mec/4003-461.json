@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "25mm Heavy Duty D Ring"
+  ],
+  "description": "Heavy-duty nylon D-ring. Use with 25mm webbing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815560622110/4003461-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815560622110/4003461-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DuraFlex 25mm Heavy Duty D Ring",
+  "product_code": "4003-461",
+  "source_url": "https://www.mec.ca/en/product/4003-461/25mm-Heavy-Duty-D-Ring",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "3g"
+    ]
+  }
+}

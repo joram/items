@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child clothing",
+    "Toddler and child swimwear",
+    "Toddler and child boardshorts",
+    "Oliver Swim Shorts"
+  ],
+  "description": "These stretchy and durable swim shorts are up for dinghy floats, sandcastle building and splashing around in the shallows. Flatlock seams prevent rubbing. Built-in UPF 50+ adds sun protection.Nylon elastane fabric blend is durable, stretchy and quick-drying.Elastic waistband for a secure fit.Flatlock stitching is comfortable against the skin.UPF 50+ sun protection.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336848414/5064032-ORD01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336979486/5064032-ORD01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161337208862/5064032-ORD01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336848414/5064032-ORD01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336979486/5064032-ORD01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161337208862/5064032-ORD01-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336848414/5064032-ORD01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336979486/5064032-ORD01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161337208862/5064032-ORD01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336848414/5064032-ORD01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336979486/5064032-ORD01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161337208862/5064032-ORD01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Oliver Swim Shorts - Boys' - Children",
+  "product_code": "5064-032",
+  "source_url": "https://www.mec.ca/en/product/5064-032/Oliver-Swim-Shorts",
+  "tech_specs": {
+    "Fabric content": [
+      "82% nylon",
+      "18% elastane"
+    ],
+    "Ideal for": [
+      "Beach",
+      "Watersports"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

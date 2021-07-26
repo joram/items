@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Hike Ultra Light T2 Coolmax Performance Boot"
+  ],
+  "description": "Stay cool without sacrificing comfort. Highly vented, ultralight fabric lets your piggies breathe. Targeted anti-shock cushioning stands up to rough trails all summer long.Made of Coolmax breathable, moisture wicking polyester, nylon, and elastane to keep your feet cool and dry.Performance fit is sleek and supportive from foot to calf.Flat toe seam gives added comfort.T2 anti-shock cushioning offers next level impact protection.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029608243230/5063072-GRY41.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030228082718/5063072-GRY41-ALT-HEELTOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030229098526/5063072-GRY41-ALT-TEXTURE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029608243230/5063072-GRY41.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030228082718/5063072-GRY41-ALT-HEELTOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030229098526/5063072-GRY41-ALT-TEXTURE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029608243230/5063072-GRY41.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030228082718/5063072-GRY41-ALT-HEELTOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030229098526/5063072-GRY41-ALT-TEXTURE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029608243230/5063072-GRY41.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030228082718/5063072-GRY41-ALT-HEELTOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030229098526/5063072-GRY41-ALT-TEXTURE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Bridgedale Hike Ultra Light T2 Coolmax Performance Boot - Men's",
+  "product_code": "5063-072",
+  "source_url": "https://www.mec.ca/en/product/5063-072/Hike-Ultra-Light-T2-Coolmax-Performance-Boot",
+  "tech_specs": {
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Fabric content": [
+      "43% polyester",
+      "55% nylon",
+      "2% elastane"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Backpacking",
+      "Day hiking",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "South Africa"
+    ]
+  }
+}

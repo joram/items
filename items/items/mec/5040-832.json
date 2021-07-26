@@ -1,0 +1,93 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Camp stoves and grills",
+    "Backcountry stoves",
+    "Liquid fuel and white gas stoves",
+    "Polaris Stove"
+  ],
+  "description": "Great for long road trips where white gas isn\u2019t always available, this stove can burn almost anything. When you can\u2019t find white gas you can substitute kerosene, diesel, aviation fuel or LPG (butane/propane mix or isobutane) canisters all without modifying your stove. Integrated magnetic cleaning needle ensures a steady flow of fuel, even on heavier, dirtier fuel types. The quick priming burner requires less preheating to save you fuel. In the winter, use the 4-season mode when using LPG to increase the heat output and reduce boiling time.Burns LPG canisters as well as liquid white gas, kerosene, diesel and aviation fuel.Integrated magnetic needle cleans the jet.Self-purging Flipstop pump clears the burner of fuel and depressurizes the fuel bottle.Quick priming burner.4-season mode when used with LPG canisters.Burns up to 105 minutes with 230g LPG canister.Burns up to 100 minutes with 400ml white gas.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812638994462/5040832-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812639223838/5040832-NOC02-ALT-BURNING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812639354910/5040832-NOC02-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812639387678/5040832-NOC02-ALT-GAS-HOSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812638994462/5040832-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812639223838/5040832-NOC02-ALT-BURNING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812639354910/5040832-NOC02-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812639387678/5040832-NOC02-ALT-GAS-HOSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812638994462/5040832-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812639223838/5040832-NOC02-ALT-BURNING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812639354910/5040832-NOC02-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812639387678/5040832-NOC02-ALT-GAS-HOSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812638994462/5040832-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812639223838/5040832-NOC02-ALT-BURNING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812639354910/5040832-NOC02-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812639387678/5040832-NOC02-ALT-GAS-HOSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Optimus Polaris Stove",
+  "product_code": "5040-832",
+  "source_url": "https://www.mec.ca/en/product/5040-832/Polaris-Stove",
+  "tech_specs": {
+    "Boil time\n\nThe average time it takes to boil 1L of water. Wind, air temperature and elevation will affect boil time in the field.": [
+      "3-4\u00a0min"
+    ],
+    "Burner components": [
+      "Brass",
+      "Stainless steel",
+      "Aluminum"
+    ],
+    "Dimensions": [
+      "14\u00a0x\u00a06.5\u00a0x\u00a08cm"
+    ],
+    "Fuel\n\nStoves are designed to burn specific fuels. All stoves should only be used with recommended fuels to prevent damage.": [
+      "White gas",
+      "LPG",
+      "Kerosene",
+      "Diesel",
+      "Aviation fuel",
+      "Gasoline"
+    ],
+    "Fuel pump\n\nLiquid fuel stoves require a fuel pump to pressurize the fuel tank.": [
+      "Yes"
+    ],
+    "Heat reflector\n\nHeat reflectors are placed under the burner and reflect heat back up towards the cooking pot. This helps save fuel and speed cooking time.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Canoe tripping",
+      "Kayak touring"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output\n\nThe output of any heat generating device is shown in BTUs (British Thermal Units) which measure the amount of heat energy needed to raise the temperature of 1lb. of water by 1\u00b0F.": [
+      "11267BTU"
+    ],
+    "Piezo ignition": [
+      "No"
+    ],
+    "Pot included": [
+      "No"
+    ],
+    "Simmers": [
+      "Yes"
+    ],
+    "Weight": [
+      "475g"
+    ],
+    "Windscreen": [
+      "Yes"
+    ]
+  }
+}

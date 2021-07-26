@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Dog gear",
+    "Bivy Bowl"
+  ],
+  "description": "When there are no streams, puddles, or willing hands, the Ruff Wear Bivy Bowl helps keep your dog hydrated. Light enough to carry on the trail, it also collapses so it can be straped to your pack or tucked inside your dog's panniers.Stable conical shape works well for eating or drinking.Welded design keeps the weight down, while staying watertight.Holds up to 1.5L.15cm diameter for easy access to contentsReflective trim helps prevent low-light spillage.Hang loop works well for air-drying or clipping to a pack.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870951518238/5053020-BL205.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872836759582/5053020-BL205-ALT-COLLAPSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872837152798/5053020-BL205-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870951518238/5053020-BL205.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872836759582/5053020-BL205-ALT-COLLAPSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872837152798/5053020-BL205-ALT-FLAT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870951518238/5053020-BL205.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872836759582/5053020-BL205-ALT-COLLAPSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872837152798/5053020-BL205-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870951518238/5053020-BL205.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872836759582/5053020-BL205-ALT-COLLAPSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872837152798/5053020-BL205-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ruffwear Bivy Bowl",
+  "product_code": "5053-020",
+  "source_url": "https://www.mec.ca/en/product/5053-020/Bivy-Bowl",
+  "tech_specs": {
+    "Ideal for": [
+      "Trail running",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "84g"
+    ]
+  }
+}

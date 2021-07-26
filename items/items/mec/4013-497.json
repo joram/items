@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Field guides",
+    "Geology",
+    "Handbook of the Canadian Rockies"
+  ],
+  "description": "No need to tote a complete library on your explorations of the Canadian Rockies. This pocket-sized book covers plants, mammals, birds, fish, insects, geology, weather, history, hiking, biking, climbing, skiing, and boating from Waterton-Glacier to the Yukon. Contains over 1000 colour illustrations.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815706177566/4013497-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815706177566/4013497-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Handbook of the Canadian Rockies",
+  "product_code": "4013-497",
+  "source_url": "https://www.mec.ca/en/product/4013-497/Handbook-of-the-Canadian-Rockies",
+  "tech_specs": {
+    "Author": [
+      "Ben Gadd"
+    ],
+    "ISBN": [
+      "9780969263111"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Illustrator": [
+      "Matthew Wheeler"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "831"
+    ],
+    "Published": [
+      "1995"
+    ],
+    "Regionality": [
+      "Rockies"
+    ]
+  }
+}

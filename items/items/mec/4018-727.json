@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Edge tuning tools",
+    "Gum Stone (Soft)"
+  ],
+  "description": "Soft sharpening stone for prepping and de-tuning ski tips and tails.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817172906014/4018727-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817172906014/4018727-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kuu Gum Stone (Soft)",
+  "product_code": "4018-727",
+  "source_url": "https://www.mec.ca/en/product/4018-727/Gum-Stone-%28Soft%29",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Off-track touring",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Mexico"
+    ],
+    "Weight": [
+      "35g"
+    ]
+  }
+}

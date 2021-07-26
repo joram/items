@@ -1,0 +1,70 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Snacks",
+    "Tangerine Tango Breath Mints"
+  ],
+  "description": "A naturally flavoured breath mint that packs a punch and has an ingredient list you can pronounce.Resealable bag to store mints for the next outing.Bag contains 20 mints.Non-GMO, vegan and gluten friendly.Aspartame-free.Ingredients: xylitol, maize dextrin (fiber), citric acid, natural tangerine flavouring.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185906556958/6013857-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185906556958/6013857-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pur Mint Tangerine Tango Breath Mints",
+  "product_code": "6013-857",
+  "source_url": "https://www.mec.ca/en/product/6013-857/Tangerine-Tango-Breath-Mints",
+  "tech_specs": {
+    "Calories per serving": [
+      "3Cal"
+    ],
+    "Carbohydrates": [
+      "1.1g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Switzerland"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Protein": [
+      "0g"
+    ],
+    "Serving size": [
+      "1 piece"
+    ],
+    "Servings": [
+      "20"
+    ],
+    "Sodium": [
+      "0mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "0g"
+    ],
+    "Total fat": [
+      "0g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ]
+  }
+}

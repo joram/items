@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Mugs, cups and dishes",
+    "Camping drinkware",
+    "Travel mugs",
+    "Rambler Jr. 12 oz. Kids Bottle"
+  ],
+  "description": "The same burly design as the rest of the Rambler series, with a sippy straw lid for easy hydrating at family campouts.Made of double-wall insulated stainless steel.Leak-resistant Straw Cap flips open for easy sipping.Fits in most bottle pockets: 7.6 x 21cm.Not designed for hot or carbonated beverages.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9059070509086/6008538-SCF09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9059084697630/6008538-NOCLR-ALT-DIMENSIONS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9059070509086/6008538-SCF09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9059084697630/6008538-NOCLR-ALT-DIMENSIONS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9059070509086/6008538-SCF09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9059084697630/6008538-NOCLR-ALT-DIMENSIONS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9059070509086/6008538-SCF09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9059084697630/6008538-NOCLR-ALT-DIMENSIONS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Yeti Rambler Jr. 12 oz. Kids Bottle",
+  "product_code": "6008-538",
+  "source_url": "https://www.mec.ca/en/product/6008-538/Rambler-Jr-12-oz-Kids-Bottle",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Travel"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lid type": [
+      "Screw-top w/loop",
+      "Drink-through top"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Volume": [
+      "355ml"
+    ],
+    "Water filter compatible": [
+      "No"
+    ]
+  }
+}

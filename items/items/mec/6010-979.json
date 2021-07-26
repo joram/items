@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Pearl Toque"
+  ],
+  "description": "A chill toque for chilly days.Soft fuzzy nylon with a ribbed cuff.Tall design can be squished down or worn high.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131583930398/6010979-NUT00-ALt-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600871454/6010979-NUT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600576542/6010979-DSR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600347166/6010979-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131601035294/6010979-OFW03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131583930398/6010979-NUT00-ALt-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600871454/6010979-NUT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600576542/6010979-DSR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600347166/6010979-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131601035294/6010979-OFW03.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131583930398/6010979-NUT00-ALt-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600871454/6010979-NUT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600576542/6010979-DSR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600347166/6010979-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131601035294/6010979-OFW03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131583930398/6010979-NUT00-ALt-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600871454/6010979-NUT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600576542/6010979-DSR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131600347166/6010979-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131601035294/6010979-OFW03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coal Pearl Toque - Women's",
+  "product_code": "6010-979",
+  "source_url": "https://www.mec.ca/en/product/6010-979/Pearl-Toque",
+  "tech_specs": {
+    "Fabric content": [
+      "100% nylon"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

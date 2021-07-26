@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "L'Espagnol pour mieux voyager en Amerique lat"
+  ],
+  "description": "This conversation guide is more practical than a dictionary. Designed for travel in Central and South America, it contains thousands of words and phrases grouped by themes. Phonetic indications for proper pronunciation. French and Spanish.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815602073630/5019768-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815602073630/5019768-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses L'Espagnol pour mieux voyager en Amerique latine",
+  "product_code": "5019-768",
+  "source_url": "https://www.mec.ca/en/product/5019-768/L%27Espagnol-pour-mieux-voyager-en-Amerique-lat",
+  "tech_specs": {
+    "Author": [
+      "Collectif"
+    ],
+    "Edition": [
+      "4th"
+    ],
+    "ISBN": [
+      "9782894645314"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2016"
+    ]
+  }
+}

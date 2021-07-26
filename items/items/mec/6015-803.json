@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling tops",
+    "Cycling jerseys",
+    "Short sleeve jerseys",
+    "Classic Jersey"
+  ],
+  "description": "This jersey brings a sleek aesthetic to your riding kit. Made of soft wicking fabric, it's perfect for cruel climbs and pounding sprints.Made of soft fast-drying polyester for moisture management.Raglan sleeves for full range of motion.Full-length front zipper.3 drop-in back pockets.BioViz\u00ae reflective details for enhanced visibility.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199330164766/6015803-BED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129067550/6015803-BED00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199330164766/6015803-BED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129067550/6015803-BED00-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199330164766/6015803-BED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129067550/6015803-BED00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199330164766/6015803-BED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129067550/6015803-BED00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pearl Izumi Classic Jersey - Women's",
+  "product_code": "6015-803",
+  "source_url": "https://www.mec.ca/en/product/6015-803/Classic-Jersey",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Fabric content": [
+      "100% recycled polyester"
+    ],
+    "Ideal for": [
+      "Cycling",
+      "Road cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "3 back drop-in"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

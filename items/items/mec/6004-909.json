@@ -1,0 +1,96 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Mandarin Beef and Rice"
+  ],
+  "description": "The bright sweetness of orange finishes every bite of this satisfying meal. Loaded with pieces of tender beef, vegetables and toasted, slivered almonds, one bite of Happy Yak\u2019s Mandarin Beef and Rice and you will understand why this is one their signature dishes.Ingredients: rice, freeze-dried beef (beef, onion, spices), orange sauce [glucose solids, hydrolysed corn protein, potato starch, sugar, corn starch, tapioca starch, caramel (sulphites), yeast extract, brown sugar, onion powder, garlic powder, salt, tomato powder, spices, citric acid, dried orange zest, sodium citrate, artificial flavour, Arabic gum, colour], dried mandarin oranges, toasted slivered almonds, freeze-dried vegetables (green bean, corn, red bell pepper, pea, broccoli, carrot, water chestnut, mushroom), dried onion flakes.May contain: peanuts, sesame, egg, milk, fish, sea food, soy, wheat and mustard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319212574/6004909-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035443994654/6004909-NOC02-ALT-PREPARED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319212574/6004909-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035443994654/6004909-NOC02-ALT-PREPARED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319212574/6004909-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035443994654/6004909-NOC02-ALT-PREPARED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319212574/6004909-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035443994654/6004909-NOC02-ALT-PREPARED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Mandarin Beef and Rice",
+  "product_code": "6004-909",
+  "source_url": "https://www.mec.ca/en/product/6004-909/Mandarin-Beef-and-Rice",
+  "tech_specs": {
+    "Calories per serving": [
+      "680Cal"
+    ],
+    "Carbohydrates": [
+      "108g"
+    ],
+    "Cholesterol": [
+      "60mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "No"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "3g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "34g"
+    ],
+    "Saturated fat": [
+      "3g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "620mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "18g"
+    ],
+    "Total fat": [
+      "12g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ],
+    "Weight": [
+      "170g"
+    ]
+  }
+}

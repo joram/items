@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "HMS Strike FG Triple Locking Carabiner"
+  ],
+  "description": "A compact locker with an integrated spring to keep it from twisting or shifting as you use it.Integrated spring bar holds carabiner in place when belaying to prevent cross loading.Keylock closure system for easier handling when clipping and unclipping.H-profile construction reduces weight while maintaining strength.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8975750365214/5052488-OAS03.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8975750365214/5052488-OAS03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Edelrid HMS Strike FG Triple Locking Carabiner",
+  "product_code": "5052-488",
+  "source_url": "https://www.mec.ca/en/product/5052-488/HMS-Strike-FG-Triple-Locking-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.1cm"
+    ],
+    "Gate type": [
+      "Straight"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Auto-locking"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "22kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "7kN"
+    ],
+    "Three sigma tested": [
+      "No"
+    ],
+    "Weight": [
+      "70g"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Tablecloth"
+  ],
+  "description": "Eat and cook on a clean surface. Sized to cover a picnic table, it folds up small to fit in your camping bin or picnic basket.Made of easy-to-clean polyethylene.Sewn-in edges prevent tearing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191801061406/6013999-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191799193630/6013999-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191801061406/6013999-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191799193630/6013999-NOC02-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191801061406/6013999-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191799193630/6013999-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191801061406/6013999-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191799193630/6013999-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Tablecloth",
+  "product_code": "6013-999",
+  "source_url": "https://www.mec.ca/en/product/6013-999/Tablecloth",
+  "tech_specs": {
+    "Dimensions": [
+      "183\u00a0x\u00a0137cm"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Polyethylene"
+    ]
+  }
+}

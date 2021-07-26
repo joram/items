@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "Pearlock Screwgate Carabiner"
+  ],
+  "description": "A large HMS carabiner, perfect for belaying with 2 ropes or using with complex anchors. The notchless nose design will not get caught on webbing or bolts.Hot-forged construction for high strength-to-weight.Manual screwgate is operable with one hand.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167356919838/6013937-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167356919838/6013937-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Pearlock Screwgate Carabiner",
+  "product_code": "6013-937",
+  "source_url": "https://www.mec.ca/en/product/6013-937/Pearlock-Screwgate-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.2cm"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Snow and ice climbing",
+      "Indoor climbing"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Screwgate"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "23kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "8kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "76g"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Eating utensils and cutlery sets",
+    "GoBites Quattro"
+  ],
+  "description": "A complete personal utensil set at a very civilized weight and bulk. Elegant touches include a double ended toothpick and a pair of travel chopsticks. Everything fits into a thin, light case to stay clean and organized.Deep fork tines spear food or twirl noodles.Tapered splitter tines on sides cut food efficiently.Easy-scrape spoon profile gets the last mouthfuls.Long toothpick has a wedge at one end and a point at the other.Travel chopsticks give a variety of eating options.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000078966814/5064184-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000386887710/5064184-BL000-ALT-INHANDCHOPSTICKS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000387641374/5064184-BL000-ALT-SET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000078966814/5064184-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000386887710/5064184-BL000-ALT-INHANDCHOPSTICKS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000387641374/5064184-BL000-ALT-SET.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000078966814/5064184-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000386887710/5064184-BL000-ALT-INHANDCHOPSTICKS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000387641374/5064184-BL000-ALT-SET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000078966814/5064184-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000386887710/5064184-BL000-ALT-INHANDCHOPSTICKS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000387641374/5064184-BL000-ALT-SET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Humangear GoBites Quattro",
+  "product_code": "5064-184",
+  "source_url": "https://www.mec.ca/en/product/5064-184/GoBites-Quattro",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Heat resistant": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Length": [
+      "17.8cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Nylon"
+    ],
+    "Packed length": [
+      "21cm"
+    ],
+    "Weight": [
+      "84g"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Ontario 7e"
+  ],
+  "description": "Stay in step with cosmopolitan Toronto, explore Ottawa's great national museums, be amazed by the stunning Niagara Falls, get away to the beautiful Great Lakes and Thousand Islands, relax on the beaches of the Bruce Peninsula, and enjoy the quiet countryside of captivating Manitoulin Island. This guide provides all the information you need to plan your visit to Ontario. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957936893982/5061224-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957936893982/5061224-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses Ontario 7e",
+  "product_code": "5061-224",
+  "source_url": "https://www.mec.ca/en/product/5061-224/Ontario-7e",
+  "tech_specs": {
+    "Edition": [
+      "7th"
+    ],
+    "ISBN": [
+      "9782894647493"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "288"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "Ontario"
+    ]
+  }
+}

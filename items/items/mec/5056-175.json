@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike bags and trailers",
+    "Bike trailers",
+    "Trailers and accessories",
+    "Bike trailer accessories",
+    "Maxle/Trek 12mm Thru Axle Adapter"
+  ],
+  "description": "This adapter allows you to use your Thule trailer with your Maxle/Trek 12mm axle bikes.167-192mm M12 x 1.75.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924642934814/5056175-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924642934814/5056175-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Thule Maxle/Trek 12mm Thru Axle Adapter",
+  "product_code": "5056-175",
+  "source_url": "https://www.mec.ca/en/product/5056-175/Maxle-Trek-12mm-Thru-Axle-Adapter",
+  "tech_specs": {
+    "Ideal for": [
+      "Urban cycling",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

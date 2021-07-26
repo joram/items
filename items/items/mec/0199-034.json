@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Emergency and survival gear",
+    "Emergency blankets and bivies",
+    "Emergency Blanket"
+  ],
+  "description": "This emergency blanket fits into a shirt or pants pocket. It could be carried as a shelter component of the \u201csurvival essentials\u201d that Search and Rescue organizations recommend you carry, even on dayhikes. The metallized polyester film blocks wind and water, and reflects heat back to the body.Aluminized non-stretch polyester film.Stays flexible in freezing temperatures.Unfolded size of 135 x 210cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810042687518/0199034-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810042687518/0199034-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Emergency Blanket",
+  "product_code": "0199-034",
+  "source_url": "https://www.mec.ca/en/product/0199-034/Emergency-Blanket",
+  "tech_specs": {
+    "Dimensions": [
+      "2.10\u00a0x\u00a01.35m"
+    ],
+    "Fabric": [
+      "Polyester"
+    ],
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Mexico"
+    ],
+    "Stuff sack": [
+      "No"
+    ],
+    "Weight": [
+      "55g"
+    ]
+  }
+}

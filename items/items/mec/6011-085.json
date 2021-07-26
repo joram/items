@@ -1,0 +1,111 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike computers",
+    "Wireless bike computers",
+    "Velo Wireless Bike Computer"
+  ],
+  "description": "For those who are new world of cycling computers, or only need the basics, but still want a clean wireless set-up, this little computer will tell you a lot about how you ride. Cat Eye\u2019s Velo Wireless computer sticks to the essentials, keeping you informed of how fast you\u2019re actually going, how far that ride was and much more. The wireless installation doesn\u2019t interfere with your bike\u2019s clean lines.Wireless set-up.Current speed.Maximum speed.Average speed.Pace arrow shows if current speed is below or above the average speed.Calorie estimation.Trip distance.Total distance.Elapsed time.Clock.Zap strap mount fits all handlebars.Simple tire size input makes installation easy.Coin cell batteries in the computer and sensor, computer lasts around 1 year with 1 hour a day of use, sensor lasts for approximately 10,000km of riding.Easy to use 1-button controls.Large displayDimensions: 56\uff5838\uff5817mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100925796382/6011085-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100925796382/6011085-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Cat Eye Velo Wireless Bike Computer",
+  "product_code": "6011-085",
+  "source_url": "https://www.mec.ca/en/product/6011-085/Velo-Wireless-Bike-Computer",
+  "tech_specs": {
+    "Alarm": [
+      "No"
+    ],
+    "Altimeter": [
+      "No"
+    ],
+    "Auto sleep\n\nAutomatically switches to sleep mode to preserve battery.": [
+      "Yes"
+    ],
+    "Auto start/stop\n\nAutomatically starts tracking data when riding, and stops tracking data when stopped.": [
+      "Yes"
+    ],
+    "Average speed": [
+      "Yes"
+    ],
+    "Batteries": [
+      "2 lithium CR2032 (included)"
+    ],
+    "Cadence\n\nRevolutions of crankset per minute.": [
+      "No"
+    ],
+    "Clock": [
+      "Yes"
+    ],
+    "Countdown timer": [
+      "No"
+    ],
+    "Current speed": [
+      "Yes"
+    ],
+    "Heart rate monitor": [
+      "No"
+    ],
+    "Ideal for": [
+      "Sport road cycling",
+      "Cycle commuting",
+      "Cycle touring"
+    ],
+    "Illumination": [
+      "No"
+    ],
+    "Included mounts": [
+      "Handlebar mount"
+    ],
+    "Low battery warning": [
+      "Yes"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Maximum speed": [
+      "Yes"
+    ],
+    "Oversized handlebar mount": [
+      "Yes"
+    ],
+    "Speed comparator\n\nIndicates pace relative to average speed.": [
+      "No"
+    ],
+    "Speed tendency\n\nIndicates whether the rider is accelerating or decelerating.": [
+      "No"
+    ],
+    "Stopwatch": [
+      "Yes"
+    ],
+    "Temperature": [
+      "No"
+    ],
+    "Time trial timer": [
+      "No"
+    ],
+    "Total odometer": [
+      "Yes"
+    ],
+    "Transmitting range\n\nMaximum distance between sensor and computer.": [
+      "70cm"
+    ],
+    "Trip odometer": [
+      "Yes"
+    ],
+    "Two bike compatibility\n\nCan be set up for two separate bikes.": [
+      "No"
+    ],
+    "Type": [
+      "wireless"
+    ]
+  }
+}

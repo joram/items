@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike locks",
+    "U-locks",
+    "Bordo Ugrip 5700 SH Folding Lock"
+  ],
+  "description": "Wrap this compact lock around trees, posts or fences where a U-lock won't work. It unfurls to a length of 80cm to fit around big or oddly shaped objects.5mm thick hardened steel bars are coated with soft uGrip coating.Bars and body are made of specially hardened steel.Link construction with special rivets allows for compact folding.Key can stay in the lock during transport and does not interfere with pedaling.Frame attachment with velcro or bottle holder screwsIncludes 2 keys.Abus security rating of 7/15.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187442130974/6015977-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187442130974/6015977-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Abus Bordo Ugrip 5700 SH Folding Lock",
+  "product_code": "6015-977",
+  "source_url": "https://www.mec.ca/en/product/6015-977/Bordo-Ugrip-5700-SH-Folding-Lock",
+  "tech_specs": {
+    "Dimensions": [
+      "80cm"
+    ],
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Locking mechanism": [
+      "Key"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Material": [
+      "Hardened steel"
+    ],
+    "Mounting bracket": [
+      "Yes"
+    ],
+    "Number of keys": [
+      "2"
+    ],
+    "Type": [
+      "Folding lock"
+    ],
+    "Weight": [
+      "830g"
+    ]
+  }
+}

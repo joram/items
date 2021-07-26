@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Anti-chafing gels and lotions",
+    "Original Anti-Chafe Cream"
+  ],
+  "description": "Keep the burn in your muscles, and only in your muscles. Chamois Butt\u2019r\u2019s original formula prevents chafing and provides instant relief for chafed, irritated skin. Not just for cycling, this anti-chafing soothes and lubricates skin anywhere friction is an issue.No parabens, phthalates, gluten or artificial fragrances.Soothes irritated, chafed skin.Won't stain clothing or skin.Water soluble formula rinses off skin and out of clothing easily.Ingredients: aqua/water/eau, paraffinum liquidum/mineral oil/huile min\u00e9rale, glyceryl stearate, cetearyl alcohol, stearic acid, glycerin, lanolin, peg-100 stearate, diazolidinyl urea, iodopropynyl butylcarbamate, cetyl hydroxyethyl-cellulose, potassiumsorbate, disodium edta, aloe barbadensis (aloe vera) leaf juice, tocopheryl acetate, zea mays (corn) oil, retinyl palmitate and cholecalciferol.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089839693854/6008357-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089839693854/6008357-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Chamois Butt'r Original Anti-Chafe Cream",
+  "product_code": "6008-357",
+  "source_url": "https://www.mec.ca/en/product/6008-357/Original-Anti-Chafe-Cream",
+  "tech_specs": {
+    "Ideal for": [
+      "Cross-country riding",
+      "Sport road cycling",
+      "Performance and race road cycling",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

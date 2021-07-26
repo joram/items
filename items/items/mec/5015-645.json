@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fuel",
+    "Lighter Fuel 355ml"
+  ],
+  "description": "Use this fuel to power such things as lighters and Zippo Hand Warmers.Contains 355ml.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812633718814/5015645-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812633718814/5015645-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Zippo Lighter Fuel 355ml",
+  "product_code": "5015-645",
+  "source_url": "https://www.mec.ca/en/product/5015-645/Lighter-Fuel-355ml",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Shelf life (sealed)": [
+      "24mo"
+    ],
+    "Volume": [
+      "355ml"
+    ],
+    "Weight": [
+      "327g"
+    ]
+  }
+}

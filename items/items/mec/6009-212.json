@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax",
+    "Mach Alpine Speedwax 130g"
+  ],
+  "description": "General-purpose alpine glidewax. Though it may seem counter-intuitive, the alpine glidewaxes are a little softer than and less persistent than the Nordic versions.130g packages, each sold separately.Red -5\u00b0C to -9\u00b0C (universal).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9065750396958/6009212-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9065750396958/6009212-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kuu Mach Alpine Speedwax 130g",
+  "product_code": "6009-212",
+  "source_url": "https://www.mec.ca/en/product/6009-212/Mach-Alpine-Speedwax-130g",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Downhill skiing",
+      "Cross-country classic skiing"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "State": [
+      "Bar"
+    ],
+    "Temperature range": [
+      "-9/-5\u00b0C"
+    ],
+    "Type": [
+      "Glide"
+    ]
+  }
+}

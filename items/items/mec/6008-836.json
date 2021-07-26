@@ -1,0 +1,89 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Drinks",
+    "Energy and recovery drinks",
+    "Endurance Strawberry Lemonade Hydration Drink"
+  ],
+  "description": "Precise amounts of complete electrolytes and clean carbohydrates delivered with the refreshing tang of strawberry lemonade and an extra boost of energy care of organic caffeine. Nuun\u2019s Endurance line has been engineered for endurance athletes and those all-day suffer fests.  Providing a balanced ratio of ingredients that can be fully absorbed during long workouts, letting you focus on that next PR, not a growling tummy.Designed for workouts longer than 90 minutes.Flavoured with real dried fruit powder.Ingredients: cane sugar, dextrose, sodium citrate, citric acid, organic natural flavors, potassium citrate, potassium chloride, magnesium citrate, calcium citrate and organic caffeine.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9067072716830/6008836-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9067072716830/6008836-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nuun Endurance Strawberry Lemonade Hydration Drink",
+  "product_code": "6008-836",
+  "source_url": "https://www.mec.ca/en/product/6008-836/Endurance-Strawberry-Lemonade-Hydration-Drink",
+  "tech_specs": {
+    "Best consumed": [
+      "During exercise"
+    ],
+    "Caffeine": [
+      "25mg"
+    ],
+    "Calories per serving": [
+      "60Cal"
+    ],
+    "Carbohydrates": [
+      "16g"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Road cycling",
+      "Mountain biking",
+      "Fitness and training",
+      "Running"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Magnesium": [
+      "20mg"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Potassium": [
+      "200mg"
+    ],
+    "Protein": [
+      "0g"
+    ],
+    "Serving size": [
+      "1 scoop"
+    ],
+    "Servings": [
+      "16"
+    ],
+    "Sodium": [
+      "380mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "15g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "304g"
+    ]
+  }
+}

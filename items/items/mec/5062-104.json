@@ -1,0 +1,85 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth clothing",
+    "Youth t-shirts and tops",
+    "Youth short sleeved t-shirts",
+    "Short Sleeve Graphic T-Shirt"
+  ],
+  "description": "Forget a plain tee. Go for bright colours and bold graphics.Made of soft 100% cotton jersey.Screen-printed graphics.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167351087134/5062104-NFR04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343845406/5062104-NFR04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343878174/5062104-MEB04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343812638/5062104-BL484-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196120801310/5062104-NIB06-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196120637470/5062104-ILG01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196120604702/5062104-BK377-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350988830/5062104-MEB04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350857758/5062104-BL484.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197190709278/5062104-NIB06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197190643742/5062104-ILG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197190283294/5062104-BK377.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167351087134/5062104-NFR04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343845406/5062104-NFR04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343878174/5062104-MEB04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343812638/5062104-BL484-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196120801310/5062104-NIB06-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196120637470/5062104-ILG01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196120604702/5062104-BK377-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350988830/5062104-MEB04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350857758/5062104-BL484.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197190709278/5062104-NIB06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197190643742/5062104-ILG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197190283294/5062104-BK377.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167351087134/5062104-NFR04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343845406/5062104-NFR04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343878174/5062104-MEB04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343812638/5062104-BL484-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196120801310/5062104-NIB06-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196120637470/5062104-ILG01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196120604702/5062104-BK377-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350988830/5062104-MEB04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350857758/5062104-BL484.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197190709278/5062104-NIB06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197190643742/5062104-ILG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197190283294/5062104-BK377.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167351087134/5062104-NFR04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343845406/5062104-NFR04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343878174/5062104-MEB04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167343812638/5062104-BL484-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196120801310/5062104-NIB06-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196120637470/5062104-ILG01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196120604702/5062104-BK377-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350988830/5062104-MEB04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167350857758/5062104-BL484.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197190709278/5062104-NIB06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197190643742/5062104-ILG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197190283294/5062104-BK377.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Short Sleeve Graphic T-Shirt - Boys' - Youths",
+  "product_code": "5062-104",
+  "source_url": "https://www.mec.ca/en/product/5062-104/Short-Sleeve-Graphic-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "100% cotton"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "School"
+    ],
+    "Made in": [
+      "El Salvador"
+    ],
+    "Weight": [
+      "180g (Medium)"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Hoodies and sweaters",
+    "Sweaters",
+    "Cozy Up Sweatshirt"
+  ],
+  "description": "Move over, every other sweatshirt. Classic raglan style adds ease and layering options. The sublimely soft fabric is destined to put it at the top of your rotation in no time.Made from ultra-soft hemp blend French terry fabric.Natural odour reducing properties keep things fresh.Standard fit wears like an old fave.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content\n\n\n\n\n\n\n\n\n\n                      Preferred Lyocell",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077826846750/6000746-ATH03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168784392222/6000746-HTG00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168967696414/6000746-HTG00-ALT-ZFLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168784261150/6000746-HTG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077826846750/6000746-ATH03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168784392222/6000746-HTG00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168967696414/6000746-HTG00-ALT-ZFLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168784261150/6000746-HTG00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077826846750/6000746-ATH03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168784392222/6000746-HTG00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168967696414/6000746-HTG00-ALT-ZFLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168784261150/6000746-HTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077826846750/6000746-ATH03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168784392222/6000746-HTG00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168967696414/6000746-HTG00-ALT-ZFLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168784261150/6000746-HTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Cozy Up Sweatshirt - Women's",
+  "product_code": "6000-746",
+  "source_url": "https://www.mec.ca/en/product/6000-746/Cozy-Up-Sweatshirt",
+  "tech_specs": {
+    "Fabric content": [
+      "55% hemp",
+      "25% recycled polyester",
+      "20% Tencel Lyocell"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Product sustainability": [
+      "Recycled content",
+      "Preferred Lyocell"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

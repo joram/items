@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Tropical Ten T-Shirt"
+  ],
+  "description": "Soft breezy Ts are what sunny days are made for. Sporting a tropical graphic and made from a comfy fabric with sustainability in mind.Contains recycled polyester, preferred Lyocell and organic cotton.Regular fit offers no surprises, just comfort.Tentree\u2019s goal is to construct quality apparel and ensure that 10 trees are planted for every article of clothing sold.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content\n\n\n\n\n\n\n\n\n\n                      Preferred Lyocell\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187674849310/6012023-WHT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187674849310/6012023-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "tentree Tropical Ten T-Shirt - Women's",
+  "product_code": "6012-023",
+  "source_url": "https://www.mec.ca/en/product/6012-023/Tropical-Ten-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "45% recycled polyester",
+      "30% lyocell",
+      "25% organically grown cotton"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Product sustainability": [
+      "Organically grown content",
+      "Preferred Lyocell",
+      "Recycled content"
+    ]
+  }
+}

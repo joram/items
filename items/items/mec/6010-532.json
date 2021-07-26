@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Climbing brushes",
+    "Wooden It Be Nice Brush"
+  ],
+  "description": "When friction is key, this brush may be what you need for cleaning a crucial dimple. A larger surface area and denser bristles than the previous version means less scrubbing and more climbing.Durable Beech wood handle.Dense boar's hair bristles stand up to a lot of use.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081220136990/6010532-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081218203678/6010532-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081218236446/6010532-NOC02-ALT-BRISTLES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081220136990/6010532-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081218203678/6010532-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081218236446/6010532-NOC02-ALT-BRISTLES.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081220136990/6010532-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081218203678/6010532-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081218236446/6010532-NOC02-ALT-BRISTLES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081220136990/6010532-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081218203678/6010532-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081218236446/6010532-NOC02-ALT-BRISTLES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Flashed Wooden It Be Nice Brush",
+  "product_code": "6010-532",
+  "source_url": "https://www.mec.ca/en/product/6010-532/Wooden-It-Be-Nice-Brush",
+  "tech_specs": {
+    "Ideal for": [
+      "Bouldering",
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

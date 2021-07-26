@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Edge tuning tools",
+    "Beveling Guide with Clamp"
+  ],
+  "description": "A guide and clamp for bevelling the side edges of skis. Comes in three angles; check with your ski tuner for the angle used to sharpen your skis and match it with the correct tool.Three angles available: 88, 89 and 90 degrees.File not included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817174347806/5008974-NOC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817174347806/5008974-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kuu Beveling Guide with Clamp",
+  "product_code": "5008-974",
+  "source_url": "https://www.mec.ca/en/product/5008-974/Beveling-Guide-with-Clamp",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Off-track touring",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "200g (89 Degrees)"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Hiking sandals",
+    "Targhee III Open Toe Sandals"
+  ],
+  "description": "The classic Keen Targhee shoe has been pared down to a rugged sandal, ready to take on trails and rivers with airy feet. The aggressively lugged tread keeps you stable where ever the path takes you.Leather uppers are highly abrasion-resistant.3 hook-and-loop closures for a snug, comfortable fit.Quick-dry mesh lining.EVA footbeds and midsoles cradle and cushion your feet.Non-marking Keen.All-Terrain rubber with multi-directional lugs for traction at any angle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088616333342/6005889-BSM10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620822558/6005889-BSM10-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620855326/6005889-BSM10-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620953630/6005889-BSM10-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620888094/6005889-BSM10-ALT-TOESOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620920862/6005889-BSM10-ALT-TOPSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088616333342/6005889-BSM10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620822558/6005889-BSM10-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620855326/6005889-BSM10-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620953630/6005889-BSM10-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620888094/6005889-BSM10-ALT-TOESOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620920862/6005889-BSM10-ALT-TOPSIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088616333342/6005889-BSM10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620822558/6005889-BSM10-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620855326/6005889-BSM10-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620953630/6005889-BSM10-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620888094/6005889-BSM10-ALT-TOESOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620920862/6005889-BSM10-ALT-TOPSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088616333342/6005889-BSM10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620822558/6005889-BSM10-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620855326/6005889-BSM10-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620953630/6005889-BSM10-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620888094/6005889-BSM10-ALT-TOESOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620920862/6005889-BSM10-ALT-TOPSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Keen Targhee III Open Toe Sandals - Men's",
+  "product_code": "6005-889",
+  "source_url": "https://www.mec.ca/en/product/6005-889/Targhee-III-Open-Toe-Sandals",
+  "tech_specs": {
+    "Closure": [
+      "Hook-and-loop"
+    ],
+    "Footbed": [
+      "EVA"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Travel"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Upper material": [
+      "Leather"
+    ]
+  }
+}

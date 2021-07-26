@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Marine navigation",
+    "Compasses",
+    "MCB NH Compass"
+  ],
+  "description": "Combines precision with practicality, and it floats if you drop over the side of the canoe.Fixed declination correction scale.Jewelled bearing for long-term precision.Detachable snap-lock lanyard with whistle.Sighting hole and notch for accurate bearings.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039062990878/6005324-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039251767326/6005324-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039252062238/6005324-BK000-ALT-MIRROR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039062990878/6005324-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039251767326/6005324-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039252062238/6005324-BK000-ALT-MIRROR.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039062990878/6005324-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039251767326/6005324-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039252062238/6005324-BK000-ALT-MIRROR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039062990878/6005324-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039251767326/6005324-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9039252062238/6005324-BK000-ALT-MIRROR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Suunto MCB NH Compass",
+  "product_code": "6005-324",
+  "source_url": "https://www.mec.ca/en/product/6005-324/MCB-NH-Compass",
+  "tech_specs": {
+    "Adjustable declination\n\nSets the compass to indicate true north instead of magnetic north.": [
+      "No"
+    ],
+    "Clinometer\n\nMeasures angles of slope, elevation or inclination.": [
+      "No"
+    ],
+    "Dimensions": [
+      "6.8\u00a0x\u00a05.6cm"
+    ],
+    "Hemisphere\n\nThe earth's magnetic field varies considerably so most compasses are designed to work in the specific hemisphere zones for which they are being used. A global compass can be used anywhere.": [
+      "Northern Hemisphere"
+    ],
+    "Ideal for": [
+      "Emergency preparedness",
+      "Travel"
+    ],
+    "Luminous markings\n\nLuminous markings allow you to read your compass in dim light conditions.": [
+      "No"
+    ],
+    "Made in": [
+      "Finland"
+    ],
+    "Magnifying lens": [
+      "No"
+    ],
+    "Sighting mirror": [
+      "Yes"
+    ],
+    "Weight": [
+      "36g"
+    ]
+  }
+}

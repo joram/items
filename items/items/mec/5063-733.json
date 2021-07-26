@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Sun hats",
+    "Palm Beach Hat"
+  ],
+  "description": "With it's tropical vibe, this hat feels right at home beneath the palm trees. The polyester braid can be folded and packed for travel or beach vacations.Soft polyester braid fabric folds down easily for travel and has UPF 50+ sun protection.7cm brim shades your face and neck.Adjustable elastic lets you get the perfect fit.Wipe clean with a damp cloth, do not toss it in the wash.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020641935390/5063733-BGE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021476765726/5063733-BGE00-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021476831262/5063733-BGE00-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021477027870/5063733-BGE00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021477126174/5063733-BGE00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020641935390/5063733-BGE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021476765726/5063733-BGE00-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021476831262/5063733-BGE00-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021477027870/5063733-BGE00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021477126174/5063733-BGE00-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020641935390/5063733-BGE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021476765726/5063733-BGE00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021476831262/5063733-BGE00-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021477027870/5063733-BGE00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021477126174/5063733-BGE00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020641935390/5063733-BGE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021476765726/5063733-BGE00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021476831262/5063733-BGE00-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021477027870/5063733-BGE00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021477126174/5063733-BGE00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wallaroo Palm Beach Hat - Unisex",
+  "product_code": "5063-733",
+  "source_url": "https://www.mec.ca/en/product/5063-733/Palm-Beach-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

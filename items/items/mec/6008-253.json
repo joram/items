@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Sleeping pads",
+    "Sleeping pad accessories",
+    "NeoAir Micro Pump"
+  ],
+  "description": "Give your lungs a break and keep breath moisture out of your sleeping pad. Small enough to pack anywhere, this pump fills you NeoAir Pad in minutes.Inflates a regular sized pad in about 3 minutes.Deflates pads equipped with the WingLock\u2122 valve.Requires 2 AAA batteries (not included).Approximately 25 inflations per battery set.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082909491230/6008253-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921877534/6008253-NOC02-ALT-ONPAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921910302/6008253-NOC02-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921943070/6008253-NOC02-ALT-SIZECOMPARE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082909491230/6008253-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921877534/6008253-NOC02-ALT-ONPAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921910302/6008253-NOC02-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921943070/6008253-NOC02-ALT-SIZECOMPARE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082909491230/6008253-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921877534/6008253-NOC02-ALT-ONPAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921910302/6008253-NOC02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921943070/6008253-NOC02-ALT-SIZECOMPARE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082909491230/6008253-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921877534/6008253-NOC02-ALT-ONPAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921910302/6008253-NOC02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921943070/6008253-NOC02-ALT-SIZECOMPARE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Therm-a-Rest NeoAir Micro Pump",
+  "product_code": "6008-253",
+  "source_url": "https://www.mec.ca/en/product/6008-253/NeoAir-Micro-Pump",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Wheel and spoke tools",
+    "SW-7.2 Triple Spoke Key"
+  ],
+  "description": "One tool that covers 3 of the most common spoke nipple sizes. Add it to your home bike mechanic kit for years of service.Fits 3.23mm (0.127in.), 3.30mm (0.130in.) and 3.45mm (0.136in.) spoke nipples.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806581174302/5048794-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806581370910/5048794-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806581174302/5048794-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806581370910/5048794-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806581174302/5048794-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806581370910/5048794-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806581174302/5048794-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806581370910/5048794-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool SW-7.2 Triple Spoke Key",
+  "product_code": "5048-794",
+  "source_url": "https://www.mec.ca/en/product/5048-794/SW-7-2-Triple-Spoke-Key",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

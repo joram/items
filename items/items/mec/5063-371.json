@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling footwear",
+    "Cycling shoes",
+    "RP3 Cycling Shoes"
+  ],
+  "description": "Competition-grade fit housed in a cost-cutting package. The RP3 Cycling Shoes suit committed enthusiasts and club riders. Like shoes at double the price point, they have 2 offset straps and a fast-ratcheting buckle. They also deliver stellar comfort with a supple padded tongue (no hot spots) and an air intake system for a steady flow of cooling air.Durable synthetic leather and mesh upper provides breezy ventilation on hot days.2 offset hook-and-loop straps and ratchet buckle provide a sprint-ready fit.Dynalast provides a smooth and efficient upstroke.Stiff reinforced nylon sole aids power transfer on hard efforts.Compatible with 3-hole pedal systems.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994970173470/5063371-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994968829982/5063371-BK000-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994970173470/5063371-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994968829982/5063371-BK000-ALT-SOLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994970173470/5063371-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994968829982/5063371-BK000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994970173470/5063371-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994968829982/5063371-BK000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano RP3 Cycling Shoes - Unisex",
+  "product_code": "5063-371",
+  "source_url": "https://www.mec.ca/en/product/5063-371/RP3-Cycling-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Hook-and-loop",
+      "Ratchet buckle"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Outsole": [
+      "Nylon",
+      "Fibreglass"
+    ],
+    "Pedal compatibility": [
+      "3-hole clipless"
+    ],
+    "Upper material": [
+      "Synthetic leather",
+      "Mesh"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ],
+    "Weight": [
+      "570g (42)"
+    ]
+  }
+}

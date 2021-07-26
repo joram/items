@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill ski poles and baskets",
+    "Rebel Ski Poles"
+  ],
+  "description": "Grab these poles for your next run. The race grips keep them securely at your side while you're ripping all over the resort. Aluminum construction with sturdy steel tips let you turn with confidence. At an economical price, you can have your French fries, and eat them too!18mm diameter in 5083 aluminum.Durable polyurethane race grips with an adjustable system strap.Mini race basket allow snag free turns.Steel tips handle ice and compact snow.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9043084476446/6004246-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9043084476446/6004246-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Komperdell Rebel Ski Poles",
+  "product_code": "6004-246",
+  "source_url": "https://www.mec.ca/en/product/6004-246/Rebel-Ski-Poles",
+  "tech_specs": {
+    "Grip material": [
+      "Polyurethane"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Austria"
+    ],
+    "Pole material": [
+      "Aluminum"
+    ],
+    "Sold in pairs": [
+      "Yes"
+    ]
+  }
+}

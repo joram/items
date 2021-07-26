@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Accessory carabiners and key holders",
+    "DoohicKey Key Tool"
+  ],
+  "description": "The Doohickey won\u2019t replace a trusty pocket knife, but it will free a beer from the bottle.Made of stainless steel.Sized for a key chain or strap.Includes box cutter, bottle opener, wrench, ruler, Phillips and flat head screw drivers and a nail/staple remover.TSA friendly.Size is 67 x 18 x 6mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129049587742/6011849-SNL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129049587742/6011849-SNL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nite Ize DoohicKey Key Tool",
+  "product_code": "6011-849",
+  "source_url": "https://www.mec.ca/en/product/6011-849/DoohicKey-Key-Tool",
+  "tech_specs": {
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Serrated"
+    ],
+    "Bottle opener": [
+      "Yes"
+    ],
+    "Carabiner clip": [
+      "Yes"
+    ],
+    "Flathead (slot) screwdriver": [
+      "Yes"
+    ],
+    "Handle material": [
+      "Stainless steel"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Package opener": [
+      "Yes"
+    ],
+    "Phillips (cross) driver": [
+      "Yes"
+    ],
+    "Ruler": [
+      "Yes"
+    ],
+    "Weight": [
+      "11g"
+    ]
+  }
+}

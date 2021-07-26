@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Bike service parts",
+    "Helium Front Derailleur Hanger"
+  ],
+  "description": "A replacement front derailleur hanger for the 2013 and later models of the Ridley Helium.Ridley part number is FDCHSL4ZA003.Installation requires rivets (sold separately).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867866771486/5053341-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867866771486/5053341-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ridley Helium Front Derailleur Hanger",
+  "product_code": "5053-341",
+  "source_url": "https://www.mec.ca/en/product/5053-341/Helium-Front-Derailleur-Hanger",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

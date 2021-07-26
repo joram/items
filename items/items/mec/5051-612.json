@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike books and maps",
+    "Bike maps",
+    "Mount Seymour Trail Guide"
+  ],
+  "description": "The original guide to mountain biking on Mount Seymour! This hand crafted map was developed by lifelong locals and includes over 100 trails and descriptions of the five riding zones including the LSCR. The Seymour trail network is vast and varied with something for everyone. Detailed topographic information including recommend parking areas, 20m contours, water bodies, and transportation routes will help you find your way.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850817548318/5051612-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851105579038/5051612-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850817548318/5051612-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851105579038/5051612-NOC02-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850817548318/5051612-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851105579038/5051612-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850817548318/5051612-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851105579038/5051612-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mount Seymour Trail Guide",
+  "product_code": "5051-612",
+  "source_url": "https://www.mec.ca/en/product/5051-612/Mount-Seymour-Trail-Guide",
+  "tech_specs": {
+    "Edition": [
+      "12th"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2016"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Scale": [
+      "1:20,000"
+    ]
+  }
+}

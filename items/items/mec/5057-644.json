@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Trekking poles and accessories",
+    "Trekking pole baskets, tips and parts",
+    "Z-Pole Snow Baskets"
+  ],
+  "description": "These larger pole baskets provide flotation for travel over snowy surfaces.Fits Black Diamond\u2122 3-season Distance Series Z-Poles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018892091422/5057644-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018892091422/5057644-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Z-Pole Snow Baskets",
+  "product_code": "5057-644",
+  "source_url": "https://www.mec.ca/en/product/5057-644/Z-Pole-Snow-Baskets",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Day hiking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

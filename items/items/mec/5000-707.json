@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "50mm Dual Adjust Stealth Buckle"
+  ],
+  "description": "Dual adjust stealth buckle. 50mm.Male and female parts sold separately.Not compatible with some other buckles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815565275166/5000707-NOC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815565275166/5000707-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "National Molding 50mm Dual Adjust Stealth Buckle",
+  "product_code": "5000-707",
+  "source_url": "https://www.mec.ca/en/product/5000-707/50mm-Dual-Adjust-Stealth-Buckle",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

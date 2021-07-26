@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tires",
+    "Ikon 29\" 3C/EXO/TR Folding Tire"
+  ],
+  "description": "With a high-volume casing and fast-rolling tread design, the Ikon is for racers looking for a lightweight tire that performs in all conditions.3C Maxx Speed triple compound is forumulated to reduce rolling resistance and enhance traction and treadwear.EXO sidewall protection with woven material for increased abrasion and cut resistance.120 threads per inch.Tubeless ready.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806691962910/5041450-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806692159518/5041450-BK000-ALT-TREAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806691962910/5041450-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806692159518/5041450-BK000-ALT-TREAD.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806691962910/5041450-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806692159518/5041450-BK000-ALT-TREAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806691962910/5041450-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806692159518/5041450-BK000-ALT-TREAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Maxxis Ikon 29\" 3C/EXO/TR Folding Tire",
+  "product_code": "5041-450",
+  "source_url": "https://www.mec.ca/en/product/5041-450/Ikon-29%22-3C-EXO-TR-Folding-Tire",
+  "tech_specs": {
+    "Bead\n\nThe bead holds the tire onto the rim. Beads may be hoops of wire, or made of a flexible material which allows them to be folded compactly. Folding tires are easier to store or pack on trips.": [
+      "Folding"
+    ],
+    "ETRTO\n\nISO/ETRTO universal tire sizing system number for matching the correct tire to the rim.": [
+      "57-622 (2.20\")"
+    ],
+    "Ideal for": [
+      "Cross-country riding"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Recommended PSI\n\nInflating your tires over the recommended PSI (pounds per square inch) could cause your tube and/or tire to rupture.": [
+      "60psi (2.20\")"
+    ],
+    "TPI\n\nThreads per inch. Tires with a higher TPI tend to be more supple and lighter, with less rolling resistance, but are less durable.": [
+      "120"
+    ],
+    "Tire size": [
+      "29\u00a0x\u00a02.2in. (2.20\")",
+      "X  (2.35\")"
+    ],
+    "Tire type": [
+      "Tubeless"
+    ],
+    "Weight": [
+      "640g (2.20\")"
+    ],
+    "Wheel position": [
+      "Rear",
+      "Front"
+    ]
+  }
+}

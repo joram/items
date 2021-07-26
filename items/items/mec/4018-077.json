@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Mugs, cups and dishes",
+    "Bowls and plates",
+    "Alpine Plate"
+  ],
+  "description": "A simple 18-10 stainless steel plate. Standard plate shape for easy consumption of food.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812541739038/4018077-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812541739038/4018077-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Alpine Plate",
+  "product_code": "4018-077",
+  "source_url": "https://www.mec.ca/en/product/4018-077/Alpine-Plate",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Diameter": [
+      "19cm"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Weight": [
+      "126g"
+    ]
+  }
+}

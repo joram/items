@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Winter boots",
+    "Casual winter boots",
+    "Lennox Lace Waterproof Boots"
+  ],
+  "description": "These bold leather boots are ready for fall. Like a classic work boot, but with a makeover, the Lennox Lace has a versatile style and waterproof construction keeps your feet dry.Durable full-grain leather uppers wear well and look great.Outdry\u00ae teech bonds a waterproof-breathable membrane directly to the leather.Synthetic canvas lining wicks moisture.EVA footbed provides stability and all-day support.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129046900766/6010468-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835547166/6010468-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835514398/6010468-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835579934/6010468-BK000-ALT-DOUBLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835612702/6010468-BK000-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835645470/6010468-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129046900766/6010468-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835547166/6010468-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835514398/6010468-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835579934/6010468-BK000-ALT-DOUBLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835612702/6010468-BK000-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835645470/6010468-BK000-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129046900766/6010468-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835547166/6010468-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835514398/6010468-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835579934/6010468-BK000-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835612702/6010468-BK000-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835645470/6010468-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9129046900766/6010468-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835547166/6010468-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835514398/6010468-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835579934/6010468-BK000-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835612702/6010468-BK000-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128835645470/6010468-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sorel Lennox Lace Waterproof Boots - Women's",
+  "product_code": "6010-468",
+  "source_url": "https://www.mec.ca/en/product/6010-468/Lennox-Lace-Waterproof-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable insole": [
+      "No"
+    ],
+    "Upper material": [
+      "Full-grain leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ]
+  }
+}

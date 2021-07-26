@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Saddles and seat posts",
+    "Saddles",
+    "Donna Gel Flow Saddle"
+  ],
+  "description": "Thanks to a wider rear section, the Donna has a shape that perfectly matches the female anatomy and posture. With its streamlined shape and gel inserts, it's a high performance, comfort saddle that will let you crank when road riding or going off-road.Waterproof cover.Gel insert and anatomical cut-out for sweet comfort.Vibrations dampening ryslan and nylon base.Dimensions are 16 x 26cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806874611742/5029568-BK110.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806874710046/5029568-BK110-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806874611742/5029568-BK110.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806874710046/5029568-BK110-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806874611742/5029568-BK110.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806874710046/5029568-BK110-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806874611742/5029568-BK110.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806874710046/5029568-BK110-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Selle Italia Donna Gel Flow Saddle - Women's",
+  "product_code": "5029-568",
+  "source_url": "https://www.mec.ca/en/product/5029-568/Donna-Gel-Flow-Saddle",
+  "tech_specs": {
+    "Cover material": [
+      "Synthetic"
+    ],
+    "Dimensions": [
+      "26.2\u00a0x\u00a016cm"
+    ],
+    "Ideal for": [
+      "Mountain biking",
+      "Road cycling",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Rails": [
+      "Steel alloy"
+    ],
+    "Shell": [
+      "Nylon"
+    ],
+    "Weight": [
+      "330g"
+    ]
+  }
+}

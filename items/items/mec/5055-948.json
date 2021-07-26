@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Jackets",
+    "Insulated jackets",
+    "Down jackets",
+    "Down Sweater Vest"
+  ],
+  "description": "Powerful warmth in a light, packable layer, the Patagonia Down Vest is the modern standard for alpine missions and extreme weather anywhere. The weather-resistant outer fabric is extremely light and has a good amount of abrasion resistance. The Traceable down is third-party certified to be non-live plucked and supplied from a facility that does not practice force feeding. Quilted construction keeps the down in place and the clean design is roomy enough to accommodate base layers.Shell and lining are recycled polyester ripstop with a DWR finish to keep it water-resistant and windproof.Insulated with high-loft, premium, 800-fill-power traceable goose down.Sewn-through quilted construction.Full-length, lightweight Vislon zipper with internal storm flap and zipper garage.2 zippered hand pockets.Internal pocket has a carabiner clip and doubles as the jacket's stuff sack.Nylon-bound elastic armholes seal in warmth.Drawcord hem adjusts from inside the handwarmer pockets.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011101401118/5055948-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011101401118/5055948-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Down Sweater Vest - Men's",
+  "product_code": "5055-948",
+  "source_url": "https://www.mec.ca/en/product/5055-948/Down-Sweater-Vest",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Stuffs in own pocket"
+    ],
+    "Construction": [
+      "Sewn-through"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Face fabric": [
+      "20-denier polyester"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Backcountry skiing",
+      "Camping and hiking"
+    ],
+    "Insulation": [
+      "800 fill-power goose down"
+    ],
+    "Length": [
+      "Hip-length"
+    ],
+    "Lining/backer": [
+      "20-denier ripstop polyester"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 handwarmer",
+      "1 internal zippered"
+    ],
+    "Technology": [
+      "Traceable Down"
+    ],
+    "Type": [
+      "Insulated down",
+      "Mid-layer"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Water-resistant"
+    ],
+    "Weight": [
+      "278g (Large)"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

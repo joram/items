@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Rossland Range Backcountry Ski Map and Guide"
+  ],
+  "description": "With years of backcountry experience and local knowledge, CAA professionals, ACMG/UIFMG members, and GIS technicians have teamed together to create this guide for skiiers and snowboarders in the Rossland Range. Includes georeferenced route photographs, approach routes, avalanche terrain assessment scales and hut locations.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815850258462/5033228-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815850258462/5033228-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Reference Rossland Range Backcountry Ski Map and Guide",
+  "product_code": "5033-228",
+  "source_url": "https://www.mec.ca/en/product/5033-228/Rossland-Range-Backcountry-Ski-Map-and-Guide",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:25,000"
+    ]
+  }
+}

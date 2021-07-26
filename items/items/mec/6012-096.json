@@ -1,0 +1,90 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Hoodies and sweaters",
+    "Hoodies",
+    "Wayroute Pullover Hoodie"
+  ],
+  "description": "A warm fleece for powder days and shoulder-season evenings. Power Grid\u2122 fleece locks in your body heat without adding bulk, great by itself on cool days or with a puffy coat when it's cold.Polartec\u00ae Power Grid\u2122 fleece provides excellent warmth and retains lightness.3-piece hood with elastic edge to seal out drafts.Quarter-length zip.Plenty of secure pocket space.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166618296350/6012096-MBB12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627930142/6012096-MBB12-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166628192286/6012096-MBB12-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166628225054/6012096-MBB12-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166628290590/6012096-MBB12-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627307550/6012096-AGG09-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627667998/6012096-AGG09-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627700766/6012096-AGG09-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627602462/6012096-AGG09-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166618132510/6012096-AGG09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166618296350/6012096-MBB12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627930142/6012096-MBB12-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166628192286/6012096-MBB12-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166628225054/6012096-MBB12-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166628290590/6012096-MBB12-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627307550/6012096-AGG09-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627667998/6012096-AGG09-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627700766/6012096-AGG09-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627602462/6012096-AGG09-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166618132510/6012096-AGG09.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166618296350/6012096-MBB12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627930142/6012096-MBB12-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166628192286/6012096-MBB12-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166628225054/6012096-MBB12-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166628290590/6012096-MBB12-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627307550/6012096-AGG09-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627667998/6012096-AGG09-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627700766/6012096-AGG09-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627602462/6012096-AGG09-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166618132510/6012096-AGG09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166618296350/6012096-MBB12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627930142/6012096-MBB12-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166628192286/6012096-MBB12-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166628225054/6012096-MBB12-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166628290590/6012096-MBB12-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627307550/6012096-AGG09-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627667998/6012096-AGG09-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627700766/6012096-AGG09-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166627602462/6012096-AGG09-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166618132510/6012096-AGG09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Wayroute Pullover Hoodie - Men's",
+  "product_code": "6012-096",
+  "source_url": "https://www.mec.ca/en/product/6012-096/Wayroute-Pullover-Hoodie",
+  "tech_specs": {
+    "Fabric content": [
+      "95% polyester",
+      "5% elastane"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "216gsm"
+    ],
+    "Hood": [
+      "Fitted"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Backcountry skiing"
+    ],
+    "Made in": [
+      "Jordan"
+    ],
+    "Pockets": [
+      "2 handwarmer zippered",
+      "1 back zippered"
+    ],
+    "Type": [
+      "Fleece"
+    ],
+    "Weight": [
+      "360g (Medium)"
+    ]
+  }
+}

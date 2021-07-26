@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike lubricants and cleaners",
+    "Lubricants and grease",
+    "SAC-2 Super Carbon/Alloy AssemblyCompound 4oz"
+  ],
+  "description": "Increases friction between 2 slippery surfaces, yielding tighter grip.  Great for carbon, aluminum or steel seatposts, handlebars and stems.Note, grip aided by small bits of hard silicone, which  can cause cosmetic blemishing. Do not use on threaded parts or for bearing lubrication.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806568919070/5048689-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806569082910/5048689-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806568919070/5048689-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806569082910/5048689-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806568919070/5048689-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806569082910/5048689-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806568919070/5048689-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806569082910/5048689-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool SAC-2 Super Carbon/Alloy AssemblyCompound 4oz",
+  "product_code": "5048-689",
+  "source_url": "https://www.mec.ca/en/product/5048-689/SAC-2-Super-Carbon-Alloy-AssemblyCompound-4oz",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

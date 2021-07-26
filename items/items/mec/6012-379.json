@@ -1,0 +1,75 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard clothing",
+    "Cross-country ski jackets",
+    "ADV Storm Insulate Nordic Jacket"
+  ],
+  "description": "Hit your stride with this insulated, weather-resistant jacket. The highly wind-resistant front panel shields your core, while the breathable side panels wick sweat when you push the pace. Stretch woven fabric, articulated sleeves and a high collar are welcome additions when skiing in adverse weather.Wind- and water-resistant body and sleeves.Brushed side panels vent excess heat.40g polyester insulation on body and sleeves keep you warm when the temps drop.Elastic cuffs and bottom seal out drafts.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140722696222/6012379-TAP03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140722827294/6012379-TAP03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140723023902/6012379-TAP03-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140722696222/6012379-TAP03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140722827294/6012379-TAP03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140723023902/6012379-TAP03-ALT-FULL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140722696222/6012379-TAP03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140722827294/6012379-TAP03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140723023902/6012379-TAP03-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140722696222/6012379-TAP03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140722827294/6012379-TAP03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140723023902/6012379-TAP03-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Craft ADV Storm Insulate Nordic Jacket - Women's",
+  "product_code": "6012-379",
+  "source_url": "https://www.mec.ca/en/product/6012-379/ADV-Storm-Insulate-Nordic-Jacket",
+  "tech_specs": {
+    "Construction": [
+      "Quilted"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Cross-country skiing"
+    ],
+    "Insulation": [
+      "40g/sq. m polyester"
+    ],
+    "Length": [
+      "Hip-length"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 handwarmer zippered"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "Secondary fabric": [
+      "55% polyester",
+      "45% recycled polyester"
+    ],
+    "Type": [
+      "Wind shell",
+      "Insulated synthetic"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Water-resistant"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

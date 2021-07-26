@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fuel",
+    "Butane Fuel"
+  ],
+  "description": "High-performance fuel for use with the Eureka SPRK cooking systems.Each canister contains 227g of fuel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163024826398/6013269-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163024826398/6013269-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Eureka! Butane Fuel",
+  "product_code": "6013-269",
+  "source_url": "https://www.mec.ca/en/product/6013-269/Butane-Fuel",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ]
+  }
+}

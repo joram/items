@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Brakes, pads and rotors",
+    "Brake pads",
+    "Magura Louise/Clara 2000 Burly Brake Pads"
+  ],
+  "description": "Brake Authority's Burly compound is designed for all-mountain and enduro riding and lasts a remarkably long time.For Magura\u00ae Louise and Clara 2000 disc brake systems.Easy to control for progressive braking power.Ready to ride.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806823034910/5019656-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806823034910/5019656-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Brake Authority Magura Louise/Clara 2000 Burly Brake Pads",
+  "product_code": "5019-656",
+  "source_url": "https://www.mec.ca/en/product/5019-656/Magura-Louise-Clara-2000-Burly-Brake-Pads",
+  "tech_specs": {
+    "Ideal for": [
+      "Enduro",
+      "Trail riding"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Type": [
+      "Disc"
+    ],
+    "Weight": [
+      "25g"
+    ]
+  }
+}

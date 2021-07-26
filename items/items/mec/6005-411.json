@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking clothing",
+    "Hiking pants",
+    "High Coast Lite Trousers"
+  ],
+  "description": "Lightweight pants for high deserts or sun-exposed sections of trail. The tapered cut and easy stretch let you move freely down trails or up scrambly sections.Lightweight stretch fabricWaist is cut high in the back for coverage and comfort under a backpack.Tapered leg.Hand pockets, one zippered leg pocket and two buttoned back pockets, all with ventilating mesh lining.Cuffs have reflective drawstring adjustments to add visibility in the dark.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091101294622/6005411-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091445751838/6005411-NVY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091101294622/6005411-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091445751838/6005411-NVY00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091101294622/6005411-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091445751838/6005411-NVY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091101294622/6005411-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091445751838/6005411-NVY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fjallraven High Coast Lite Trousers - Women's",
+  "product_code": "6005-411",
+  "source_url": "https://www.mec.ca/en/product/6005-411/High-Coast-Lite-Trousers",
+  "tech_specs": {
+    "Fabric content": [
+      "85% recycled polyester",
+      "15% elastane"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "270gsm"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Travel"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "1 side zippered",
+      "2 back with flap"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

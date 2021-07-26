@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bicycle pumps",
+    "Mini bike pumps",
+    "Ozone ATB Aluminum Mini Pump"
+  ],
+  "description": "This basic pump is durable and affordable, and totally gets the job done. Fits both types of valves and has a locking handle to put power into each pump stroke.Durable aluminum shaft.Locking T-handle adds leverage.Reversible Presta or Schrader valve with plastic thumblock lever and mud protection cap.Includes mounting bracket with Velcro\u00ae security strap.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976457007134/4010971-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861167646/4010971-NOC02-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861265950/4010971-NOC02-ALT-KIT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861429790/4010971-NOC02-ALT-HEAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976457007134/4010971-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861167646/4010971-NOC02-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861265950/4010971-NOC02-ALT-KIT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861429790/4010971-NOC02-ALT-HEAD.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976457007134/4010971-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861167646/4010971-NOC02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861265950/4010971-NOC02-ALT-KIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861429790/4010971-NOC02-ALT-HEAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976457007134/4010971-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861167646/4010971-NOC02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861265950/4010971-NOC02-ALT-KIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8976861429790/4010971-NOC02-ALT-HEAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike Ozone ATB Aluminum Mini Pump",
+  "product_code": "4010-971",
+  "source_url": "https://www.mec.ca/en/product/4010-971/Ozone-ATB-Aluminum-Mini-Pump",
+  "tech_specs": {
+    "Fits valve": [
+      "Presta",
+      "Schrader"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Length": [
+      "31cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Maximum psi": [
+      "100"
+    ],
+    "Pressure gauge": [
+      "No"
+    ],
+    "Type\n\nFloor pumps, frame fit pumps, mini pumps and CO2 inflators are for bicycle tires. Suspension pumps are used to add pressure to your bike shocks.": [
+      "Frame fit"
+    ],
+    "Weight": [
+      "145g"
+    ]
+  }
+}

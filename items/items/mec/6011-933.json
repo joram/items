@@ -1,0 +1,93 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Caribbean Curry 112g"
+  ],
+  "description": "A rich curry with bold Caribbean flavours to warm your soul and your belly. Loaded with easy-to-digest nutrients.Made of non-GMO ingredients.Rich source of plant-based proteins.Ingredients: potatoes, onions, carrots, coconut milk, quinoa, butternut squash, yam, cauliflower, broccoli, red peppers, crushed tomatoes, olive oil, sundried tomatoes, garlic, ginger, spices and sea salt.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127443005470/6011933-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127286145054/6011933-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127443005470/6011933-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127286145054/6011933-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127443005470/6011933-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127286145054/6011933-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127443005470/6011933-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127286145054/6011933-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nomad Nutrition Caribbean Curry 112g",
+  "product_code": "6011-933",
+  "source_url": "https://www.mec.ca/en/product/6011-933/Caribbean-Curry-112g",
+  "tech_specs": {
+    "Calories per serving": [
+      "260Cal"
+    ],
+    "Carbohydrates": [
+      "31g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "6g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Protein": [
+      "4g"
+    ],
+    "Saturated fat": [
+      "6g"
+    ],
+    "Serving size": [
+      "1/2 package"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "210mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "5g"
+    ],
+    "Total fat": [
+      "15g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ]
+  }
+}

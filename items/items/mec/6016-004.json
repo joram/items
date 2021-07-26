@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Marine navigation",
+    "Maps",
+    "Outer Gulf Islands Map"
+  ],
+  "description": "Covering the eastern Gulf Islands, this durable and waterproof map helps you keep course while paddling around Saturna, Mayne, Pender and Saltspring. It's double-sided, with close-perspective details on one side.46 x 61cm size is easy to handle on the water.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190522486814/6016004-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190518751262/6016004-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190522486814/6016004-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190518751262/6016004-NOC02-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190522486814/6016004-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190518751262/6016004-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190522486814/6016004-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190518751262/6016004-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wild Coast Publishing Outer Gulf Islands Map",
+  "product_code": "6016-004",
+  "source_url": "https://www.mec.ca/en/product/6016-004/Outer-Gulf-Islands-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayak touring",
+      "Canoe tripping"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

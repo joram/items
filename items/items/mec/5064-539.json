@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike locks",
+    "Cable and chain locks",
+    "Lite Lok"
+  ],
+  "description": "No need to slide your U-Lock under your belt or attach a lock holder to your frame  \u0336  The Lite Lok can be worn as a high-viz belt. The reflective cover helps you be seen when worn and it protects your bike's paint when in use.6mm chain and 8mm shackle are made of hardened steel for strength and durability.Steel lock body with brass mechanism.600-denier reflective cover keeps you visible in urban environments.Includes 3 keys for loss-prone or absent-minded riders.Washable sleeve keeps it from smelling.Fits waist sizes from 28 to 44 inches.Locking circumference of 75cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998635110430/5064539-SPR05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998641729566/5064539-SPR05-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998643171358/5064539-SPR05-ALT-INUSE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998635110430/5064539-SPR05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998641729566/5064539-SPR05-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998643171358/5064539-SPR05-ALT-INUSE2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998635110430/5064539-SPR05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998641729566/5064539-SPR05-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998643171358/5064539-SPR05-ALT-INUSE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998635110430/5064539-SPR05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998641729566/5064539-SPR05-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998643171358/5064539-SPR05-ALT-INUSE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hiplok Lite Lok",
+  "product_code": "5064-539",
+  "source_url": "https://www.mec.ca/en/product/5064-539/Lite-Lok",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Length": [
+      "75cm"
+    ],
+    "Locking mechanism": [
+      "Key"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Hardened steel"
+    ],
+    "Mounting bracket": [
+      "No"
+    ],
+    "Number of keys": [
+      "3"
+    ],
+    "Type": [
+      "Chain + pad lock"
+    ],
+    "Weight": [
+      "1kg"
+    ]
+  }
+}

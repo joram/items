@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Footwear accessories",
+    "Shoe and boot care",
+    "Smooth Leather Wax"
+  ],
+  "description": "This water-based wax treatment works best on smooth-finished, full-grain, or waxed rough-out leather uppers. For best results, apply to damp boots, as this helps draw the water-based treatment deep into the leather. The boots become waterproof once they dry.Contains wax to condition and improve the breathability of the leather.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815532998686/4016594-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815532998686/4016594-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nikwax Smooth Leather Wax",
+  "product_code": "4016-594",
+  "source_url": "https://www.mec.ca/en/product/4016-594/Smooth-Leather-Wax",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Type": [
+      "Waterproofer"
+    ],
+    "Weight": [
+      "155g"
+    ]
+  }
+}

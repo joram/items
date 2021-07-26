@@ -1,0 +1,87 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Packs",
+    "Backpacking packs",
+    "Overnight packs (35 - 55l)",
+    "Kyte 46 Backpack"
+  ],
+  "description": "A versatile pack with cross-over potential. Great for gear-intensive trips to climb or tag summits, or for pared-back overnight backpacking, this pack easily handles up to 16kg. The LightWire\u2122 frame transfers weight to a comfortable harness and hipbelt, and multiple access options lets you get to your gear without having to unpack everything.Peripheral frame and framesheet transfers load to the hipbelt.Ridged foam back panel vents heat.Height-adjustable harness provides a fine-tuned fit.Women's specific harness fits female or narrow-framed hikers.Side zipper for additional access to main compartment.Bottom zippered compartment provides a dedicated home for your sleeping bag.Stretch-mesh front and side pockets to stash gear on the fly.Stow-on-the-Go trekking pole attachments let you stash your poles without removing the pack.Bottom sleeping bag straps, front daisy chain and lid webbing loops let you lash on extra gear.External-access hydration sleeve makes refilling easy and protects pack contents from spills.Integrated rain cover keeps your stuff dry during rainy trips.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188144709662/6012316-SRG55.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132749342/6012316-SRG55-ALT-OPNE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188144709662/6012316-SRG55.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132749342/6012316-SRG55-ALT-OPNE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188144709662/6012316-SRG55.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132749342/6012316-SRG55-ALT-OPNE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188144709662/6012316-SRG55.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132749342/6012316-SRG55-ALT-OPNE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Osprey Kyte 46 Backpack - Women's",
+  "product_code": "6012-316",
+  "source_url": "https://www.mec.ca/en/product/6012-316/Kyte-46-Backpack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top",
+      "Bottom",
+      "Side"
+    ],
+    "Additional feature(s)": [
+      "Compression straps",
+      "Hipbelt pocket(s)",
+      "Hydration compatible (reservoir sold separately)",
+      "Ice axe/pole attachment",
+      "Rain cover included",
+      "Sleeping bag compartment"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "No"
+    ],
+    "Depth": [
+      "32cm"
+    ],
+    "Hipbelt": [
+      "Padded"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Alpine climbing and mountaineering"
+    ],
+    "Length": [
+      "65cm (Extra Small/Small)",
+      "70cm (Small/Medium)"
+    ],
+    "Lid type\n\nSome pack lids can be adjusted to compensate for overloaded packs, or even removed, and some removeable lids have tuck-away hipbelts that allow youto use them as a waistpack.": [
+      "Fixed"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "210-denier nylon"
+    ],
+    "Secondary fabric": [
+      "420-denier nylon"
+    ],
+    "Ventilated back panel": [
+      "Yes"
+    ],
+    "Volume": [
+      "44L (Extra Small/Small)",
+      "46L (Small/Medium)"
+    ],
+    "Weight": [
+      "1.47kg (Extra Small/Small)",
+      "1.54kg (Small/Medium)"
+    ],
+    "Width": [
+      "34cm"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Mel Toque"
+  ],
+  "description": "Top off your ensemble with a fine knit toque that can be worn with a classic cuff.Made from warm acrylic for easy care and washing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131596251166/6004188-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131596218398/6004188-AUB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131596251166/6004188-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131596218398/6004188-AUB00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131596251166/6004188-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131596218398/6004188-AUB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131596251166/6004188-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131596218398/6004188-AUB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coal Mel Toque - Women's",
+  "product_code": "6004-188",
+  "source_url": "https://www.mec.ca/en/product/6004-188/Mel-Toque",
+  "tech_specs": {
+    "Fabric content": [
+      "60% polyester",
+      "40% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

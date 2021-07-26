@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Camp stoves and grills",
+    "Car camping stoves",
+    "PerfectFlow InstaStart Grill Stove"
+  ],
+  "description": "Run the best burger stand at basecamp. With a grill on one side and a regular burner on the other, the PerfectFlow Grill Stove lets you barbeque perfect patties while heating side dishes or pots of water.One grill surface and one stove surface let you flex your culinary muscle.Wind Block\u2122 panels keep gusts at bay or act as side tables.840sq. cm of cooking space.Stove area fits 25cm pan.PerfectFlow regulator provides consistent performance in adverse conditions.InstaStart push-button ignitor.Lasts up to 1 hour on a single 1lb canister.Removeable grates, grease tray and cooktop for quick clean up.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146820329502/6013570-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146811678750/6013570-NOC02-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146820329502/6013570-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146811678750/6013570-NOC02-ALT-ANGLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146820329502/6013570-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146811678750/6013570-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146820329502/6013570-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146811678750/6013570-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coleman PerfectFlow InstaStart Grill Stove",
+  "product_code": "6013-570",
+  "source_url": "https://www.mec.ca/en/product/6013-570/PerfectFlow-InstaStart-Grill-Stove",
+  "tech_specs": {
+    "Cooking surface(s)": [
+      "One burner",
+      "Grill"
+    ],
+    "Dimensions": [
+      "53\u00a0x\u00a034\u00a0x\u00a014cm"
+    ],
+    "Fuel\n\nStoves are designed to burn specific fuels. All stoves should only be used with recommended fuels to prevent damage.": [
+      "Propane"
+    ],
+    "Fuel pump\n\nLiquid fuel stoves require a fuel pump to pressurize the fuel tank.": [
+      "No"
+    ],
+    "Heat reflector\n\nHeat reflectors are placed under the burner and reflect heat back up towards the cooking pot. This helps save fuel and speed cooking time.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output\n\nThe output of any heat generating device is shown in BTUs (British Thermal Units) which measure the amount of heat energy needed to raise the temperature of 1lb. of water by 1\u00b0F.": [
+      "2 x 11,000BTU"
+    ],
+    "Piezo ignition": [
+      "Yes"
+    ],
+    "Pot included": [
+      "No"
+    ],
+    "Simmers": [
+      "Yes"
+    ],
+    "Weight": [
+      "6kg"
+    ],
+    "Windscreen": [
+      "Yes"
+    ]
+  }
+}

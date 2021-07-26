@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Winter boots",
+    "Casual winter boots",
+    "Aspina Boots"
+  ],
+  "description": "These weather resistant leather boots combine an outdoor sensibility with a feminine look. The Aspina Boots have a soft nubuck and suede upper with a HydroMax\u00ae weather repellent finish. PU-injected midsoles provide reliable, long-lasting support and a lightweight rubber outsole provides the grip and cushioning you need for all-weather pavement pounding.Nubuck, suede and mesh upper.HydroMax\u00ae weather repellent finish helps keep your boots looking great for longer.FluidForm\u2122 direct injection process uses fluid materials over an anatomic last to create incredibly comfortable footwear.Midsole is injected with polyurethane foam for added support and resilience.Receptor\u00ae rubber outsole provides added traction.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147284029470/6011144-MGT08.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147284029470/6011144-MGT08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ecco Aspina Boots - Women's",
+  "product_code": "6011-144",
+  "source_url": "https://www.mec.ca/en/product/6011-144/Aspina-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Nubuck leather",
+      "Suede",
+      "Mesh"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

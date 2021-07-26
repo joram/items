@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Showers, soap & travel toothbrushes",
+    "Trek& Travel Pocket Shaving Soap"
+  ],
+  "description": "Easier to pack than shaving cream, and no worry about pressurized cans while flying. Gentle formula is easy on your skin.50 leaves of leakproof soap.Biodegradable, hosphate and paraben free.Refreshing, light green tea fragrance.TSA carry-on compliant.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030052741150/6004476-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030390743070/6004476-NOC02-ALT-PACKAGED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030052741150/6004476-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030390743070/6004476-NOC02-ALT-PACKAGED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030052741150/6004476-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030390743070/6004476-NOC02-ALT-PACKAGED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030052741150/6004476-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030390743070/6004476-NOC02-ALT-PACKAGED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sea To Summit Trek & Travel Pocket Shaving Soap",
+  "product_code": "6004-476",
+  "source_url": "https://www.mec.ca/en/product/6004-476/Trek%26-Travel-Pocket-Shaving-Soap",
+  "tech_specs": {
+    "Biodegradable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Backpacking"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

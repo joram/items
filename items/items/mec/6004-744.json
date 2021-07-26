@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth footwear",
+    "Youth shoes",
+    "Youth water shoes",
+    "Tidal Cruiser Water Shoes"
+  ],
+  "description": "With a breathable mesh upper and style that's a cut above your typical water shoe, theTidal Cruisers protect little feet and give them traction on slippery boat decks or docks.Breathable mesh upper drains well and dries quickly.Soft neoprene collar provides a secure fit and keeps debris out.Grippy, protective outsole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044167295006/6004744-PNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044173783070/6004744-BL000-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044167262238/6004744-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044167295006/6004744-PNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044173783070/6004744-BL000-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044167262238/6004744-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044167295006/6004744-PNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044173783070/6004744-BL000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044167262238/6004744-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044167295006/6004744-PNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044173783070/6004744-BL000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044167262238/6004744-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Speedo Tidal Cruiser Water Shoes - Children to Youths",
+  "product_code": "6004-744",
+  "source_url": "https://www.mec.ca/en/product/6004-744/Tidal-Cruiser-Water-Shoes",
+  "tech_specs": {
+    "Ideal for": [
+      "Watersports"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

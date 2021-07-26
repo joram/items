@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Fleece jackets",
+    "Light Weight Synchilla Snap-T Pullover"
+  ],
+  "description": "Providing everyday warmth and comfort, this classic pullover is made with Synchilla\u00ae fleece (solids: 85% recycled; heathers: 80% recycled). Fair Trade Certified\u2122 sewing.Made of warm, midweight polyester fleece (solids: 85% recycled; heathers: 80% recycled)Nylon trim on stand-up collar reinforces classic Snap-T\u00ae 4-snap placketYoke seam detail with nylon chest-pocket flap and snap closureSpandex binding at sleeve openings and hemHip length",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096873082910/5060587-FUR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096827666462/5060587-FUR00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096873082910/5060587-FUR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096827666462/5060587-FUR00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096873082910/5060587-FUR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096827666462/5060587-FUR00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096873082910/5060587-FUR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096827666462/5060587-FUR00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Light Weight Synchilla Snap-T Pullover - Women's",
+  "product_code": "5060-587",
+  "source_url": "https://www.mec.ca/en/product/5060-587/Light-Weight-Synchilla-Snap-T-Pullover",
+  "tech_specs": {
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "270gsm"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Travel",
+      "Camping and hiking",
+      "Snowsports"
+    ],
+    "Made in": [
+      "Nicaragua"
+    ],
+    "Pockets": [
+      "1 front with flap"
+    ]
+  }
+}

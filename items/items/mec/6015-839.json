@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Tanks and sleeveless shirts",
+    "Wander Twist Back Tank"
+  ],
+  "description": "Performance for the trail or crag. This sun-protective tank works hard on hot days.Lightweight polyester (47% recycled content) with FlashDry-XD\u2122 high-abrasion resistance and wicking technology.UPF 50 sun protection keeps you covered.Twist-detail at back.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187439738910/6015839-MBH09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187453304862/6015839-MBH09-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187453337630/6015839-MBH09-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187439738910/6015839-MBH09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187453304862/6015839-MBH09-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187453337630/6015839-MBH09-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187439738910/6015839-MBH09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187453304862/6015839-MBH09-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187453337630/6015839-MBH09-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187439738910/6015839-MBH09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187453304862/6015839-MBH09-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187453337630/6015839-MBH09-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Wander Twist Back Tank - Women's",
+  "product_code": "6015-839",
+  "source_url": "https://www.mec.ca/en/product/6015-839/Wander-Twist-Back-Tank",
+  "tech_specs": {
+    "Fabric content": [
+      "47% recycled polyester",
+      "47% polyester",
+      "6% elastane"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Rock climbing",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Jordan"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

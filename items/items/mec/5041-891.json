@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tires",
+    "Ice Spiker Pro HS 379 26\" Wire Tire"
+  ],
+  "description": "Stay in control on icy roads. Light, grippy, and fast, this studded winter tire gives you traction and bite on ice, snow and slush. Each tire has 361 spikes each with a toothy tungsten carbide core, clad in weight-saving aluminum.RaceGuard belt protects against penetration punctures, while only minimally increasing weight and rolling resistanceSpikes have a tungsten carbide core for durability.To ensure that spikes are permanently fixed, tires should be run in for about 40km on asphalt while avoiding any fast acceleration or heavy braking.Sold individually.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806695698462/5041891-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806695698462/5041891-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Schwalbe Ice Spiker Pro HS 379 26\" Wire Tire",
+  "product_code": "5041-891",
+  "source_url": "https://www.mec.ca/en/product/5041-891/Ice-Spiker-Pro-HS-379-26%22-Wire-Tire",
+  "tech_specs": {
+    "Bead\n\nThe bead holds the tire onto the rim. Beads may be hoops of wire, or made of a flexible material which allows them to be folded compactly. Folding tires are easier to store or pack on trips.": [
+      "Wire"
+    ],
+    "ETRTO\n\nISO/ETRTO universal tire sizing system number for matching the correct tire to the rim.": [
+      "54-559"
+    ],
+    "Ideal for": [
+      "Mountain biking",
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Recommended PSI\n\nInflating your tires over the recommended PSI (pounds per square inch) could cause your tube and/or tire to rupture.": [
+      "30-55psi"
+    ],
+    "TPI\n\nThreads per inch. Tires with a higher TPI tend to be more supple and lighter, with less rolling resistance, but are less durable.": [
+      "67"
+    ],
+    "Tire size": [
+      "26\u00a0x\u00a02.1in."
+    ],
+    "Tire type": [
+      "Clincher"
+    ],
+    "Weight": [
+      "995g"
+    ],
+    "Wheel position": [
+      "Rear",
+      "Front"
+    ]
+  }
+}

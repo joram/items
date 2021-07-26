@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tires",
+    "GatorSkin Folding Tire"
+  ],
+  "description": "A fast rolling, high mileage tire with three levels of flat protection: a super-fine 180 thread-per-inch casing, a layer of DuraSkin\u00ae, and a kevlar reinforced layer.Slick tread pattern offers exceptional grip in wet and dry conditions.Supple handling and low rolling resistance.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806707298334/5049112-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806707298334/5049112-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Continental GatorSkin Folding Tire",
+  "product_code": "5049-112",
+  "source_url": "https://www.mec.ca/en/product/5049-112/GatorSkin-Folding-Tire",
+  "tech_specs": {
+    "Bead\n\nThe bead holds the tire onto the rim. Beads may be hoops of wire, or made of a flexible material which allows them to be folded compactly. Folding tires are easier to store or pack on trips.": [
+      "Folding"
+    ],
+    "ETRTO\n\nISO/ETRTO universal tire sizing system number for matching the correct tire to the rim.": [
+      "23-622 (23)",
+      "25-622 (25)"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Recommended PSI\n\nInflating your tires over the recommended PSI (pounds per square inch) could cause your tube and/or tire to rupture.": [
+      "110-120psi (23)",
+      "95-120psi (25)"
+    ],
+    "TPI\n\nThreads per inch. Tires with a higher TPI tend to be more supple and lighter, with less rolling resistance, but are less durable.": [
+      "180"
+    ],
+    "Tire size": [
+      "700\u00a0x\u00a023 (23)",
+      "700\u00a0x\u00a025 (25)"
+    ],
+    "Tire type": [
+      "Clincher"
+    ],
+    "Weight": [
+      "220g (23)",
+      "240g (25)"
+    ],
+    "Wheel position": [
+      "Rear",
+      "Front"
+    ]
+  }
+}

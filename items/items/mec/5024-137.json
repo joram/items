@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water filters",
+    "Water filter parts and accessories",
+    "Gravityworks Filter Hose Kit"
+  ],
+  "description": "A replacement hose kit for the Platypus\u00ae Gravityworks Filter.Parts include: silicone hoses, a male quick disconnect valve (mates to reservoir), and an output hose shut off clamp.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812761579550/5024137-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812761579550/5024137-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Platypus Gravityworks Filter Hose Kit",
+  "product_code": "5024-137",
+  "source_url": "https://www.mec.ca/en/product/5024-137/Gravityworks-Filter-Hose-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking",
+      "Backpacking",
+      "Winter and expedition camping"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "180g"
+    ]
+  }
+}

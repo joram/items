@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Aldan Lite Quarter Socks"
+  ],
+  "description": "Versatile and comfortable, these merino and synthetic socks have light cushion so they're great for whatever activity you choose for the day.Soft merino wool, nylon, polyester, Tencel and spandex wicks moisture and dries quickly.Lightly cushioned sole gives a luxurious underfoot feel.Seamless toe closure contruction ensures chafe-free comfort.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013559787550/5063674-GRN09.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013559787550/5063674-GRN09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wigwam Aldan Lite Quarter Socks - Men's",
+  "product_code": "5063-674",
+  "source_url": "https://www.mec.ca/en/product/5063-674/Aldan-Lite-Quarter-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Quarter"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "46% merino wool",
+      "39% nylon",
+      "11% polyester",
+      "2% spandex",
+      "2% Tencel Lyocell"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

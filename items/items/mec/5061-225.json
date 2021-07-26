@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Etonnant Quebec 150 experiences insolites 1e"
+  ],
+  "description": "Amazing Quebec! 150 Unusual Experiences invites readers and curious travelers to discover Quebec from a new perspective. Think outside the box and to be pleasantly surprised! Sleep in a cave, a submarine or a tree; have a drink in a tiki bar, dine between heaven and earth, or learn how to cook insects; raft at night or surf in winter; feed a moose or scratch the belly of a wolf; participate in the harvest or visit a hydroelectric dam. This guide offers a rich selection of Quebec's most interesting attractions and unusual experiences.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957936795678/5061225-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957936795678/5061225-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses \u00c9tonnant Qu\u00e9bec! 150 exp\u00e9riences insolites 1e edition",
+  "product_code": "5061-225",
+  "source_url": "https://www.mec.ca/en/product/5061-225/Etonnant-Quebec-150-experiences-insolites-1e",
+  "tech_specs": {
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9782894645772"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "256"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "Quebec"
+    ]
+  }
+}

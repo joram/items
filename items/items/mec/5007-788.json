@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Crampons and components",
+    "Crampon components",
+    "Crampon Linking Bar"
+  ],
+  "description": "Linking bars for repairing Petzl crampons or adapting them to bigger feet and boots.Compatible with Vasak, Irvis, Sarken, Lynx and M10 models.Fits shoes sizes 12 and up.Sold in pairs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807437434910/5007788-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807437434910/5007788-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Crampon Linking Bar",
+  "product_code": "5007-788",
+  "source_url": "https://www.mec.ca/en/product/5007-788/Crampon-Linking-Bar",
+  "tech_specs": {
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Made in": [
+      "France"
+    ]
+  }
+}

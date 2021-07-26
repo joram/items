@@ -1,0 +1,80 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country off-track",
+    "Off-track skis",
+    "BC 59 AR\u00a0Skis"
+  ],
+  "description": "These solid skis make great touring partners. The wood and air core, waxless base and full metal edges are designed to inspire confidence on and off the trail. They'll suit backcountry enthusiasts who split their time equally between groomed tracks and what lies beyond.Low-density wood core with large air channels provides lightweight, durable and sturdy off-trail performance.Rossignol's Activ'Cap construction keeps the skis lively, and allows tips and tails to float over bumps.Full-length steel edges.AR Plus waxless pattern provides just the right mix of grip and glide.Textured, P-Tex 5000 clear sintered bases.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049363578910/6003562-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049374261278/6003562-NOC02-ALT-DETAILTOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375342622/6003562-NOC02-ALT-BASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375375390/6003562-NOC02-ALT-DETAILBASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375408158/6003562-NOC02-ALT-DETAILBINDING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375440926/6003562-NOC02-ALT-DETAILHEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049363578910/6003562-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049374261278/6003562-NOC02-ALT-DETAILTOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375342622/6003562-NOC02-ALT-BASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375375390/6003562-NOC02-ALT-DETAILBASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375408158/6003562-NOC02-ALT-DETAILBINDING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375440926/6003562-NOC02-ALT-DETAILHEEL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049363578910/6003562-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049374261278/6003562-NOC02-ALT-DETAILTOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375342622/6003562-NOC02-ALT-BASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375375390/6003562-NOC02-ALT-DETAILBASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375408158/6003562-NOC02-ALT-DETAILBINDING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375440926/6003562-NOC02-ALT-DETAILHEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049363578910/6003562-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049374261278/6003562-NOC02-ALT-DETAILTOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375342622/6003562-NOC02-ALT-BASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375375390/6003562-NOC02-ALT-DETAILBASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375408158/6003562-NOC02-ALT-DETAILBINDING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049375440926/6003562-NOC02-ALT-DETAILHEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rossignol BC 59 AR\u00a0Skis - Unisex",
+  "product_code": "6003-562",
+  "source_url": "https://www.mec.ca/en/product/6003-562/BC-59-AR%C2%A0Skis",
+  "tech_specs": {
+    "Bindings included": [
+      "No"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Structural cap"
+    ],
+    "Core": [
+      "Wood",
+      "Air channel"
+    ],
+    "Dimension": [
+      "59-49-55mm"
+    ],
+    "Ideal for": [
+      "Off-track touring"
+    ],
+    "Made in": [
+      "Ukraine"
+    ],
+    "Metal edge": [
+      "Yes"
+    ],
+    "User weight range\n\nA good starting point for selecting ski or snowboard length. You might choose a shorter or longer length based on terrain and ability.": [
+      "48-54kg (180cm)",
+      "54-61kg (190cm)",
+      "61-68kg (195cm)",
+      "68-75kg (200cm)",
+      "75-82kg (205cm)",
+      "82+kg (210cm)"
+    ],
+    "Waxless\n\nOften called \"fish scale\" skis, waxless skis are designed so you don't need to apply kick wax. However, you may still want to apply glide wax for a better glide. They are a good option for those who don't like waxing, or for regions where temperatures can vary greatly throughout the day.": [
+      "Yes"
+    ]
+  }
+}

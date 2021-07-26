@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Climbing chalk",
+    "Super Chalk 2.5oz"
+  ],
+  "description": "This chalk is smooth and chunk-free.Contains a blend of chalk and a safe drying agent to keep your hands dry, never damp.Packaged in a re-sealable zip-top plastic bag.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038251950110/6003909-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038251950110/6003909-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Metolius Super Chalk 2.5oz",
+  "product_code": "6003-909",
+  "source_url": "https://www.mec.ca/en/product/6003-909/Super-Chalk-2-5oz",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing",
+      "Bouldering",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Type of chalk": [
+      "Loose"
+    ],
+    "Weight": [
+      "71g"
+    ]
+  }
+}

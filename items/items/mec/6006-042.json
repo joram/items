@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Casual socks",
+    "Color Block Cable Crew Socks"
+  ],
+  "description": "Colour and texture...can socks get any better than this? The merino blend naturally regulates temperature and lets your feet breathe.Made from breathable merino wool, resilient nylon and stretchy elastane..Narrower profile suits those with narrower feet.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196079349790/6006042-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196079349790/6006042-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Color Block Cable Crew Socks - Women's",
+  "product_code": "6006-042",
+  "source_url": "https://www.mec.ca/en/product/6006-042/Color-Block-Cable-Crew-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "75% merino wool",
+      "24% nylon",
+      "1% elastane"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

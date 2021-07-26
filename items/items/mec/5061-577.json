@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Explorez Cape Cod, Nantucket et Martha's Vine"
+  ],
+  "description": "Everything you need to plan a trip to Cape Cod, Nantucket and Martha's Vineyard, from shopping to restaurants, accommodations and sightseeing. Includes 5 customized itineraries to help you make the most of your stay. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8966228246558/5061577-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8966228246558/5061577-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses Explorez Cape Cod, Nantucket et Martha's Vine",
+  "product_code": "5061-577",
+  "source_url": "https://www.mec.ca/en/product/5061-577/Explorez-Cape-Cod%2C-Nantucket-et-Martha%27s-Vine",
+  "tech_specs": {
+    "Author": [
+      "Louise Gaboury"
+    ],
+    "ISBN": [
+      "9782894643600"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2018"
+    ],
+    "Regionality": [
+      "USA"
+    ]
+  }
+}

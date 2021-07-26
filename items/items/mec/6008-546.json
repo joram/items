@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Coolers and food storage",
+    "Coolers",
+    "Soft-sided coolers",
+    "Hopper M30 Cooler"
+  ],
+  "description": "An over-engineered, soft-sided cooler for serious snacking and hop'n'malt consumption. Fitting up to 20, 355ml cans plus ice, it features super-sturdy handles and a padded shoulder strap for hauling. Puncture-resistant fabric is leak-proof, and won't get mildewy thanks to an anti-microbial liner. An inch of closed-cell foam keeps beverages cool and good-to-go.Yeti DryHide nylon fabric is puncture resistant.Anti-microbial liner resists mildew and mold.Welded seams eliminate stitches to ensure it's leak proof and airtight.HydroShield closure uses super-strong magnet strips for a leak-resistant seal.ColdCell insulation is 1 inch thick on sides and 1.5 inches on bottom for outstanding insulation.Nylon webbing straps and a padded shoulder strap ensure comfortable and sturdy hauling.Lash points on carry straps.Heavy duty EVA foam bottom means it stands on its own.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057766473758/6008546-RIV10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057943257118/6008546-RIV10-ALT-SIZE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057766473758/6008546-RIV10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057943257118/6008546-RIV10-ALT-SIZE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057766473758/6008546-RIV10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057943257118/6008546-RIV10-ALT-SIZE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057766473758/6008546-RIV10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057943257118/6008546-RIV10-ALT-SIZE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Yeti Hopper M30 Cooler",
+  "product_code": "6008-546",
+  "source_url": "https://www.mec.ca/en/product/6008-546/Hopper-M30-Cooler",
+  "tech_specs": {
+    "External dimensions": [
+      "63.5\u00a0x\u00a030.5\u00a0x\u00a044.5cm"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Emergency preparedness"
+    ],
+    "Internal dimensions": [
+      "55.9\u00a0x\u00a025.4\u00a0x\u00a040.6cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Nylon"
+    ],
+    "Volume": [
+      "25.5L"
+    ],
+    "Weight": [
+      "3.2kg"
+    ]
+  }
+}

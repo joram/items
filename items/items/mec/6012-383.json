@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Accessories",
+    "Running and fitness hats",
+    "5 Panel Cap"
+  ],
+  "description": "This breathable 5-panel cap keeps you cool and protected from the sun. Mesh panels vent excess heat and the UPF 50 fabric provides 98% UV protection.Lightweight polyester and elastane, with polyester mesh side panels to keep you cool.Slight stretch fabric doesn't feel too tight around your head.Moisture wicking headband keeps sweat out of your eyes.Adjustable back fits most heads.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158288900126/6012383-WRW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158288703518/6012383-IPV00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189828395038/6012383-DML00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189828329502/6012383-DLG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158288900126/6012383-WRW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158288703518/6012383-IPV00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189828395038/6012383-DML00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189828329502/6012383-DLG01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158288900126/6012383-WRW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158288703518/6012383-IPV00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189828395038/6012383-DML00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189828329502/6012383-DLG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158288900126/6012383-WRW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158288703518/6012383-IPV00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189828395038/6012383-DML00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189828329502/6012383-DLG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Buff 5 Panel Cap - Unisex",
+  "product_code": "6012-383",
+  "source_url": "https://www.mec.ca/en/product/6012-383/5-Panel-Cap",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Fabric content": [
+      "96% polyester",
+      "4% elastane"
+    ],
+    "Ideal for": [
+      "Running",
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Secondary fabric": [
+      "100% polyester"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

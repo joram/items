@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling tops",
+    "Cycling jerseys",
+    "Long sleeve jerseys",
+    "Elite LTD Thermal Jersey"
+  ],
+  "description": "A cold-weather riding essential, this thermal layer holds your heat in close on sub-zero days. The fabric dries quickly and won't be the most fragrant thing in the coffee shop after your intervals.Polyester Thermal Fleece insulates and remains breathable, fast drying and odour-resistant.Back pockets house mid-ride essentials.Reflective elements for early morning or late afternoon rides.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199330295838/6015804-DKD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129100318/6015804-DKD00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199330295838/6015804-DKD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129100318/6015804-DKD00-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199330295838/6015804-DKD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129100318/6015804-DKD00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199330295838/6015804-DKD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129100318/6015804-DKD00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pearl Izumi Elite LTD Thermal Jersey - Women's",
+  "product_code": "6015-804",
+  "source_url": "https://www.mec.ca/en/product/6015-804/Elite-LTD-Thermal-Jersey",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "3 back drop-in"
+    ]
+  }
+}

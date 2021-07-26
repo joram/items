@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Workshop and general bike repair",
+    "Shop tools",
+    "DH-1 Dummy Hub"
+  ],
+  "description": "Also called a sleeping hub, the DH-1 slides into rear dropouts and replaces the rear wheel for chain cleaning and transport. Works with all derailleur and \u215bin. chains.Allows the bike to shift.Works with open dropout and thru-axle frames up to 12mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806579929118/5048787-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806579994654/5048787-NOC02-ALT-INSTALL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806579929118/5048787-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806579994654/5048787-NOC02-ALT-INSTALL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806579929118/5048787-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806579994654/5048787-NOC02-ALT-INSTALL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806579929118/5048787-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806579994654/5048787-NOC02-ALT-INSTALL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool DH-1 Dummy Hub",
+  "product_code": "5048-787",
+  "source_url": "https://www.mec.ca/en/product/5048-787/DH-1-Dummy-Hub",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Quickdraws",
+    "Hotforge Quickpack 12CM"
+  ],
+  "description": "The HotForge draw has a straight and a bent-gate HotForge biner threaded on a polyester dogbone. This 6-pack is a great design in a multi-purpose draw with smooth-clipping keylock nose action.Corrosion resistant anodized aluminum.Biners have a deep basket with a flattened bottom so ropes and webbing stays put.Equipped with an 18mm Polyester Dogbone with Straitjacket keeper.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054213570590/6005173-LGY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054213570590/6005173-LGY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Hotforge Quickpack 12CM",
+  "product_code": "6005-173",
+  "source_url": "https://www.mec.ca/en/product/6005-173/Hotforge-Quickpack-12CM",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.2cm",
+      "2.4cm"
+    ],
+    "Gate type": [
+      "Straight + bent"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Sling length": [
+      "12cm"
+    ],
+    "Sling material": [
+      "Polyester"
+    ],
+    "Sling width": [
+      "18mm"
+    ],
+    "Snag-free nose": [
+      "No"
+    ],
+    "Strength closed": [
+      "24kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "8kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "618g"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Sun protection",
+    "Sunscreen",
+    "SPF 50 Baby Sun Lotion 88ml"
+  ],
+  "description": "Little one\u2019s have sensitive skin, and Sun Bum developed a sunscreen that's engineered to protect a baby\u2019s thinner skin from damaging UV.Broad-spectrum UVA and UVB protection.Water-resistant rating of 80 minutes.Gluten, paraben, and petroleum free.Ingredients: zinc oxide (20%), water, cocos nucifera (coconut) oil, butyloctyl salicylate, diheptyl succinate, methyl dihydroabietate, butyrospermum parkii (shea butter), capryloyl glycerin/sebacic acid copolymer, sodium stearoyl glutamate, cetearyl alcohol, theobroma cacao (cocoa) seed butter, sodium hyaluronate, bisabolol, tocopherol, coco-glucoside, microcrystalline cellulose, cellulose gum, cetyl alcohol, arachidyl alcohol, behenyl alcohol, arachidyl glucoside, polyhydroxystearic acid, sodium gluconate, phenoxyethanol, ethylhexylglycerin and citric acid.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030051627038/6004422-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030051627038/6004422-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sun Bum SPF 50 Baby Sun Lotion 88ml",
+  "product_code": "6004-422",
+  "source_url": "https://www.mec.ca/en/product/6004-422/SPF-50-Baby-Sun-Lotion-88ml",
+  "tech_specs": {
+    "Alcohol free\n\nAlcohol is a skin irritant, so alcohol-free sun products are better for sensitive skin.": [
+      "Yes"
+    ],
+    "Fragrance free": [
+      "No"
+    ],
+    "Hypoallergenic": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Travel",
+      "Beach"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Noncomedogenic\n\nNoncomedogenic skin care products are less likely to block pores.": [
+      "Yes"
+    ],
+    "PABA free": [
+      "Yes"
+    ],
+    "SPF": [
+      "50"
+    ],
+    "Type": [
+      "Body"
+    ],
+    "Volume": [
+      "88ml"
+    ],
+    "Water/sweatproof": [
+      "Yes"
+    ]
+  }
+}

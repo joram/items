@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bicycle pumps",
+    "Mini bike pumps",
+    "Air Smith CO2 Mini Pump"
+  ],
+  "description": "The rapidity of a CO2 tire filler combined with the reusability of a pump. The whole unit is compact enough to slide into your saddlebag or jersey pocket.Fits Presta and Schrader valves, no adaptor needed.Smooth regulator valve for precise inflation and safety.Includes 16g cartridge and insulator.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806467993630/5041797-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806468091934/5041797-BK000-ALT-IN-USE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806468223006/5041797-BK000-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806467993630/5041797-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806468091934/5041797-BK000-ALT-IN-USE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806468223006/5041797-BK000-ALT-FULL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806467993630/5041797-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806468091934/5041797-BK000-ALT-IN-USE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806468223006/5041797-BK000-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806467993630/5041797-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806468091934/5041797-BK000-ALT-IN-USE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806468223006/5041797-BK000-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike Air Smith CO2 Mini Pump",
+  "product_code": "5041-797",
+  "source_url": "https://www.mec.ca/en/product/5041-797/Air-Smith-CO2-Mini-Pump",
+  "tech_specs": {
+    "Fits valve": [
+      "Presta",
+      "Schrader"
+    ],
+    "Ideal for": [
+      "Road cycling",
+      "Cyclocross"
+    ],
+    "Length": [
+      "15cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Maximum psi": [
+      "120"
+    ],
+    "Pressure gauge": [
+      "No"
+    ],
+    "Type\n\nFloor pumps, frame fit pumps, mini pumps and CO2 inflators are for bicycle tires. Suspension pumps are used to add pressure to your bike shocks.": [
+      "CO2",
+      "Mini"
+    ],
+    "Weight": [
+      "140g"
+    ]
+  }
+}

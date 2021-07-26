@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Uppers and downers",
+    "Belay devices",
+    "Smart 2.0 Belay Device"
+  ],
+  "description": "A single rope autoblocking device that excels for single pitches (can't rappel on double ropes with it). The 2.0 version gets added effectiveness for belaying, catching and supporting someone who likes to hangdog.Solid braking for snappy catches and easy holding (for a leader who likes to hang and work projects).Belay tube-like geometry quickly feeds rope.Recommended for use with 8.7 to 10.5mm diameter ropes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948425654302/5057954-ORG07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021998235678/5057954-GXY01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948425654302/5057954-ORG07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021998235678/5057954-GXY01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948425654302/5057954-ORG07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021998235678/5057954-GXY01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948425654302/5057954-ORG07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021998235678/5057954-GXY01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mammut Smart 2.0 Belay Device",
+  "product_code": "5057-954",
+  "source_url": "https://www.mec.ca/en/product/5057-954/Smart-2-0-Belay-Device",
+  "tech_specs": {
+    "Belay off anchor\n\nUse an autoblock device with a locking carabiner to belay off the anchor or to bring up two seconds on independent lines.": [
+      "Yes"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Rope diameter\n\nThe maximum diameter or the range of rope diameter that is compatible with the device.": [
+      "8.7 - 10.5mm"
+    ],
+    "Type": [
+      "Geometry assisted"
+    ],
+    "Weight": [
+      "80g"
+    ]
+  }
+}

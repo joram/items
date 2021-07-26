@@ -1,0 +1,97 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training food and drinks",
+    "Energy gels and chews",
+    "Cola Me Happy Gel"
+  ],
+  "description": "Remember those gummy cola bottles from your childhood? Gu\u2019s Cola Me Happy gel delivers that delicious cola flavour, but it is way better for you.Carbohydrate blend (70-80% maltodextrin and 30-20% fructose) is easy to digest and gives a long-lasting surge of energy.Contains 40g of caffeine.Ingredients: maltodextrin, water, fructose, I-leucine, citric acid, sodium citrate, green tea extract (contains caffeine) calcium carbonate, I-valine, sea salt, gellan gum, I-isoleucine, medium chain triglycerides, sodium benzoate, potassium sorbate.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135624421406/6011579-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135615770654/6011579-NOC02-ALT-INGREDIENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135624421406/6011579-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135615770654/6011579-NOC02-ALT-INGREDIENTS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135624421406/6011579-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135615770654/6011579-NOC02-ALT-INGREDIENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135624421406/6011579-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135615770654/6011579-NOC02-ALT-INGREDIENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GU Cola Me Happy Gel",
+  "product_code": "6011-579",
+  "source_url": "https://www.mec.ca/en/product/6011-579/Cola-Me-Happy-Gel",
+  "tech_specs": {
+    "Best consumed": [
+      "During exercise"
+    ],
+    "Caffeine": [
+      "40mg"
+    ],
+    "Calories per serving": [
+      "100Cal"
+    ],
+    "Carbohydrates": [
+      "22g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "0g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycling",
+      "Running"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Protein": [
+      "0g"
+    ],
+    "Saturated fat": [
+      "0g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "60mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "7g"
+    ],
+    "Total fat": [
+      "0g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "32g"
+    ]
+  }
+}

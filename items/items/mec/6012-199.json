@@ -1,0 +1,96 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Granola Apple And Cinnamon"
+  ],
+  "description": "Enjoy the perfect blend of oats, crisp refreshing apples and warm cinnamon.Ingredients: granola (rolled oats, honey, slivered whole almonds, almond powder, pumpkin seeds, brown sugar, cinnamon), whole milk powder, diced dehydrated apples, cinnamon, almonds, pumpkin seeds, milk, gluten (oats).May contain: nut, peanuts, egg, fish, seafood and mustard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188143267870/6012199-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132159518/6012199-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188143267870/6012199-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132159518/6012199-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188143267870/6012199-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132159518/6012199-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188143267870/6012199-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132159518/6012199-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Granola Apple And Cinnamon",
+  "product_code": "6012-199",
+  "source_url": "https://www.mec.ca/en/product/6012-199/Granola-Apple-And-Cinnamon",
+  "tech_specs": {
+    "Calories per serving": [
+      "640Cal"
+    ],
+    "Carbohydrates": [
+      "88g"
+    ],
+    "Cholesterol": [
+      "35mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "9g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "21g"
+    ],
+    "Saturated fat": [
+      "8g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "430mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "54g"
+    ],
+    "Total fat": [
+      "26g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ],
+    "Weight": [
+      "150g"
+    ]
+  }
+}

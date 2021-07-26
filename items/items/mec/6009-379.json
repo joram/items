@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike wheels",
+    "Single wheels",
+    "DA22 700c 32H Rear Wheel"
+  ],
+  "description": "Solid performers at an economical price. This semi-aero shaped rim is light and stiff. It's suitable for sport road bikes or hybrid bikes with rim brakes.Double-walled 6061 aluminum rims with stainless steel spokes and a wear indicator line.Compatible with clincher tires with Presta valves.32 hole hub fits 8/9/10 speed casettes with 135mm spacing.Quick release skewer included.Internal rim width: 13.9mm.Rim height: 22mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097569959966/6009379-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097569959966/6009379-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Alex DA22 700c 32H Rear Wheel - Unisex",
+  "product_code": "6009-379",
+  "source_url": "https://www.mec.ca/en/product/6009-379/DA22-700c-32H-Rear-Wheel",
+  "tech_specs": {
+    "Brake compatibility": [
+      "Rim brakes"
+    ],
+    "Hub (rear)\n\nThe hub affects a bike\u2019s rolling efficiency. Internally geared hubs require significantly less maintenance.": [
+      "Formula"
+    ],
+    "Ideal for": [
+      "Sport road cycling"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Material": [
+      "Aluminum"
+    ],
+    "Rear hub width": [
+      "135mm"
+    ],
+    "Recommended tire width": [
+      "18-25c"
+    ],
+    "Retention device": [
+      "Quick-release"
+    ],
+    "Size": [
+      "700C"
+    ],
+    "Spoke count": [
+      "32"
+    ],
+    "Spokes": [
+      "Stainless"
+    ],
+    "Tire type": [
+      "Clincher"
+    ],
+    "Valve compatibility\n\nThe type of tube valve the rim will accommodate. Most Schrader wheels can be retrofitted to fit Presta valves.": [
+      "Presta"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "White Mountain National Forest Map"
+  ],
+  "description": "This waterproof map and guide provides a view of the entire National Forest and its hiking trails. It includes detail maps of popular areas such as Franconia Notch, Crawford Notch, Pinkham Notch, and Mt. Washington, plus recommended hikes in the White Mountains for all ability levels. There's information about camping, backcountry shelters, safety, equipment and natural history. Based on highly accurate trails data developed by the AMC, it includes trail segment mileage and highlights 4000-foot peaks, wilderness areas, and points of interest.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917826273310/5057281-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917826273310/5057281-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Appalachian Mountain Club White Mountain National Forest Map",
+  "product_code": "5057-281",
+  "source_url": "https://www.mec.ca/en/product/5057-281/White-Mountain-National-Forest-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Regionality": [
+      "USA"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

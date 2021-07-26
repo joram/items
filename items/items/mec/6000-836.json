@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking clothing",
+    "Hiking pants",
+    "Halle Pants Plus"
+  ],
+  "description": "From summit to standing desk. These stretchy trousers shed water and resist abrasion to keep you looking crisp and feeling comfy, whatever you get up to.Made from performance stretch woven fabric.Durable water repellent finish keeps you dry.Trouser styling transitions from outdoors to office.Hidden zip pocket keeps essentials safe.Articulated knees let you move freely.Roll up legs let you choose your length.Extended sizes let you find your perfect fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045766275102/6000836-COA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045766209566/6000836-COA00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045766275102/6000836-COA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045766209566/6000836-COA00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045766275102/6000836-COA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045766209566/6000836-COA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045766275102/6000836-COA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045766209566/6000836-COA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Halle Pants Plus - Women's",
+  "product_code": "6000-836",
+  "source_url": "https://www.mec.ca/en/product/6000-836/Halle-Pants-Plus",
+  "tech_specs": {
+    "Fabric content": [
+      "97% nylon",
+      "3% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "2 back with flap",
+      "1 internal zippered"
+    ]
+  }
+}

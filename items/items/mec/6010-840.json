@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard clothing",
+    "Ski gloves and mittens",
+    "Ski gloves",
+    "Western Ops Gloves"
+  ],
+  "description": "Made for snowsports, but you can wear them anywhere you need waterproof-breathable protection combined with medium warmth.Made of supple cowhide leather and stretch nylon soft shell fabric.Thinsulate\u00ae insulation offers warmth without bulk.Fleece lining feels soft against your hands.Knit elastic cuffs keep out snow and cold air.Double stitched palms and fingers add durability.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134998323230/6010840-BK027.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134998323230/6010840-BK027.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Auclair Western Ops Gloves - Unisex",
+  "product_code": "6010-840",
+  "source_url": "https://www.mec.ca/en/product/6010-840/Western-Ops-Gloves",
+  "tech_specs": {
+    "Ideal for": [
+      "Snowsports",
+      "Downhill skiing",
+      "Snowshoeing",
+      "Snowboarding"
+    ],
+    "Insulation": [
+      "Medium"
+    ],
+    "Liner fabric": [
+      "100% polyester"
+    ],
+    "Liner type": [
+      "Sewn-in"
+    ],
+    "Made in": [
+      "Pakistan"
+    ],
+    "Main fabric": [
+      "93% nylon",
+      "7% elastane"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Leather"
+    ],
+    "Touchscreen compatible": [
+      "No"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

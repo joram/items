@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Paddling tops and pants",
+    "Paddling tops",
+    "Torrens Thermal Crew Jacket"
+  ],
+  "description": "Keep the cold from creeping into your bones. This insulated midlayer is designed for nippy marine environments. Stretchy cuffs create a soft seal at the wrists, with a DWR coating to stop water from trickling in. Its shorter torso length is easy to layer, and it won't bunch up when you're seated in your craft of choice. The best bit? Light insulation that's toasty, breathable and above all, moisture resistant.Construction combines an outer shell with DWR treatment to shed moisture with a moisture wicking liner.PolarTec\u00ae Alpha\u00ae insulation is extremely breathable and moisture resistant.Stretch cuffs have a DWR treatment to help seal out water.Standard fit with articulated arms.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193691414558/6013598-MIG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194111402014/6013598-MIG01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194111598622/6013598-MIG01-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194111729694/6013598-MIG01-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164667486238/6013598-BK000-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164667650078/6013598-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164667879454/6013598-BK000-ALT-BACKANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164052922398/6013598-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193691414558/6013598-MIG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194111402014/6013598-MIG01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194111598622/6013598-MIG01-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194111729694/6013598-MIG01-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164667486238/6013598-BK000-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164667650078/6013598-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164667879454/6013598-BK000-ALT-BACKANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164052922398/6013598-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193691414558/6013598-MIG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194111402014/6013598-MIG01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194111598622/6013598-MIG01-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194111729694/6013598-MIG01-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164667486238/6013598-BK000-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164667650078/6013598-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164667879454/6013598-BK000-ALT-BACKANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164052922398/6013598-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193691414558/6013598-MIG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194111402014/6013598-MIG01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194111598622/6013598-MIG01-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194111729694/6013598-MIG01-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164667486238/6013598-BK000-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164667650078/6013598-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164667879454/6013598-BK000-ALT-BACKANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164052922398/6013598-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mustang Survival Torrens Thermal Crew Jacket - Women's",
+  "product_code": "6013-598",
+  "source_url": "https://www.mec.ca/en/product/6013-598/Torrens-Thermal-Crew-Jacket",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayak touring",
+      "Canoe tripping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 handwarmer zippered"
+    ],
+    "Technology": [
+      "Polartec Alpha"
+    ]
+  }
+}

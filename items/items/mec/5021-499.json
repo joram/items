@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Mugs, cups and dishes",
+    "Bowls and plates",
+    "Collapsible Fairshare Mug"
+  ],
+  "description": "A collapsible version of the original Fairshare. This mealtime mug is compact, light, and doubles as a bowl. Great for rehydrating meals.Secure-sealing lid is made of polypropylene. Body is made of silicone.Expands from an easy packing height of 4.3cm to a generous 650ml capacity.Comes with folding handle that locks in two places.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812561956894/5021499-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812562186270/5021499-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812561956894/5021499-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812562186270/5021499-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812561956894/5021499-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812562186270/5021499-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812561956894/5021499-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812562186270/5021499-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Collapsible Fairshare Mug",
+  "product_code": "5021-499",
+  "source_url": "https://www.mec.ca/en/product/5021-499/Collapsible-Fairshare-Mug",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Diameter": [
+      "18cm"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lid type": [
+      "Screw-top"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Polypropylene",
+      "Silicone"
+    ],
+    "Volume": [
+      "650ml"
+    ],
+    "Weight": [
+      "200g"
+    ]
+  }
+}

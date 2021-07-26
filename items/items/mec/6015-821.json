@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Jazda Short Sleeve Top"
+  ],
+  "description": "Comfy on the ride to work, comfy at work and comfy on the patio after work, the Jazda is all about stylish comfort.Gentle nylon spandex blend wicks away moisture and is light and airy against the skin.Mesh panels at the center back add contrast and help keep you cool.2-way stretch keeps comfort levels high when on the move.Center flat pleat adds to the fabrics natural drape.Body fabric is rated at UPF50+, blocking more than 98% of harmful UV.Length is 62cm length.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185925890078/6015821-CYA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185913438238/6015821-CYA01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185913569310/6015821-CYA01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185925890078/6015821-CYA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185913438238/6015821-CYA01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185913569310/6015821-CYA01-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185925890078/6015821-CYA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185913438238/6015821-CYA01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185913569310/6015821-CYA01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185925890078/6015821-CYA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185913438238/6015821-CYA01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185913569310/6015821-CYA01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Indyeva Jazda Short Sleeve Top - Women's",
+  "product_code": "6015-821",
+  "source_url": "https://www.mec.ca/en/product/6015-821/Jazda-Short-Sleeve-Top",
+  "tech_specs": {
+    "Fabric content": [
+      "94% nylon",
+      "6% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "105gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

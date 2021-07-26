@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax",
+    "Mach Alpine 3-Temperature Speedwax 180g"
+  ],
+  "description": "General purpose glidewax for a range of temperatures.Yellow for -5\u00b0C and warmer, Red for -5\u00b0 to -9\u00b0C, Green for -9\u00b0C and colder.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817194729502/5008975-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817194729502/5008975-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kuu Mach Alpine 3-Temperature Speedwax 180g",
+  "product_code": "5008-975",
+  "source_url": "https://www.mec.ca/en/product/5008-975/Mach-Alpine-3-Temperature-Speedwax-180g",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Cross-country skiing",
+      "Snowboarding",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "State": [
+      "Bar"
+    ],
+    "Temperature range": [
+      "\u2264-9\u00b0C",
+      "-9/-5\u00b0C",
+      "\u2265-5\u00b0C"
+    ],
+    "Type": [
+      "Glide"
+    ],
+    "Weight": [
+      "180g"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Headlamps and lighting",
+    "Lanterns",
+    "Candle Lanterns",
+    "Citronella Lantern Candle"
+  ],
+  "description": "A warm, flickering light source with a beautiful citrus scent that instantly evokes summer nights.Formulated with 0.5-0.75% natural oil of citronella.Burns about 9 hours.Fits in all models of UCO Candle Lanterns.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9066192044062/6009223-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9066192044062/6009223-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "UCO Citronella Lantern Candle",
+  "product_code": "6009-223",
+  "source_url": "https://www.mec.ca/en/product/6009-223/Citronella-Lantern-Candle",
+  "tech_specs": {
+    "Ideal for": [
+      "Emergency preparedness",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Thailand"
+    ]
+  }
+}

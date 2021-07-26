@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Pedals and cleats",
+    "Pedals",
+    "Vector 3 Pedals Dual-Sensing Power Meter"
+  ],
+  "description": "From pacing your race to making the most out of your time in the saddle, the Vector 3 is the ultimate power meter to get the job done. This dual-sided power-meter provides plenty of cycling dynamics data including Left/Right balance, time spent in and out of the saddle, power phase analysis as well as platform offset centre, which measures where you're applying force in relation to the centre of the pedal. With an industry-leading 1% accuracy and measurements taken at the pedals, you can confidently say that every watt it picks up was produced by you. The Vector 3 also features a complete redesign of the pedals' body and spindle, ensuring that everything is housed within the surprisingly normal-looking pedal \u2013 no more external pods. Travelling with these pedals is now easier than ever, as you'll need nothing but a standard pedal wrench to get these on your bike \u2013 no need for a torque wrench or an annoying trip to an unfamiliar bike shop. In a nutshell, this is the perfect tool for serious riders who want to get the most out of their training and ensure they're as efficient as possible.Pedal sensors have an industry-leading +/-1% accuracy.Built-in accelerometers track your cadence.All data is transmitted wirelessly via ANT+ and Bluetooth Smart.For use with compatible Edge\u00ae cycling computers, Fenix\u00ae watches, Forerunner\u00ae watches, and other ANT+ enabled head units.Real-time pedaling cycling dynamics are available when paired to a compatible Garmin Edge headunit.Detailed power metrics and graphs available through Garmin Connect software.Right and left leg power is reported separately, so you can correct any imbalance in your technique.Lightweight composite bodies with stainless steel wearplate blends durability and lightweight.Pedal installation is quick and requires nothing but a pedal wrench.User-replaceable LR44 battery provides 120 hours of use.Firmware can be updated wirelessly via a Garmin Edge, or a smartphone.Pedals are Look Keo\u00ae compatible.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980390903838/5062393-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980390903838/5062393-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Garmin Vector 3 Pedals Dual-Sensing Power Meter - Unisex",
+  "product_code": "5062-393",
+  "source_url": "https://www.mec.ca/en/product/5062-393/Vector-3-Pedals-Dual-Sensing-Power-Meter",
+  "tech_specs": {
+    "Body": [
+      "Composite"
+    ],
+    "Degrees of float\n\nFloat allows side to side movement of the foot while the foot is clipped in. This promotes comfort and helps prevent knee problems.": [
+      "Cleat dependent"
+    ],
+    "Ideal for": [
+      "Road cycling",
+      "Cycle training"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Type\n\nClipless pedals require compatible cycling shoes, flat pedals work with any type of shoe, pins add grip to flat pedals, and some clipless pedals have a flat pedal on one side so you can mix things up.": [
+      "3-hole clipless"
+    ],
+    "Weight": [
+      "316g"
+    ]
+  }
+}

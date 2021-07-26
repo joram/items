@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Swim fitness",
+    "Performance swim and lap suits",
+    "Solids High Neck Tank Swimsuit"
+  ],
+  "description": "A swimsuit for training or fitness TYR Durafast polyester is cholorine resistant, so it never fades or loses its stretch.Made of TYR Durafast  polyester that's chlorine resistant and provides a sleek fit.Cutout in back.Fabric provides UPF 50+ sun protection.Bra cups and tummy control panel add support.Fully lined.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070894841886/6008728-BLT55.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908702750/6008728-BLT55-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070894841886/6008728-BLT55.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908702750/6008728-BLT55-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070894841886/6008728-BLT55.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908702750/6008728-BLT55-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070894841886/6008728-BLT55.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070908702750/6008728-BLT55-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "TYR Solids High Neck Tank Swimsuit - Women's",
+  "product_code": "6008-728",
+  "source_url": "https://www.mec.ca/en/product/6008-728/Solids-High-Neck-Tank-Swimsuit",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Watersports",
+      "Swim training"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

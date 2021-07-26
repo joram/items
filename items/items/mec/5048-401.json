@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Bike chain service",
+    "CT-5 Mini Chain Brute Chain Tool"
+  ],
+  "description": "Compact, reliable, and easy to use, the CT-5 is a palm-sized chain tool with the quality Park Tool is known for.Works on derailleur chain including 5, 6, 7, 8, 9, 10, 11, and 12-speed chains.Shelf for loosening tight links.Dimensions are 60mm tall, 55mm wide and 15mm thick.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806518456350/5048401-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806518620190/5048401-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806518456350/5048401-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806518620190/5048401-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806518456350/5048401-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806518620190/5048401-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806518456350/5048401-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806518620190/5048401-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool CT-5 Mini Chain Brute Chain Tool",
+  "product_code": "5048-401",
+  "source_url": "https://www.mec.ca/en/product/5048-401/CT-5-Mini-Chain-Brute-Chain-Tool",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Snowshoeing gear",
+    "Snowshoe accessories",
+    "Hand and toe warmers",
+    "Hand Warmer"
+  ],
+  "description": "The compact design easily slips into a pocket or glove to keep your hands warm for up to 12 hours. Used with Zippo premium lighter fluid, it produces more than 10 times the heat of disposable warmers.Produces radiant heat without flame, smoke, or odour.Provides constant warmth for up to 12 hours with just 0.4oz of fuel.Burner is platinum-catalyzed glass fibre that lights quickly and easily. Replacement burner heads available.Reusable and virtually pollution-free.Includes a small fleece case and a pre-measured fill cup.Stainless steel body.Fuel available separately.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810053992478/5014829-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810054385694/5014829-ORG76-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810054189086/5014829-ORG76.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810053992478/5014829-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810054385694/5014829-ORG76-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810054189086/5014829-ORG76.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810053992478/5014829-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810054385694/5014829-ORG76-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810054189086/5014829-ORG76.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810053992478/5014829-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810054385694/5014829-ORG76-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810054189086/5014829-ORG76.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Zippo Hand Warmer",
+  "product_code": "5014-829",
+  "source_url": "https://www.mec.ca/en/product/5014-829/Hand-Warmer",
+  "tech_specs": {
+    "Ideal for": [
+      "Snowsports",
+      "Alpine climbing and mountaineering",
+      "Ice climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "65g"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Pots and pot sets",
+    "Pot handles, grippers and accessories",
+    "Heat Exchanger Unit"
+  ],
+  "description": "An engineered cooking accessory for improving fuel economy while melting snow or boiling water on longer trips. Not recommended for delicate cooking or simmering, since any spillage will be difficult to clean out of the unit.Compatible with all MSR\u00ae 1.5L and 2L pots (with the exception of the Titan\u2122 1.5L and Trail Lite Duo Pot).Corrugated surface channels additional stove heat into the pot through the sides.The unit can improve heat transfer, and fuel consumption, by up to 25%.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812745359390/1699628-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812745359390/1699628-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Heat Exchanger Unit",
+  "product_code": "1699-628",
+  "source_url": "https://www.mec.ca/en/product/1699-628/Heat-Exchanger-Unit",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "160g"
+    ]
+  }
+}

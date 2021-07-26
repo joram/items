@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Jackets",
+    "Soft shell jackets",
+    "Delda Light Softshell Jacket"
+  ],
+  "description": "A barrier against wintery weather. Warm and protective soft shell provides the freedom and protection you need for aerobic winter activities. Plenty of stretch paneling allows for unrestricted range of motion, and ventilation panels release hot air and sweat, keeping you dry while you work hard.3-layer soft shell fabric is wind- and waterproof.Stretch fleece panels on back and underarms add warmth.Mesh rear panel vents excess heat.Waterproof front zipper.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163326095390/6012611-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534668830/6012611-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163567235102/6012611-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163326095390/6012611-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534668830/6012611-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163567235102/6012611-BK000-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163326095390/6012611-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534668830/6012611-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163567235102/6012611-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163326095390/6012611-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161534668830/6012611-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163567235102/6012611-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Swix Delda Light Soft Shell Jacket - Men's",
+  "product_code": "6012-611",
+  "source_url": "https://www.mec.ca/en/product/6012-611/Delda-Light-Softshell-Jacket",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details",
+      "Wind flap behind zipper"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Cross-country skiing",
+      "Running"
+    ],
+    "Length": [
+      "Hip-length"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 handwarmer zippered",
+      "1 internal drop-in with cord port"
+    ],
+    "Secondary fabric": [
+      "88% polyester",
+      "12% spandex"
+    ],
+    "Type": [
+      "Soft shell"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Water-resistant"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof panels"
+    ]
+  }
+}

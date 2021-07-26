@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Alder Hike Socks"
+  ],
+  "description": "Take in your alpine surroundings without painful feet. The performance fabric uses synthetic and natural fibres to create a pair of durable, moisture-wicking socks.Performance blend technology twists polyester, nylon and merino wool fibres with a touch of elastane for stretch.Anatomical cushioning provides shock absorption where you need it.Infiknit\u2122 construction add durability to high-friction areas.Breathable mesh panels.Seamless toe closure for hotspot- and chafe-free wear.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163352145950/6013609-MTI01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163358896158/6013609-MTI01-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163359092766/6013609-MTI01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163352145950/6013609-MTI01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163358896158/6013609-MTI01-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163359092766/6013609-MTI01-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163352145950/6013609-MTI01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163358896158/6013609-MTI01-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163359092766/6013609-MTI01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163352145950/6013609-MTI01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163358896158/6013609-MTI01-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163359092766/6013609-MTI01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Stance Alder Hike Socks - Unisex",
+  "product_code": "6013-609",
+  "source_url": "https://www.mec.ca/en/product/6013-609/Alder-Hike-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "Yes"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "38% nylon",
+      "35% merino wool",
+      "23% polyester",
+      "4% elastane"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

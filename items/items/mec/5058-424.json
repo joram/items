@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike locks",
+    "Cable and chain locks",
+    "Cinch Lock"
+  ],
+  "description": "Protect your bike while you relax at the caf\u00e9 or pause for a quick pit stop. The multiple layers of heat-tempered steel and Kevlar make the Ottolock Cinch Lock light, flexible and hard to chop. Great for training rides when there's no way you'll carry a full-sized bike lock.Lots of stainless steel and Kevlar\u00ae layers make it hard to cut.Light but durable aluminum head uses strong and chip-resistant paint.Compact design is easy to carry around.3-digit combination is resettable.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978495864862/5058424-STH00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978495864862/5058424-STH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ottolock Cinch Lock",
+  "product_code": "5058-424",
+  "source_url": "https://www.mec.ca/en/product/5058-424/Cinch-Lock",
+  "tech_specs": {
+    "Diameter": [
+      "18mm"
+    ],
+    "Ideal for": [
+      "Urban cycling",
+      "Bikepacking",
+      "Cycle touring",
+      "Road cycling"
+    ],
+    "Length": [
+      "46cm (46 cm)",
+      "76cm (76cm)",
+      "152cm (152cm)"
+    ],
+    "Locking mechanism": [
+      "Combination"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Hardened steel"
+    ],
+    "Mounting bracket": [
+      "No"
+    ],
+    "Type": [
+      "Band lock"
+    ],
+    "Weight": [
+      "120g (46 cm)",
+      "155g (76cm)",
+      "235g (152cm)"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training food and drinks",
+    "Energy gels and chews",
+    "Caramel Macchiato Gel"
+  ],
+  "description": "Get a tasty jolt of motivation. Caramel Macchiato gel packs 40mg of caffeine. The formula includes electrolytes to ensure proper hydration, an antioxidant blend to stave off muscle tissue damage, and an amino acids to delay muscle fatigue.Ingredients: Maltodextrin, water, fructose, leucine, natural flavours, potassium citrate, sodium citrate, green tea (leaf) extract (contains caffeine), citric acid, ascorbic acid (Vitamin C), calcium carbonate, valine, sea salt, histidine, d-alpha-tocopheryl acetate (natural vitamin E), gellan gum, isoleucine, sodium benzoate (preservative), potassium sorbate (preservative), pectin powder, chamomile extract, ginger extract.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135603843102/5041370-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135616950302/5041370-NOC02-ALT-INGREDIENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135603843102/5041370-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135616950302/5041370-NOC02-ALT-INGREDIENTS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135603843102/5041370-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135616950302/5041370-NOC02-ALT-INGREDIENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135603843102/5041370-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135616950302/5041370-NOC02-ALT-INGREDIENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GU Caramel Macchiato Gel",
+  "product_code": "5041-370",
+  "source_url": "https://www.mec.ca/en/product/5041-370/Caramel-Macchiato-Gel",
+  "tech_specs": {
+    "Best consumed": [
+      "During exercise"
+    ],
+    "Caffeine": [
+      "40mg"
+    ],
+    "Calories per serving": [
+      "100Cal"
+    ],
+    "Carbohydrates": [
+      "22g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "0g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycling",
+      "Running"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Potassium": [
+      "40mg"
+    ],
+    "Protein": [
+      "0g"
+    ],
+    "Saturated fat": [
+      "0g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "60mg"
+    ],
+    "Sugar": [
+      "7g"
+    ],
+    "Total fat": [
+      "0g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "32g"
+    ]
+  }
+}

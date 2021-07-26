@@ -1,0 +1,69 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill skis",
+    "S/Force 7 + Z10 GW Skis + Bindings"
+  ],
+  "description": "A great choice for resort skiers looking to move up from renting, this ski will grow with you and won't hold you back as you build confidence on groomed and mixed terrain. Included bindings have a 3-size adjustment range, so you can match them up with your boots and hit the slopes right away.Glossy TPU coated topsheet resists damage.Lightweight poplar core for a nimble ride.Semi-sidewall construction is durable, with excellent edge hold in firm snow.Rocker tip improves soft snow performance.Included binding has a release value range of DIN 3-10, and is ideal for beginner to intermediate skiers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053388472350/6003795-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053388472350/6003795-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon S/Force 7 + Z10 GW Skis + Bindings - Unisex",
+  "product_code": "6003-795",
+  "source_url": "https://www.mec.ca/en/product/6003-795/S-Force-7-%2B-Z10-GW-Skis-%2B-Bindings",
+  "tech_specs": {
+    "Ability\n\nBeginner: new or getting back into skiing.  Intermediate: confident with turning and stopping.  Advanced: highly confident carver. Expert: steeps, drops, park, double blacks -- bring it on.": [
+      "Beginner",
+      "Intermediate"
+    ],
+    "Bindings included": [
+      "Yes"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Combination"
+    ],
+    "Core": [
+      "Wood"
+    ],
+    "Dimension": [
+      "123-76-106mm (140cm)",
+      "123-76-107mm (150cm)",
+      "123-76-107mm (160cm)",
+      "124-76-108mm (167cm)",
+      "125-76-108mm (175cm)"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Austria"
+    ],
+    "Rocker/camber profile": [
+      "Rocker tip"
+    ],
+    "Snow conditions": [
+      "Groomed"
+    ],
+    "Terrain": [
+      "On-Piste"
+    ],
+    "Turning radius": [
+      "10m (140cm)",
+      "11m (150cm)",
+      "13m (160cm)",
+      "14m (167cm)",
+      "15m (175cm)"
+    ],
+    "Weight": [
+      "3.9kg (167cm)"
+    ]
+  }
+}

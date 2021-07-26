@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Winter boots",
+    "Active winter boots",
+    "Canada Waterproof Winter Boots"
+  ],
+  "description": "The weather outside might be frightful, but you can go out anyway. Built for the rugged conditions in the coldest parts of our country, these boots are ready for whatever winter has in store. A rubber outsole blocks out snow and slush, while a tall leather shaft blocks out tall drifts. A thick felt liner insulates feet against serious cold \u2013 Baffin recommends these boots for temps as low as -40\u00b0C.Leather upper with faux-fur collar.Removable felt liner is light not bulky, and provides cold-weather comfort.Midsole are highly flexible GelFlex for shock absorption and rebound.Outsoles are flexible and durable rubber.Manufacturer's active rating is -40\u00b0C.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146522468382/6010670-BRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527088670/6010670-BRN00-ALT-DOUBLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527154206/6010670-BRN00-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527121438/6010670-BRN00-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527219742/6010670-BRN00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527252510/6010670-BRN00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146530463774/6010670-BRN00-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146522468382/6010670-BRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527088670/6010670-BRN00-ALT-DOUBLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527154206/6010670-BRN00-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527121438/6010670-BRN00-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527219742/6010670-BRN00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527252510/6010670-BRN00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146530463774/6010670-BRN00-ALT-MODEL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146522468382/6010670-BRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527088670/6010670-BRN00-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527154206/6010670-BRN00-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527121438/6010670-BRN00-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527219742/6010670-BRN00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527252510/6010670-BRN00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146530463774/6010670-BRN00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146522468382/6010670-BRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527088670/6010670-BRN00-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527154206/6010670-BRN00-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527121438/6010670-BRN00-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527219742/6010670-BRN00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146527252510/6010670-BRN00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146530463774/6010670-BRN00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Baffin Canada Waterproof Winter Boots - Men's",
+  "product_code": "6010-670",
+  "source_url": "https://www.mec.ca/en/product/6010-670/Canada-Waterproof-Winter-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Height\n\nThe approximate boot height for the average person.": [
+      "Mid-calf"
+    ],
+    "Ideal for": [
+      "Active winter wear"
+    ],
+    "Insulation": [
+      "Felt"
+    ],
+    "Lining material": [
+      "Felt"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Removable inner boot": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ]
+  }
+}

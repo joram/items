@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Tanks and sleeveless shirts",
+    "Pick-Up Tank"
+  ],
+  "description": "Pick up the pace without overheating. The moisture-managing DryLayer fabric wicks away your hard-earned sweat to keep you dry and focused. The 4-way stretch allows you to move freely from run to yoga to crossfit and back.Moisture-wicking polyester and spandex dries quickly so you stay dry and comfortable.Racerback and 4-way stretch for unrestricted movement.Fitted design is great as a baselayer on cooler days.\n\n        Sustainability\n\n\n\n\n\n\n\n\nBluesign\n\n\n\n\n\n\n\n\n\n\n\n                      Bluesign\u00ae Approved Material",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002659414046/5061972-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003132452894/5061972-BK000-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002659414046/5061972-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003132452894/5061972-BK000-ALT-FLAT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002659414046/5061972-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003132452894/5061972-BK000-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002659414046/5061972-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003132452894/5061972-BK000-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Brooks Pick-Up Tank - Women's",
+  "product_code": "5061-972",
+  "source_url": "https://www.mec.ca/en/product/5061-972/Pick-Up-Tank",
+  "tech_specs": {
+    "Fabric content": [
+      "85% polyester",
+      "15% spandex"
+    ],
+    "Ideal for": [
+      "Running",
+      "Yoga and fitness"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Product sustainability": [
+      "Bluesign\u00ae Approved Material"
+    ]
+  }
+}

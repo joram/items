@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth clothing",
+    "Youth swimwear",
+    "Youth boardshorts",
+    "Snicker Stretch Swim Shorts"
+  ],
+  "description": "For epic sandcastle building sessions or learning to SUP, these stretchy swim shorts provide all comfort in the water or on land.Made of quick-drying Hyperstretch polyester with lots of spandex.Elastc waistband and drawstring ensure they stay in place.Front pockets hold small items.5in. inseam on all sizes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336061982/5064027-TDS07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336389662/5064027-TDS07-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336520734/5064027-TDS07-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336061982/5064027-TDS07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336389662/5064027-TDS07-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336520734/5064027-TDS07-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336061982/5064027-TDS07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336389662/5064027-TDS07-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336520734/5064027-TDS07-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336061982/5064027-TDS07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336389662/5064027-TDS07-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161336520734/5064027-TDS07-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Snicker Stretch Swim Shorts - Boys' - Youths",
+  "product_code": "5064-027",
+  "source_url": "https://www.mec.ca/en/product/5064-027/Snicker-Stretch-Swim-Shorts",
+  "tech_specs": {
+    "Fabric content": [
+      "92% polyester",
+      "8% spandex"
+    ],
+    "Ideal for": [
+      "Watersports",
+      "Beach"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 front slash"
+    ]
+  }
+}

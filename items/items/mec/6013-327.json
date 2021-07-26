@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Saws, axes and camp shovels",
+    "Saws",
+    "No18 Saw Replacement Blade"
+  ],
+  "description": "Breathe new life into your No.18 saw with this new blade.Works with the Opinel No.18 saw.Carbon steel blade has an anti-corrosion coating but should be cleaned an oiled regularly for best performance.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146008043550/6013327-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146008043550/6013327-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Opinel No18 Saw Replacement Blade",
+  "product_code": "6013-327",
+  "source_url": "https://www.mec.ca/en/product/6013-327/No18-Saw-Replacement-Blade",
+  "tech_specs": {
+    "Blade length": [
+      "18cm"
+    ],
+    "Blade material": [
+      "Carbon steel"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "France"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Quickdraws",
+    "Phantom Quickdraw"
+  ],
+  "description": "Super lightweight quickdraws for your trad, alpine or winter rack. 11mm Dynatec slings are super flexible so your gear is less prone to walking, and the wire gate Phantom carabiners help prevent gate flutter and keep the overall weight low.Includes 2 lightweight wire gate Phantom carabiners.Flexible and strong 11mm Dyneema sling.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087665274910/6008065-SIL18.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087665274910/6008065-SIL18.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DMM Phantom Quickdraw",
+  "product_code": "6008-065",
+  "source_url": "https://www.mec.ca/en/product/6008-065/Phantom-Quickdraw",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.1cm"
+    ],
+    "Gate type": [
+      "Wire"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Sling length": [
+      "18cm (18cm)",
+      "25cm (25cm)"
+    ],
+    "Sling material": [
+      "Dyneema"
+    ],
+    "Sling width": [
+      "11mm"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "23kN"
+    ],
+    "Strength cross-loaded": [
+      "7kN"
+    ],
+    "Strength open": [
+      "9kN"
+    ],
+    "Three sigma tested": [
+      "No"
+    ],
+    "Weight": [
+      "67g (18cm)",
+      "70g (25cm)"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Snowboarding gear",
+    "Snowboards",
+    "Speedway Snowboard"
+  ],
+  "description": "Long, light and stiff, the Speedway is all about, well... speed. Its directional, tapered shape and uncambered front section give it a floaty, loose feel when charging steep powder, while a more traditional camber under the back foot lets you carve up groomers. Quadratic sidecut provides edge-to-edge agility, while a stiff, lightweight wood/carbon build with ABS sidewalls let you push it to the max. Salomon recommends sizing up around 5 cm over your typical board length, but don't worry, speed demons: an ultralight honeycomb composite tip insert ensures you won't feel the extra length in swing weight.Tapered directional shape provides float for charging the steep and deep line of your choice.Backseat camber combines traditional camber under your back foot with a flat nose for high-speed carving on groomers and a looser, floaty feeling in pow.Quadratic sidecut for easy turns and agility from edge to edge.Lightweight paulownia wood core with honeycomb composite tip for reduced swing weight.C/FX Superfiber laminate combines carbon fibre and flax for a light, lively and damp ride.ABS sidewalls for durability and dampening properties.Sintered bases for excellent wax retention.Binding compatibility: 2 X 4 insert pattern.Salomon recommends upsizing 5 cm from your typical board length.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057497088030/6003997-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057497088030/6003997-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057497088030/6003997-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057497088030/6003997-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Speedway Snowboard - Men's",
+  "product_code": "6003-997",
+  "source_url": "https://www.mec.ca/en/product/6003-997/Speedway-Snowboard",
+  "tech_specs": {
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Combination"
+    ],
+    "Core": [
+      "Wood",
+      "Carbon"
+    ],
+    "Dimensions": [
+      "288-249-294mm (155cm)",
+      "293-252-299mm (160cm)"
+    ],
+    "Effective edge\n\nThe portion of the metal edge in contact with the snow to engage turns. Shorter effective edges make for quicker turns. Longer effective edges help stability at high speeds.": [
+      "1155 (155cm)",
+      "1190 (160cm)"
+    ],
+    "Ideal for": [
+      "Snowboarding"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

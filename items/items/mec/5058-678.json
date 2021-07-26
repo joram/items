@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Drinks",
+    "Energy and recovery drinks",
+    "Endurance Recovery Chocolate"
+  ],
+  "description": "Skratch Labs set out to develop a delicious chocolate recovery drink that was as beneficial to the body as a real meal, but without the hassle of cooking or chewing. This next generation adds a probiotic to aid protein absorption, as well as lactase to help people who have issues with milk products or lactose. Most recovery drinks are full of excess ingredients, but Endurance Recovery mix uses a select few ingredients full of easy-to-break-down proteins and sugars to give your body the fuel it needs, when it needs it most.Ingredients: cane sugar, whole milk, non-fat milk, dextrose, cocoa powder, cocoa extract, lactase, salt, Bacillus coagulans GBI-30 6086 (probiotic).Certified Kosher.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946704842782/5058678-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946704842782/5058678-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Skratch Labs Endurance Recovery Chocolate",
+  "product_code": "5058-678",
+  "source_url": "https://www.mec.ca/en/product/5058-678/Endurance-Recovery-Chocolate",
+  "tech_specs": {
+    "Best consumed": [
+      "Recovery"
+    ],
+    "Caffeine": [
+      "45mg"
+    ],
+    "Calories per serving": [
+      "200Cal"
+    ],
+    "Carbohydrates": [
+      "36g"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Fitness and training",
+      "Triathlon",
+      "Cycle training"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Protein": [
+      "8g"
+    ],
+    "Serving size": [
+      "1/12 package"
+    ],
+    "Servings": [
+      "12"
+    ],
+    "Sodium": [
+      "260mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "32g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "600g"
+    ]
+  }
+}

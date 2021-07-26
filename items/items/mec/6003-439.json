@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Coolers and food storage",
+    "Food containers",
+    "Variety Beeswax Food Wrap"
+  ],
+  "description": "Carry your lunch or store your veggies in a plastic-free wraps. These self-adhesive and reusable wraps are great for covering your leftovers, and they're breathable so they keep your food fresher for longer (when compared to plastic wrap). Plus, they're biodegradable and compostable, so they create no waste at the end of their life.Made of hemp and organically grown cotton fabric infused with beeswax, tree resin and jojoba oil.Includes 1 small wrap (18 x 18cm), 1 medium wrap (25 x 25cm) and 1 large wrap (33 x 33cm).Wash with cold water and a light dishsoap.Keep away from warm water and heat sources.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026802876446/6003439-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027022618654/6003439-NOC02-ALT-INUSE1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023634462/6003439-NOC02-ALT-INUSE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026802876446/6003439-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027022618654/6003439-NOC02-ALT-INUSE1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023634462/6003439-NOC02-ALT-INUSE2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026802876446/6003439-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027022618654/6003439-NOC02-ALT-INUSE1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023634462/6003439-NOC02-ALT-INUSE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026802876446/6003439-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027022618654/6003439-NOC02-ALT-INUSE1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027023634462/6003439-NOC02-ALT-INUSE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Abeego Variety Beeswax Food Wrap",
+  "product_code": "6003-439",
+  "source_url": "https://www.mec.ca/en/product/6003-439/Variety-Beeswax-Food-Wrap",
+  "tech_specs": {
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Material": [
+      "Hemp",
+      "Cotton"
+    ]
+  }
+}

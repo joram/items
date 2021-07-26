@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Batteries",
+    "Alkaline batteries",
+    "21/23 12V Alkaline Battery"
+  ],
+  "description": "A quality Duracell battery to power your favourite small devices.Also known as: A23, MN21, 23AF, 23AE and V23GA.Common application: car alarm remotes, key fobs, GPS trackers, remote controls, etc.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145838632990/6011148-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145838632990/6011148-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Duracell 21/23 12V Alkaline Battery",
+  "product_code": "6011-148",
+  "source_url": "https://www.mec.ca/en/product/6011-148/21-23-12V-Alkaline-Battery",
+  "tech_specs": {
+    "Capacity": [
+      "50mAh"
+    ],
+    "Chemistry": [
+      "Alkaline"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Rechargeable": [
+      "No"
+    ],
+    "Size": [
+      "A23"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Hiking sandals",
+    "Targhee III Sandals"
+  ],
+  "description": "The classic Keen Targhee shoe has been pared down to a rugged sandal, ready to take on trails and rivers with airy feet. The closed-toe design and toe bumper keep your feet protected where ever the path takes you.Leather uppers are highly abrasion-resistant.Quick-pull closure for a snug, comfortable fit.Quick-dry mesh lining.EVA footbeds and midsoles cradle and cushion your feet.Non-marking Keen.All-Terrain rubber with multi-directional lugs for traction at any angle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088616169502/6005886-BSM10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620396574/6005886-BSM10-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620429342/6005886-BSM10-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620462110/6005886-BSM10-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620757022/6005886-BSM10-ALT-TOESOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620789790/6005886-BSM10-ALT-TOPSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088616169502/6005886-BSM10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620396574/6005886-BSM10-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620429342/6005886-BSM10-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620462110/6005886-BSM10-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620757022/6005886-BSM10-ALT-TOESOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620789790/6005886-BSM10-ALT-TOPSIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088616169502/6005886-BSM10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620396574/6005886-BSM10-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620429342/6005886-BSM10-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620462110/6005886-BSM10-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620757022/6005886-BSM10-ALT-TOESOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620789790/6005886-BSM10-ALT-TOPSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088616169502/6005886-BSM10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620396574/6005886-BSM10-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620429342/6005886-BSM10-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620462110/6005886-BSM10-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620757022/6005886-BSM10-ALT-TOESOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088620789790/6005886-BSM10-ALT-TOPSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Keen Targhee III Sandals - Men's",
+  "product_code": "6005-886",
+  "source_url": "https://www.mec.ca/en/product/6005-886/Targhee-III-Sandals",
+  "tech_specs": {
+    "Closure": [
+      "Quick pull"
+    ],
+    "Footbed": [
+      "EVA"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Travel"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Upper material": [
+      "Leather"
+    ]
+  }
+}

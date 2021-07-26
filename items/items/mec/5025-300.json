@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "How to Climb: Self-Rescue 2nd Edition"
+  ],
+  "description": "Whether you need to assist your partner past a difficult section, or rappel down a multipitch route with an injured climber, you owe it to yourself and your fellow climbers to be prepared. Self-Rescue fully describes and illustrates techniques that every climber needs to know for safety and self-reliance. Revised with the latest techniques and accompanied by Mike Clelland's clear illustrations, this is the definitive resource on the topic. It includes self-rescue concepts: terrain, technical ledges, baseline and belay escapes, knots and hitches, anchors and belays, assessment of patients and terrain, top-rope rescue, leader rescue, and search and rescue.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815729934366/5025300-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815729934366/5025300-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Falcon How to Climb: Self-Rescue 2nd Edition",
+  "product_code": "5025-300",
+  "source_url": "https://www.mec.ca/en/product/5025-300/How-to-Climb%3A-Self-Rescue-2nd-Edition",
+  "tech_specs": {
+    "Author": [
+      "David Fasulo"
+    ],
+    "Edition": [
+      "2nd"
+    ],
+    "ISBN": [
+      "9780762755332"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Climbing training"
+    ],
+    "Illustrator": [
+      "Mike Clelland"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "246"
+    ],
+    "Published": [
+      "2011"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Base layers and underwear",
+    "Underwear",
+    "Merino 150 Lace Bikini"
+  ],
+  "description": "Soft and lightweight undies with a lacey knit pattern for increased breathability. Temperature-regulating merino dries quickly and feels great against your skin for comfort on the trail or at your desk.Made of a naturally antimicrobial merino wool blend with lace knit details.Nylon core for increased durability while keeping the soft merino wool next to your skin.Soft elastic waistband creates a flattering fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079063576606/6006413-NAT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079063576606/6006413-NAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Merino 150 Lace Bikini - Women's",
+  "product_code": "6006-413",
+  "source_url": "https://www.mec.ca/en/product/6006-413/Merino-150-Lace-Bikini",
+  "tech_specs": {
+    "Fabric content": [
+      "77% merino wool",
+      "23% nylon"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "146gsm"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ]
+  }
+}

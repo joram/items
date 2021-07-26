@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike computers",
+    "Mounts and sensors for bike computers",
+    "Bike computer mounts",
+    "HandleBand Universal Smartphone Bar Mount v2"
+  ],
+  "description": "Secure your phone to your bike or jogging stroller. Consult maps, GPS info or essential messages while you're away from home.Made of expandable silicone with an aluminum base.Band secures your phone and allows removal.Easy to position and allows viewing in portrait or landscape orientation.Works with or without phone cases.Use it to secure a flashlight, if you don't want to use your phone as your only light.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973197606942/5061591-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973198557214/5061591-CHA00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973198721054/5061591-CHA00-ALT-STROLLER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973198950430/5061591-CHA00-ALT-MOUNTAINBIKE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973199048734/5061591-CHA00-ALT-FIXE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973199081502/5061591-CHA00-ALT-CANOPENER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973199769630/5061591-CHA00-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973200064542/5061591-CHA00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973197606942/5061591-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973198557214/5061591-CHA00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973198721054/5061591-CHA00-ALT-STROLLER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973198950430/5061591-CHA00-ALT-MOUNTAINBIKE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973199048734/5061591-CHA00-ALT-FIXE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973199081502/5061591-CHA00-ALT-CANOPENER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973199769630/5061591-CHA00-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973200064542/5061591-CHA00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973197606942/5061591-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973198557214/5061591-CHA00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973198721054/5061591-CHA00-ALT-STROLLER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973198950430/5061591-CHA00-ALT-MOUNTAINBIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973199048734/5061591-CHA00-ALT-FIXE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973199081502/5061591-CHA00-ALT-CANOPENER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973199769630/5061591-CHA00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973200064542/5061591-CHA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973197606942/5061591-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973198557214/5061591-CHA00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973198721054/5061591-CHA00-ALT-STROLLER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973198950430/5061591-CHA00-ALT-MOUNTAINBIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973199048734/5061591-CHA00-ALT-FIXE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973199081502/5061591-CHA00-ALT-CANOPENER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973199769630/5061591-CHA00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973200064542/5061591-CHA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nite Ize HandleBand Universal Smartphone Bar Mount v2",
+  "product_code": "5061-591",
+  "source_url": "https://www.mec.ca/en/product/5061-591/HandleBand-Universal-Smartphone-Bar-Mount-v2",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling",
+      "Cycle commuting",
+      "Road cycling",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Waterton Lakes National Park 4th Edition"
+  ],
+  "description": "Explore all the hiking and biking trails within Waterton Lakes National Park, the eastern end of Akamina-Kishinena Provincial Park and the northern area of Glacier National Park, Montana. Includes descriptions of over 20 day hikes, bike trails multi-day trips with distance, elevation gain and colour photographs. Don't forget to visit the Waterton townsite. Use the inset map (1:35,000) to help you find accomodations and services.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035648532510/5056510-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035648532510/5056510-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Waterton Lakes National Park 4th Edition",
+  "product_code": "5056-510",
+  "source_url": "https://www.mec.ca/en/product/5056-510/Waterton-Lakes-National-Park-4th-Edition",
+  "tech_specs": {
+    "Edition": [
+      "4th"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking",
+      "Mountain biking",
+      "Cross-country skiing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

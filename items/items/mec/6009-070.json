@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Paddleboarding",
+    "SUP paddles",
+    "Carbon SUP Paddle"
+  ],
+  "description": "Want to go further? A lightweight paddle makes all the difference, and this carbon fibre beauty weighs in at 700 grams.High-performance carbon shaft and blade.Teardrop blade shape is ideal for touring.10 degree blade angle increases paddling efficiency.Adjustable length: 175-215cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087000379422/6009070-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086997397534/6009070-SIL00-ALT-HANDLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087000379422/6009070-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086997397534/6009070-SIL00-ALT-HANDLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087000379422/6009070-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086997397534/6009070-SIL00-ALT-HANDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087000379422/6009070-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086997397534/6009070-SIL00-ALT-HANDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Carbon SUP Paddle",
+  "product_code": "6009-070",
+  "source_url": "https://www.mec.ca/en/product/6009-070/Carbon-SUP-Paddle",
+  "tech_specs": {
+    "Blade dimensions": [
+      "40\u00a0x\u00a021cm\u00a0(15\u00be\u00a0x\u00a08\u00bcin.)"
+    ],
+    "Blade material": [
+      "Carbon fibre"
+    ],
+    "Blade shape\n\nBlade shapes are designed to apply power efficiently. Short, wide: immediate power. Long, narrow: better leverage in turbulent water. Wing: channels water for maximum power and speed.": [
+      "Teardrop"
+    ],
+    "Ideal for": [
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Shaft material": [
+      "Carbon fibre"
+    ],
+    "Shaft type": [
+      "Bent"
+    ],
+    "Weight": [
+      "700g"
+    ]
+  }
+}

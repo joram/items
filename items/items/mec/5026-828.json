@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bicycle pumps",
+    "Bike pump parts and accessories",
+    "Speed F2 Bicycle Pump Parts Kit"
+  ],
+  "description": "Spare parts for the Airace Speed F2 pump.Contains a complete rebuild kit for the pump head. Includes an O-ring for the shaft, and a bracket mounting kit (zip ties, screws, and velcro strap).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806457475102/5026828-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806457475102/5026828-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Airace Speed F2 Bicycle Pump Parts Kit",
+  "product_code": "5026-828",
+  "source_url": "https://www.mec.ca/en/product/5026-828/Speed-F2-Bicycle-Pump-Parts-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

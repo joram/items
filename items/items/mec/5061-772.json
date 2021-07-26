@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike trainers and accessories",
+    "Bike trainers",
+    "Novo Force Trainer"
+  ],
+  "description": "Tour training without the traffic. A wide, secure frame means this indoor cycling trainer stays sturdy during hard sprints. The Elastrogel roller minimizes tire friction and keeps excess noise to a minimum in case you can\u2019t train til everyone else is asleep. It fits both road and MTB wheels, so you can train on any one of your trusty steeds.Magnetic resistance provides 1080W of resistance at 60kph.Elastogel roller reduces noise and tire wear.Wide frame provides a rock-solid base during hard out-of-the-saddle efforts.Handlebar-mounted lever to choose from 8 resistance levels.Fits road and mountain wheels from 24 to 29in.Compatible with Misuro B+ sensor to broadcast speed, cadence and power.Thru-axle adaptor available separately.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8974904000542/5061772-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978516443166/5061772-WHT00-ALT-LEVELS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978516475934/5061772-WHT00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8974904000542/5061772-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978516443166/5061772-WHT00-ALT-LEVELS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978516475934/5061772-WHT00-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8974904000542/5061772-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978516443166/5061772-WHT00-ALT-LEVELS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978516475934/5061772-WHT00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8974904000542/5061772-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978516443166/5061772-WHT00-ALT-LEVELS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978516475934/5061772-WHT00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Elite Novo Force Trainer",
+  "product_code": "5061-772",
+  "source_url": "https://www.mec.ca/en/product/5061-772/Novo-Force-Trainer",
+  "tech_specs": {
+    "Adjustable resistance": [
+      "Yes"
+    ],
+    "External power supply required\n\nIf an external source is required, your trainer needs to be plugged into an outlet, or if unplugged, will have a reduced number of features.": [
+      "No"
+    ],
+    "Folding\n\nTrainer can be folded flat for storage.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycle training"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Maximum resistance at 40Km/h": [
+      "680W"
+    ],
+    "Resistance type\n\nHow the trainer delivers resistance to the rear wheel of your bike.": [
+      "Magnetic"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling clothing accessories",
+    "Cycling gloves",
+    "Tramont Glove"
+  ],
+  "description": "Cushy gloves for sweltering centuries and evening intervals. Mesh backing keeps hands cool, while ergonomic, low-profile padding dampens road buzz.Synthetic suede palm is durable and fast-drying.LYCRA\u00ae blend provides comfortable stretch.Mesh back of hand keeps air flowing.Moderate padding for a natural feel.Hook-and-loop closure at cuffs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194102882334/6016294-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194102685726/6016294-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194102882334/6016294-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194102685726/6016294-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194102882334/6016294-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194102685726/6016294-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194102882334/6016294-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194102685726/6016294-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Louis Garneau Tramont Glove - Men's",
+  "product_code": "6016-294",
+  "source_url": "https://www.mec.ca/en/product/6016-294/Tramont-Glove",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling",
+      "Cyclocross",
+      "Cycle touring",
+      "Gravel riding"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Padding": [
+      "Foam"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Synthetic leather"
+    ],
+    "Type": [
+      "Fingerless gloves"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "None"
+    ]
+  }
+}

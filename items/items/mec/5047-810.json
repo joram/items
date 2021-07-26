@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Casual socks",
+    "Sulawesi Stripe Crew Socks"
+  ],
+  "description": "Add some stripes to your life. Slim and non-cushioned, these crew height socks fit sleekly in close-fitting shoes. Plus they have more merino in the high wear areas to help them last longer.Made of soft merino wool, nylon and elastane for some stretch.Arch and ankle support, with a reinforced cushioned zone underfoot.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179613265950/5047810-ASH00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179613265950/5047810-ASH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Sulawesi Stripe Crew Socks - Women's",
+  "product_code": "5047-810",
+  "source_url": "https://www.mec.ca/en/product/5047-810/Sulawesi-Stripe-Crew-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "57% merino wool",
+      "40% nylon",
+      "3% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

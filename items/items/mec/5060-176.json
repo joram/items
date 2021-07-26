@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Quickdraws",
+    "Superclip"
+  ],
+  "description": "A handy stick clip for hanging or retrieving quickdraws, or clipping a rope into pre-hung draws to protect a climber from a potential ground fall. The simple design can be used with any non-locking climbing carabiner.Made from stainless spring steel for long-lasting stick clipping.Threaded end fits standard painter's or window-washer's poles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8949269495838/5060176-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8949269495838/5060176-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Superclip Rescue Tools Superclip",
+  "product_code": "5060-176",
+  "source_url": "https://www.mec.ca/en/product/5060-176/Superclip",
+  "tech_specs": {
+    "Ideal for": [
+      "Sport and toprope climbing"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

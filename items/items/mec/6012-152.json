@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Campus Short Sleeve T-Shirt"
+  ],
+  "description": "An organic tee for your training days or down time.Single chest pocket fits a few cards and some cash nicely.Slim athletic fit.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187249848350/6012152-VCI50.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187246637086/6012152-VCI50-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187246702622/6012152-VCI50-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187249848350/6012152-VCI50.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187246637086/6012152-VCI50-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187246702622/6012152-VCI50-ALT-B.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187249848350/6012152-VCI50.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187246637086/6012152-VCI50-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187246702622/6012152-VCI50-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187249848350/6012152-VCI50.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187246637086/6012152-VCI50-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187246702622/6012152-VCI50-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Campus Short Sleeve T-Shirt - Women's",
+  "product_code": "6012-152",
+  "source_url": "https://www.mec.ca/en/product/6012-152/Campus-Short-Sleeve-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "96% organically grown cotton",
+      "4% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "160gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "India"
+    ],
+    "Pockets": [
+      "1 external chest"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ]
+  }
+}

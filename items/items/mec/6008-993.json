@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Wetsuits and neoprene clothing",
+    "Wetsuits",
+    "Shorty Wetsuit"
+  ],
+  "description": "A snug fit for warmth, and lots of range of motion for cannonballing. No seams under the arms means no chafing when kids are swimming, paddling and waving to neighbours on the dock.Made of 2.5mm Thermo-Stretch neoprene.Skin-tight fit for warmth.Mock turtleneck collar.YKK\u00ae back-entry zipper with a long pull.Raglan-style sleeves prevent chafing and irritation.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087001755678/6008993-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087001755678/6008993-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Shorty Wetsuit - Youths",
+  "product_code": "6008-993",
+  "source_url": "https://www.mec.ca/en/product/6008-993/Shorty-Wetsuit",
+  "tech_specs": {
+    "Face fabric": [
+      "2.5mm neoprene"
+    ],
+    "Ideal for": [
+      "Watersports"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Relief opening": [
+      "No"
+    ]
+  }
+}

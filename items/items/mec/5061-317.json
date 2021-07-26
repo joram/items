@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tires",
+    "Xerxes Studded Commuter 700 x 30c Wire Tire"
+  ],
+  "description": "These winter commuting\u2013specific tires are equipped with 140 studs with carbide tips that make your trip to work or school over black ice much faster and safer. The centres of the treads are tightly packed to provide low rolling resistance, while the edges are knobby and studded for amazing traction.Studs feature a dome-shaped carbide tip with a steel base for durability.140 studs are distributed along the edges to help you stay upright on slippery commutes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9001746366494/5061317-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9001746366494/5061317-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "45NRTH Xerxes Studded Commuter 700 x 30c Wire Tire",
+  "product_code": "5061-317",
+  "source_url": "https://www.mec.ca/en/product/5061-317/Xerxes-Studded-Commuter-700-x-30c-Wire-Tire",
+  "tech_specs": {
+    "Bead\n\nThe bead holds the tire onto the rim. Beads may be hoops of wire, or made of a flexible material which allows them to be folded compactly. Folding tires are easier to store or pack on trips.": [
+      "Wire"
+    ],
+    "ETRTO\n\nISO/ETRTO universal tire sizing system number for matching the correct tire to the rim.": [
+      "30-622"
+    ],
+    "Ideal for": [
+      "Urban cycling",
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "TPI\n\nThreads per inch. Tires with a higher TPI tend to be more supple and lighter, with less rolling resistance, but are less durable.": [
+      "33"
+    ],
+    "Tire size": [
+      "700 X 30"
+    ],
+    "Tire type": [
+      "Clincher"
+    ],
+    "Wheel position": [
+      "Rear",
+      "Front"
+    ]
+  }
+}

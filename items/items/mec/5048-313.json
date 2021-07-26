@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Footwear accessories",
+    "Shoe and boot care",
+    "Odour Eliminator 100ml"
+  ],
+  "description": "Effective for climbing shoes, runners, hiking boots, and summer footwear \u2013 especially sandals.Kills odour causing bacteria and absorbs the oils that bacteria feed on.Effective on fabric, suede, and leather.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815531294750/5048313-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815531294750/5048313-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815531294750/5048313-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815531294750/5048313-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Grangers Odour Eliminator 100ml",
+  "product_code": "5048-313",
+  "source_url": "https://www.mec.ca/en/product/5048-313/Odour-Eliminator-100ml",
+  "tech_specs": {
+    "Ideal for": [
+      "Running"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Type": [
+      "Cleanser"
+    ],
+    "Volume": [
+      "100ml"
+    ]
+  }
+}

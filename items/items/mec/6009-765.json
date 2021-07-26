@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Ski socks",
+    "PhD Pro Freeski Socks"
+  ],
+  "description": "These lightweight ski socks have additional cushioned zones on the shin and ankle for comfort, but are kept thin elsewhere so they slide inside performance-fit boots. Created in collaboration with professional skier Angel Collinson.Indestructawool merino wool blend improves durability in heel and forefoot areas.Light cushioning on shin, ankle, heel and forefoot for impact protection and fit in performance ski boots.Banded fit system features elastic arches and ankle braces, with flex zones to eliminate bunching, slipping and sagging.Flat knit side panels and toe seams reduce chafing and hot spots.Women's specific fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130061430814/6009765-MIL22.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130061430814/6009765-MIL22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool PhD Pro Freeski Socks - Unisex",
+  "product_code": "6009-765",
+  "source_url": "https://www.mec.ca/en/product/6009-765/PhD-Pro-Freeski-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Knee"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Shin",
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "57% merino wool",
+      "40% nylon",
+      "3% elastane"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Downhill skiing",
+      "Snowboarding"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

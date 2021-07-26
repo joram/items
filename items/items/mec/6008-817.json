@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water bottles",
+    "Sports bottles",
+    "Podium 710ml Bottle"
+  ],
+  "description": "An easy-squeezing, self-sealing bottle to keep you hydrated on your way to the podium.Soft polypropylene body is easy to squeeze.HydroGuard antimicrobial technology keeps your water tasting fresh.High-flow valve is self-sealing and leakproof to prevent spills.Fits most standard bottle cages.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061500125214/6008817-SMK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061499961374/6008817-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061500125214/6008817-SMK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061499961374/6008817-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061500125214/6008817-SMK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061499961374/6008817-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061500125214/6008817-SMK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9061499961374/6008817-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "CamelBak Podium 710ml Bottle",
+  "product_code": "6008-817",
+  "source_url": "https://www.mec.ca/en/product/6008-817/Podium-710ml-Bottle",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lid type": [
+      "Sport cap"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Polypropylene"
+    ],
+    "Volume": [
+      "710ml"
+    ],
+    "Water filter compatible": [
+      "No"
+    ],
+    "Weight": [
+      "77g"
+    ]
+  }
+}

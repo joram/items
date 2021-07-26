@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Lake Louise-Yoho Recreation Map 10th Edition"
+  ],
+  "description": "Find your way down 28 popular trails in the Lake Louise and Yoho regions including Chateau Lake Louise, Moraine Lake, Skoki Valley, Emerald Lake, Yoho Valley and Lake O'Hara. The reverse side includes detailed inset maps, photos, and descriptions of hikes and nearby facilities.Full colour and relief-shaded.Waterproof.Main map is 1:50,000 scale.Detailed maps of Chateau Lake Louise and Lake O'Hara areas are 1:25,000 scale.Dimensions are 70 x 100cm open, 11 x 25cm folded.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035648565278/5056507-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035648565278/5056507-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Lake Louise-Yoho Recreation Map 10th Edition",
+  "product_code": "5056-507",
+  "source_url": "https://www.mec.ca/en/product/5056-507/Lake-Louise-Yoho-Recreation-Map-10th-Edition",
+  "tech_specs": {
+    "Edition": [
+      "10th"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Day hiking",
+      "Mountain biking",
+      "Cross-country skiing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

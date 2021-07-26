@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country skate",
+    "Skate ski poles",
+    "Nordic CX-100 Cork Poles"
+  ],
+  "description": "Take off in the fast track. With lightweight carbon construction, these poles are primed for skiers who move with a purpose. The grip and tip are designed to shave weight without compromising performance.16mm carbon fibre construction is strong and light.Click in strap for snug and secure adjustment at the wrist.Natural cork grip is light and non-slip.Nordic trail ultralight basket.Tungsten carbide tip handles icy sections.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138055446558/6011705-YLW00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138055446558/6011705-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Komperdell Nordic CX-100 Cork Poles - Unisex",
+  "product_code": "6011-705",
+  "source_url": "https://www.mec.ca/en/product/6011-705/Nordic-CX-100-Cork-Poles",
+  "tech_specs": {
+    "Grip material": [
+      "Cork"
+    ],
+    "Ideal for": [
+      "Cross-country skiing"
+    ],
+    "Made in": [
+      "Austria"
+    ],
+    "Pole material": [
+      "Carbon fibre"
+    ],
+    "Sold in pairs": [
+      "Yes"
+    ],
+    "Weight": [
+      "200g (150cm)"
+    ]
+  }
+}

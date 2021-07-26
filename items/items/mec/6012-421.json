@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Daypacks and school bags",
+    "Daypacks",
+    "Spire Backpack"
+  ],
+  "description": "This rolltop backpack is ready for your daily commute or a trip across the globe. Dedicated pockets are designed to carry all your daily essentials, and the padded air mesh shoulder straps and back panel help keep you cool on the way to your destination.High-denier polyester with phthalate-free PVC is durable and weather-resistant.Access the laptop sleeve through the roll top closure or through the incognito back zipper.Internal organizer in the front pocket for pens, phones, and other small stuff.Exterior webbing offers attachment for carabiners, lights or U-lock.Elasticized external side pocket holds a water bottle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140725055518/6012421-JBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140725121054/6012421-JBL00-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140725055518/6012421-JBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140725121054/6012421-JBL00-ALT-MODEL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140725055518/6012421-JBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140725121054/6012421-JBL00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140725055518/6012421-JBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140725121054/6012421-JBL00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Timbuk2 Spire Backpack - Unisex",
+  "product_code": "6012-421",
+  "source_url": "https://www.mec.ca/en/product/6012-421/Spire-Backpack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top",
+      "Rear"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Depth": [
+      "15cm"
+    ],
+    "Hipbelt": [
+      "None"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Length": [
+      "50cm"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Main fabric": [
+      "900-denier polyester"
+    ],
+    "Padded sleeve fits most\n\nA padded slot to fit electronics or laptops, it may be partially or fully padded on each side.": [
+      "15-inch laptop"
+    ],
+    "Volume": [
+      "26L"
+    ],
+    "Weight": [
+      "900g"
+    ],
+    "Width": [
+      "31cm"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Bike chain service",
+    "CC-3.2C Chain Wear Indicator"
+  ],
+  "description": "A worn chain shifts poorly and places unnecessary wear on sprockets. The CC-3.2 is a go/no-go gauge that accurately indicates 0.5% and 0.75%, when most chain manufacturers suggest replacement.Features permanent measurement markings.Works on most chains, from 5 to 12-speed.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806569902110/5048692-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806569967646/5048692-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806569902110/5048692-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806569967646/5048692-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806569902110/5048692-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806569967646/5048692-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806569902110/5048692-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806569967646/5048692-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool CC-3.2C Chain Wear Indicator",
+  "product_code": "5048-692",
+  "source_url": "https://www.mec.ca/en/product/5048-692/CC-3-2C-Chain-Wear-Indicator",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

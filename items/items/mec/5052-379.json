@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water bottles",
+    "Collapsible bottles",
+    "DuoLock Soft Bottle 1L"
+  ],
+  "description": "Building on the popularity of the SoftBottle, Platypus gives this one a double locking lid and an ergonomic handle that doubles as a carabiner.Rugged polyethylene material is taste and BPA free.DuoLock locking flip-cap keeps grit and debris off the drinking spout, and locks to the bottle itself for leak-proof drinking.Freestanding design.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873988784158/5052379-OSK01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873988227102/5052379-GRP39.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046121938974/5052379-BHB03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873988784158/5052379-OSK01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873988227102/5052379-GRP39.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046121938974/5052379-BHB03.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873988784158/5052379-OSK01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873988227102/5052379-GRP39.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046121938974/5052379-BHB03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873988784158/5052379-OSK01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873988227102/5052379-GRP39.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046121938974/5052379-BHB03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Platypus DuoLock Soft Bottle 1L",
+  "product_code": "5052-379",
+  "source_url": "https://www.mec.ca/en/product/5052-379/DuoLock-Soft-Bottle-1L",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Camping and hiking",
+      "Fitness and training",
+      "Travel"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lid type": [
+      "Screw-top w/flip-top"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Polyethylene",
+      "Nylon"
+    ],
+    "Volume": [
+      "1L"
+    ],
+    "Water filter compatible": [
+      "No"
+    ],
+    "Weight": [
+      "40g (Gray Prisms)",
+      "40g (Orange Skyline)"
+    ]
+  }
+}

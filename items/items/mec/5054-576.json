@@ -1,0 +1,92 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Sleeping pads",
+    "Self-inflating sleeping pads",
+    "Reactor 10 Sleeping Pad"
+  ],
+  "description": "Put some luxurious padding between you and the world. This self-inflating mattress is wide and thick, so it's super-comfortable when you're camping out for several nights or on chilly early- or late-season trips. Everything from the soft cover to the 10cm of cushy thickness is deluxe, but the price remains modest.Polyester jersey feels soft on skin.Non-slip surface on the underside prevents sliding.Foam has horizontal cut-outs to reduce weight and packed size while retaining insulation.Twin oversized valves make inflation and deflation easy.Save your breath: use the included pump sack for rapid inflation.Includes hook-and-loop straps to keep it rolled up and a repair kit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950408445982/5054576-ASP10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950392684574/5054576-ASP10-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950582345758/5054576-ASP10-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950582607902/5054576-ASP10-ALT-INFLATE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950408445982/5054576-ASP10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950392684574/5054576-ASP10-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950582345758/5054576-ASP10-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950582607902/5054576-ASP10-ALT-INFLATE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950408445982/5054576-ASP10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950392684574/5054576-ASP10-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950582345758/5054576-ASP10-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950582607902/5054576-ASP10-ALT-INFLATE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950408445982/5054576-ASP10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950392684574/5054576-ASP10-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950582345758/5054576-ASP10-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950582607902/5054576-ASP10-ALT-INFLATE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Reactor 10 Sleeping Pad - Unisex",
+  "product_code": "5054-576",
+  "source_url": "https://www.mec.ca/en/product/5054-576/Reactor-10-Sleeping-Pad",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Repair kit included",
+      "Deflate valve",
+      "Pump sack included"
+    ],
+    "Bottom Fabric": [
+      "75-denier polyester"
+    ],
+    "Capacity\n\nThe number of average sized people that the product can comfortably sleep.": [
+      "1-person"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Inflation method": [
+      "Self-inflating"
+    ],
+    "Insulation": [
+      "Open-cell foam"
+    ],
+    "Length": [
+      "198cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "R value (thermal resistance)\n\nMeasures insulative value. Higher values indicate more warmth: 1 to 3 are best for warm weather. 3 to 4 are best for 3-season use.4.5 or higher is best for winter.": [
+      "6.3"
+    ],
+    "Rolled diameter": [
+      "28cm"
+    ],
+    "Rolled length": [
+      "94cm"
+    ],
+    "Shape": [
+      "Rectangle"
+    ],
+    "Thickness": [
+      "10cm"
+    ],
+    "Top Fabric": [
+      "50-denier polyester"
+    ],
+    "Type": [
+      "Inflatable pad"
+    ],
+    "Weight": [
+      "2.6kg"
+    ],
+    "Width": [
+      "78cm"
+    ]
+  }
+}

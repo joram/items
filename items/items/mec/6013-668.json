@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Casual socks",
+    "Sneaker Striped No Show Socks"
+  ],
+  "description": "No one knows how comfy your feet are. These no-show socks are made with a merino wool blend and seamless construction to keep your feet happy all day.Shred Shield\u2122 reinforced toe cap adds durability.Internal heel gripper and arch brace hold sock securely in place.Virtually Seamless\u2122 toe won't cause hotspots or chafing.Slightly more coverage than standard no-show for added comfort.Narrower profile suits those with narrower feet.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163342708766/6013668-MON17.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163342708766/6013668-MON17.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Sneaker Striped No Show Socks - Women's",
+  "product_code": "6013-668",
+  "source_url": "https://www.mec.ca/en/product/6013-668/Sneaker-Striped-No-Show-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "No-show"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "61% merino wool",
+      "37% nylon",
+      "2% elastane"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

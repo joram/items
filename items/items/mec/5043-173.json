@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Bike service parts",
+    "Riot Rocker Assembly Kit #KE0179"
+  ],
+  "description": "Parts kit for the rocker assembly on your Ghost Riot.Kit includes: 1 set rocker 141.8mm x 39.6mm x 39.6mm, 2 x Screw M5 x 18mm x 14mm - T20.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807000866846/5043173-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807000866846/5043173-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ghost Riot Rocker Assembly Kit #KE0179",
+  "product_code": "5043-173",
+  "source_url": "https://www.mec.ca/en/product/5043-173/Riot-Rocker-Assembly-Kit-%23KE0179",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking",
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Canoeing",
+    "Portage carts",
+    "Kayak Cart Ultralight"
+  ],
+  "description": "A light, yet durable aluminum frame that fits right in the trunk of your car. The collapsible kickstand makes it easier for a solo paddler to load a kayak, canoe or SUP, and the rubber pads prevent damage to the hull.Aluminum frame with kickstand.8-inch all-terrain foam tiresIncludes a loading strap with camming buckle.Rubber padding protection.Crossbar to ground distance is 21cm.Width and axle is 58cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677853214/6002625-BLA02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677099550/6002625-BLA02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677328926/6002625-BLA02-ALT-BACKANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677361694/6002625-BLA02-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677394462/6002625-BLA02-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677427230/6002625-BLA02-ALT-FRONTANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677525534/6002625-BLA02-ALT-RESTPADDETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677623838/6002625-BLA02-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677853214/6002625-BLA02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677099550/6002625-BLA02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677328926/6002625-BLA02-ALT-BACKANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677361694/6002625-BLA02-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677394462/6002625-BLA02-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677427230/6002625-BLA02-ALT-FRONTANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677525534/6002625-BLA02-ALT-RESTPADDETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677623838/6002625-BLA02-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677853214/6002625-BLA02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677099550/6002625-BLA02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677328926/6002625-BLA02-ALT-BACKANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677361694/6002625-BLA02-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677394462/6002625-BLA02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677427230/6002625-BLA02-ALT-FRONTANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677525534/6002625-BLA02-ALT-RESTPADDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677623838/6002625-BLA02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677853214/6002625-BLA02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677099550/6002625-BLA02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677328926/6002625-BLA02-ALT-BACKANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677361694/6002625-BLA02-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677394462/6002625-BLA02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677427230/6002625-BLA02-ALT-FRONTANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677525534/6002625-BLA02-ALT-RESTPADDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044677623838/6002625-BLA02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Canadian River Supply Kayak Cart Ultralight",
+  "product_code": "6002-625",
+  "source_url": "https://www.mec.ca/en/product/6002-625/Kayak-Cart-Ultralight",
+  "tech_specs": {
+    "Collapsible": [
+      "Yes"
+    ],
+    "Folded dimensions": [
+      "58  x 23.8 x 10cm"
+    ],
+    "Ideal for": [
+      "Kayaking"
+    ],
+    "Includes tie-down straps": [
+      "Yes"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Maximum load": [
+      "45kg"
+    ],
+    "Wheel size": [
+      "20cm"
+    ]
+  }
+}

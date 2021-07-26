@@ -1,0 +1,102 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Jackets",
+    "Wind jackets",
+    "Peril Wind Jacket"
+  ],
+  "description": "Head out in gusty weather. Wind blocking fabric reduce windchill and a durable water repelolent finish keeps you protected when mist rolles in. The lightweight fabric packs down small to easily stow in a backpack without taking up much room.Made with WindWall\u00ae nylon with DWR finish for weather protection.Fabric is highly wind-resistant with less than 10CFM permeability rating.Cinch cord on hood seals out drafts.Elastic cuffs keep warmth in.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165729529886/6012678-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733036062/6012678-WHT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733134366/6012678-WHT00-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733330974/6012678-WHT00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733363742/6012678-WHT00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165732610078/6012678-MEB04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165732970526/6012678-MEB04-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733003294/6012678-MEB04-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733068830/6012678-MEB04-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165729464350/6012678-MEB04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165729529886/6012678-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733036062/6012678-WHT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733134366/6012678-WHT00-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733330974/6012678-WHT00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733363742/6012678-WHT00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165732610078/6012678-MEB04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165732970526/6012678-MEB04-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733003294/6012678-MEB04-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733068830/6012678-MEB04-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165729464350/6012678-MEB04.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165729529886/6012678-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733036062/6012678-WHT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733134366/6012678-WHT00-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733330974/6012678-WHT00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733363742/6012678-WHT00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165732610078/6012678-MEB04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165732970526/6012678-MEB04-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733003294/6012678-MEB04-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733068830/6012678-MEB04-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165729464350/6012678-MEB04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165729529886/6012678-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733036062/6012678-WHT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733134366/6012678-WHT00-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733330974/6012678-WHT00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733363742/6012678-WHT00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165732610078/6012678-MEB04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165732970526/6012678-MEB04-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733003294/6012678-MEB04-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165733068830/6012678-MEB04-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165729464350/6012678-MEB04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Peril Wind Jacket - Men's",
+  "product_code": "6012-678",
+  "source_url": "https://www.mec.ca/en/product/6012-678/Peril-Wind-Jacket",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Fabric content": [
+      "100% nylon"
+    ],
+    "Hood": [
+      "Adjustable"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Running"
+    ],
+    "Length": [
+      "Hip-length"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Pockets": [
+      "2 zippered chest"
+    ],
+    "Technology": [
+      "WindWall"
+    ],
+    "Type": [
+      "Wind shell"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Water-resistant"
+    ],
+    "Weight": [
+      "320g (Medium)"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

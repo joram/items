@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Handlebars, headsets and stems",
+    "Stems",
+    "Stem (7 Degree x 26.0mm)"
+  ],
+  "description": "Aluminum stem for older steel bikes with 26.0mm tubing.3D forged aluminum construction is light, durable and economical.4 bolt handlebar design provides a solid and secure attachment.2 bolt fork design ensures straight and secure clamping.Upward position reduces neck strain and relaxes your position.Downward position makes your posture more agressive.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086582718494/6001833-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086582718494/6001833-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Stem (7 Degree x 26.0mm)",
+  "product_code": "6001-833",
+  "source_url": "https://www.mec.ca/en/product/6001-833/Stem-%287-Degree-x-26-0mm%29",
+  "tech_specs": {
+    "Diameter": [
+      "26.0mm"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Length": [
+      "70mm (70mm)",
+      "80mm (80mm)",
+      "90mm (90mm)",
+      "100mm (100mm)",
+      "110mm (110mm)"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum"
+    ],
+    "Rise": [
+      "7\u00ba"
+    ]
+  }
+}

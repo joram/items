@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country skate",
+    "Skate ski boots",
+    "X6 Combi Boots"
+  ],
+  "description": "For recreation or training, this boot's cut lets your feet roll naturally for easy, efficient progress. The X6 Combi Boots suit both classic or skate strides with active heel support for solid control. The upper has a precise, enveloping fit for comfort and power transfer to the skis.Moulded 3-D cuffs with Velcro\u00ae straps enhance stability and power.Thermo-adjustable polyester liners ensure control and comfort.Speed-lace locks for easy closure and excellent foot support.Mobile cuffs allow easy fore and aft movement while retaining torsional rigidity.High-volume last provides a great out-of-the-box fit for all-day comfort.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992077709342/5061011-BK052.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992077709342/5061011-BK052.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rossignol X6 Combi Boots - Unisex",
+  "product_code": "5061-011",
+  "source_url": "https://www.mec.ca/en/product/5061-011/X6-Combi-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "NNN"
+    ],
+    "Hinged/high cuff": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Fitness classic skiing",
+      "Fitness skate skiing"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lace cover": [
+      "Yes"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ]
+  }
+}

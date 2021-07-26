@@ -1,0 +1,83 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Quickdraws",
+    "Hotforge Hybrid Quickdraw"
+  ],
+  "description": "The HotForge hybrid draw has HotForge and HotWire wire-gate carabiners threaded on a polyester dogbone. This is a great design in a multi-purpose draw with smooth-clipping wiregate action.HotForge on top and redesigned HotWire wire-gate on the bottom.Corrosion resistant anodized aluminum.Coloured bottom HotWire carabiner gives you something to aim for when clipping.Carabiners have a deep basket with a flattened bottom so ropes and webbing stays put.Equipped with an 18mm Polyester Dogbone with Straitjacket keeper.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064568094750/6005175-ULP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064578646046/6005175-ULP00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054213734430/6005175-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064568094750/6005175-ULP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064578646046/6005175-ULP00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054213734430/6005175-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064568094750/6005175-ULP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064578646046/6005175-ULP00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054213734430/6005175-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064568094750/6005175-ULP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064578646046/6005175-ULP00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054213734430/6005175-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Hotforge Hybrid Quickdraw",
+  "product_code": "6005-175",
+  "source_url": "https://www.mec.ca/en/product/6005-175/Hotforge-Hybrid-Quickdraw",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.2cm",
+      "2.7cm"
+    ],
+    "Gate type": [
+      "Wire"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Sling length": [
+      "16cm (16cm)",
+      "12cm (12 cm)"
+    ],
+    "Sling material": [
+      "Polyester"
+    ],
+    "Sling width": [
+      "18mm"
+    ],
+    "Snag-free nose": [
+      "No"
+    ],
+    "Strength closed": [
+      "24kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "8kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "104g (16cm)",
+      "99g (12 cm)"
+    ]
+  }
+}

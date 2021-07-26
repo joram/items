@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike chains",
+    "6/7/8 Speed Chain Pins - 3 Pack"
+  ],
+  "description": "A small part that can save you from a long walk.Includes 3 chain pins.Compatible with Shimano\u00ae 6, 7 or 8-speed chains.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807003848734/5049221-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807003848734/5049221-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano 6/7/8 Speed Chain Pins - 3 Pack",
+  "product_code": "5049-221",
+  "source_url": "https://www.mec.ca/en/product/5049-221/6-7-8-Speed-Chain-Pins---3-Pack",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "Japan"
+    ]
+  }
+}

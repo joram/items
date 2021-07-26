@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tents",
+    "Backpacking tents",
+    "Freelite Fast& Light 3-Person Tent Body"
+  ],
+  "description": "Convert your MSR Freelite 3-Person Tent to a minimalist shelter for speedy ultralight missions. Leave the regular mesh tent body and footprint at home, and swap in the Fast & Light Tent body instead. It's a beefed-up footprint that features a bathtub-style floor to guard against wind and rain splatter for more protection than a simple footprint-and-rainfly setup.Setup is easy: simply stake out the Fast & Light Body, insert the poles, clip the body to the poles, then attach the fly overtop.Made of lightweight 15-denier nylon ripstop with a 1200mm Xtreme Shield coating that does away with conventional seam taping and won't degrade like traditional PU coatings.Poles and fly not included. This Fast & Light Body is designed to be used with your current MSR Freelite 3-Person Tent setup.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023566381086/6000082-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010294489118/6000082-RED00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023566381086/6000082-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010294489118/6000082-RED00-ALT-INSIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023566381086/6000082-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010294489118/6000082-RED00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023566381086/6000082-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010294489118/6000082-RED00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Freelite Fast & Light 3-Person Tent Body",
+  "product_code": "6000-082",
+  "source_url": "https://www.mec.ca/en/product/6000-082/Freelite-Fast%26-Light-3-Person-Tent-Body",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "340g"
+    ]
+  }
+}

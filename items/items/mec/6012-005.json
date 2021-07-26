@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Core Essence Thermal Hat"
+  ],
+  "description": "Winter is for dawn patrol workouts, weekends in the track and evening runs around the block. This thermal cap keeps your noggin warm while you pursue your winter goals.Lightweight polyester jersey vents moisture.Brushed interior adds warmth and comfort.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140730953758/6012005-TRC01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140730626078/6012005-DGR79.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140730232862/6012005-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140730953758/6012005-TRC01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140730626078/6012005-DGR79.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140730232862/6012005-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140730953758/6012005-TRC01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140730626078/6012005-DGR79.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140730232862/6012005-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140730953758/6012005-TRC01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140730626078/6012005-DGR79.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140730232862/6012005-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Craft Core Essence Thermal Hat - Unisex",
+  "product_code": "6012-005",
+  "source_url": "https://www.mec.ca/en/product/6012-005/Core-Essence-Thermal-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "88% recycled polyester",
+      "12% elastane"
+    ],
+    "Ideal for": [
+      "Cross-country skiing",
+      "Running"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Footwear accessories",
+    "Gaiters",
+    "Helium Gaiters"
+  ],
+  "description": "Water-resistant gaiters that keep you dry while cruising through bushes, mud, or snow. Ultralight helium fabric is packable and replaceable under-arch straps make repairs a cinch.Water resistant lightweight Helium fabric.Drawcord cinch provides a tight seal.Hypalon under-arch strap is replaceable for in field repairs.Reliable hook and loop closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191662157854/6015795-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191662157854/6015795-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outdoor Research Helium Gaiters - Men's",
+  "product_code": "6015-795",
+  "source_url": "https://www.mec.ca/en/product/6015-795/Helium-Gaiters",
+  "tech_specs": {
+    "Closure": [
+      "Hook-and-loop"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Lower material": [
+      "Nylon"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Underarch material": [
+      "Polyurethane strap"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Weight": [
+      "139g"
+    ]
+  }
+}

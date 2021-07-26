@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "Ergo-Lok Helmet Buckle"
+  ],
+  "description": "This replacement helmet buckle fits 15mm webbing.Male end is made of nylon.Female end is made of Acetal.Male and female ends sold separately.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815567175710/5020847-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815567175710/5020847-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DuraFlex Ergo-Lok Helmet Buckle",
+  "product_code": "5020-847",
+  "source_url": "https://www.mec.ca/en/product/5020-847/Ergo-Lok-Helmet-Buckle",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "10g (Male)"
+    ]
+  }
+}

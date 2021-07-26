@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Saws, axes and camp shovels",
+    "Axes and hatchets",
+    "Sport Utility 4in Natural Leather Mask"
+  ],
+  "description": "Crafted from a handsome natural leather with steel rivets, to cover your axe when not in use.Multi-position strap fits a variety of heads.Designed for bits with up to an 10cm (4in.) edge.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042307973150/6000820-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042307973150/6000820-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Council Tool Sport Utility 4in Natural Leather Mask",
+  "product_code": "6000-820",
+  "source_url": "https://www.mec.ca/en/product/6000-820/Sport-Utility-4in-Natural-Leather-Mask",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Sheath material": [
+      "Leather"
+    ]
+  }
+}

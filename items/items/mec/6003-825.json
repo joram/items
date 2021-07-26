@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill ski boots",
+    "X Access 70 Wide Ski Boots"
+  ],
+  "description": "Ski better with less effort. You can charge a little harder this season without making your feet hammered. Refined for female feet, the cuff and liner are sculpted to eleviate ankle slop and heel lift. The liner is comfortable enough to ski out of the box, but it can also be thermo-moulded for an instant oh-yeah fit. These progressive boots are just the ticket for slamming down the slopes without any regrets.Twinframe technology in the shell provides progressive flex without overpowering stiffness.Flex sport liner can be thermo-moulded for an instant custom fit.Oversized pivot transfers power smoothly and efficiently.Women's specific cuff and liner are tailored to female anatomy.Calf adjuster lets you find the right height in the back of the shell.4 aluminum buckles and a 35 mm strap secures the foot.104mm last accommodates wide feet or gives room for thicker socks.Alpine soles and Grip-Walk ready.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132499566622/6003825-WBR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056556679198/6003825-BK058.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132499566622/6003825-WBR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056556679198/6003825-BK058.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132499566622/6003825-WBR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056556679198/6003825-BK058.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132499566622/6003825-WBR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056556679198/6003825-BK058.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon X Access 70 Wide Ski Boots - Women's",
+  "product_code": "6003-825",
+  "source_url": "https://www.mec.ca/en/product/6003-825/X-Access-70-Wide-Ski-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "Downhill"
+    ],
+    "Buckles": [
+      "4"
+    ],
+    "Flex index\n\nIndicates how stiff the boots are when flexed forward.  Flex ranges from 50 (soft) to 130 (very stiff). Note: There is currently no industry standardized test.": [
+      "70"
+    ],
+    "Hike mode\n\nA mechanism that allows to release the boot cuff to switch to tour mode.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Lace-up option": [
+      "No"
+    ],
+    "Last width\n\nThe width of the interior of the boot shell across the widest part of the forefoot.": [
+      "104mm"
+    ],
+    "Lower shell material": [
+      "Polypropylene"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Shell cuff material": [
+      "Polypropylene"
+    ],
+    "Sole type\n\nAlpine Touring: with tread; compatible with DIN touring bindings. Alpine Touring Tech (Tech): with tread; compatible with G3 Onyx and Dynafit. Downhill: without tread; compatible with freeride/downhill bindings.": [
+      "Downhill"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ]
+  }
+}

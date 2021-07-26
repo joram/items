@@ -1,0 +1,70 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Button up shirts and polos",
+    "Bryner Shirt"
+  ],
+  "description": "How much do we love the casual plaid shirt? Quite a lot, especially when it\u2019s 100% organic. Wear this one to feel the love with your jeans or cargo shorts.Yarn-dyed fabric.Bias cut detail at sides, front placket, and shoulders provides subtle contrast.Standard fit wears like you want it to.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168645652510/6007090-TFE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789340190/6007090-TFE00-ALT-AFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789438494/6007090-TFE00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789569566/6007090-TFE00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789700638/6007090-TFE00-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789110814/6007090-NKL00-ALT-AFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789274654/6007090-NKL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789372958/6007090-NKL00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168645619742/6007090-NKL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168645652510/6007090-TFE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789340190/6007090-TFE00-ALT-AFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789438494/6007090-TFE00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789569566/6007090-TFE00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789700638/6007090-TFE00-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789110814/6007090-NKL00-ALT-AFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789274654/6007090-NKL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789372958/6007090-NKL00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168645619742/6007090-NKL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168645652510/6007090-TFE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789340190/6007090-TFE00-ALT-AFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789438494/6007090-TFE00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789569566/6007090-TFE00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789700638/6007090-TFE00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789110814/6007090-NKL00-ALT-AFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789274654/6007090-NKL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789372958/6007090-NKL00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168645619742/6007090-NKL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168645652510/6007090-TFE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789340190/6007090-TFE00-ALT-AFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789438494/6007090-TFE00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789569566/6007090-TFE00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789700638/6007090-TFE00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789110814/6007090-NKL00-ALT-AFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789274654/6007090-NKL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789372958/6007090-NKL00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168645619742/6007090-NKL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Bryner Shirt - Men's",
+  "product_code": "6007-090",
+  "source_url": "https://www.mec.ca/en/product/6007-090/Bryner-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "India"
+    ],
+    "Pockets": [
+      "None"
+    ]
+  }
+}

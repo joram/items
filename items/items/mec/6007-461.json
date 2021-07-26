@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Crampons and components",
+    "Crampon components",
+    "Stalker Antibott"
+  ],
+  "description": "Replacement anti-balling plates for your Camp Stalker Crampons.New dynamic design prevents snow and ice buildup underfoot.Fits the 2020+ Camp Stalker crampons.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153974075422/6007461-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153974075422/6007461-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Stalker Antibott",
+  "product_code": "6007-461",
+  "source_url": "https://www.mec.ca/en/product/6007-461/Stalker-Antibott",
+  "tech_specs": {
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Made in": [
+      "Italy"
+    ]
+  }
+}

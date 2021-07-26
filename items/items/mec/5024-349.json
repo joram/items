@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Kayaks",
+    "Sit-on-top kayaks",
+    "Juntos Kayak"
+  ],
+  "description": "A great single sit-on-top with an additional seat in the bow for a child or pet. Made with an emphasis on stability and tracking, the Juntos is excellent for exploring lakes, rivers, ponds, estuaries and inlets.Moulded handles.Water bottle holder.Wheel in the keel makes for very easy carries to and from the water.Day hatch for storage.Padded seat with backrest.Cargo holding bungi cord in stern.Drain plug.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817630314526/5024349-ICE01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817630314526/5024349-ICE01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Feelfree Juntos Kayak",
+  "product_code": "5024-349",
+  "source_url": "https://www.mec.ca/en/product/5024-349/Juntos-Kayak",
+  "tech_specs": {
+    "Beam": [
+      "75cm (29\u00bdin.)"
+    ],
+    "Hull material": [
+      "Single-layer roto-moulded plastic"
+    ],
+    "Ideal for": [
+      "Cottage and recreational kayaking"
+    ],
+    "Length": [
+      "3.4m\u00a0(11ft.)"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Weight": [
+      "27.5kg"
+    ]
+  }
+}

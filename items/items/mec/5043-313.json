@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry ski bindings",
+    "Backcountry ski binding brakes",
+    "TLT Speed Superlite 2.0 Brakes"
+  ],
+  "description": "Removable ultralight brakes for Dynafit's Superlite 2.0 bindings.Made of aluminum, chromoly and high strength synthetics.Ideal for alpine touring and ski mountaineering.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817264689182/5043313-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817264689182/5043313-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Dynafit TLT Speed Superlite 2.0 Brakes",
+  "product_code": "5043-313",
+  "source_url": "https://www.mec.ca/en/product/5043-313/TLT-Speed-Superlite-2-0-Brakes",
+  "tech_specs": {
+    "Ideal for": [
+      "Alpine touring",
+      "Ski mountaineering"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Weight": [
+      "85g (75mm)"
+    ]
+  }
+}

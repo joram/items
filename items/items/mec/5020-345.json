@@ -1,0 +1,69 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Headlamps and lighting",
+    "Flashlights",
+    "Mini Mag-lite AA LED"
+  ],
+  "description": "A rugged metal body makes Maglites popular with those who give their gear a beating. This light features a new LED that both burns brighter and extends battery life, and has multiple lighting modes.Anodized aluminum body.Multimode electronic switch with High, Low, Blink and SOS modes.Intelligent Energy Source Management balances optimum brightness with extended battery life.Candle mode lets you stand the flashlight up, like a candle.Polypropylene carrying holster included.Takes two AA batteries (included).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813012582430/5020345-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813012582430/5020345-RED00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813012582430/5020345-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813012582430/5020345-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Maglite Mini Mag-lite AA LED",
+  "product_code": "5020-345",
+  "source_url": "https://www.mec.ca/en/product/5020-345/Mini-Mag-lite-AA-LED",
+  "tech_specs": {
+    "Batteries": [
+      "2 AA (included)"
+    ],
+    "Beam pattern\n\nBeam pattern affects how much you can see within the area of light thrown from the headlamp. Wide beams are good for close-up; spot or focussed beams are good for long range visibility.": [
+      "Spot"
+    ],
+    "Body material": [
+      "Metal"
+    ],
+    "Boost mode\n\nBriefly increases the light output to maximum brightness and distance.": [
+      "No"
+    ],
+    "Flash mode": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Emergency preparedness"
+    ],
+    "Light modes\n\nThe number of lighting levels/modes the light has (i.e., low, med, high, flash).": [
+      "4 modes"
+    ],
+    "Light source": [
+      "1 LED"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pocket clip": [
+      "No"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Non-rechargeable"
+    ],
+    "Red light mode": [
+      "No"
+    ],
+    "Regulated output\n\nOn regulated lights brightness is consistent, and does not decrease gradually as the batteries are drained.": [
+      "No"
+    ],
+    "Weight": [
+      "134g"
+    ]
+  }
+}

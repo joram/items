@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Showers, soap & travel toothbrushes",
+    "Natural Deodorant 86ml"
+  ],
+  "description": "Nice to have on hand after a hike or race, once you're cleaned up and ready to hit town. The formula applies easily and absorbs quickly without leaving residue or goop on your clothing.Contains no phthalates, parabens or aluminum.Ingredients: cocos nucifera (coconut oil) (1*), euphorbia cerifera (candelilla) wax (1), cera alba (beeswax) (1), zea mays (corn starch) (1), maranta arundinacea (arrowroot) powder) (1), sodium bicarbonate (1), butyrospermum parkii (shea) butter (1), coriander seed oil (1), citrus paradis (1). *Rating from the Environmental Working Group's skin deep database.No animal testing, only tested on smelly hikers.Contains 86ml.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031013531678/6004712-GFC00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031013138462/6004712-ATF00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031013531678/6004712-GFC00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031013138462/6004712-ATF00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031013531678/6004712-GFC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031013138462/6004712-ATF00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031013531678/6004712-GFC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031013138462/6004712-ATF00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Thinksport Natural Deodorant 86ml",
+  "product_code": "6004-712",
+  "source_url": "https://www.mec.ca/en/product/6004-712/Natural-Deodorant-86ml",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

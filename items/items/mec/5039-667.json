@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Packs",
+    "Backpacking packs",
+    "Overnight packs (35 - 55l)",
+    "Creek 50 Pack"
+  ],
+  "description": "A crag bag for kitchen-sink climbers. The haul-bag style bottom lets it stand on its own, while you rummage for your shoes and spare layers.Fabric is haul-bag tough polyester with a TPU coating for waterproofness and exceptional durability.Padded shoulder straps, removable padded hipbelt and thermoformed backpanel for carrying comfort.Top loading design with spindrift collar closure.Full-length side zipper for secondary access.Front flap pocket has internal zippered pockets for GPS, topo or snacks.Tuck-away rope strap.Stowable rain hood doubles as a helmet or rope holder.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814576107550/5039667-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814577025054/5039667-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814576107550/5039667-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814577025054/5039667-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814576107550/5039667-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814577025054/5039667-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814576107550/5039667-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814577025054/5039667-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Creek 50 Pack - Unisex",
+  "product_code": "5039-667",
+  "source_url": "https://www.mec.ca/en/product/5039-667/Creek-50-Pack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top",
+      "Side"
+    ],
+    "Additional feature(s)": [
+      "Rain cover included",
+      "Expandable collar"
+    ],
+    "Adjustable shoulder harness\n\nAn adjustable harness lets you change the height of the shoulder straps to fit your specific back length.": [
+      "No"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "No"
+    ],
+    "Dynamic suspension\n\nThe hipbelt and/or shoulder straps of the pack are designed to move, pivot or flex to follow your body\u2019s movements.  Each brand uses their own technology.": [
+      "No"
+    ],
+    "Hipbelt": [
+      "Removable padded"
+    ],
+    "Hipbelt circumference": [
+      "66-102cm (Small/Medium)",
+      "71-114cm (Medium/Large)"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Main fabric": [
+      "1200-denier polyester"
+    ],
+    "Ventilated back panel": [
+      "No"
+    ],
+    "Volume": [
+      "48L (Small/Medium)",
+      "50L (Medium/Large)"
+    ],
+    "Weight": [
+      "2kg (Medium/Large)"
+    ]
+  }
+}

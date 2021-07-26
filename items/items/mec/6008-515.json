@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike helmets and body armour",
+    "Body armour",
+    "Charge Knee Pads"
+  ],
+  "description": "Charge the line in these minimalist knee pads. They offer abrasion protection in a comfy slip-on design, perfect for XC courses and intense trail rides.EVA foam padding, in a slip-on design.Butterfly stretch mesh, with rotated flatlock seams.Silicone gripped top hem, with shin patch.Gussetted knee.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099979030558/6008515-SEH00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099256168478/6008515-SEH00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099979030558/6008515-SEH00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099256168478/6008515-SEH00-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099979030558/6008515-SEH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099256168478/6008515-SEH00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099979030558/6008515-SEH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099256168478/6008515-SEH00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Race Face Charge Knee Pads - Unisex",
+  "product_code": "6008-515",
+  "source_url": "https://www.mec.ca/en/product/6008-515/Charge-Knee-Pads",
+  "tech_specs": {
+    "Ideal for": [
+      "Cross-country riding",
+      "Trail riding"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Padding": [
+      "EVA"
+    ],
+    "Protection zone": [
+      "Knee"
+    ],
+    "Type": [
+      "Slip-on"
+    ]
+  }
+}

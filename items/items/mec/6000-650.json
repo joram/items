@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Baby (0-2 yrs)",
+    "Baby clothing",
+    "Baby t-shirts and tops",
+    "Baby short sleeved t-shirts",
+    "Journey Organic Short Sleeve T-Shirt"
+  ],
+  "description": "Stylish and unique, and a basic that works for kids who wear shirts.Made of organically grown cotton jersey.Name label inside.Contrasting panels on shoulders and arms.Back length is 24cm size 12mo, plus or minus 1cm for every size above or below.Silk screened graphic.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content\n\n\n\n\n\n\n\n\nBluesign\n\n\n\n\n\n\n\n\n\n\n\n                      Bluesign\u00ae Approved Material",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184168771614/6000650-PPC05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184168869918/6000650-NBC07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184168280094/6000650-HYH00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184168771614/6000650-PPC05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184168869918/6000650-NBC07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184168280094/6000650-HYH00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184168771614/6000650-PPC05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184168869918/6000650-NBC07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184168280094/6000650-HYH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184168771614/6000650-PPC05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184168869918/6000650-NBC07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184168280094/6000650-HYH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Journey Organic Short Sleeve T-Shirt - Infants",
+  "product_code": "6000-650",
+  "source_url": "https://www.mec.ca/en/product/6000-650/Journey-Organic-Short-Sleeve-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "155gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Turkey"
+    ],
+    "Product sustainability": [
+      "Organically grown content",
+      "Bluesign\u00ae Approved Material"
+    ]
+  }
+}

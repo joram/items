@@ -1,0 +1,89 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking clothing",
+    "Hiking pants",
+    "Notion Pants"
+  ],
+  "description": "Put your project pants on. Burly with ample mobility for technical foot-trickery, these comfortable climbing pants are cut to work with a harness. Reinforced knees stand up to off-widths or accidental flailing.Organic cotton fabric is comfy and durable.Stretch waistband with drawcord sits flat under a harness.2 front pockets and 2 rear pockets are accessible with your harness on.Reinforced knees.Stretch cuffs keep your feet free for heel hooking.Gusseted crotch gives you room for wide stems or hand-foot matching.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514344990/6002376-PRT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514377758/6002376-PRT00-ALT-ANKLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514410526/6002376-PRT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514541598/6002376-PRT00-ALT-WAIST.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344173086/6002376-DKC01-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344205854/6002376-DKC01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344140318/6002376-CAR00-ALT-ANKLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344107550/6002376-CAR00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167351447582/6002376-DKC01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167351349278/6002376-CAR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135627075614/6002376-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514344990/6002376-PRT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514377758/6002376-PRT00-ALT-ANKLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514410526/6002376-PRT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514541598/6002376-PRT00-ALT-WAIST.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344173086/6002376-DKC01-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344205854/6002376-DKC01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344140318/6002376-CAR00-ALT-ANKLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344107550/6002376-CAR00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167351447582/6002376-DKC01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167351349278/6002376-CAR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135627075614/6002376-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514344990/6002376-PRT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514377758/6002376-PRT00-ALT-ANKLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514410526/6002376-PRT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514541598/6002376-PRT00-ALT-WAIST.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344173086/6002376-DKC01-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344205854/6002376-DKC01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344140318/6002376-CAR00-ALT-ANKLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344107550/6002376-CAR00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167351447582/6002376-DKC01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167351349278/6002376-CAR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135627075614/6002376-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514344990/6002376-PRT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514377758/6002376-PRT00-ALT-ANKLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514410526/6002376-PRT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132514541598/6002376-PRT00-ALT-WAIST.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344173086/6002376-DKC01-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344205854/6002376-DKC01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344140318/6002376-CAR00-ALT-ANKLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167344107550/6002376-CAR00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167351447582/6002376-DKC01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167351349278/6002376-CAR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135627075614/6002376-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Notion Pants - Men's",
+  "product_code": "6002-376",
+  "source_url": "https://www.mec.ca/en/product/6002-376/Notion-Pants",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Gusseted crotch"
+    ],
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "195gsm"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "32in. (M)"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Bouldering"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front",
+      "2 back"
+    ]
+  }
+}

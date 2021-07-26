@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Family Walks and Hikes of Vancouver Island -"
+  ],
+  "description": "Head out on a hike with the whole family. Written specifically for outdoor enthusiasts of all ages and abilities, Family Walks and Hikes of Vancouver Island - Vol. 2 covers family-friendly hikes in the area between northern Nanaimo and Strathcona Provincial Park. Each hike includes a map, step-by-step directions and full-colour photographs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8984886312990/5062995-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8984886312990/5062995-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Family Walks and Hikes of Vancouver Island -",
+  "product_code": "5062-995",
+  "source_url": "https://www.mec.ca/en/product/5062-995/Family-Walks-and-Hikes-of-Vancouver-Island--",
+  "tech_specs": {
+    "Author": [
+      "Theo Dombrowski"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9781771602815"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "192"
+    ],
+    "Published": [
+      "2018"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax",
+    "MACH II Blue Wax"
+  ],
+  "description": "For -11\u00b0C and colder.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817192763422/5006225-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817192763422/5006225-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kuu MACH II Blue Wax",
+  "product_code": "5006-225",
+  "source_url": "https://www.mec.ca/en/product/5006-225/MACH-II-Blue-Wax",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Cross-country skiing",
+      "Snowboarding",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "State": [
+      "Bar"
+    ],
+    "Temperature range": [
+      "\u2264-11\u00b0C"
+    ],
+    "Type": [
+      "Glide"
+    ],
+    "Weight": [
+      "60g"
+    ]
+  }
+}

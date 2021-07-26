@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Button up shirts and polos",
+    "All Day Essentials Polo Tee"
+  ],
+  "description": "A step up from the classic tee, this lightweight polo keeps it casual but not too casual. Our All Day Essentials line packs well, dries quickly and has bluesign\u00ae approved odour control, letting you skip a laundry day or two.Polyester, spandex blend wicks sweat, dries quickly and holds its shape over time.Active odour control lets you go a couple extra days between washes, great for travel.UPF 30 helps block UV.Regular fit offers no surprises, just comfort.\n\n        Sustainability\n\n\n\n\n\n\n\n\nBluesign\n\n\n\n\n\n\n\n\n\n\n\n                      Bluesign\u00ae Approved Material\n\n\n\n\n\n\nFairTrade\n\n\n\n\n\n\n\n\n\n\n\n                      Certified Fair Trade",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097536864286/6000309-BK113.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104023617566/6000309-BK113-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097536700446/6000309-BK113-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182585847838/6000309-ACH03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182589255710/6000309-ACH03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097536864286/6000309-BK113.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104023617566/6000309-BK113-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097536700446/6000309-BK113-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182585847838/6000309-ACH03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182589255710/6000309-ACH03.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097536864286/6000309-BK113.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104023617566/6000309-BK113-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097536700446/6000309-BK113-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182585847838/6000309-ACH03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182589255710/6000309-ACH03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097536864286/6000309-BK113.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104023617566/6000309-BK113-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097536700446/6000309-BK113-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182585847838/6000309-ACH03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182589255710/6000309-ACH03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC All Day Essentials Polo Tee - Men's",
+  "product_code": "6000-309",
+  "source_url": "https://www.mec.ca/en/product/6000-309/All-Day-Essentials-Polo-Tee",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Antimicrobial treatment"
+    ],
+    "Fabric content": [
+      "96% polyester",
+      "4% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "175gsm"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Travel"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Product sustainability": [
+      "Bluesign\u00ae Approved Material",
+      "Certified Fair Trade"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "25-39 (Blocks ~96% of UVA/UVB)"
+    ]
+  }
+}

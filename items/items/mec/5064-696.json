@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Bivy sacks",
+    "Helium Bivy"
+  ],
+  "description": "A minimalist shelter for fast-and-light adventures, the Helium Bivy is made of lightweight waterproof-breathable fabric that brings the weight down to just 476g. Leave the optional hooped pole behind, and your shelter weighs a scary-light 418g. The clamshell design opens up wide, and if you're sleeping out at lower elevations in warm temperatures, removable no-see-um mesh allows you to add ventilation.Upper fabric is 2.5-layer Pertex Shield with a lightweight 30-denier ripstop nylon face fabric.Floor is tough 40-denier nylon with a TPU lamination for excellent waterproofness.Fully seam taped and completely waterproof-breathable.2 stake loops and 1 guy-line loop.High-volume toe allows you to store your boots and gear.Removable no-see-um netting at opening.Single shock-cord Delrin pole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081937854494/5064696-PWT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081942081566/5064696-PWT00-ALT-FOOT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081937854494/5064696-PWT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081942081566/5064696-PWT00-ALT-FOOT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081937854494/5064696-PWT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081942081566/5064696-PWT00-ALT-FOOT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081937854494/5064696-PWT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081942081566/5064696-PWT00-ALT-FOOT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outdoor Research Helium Bivy",
+  "product_code": "5064-696",
+  "source_url": "https://www.mec.ca/en/product/5064-696/Helium-Bivy",
+  "tech_specs": {
+    "Canopy mesh": [
+      "Nylon no-see-um mesh"
+    ],
+    "Floor coating": [
+      "Polyurethane"
+    ],
+    "Floor fabric": [
+      "40-denier nylon"
+    ],
+    "Floor length\n\nA measurement based on the longest point of the tent.": [
+      "2.13m"
+    ],
+    "Floor width\n\nA measurement based on the widest points of the tent.": [
+      "0.66m"
+    ],
+    "Fly fabric": [
+      "30-denier nylon ripstop"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Interior peak height": [
+      "0.5m"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Minimum weight\n\nIncludes just the tent, poles, and the fewest pegs and guylines needed to properly set it up.": [
+      "0.418kg"
+    ],
+    "Packed weight\n\nIncludes the full tent with its stuff sack, repair swatches, and all the guylines and pegs.": [
+      "0.476kg"
+    ],
+    "Pole": [
+      "Delrin"
+    ],
+    "Seasons": [
+      "3-season"
+    ],
+    "Weight": [
+      "476g"
+    ]
+  }
+}

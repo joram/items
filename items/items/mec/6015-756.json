@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tires",
+    "Rekon Race 29in. TR Dual EXO Folding Tire"
+  ],
+  "description": "A fast rolling 29er tire that's designed for aggressive XC trails riding. Inspired by the Rekon, this race version has smaller, shorter knobs that equal speed on hard packed dirt.Dual compound provides excellent traction and stability.Tires are foldable and tubeless ready.EXO protected sidewalls prevent slashes without affecting ride quality.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199326593054/6015756-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199326593054/6015756-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199326593054/6015756-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199326593054/6015756-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Maxxis Rekon Race 29in. TR Dual EXO Folding Tire",
+  "product_code": "6015-756",
+  "source_url": "https://www.mec.ca/en/product/6015-756/Rekon-Race-29in-TR-Dual-EXO-Folding-Tire",
+  "tech_specs": {
+    "Bead\n\nThe bead holds the tire onto the rim. Beads may be hoops of wire, or made of a flexible material which allows them to be folded compactly. Folding tires are easier to store or pack on trips.": [
+      "Folding"
+    ],
+    "Ideal for": [
+      "Trail riding",
+      "Cross-country riding"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "TPI\n\nThreads per inch. Tires with a higher TPI tend to be more supple and lighter, with less rolling resistance, but are less durable.": [
+      "120"
+    ],
+    "Tire size": [
+      "29"
+    ],
+    "Tire type": [
+      "Tubeless"
+    ],
+    "Weight": [
+      "710g (2.35\")",
+      "670g (2.25in)"
+    ],
+    "Wheel position": [
+      "Rear",
+      "Front"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike lubricants and cleaners",
+    "Lubricants and grease",
+    "Wet Chain Lubricant"
+  ],
+  "description": "One of the most versatile items in your maintenance kit. This liquid lube is designed for wet or muddy conditions, and it can be applied to your chain, cleats, shifters or derailleurs. If you keep your bike's moving parts properly lubricated, they last longer and work better. It's a win-win.Easy to use in a drop-on application.Fine point tip lets you apply to hard-to-reach places.Vegetable oil-based formula reduces friction, resists dirt pick-up and prevents rust formation.Reduces friction between links and plates in your chain.Can be applied to derailleurs, cleats and shifters.Pervents corrosion on metal surfaces.Suitable for road, MTB and cyclocross bikes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161858646046/6013283-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161858646046/6013283-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Muc-Off Wet Chain Lubricant",
+  "product_code": "6013-283",
+  "source_url": "https://www.mec.ca/en/product/6013-283/Wet-Chain-Lubricant",
+  "tech_specs": {
+    "Biodegradable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Mountain biking",
+      "Road cycling",
+      "Cyclocross",
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Volume": [
+      "0.12L"
+    ]
+  }
+}

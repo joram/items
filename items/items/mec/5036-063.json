@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Casual boots",
+    "Original 510 Boots"
+  ],
+  "description": "Classic Blundstone Boots, they get better looking the more you wear them. But more than just looking fine, these boots use a patented shock protection system that ensures you stride comfortably with minimal impact to your joints. Simple pull-on style and ergonomic shape provides a snug fit without laces.Uppers are weatherproof leather, seamlessly fused to the sole for resilient construction.SPS reduces skeletal stress by absorbing and dispersing shock. Foot strike shock is reduced by 33%.Pull loops for extra leverage.Thermo-polyurethane sole is highly abrasion resistant and provides exceptional traction.Round toe, medium width.These are sold in Australian sizes, which are different than Canadian/American sizes. Refer to the size chart to determine your correct size.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8982935633950/5036063-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993006092318/5036063-BK000-ALT-TOPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993006977054/5036063-BK000-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993205157918/5036063-BK000-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8982935633950/5036063-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993006092318/5036063-BK000-ALT-TOPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993006977054/5036063-BK000-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993205157918/5036063-BK000-ALT-RIGHT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8982935633950/5036063-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993006092318/5036063-BK000-ALT-TOPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993006977054/5036063-BK000-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993205157918/5036063-BK000-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8982935633950/5036063-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993006092318/5036063-BK000-ALT-TOPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993006977054/5036063-BK000-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993205157918/5036063-BK000-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Blundstone Original 510 Boots - Unisex",
+  "product_code": "5036-063",
+  "source_url": "https://www.mec.ca/en/product/5036-063/Original-510-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

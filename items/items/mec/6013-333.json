@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Cabin Beanie"
+  ],
+  "description": "Sip hot cocoa and explore the winter wonderland with a warm noggin.Made from non-mulesed merino wool and Repreve recycled plastic bottles.Ribbed cuff provides a secure fit.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146523942942/6013333-MBR03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528104478/6013333-MBR03-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146523942942/6013333-MBR03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528104478/6013333-MBR03-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146523942942/6013333-MBR03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528104478/6013333-MBR03-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146523942942/6013333-MBR03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528104478/6013333-MBR03-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "tentree Cabin Beanie - Unisex",
+  "product_code": "6013-333",
+  "source_url": "https://www.mec.ca/en/product/6013-333/Cabin-Beanie",
+  "tech_specs": {
+    "Fabric content": [
+      "50% merino wool",
+      "50% recycled polyester"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

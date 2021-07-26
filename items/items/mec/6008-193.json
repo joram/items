@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Leashes and accessories",
+    "Hydra Leash"
+  ],
+  "description": "A lightweight leash to add piece of mind to your alpine or ice projects. The ball-and-socket swivel allws freedom of movement without tangling.Elasticized webbing stretches for maximum reach.High-tension wire-gate carabiners attaches to spikes when climbing, or through the heads for plunging.Built-in swivel lets you cross and match tools without tangling.Rated to 2kN.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074238980126/6008193-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074230853662/6008193-BL000-ALT-CLIPPED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074230886430/6008193-BL000-ALT-CLIPPED2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074231181342/6008193-BL000-ALT-CLIPPED3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074231476254/6008193-BL000-ALT-CLIPPEDTOGETHER1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074231836702/6008193-BL000-ALT-CLIPPEDTOGETHER2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074238980126/6008193-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074230853662/6008193-BL000-ALT-CLIPPED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074230886430/6008193-BL000-ALT-CLIPPED2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074231181342/6008193-BL000-ALT-CLIPPED3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074231476254/6008193-BL000-ALT-CLIPPEDTOGETHER1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074231836702/6008193-BL000-ALT-CLIPPEDTOGETHER2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074238980126/6008193-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074230853662/6008193-BL000-ALT-CLIPPED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074230886430/6008193-BL000-ALT-CLIPPED2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074231181342/6008193-BL000-ALT-CLIPPED3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074231476254/6008193-BL000-ALT-CLIPPEDTOGETHER1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074231836702/6008193-BL000-ALT-CLIPPEDTOGETHER2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074238980126/6008193-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074230853662/6008193-BL000-ALT-CLIPPED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074230886430/6008193-BL000-ALT-CLIPPED2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074231181342/6008193-BL000-ALT-CLIPPED3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074231476254/6008193-BL000-ALT-CLIPPEDTOGETHER1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074231836702/6008193-BL000-ALT-CLIPPEDTOGETHER2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Blue Ice Hydra Leash",
+  "product_code": "6008-193",
+  "source_url": "https://www.mec.ca/en/product/6008-193/Hydra-Leash",
+  "tech_specs": {
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "54g"
+    ]
+  }
+}

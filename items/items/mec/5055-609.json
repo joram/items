@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Toddler ski harness and teaching equipment",
+    "Ski Harness"
+  ],
+  "description": "Get little skiers off on the right feet with the CoPilot. Its reins attach to the learner\u2019s boots, giving the instructor full steering control, while encouraging the student to adopt a good body stance and to turn with their skis and lower body. Unlike body harnesses, the Copilot lets learners find their natural centre of gravity and won\u2019t pull them off balance.Boot straps attach with Velcro\u00ae.Reins clip easily to the straps and unclip quickly.Reins are elasticized for smooth handling.Bright colour provides excellent visibility for safety.Carry bag included for quick stowing before lift rides.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8901479235614/5055609-ORG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8901479464990/5055609-ORG00-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8901479235614/5055609-ORG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8901479464990/5055609-ORG00-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8901479235614/5055609-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8901479464990/5055609-ORG00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8901479235614/5055609-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8901479464990/5055609-ORG00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "CoPilot Ski Harness - Children",
+  "product_code": "5055-609",
+  "source_url": "https://www.mec.ca/en/product/5055-609/Ski-Harness",
+  "tech_specs": {
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Included": [
+      "Boot-mounted reins",
+      "Carry bag",
+      "Ski tip links"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "304g"
+    ]
+  }
+}

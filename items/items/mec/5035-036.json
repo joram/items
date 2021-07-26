@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tubes and tire liners",
+    "Bike tire liners and rim tape",
+    "Rim Tape 29er"
+  ],
+  "description": "Replacement PVC rim tape for 29'er mountain bike rims.2 widths: 22 and 24mm.Contains 2 rolls of rim tape\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806714638366/5035036-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806714638366/5035036-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Rim Tape 29er",
+  "product_code": "5035-036",
+  "source_url": "https://www.mec.ca/en/product/5035-036/Rim-Tape-29er",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "Weight": [
+      "60g (22 mm)",
+      "50g (24mm)"
+    ]
+  }
+}

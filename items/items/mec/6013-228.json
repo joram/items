@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "7 Day Meal Kit"
+  ],
+  "description": "A grab-and-go meal solution for a backcountry trip or to add to your emergency preparedness kit. Enough for 7 days, the kit contains 14 tasty entrees.Kit includes 14 entrees: Forever Young Mac and Cheese (2 pouches), Spicy Chicken Curry (2 pouches), Kung Pao Chicken (2 pouches), Hearty Beef Stew (2 pouches), Pepper Beef with Rice (2 pouches), Spicy Sausage Pasta (2 pouches) and Pork Pad Thai (2 pouches).Meals provide an average of 1,200 calories per day.To prepare, simply add boiling water, stir, wait and enjoy.5-year shelf life.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184179388446/6013228-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184179388446/6013228-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "AlpineAire 7 Day Meal Kit",
+  "product_code": "6013-228",
+  "source_url": "https://www.mec.ca/en/product/6013-228/7-Day-Meal-Kit",
+  "tech_specs": {
+    "Made in": [
+      "USA"
+    ]
+  }
+}

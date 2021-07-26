@@ -1,0 +1,70 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Sun protection",
+    "Sunscreen",
+    "Mineral SPF 50 Lotion 88ml"
+  ],
+  "description": "Mineral based sunscreen for those who like to stay as close to \u2018au naturel\u2019 as possible. Sun Bum\u2019s Mineral sunscreen uses zinc as its primary active ingredient to protects your skin from harmful UVA and UVB.Broad-spectrum UVA and UVB protection.Non-greasy formula.Moisturizing zinc based formula (non-nano).Water resistant rating of 80 minutes.Gluten, paraben, oxybenzone and octinoxate free.Ingredients: zinc oxide 20.0%, water, cocos nucifera (coconut) oil, butyloctyl salicylate, diheptyl succinate, methyl dihydroabietate, butyrospermum parkii (shea butter), fragrance, capryloyl glycerin/sebacic acid copolymer, sodium stearoyl glutamate, cetearyl alcohol, theobroma cacao (cocoa) seed butter, coco-glucoside, tocopherol, microcrystalline cellulose, cellulose gum, bisabolol, cetyl alcohol, arachidyl alcohol, behenyl alcohol, arachidyl glucoside, polyhydroxystearic acid, sodium hyaluronate, sodium gluconate, phenoxyethanol, ethylhexylglycerin and citric acid.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549303838/6009357-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021523486/6009357-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549303838/6009357-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021523486/6009357-NOC02-ALT-LIFESTYLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549303838/6009357-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021523486/6009357-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549303838/6009357-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021523486/6009357-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sun Bum Mineral SPF 50 Lotion 88ml",
+  "product_code": "6009-357",
+  "source_url": "https://www.mec.ca/en/product/6009-357/Mineral-SPF-50-Lotion-88ml",
+  "tech_specs": {
+    "Alcohol free\n\nAlcohol is a skin irritant, so alcohol-free sun products are better for sensitive skin.": [
+      "No"
+    ],
+    "Fragrance free": [
+      "No"
+    ],
+    "Hypoallergenic": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Everyday use"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Noncomedogenic\n\nNoncomedogenic skin care products are less likely to block pores.": [
+      "Yes"
+    ],
+    "PABA free": [
+      "Yes"
+    ],
+    "Product sustainability": [
+      "Vegan-friendly"
+    ],
+    "Reef and coral friendly\n\nFree of the two most common ingredients known to affect coral health (oxybenzone and octinoxate).": [
+      "Yes"
+    ],
+    "SPF": [
+      "50"
+    ],
+    "Type": [
+      "Body"
+    ],
+    "Volume": [
+      "88ml"
+    ],
+    "Water/sweatproof": [
+      "Yes"
+    ]
+  }
+}

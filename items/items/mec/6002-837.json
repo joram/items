@@ -1,0 +1,99 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Mugs, cups and dishes",
+    "Camping drinkware",
+    "Travel mugs",
+    "TKWide Cafe Bottle 473ml"
+  ],
+  "description": "The classic Klean Kanteen wide-mouth bottle with an internally threaded cap for greater thermal performance. Stainless steel with a chip-resistant finish stands up to the rigours of daily life.Made of food-grade 18/8 stainless steel that doesn't impart any flavours and is easy to clean.Double-walled vacuum-insulated keeps drinks warm for up to 14 hours and cool for up to 47 hours.Klean Coat\u2122 finish is resistant to chipping and daily wear and tear.Internally threaded TK Closure design.Sip-through Cafe Cap has a swivel loop for easy carrying.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035828789278/6002837-DSF89.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035828625438/6002837-BK012-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035828887582/6002837-BK012-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035829084190/6002837-BBR88-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035829182494/6002837-BBR88-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035286249502/6002837-BK012.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035286446110/6002837-BBR88.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182837899294/6002837-TFU02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672991262/6002837-RTL01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672729118/6002837-MGD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672532510/6002837-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035828789278/6002837-DSF89.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035828625438/6002837-BK012-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035828887582/6002837-BK012-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035829084190/6002837-BBR88-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035829182494/6002837-BBR88-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035286249502/6002837-BK012.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035286446110/6002837-BBR88.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182837899294/6002837-TFU02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672991262/6002837-RTL01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672729118/6002837-MGD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672532510/6002837-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035828789278/6002837-DSF89.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035828625438/6002837-BK012-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035828887582/6002837-BK012-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035829084190/6002837-BBR88-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035829182494/6002837-BBR88-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035286249502/6002837-BK012.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035286446110/6002837-BBR88.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182837899294/6002837-TFU02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672991262/6002837-RTL01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672729118/6002837-MGD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672532510/6002837-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035828789278/6002837-DSF89.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035828625438/6002837-BK012-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035828887582/6002837-BK012-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035829084190/6002837-BBR88-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035829182494/6002837-BBR88-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035286249502/6002837-BK012.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035286446110/6002837-BBR88.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182837899294/6002837-TFU02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672991262/6002837-RTL01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672729118/6002837-MGD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672532510/6002837-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Klean Kanteen TKWide Cafe Bottle 473ml",
+  "product_code": "6002-837",
+  "source_url": "https://www.mec.ca/en/product/6002-837/TKWide-Cafe-Bottle-473ml",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lid type": [
+      "Screw-top w/loop",
+      "Drink-through top"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Volume": [
+      "473ml (Berry Bright)",
+      "473ml (Shale Black)",
+      "473ml (Deep Surf)"
+    ],
+    "Weight": [
+      "395g"
+    ]
+  }
+}

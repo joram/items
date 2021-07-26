@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Hoodies and sweaters",
+    "Sweaters",
+    "Lid Knit"
+  ],
+  "description": "Nothing says fall like a soft, sweater knit. Bring on the chill and raise a mug of hot chocolate.Wool and mohair add natural warmth with nylon and acrylic so it keeps its shape.Traditional cable knit lend visual interest.Rib knit collar and cuffs.Loose fit and gernerous lenght.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147291467806/6002001-HAZ07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147293597726/6002001-HAZ07-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147291467806/6002001-HAZ07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147293597726/6002001-HAZ07-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147291467806/6002001-HAZ07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147293597726/6002001-HAZ07-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147291467806/6002001-HAZ07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147293597726/6002001-HAZ07-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kari Traa Lid Knit - Women's",
+  "product_code": "6002-001",
+  "source_url": "https://www.mec.ca/en/product/6002-001/Lid-Knit",
+  "tech_specs": {
+    "Fabric content": [
+      "48% nylon",
+      "33% acrylic",
+      "13% wool",
+      "6% mohair"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

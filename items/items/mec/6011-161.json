@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Vacuum bottles and flasks",
+    "Rambler 26 Chug Cap Bottle"
+  ],
+  "description": "Keeps you beverages hot and comforting or cold and refreshing. Wide mouth top (7cm) gives you a licence to swill.Double-wall vacuum insulation doesn't sweat.Leak-proof cap can be clipped with a biner.Fits in most bottle pockets: 8.6 x 27.8cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170046648350/6011161-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170064146462/6011161-BK000-ALT-CAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170046648350/6011161-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170064146462/6011161-BK000-ALT-CAP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170046648350/6011161-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170064146462/6011161-BK000-ALT-CAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170046648350/6011161-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170064146462/6011161-BK000-ALT-CAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Yeti Rambler 26 Chug Cap Bottle",
+  "product_code": "6011-161",
+  "source_url": "https://www.mec.ca/en/product/6011-161/Rambler-26-Chug-Cap-Bottle",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Travel"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lid type": [
+      "Screw-top",
+      "Drink-through top"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Volume": [
+      "769ml"
+    ],
+    "Water filter compatible": [
+      "No"
+    ],
+    "Weight": [
+      "621g"
+    ]
+  }
+}

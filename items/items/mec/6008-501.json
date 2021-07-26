@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling tops",
+    "Cycling jerseys",
+    "Tanks and sleeveless jerseys",
+    "Pro Issue 2 Sleeveless"
+  ],
+  "description": "Let there be sweat. But keep your cool. Worn under your jersey, this base layer singlet helps you stay dry and comfortable on intense rides.3D mesh fabric is highly breathable and fast drying.Flat seams reduce chaffing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084220276766/6008501-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084222210078/6008501-WHT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084220276766/6008501-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084222210078/6008501-WHT00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084220276766/6008501-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084222210078/6008501-WHT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084220276766/6008501-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084222210078/6008501-WHT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Castelli Pro Issue 2 Sleeveless - Women's",
+  "product_code": "6008-501",
+  "source_url": "https://www.mec.ca/en/product/6008-501/Pro-Issue-2-Sleeveless",
+  "tech_specs": {
+    "Ideal for": [
+      "Performance and race road cycling"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Weight": [
+      "40g (Small)"
+    ]
+  }
+}

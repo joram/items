@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Trekking poles and accessories",
+    "Trekking pole baskets, tips and parts",
+    "Tech Tips-Rubber"
+  ],
+  "description": "Protective tips for using your Z-poles on harder surfaces.Fits Black Diamond\u2122 Z Poles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817284644894/5024494-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817284644894/5024494-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Tech Tips-Rubber",
+  "product_code": "5024-494",
+  "source_url": "https://www.mec.ca/en/product/5024-494/Tech-Tips-Rubber",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Day hiking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "9g"
+    ]
+  }
+}

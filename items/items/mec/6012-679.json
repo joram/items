@@ -1,0 +1,75 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike helmets and body armour",
+    "Bike helmets",
+    "Terranova MIPS Helmet"
+  ],
+  "description": "The one piece of gear that's more important than your bike, just got better, well, safer. Details like MIPS protection, extra head coverage and a flexible visor prove this helmet was designed by shredders for shredders.MIPS-C2\u00ae technology (Multi-directional Impact Protection System) reduces rotational forces in an oblique impact. An inner shell sandwiched under the foam reduces the rotational torque on your skull.Lightweight in-mould construction fuses EPS to a polycarbonate shell to help protect you from impacts.Flexible adjustable visor keeps weather and low hanging branches off your face.Safe-T DUO fit system lets you adjust your fit quickly.Vertical adjustment is ponytail friendly.17 vents let air flow through to keep you comfortable.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164676136990/6012679-BMG34.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164684394526/6012679-BMG34-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164684427294/6012679-BMG34-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164684492830/6012679-BMG34-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164676136990/6012679-BMG34.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164684394526/6012679-BMG34-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164684427294/6012679-BMG34-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164684492830/6012679-BMG34-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164676136990/6012679-BMG34.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164684394526/6012679-BMG34-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164684427294/6012679-BMG34-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164684492830/6012679-BMG34-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164676136990/6012679-BMG34.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164684394526/6012679-BMG34-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164684427294/6012679-BMG34-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164684492830/6012679-BMG34-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MET Terranova MIPS Helmet - Unisex",
+  "product_code": "6012-679",
+  "source_url": "https://www.mec.ca/en/product/6012-679/Terranova-MIPS-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Cycling"
+    ],
+    "Circumference\n\nThe internal circumference determines the size head that the helmet will fit.": [
+      "56-56cm (Small)",
+      "56-58cm (Medium)",
+      "58-61cm (Large)"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Molded in the shell"
+    ],
+    "Fit system": [
+      "Adjustable dial",
+      "Interchangeable foam pads"
+    ],
+    "Ideal for": [
+      "Trail riding",
+      "Cross-country riding"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "EN 1078"
+    ],
+    "Shell material": [
+      "Polycarbonate"
+    ],
+    "Vents": [
+      "Yes"
+    ],
+    "Weight": [
+      "355g (Medium)"
+    ]
+  }
+}

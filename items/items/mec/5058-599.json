@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Jackets",
+    "Casual jackets",
+    "Los Gatos Jacket"
+  ],
+  "description": "This deep-pile polyester fleece jacket, with simple style lines and contoured seams in the back for a refined look and fit, has a tall collar and cozy handwarmer pockets.Made of deep-pile polyester fleece, trimmed out in sleek taffetaFull-length front zipper and a stand-up collarLong, lean jacket silhouette, with tonal polyester trim at front zip and pocketsPrincess seams in back for a contoured fitHip length",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8956774744094/5058599-KHA05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8958427267102/5058599-KHA05-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965264867358/5058599-KHA05-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8956774744094/5058599-KHA05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8958427267102/5058599-KHA05-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965264867358/5058599-KHA05-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8956774744094/5058599-KHA05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8958427267102/5058599-KHA05-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965264867358/5058599-KHA05-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8956774744094/5058599-KHA05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8958427267102/5058599-KHA05-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965264867358/5058599-KHA05-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Los Gatos Jacket - Women's",
+  "product_code": "5058-599",
+  "source_url": "https://www.mec.ca/en/product/5058-599/Los-Gatos-Jacket",
+  "tech_specs": {
+    "Fabric content": [
+      "70% polyester",
+      "30% recycled polyester"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "240gsm"
+    ],
+    "Hood": [
+      "Fitted"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 handwarmer"
+    ]
+  }
+}

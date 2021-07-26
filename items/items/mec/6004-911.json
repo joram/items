@@ -1,0 +1,96 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Breakfasts",
+    "Powder Eggs"
+  ],
+  "description": "Classic for a reason, eggs are simple, good and easy to accessorize. Happy Yak\u2019s Powdered Eggs are a cut above your average powdered eggs, with a full, rich flavour that will have the other diners looking for shells.Ingredients: dried whole eggs.May contain: peanuts, sesame, egg, milk, fish, sea food, soy, wheat and mustard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319835166/6004911-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035443470366/6004911-NOC02-ALT-PREPARED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319835166/6004911-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035443470366/6004911-NOC02-ALT-PREPARED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319835166/6004911-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035443470366/6004911-NOC02-ALT-PREPARED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319835166/6004911-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035443470366/6004911-NOC02-ALT-PREPARED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Powder Eggs",
+  "product_code": "6004-911",
+  "source_url": "https://www.mec.ca/en/product/6004-911/Powder-Eggs",
+  "tech_specs": {
+    "Calories per serving": [
+      "90Cal"
+    ],
+    "Carbohydrates": [
+      "0g"
+    ],
+    "Cholesterol": [
+      "245mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "No"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "0g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "7g"
+    ],
+    "Saturated fat": [
+      "2g"
+    ],
+    "Serving size": [
+      "1/6 package"
+    ],
+    "Servings": [
+      "6"
+    ],
+    "Sodium": [
+      "70mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "0g"
+    ],
+    "Total fat": [
+      "6g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "109g"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling tops",
+    "Cycling jackets",
+    "Refuge Waterproof Cycling Jacket"
+  ],
+  "description": "Showers Pass designed this waterproof-breathable jacket for the most demanding cycle tourers and bike commuters. Reflective from all angles, with high quality zippers, extra-long vents and hidden drop tail that protects against road spray, the Refuge will keep you dry on stormy city streets and windswept passes alike.Durable 3-layer waterproof breathable construction, with sealed seams.Showers Pass rates this jacket 5/5 for both waterproofness and breathability.Adjustable hood fits over a helmet and can be removed and stashed in inside pocket.Loop on back for a blinker light.Brushed facing on chinguard wicks moisture and is soft against your skin.Full front zip is backed by a storm flap.Extra-long vents.Zippered inner chest pocket with audio port.Handwarmer pockets feature water resistant zips for secure storage.Hoop and loop cuff closures.Adjustable drop hem provides extended coverage in the riding position, and can be cinched to keep out drafts.Magnetic drop-down tail protects from road spray and wet stadium seats.Extensive reflective detailing enhances visibility from all angles.As of 2020 Showers Pass is Climate Neutral certified, meaning they fully offset their carbon emissions. Climate Neutral certified is a consumer label that's carried by brands who take responsibility for greenhouse gas emissions generated in production, operation and shipping of  their goods and services.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044694073374/6003363-PBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044709146654/6003363-PBL00-ALT-FEATURES-EN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044709179422/6003363-PBL00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044709376030/6003363-PBL00-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044694073374/6003363-PBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044709146654/6003363-PBL00-ALT-FEATURES-EN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044709179422/6003363-PBL00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044709376030/6003363-PBL00-ALT-LIFESTYLE2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044694073374/6003363-PBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044709146654/6003363-PBL00-ALT-FEATURES-EN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044709179422/6003363-PBL00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044709376030/6003363-PBL00-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044694073374/6003363-PBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044709146654/6003363-PBL00-ALT-FEATURES-EN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044709179422/6003363-PBL00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044709376030/6003363-PBL00-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Showers Pass Refuge Waterproof Cycling Jacket - Women's",
+  "product_code": "6003-363",
+  "source_url": "https://www.mec.ca/en/product/6003-363/Refuge-Waterproof-Cycling-Jacket",
+  "tech_specs": {
+    "Construction": [
+      "3-layer"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Hood": [
+      "Helmet-compatible",
+      "Adjustable",
+      "Stowable",
+      "Removable"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Cycle touring"
+    ],
+    "Length": [
+      "Hip-length"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 handwarmer",
+      "1 internal zippered with cord port"
+    ],
+    "Technology": [
+      "Elite"
+    ],
+    "Type": [
+      "Waterproof-breathable"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Waterproof with fully taped seams"
+    ],
+    "Weight": [
+      "532g (Medium)"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Hike Ultra Light Low T2 Coolmax Performance S"
+  ],
+  "description": "Stay cool without sacrificing comfort. The ultralight blend fabric gives your skin maximum air time. Vented anti-shock cushioning stands up to rough trails all summer long.Made of Coolmax breathable, moisture wicking polyester, nylon, and elastane to keep your feet cool and dry.Performance fit is sleek and supportive from foot to calf.Flat toe seam gives added comfort.T2 anti-shock cushioning offers next level impact protection.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029608472606/5063086-PPL66.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030229131294/5063086-PPL66-ALT-HEELTOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030229721118/5063086-PPL66-ALT-TEXTURE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029608472606/5063086-PPL66.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030229131294/5063086-PPL66-ALT-HEELTOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030229721118/5063086-PPL66-ALT-TEXTURE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029608472606/5063086-PPL66.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030229131294/5063086-PPL66-ALT-HEELTOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030229721118/5063086-PPL66-ALT-TEXTURE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029608472606/5063086-PPL66.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030229131294/5063086-PPL66-ALT-HEELTOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030229721118/5063086-PPL66-ALT-TEXTURE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Bridgedale Hike Ultra Light Low T2 Coolmax Performance Socks - Women's",
+  "product_code": "5063-086",
+  "source_url": "https://www.mec.ca/en/product/5063-086/Hike-Ultra-Light-Low-T2-Coolmax-Performance-S",
+  "tech_specs": {
+    "Cuff height": [
+      "Quarter"
+    ],
+    "Fabric content": [
+      "42% polyester",
+      "56% nylon",
+      "2% elastane"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Day hiking",
+      "Backpacking",
+      "Travel"
+    ],
+    "Made in": [
+      "South Africa"
+    ]
+  }
+}

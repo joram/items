@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Aid climbing gear",
+    "Adjustable Aider"
+  ],
+  "description": "Using an ingenious buckle system, these aiders have a single step but are infinitely adjustable. The aider\u2019s length is locked in place under load via 2 cam buckles that lock onto the webbing. No more messy multi-step set-ups or moving in and out to adjust your reach. Some climbers may still prefer the stepped versions to avoid constant adjusting.Sold individually, left or right.Broad support step with fastening buckle.Single-hand length adjustment via thumb loop.Carabiner must be fed through tight webbing loop, not just adjusting loop (it will slip).Less bulky and cumbersome than stepped aiders.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807304069150/4015348-NOC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807304069150/4015348-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Metolius Adjustable Aider",
+  "product_code": "4015-348",
+  "source_url": "https://www.mec.ca/en/product/4015-348/Adjustable-Aider",
+  "tech_specs": {
+    "Cheater rung(s)": [
+      "No"
+    ],
+    "Ideal for": [
+      "Aid climbing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Overall length": [
+      "238cm"
+    ],
+    "Step stiffeners": [
+      "Yes"
+    ],
+    "Steps": [
+      "1"
+    ],
+    "Weight": [
+      "215g (Left)"
+    ],
+    "Width": [
+      "19mm"
+    ]
+  }
+}

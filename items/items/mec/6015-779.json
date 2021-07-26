@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bicycle pumps",
+    "AirPress Compact Pump"
+  ],
+  "description": "A no-frills pump that gets the job done. With up to 100psi of pressure and multiple valve compatibility, it's a great option for riders on a budget.Durable aluminum, high-volume barrel.DuoHead Comp head is compatible with Schrader and Presta valves.Locking T-handle adds leverage.Includes frame bracket and mounting screws.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184181223454/6015779-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184189546526/6015779-NOC02-ALT-PUMP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184181223454/6015779-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184189546526/6015779-NOC02-ALT-PUMP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184181223454/6015779-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184189546526/6015779-NOC02-ALT-PUMP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184181223454/6015779-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184189546526/6015779-NOC02-ALT-PUMP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Evo AirPress Compact Pump",
+  "product_code": "6015-779",
+  "source_url": "https://www.mec.ca/en/product/6015-779/AirPress-Compact-Pump",
+  "tech_specs": {
+    "Fits valve": [
+      "Presta",
+      "Schrader"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Length": [
+      "28cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Maximum psi": [
+      "100psi"
+    ],
+    "Pressure gauge": [
+      "No"
+    ],
+    "Type\n\nFloor pumps, frame fit pumps, mini pumps and CO2 inflators are for bicycle tires. Suspension pumps are used to add pressure to your bike shocks.": [
+      "Frame fit"
+    ]
+  }
+}

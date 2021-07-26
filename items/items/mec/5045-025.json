@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Fixed protection",
+    "Wave Bolt Installation Tool"
+  ],
+  "description": "Clip this device to a Wave Bolt to make it easier to install. Bolting with just a hammer can bend bolts or cause them to rust.Fits around the end of the bolt and protects it from carbon steel that can be embedded if you use a carbon steel hammer.Helps drive bolts straight into the hole every time.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199089451038/5045025-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199089451038/5045025-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Climbtech Wave Bolt Installation Tool",
+  "product_code": "5045-025",
+  "source_url": "https://www.mec.ca/en/product/5045-025/Wave-Bolt-Installation-Tool",
+  "tech_specs": {
+    "Ideal for": [
+      "Trad and aid climbing",
+      "Alpine climbing and mountaineering"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "335g"
+    ]
+  }
+}

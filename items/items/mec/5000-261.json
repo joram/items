@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Bon Echo Provincial Park Map"
+  ],
+  "description": "A topographic map that includes hiking trails such as the Abes and Essens backpacking trail loops, High Pines, Bon Echo Creek and Cliff Top trails as well as boating opportunities such as Mazinaw, Kishkebus, Pearson and Abes and Essen lakes. Includes helpful descriptions and recommendations for routes with distances, difficulty and time allowances as well as campgrounds, historic features, points of interest, safety tips and contact information. UTM Grid (GPS ready).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815826108446/5000261-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815826108446/5000261-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Map Bon Echo Provincial Park Map",
+  "product_code": "5000-261",
+  "source_url": "https://www.mec.ca/en/product/5000-261/Bon-Echo-Provincial-Park-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Canoeing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Ontario"
+    ],
+    "Scale": [
+      "1:30,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

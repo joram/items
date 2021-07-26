@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth clothing",
+    "Youth accessories",
+    "Youth socks",
+    "Youth hiking socks",
+    "Wintersport Stripe Socks"
+  ],
+  "description": "Keep small toes warm and dry as they romp through snowy settings.Made of a merino wool and synthetic blend.Light cushioning in leg and footbed.Flat knit toe seam for comfort.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057490239518/6002113-SMA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057490075678/6002113-ALP10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057490239518/6002113-SMA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057490075678/6002113-ALP10.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057490239518/6002113-SMA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057490075678/6002113-ALP10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057490239518/6002113-SMA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057490075678/6002113-ALP10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Wintersport Stripe Socks - Children to Youths",
+  "product_code": "6002-113",
+  "source_url": "https://www.mec.ca/en/product/6002-113/Wintersport-Stripe-Socks",
+  "tech_specs": {
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Shin",
+      "Forefoot"
+    ],
+    "Fabric content": [
+      "71% merino wool",
+      "28% nylon",
+      "1% elastane"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Snowsports"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

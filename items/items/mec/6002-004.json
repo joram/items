@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Baby (0-2 yrs)",
+    "Baby footwear",
+    "Baby boots",
+    "Baby winter boots",
+    "Outback Mid Boots"
+  ],
+  "description": "Make tracks from the trail to the playground. These high-top hiking boots are designed to keep up with the busiest kids. Featuring a cushy footbed to keep them comfy all day long, and slip-and-trip resistant soles to smooth out rough terrain.Uppers are suede and mesh.Hook and loop closure makes for a snug fit and easy on and off.Cushy EVA footbed provides all day comfort.M Select GRIP soles provide flexible, non-marking traction.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040598335518/6002004-GSK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974675998/6002004-GSK00-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974708766/6002004-GSK00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974741534/6002004-GSK00-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974774302/6002004-GSK00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040598335518/6002004-GSK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974675998/6002004-GSK00-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974708766/6002004-GSK00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974741534/6002004-GSK00-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974774302/6002004-GSK00-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040598335518/6002004-GSK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974675998/6002004-GSK00-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974708766/6002004-GSK00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974741534/6002004-GSK00-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974774302/6002004-GSK00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040598335518/6002004-GSK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974675998/6002004-GSK00-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974708766/6002004-GSK00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974741534/6002004-GSK00-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040974774302/6002004-GSK00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Merrell Outback Mid Boots - Infants to Children",
+  "product_code": "6002-004",
+  "source_url": "https://www.mec.ca/en/product/6002-004/Outback-Mid-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Hook-and-loop"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Day hiking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Upper material": [
+      "Mesh",
+      "Suede"
+    ]
+  }
+}

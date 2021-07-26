@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Smith Rock Select 2nd Edition"
+  ],
+  "description": "Discover Smith Rock with this select guide to almost 300 of the most prime routes. The big orange walls of this Oregon State Park have some of the best and most celebrated climbs in the country, and a wealth of terrain, both sport and trad, that will challenge climbers of all abilities.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815606136862/5022243-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815606136862/5022243-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smith Rock Select 2nd Edition",
+  "product_code": "5022-243",
+  "source_url": "https://www.mec.ca/en/product/5022-243/Smith-Rock-Select-2nd-Edition",
+  "tech_specs": {
+    "Author": [
+      "Jonathan Thesenga"
+    ],
+    "Edition": [
+      "2nd"
+    ],
+    "ISBN": [
+      "9780979264498"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Sport and toprope climbing",
+      "Trad and aid climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "87"
+    ],
+    "Published": [
+      "2009"
+    ],
+    "Regionality": [
+      "USA"
+    ]
+  }
+}

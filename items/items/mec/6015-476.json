@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Sunglasses",
+    "Casual sunglasses",
+    "Roam Sunglasses"
+  ],
+  "description": "A classic silhouette with a twist. The Roam pairs a full-frame with contrasting lightweight temples, setting it apart in a sea of lookalikes.Medium fit and coverage.Equipped with ChromaPop\u00aedeliver exceptional clarity, high contrast, and dynamic colour optimization, making them great for challenging light conditions.Polarized lenses are super sharp and cut glare whether you are on the water, snow, or tarmac.Hydrophilic megol nose pads keep the glasses in place when you get active.4 base lens curvature offers a slight wrap without crossing into the realm of sporty.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182837538846/6015476-TPB34.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182837440542/6015476-BCG67.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182837538846/6015476-TPB34.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182837440542/6015476-BCG67.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182837538846/6015476-TPB34.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182837440542/6015476-BCG67.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182837538846/6015476-TPB34.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182837440542/6015476-BCG67.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smith Roam Sunglasses - Unisex",
+  "product_code": "6015-476",
+  "source_url": "https://www.mec.ca/en/product/6015-476/Roam-Sunglasses",
+  "tech_specs": {
+    "100% UVA protected": [
+      "Yes"
+    ],
+    "100% UVB protected": [
+      "Yes"
+    ],
+    "Fits over most eyewear\n\nThese optics are designed to fit comfortably over most eyewear.": [
+      "No"
+    ],
+    "Frame material\n\nTR90 thermoplastic offers good resistance to chemicals and torsion. Propionate is a light, nylon-based, hypoallergenic plastic that's very strong and offers more transparency and gloss than other plastics.": [
+      "TR90 thermoplastic",
+      "Metal"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Interchangeable lenses\n\nInterchangeable lenses let you change lenses to suit differing light conditions or activities.": [
+      "No"
+    ],
+    "Lens material": [
+      "Polycarbonate"
+    ],
+    "Lens performance\n\nFixed tints provide a constant degree of darkness. Photochromic lenses adjust to changing light levels. Polarized lenses absorb horizontal reflected glare to improve clarity around surfaces like snow or water.": [
+      "Fixed tint"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Visible Light Transmission\n\n0-10% \u2013 very heavy tint, too dark for most needs. \n10-30% \u2013 heavy tint for bright sunny days.\n20-60% \u2013 light tint, great for cloudy, overcast conditions and shady trails. \n60-80% \u2013 very light tint (often coloured), for improving contrast in low-light conditions, think dawn or dusk. \n80-100% \u2013 little to no tint, this what you want in the dark.": [
+      "15% (Black/ChromaPop Polarized Grey Green)",
+      "14% (Tortoise/ChromaPop Polarized Brown)"
+    ]
+  }
+}

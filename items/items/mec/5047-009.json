@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Climb accessories",
+    "Colourful Belay Glasses"
+  ],
+  "description": "Climb frequently enough and you'll probably experience belay neck. When that pain gets to be too much to bear, these glasses let you safely track your partner's \"take-climbing-take\" sequence without feeling like you're watching a movie from the front row.High transparency prisms provide excellent optical performance and a natural line of sight.Stainless steel frames survive the occasional dynamic belay.Silicon nose pads for comfort on long, long belays.Adjustable arms accommodate a wide range of head shapes.Rigid zippered case included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807457914910/5047009-SPH04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807457882142/5047009-SPH04-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458013214/5047009-SPH04-ALT-CASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458308126/5047009-BOR03-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458471966/5047009-BOR03-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458570270/5047009-BOR03-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458603038/5047009-BOR03-ALT-CASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458242590/5047009-BOR03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807457914910/5047009-SPH04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807457882142/5047009-SPH04-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458013214/5047009-SPH04-ALT-CASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458308126/5047009-BOR03-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458471966/5047009-BOR03-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458570270/5047009-BOR03-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458603038/5047009-BOR03-ALT-CASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458242590/5047009-BOR03.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807457914910/5047009-SPH04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807457882142/5047009-SPH04-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458013214/5047009-SPH04-ALT-CASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458308126/5047009-BOR03-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458471966/5047009-BOR03-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458570270/5047009-BOR03-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458603038/5047009-BOR03-ALT-CASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458242590/5047009-BOR03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807457914910/5047009-SPH04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807457882142/5047009-SPH04-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458013214/5047009-SPH04-ALT-CASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458308126/5047009-BOR03-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458471966/5047009-BOR03-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458570270/5047009-BOR03-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458603038/5047009-BOR03-ALT-CASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807458242590/5047009-BOR03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Y &Y Colourful Belay Glasses - Unisex",
+  "product_code": "5047-009",
+  "source_url": "https://www.mec.ca/en/product/5047-009/Colourful-Belay-Glasses",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing",
+      "Snow and ice climbing",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

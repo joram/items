@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Tily Tee"
+  ],
+  "description": "A little retro summer cool brought to you in a soft organic cotton tee.Lightweight organic cotton and Tencel blend.Tie at the waist.Picture was established with the goal of creating inspiring outdoor clothing that helps us reduce our dependence on fossil fuels. Picture believes in 100% transparency and uses factories that are part of the Fair Wear Foundation.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097883385886/6007761-RPK07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9098941464606/6007761-RPK07-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9098941431838/6007761-RPK07-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097883385886/6007761-RPK07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9098941464606/6007761-RPK07-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9098941431838/6007761-RPK07-ALT-FULL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097883385886/6007761-RPK07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9098941464606/6007761-RPK07-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9098941431838/6007761-RPK07-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097883385886/6007761-RPK07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9098941464606/6007761-RPK07-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9098941431838/6007761-RPK07-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Picture Tily Tee - Women's",
+  "product_code": "6007-761",
+  "source_url": "https://www.mec.ca/en/product/6007-761/Tily-Tee",
+  "tech_specs": {
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ]
+  }
+}

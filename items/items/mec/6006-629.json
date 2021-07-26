@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Shoes",
+    "Sneakers and casual shoes",
+    "Fresh Foam Roav Shoes"
+  ],
+  "description": "Sleek, stylish shoes loaded with explosive potential to level up your box jumping skills. The Fresh Foam ROAV\u2019s sole cradles your foot, offering supple comfort and high-performance support.Ultra heel cups and supports your heel as your one the move.Bootie construction for sock-like comfort.Fresh Foam midsole cushioning keep these kicks feeling great all-day.Full ground contact outsole provides serious traction.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154482733086/6006629-ILA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154482864158/6006629-ILA01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154482733086/6006629-ILA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154482864158/6006629-ILA01-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154482733086/6006629-ILA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154482864158/6006629-ILA01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154482733086/6006629-ILA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9154482864158/6006629-ILA01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "New Balance Fresh Foam Roav Shoes - Men's",
+  "product_code": "6006-629",
+  "source_url": "https://www.mec.ca/en/product/6006-629/Fresh-Foam-Roav-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Upper material": [
+      "Synthetic"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

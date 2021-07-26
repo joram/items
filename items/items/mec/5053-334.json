@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Bike service parts",
+    "Fenix Carbon Disc 2015+ Derailleur Hanger"
+  ],
+  "description": "A replacement derailleur hanger for a 2015 or later Ridley Fenix Carbon Disc Bike.Ridley part number is HANCRSRID018.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867959373854/5053334-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867959373854/5053334-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ridley Fenix Carbon Disc 2015+ Derailleur Hanger",
+  "product_code": "5053-334",
+  "source_url": "https://www.mec.ca/en/product/5053-334/Fenix-Carbon-Disc-2015%2B-Derailleur-Hanger",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

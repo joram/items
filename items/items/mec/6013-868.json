@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Uppers and downers",
+    "Ascenders",
+    "Torse Shoulder Strap"
+  ],
+  "description": "A shoulder strap to keep your Croll Ascender upright and positioned for efficiency. Great for jugging ropes while climbing or caving. It threads through the top loop on an ascender when the bottom of the ascender is attached to a harness.Strap is durably polyester webbing with DoubleBack adjustable buckle for easy adjustment.Not designed to be load bearing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165726580766/6013868-ORG19.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165726580766/6013868-ORG19.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Torse Shoulder Strap",
+  "product_code": "6013-868",
+  "source_url": "https://www.mec.ca/en/product/6013-868/Torse-Shoulder-Strap",
+  "tech_specs": {
+    "Ideal for": [
+      "Trad and aid climbing",
+      "Alpine climbing and mountaineering"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Weight": [
+      "90g"
+    ]
+  }
+}

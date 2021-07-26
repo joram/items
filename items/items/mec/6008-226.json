@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Camp pillows",
+    "Air Head Down Pillow"
+  ],
+  "description": "With its luxurious down topper, the Air Head Down Pillow brings glamping levels of comfort to the fast-ish and light-ish crowd.Baffled construction adds stability and lets you dial in the perfect firmness.Packs down small for easy transportation.Soft and fleecy polyester pillow case pops off and goes in the wash for easy cleaning.Thoughtful shape tucks perfectly into the hood of your sleeping bag.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082909392926/6008226-GMO01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921615390/6008226-GMO01-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921844766/6008226-GMO01-ALT-PARTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082909392926/6008226-GMO01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921615390/6008226-GMO01-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921844766/6008226-GMO01-ALT-PARTS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082909392926/6008226-GMO01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921615390/6008226-GMO01-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921844766/6008226-GMO01-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082909392926/6008226-GMO01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921615390/6008226-GMO01-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082921844766/6008226-GMO01-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Therm-a-Rest Air Head Down Pillow",
+  "product_code": "6008-226",
+  "source_url": "https://www.mec.ca/en/product/6008-226/Air-Head-Down-Pillow",
+  "tech_specs": {
+    "Dimensions": [
+      "39\u00a0x\u00a028\u00a0x\u00a010cm"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Polyester"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Dry bags",
+    "Muskoka Dry Tote"
+  ],
+  "description": "What if a dry bag were comfortable to carry, easy to dig around in, and sturdy enough to stand up on its own? Enter the Muskoka Dry Tote. Its wide opening lets you see what you're looking for, and the webbing straps make it easy to throw it over your shoulder on the way to the beach or for short portages. RF-welded seams prevent leaks, so it works equally well to keep wet stuff in or out \u2013 our testers used it to protect clothing, gear and towels, but also as a wetsuit holder, water carrier and camp sink. Roll down the top, clip it closed, and be confident that your stuff's safe from rain, snow, sleet and surf.Made of burly 600-denier polyester with a super-durable ether-based TPU coating inside and out. Contains no PVC, so it has a lower environmental impact than traditional PVC dry bags.Roll-top closure is made of lightweight and strong 210-denier nylon 6 with a TPU coating.Seams are radio-frequency welded to ensure complete waterproofness.Webbing tote-style straps and side handles are easy to grab on the go.Note: these dry bags do not provide submersible waterproof protection or impact protection. For electronics, we recommend hard cases with gasket seals.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980356005918/5051314-LCN03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954422624286/5051314-NOCLR-ALT-SIZES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954422296606/5051314-LCN03-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954425114654/5051314-LCN03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8959598624798/5051314-DLB02-ALT-BODYFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954424000542/5051314-DLB02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980356005918/5051314-LCN03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954422624286/5051314-NOCLR-ALT-SIZES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954422296606/5051314-LCN03-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954425114654/5051314-LCN03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8959598624798/5051314-DLB02-ALT-BODYFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954424000542/5051314-DLB02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980356005918/5051314-LCN03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954422624286/5051314-NOCLR-ALT-SIZES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954422296606/5051314-LCN03-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954425114654/5051314-LCN03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8959598624798/5051314-DLB02-ALT-BODYFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954424000542/5051314-DLB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980356005918/5051314-LCN03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954422624286/5051314-NOCLR-ALT-SIZES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954422296606/5051314-LCN03-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954425114654/5051314-LCN03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8959598624798/5051314-DLB02-ALT-BODYFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954424000542/5051314-DLB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Muskoka Dry Tote",
+  "product_code": "5051-314",
+  "source_url": "https://www.mec.ca/en/product/5051-314/Muskoka-Dry-Tote",
+  "tech_specs": {
+    "Closure": [
+      "Roll-top"
+    ],
+    "Depth": [
+      "34cm (20L)",
+      "39cm (40L)",
+      "45.5cm (60L)"
+    ],
+    "Ideal for": [
+      "Canoeing",
+      "Whitewater kayaking",
+      "Paddleboarding",
+      "Beach",
+      "Camping and hiking"
+    ],
+    "Length": [
+      "31cm (20L)",
+      "40cm (40L)",
+      "42cm (60L)"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Material": [
+      "PU-coated polyester"
+    ],
+    "Ruggedness\n\nFair: made of lightweight materials and designed to be carried inside another bag. Good: strikes a balance between light weight and durability. Excellent: made of heavy duty materials and designed to be carried alone. Exceptional: made of ultra-tough materials and designed to withstand abuse.": [
+      "Excellent"
+    ],
+    "Submersible": [
+      "No"
+    ],
+    "Volume": [
+      "20L (20L)",
+      "40L (40L)",
+      "60L (60L)"
+    ],
+    "Waterproofness\n\nWaterproof bags and cases are made with waterproof materials and have waterproof closures. Some are designed to be submersible. Water-resistant bags and cases are made with waterproof materials, but water could sneak in through the seams or closure.": [
+      "Waterproof"
+    ],
+    "Weight": [
+      "490g (20L)",
+      "680g (40L)",
+      "820g (60L)"
+    ],
+    "Width": [
+      "22cm (20L)",
+      "30cm (40L)",
+      "35cm (60L)"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Camp stoves and grills",
+    "Backcountry stoves",
+    "Fuel bottles and pumps",
+    "Child Safe Fuel Bottle"
+  ],
+  "description": "These flasks have push-and-twist caps that are easy to operate even with mittened hands. Some find them more convenient than coin-slot style caps. Who has a pocket full of change a week into the backcountry?Interior epoxy coating ensures liquid fuels are stored safely.Available in 400ml (250 max capacity), 600ml (450 max), 1L (750 max). Please note the maximum fuel capacity of each size. For correct stove function, bottles need a bit of space for pressurized air.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812769476638/5021492-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812769476638/5021492-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Optimus Child Safe Fuel Bottle",
+  "product_code": "5021-492",
+  "source_url": "https://www.mec.ca/en/product/5021-492/Child-Safe-Fuel-Bottle",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "127g (Medium)"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Gloves and mittens",
+    "Gloves",
+    "The Timber Gloves"
+  ],
+  "description": "Classic comfort for chilly days. Wool gives these gloves just the right amount of warmth, while leather palms and fingers let you keep your grip.Outer wool blend fabric is warm and durable.Lined in thick Sherpa fleece.Durable leather provides grip.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138060066846/6012580-RBP01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138060066846/6012580-RBP01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kombi The Timber Gloves - Men's",
+  "product_code": "6012-580",
+  "source_url": "https://www.mec.ca/en/product/6012-580/The-Timber-Gloves",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Insulation": [
+      "Medium"
+    ],
+    "Liner fabric": [
+      "100% polyester"
+    ],
+    "Liner type": [
+      "Sewn-in"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "60% wool",
+      "40% viscose"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Leather"
+    ],
+    "Touchscreen compatible": [
+      "No"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

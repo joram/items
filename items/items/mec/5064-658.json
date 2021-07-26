@@ -1,0 +1,76 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike wheels",
+    "Wheelsets",
+    "29in. TR249 Wheelset"
+  ],
+  "description": "A stiff, strong, light set of wheels that'll change how your XC and trail bike rides for the better. The asymmetric carbon rims of the TR line allow even tension on either side to increase durability and ride quality. Slap your favourite tubeless tires on the 24mm rim and let your grin grow. When compared to the next best option from Reynolds, you get the exact same carbon rims, but laced to a different hub that offers 10\u00b0 of hub engagement. No need to choose between a light wheelset that climbs or a stiff one that corners, the TR line checks both boxes.Hookless tire bead that is tubeless ready for a burp-free tire fit and easy inflation.Rim uses the Reynolds MR5 construction technology.Asymmetric rim profile allows for even spoke tension to create a stiff and durable wheel.Rim depth of 25mm allows for a compliant ride.Internal width of 24mm and external width of 29mm plays nice with modern tires.28 spokes laced in a 3-cross pattern in the front and rear for durability.Boost hub spacing helps with stiffness and durability.Front hub uses a 15x110mm axle. Rear is 12x148mm.Reynolds TR3 mountain hubs features fast and smooth rolling bearings.10\u00b0 of hub engagement uses a 3-pawl freehub design.XD driver is compatible with XD cassettes.Compatible with Centerlock rotors. Adapter included for 6-bolt rotors.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998914424862/5064658-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998914424862/5064658-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Reynolds Cycling 29in. TR249 Wheelset",
+  "product_code": "5064-658",
+  "source_url": "https://www.mec.ca/en/product/5064-658/29in-TR249-Wheelset",
+  "tech_specs": {
+    "Brake compatibility": [
+      "Disc brakes"
+    ],
+    "Front hub width\n\nThe hub width must fit the inside distance between the two fork ends (dropouts).": [
+      "110mm"
+    ],
+    "Hub (front)": [
+      "Reynolds TR3"
+    ],
+    "Hub (rear)\n\nThe hub affects a bike\u2019s rolling efficiency. Internally geared hubs require significantly less maintenance.": [
+      "Reynolds TR3"
+    ],
+    "Ideal for": [
+      "Enduro",
+      "Trail riding"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Carbon fibre"
+    ],
+    "Rear hub width": [
+      "148mm"
+    ],
+    "Retention device": [
+      "Thru-axle 15 mm front / 12 mm rear"
+    ],
+    "Rims": [
+      "Reynolds TR249"
+    ],
+    "Size": [
+      "29in."
+    ],
+    "Spoke count": [
+      "28"
+    ],
+    "Spokes": [
+      "Stainless"
+    ],
+    "Tire type": [
+      "Tubeless",
+      "Clincher"
+    ],
+    "Valve compatibility\n\nThe type of tube valve the rim will accommodate. Most Schrader wheels can be retrofitted to fit Presta valves.": [
+      "Presta"
+    ],
+    "Weight": [
+      "1.59kg"
+    ]
+  }
+}

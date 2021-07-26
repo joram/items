@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Shorts",
+    "Back Step 10\" Shorts"
+  ],
+  "description": "Easy shorts made of organic cotton and hemp that's ready for dynamic activity or laidback recovery.Lightweight organically grown cotton and hemp.Zip fly with button closure andBelt loops dress things up just enough.Front pockets and a single back pocket.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018258980894/5062730-CNN88.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018258849822/5062730-CHG06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018258980894/5062730-CNN88.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018258849822/5062730-CHG06.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018258980894/5062730-CNN88.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018258849822/5062730-CHG06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018258980894/5062730-CNN88.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018258849822/5062730-CHG06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Back Step 10\" Shorts - Men's",
+  "product_code": "5062-730",
+  "source_url": "https://www.mec.ca/en/product/5062-730/Back-Step-10%22-Shorts",
+  "tech_specs": {
+    "Fabric content": [
+      "55% hemp",
+      "45% organically grown cotton"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "135gsm"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "10in. (34)"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "1 back"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ]
+  }
+}

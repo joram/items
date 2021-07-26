@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country classic",
+    "Classic ski boots",
+    "RC 8 Nocturne Prolink Boots"
+  ],
+  "description": "This performance-oriented boot is aimed at athletic classic skiers seeking speed and control on groomed trails. The RC8 Nocturne Prolink Boots have a classic flex profile that provides excellent feel for the snow, while an adjustable heel strap pairs with Salomon's time-tested Quicklace system for a secure fit.Flex profile is optimized for classic skiing, providing good feel for the snow and ski control.Zippered lace cover makes for a warm, low-profile upper.Quicklace system provides a secure fit with a single pull.Heel strap holds your foot in place.Internal heel counter adds stability and comfort.Nocturne 360 degree reflective details keep you visible.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137040785438/6011212-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137037344798/6011212-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137037410334/6011212-NOC02-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137037475870/6011212-NOC02-ALT-BACK-CLOSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137040785438/6011212-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137037344798/6011212-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137037410334/6011212-NOC02-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137037475870/6011212-NOC02-ALT-BACK-CLOSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137040785438/6011212-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137037344798/6011212-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137037410334/6011212-NOC02-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137037475870/6011212-NOC02-ALT-BACK-CLOSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137040785438/6011212-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137037344798/6011212-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137037410334/6011212-NOC02-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137037475870/6011212-NOC02-ALT-BACK-CLOSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon RC 8 Nocturne Prolink Boots - Unisex",
+  "product_code": "6011-212",
+  "source_url": "https://www.mec.ca/en/product/6011-212/RC-8-Nocturne-Prolink-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "NNN"
+    ],
+    "Hinged/high cuff": [
+      "No"
+    ],
+    "Ideal for": [
+      "Fitness classic skiing",
+      "Classic ski racing"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lace cover": [
+      "Yes"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Casual socks",
+    "All Day Invisible Socks"
+  ],
+  "description": "The secret agent of socks. These lightweight socks are cut low to be practically invisible inside your ballet flats and loafers.Lightweight fabric has no cushion to fit into snug-fitting shoes without bunching.Internal silicone patch on heel prevents the sock from moving around.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080728780830/5060576-GSD55.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011259932702/5060576-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080728780830/5060576-GSD55.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011259932702/5060576-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080728780830/5060576-GSD55.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011259932702/5060576-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080728780830/5060576-GSD55.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011259932702/5060576-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC All Day Invisible Socks - Unisex",
+  "product_code": "5060-576",
+  "source_url": "https://www.mec.ca/en/product/5060-576/All-Day-Invisible-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "No-show"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "97% nylon",
+      "3% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Colombia"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

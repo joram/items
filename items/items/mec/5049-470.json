@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Fenders",
+    "Big Buck Fender - Rear"
+  ],
+  "description": "Minimalist and easy to attach to your seat post. This rear fender does the job of keeping your backside from getting too dirty, and it fits most bikes by adjusting the angle. The wide profile makes it an excellent option for mountain bikes and fat bikes.Made of durable all-weather polymer material.Quick-release mount snaps on and off quickly.Fender angle is adjustable to fit most bikes.Wide profile offers good coverage, even on a fat bike.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397149214/5049470-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397181982/5049470-BK000-ALT-LIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397411358/5049470-BK000-ALT-BACKLIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397476894/5049470-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397149214/5049470-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397181982/5049470-BK000-ALT-LIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397411358/5049470-BK000-ALT-BACKLIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397476894/5049470-BK000-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397149214/5049470-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397181982/5049470-BK000-ALT-LIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397411358/5049470-BK000-ALT-BACKLIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397476894/5049470-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397149214/5049470-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397181982/5049470-BK000-ALT-LIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397411358/5049470-BK000-ALT-BACKLIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806397476894/5049470-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike Big Buck Fender - Rear",
+  "product_code": "5049-470",
+  "source_url": "https://www.mec.ca/en/product/5049-470/Big-Buck-Fender---Rear",
+  "tech_specs": {
+    "Attachment type": [
+      "Quick-release bands"
+    ],
+    "Fits tires": [
+      "All"
+    ],
+    "Ideal for": [
+      "Enduro",
+      "Trail riding",
+      "Cross-country riding"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Polymer"
+    ],
+    "Sold": [
+      "Single Rear"
+    ],
+    "V-stays": [
+      "No"
+    ],
+    "Weight": [
+      "265g"
+    ]
+  }
+}

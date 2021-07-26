@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "SAS Survival Guide"
+  ],
+  "description": "A detailed survival book, written by an ex-soldier of the British Special Air Service. Covers essential topics such as collecting salt and water, making fire, tying knots, setting up campsites, and navigating by the stars and sun. Also includes information on first aid, survival at sea, how to survive major disasters, and surviving in different climates, such as polar or arid regions.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815766241310/5042963-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815766241310/5042963-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SAS Survival Guide",
+  "product_code": "5042-963",
+  "source_url": "https://www.mec.ca/en/product/5042-963/SAS-Survival-Guide",
+  "tech_specs": {
+    "Author": [
+      "John Wiseman"
+    ],
+    "Edition": [
+      "3rd"
+    ],
+    "ISBN": [
+      "9780007595860"
+    ],
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Pages": [
+      "672"
+    ],
+    "Published": [
+      "2014"
+    ]
+  }
+}

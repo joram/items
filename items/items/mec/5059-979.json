@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tool components",
+    "PUR'DRY Pick"
+  ],
+  "description": "New, consistent-thickness pick designed exclusively for dry tooling. The PUR'DRY Pick's aggressive teeth provide efficient hooking and stability when switching hands.Continuous 4mm thickness increases rigidity and strength.Teeth on upper edge grip rock when inverted.T-rated. Great for mixed climbing or pure dry tooling.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994129477662/5059979-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994129477662/5059979-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl PUR'DRY Pick",
+  "product_code": "5059-979",
+  "source_url": "https://www.mec.ca/en/product/5059-979/PUR%27DRY-Pick",
+  "tech_specs": {
+    "Ideal for": [
+      "Ice climbing"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Weight": [
+      "140g"
+    ]
+  }
+}

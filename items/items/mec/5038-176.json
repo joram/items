@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "UV-light purifiers",
+    "Classic 3 Water Purifier and Pre-Filter"
+  ],
+  "description": "Use shortwave ultraviolet light to disinfect your water. When you immerse the lamp in the water it disrupts the DNA of bacteria, viruses and protozoa, rendering them harmless. Use the pre-filter to clear particulates and debris before you purify the water.SteriPen is most effective with, clear water. It reduces microbial contamination in mildly turbid water, but you should consider an alternate purification system any time you expect to encounter muddy or silty water sources.Pre-filter fits standard 63mm thread water bottles.Treatment of .5L takes approximately 45 seconds and 1.0L takes approximately 90 seconds.Lamp life is approximately 8,000 treatments.Requires 4 AA alkaline or lithium batteries (not included).Manufacturer\u2019s tests with alkaline batteries treated approximately 50L, with lithium or NiMH treated approximately 100L. Colder temperatures will reduce the number of doses per battery charge.Weight is 110g without batteries.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812689358878/5038176-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812689358878/5038176-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SteriPen Classic 3 Water Purifier and Pre-Filter",
+  "product_code": "5038-176",
+  "source_url": "https://www.mec.ca/en/product/5038-176/Classic-3-Water-Purifier-and-Pre-Filter",
+  "tech_specs": {
+    "Batteries": [
+      "4 AA (not included)"
+    ],
+    "Cartridge life\n\nThe life of the filter cartridge is based on the quantity of water you can treat before the cartridge is no longer effective. This does not apply to battery operated or chemical filter systems.": [
+      "8000L"
+    ],
+    "Dimensions": [
+      "18.5\u00a0x\u00a04.3cm"
+    ],
+    "Effective against bacteria\n\nBacteria can cause illnesses such as diarrhea and dysentery and are about 1.0 micron in size, although some can be as small as 0.2 microns.": [
+      "Yes"
+    ],
+    "Effective against particulate\n\nParticulate consists of very small bits and pieces such as dirt or bugs.": [
+      "No"
+    ],
+    "Effective against protozoa\n\nProtozoa are larger than one micron and include cryptosporidium and giardia.": [
+      "Yes"
+    ],
+    "Effective against viruses\n\nMost viruses are in the 0.1 micron size range, but they can be as small as 0.002 microns.": [
+      "Yes"
+    ],
+    "Filter type\n\nWater can be treated using various types of filters, chemicals or non-chemical purification methods, or a combination. Filters on their own will not remove viruses as they are too small.": [
+      "Shortwave UV light"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output": [
+      ".5L/min"
+    ],
+    "Weight": [
+      "185g"
+    ]
+  }
+}

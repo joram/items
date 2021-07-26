@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Rashguards and sunguards",
+    "Heathered VentX Solid Long Sleeve Top"
+  ],
+  "description": "Low-key look for a multi-function rashguard. Helps resist surfboard or paddleboard abrasions. Stretches with you and dries quickly. Relaxed t-shirt fit and soft fabric easily transitions from the sand to the pavement.Made of breathable Ventx fabric that has 4-way stretch, wicks moisture and dries quickly.Thumbholes help keep the sleeves from riding up when wrestling with the surf.Fabric provides UPF 20 sun protection.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170026758174/5063949-ROS24.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170026725406/5063949-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170026758174/5063949-ROS24.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170026725406/5063949-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170026758174/5063949-ROS24.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170026725406/5063949-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170026758174/5063949-ROS24.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170026725406/5063949-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Xcel Heathered VentX Solid Long Sleeve Top - Women's",
+  "product_code": "5063-949",
+  "source_url": "https://www.mec.ca/en/product/5063-949/Heathered-VentX-Solid-Long-Sleeve-Top",
+  "tech_specs": {
+    "Ideal for": [
+      "Beach",
+      "Surfing",
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "15-24 (Blocks ~93% of UVA/UVB)"
+    ]
+  }
+}

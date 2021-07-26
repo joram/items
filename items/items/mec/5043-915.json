@@ -1,0 +1,87 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Snacks",
+    "Chocolate bars",
+    "Firecracker Dark Chocolate Bar"
+  ],
+  "description": "The smoky heat of chipotle mixed with popping candy, smooth dark chocolate, and just a hint of sea salt makes this bar an explosion of flavours.Ingredients: premium dark chocolate (60% cacao, sugar, cacao butter, soy lecithin [as an emulsifier], natural vanilla), popping candy (sugar, corn, glucose, lactose, carbon dioxide), chipotle chile, pasilla chile, sea salt.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812472696862/5043915-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812472696862/5043915-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Chuao Firecracker Dark Chocolate Bar",
+  "product_code": "5043-915",
+  "source_url": "https://www.mec.ca/en/product/5043-915/Firecracker-Dark-Chocolate-Bar",
+  "tech_specs": {
+    "Calories per serving": [
+      "190Cal"
+    ],
+    "Carbohydrates": [
+      "24g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "3g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "2g"
+    ],
+    "Saturated fat": [
+      "8g"
+    ],
+    "Serving size": [
+      "1/2 bar"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "55mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "15g"
+    ],
+    "Total fat": [
+      "13g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "80g"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Spaceshot T-Shirt"
+  ],
+  "description": "A shirt that celebrates low-gravity days.Crafted from soft organic cotton with a just enough added spandex for an easy stretch.Regular fit offers no surprises, just comfort.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187255255070/6015968-PNE03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187257483294/6015968-PNE03-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187254960158/6015968-BK058.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187255255070/6015968-PNE03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187257483294/6015968-PNE03-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187254960158/6015968-BK058.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187255255070/6015968-PNE03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187257483294/6015968-PNE03-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187254960158/6015968-BK058.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187255255070/6015968-PNE03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187257483294/6015968-PNE03-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187254960158/6015968-BK058.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Spaceshot T-Shirt - Women's",
+  "product_code": "6015-968",
+  "source_url": "https://www.mec.ca/en/product/6015-968/Spaceshot-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "96% organically grown cotton",
+      "4% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "160gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "India"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ]
+  }
+}

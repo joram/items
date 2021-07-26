@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bug spray and bug nets",
+    "Bug shirts and bug jackets",
+    "Bug Jacket"
+  ],
+  "description": "In environments such as northern Canada, mosquitoes and flies seem undeterred by insect repellents. And not everyone can tolerate chemicals, especially around the face. This jacket is an excellent alternative.Made of airy, bug-proof mesh. Small enough to prevent no-see-ums from getting in.Adult sizing. Small fits up to 73kg (160lb.). Medium fits up to 91kg (200lb.). Large fits up to 109kg (240lb.). X-Large fits up to 136kg (300lb.).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809980985374/4013766-NOC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809980985374/4013766-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Bug Jacket - Unisex",
+  "product_code": "4013-766",
+  "source_url": "https://www.mec.ca/en/product/4013-766/Bug-Jacket",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "130g (Medium)"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Ropes, cords and slings",
+    "Static ropes and cord",
+    "Rad Line 6.0mm Static Rope"
+  ],
+  "description": "An ultralight static rope that works for short raps or for extracting someone who went for a ride down a crevasse. Because it has limited stretch, it's an efficient tool in a haul system or to use as an ascent line, but it's not the one to use to arrest a fall or to provide a dynamic belay.Ultralight and compact 6mm cord.Dyneema\u00ae and aramid-reinforced sheath offers great strength-to-weight ratio.Compatible with Petzl Tibloc and Micro Traxion ascenders.Rough-textured sheath improves friction when rappelling or arresting a crevasse fall.Cord elongation of less than 2% ensures efficiency during rescue.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151997575198/6009684-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151997575198/6009684-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Rad Line 6.0mm Static Rope",
+  "product_code": "6009-684",
+  "source_url": "https://www.mec.ca/en/product/6009-684/Rad-Line-6-0mm-Static-Rope",
+  "tech_specs": {
+    "Diameter": [
+      "6mm"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Ski mountaineering"
+    ],
+    "Length": [
+      "30m (30 Meter)",
+      "60m (60 Meter)"
+    ],
+    "Linear weight": [
+      "22g/m"
+    ],
+    "Made in": [
+      "Czech Republic"
+    ],
+    "Static elongation\n\nIn controlled tests, a weight is suspended from the rope (not dropped). Higher numbers indicate stretchier ropes.": [
+      "2%"
+    ],
+    "Type": [
+      "Static"
+    ],
+    "Weight": [
+      "660g (30 Meter)",
+      "1.32kg (60 Meter)"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax",
+    "Bp1 Cold Liquid Paraffin"
+  ],
+  "description": "This liquid wax penetrates your base quickly with good adhesion, and suits dry snow conditions and temperatures between -22 and -9 degrees.Liquid paraffin wax suits dry snow with humidity less than 30%.Hot or cold application lets you wax at home or at the track without an iron.Suitable for training and racing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136444538910/6011501-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136444538910/6011501-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Maplus Bp1 Cold Liquid Paraffin - Unisex",
+  "product_code": "6011-501",
+  "source_url": "https://www.mec.ca/en/product/6011-501/Bp1-Cold-Liquid-Paraffin",
+  "tech_specs": {
+    "Ideal for": [
+      "Fitness skate skiing",
+      "Skate ski racing",
+      "Fitness classic skiing",
+      "Classic ski racing"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "State": [
+      "Liquid"
+    ],
+    "Temperature range": [
+      "-22 to -9\u00b0C"
+    ],
+    "Type": [
+      "Glide"
+    ]
+  }
+}

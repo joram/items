@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tires",
+    "Minion DHF 27.5 F60 3C EXO TR Tire"
+  ],
+  "description": "Excellent for the loose muddy conditions of aggressive all-mountain riding. It incorporates ramped knobs for low rolling resistance and channel-cut knobs to increase gripping edges, giving it straight-line control and precise cornering.3C Maxx Terra softer compound offers traction, yet provides better treadwear and less rolling resistance than Maxx Grip.Tubeless-ready.EXO protection reduces the chance of the sidewall cutting.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806701432862/5046955-BK000blackoutsize.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806701531166/5046955-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806701432862/5046955-BK000blackoutsize.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806701531166/5046955-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806701432862/5046955-BK000blackoutsize.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806701531166/5046955-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806701432862/5046955-BK000blackoutsize.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806701531166/5046955-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Maxxis Minion DHF 27.5 F60 3C EXO TR Tire",
+  "product_code": "5046-955",
+  "source_url": "https://www.mec.ca/en/product/5046-955/Minion-DHF-27-5-F60-3C-EXO-TR-Tire",
+  "tech_specs": {
+    "Bead\n\nThe bead holds the tire onto the rim. Beads may be hoops of wire, or made of a flexible material which allows them to be folded compactly. Folding tires are easier to store or pack on trips.": [
+      "Folding"
+    ],
+    "ETRTO\n\nISO/ETRTO universal tire sizing system number for matching the correct tire to the rim.": [
+      "58-584 (2.3\")",
+      "63-584 (2.5\")"
+    ],
+    "Ideal for": [
+      "Freeride and downhill riding",
+      "Enduro",
+      "Trail riding"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Recommended PSI\n\nInflating your tires over the recommended PSI (pounds per square inch) could cause your tube and/or tire to rupture.": [
+      "60psi (2.3\")",
+      "50psi (2.5\")"
+    ],
+    "TPI\n\nThreads per inch. Tires with a higher TPI tend to be more supple and lighter, with less rolling resistance, but are less durable.": [
+      "60"
+    ],
+    "Tire size": [
+      "27.5 x 2.3in. (2.3\")",
+      "27.5\u00a0x\u00a02.5in. (2.5\")"
+    ],
+    "Tire type": [
+      "Tubeless"
+    ],
+    "Weight": [
+      "870g (2.3\")",
+      "915g (2.5\")"
+    ],
+    "Wheel position": [
+      "Rear",
+      "Front"
+    ]
+  }
+}

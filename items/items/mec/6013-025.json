@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Casual sandals",
+    "La Costa Slide Sandals"
+  ],
+  "description": "Comfy slides for stepping out.Supple synthetic nubuck foot strap has a soft textile lining.Comfortable ergonomic footbed gives more support than your average slides.UltraCush\u00ae lite grippy waffle-cut solesMade with water-based glues and inks.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190507937822/6013025-WHT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190507937822/6013025-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vans La Costa Slide Sandals - Women's",
+  "product_code": "6013-025",
+  "source_url": "https://www.mec.ca/en/product/6013-025/La-Costa-Slide-Sandals",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Footbed": [
+      "EVA"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Upper material": [
+      "Synthetic leather"
+    ]
+  }
+}

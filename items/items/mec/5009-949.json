@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Camp pillows",
+    "Compressible Small Pillow"
+  ],
+  "description": "An ultra-soft, generous pillow for trekkers and travellers who like creature comforts.  It rolls up into its own built-in, drawcord-closure pocket for easy storage.Case is made from soft, comfortable brushed polyester.Fill is soft, expandable, foam cutout pieces.Rolls into a built-in pocket that has a drawcord closure.Dimensions are 30 x 41cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011244630046/5009949-DEN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9014294970398/5009949-MOO02-ALT-COMPARISON.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029776343070/5009949-MOO02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029777981470/5009949-MOO02-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9014631628830/5009949-MOO02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011244630046/5009949-DEN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9014294970398/5009949-MOO02-ALT-COMPARISON.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029776343070/5009949-MOO02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029777981470/5009949-MOO02-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9014631628830/5009949-MOO02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011244630046/5009949-DEN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9014294970398/5009949-MOO02-ALT-COMPARISON.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029776343070/5009949-MOO02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029777981470/5009949-MOO02-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9014631628830/5009949-MOO02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011244630046/5009949-DEN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9014294970398/5009949-MOO02-ALT-COMPARISON.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029776343070/5009949-MOO02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029777981470/5009949-MOO02-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9014631628830/5009949-MOO02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Therm-a-Rest Compressible Small Pillow",
+  "product_code": "5009-949",
+  "source_url": "https://www.mec.ca/en/product/5009-949/Compressible-Small-Pillow",
+  "tech_specs": {
+    "Dimensions": [
+      "41\u00a0x\u00a030\u00a0x\u00a010cm"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Backpacking",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Brushed polyester"
+    ],
+    "Weight": [
+      "198g"
+    ]
+  }
+}

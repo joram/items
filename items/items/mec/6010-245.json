@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Button up shirts and polos",
+    "Nikit Jacket"
+  ],
+  "description": "A stylish take on the classic work shirt. The Nikit keeps things simple, with a timeless silhouette that is ready for fall, for years to come.Organic cotton moleskin weave blends comfort and durability and a hint of spandex for stretch.Cut for layers and for easy movement.Lined sleeves.Printed lining insert adds a hidden pop.Dual chest pockets.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content\n\n\n\n\n\n\nFairTrade\n\n\n\n\n\n\n\n\n\n\n\n                      Certified Fair Trade",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140238483486/6010245-WNT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140237959198/6010245-NOC99.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140238483486/6010245-WNT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140237959198/6010245-NOC99.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140238483486/6010245-WNT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140237959198/6010245-NOC99.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140238483486/6010245-WNT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140237959198/6010245-NOC99.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Nikit Jacket - Women's",
+  "product_code": "6010-245",
+  "source_url": "https://www.mec.ca/en/product/6010-245/Nikit-Jacket",
+  "tech_specs": {
+    "Fabric content": [
+      "98% organically grown cotton",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Sri Lanka"
+    ],
+    "Pockets": [
+      "2 external chest"
+    ],
+    "Product sustainability": [
+      "Organically grown content",
+      "Certified Fair Trade"
+    ]
+  }
+}

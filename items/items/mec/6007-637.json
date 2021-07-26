@@ -1,0 +1,109 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Cams, nuts and hexes",
+    "Camming devices",
+    "Zero Friend Cam"
+  ],
+  "description": "The Zeros will go places where your Friends won't go. They have narrow heads, perfect for thin or shallow cracks, pockets and pin scars. The extendable slings reduce the likelihood of walking and let you protect wandery routes with fewer draws.Spring armor over cable protects stem from abrasion while keeping it flexible.Extendable Dyneema sling allows you to carry fewer quickdraws.Narrow head width fits in small pods or shallow cracks.Thumb loop for confident trigger use.Slings and cams are colour-coded for orderly racking and quick selection.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167546023966/6007637-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554084894/6007637-NOC02-ALT-POINT1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554052126/6007637-NOC02-ALT-POINT2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554248734/6007637-NOC02-ALT-POINT3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554314270/6007637-NOC02-ALT-POINT4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554641950/6007637-NOC02-ALT-POINT5.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554674718/6007637-NOC02-ALT-SET1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554740254/6007637-NOC02-ALT-SET2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167546023966/6007637-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554084894/6007637-NOC02-ALT-POINT1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554052126/6007637-NOC02-ALT-POINT2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554248734/6007637-NOC02-ALT-POINT3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554314270/6007637-NOC02-ALT-POINT4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554641950/6007637-NOC02-ALT-POINT5.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554674718/6007637-NOC02-ALT-SET1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554740254/6007637-NOC02-ALT-SET2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167546023966/6007637-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554084894/6007637-NOC02-ALT-POINT1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554052126/6007637-NOC02-ALT-POINT2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554248734/6007637-NOC02-ALT-POINT3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554314270/6007637-NOC02-ALT-POINT4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554641950/6007637-NOC02-ALT-POINT5.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554674718/6007637-NOC02-ALT-SET1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554740254/6007637-NOC02-ALT-SET2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167546023966/6007637-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554084894/6007637-NOC02-ALT-POINT1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554052126/6007637-NOC02-ALT-POINT2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554248734/6007637-NOC02-ALT-POINT3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554314270/6007637-NOC02-ALT-POINT4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554641950/6007637-NOC02-ALT-POINT5.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554674718/6007637-NOC02-ALT-SET1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167554740254/6007637-NOC02-ALT-SET2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wild Country Zero Friend Cam",
+  "product_code": "6007-637",
+  "source_url": "https://www.mec.ca/en/product/6007-637/Zero-Friend-Cam",
+  "tech_specs": {
+    "Axle": [
+      "Single"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Colour": [
+      "Red (.1)",
+      "Yellow (.2)",
+      "Blue (.3)",
+      "Grey (.4)",
+      "Purple (.5)",
+      "Green (.75)"
+    ],
+    "Extendable sling": [
+      "Yes"
+    ],
+    "Lobes": [
+      "4"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Range": [
+      "8.0-13.2mm (.1)",
+      "9.9-16.3mm (.2)",
+      "13.4-22.1mm (.3)",
+      "15.8-26mm (.4)",
+      "20-32.9mm (.5)",
+      "25-41.1mm (.75)"
+    ],
+    "Sling material": [
+      "Dyneema"
+    ],
+    "Stem": [
+      "Single stainless steel"
+    ],
+    "Strength\n\nThe maximum force generated by a fall the equipment can withstand. The range includes all sizes.": [
+      "5kN (.1)",
+      "6kN (.2)",
+      "9kN (.3)",
+      "9kN (.4)",
+      "9kN (.5)",
+      "9kN (.75)"
+    ],
+    "Weight": [
+      "51g (.1)",
+      "58g (.2)",
+      "69g (.3)",
+      "71g (.4)",
+      "77g (.5)",
+      "83g (.75)"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Baby (0-2 yrs)",
+    "Baby clothing",
+    "Baby accessories",
+    "Baby hats and toques",
+    "Baby sun hats",
+    "Sunsprout Hat"
+  ],
+  "description": "Lightweight sun protection they (hopefully) won\u2019t yank off immediately. This sun hat protects little noggins from harmful rays with a generous rear cape, UPF 50+ rating and a quick-release chin strap that keeps it in place.Lightweight, breathable fabric keeps your little one cool and is bluesign\u00ae-approved.Crushable brim design lets you stow it quickly.Soft rear cape is stroller-friendly and offers complete sun protection.Quick-release chin strap secures hat against wind gusts and little fingers.Fits head circumferences 40-45 cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200839000094/5056847-VIM01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079320510494/5056847-SOR03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191088783390/5056847-QUS04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079320379422/5056847-BGM03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200839000094/5056847-VIM01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079320510494/5056847-SOR03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191088783390/5056847-QUS04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079320379422/5056847-BGM03.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200839000094/5056847-VIM01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079320510494/5056847-SOR03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191088783390/5056847-QUS04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079320379422/5056847-BGM03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200839000094/5056847-VIM01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079320510494/5056847-SOR03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191088783390/5056847-QUS04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079320379422/5056847-BGM03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sunday Afternoons Sunsprout Hat - Infants",
+  "product_code": "5056-847",
+  "source_url": "https://www.mec.ca/en/product/5056-847/Sunsprout-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Beach"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "None"
+    ]
+  }
+}

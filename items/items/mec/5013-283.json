@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Bowron Lakes"
+  ],
+  "description": "Rated as one of the top 10 canoe trips in the world. The Bowron Lakes Circuit is set in the mountains of central BC, and is suitable for a well-prepared novice canoe trippers and is a must-do experience for veteran paddlers. The guide contains 10 maps of the circuit, 29 diagrams on paddling the chute, Cariboo River, and other challenging sections, and 11 original illustrations of required paddling strokes. The authors have collectively guided over 250 Bowron Lake canoe tours, are certified master instructors and professional photographers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815596535838/5013283-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815596535838/5013283-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Bowron Lakes",
+  "product_code": "5013-283",
+  "source_url": "https://www.mec.ca/en/product/5013-283/Bowron-Lakes",
+  "tech_specs": {
+    "Author": [
+      "Jim Boyde, Chris Harris, Dean Hull"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "0-9685216-6-5"
+    ],
+    "Ideal for": [
+      "Canoe tripping"
+    ],
+    "Illustrator": [
+      "Claire Kujundzic"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "117"
+    ],
+    "Photographer": [
+      "Chris Harris"
+    ],
+    "Published": [
+      "2006"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

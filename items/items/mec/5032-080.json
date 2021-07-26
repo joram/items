@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Racks, straps, and locks",
+    "Storage racks",
+    "SUP Wall Cradles"
+  ],
+  "description": "These cradles are made specifically to baby your SUP or surfboard while it hangs on the wall or ceiling of your garage, living room, or surf-shack. With some extra hardware you can stack two pairs of cradles together for efficient use of space.23cm inside width accommodates the fattest SUP.Height is 60cm, width is 29cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088586782/5032080-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088717854/5032080-BK000-ALT-WALL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088750622/5032080-BK000-ALT-EXTENSION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088979998/5032080-BK000-ALT-WALLEXTENSION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088586782/5032080-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088717854/5032080-BK000-ALT-WALL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088750622/5032080-BK000-ALT-EXTENSION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088979998/5032080-BK000-ALT-WALLEXTENSION.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088586782/5032080-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088717854/5032080-BK000-ALT-WALL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088750622/5032080-BK000-ALT-EXTENSION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088979998/5032080-BK000-ALT-WALLEXTENSION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088586782/5032080-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088717854/5032080-BK000-ALT-WALL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088750622/5032080-BK000-ALT-EXTENSION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807088979998/5032080-BK000-ALT-WALLEXTENSION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Seattle Sports SUP Wall Cradles",
+  "product_code": "5032-080",
+  "source_url": "https://www.mec.ca/en/product/5032-080/SUP-Wall-Cradles",
+  "tech_specs": {
+    "Ideal for": [
+      "Paddleboarding",
+      "Surfing"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

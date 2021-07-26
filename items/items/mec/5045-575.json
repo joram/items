@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Triathlon, S'initier et Progresser 2e"
+  ],
+  "description": "Learn to train for your first Tri without overtraining, so you perform well and want to do the distance again. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815771058206/5045575-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815771058206/5045575-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Triathlon, S'initier et Progresser 2e",
+  "product_code": "5045-575",
+  "source_url": "https://www.mec.ca/en/product/5045-575/Triathlon%2C-S%27initier-et-Progresser-2e",
+  "tech_specs": {
+    "Author": [
+      "St\u00e9phane Cascua"
+    ],
+    "ISBN": [
+      "9782851809162"
+    ],
+    "Ideal for": [
+      "Triathlon"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "352"
+    ],
+    "Published": [
+      "2015"
+    ]
+  }
+}

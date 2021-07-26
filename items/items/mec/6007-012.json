@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Breakfast T-Shirt"
+  ],
+  "description": "Fuel-up for the first pitch of the day in this comfy organic cotton tee.Soft organic cotton wears well.Regular fit wears like an old favourite.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084187705374/6007012-PNE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084447948830/6007012-PNE00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084448145438/6007012-PNE00-ALT-FLATBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084448276510/6007012-PNE00-ALT-FLATFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084448505886/6007012-PNE00-ALT-SHOULDER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084187705374/6007012-PNE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084447948830/6007012-PNE00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084448145438/6007012-PNE00-ALT-FLATBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084448276510/6007012-PNE00-ALT-FLATFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084448505886/6007012-PNE00-ALT-SHOULDER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084187705374/6007012-PNE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084447948830/6007012-PNE00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084448145438/6007012-PNE00-ALT-FLATBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084448276510/6007012-PNE00-ALT-FLATFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084448505886/6007012-PNE00-ALT-SHOULDER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084187705374/6007012-PNE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084447948830/6007012-PNE00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084448145438/6007012-PNE00-ALT-FLATBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084448276510/6007012-PNE00-ALT-FLATFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084448505886/6007012-PNE00-ALT-SHOULDER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "La Sportiva Breakfast T-Shirt - Men's",
+  "product_code": "6007-012",
+  "source_url": "https://www.mec.ca/en/product/6007-012/Breakfast-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "166gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ]
+  }
+}

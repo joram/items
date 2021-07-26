@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water filters",
+    "Water filter parts and accessories",
+    "GravityWorks In-Line Adapter"
+  ],
+  "description": "This adapter allows Platypus GravityWorks systems to filter and backflush directly with most hydration systems and Platypus bottles that have a push-pull cap.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812762660894/5030696-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812762660894/5030696-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Platypus GravityWorks In-Line Adapter",
+  "product_code": "5030-696",
+  "source_url": "https://www.mec.ca/en/product/5030-696/GravityWorks-In-Line-Adapter",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking",
+      "Backpacking",
+      "Winter and expedition camping"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "16g"
+    ]
+  }
+}

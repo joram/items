@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Backcountry Whistler Map 2nd Edition"
+  ],
+  "description": "Topographic route map for backcountry skiing in Garibaldi Park.Waterproof, tearproof material.Scale is 1:25,000.Includes Spearhead and Fitzsimmons ranges.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815854157854/5036488-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815854157854/5036488-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backcountry Whistler Map 2nd Edition",
+  "product_code": "5036-488",
+  "source_url": "https://www.mec.ca/en/product/5036-488/Backcountry-Whistler-Map-2nd-Edition",
+  "tech_specs": {
+    "Edition": [
+      "2nd"
+    ],
+    "Ideal for": [
+      "Backcountry skiing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Scale": [
+      "1:25,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

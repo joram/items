@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Ultralight Backpackin' Tips"
+  ],
+  "description": "Loaded with 153 trail-tested tips for backpackers serious about travelling ultralight. Learn what makes up a comprehensive gear list, and discover how to make your own inexpensive, lightweight gear. This guide covers systems for packing, shelter, sleeping, and cooking. There\u2019s also information about food and water considerations, travel techniques, and the ultralight mind-set. Step number 1: Get a scale.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815732523038/5025934-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815732523038/5025934-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Falcon Ultralight Backpackin' Tips",
+  "product_code": "5025-934",
+  "source_url": "https://www.mec.ca/en/product/5025-934/Ultralight-Backpackin%27-Tips",
+  "tech_specs": {
+    "Author": [
+      "Mike Clelland"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9780762763849"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Illustrator": [
+      "Mike Clelland"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "134"
+    ],
+    "Published": [
+      "2011"
+    ]
+  }
+}

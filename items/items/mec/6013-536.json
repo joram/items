@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling tops",
+    "Cycling jackets",
+    "Milano Full Zip Fleece"
+  ],
+  "description": "Maintain your cycling style, even when off the bike. The double-knit fleece is warm and cozy when riding around town.Polyester and wool fleece blend.Lined hoosd and pockets for warmth.Cuffed sleeves and waist for a secure fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826620958/6013536-MLB03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146818199582/6013536-MLB03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826620958/6013536-MLB03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146818199582/6013536-MLB03-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826620958/6013536-MLB03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146818199582/6013536-MLB03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146826620958/6013536-MLB03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146818199582/6013536-MLB03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Castelli Milano Full Zip Fleece - Men's",
+  "product_code": "6013-536",
+  "source_url": "https://www.mec.ca/en/product/6013-536/Milano-Full-Zip-Fleece",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Hood": [
+      "Standard"
+    ],
+    "Ideal for": [
+      "Cycling",
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 handwarmer"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Brake and cable bike tools",
+    "PP-1.2 Hydraulic Brake Piston Press"
+  ],
+  "description": "Reduce the time spent working on your brake calipers.The wedge-shaped PP-1.2 slides into a brake caliper to push the piston back in its cyclinder, increasing the space available for your new pads. Doing so also increase the room available for the rotor to fit inside the caliper.Dual density handle feels secure and provides positive grip.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806557417502/5048639-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806557745182/5048639-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806557417502/5048639-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806557745182/5048639-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806557417502/5048639-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806557745182/5048639-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806557417502/5048639-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806557745182/5048639-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool PP-1.2 Hydraulic Brake Piston Press",
+  "product_code": "5048-639",
+  "source_url": "https://www.mec.ca/en/product/5048-639/PP-1-2-Hydraulic-Brake-Piston-Press",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

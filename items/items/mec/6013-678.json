@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bicycle pumps",
+    "Mini bike pumps",
+    "Megabar Dual Valve Mini Pump"
+  ],
+  "description": "The ultimate alternative to a track pump when travelling, this slim yet powerful pump is a modern take on a classic frame pump. Traditional turned wood handle and braided stainless steel hose get mixed with modern innovations like the high-volume aluminium barrel and smart head that's compatible with both types of valves.Braided hose is durable and improves comfort when pumping.Valves are protected.Durable good-looking wooden handle.Large volume chamber make for quick inflation.Compatible with Presta and Schrader valves.Frame mount included.Max pressure of 50psi makes this pump ideal for large volume tires.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153977516062/6013678-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153981579294/6013678-NOC02-ALT-HOSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153977516062/6013678-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153981579294/6013678-NOC02-ALT-HOSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153977516062/6013678-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153981579294/6013678-NOC02-ALT-HOSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153977516062/6013678-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153981579294/6013678-NOC02-ALT-HOSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fabric Megabar Dual Valve Mini Pump",
+  "product_code": "6013-678",
+  "source_url": "https://www.mec.ca/en/product/6013-678/Megabar-Dual-Valve-Mini-Pump",
+  "tech_specs": {
+    "Fits valve": [
+      "Presta",
+      "Schrader"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Length": [
+      "41cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Maximum psi": [
+      "50psi"
+    ],
+    "Pressure gauge": [
+      "No"
+    ],
+    "Type\n\nFloor pumps, frame fit pumps, mini pumps and CO2 inflators are for bicycle tires. Suspension pumps are used to add pressure to your bike shocks.": [
+      "Mini"
+    ]
+  }
+}

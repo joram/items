@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "The Rock Climbers Exercise Guide"
+  ],
+  "description": "To improve as a climber, you\u2019ve got to build and maintain strength, flexibility and stamina. Wondering where to start? Use this book to build a personalized exercise program for your experience level.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8886903832606/5055776-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8886903832606/5055776-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Falcon The Rock Climbers Exercise Guide",
+  "product_code": "5055-776",
+  "source_url": "https://www.mec.ca/en/product/5055-776/The-Rock-Climbers-Exercise-Guide",
+  "tech_specs": {
+    "Author": [
+      "Eric Horst"
+    ],
+    "ISBN": [
+      "9781493017638"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "256"
+    ],
+    "Published": [
+      "2016"
+    ]
+  }
+}

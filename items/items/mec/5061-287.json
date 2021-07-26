@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Ski socks",
+    "40 Below II Socks"
+  ],
+  "description": "Fully cushioned winter thermal socks for really cold temperatures.Made of a wool blend for extreme warmth.Elasticized arch and ankle keeps sock snug and secure.Low-profile toe closure for chafe-free comfort.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957682221086/5061287-LGY26.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957682974750/5061287-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957682221086/5061287-LGY26.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957682974750/5061287-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957682221086/5061287-LGY26.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957682974750/5061287-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957682221086/5061287-LGY26.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957682974750/5061287-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wigwam 40 Below II Socks - Unisex",
+  "product_code": "5061-287",
+  "source_url": "https://www.mec.ca/en/product/5061-287/40-Below-II-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "38% merino wool",
+      "33% nylon",
+      "26% rayon",
+      "2% polyester",
+      "1% spandex"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing",
+      "Snowshoeing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thick"
+    ]
+  }
+}

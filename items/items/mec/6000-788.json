@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fire pits and accessories",
+    "Skewers"
+  ],
+  "description": "Meat and veggies are better cooked on a skewer. Grill up kababs at a campsites, patios or picnics.Stainless steel works on your grill or over a fire.Flat shape and sharp tip for easy skewering.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130877026334/6000788-STA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883416094/6000788-STA00-ALT-BBQ.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883481630/6000788-STA00-ALT-GRILL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883448862/6000788-STA00-ALT-POT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883645470/6000788-STA00-ALT-SKEWERS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130877026334/6000788-STA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883416094/6000788-STA00-ALT-BBQ.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883481630/6000788-STA00-ALT-GRILL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883448862/6000788-STA00-ALT-POT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883645470/6000788-STA00-ALT-SKEWERS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130877026334/6000788-STA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883416094/6000788-STA00-ALT-BBQ.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883481630/6000788-STA00-ALT-GRILL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883448862/6000788-STA00-ALT-POT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883645470/6000788-STA00-ALT-SKEWERS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130877026334/6000788-STA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883416094/6000788-STA00-ALT-BBQ.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883481630/6000788-STA00-ALT-GRILL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883448862/6000788-STA00-ALT-POT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130883645470/6000788-STA00-ALT-SKEWERS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Primus Skewers",
+  "product_code": "6000-788",
+  "source_url": "https://www.mec.ca/en/product/6000-788/Skewers",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Length": [
+      "40cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Weight": [
+      "28g"
+    ]
+  }
+}

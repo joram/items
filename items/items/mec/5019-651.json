@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Brakes, pads and rotors",
+    "Brake pads",
+    "Hayes Sole GX-2/MX-2/MX-3 Burly Brake Pads"
+  ],
+  "description": "Brake Authority's Burly compound is designed for all-mountain and enduro riding and lasts a remarkably long time.For Hayes\u00ae Sole GX-2, MX-2, and MX-3 disc brake systems.Easy to control for progressive braking power.Ready to ride.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806822379550/5019651-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806822379550/5019651-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Brake Authority Hayes Sole GX-2/MX-2/MX-3 Burly Brake Pads",
+  "product_code": "5019-651",
+  "source_url": "https://www.mec.ca/en/product/5019-651/Hayes-Sole-GX-2-MX-2-MX-3-Burly-Brake-Pads",
+  "tech_specs": {
+    "Ideal for": [
+      "Enduro",
+      "Trail riding"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Type": [
+      "Disc"
+    ],
+    "Weight": [
+      "25g"
+    ]
+  }
+}

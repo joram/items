@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Multi-tools",
+    "Raptor Shears with Molle Holster"
+  ],
+  "description": "A tough set of folding shears for those who hold lives in their hands. These shears will be right at home in your first aid kit, emergency kit or on a duty belt.Rigid Molle holster will hold the shears either open or closed, adapting to your situation and need.Carbide glass-breaking tip shatters glass with minimal effort.Includes oxygen-tank wrench.Ring cutter is specifically designed to shear rings made of soft metal, such as silver or gold.Strap cutter allows for easy slicing of straps with minimal risk to patients.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841209774110/5050440-BK064.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841209774110/5050440-BK064.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841209774110/5050440-BK064.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841209774110/5050440-BK064.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Leatherman Raptor Shears with Molle Holster",
+  "product_code": "5050-440",
+  "source_url": "https://www.mec.ca/en/product/5050-440/Raptor-Shears-with-Molle-Holster",
+  "tech_specs": {
+    "Belt cutter": [
+      "Yes"
+    ],
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Straight"
+    ],
+    "Blade material": [
+      "420 HC stainless steel"
+    ],
+    "Ideal for": [
+      "Emergency preparedness",
+      "Professional trades"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Ruler": [
+      "Yes"
+    ],
+    "Sheath included": [
+      "Yes"
+    ],
+    "Sheath material": [
+      "Plastic"
+    ],
+    "Weight": [
+      "164g"
+    ]
+  }
+}

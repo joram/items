@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Tanks and sleeveless shirts",
+    "Wander Boxy Tank"
+  ],
+  "description": "Performance for the trail or crag. This sun-protective and wicking tank works hard on hot days.Solid colours are 96% recycled polyster and 4% elastane with FlashDry\u2122 wicking technology.Heathers are 47% recycled polyester, 47% polyester and 6% elastane with FlashDry-XD\u2122 high-abrasion resistant and wicking technology.UPF 50 sun protection keeps you covered.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166615248926/6011961-MBH09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623866910/6011961-MBH09-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623899678/6011961-MBH09-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623408158/6011961-BK276-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623571998/6011961-BK276-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166615019550/6011961-BK276.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166615248926/6011961-MBH09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623866910/6011961-MBH09-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623899678/6011961-MBH09-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623408158/6011961-BK276-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623571998/6011961-BK276-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166615019550/6011961-BK276.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166615248926/6011961-MBH09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623866910/6011961-MBH09-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623899678/6011961-MBH09-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623408158/6011961-BK276-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623571998/6011961-BK276-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166615019550/6011961-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166615248926/6011961-MBH09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623866910/6011961-MBH09-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623899678/6011961-MBH09-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623408158/6011961-BK276-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166623571998/6011961-BK276-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166615019550/6011961-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Wander Boxy Tank - Women's",
+  "product_code": "6011-961",
+  "source_url": "https://www.mec.ca/en/product/6011-961/Wander-Boxy-Tank",
+  "tech_specs": {
+    "Fabric content": [
+      "100 %Fabrics vary; see product description"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Rock climbing",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Jordan"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

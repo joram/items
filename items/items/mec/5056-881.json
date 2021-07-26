@@ -1,0 +1,121 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Daypacks and school bags",
+    "Daypacks",
+    "Race X Daypack"
+  ],
+  "description": "A sleek, compact bike pack for fast-and-light tours. Its cunning design and features let you adapt it to a variety of excursions.Made with Hexlite nylon with a double-thick panel on the bottom.Aircomfort Flexlite suspended mesh back system and mesh shoulder straps keeps your back cool and dry on long uphills.Mesh wings on hip belt for ventilation.Loop on the shoulder strap holds your sunglasses.Stretch side pockets, a wet laundry compartment and zippered pockets keep you organized.Integrated, bright-yellow rain cover.Reflectors on all side and a loop for attaching a light.Hydration compatible holds up to a 2L water reservoir.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932452630558/5056881-NVY83.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055805982/5056881-MRD23-ALT-BACK1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055871518/5056881-MRD23-ALT-BACK2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164056002590/5056881-MRD23-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164056199198/5056881-MRD23-ALT-ZRAINCOVER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055281694/5056881-BK006-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055478302/5056881-BK006-ALT-STRAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055642142/5056881-BK006-ALT-ZRAINCOVER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055674910/5056881-BK006-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164044533790/5056881-MRD23.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164054691870/5056881-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932452565022/5056881-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932452630558/5056881-NVY83.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055805982/5056881-MRD23-ALT-BACK1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055871518/5056881-MRD23-ALT-BACK2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164056002590/5056881-MRD23-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164056199198/5056881-MRD23-ALT-ZRAINCOVER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055281694/5056881-BK006-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055478302/5056881-BK006-ALT-STRAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055642142/5056881-BK006-ALT-ZRAINCOVER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055674910/5056881-BK006-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164044533790/5056881-MRD23.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164054691870/5056881-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932452565022/5056881-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932452630558/5056881-NVY83.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055805982/5056881-MRD23-ALT-BACK1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055871518/5056881-MRD23-ALT-BACK2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164056002590/5056881-MRD23-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164056199198/5056881-MRD23-ALT-ZRAINCOVER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055281694/5056881-BK006-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055478302/5056881-BK006-ALT-STRAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055642142/5056881-BK006-ALT-ZRAINCOVER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055674910/5056881-BK006-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164044533790/5056881-MRD23.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164054691870/5056881-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932452565022/5056881-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932452630558/5056881-NVY83.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055805982/5056881-MRD23-ALT-BACK1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055871518/5056881-MRD23-ALT-BACK2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164056002590/5056881-MRD23-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164056199198/5056881-MRD23-ALT-ZRAINCOVER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055281694/5056881-BK006-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055478302/5056881-BK006-ALT-STRAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055642142/5056881-BK006-ALT-ZRAINCOVER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164055674910/5056881-BK006-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164044533790/5056881-MRD23.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164054691870/5056881-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932452565022/5056881-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Deuter Race X Daypack - Unisex",
+  "product_code": "5056-881",
+  "source_url": "https://www.mec.ca/en/product/5056-881/Race-X-Daypack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top"
+    ],
+    "Additional feature(s)": [
+      "Reflective details",
+      "Rain cover included",
+      "Hydration compatible (reservoir sold separately)"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Depth": [
+      "18cm (Black)",
+      "18cm (Navy/Denim)"
+    ],
+    "Dynamic suspension\n\nThe hipbelt and/or shoulder straps of the pack are designed to move, pivot or flex to follow your body\u2019s movements.  Each brand uses their own technology.": [
+      "No"
+    ],
+    "Hipbelt": [
+      "Padded"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Length": [
+      "44cm (Black)",
+      "44cm (Navy/Denim)"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "100-denier ripstop nylon"
+    ],
+    "Secondary fabric": [
+      "210-denier ripstop nylon"
+    ],
+    "Ventilated back panel": [
+      "Yes"
+    ],
+    "Volume": [
+      "12L (Black)",
+      "12L (Navy/Denim)"
+    ],
+    "Weight": [
+      "550g"
+    ],
+    "Width": [
+      "24cm (Black)",
+      "24cm (Navy/Denim)"
+    ]
+  }
+}

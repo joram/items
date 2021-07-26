@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Tent repair and maintenance",
+    "Universal Zipper Pulls"
+  ],
+  "description": "Upgrade your tent doors, jackets or other zippered gear with reflective zipper pulls.Reflective cord is easy to find in the dark.Plastic end tips and nylon cord are quieter and lighter than their metal cousins.Easy to use while wearing gloves.Comes as a package of 4.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8857594331166/5046320-RED00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8857594331166/5046320-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Universal Zipper Pulls",
+  "product_code": "5046-320",
+  "source_url": "https://www.mec.ca/en/product/5046-320/Universal-Zipper-Pulls",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel",
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Casual socks",
+    "Secret Sleuth No Show Socks"
+  ],
+  "description": "Pssst\u2026 these socks are so low-cut, you can wear them with ballet flats.Ultra lightweight with no cushioning to smoothly glide into close-fitting shoes without bunching.Internal grippers at the heels so they stay put.Virtually Seamless\u2122 toe for chafe-free wear.Narrower profile is designed to fit women's narrower feet.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078148562974/5062644-LGY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078148562974/5062644-LGY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Secret Sleuth No Show Socks - Women's",
+  "product_code": "5062-644",
+  "source_url": "https://www.mec.ca/en/product/5062-644/Secret-Sleuth-No-Show-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "No-show"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "60% merino wool",
+      "37% nylon",
+      "3% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

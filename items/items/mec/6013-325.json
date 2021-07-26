@@ -1,0 +1,69 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Pocket knives and fixed blade knives",
+    "Folding pocket knives",
+    "No8 Knife Sheath Combo Pack"
+  ],
+  "description": "With its iconic styling, an Opinel knife is instantly recognizable, from the ergonomic handle, to the intuitive locking mechanism, there is a reason these knives are classics.Carbon steel blade holds a keen edge. (Note that the carbon content will lead to corrosion if the blade is not occasionally oiled and sharpened.)Virobloc double safety ring prevents accidental closure.Natural varnished beech handle fits comfortably in the hand and minimizes the chance of blisters.Synthetic leather sheath keeps the knife close to hand.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192205615134/6013325-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995657246/6013325-NOC02-ALT-KNIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146499137566/6013325-NOC02-ALT-SHEATH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192205615134/6013325-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995657246/6013325-NOC02-ALT-KNIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146499137566/6013325-NOC02-ALT-SHEATH.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192205615134/6013325-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995657246/6013325-NOC02-ALT-KNIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146499137566/6013325-NOC02-ALT-SHEATH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192205615134/6013325-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995657246/6013325-NOC02-ALT-KNIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146499137566/6013325-NOC02-ALT-SHEATH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Opinel No8 Knife Sheath Combo Pack",
+  "product_code": "6013-325",
+  "source_url": "https://www.mec.ca/en/product/6013-325/No8-Knife-Sheath-Combo-Pack",
+  "tech_specs": {
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Straight"
+    ],
+    "Blade length": [
+      "8.5cm"
+    ],
+    "Blade locking system": [
+      "Yes"
+    ],
+    "Blade material": [
+      "Carbon steel"
+    ],
+    "Handle material": [
+      "Wood"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Knife length (closed)": [
+      "11cm"
+    ],
+    "Knife length (open)": [
+      "19cm"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Sheath included": [
+      "Yes"
+    ],
+    "Sheath material": [
+      "Synthetic leather"
+    ]
+  }
+}

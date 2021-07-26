@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Eating utensils and cutlery sets",
+    "Knife - Grey"
+  ],
+  "description": "This splendid utensil is lightweight, rustproof, and more effective at cutting than you might expect.Made of BPA-free co-polyester.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812587876382/5031147-GRY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812587876382/5031147-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Knife - Grey",
+  "product_code": "5031-147",
+  "source_url": "https://www.mec.ca/en/product/5031-147/Knife---Grey",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Length": [
+      "20cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Co-polyester"
+    ],
+    "Weight": [
+      "14g"
+    ]
+  }
+}

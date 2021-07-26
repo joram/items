@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Headlamps and lighting",
+    "Bulbs and accessories",
+    "Universal Elastic Kit"
+  ],
+  "description": "Is the headband on your Petzl\u00ae headlamp a bit saggy? Give it a new grip on life with this nifty replacement.Fits all post-1992 Petzl headlamps.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813238386718/4002557-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813238386718/4002557-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Universal Elastic Kit",
+  "product_code": "4002-557",
+  "source_url": "https://www.mec.ca/en/product/4002-557/Universal-Elastic-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Weight": [
+      "29g"
+    ]
+  }
+}

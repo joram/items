@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Electronics cases",
+    "Phone cases",
+    "1010 Micro Case"
+  ],
+  "description": "From the maker of the famous Pelican\u00ae cases, this Micro Case is perfect for storing phones, GPS units, radios, etc. It is waterproof, dustproof, and crush-resistant, and has an automatic purge valve to accommodate pressure changes caused by changes in altitude or weather systems.Made of rugged transparent polycarbonate.In direct sunlight, the air inside a transparent case heats up and causes condensation, to reduce this use desiccant packs.Inside dimensions are 11 x 7.3 x 4.3cm.Outside dimensions are 14 x 10 x 5cm.Great for rugged sports. Not for swimming or submerging.IPX7 rated to protect against heavy rains and quick dips up to 1m.Both the Pelican warranty and MEC's Rocksolid Guarantee cover this case itself. Neither guarantee covers the contents you put inside the case.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817397039134/4019103-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817397104670/4019103-YLW00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817397039134/4019103-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817397104670/4019103-YLW00-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817397039134/4019103-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817397104670/4019103-YLW00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817397039134/4019103-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817397104670/4019103-YLW00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pelican 1010 Micro Case",
+  "product_code": "4019-103",
+  "source_url": "https://www.mec.ca/en/product/4019-103/1010-Micro-Case",
+  "tech_specs": {
+    "Crushproof": [
+      "Yes"
+    ],
+    "Customizable foam\n\nThe interior can be custom-fitted to accommodate various device storage.": [
+      "No"
+    ],
+    "External dimensions": [
+      "14\u00a0x\u00a010\u00a0x\u00a05cm"
+    ],
+    "IPX rating\n\nIndicates the degree of protection against liquid. IP X1: Dripping water while in normal operating orientation; IP X4: Splashing water; IP X5: Water jets; IP X6: Powerful water jets; IP X7: Immersion up to 1m \u2264 30 minutes; IP X8: Suitable for submersion as specified by manufacturer.": [
+      "IP X7"
+    ],
+    "Ideal for": [
+      "Watersports",
+      "Travel"
+    ],
+    "Internal dimensions": [
+      "11.1\u00a0x\u00a07.3\u00a0x\u00a04.3cm"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Polycarbonate"
+    ],
+    "Submersible": [
+      "Yes"
+    ],
+    "Waterproofness\n\nWaterproof bags and cases are made with waterproof materials and have waterproof closures. Some are designed to be submersible. Water-resistant bags and cases are made with waterproof materials, but water could sneak in through the seams or closure.": [
+      "Waterproof"
+    ]
+  }
+}

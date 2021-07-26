@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Travel accessories",
+    "Travel pouches and packing organizers",
+    "Mesh Pouch 3-Pack Multisize"
+  ],
+  "description": "Mesh organizers keep gear wrangled. Take them on extended trips to keep stuff like socks and gloves, inner layers, and outerwear in its place.Made of open mesh for maximum visibility.Top zippered closure for secure access.Sold as a package of 3 cubes (one small, one medium, one large) in three different colours so you can colour-code your life.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8984015929374/5057872-LDO00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8984015929374/5057872-LDO00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Mesh Pouch 3-Pack Multisize",
+  "product_code": "5057-872",
+  "source_url": "https://www.mec.ca/en/product/5057-872/Mesh-Pouch-3-Pack-Multisize",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "Mesh"
+    ],
+    "Weight": [
+      "186g"
+    ]
+  }
+}

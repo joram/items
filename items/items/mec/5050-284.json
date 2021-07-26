@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Fabuleuse Hawaii"
+  ],
+  "description": "Discover the lush rainforests, beaches, and volcanoes of the Aloha State. This comprehensive guide includes plenty of photographs, helpful maps, and information on the history and culture of the islands. Includes coverage of Hawaii (the Big Island), Maui, Lanai, Molokai, Oahu and Kauai. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815704277022/5050284-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815704277022/5050284-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses Fabuleuse Hawaii",
+  "product_code": "5050-284",
+  "source_url": "https://www.mec.ca/en/product/5050-284/Fabuleuse-Hawaii",
+  "tech_specs": {
+    "ISBN": [
+      "9782894643761"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "272"
+    ],
+    "Published": [
+      "2014"
+    ],
+    "Regionality": [
+      "USA"
+    ]
+  }
+}

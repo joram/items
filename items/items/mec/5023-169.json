@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Field guides",
+    "Animals",
+    "Western Birds 4th Edition"
+  ],
+  "description": "Excellent for beginner and intermediate bird watchers, this guide uses paintings rather than photographs to make identification easier. The  illustrations, species accounts, and maps are arranged for quick identification. This edition is updated with 40 new paintings.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815607316510/5023169-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815607316510/5023169-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Peterson Western Birds 4th Edition",
+  "product_code": "5023-169",
+  "source_url": "https://www.mec.ca/en/product/5023-169/Western-Birds-4th-Edition",
+  "tech_specs": {
+    "Author": [
+      "Roger Troy Peterson"
+    ],
+    "Edition": [
+      "4th"
+    ],
+    "ISBN": [
+      "9780547152707"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "497"
+    ],
+    "Photographer": [
+      "Jeffrey A. Gordon"
+    ],
+    "Published": [
+      "2010"
+    ]
+  }
+}

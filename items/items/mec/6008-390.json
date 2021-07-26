@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tires",
+    "Assegai 27.5 F60 3C MaxxTerra/EXO/TR WT Tire"
+  ],
+  "description": "Designed in partnership with multiple Downhill World Championship Greg Minnaar, this all-conditions tire has tall, sharp knobs to punch through dust and loam to find grip. Hard-packed or muddy, dry or wet and rooty, the Assegai provides the grip and cornering support required by riders at the top of the sport.Tubeless ready tire means lower air pressure, improved traction, lower rolling resistnace and less chance of flatting.Intermediate (not too soft, not too hard) rubber compound is designed offer a balance of traction, speed and durability.EXO protection increases sidewall durability, abrasion and cut resistance.Wide trail spacing is optimized for 30-35mm inner width rims.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052312043550/6008390-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052304441374/6008390-BK000-ALT-TREAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052312043550/6008390-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052304441374/6008390-BK000-ALT-TREAD.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052312043550/6008390-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052304441374/6008390-BK000-ALT-TREAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052312043550/6008390-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052304441374/6008390-BK000-ALT-TREAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Maxxis Assegai 27.5 F60 3C MaxxTerra/EXO/TR WT Tire",
+  "product_code": "6008-390",
+  "source_url": "https://www.mec.ca/en/product/6008-390/Assegai-27-5-F60-3C-MaxxTerra-EXO-TR-WT-Tire",
+  "tech_specs": {
+    "Bead\n\nThe bead holds the tire onto the rim. Beads may be hoops of wire, or made of a flexible material which allows them to be folded compactly. Folding tires are easier to store or pack on trips.": [
+      "Folding"
+    ],
+    "ETRTO\n\nISO/ETRTO universal tire sizing system number for matching the correct tire to the rim.": [
+      "63-584"
+    ],
+    "Ideal for": [
+      "Trail riding",
+      "Enduro"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "TPI\n\nThreads per inch. Tires with a higher TPI tend to be more supple and lighter, with less rolling resistance, but are less durable.": [
+      "60"
+    ],
+    "Tire size": [
+      "27.5 X 2.5in."
+    ],
+    "Tire type": [
+      "Tubeless"
+    ],
+    "Weight": [
+      "1.005kg"
+    ]
+  }
+}

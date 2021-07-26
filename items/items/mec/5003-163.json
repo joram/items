@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Coffee makers and kettles",
+    "Kettles",
+    "LITECH Kettle"
+  ],
+  "description": "It\u2019s a kettle. A very lightweight, and rugged hard anodized aluminum kettle, for coffee at Skaha or tea in the Sahara.Anodized aluminum is very rugged and offers exceptional heat distribution.Foldable handle makes for compact storage.Practical mesh bag.Holds slightly less than 1L of water.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812480593950/5003163-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812480593950/5003163-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Primus LITECH Kettle",
+  "product_code": "5003-163",
+  "source_url": "https://www.mec.ca/en/product/5003-163/LITECH-Kettle",
+  "tech_specs": {
+    "Dimensions": [
+      "15.3\u00a0x\u00a015.3\u00a0x\u00a05.5cm"
+    ],
+    "Foldable handle": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping",
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Hard-anodized aluminum"
+    ],
+    "Volume": [
+      "900ml"
+    ],
+    "Weight": [
+      "150g"
+    ]
+  }
+}

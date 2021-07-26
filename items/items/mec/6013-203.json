@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Gloves and mittens",
+    "Mitts",
+    "2 Tone Mittens"
+  ],
+  "description": "Dress up your winter handshake in these stylish mitts.Knit from soft acrylic.Ribbed cuff for a secure fit.Polyester fleece lining adds a layer of warmth.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142277799966/6013203-CPR00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142277799966/6013203-CPR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Chaos 2 Tone Mittens - Women's",
+  "product_code": "6013-203",
+  "source_url": "https://www.mec.ca/en/product/6013-203/2-Tone-Mittens",
+  "tech_specs": {
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Insulation": [
+      "Light"
+    ],
+    "Liner fabric": [
+      "100% polyester"
+    ],
+    "Liner type": [
+      "Sewn-in"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "100% acrylic"
+    ],
+    "Touchscreen compatible": [
+      "No"
+    ],
+    "Type": [
+      "Mittens"
+    ]
+  }
+}

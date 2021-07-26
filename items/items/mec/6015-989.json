@@ -1,0 +1,107 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling bottoms",
+    "Cycling shorts",
+    "Hale XT Shorts"
+  ],
+  "description": "Loose and stretchy shorts for taming single-track, tackling rock rolls and shredding berms. Made from a tough blend of nylon and spandex, the Hale XT are easy to brush off when you take those inevitable spills.Panelled construction lets the shorts move with you, not ride up.Dual zippered leg vents help on exposed climb trails and fire roads.Nylon and spandex blend breathes well, stretches and dries quickly.Single zippered thigh pocket for your keys and a bar.Loose fit has room for a liner.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189055168542/6015989-BK446.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062180894/6015989-BK446-ALT-BACJ.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062377502/6015989-BK446-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062443038/6015989-BK446-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768186398/6015989-BK000-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768383006/6015989-BK000-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768579614/6015989-BK000-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768710686/6015989-BK000-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768808990/6015989-BK000-ALT-E.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189061820446/6015989-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189061918750/6015989-BK000-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062115358/6015989-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189055070238/6015989-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189055168542/6015989-BK446.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062180894/6015989-BK446-ALT-BACJ.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062377502/6015989-BK446-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062443038/6015989-BK446-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768186398/6015989-BK000-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768383006/6015989-BK000-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768579614/6015989-BK000-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768710686/6015989-BK000-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768808990/6015989-BK000-ALT-E.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189061820446/6015989-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189061918750/6015989-BK000-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062115358/6015989-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189055070238/6015989-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189055168542/6015989-BK446.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062180894/6015989-BK446-ALT-BACJ.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062377502/6015989-BK446-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062443038/6015989-BK446-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768186398/6015989-BK000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768383006/6015989-BK000-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768579614/6015989-BK000-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768710686/6015989-BK000-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768808990/6015989-BK000-ALT-E.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189061820446/6015989-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189061918750/6015989-BK000-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062115358/6015989-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189055070238/6015989-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189055168542/6015989-BK446.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062180894/6015989-BK446-ALT-BACJ.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062377502/6015989-BK446-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062443038/6015989-BK446-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768186398/6015989-BK000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768383006/6015989-BK000-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768579614/6015989-BK000-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768710686/6015989-BK000-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188768808990/6015989-BK000-ALT-E.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189061820446/6015989-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189061918750/6015989-BK000-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189062115358/6015989-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189055070238/6015989-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Craft Hale XT Shorts - Men's",
+  "product_code": "6015-989",
+  "source_url": "https://www.mec.ca/en/product/6015-989/Hale-XT-Shorts",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Chamois": [
+      "No"
+    ],
+    "Fabric content": [
+      "92% nylon",
+      "8% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "13in. (M)"
+    ],
+    "Gripper elastic\n\nGripper elastics prevent the cycling shorts from riding up and leg and arm warmers from sliding down.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "1 side zippered"
+    ],
+    "Secondary fabric": [
+      "78% nylon",
+      "22% spandex"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

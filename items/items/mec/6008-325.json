@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike racks, carriers and storage",
+    "Bike boxes and travel cases",
+    "TailGate Pad Duo"
+  ],
+  "description": "Keep your bikes and your truck scratch free. This well-padded tailgate protector has holds a pair of bikes.Made of heavy nylon that's cut and water resistant.Attachment points for up to 2 bikes.Padding protects both the truck and the bikes from scratches and damage.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089368752158/6008325-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089368752158/6008325-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "EVOC TailGate Pad Duo",
+  "product_code": "6008-325",
+  "source_url": "https://www.mec.ca/en/product/6008-325/TailGate-Pad-Duo",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Includes lock": [
+      "No"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Nylon"
+    ],
+    "Number of bikes": [
+      "2"
+    ],
+    "Rear hatch access": [
+      "No"
+    ],
+    "Type": [
+      "Tailgate pad"
+    ],
+    "Weight": [
+      "770g"
+    ]
+  }
+}

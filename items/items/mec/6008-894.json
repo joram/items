@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Footprints",
+    "Blacktail Hotel 2-Person Footprint"
+  ],
+  "description": "Protect the floor of your Big Agnes Blacktail Hotel 2-person tent from wear and tear, and prolong the life of your tent.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125063163934/6008894-GYY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125063163934/6008894-GYY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Big Agnes Blacktail Hotel 2-Person Footprint",
+  "product_code": "6008-894",
+  "source_url": "https://www.mec.ca/en/product/6008-894/Blacktail-Hotel-2-Person-Footprint",
+  "tech_specs": {
+    "Attachment": [
+      "Buckles"
+    ],
+    "Fabric": [
+      "Polyester"
+    ],
+    "Floor waterproofness\n\nThe standard test for coated fabrics uses a standing pipe (column) filled with water. The figures given are the water column height. A 1000mm coating allowed no leaks after 1 minute under 1000mm of water.": [
+      "1500mm"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Waterproof treatment": [
+      "Polyethylene"
+    ],
+    "Weight": [
+      "170g"
+    ]
+  }
+}

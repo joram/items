@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Eating utensils and cutlery sets",
+    "Tekk Cutlery Set Acetal"
+  ],
+  "description": "This handy stacking cutlery set includes a knife, fork, and spoon. The loop connector ring keeps this set handy for alpinists and backpackers.Made from light, tough non-polycarbonate co-polyester.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812579651614/5016551-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812579651614/5016551-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Tekk Cutlery Set Acetal",
+  "product_code": "5016-551",
+  "source_url": "https://www.mec.ca/en/product/5016-551/Tekk-Cutlery-Set-Acetal",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Heat resistant": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Length": [
+      "15.8cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Acetal"
+    ],
+    "Packed length": [
+      "15.8cm"
+    ],
+    "Weight": [
+      "45g"
+    ]
+  }
+}

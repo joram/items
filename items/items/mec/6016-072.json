@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Rashguards and sunguards",
+    "H2Core Silkweight Hoodie"
+  ],
+  "description": "Built to take the heat while you hit the trail, cast your line, or paddle your kayak. Long sleeves and a hood offer protection from the sun, and thumbholes stop the sleeves from riding up.Silkweight fabric is fast drying and wicks moisture keeping you dry.Provides UPF 50+ sun protection.Friction-free seam placements for paddling comfort.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189850742814/6016072-QRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858902046/6016072-QRY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858869278/6016072-QRY00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858639902/6016072-FJO04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858607134/6016072-FJO04-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189850710046/6016072-FJO04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189850742814/6016072-QRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858902046/6016072-QRY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858869278/6016072-QRY00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858639902/6016072-FJO04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858607134/6016072-FJO04-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189850710046/6016072-FJO04.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189850742814/6016072-QRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858902046/6016072-QRY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858869278/6016072-QRY00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858639902/6016072-FJO04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858607134/6016072-FJO04-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189850710046/6016072-FJO04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189850742814/6016072-QRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858902046/6016072-QRY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858869278/6016072-QRY00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858639902/6016072-FJO04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858607134/6016072-FJO04-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189850710046/6016072-FJO04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "NRS H2Core Silkweight Hoodie - Women's",
+  "product_code": "6016-072",
+  "source_url": "https://www.mec.ca/en/product/6016-072/H2Core-Silkweight-Hoodie",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Thumb loops"
+    ],
+    "Fabric content": [
+      "92% polyester",
+      "8% spandex"
+    ],
+    "Ideal for": [
+      "Watersports",
+      "Camping and hiking",
+      "Running, fitness and training"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

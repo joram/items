@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry ski bindings",
+    "Backcountry bindings",
+    "Superlite 150 Bindings"
+  ],
+  "description": "Exceptionally light bindings for ultra-fast ski mountaineering or touring missions. Forged aluminum, stainless steel and high-strength synthetics weight in at 300g per pair. Solid on descents, nimble on ascents, and great for race or touring setups.Fully metal heel piece is durable and stable.Anti-snow grooves in toe piece for easy entry in all snow conditions.4 walk modes adapt to the steepness of terrain.Lateral release value setting from 4-13 in heel.Ultralight ski brakes are available and sold separately.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136438509598/6011313-SCH01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136454303774/6011313-SCH01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136454336542/6011313-SCH01-ALT-TOP-2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136438509598/6011313-SCH01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136454303774/6011313-SCH01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136454336542/6011313-SCH01-ALT-TOP-2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136438509598/6011313-SCH01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136454303774/6011313-SCH01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136454336542/6011313-SCH01-ALT-TOP-2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136438509598/6011313-SCH01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136454303774/6011313-SCH01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136454336542/6011313-SCH01-ALT-TOP-2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Dynafit Superlite 150 Bindings",
+  "product_code": "6011-313",
+  "source_url": "https://www.mec.ca/en/product/6011-313/Superlite-150-Bindings",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "Tech"
+    ],
+    "Brake compatible": [
+      "Yes"
+    ],
+    "Crampon compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Ski mountaineering",
+      "Alpine touring"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Release setting\n\nThe release setting determines how easily the binding will release the ski boot from the ski is the skier falls.": [
+      "4-13"
+    ],
+    "Weight": [
+      "300g"
+    ]
+  }
+}

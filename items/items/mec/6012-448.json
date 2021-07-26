@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water filters",
+    "Water filter parts and accessories",
+    "2-Stage Replacement Filter"
+  ],
+  "description": "Replace the filter in your LifeStraw Go or Universal bottles. A combination a membrane filter and an activated carbon filter produces safe and tasty water.Membrane microfilter treats up to 4000L (varies with water quality).Activated carbon filter treats up to 100L.Removes up to 99.99999% of waterborne bacteria, and up to 99.999% of waterborne parasites and microplastics.Compatible with LifeStraw Go and Universal bottles.LifeStraw\u2019s Follow the Liters program provides a child in a developing country safe with drinking water for an entire school year with every LifeStraw product sold.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193690693662/6012448-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194110746654/6012448-WHT00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147464319006/6012448-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193690693662/6012448-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194110746654/6012448-WHT00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147464319006/6012448-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193690693662/6012448-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194110746654/6012448-WHT00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147464319006/6012448-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193690693662/6012448-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194110746654/6012448-WHT00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147464319006/6012448-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "LifeStraw 2-Stage Replacement Filter",
+  "product_code": "6012-448",
+  "source_url": "https://www.mec.ca/en/product/6012-448/2-Stage-Replacement-Filter",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel",
+      "Everyday use",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ]
+  }
+}

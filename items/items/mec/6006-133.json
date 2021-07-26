@@ -1,0 +1,84 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike lights",
+    "Rear bike lights",
+    "Plus Rear Light"
+  ],
+  "description": "This bright rear light lets you add a lot of visibility without adding a lot of weight. With easy USB charging and 5 different modes the Plus rear light is a worthwhile addition to your kit. Knog has developed a clever magnetic mount that lets you swap your Plus light from your bike to you, or just off your bike with a click. There is also an integrated clip makes it easy to attach this lightweight light to you clothing or your 4-legged friend on low-light outings.  Weighing in at a paltry 12 grams a piece this little light won\u2019t slow you down or tug at your kit.Magnetic mount lets you attach your light to the bike mount base with little more than a magnetic click. Mount base includes multiple different sized o-rings for mounting to bars, posts, stays or even your helmet vents.Integrated clip lets you attach the light to you, your pack, your pooch, really anything you want easily seen.5 different modes: steady, strobe, pulse, fancy flash and eco flash.Waterproof design means that if you are willing to ride in it, the Plus will keep shining.Simple 1-button interface lets you cycle through modes with a short press or lock the light (so it won\u2019t turn on in your bag) with a long press.Integrated USB plug (type-A) means you don\u2019t need to tote around a cable to charge your light.Easy USB charging means there are no longer any reasons to have dim light.In the box: Plus Rear light, 2x interchangeable straps for bars/seat posts 22-27mm / 28-32mm+ and a magnetic mount base.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044929773598/6006133-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044929773598/6006133-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Knog Plus Rear Light - Unisex",
+  "product_code": "6006-133",
+  "source_url": "https://www.mec.ca/en/product/6006-133/Plus-Rear-Light",
+  "tech_specs": {
+    "Batteries": [
+      "Li-polymer (included)"
+    ],
+    "Boost mode\n\nBriefly increases the light output to maximum brightness and distance.": [
+      "No"
+    ],
+    "Burn Time - steady": [
+      "2\u00a0h"
+    ],
+    "Burn time - flash": [
+      "40-8.5\u00a0h"
+    ],
+    "Charge time\n\nThe amount of time it takes to fully charge the battery. Applies to lithium and NiMH type batteries. Does not apply to rechargeable or non-rechargeable AA or AAA batteries.": [
+      "4\u00a0h"
+    ],
+    "Flash mode": [
+      "Yes"
+    ],
+    "Helmet attachment\n\nIncludes a bracket or mounting system that attaches to most bike helmets.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Sport road cycling",
+      "Cycle commuting"
+    ],
+    "Included mounts": [
+      "Horizontal mount",
+      "Seat post mount"
+    ],
+    "Light modes\n\nThe number of lighting levels/modes the light has (i.e., low, med, high, flash).": [
+      "5 modes"
+    ],
+    "Light source": [
+      "LED"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Max light output\n\nThe total quantity of light emitted in every direction from a source of light; measured in lumens.": [
+      "20\u00a0lumens"
+    ],
+    "Product sustainability": [
+      "Rechargeable batteries"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Rechargeable"
+    ],
+    "Red light mode": [
+      "Yes"
+    ],
+    "Regulated output\n\nOn regulated lights brightness is consistent, and does not decrease gradually as the batteries are drained.": [
+      "No"
+    ],
+    "Type\n\nMost Canadian municipalities require a white front light and a red rear light.": [
+      "Rear"
+    ],
+    "Weight": [
+      "12g"
+    ]
+  }
+}

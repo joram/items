@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling bottoms",
+    "Cycling pants and tights",
+    "Neo Bib Shorts"
+  ],
+  "description": "Experience all-day comfort on your next ride. With light compression, your muscles will want to go a little farther. A contoured chamois keeps the comfort high in the saddle. With these nicely featured bibshorts, your return on investment is high.Elast-X fabric for light compression, with flatlock stitching.Breathable mesh back in a lie-flat design.Women's specific Comfort Pro chamois.Partial Jaquard elastic hem, with silicone gripper.Reflective details.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088110395422/6008391-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088123306014/6008391-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088110395422/6008391-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088123306014/6008391-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088110395422/6008391-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088123306014/6008391-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088110395422/6008391-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088123306014/6008391-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sportful Neo Bib Shorts - Women's",
+  "product_code": "6008-391",
+  "source_url": "https://www.mec.ca/en/product/6008-391/Neo-Bib-Shorts",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details",
+      "Active compression"
+    ],
+    "Chamois": [
+      "Yes"
+    ],
+    "Gripper elastic\n\nGripper elastics prevent the cycling shorts from riding up and leg and arm warmers from sliding down.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Gravel riding",
+      "Sport road cycling"
+    ],
+    "Made in": [
+      "Romania"
+    ]
+  }
+}

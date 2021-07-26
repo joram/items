@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Merino Wool Beanie"
+  ],
+  "description": "The wool watch cap has been a cool-weather classic for decades because of its effectiveness and versatility. Pull it out of your jacket pocket and wear alone or beneath your jacket hood. Despite its commando cach\u00e9, this particular watch cap is very sensitive and easy-going \u2013 the long fibres of its fine Italian merino wool are extremely soft, free from the prickliness of coarser wools.100% merino wool.One size fits most heads.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128289370142/5001785-TAM06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128285143070/5001785-TAM06-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128289402910/5001785-TAM06-ALT-WOMAN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042561040414/5001785-SMK03-ALT-ONBODY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029526847518/5001785-SMK03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042332024862/5001785-MER00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798208196638/5001785-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128289370142/5001785-TAM06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128285143070/5001785-TAM06-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128289402910/5001785-TAM06-ALT-WOMAN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042561040414/5001785-SMK03-ALT-ONBODY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029526847518/5001785-SMK03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042332024862/5001785-MER00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798208196638/5001785-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128289370142/5001785-TAM06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128285143070/5001785-TAM06-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128289402910/5001785-TAM06-ALT-WOMAN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042561040414/5001785-SMK03-ALT-ONBODY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029526847518/5001785-SMK03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042332024862/5001785-MER00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798208196638/5001785-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128289370142/5001785-TAM06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128285143070/5001785-TAM06-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128289402910/5001785-TAM06-ALT-WOMAN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042561040414/5001785-SMK03-ALT-ONBODY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029526847518/5001785-SMK03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042332024862/5001785-MER00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798208196638/5001785-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Parkhurst Merino Wool Beanie - Unisex",
+  "product_code": "5001-785",
+  "source_url": "https://www.mec.ca/en/product/5001-785/Merino-Wool-Beanie",
+  "tech_specs": {
+    "Fabric content": [
+      "100% merino wool"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Weight": [
+      "85g (Black)",
+      "85g (Smokemix)"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax",
+    "Hot Wax - Cold (-21 To -9C) - 4.6 OZ"
+  ],
+  "description": "Iron on this plant-based wax for eco-friendly glide performance. Great for cold temperatures between -21 to -9C degrees.Completely petroleum-free.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136472850462/6011457-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136472850462/6011457-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mountainflow Hot Wax - Cold (-21 To -9C) - 4.6 OZ",
+  "product_code": "6011-457",
+  "source_url": "https://www.mec.ca/en/product/6011-457/Hot-Wax---Cold-%28-21-To--9C%29---4-6-OZ",
+  "tech_specs": {
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing",
+      "Cross-country skiing",
+      "Snowboarding"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "State": [
+      "Bar"
+    ],
+    "Temperature range": [
+      "-21 to -9\u00b0C"
+    ],
+    "Type": [
+      "Glide"
+    ]
+  }
+}

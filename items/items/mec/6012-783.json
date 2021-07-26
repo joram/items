@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Coffee makers and kettles",
+    "French press coffee makers",
+    "JavaPress Portable Coffee Press 887ml"
+  ],
+  "description": "Make almost 1L of seriously good coffee. The plunger has a silicone ring to eliminate stray grounds or loose tea leaves getting in the brew.Double-walled, insulated lid with silicone-ringed plunger.BPA-free polypropylene carafe is shatter-resistant.Insulated nylon cozy keep things hot through brewing and serving.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534256670/6012783-GRA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514530334/6012783-GRA00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514661406/6012783-GRA00-ALT-PRESS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534256670/6012783-GRA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514530334/6012783-GRA00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514661406/6012783-GRA00-ALT-PRESS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534256670/6012783-GRA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514530334/6012783-GRA00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514661406/6012783-GRA00-ALT-PRESS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534256670/6012783-GRA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514530334/6012783-GRA00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514661406/6012783-GRA00-ALT-PRESS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI JavaPress Portable Coffee Press 887ml",
+  "product_code": "6012-783",
+  "source_url": "https://www.mec.ca/en/product/6012-783/JavaPress-Portable-Coffee-Press-887ml",
+  "tech_specs": {
+    "Dimensions": [
+      "\u00a0x\u00a010.7\u00a0x\u00a019.6"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping",
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Plastic",
+      "Polypropylene",
+      "Stainless steel"
+    ],
+    "Volume": [
+      "887ml"
+    ],
+    "Weight": [
+      "292g"
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Cams, nuts and hexes",
+    "Camming devices",
+    "Dragon Cam"
+  ],
+  "description": "Revised to improve their holding power, particularly in sketchy placements. The lobes now have more contact surface, a raw texture and extra bite points. The design gives them better purchase in soft or slick rock. The design is torsionally rigid so they resist bending, and the thumb press has deeper grooves to help you finesse a  tricky placement or one that's at the extent of your reach. They keep Ray Jardine's original, trusted cam angle of 13.75 degrees and extendable Dyneema slings.Dual axle design provides smooth action and excellent holding power when placed vertically or horizontally, or used as passive pro.Hot forged lobes have a raw aluminum finish.Colour coded anodized sides for quick ID on the rack.Triggers are grooved for fumble-free operation.8mm Dynatec sling has a low-profile stitch pattern at the joint.Extendable sling reduces walking and lets you carry fewer draws.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8962273378334/5046797-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963205890078/5046797-NOC02-ALT-SIZE08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963206381598/5046797-NOC02-ALT-SIZE07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963206873118/5046797-NOC02-ALT-SIZE06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963207561246/5046797-NOC02-ALT-SIZE05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963207856158/5046797-NOC02-ALT-SIZE04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963207888926/5046797-NOC02-ALT-SIZE03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963208380446/5046797-NOC02-ALT-SIZE02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963208544286/5046797-NOC02-ALT-SIZE01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963208577054/5046797-NOC02-ALT-SIZE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963209003038/5046797-NOC02-ALT-SIZE0.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8962273378334/5046797-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963205890078/5046797-NOC02-ALT-SIZE08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963206381598/5046797-NOC02-ALT-SIZE07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963206873118/5046797-NOC02-ALT-SIZE06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963207561246/5046797-NOC02-ALT-SIZE05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963207856158/5046797-NOC02-ALT-SIZE04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963207888926/5046797-NOC02-ALT-SIZE03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963208380446/5046797-NOC02-ALT-SIZE02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963208544286/5046797-NOC02-ALT-SIZE01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963208577054/5046797-NOC02-ALT-SIZE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963209003038/5046797-NOC02-ALT-SIZE0.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8962273378334/5046797-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963205890078/5046797-NOC02-ALT-SIZE08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963206381598/5046797-NOC02-ALT-SIZE07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963206873118/5046797-NOC02-ALT-SIZE06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963207561246/5046797-NOC02-ALT-SIZE05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963207856158/5046797-NOC02-ALT-SIZE04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963207888926/5046797-NOC02-ALT-SIZE03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963208380446/5046797-NOC02-ALT-SIZE02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963208544286/5046797-NOC02-ALT-SIZE01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963208577054/5046797-NOC02-ALT-SIZE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963209003038/5046797-NOC02-ALT-SIZE0.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8962273378334/5046797-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963205890078/5046797-NOC02-ALT-SIZE08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963206381598/5046797-NOC02-ALT-SIZE07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963206873118/5046797-NOC02-ALT-SIZE06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963207561246/5046797-NOC02-ALT-SIZE05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963207856158/5046797-NOC02-ALT-SIZE04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963207888926/5046797-NOC02-ALT-SIZE03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963208380446/5046797-NOC02-ALT-SIZE02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963208544286/5046797-NOC02-ALT-SIZE01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963208577054/5046797-NOC02-ALT-SIZE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963209003038/5046797-NOC02-ALT-SIZE0.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DMM Dragon Cam",
+  "product_code": "5046-797",
+  "source_url": "https://www.mec.ca/en/product/5046-797/Dragon-Cam",
+  "tech_specs": {
+    "Axle": [
+      "Double"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Colour": [
+      "Blue (00)",
+      "Silver (0)",
+      "Purple (1)",
+      "Green (2)",
+      "Red (3)",
+      "Gold (4)",
+      "Blue (5)",
+      "Silver (6)",
+      "Purple (7)",
+      "Green (8)"
+    ],
+    "Extendable sling": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Trad and aid climbing"
+    ],
+    "Lobes": [
+      "4"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Range": [
+      "14-21mm (00)",
+      "16-25mm (0)",
+      "20-33mm (1)",
+      "24-41mm (2)",
+      "29-50mm (3)",
+      "38-64mm (4)",
+      "50-85mm (5)",
+      "68-114mm (6)",
+      "88-149mm (7)",
+      "116-195mm (8)"
+    ],
+    "Sling material": [
+      "Dyneema"
+    ],
+    "Stem": [
+      "Single stainless steel"
+    ],
+    "Strength\n\nThe maximum force generated by a fall the equipment can withstand. The range includes all sizes.": [
+      "9kN (00)",
+      "12kN (0)",
+      "14kN (1)",
+      "14kN (2)",
+      "14kN (3)",
+      "14kN (4)",
+      "14kN (5)",
+      "14kN (6)",
+      "14kN (7)",
+      "14kN (8)"
+    ],
+    "Weight": [
+      "75g (00)",
+      "85g (0)",
+      "97g (1)",
+      "108g (2)",
+      "119g (3)",
+      "148g (4)",
+      "195g (5)",
+      "276g (6)",
+      "362g (7)",
+      "515g (8)"
+    ]
+  }
+}

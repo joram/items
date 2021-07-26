@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Sleeping pads",
+    "Sleeping pad accessories",
+    "Trekker Chair"
+  ],
+  "description": "Make your gear pull double duty. This kit fits your sleeping pad and transforms it into a backcountry chair. Adjustable straps let you decide how far back you want to recline to watch the stars.Adjustable side straps tune the angle of repose.Elastic sleeves ensures a perfect fit with your sleeping pad.Dimensions are 51 x 107cm for the 20in. size, and 64 x 127cm for the 25in. size.Choose the width that matches your sleeping pad.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859139178526/5052476-TMT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8859139178526/5052476-TMT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Therm-a-Rest Trekker Chair",
+  "product_code": "5052-476",
+  "source_url": "https://www.mec.ca/en/product/5052-476/Trekker-Chair",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "290g (20in)",
+      "365g (25in)"
+    ]
+  }
+}

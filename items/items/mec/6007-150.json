@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Trousers",
+    "Paramount Trail Convertible Pants"
+  ],
+  "description": "Go-anywhere hiking pants. The fabric is rated UPF 50+ to shield you when you\u2019re trekking with minimal cover, and it dries quickly if you work up a sweat or splash through a creek.Recycled nylon stretch fabric.FlashDry technology repels moisture and dries quickly for all day comfort.Adjustable waist belt.Plenty of secure pockets to keep essentials close.Zip off leg, shorts have a 9-inch inseam.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099985125406/6007150-GR024.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088107577374/6007150-BK276-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099985223710/6007150-GR024-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099985256478/6007150-GR024-ALT-ZIPPED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088105349150/6007150-BK276.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099985125406/6007150-GR024.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088107577374/6007150-BK276-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099985223710/6007150-GR024-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099985256478/6007150-GR024-ALT-ZIPPED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088105349150/6007150-BK276.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099985125406/6007150-GR024.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088107577374/6007150-BK276-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099985223710/6007150-GR024-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099985256478/6007150-GR024-ALT-ZIPPED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088105349150/6007150-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099985125406/6007150-GR024.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088107577374/6007150-BK276-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099985223710/6007150-GR024-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099985256478/6007150-GR024-ALT-ZIPPED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088105349150/6007150-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Paramount Trail Convertible Pants - Men's",
+  "product_code": "6007-150",
+  "source_url": "https://www.mec.ca/en/product/6007-150/Paramount-Trail-Convertible-Pants",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Converts to shorts"
+    ],
+    "Fabric content": [
+      "100% nylon"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "168gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "2 back zippered"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

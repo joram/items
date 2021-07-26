@@ -72,14 +72,19 @@ class MECProduct:
             pass
 
         divs = self.soup.findAll("div", {"class": "carousel__media"})
-        img_urls = []
+        low_rez_img_urls = []
+        high_rez_img_urls = []
         for div in divs:
             try:
-                img_url = div.find("img")["data-high-res-items"]
-            except Exception:
-                continue
-            img_urls.append(img_url)
-
+                img = div.find("img")
+                high_rez = img["data-high-res-src"]
+                low_rez_img_url = (
+                    high_rez + "?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+                )
+                low_rez_img_urls.append(low_rez_img_url)
+                high_rez_img_urls.append(high_rez)
+            except:  # noqa
+                pass
         categories = []
         for li in self.soup.findAll("li", {"class": "breadcrumbs__item"}):
             categories.append(_clean(li.text))
@@ -92,19 +97,21 @@ class MECProduct:
                 self.soup.find("div", {"id": "pdp-description"}).text
             ),
             "product_code": self.response.url.split("/")[5],
+            "source_url": self.response.url,
             "tech_specs": tech_specs,
-            "img_urls": img_urls,
+            "img_urls": {
+                "high": high_rez_img_urls,
+                "low": low_rez_img_urls,
+            },
         }
 
     def save(self):
-        # import pprint
-        # pprint.pprint(self.json())
         dir_path = os.path.dirname(os.path.realpath(__file__))
         data = self.json()
-        p = "../items/products/mec"
+        p = "../items/items/mec"
         filepath = f"{dir_path}/{p}/{data['product_code']}.json"
         with open(filepath, "w") as f:
-            f.write(json.dumps(data))
+            f.write(json.dumps(data, sort_keys=True, indent=2))
 
 
 i = 0

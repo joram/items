@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike trainers and accessories",
+    "Bike trainer accessories",
+    "Gel Block"
+  ],
+  "description": "A sturdy block for leveling out your front wheel during trainer sessions. Anti-slip rubber feet keep your front wheel rock solid, even under the hardest standing efforts. Plus, the gel insert reduces trainer buzz.Anti-slip rubber feet keep block in place while reducing vibration.Gel inserts securely hold road or mountain bike wheels.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806619349022/5044647-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806619349022/5044647-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Elite Gel Block",
+  "product_code": "5044-647",
+  "source_url": "https://www.mec.ca/en/product/5044-647/Gel-Block",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycle training"
+    ],
+    "Made in": [
+      "Italy"
+    ]
+  }
+}

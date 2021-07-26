@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling clothing accessories",
+    "Cycling gloves",
+    "Entrata Gloves"
+  ],
+  "description": "Breathable gloves for warm-weather rides. They're lightweight and have just enough padding to protect your hands, with grip to prevent your sweaty palms from slipping on the bars.Highly breathable stretch-mesh fabric on backs.Ultrasuede palm with foam padding provides secure grip and protection with minimal bulk.Soft sweat wipe panel at thumb.Velcro\u00a9 closure for secure and adjustable fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930419081246/5057147-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9004303712286/5057147-DSB00-ALT-PALM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9004304662558/5057147-DSB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084215459870/5057147-CHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930419081246/5057147-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9004303712286/5057147-DSB00-ALT-PALM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9004304662558/5057147-DSB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084215459870/5057147-CHT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930419081246/5057147-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9004303712286/5057147-DSB00-ALT-PALM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9004304662558/5057147-DSB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084215459870/5057147-CHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930419081246/5057147-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9004303712286/5057147-DSB00-ALT-PALM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9004304662558/5057147-DSB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084215459870/5057147-CHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Castelli Entrata Gloves - Men's",
+  "product_code": "5057-147",
+  "source_url": "https://www.mec.ca/en/product/5057-147/Entrata-Gloves",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "100% polyester"
+    ],
+    "Padding": [
+      "Foam"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Synthetic suede"
+    ],
+    "Type": [
+      "Fingerless gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Weight": [
+      "34g (Chartreuse Medium)",
+      "26g (Dark Steel Blue Medium)",
+      "26g (Red Medium)"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "None"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Coolers and food storage",
+    "Food containers",
+    "Reusable Snack Bag"
+  ],
+  "description": "Plastic bags are convenient for you, but not great for the planet and its ocean life.  This snack-size reusable bag seals easily, uses food grade silicone and is dishwasher safe.Food grade silicone is easy to clean and won't transfer tastes.Airtight pinch and press seal keeps food fresh.Dimensions: 11.4 x 19 x 2.5cmTop-rack dishwasher safe.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100016484382/5054691-TPZ88.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100016222238/5054691-TER04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100016025630/5054691-JDE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100016484382/5054691-TPZ88.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100016222238/5054691-TER04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100016025630/5054691-JDE00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100016484382/5054691-TPZ88.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100016222238/5054691-TER04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100016025630/5054691-JDE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100016484382/5054691-TPZ88.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100016222238/5054691-TER04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100016025630/5054691-JDE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Stasher Reusable Snack Bag",
+  "product_code": "5054-691",
+  "source_url": "https://www.mec.ca/en/product/5054-691/Reusable-Snack-Bag",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Silicone"
+    ],
+    "Volume": [
+      "293ml"
+    ],
+    "Weight": [
+      "54g"
+    ]
+  }
+}

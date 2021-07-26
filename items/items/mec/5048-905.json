@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Jeans",
+    "Performance Denim Slim Pants (30\" Inseam)"
+  ],
+  "description": "Look good and be comfortable all day long. These pants give you the style of traditional denim, but also come with the bonus benefits of today's technical fabrics.Made from organic cotton blended with Coolmax\u00ae polyester and LYCRA\u00ae spandex.Fabric helps wick moisture away and has good stretch.Flat-stitched side seams hug the body and don't cause hot spots  on the move.Slim fitting, but not a skinny jeans fit.Invisible gusset for comfort.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8837261688862/5048905-IND36.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841899016222/5048905-IND36-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8837261688862/5048905-IND36.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841899016222/5048905-IND36-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8837261688862/5048905-IND36.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841899016222/5048905-IND36-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8837261688862/5048905-IND36.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841899016222/5048905-IND36-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DU/ER Performance Denim Slim Pants (30\" Inseam) - Men's",
+  "product_code": "5048-905",
+  "source_url": "https://www.mec.ca/en/product/5048-905/Performance-Denim-Slim-Pants-%2830%22-Inseam%29",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Gusseted crotch",
+      "Antimicrobial treatment"
+    ],
+    "Antimicrobial treatment\n\nA treatment that inhibits bacteria growth and reduces odour.": [
+      "Yes"
+    ],
+    "Fabric content": [
+      "70% organically grown cotton",
+      "28% polyester",
+      "2% Lycra Spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "30in. (M)"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Travel",
+      "Urban cycling"
+    ],
+    "Made in": [
+      "Pakistan"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "2 back drop-in"
+    ]
+  }
+}

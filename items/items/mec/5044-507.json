@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Slacklines",
+    "Slackstand"
+  ],
+  "description": "A completely freestanding, portable structure you can set up indoors or out. No need for trees or other anchors, the SlackStand includes a 12 foot line, ideal for schools, gyms or in-home use. Steel construction provides a solid base and sleek design keeps the unit lightweight and compact. Easy to assemble and breaks down into 2 sections for convenient storage.Includes steel base, ratchet tensioner and a 3.6-metre line.Assembled widthis 36cmHeight is 30cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818154438686/5044507-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818154700830/5044507-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818154438686/5044507-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818154700830/5044507-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818154438686/5044507-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818154700830/5044507-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818154438686/5044507-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818154700830/5044507-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Slackline Industries Slackstand",
+  "product_code": "5044-507",
+  "source_url": "https://www.mec.ca/en/product/5044-507/Slackstand",
+  "tech_specs": {
+    "Freestanding": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Fun and games",
+      "Climbing training"
+    ],
+    "Length": [
+      "3.6m"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "29kg"
+    ],
+    "Width": [
+      "50mm"
+    ]
+  }
+}

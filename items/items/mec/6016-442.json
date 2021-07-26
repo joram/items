@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Mirrors",
+    "Telescoping Helmet Mirror"
+  ],
+  "description": "Keep track of traffic behind and beside you. The extendable arm lets you tune it to the angle you need.Fits almost any helmet.Telescoping arm with adjustable angle mirror.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199102984222/6016442-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199102984222/6016442-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "49N Telescoping Helmet Mirror",
+  "product_code": "6016-442",
+  "source_url": "https://www.mec.ca/en/product/6016-442/Telescoping-Helmet-Mirror",
+  "tech_specs": {
+    "Housing material": [
+      "High impact plastic"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Mirror material": [
+      "Shatterproof glass"
+    ],
+    "Mounting location": [
+      "Helmet"
+    ]
+  }
+}

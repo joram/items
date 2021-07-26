@@ -1,0 +1,82 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Running and training footwear",
+    "Gym training shoes",
+    "V-Train 2.0 Training Shoes"
+  ],
+  "description": "Stay grounded whether your train inside or out. Flexible and tough, these durable training shoes offer great traction for anything from rope climbs to cardio sessions.Durable polyester mesh upper, with lateral TPU panels.Polyester sockliner with 2mm EVA insole.4mm XS TREK rubber outsole.Heel loop.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099987091486/6007655-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100006850590/6007655-BK006-ALT-ACTION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100006916126/6007655-BK006-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100006883358/6007655-BK006-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100007014430/6007655-BK006-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100007047198/6007655-BK006-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100007211038/6007655-BK006-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099987091486/6007655-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100006850590/6007655-BK006-ALT-ACTION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100006916126/6007655-BK006-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100006883358/6007655-BK006-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100007014430/6007655-BK006-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100007047198/6007655-BK006-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100007211038/6007655-BK006-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099987091486/6007655-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100006850590/6007655-BK006-ALT-ACTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100006916126/6007655-BK006-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100006883358/6007655-BK006-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100007014430/6007655-BK006-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100007047198/6007655-BK006-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100007211038/6007655-BK006-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099987091486/6007655-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100006850590/6007655-BK006-ALT-ACTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100006916126/6007655-BK006-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100006883358/6007655-BK006-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100007014430/6007655-BK006-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100007047198/6007655-BK006-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100007211038/6007655-BK006-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vibram V-Train 2.0 Training Shoes - Women's",
+  "product_code": "6007-655",
+  "source_url": "https://www.mec.ca/en/product/6007-655/V-Train-2-0-Training-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up",
+      "Hook-and-loop"
+    ],
+    "Drop\n\nThe drop is the difference in height between the heel and the forefoot midsole cushioning. Traditional running shoes tend to have a 10mm drop or higher while minimalist style shoes are on the lower end of the spectrum.": [
+      "0mm"
+    ],
+    "Feel\n\n'Minimal and natural' shoes offer low drop, lots of flex, and minimal cushioning. Most running shoes are 'Light and responsive' with medium cushioning and good energy return. 'Cushioned and floaty' shoes have maximum cushioning.": [
+      "Minimalist and natural"
+    ],
+    "Ideal for": [
+      "Fitness and training"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Stability\n\nSome shoes include added motion control or stability features to help minimize over pronation, where the foot tends to roll inward in a biomechanically imbalanced running position.": [
+      "Neutral"
+    ],
+    "Upper material": [
+      "Mesh",
+      "TPU"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ],
+    "Weight": [
+      "177g (38)"
+    ]
+  }
+}

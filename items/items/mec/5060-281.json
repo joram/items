@@ -1,0 +1,87 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Jackets",
+    "Insulated jackets",
+    "Down jackets",
+    "Down Sweater Hoody"
+  ],
+  "description": "A perennial favourite from Patagonia, the Down Sweater Hoody is a bundle of warmth. It's well insulated to keep you comfortable at high elevations, but its light weight means it doesn't further tempt gravity. A great mid-layer under a shell jacket for the coldest ski days of the year or a shoulder-season backpacking trip. Once you warm up, it stuffs into its own pocket for easy storage in your pack.Shell and lining are lightweight 20-denier recycled polyester with a DWR finish to shed light precip.Insulated with premium 800-fill-power Traceable Down traced from parent farm to apparel factory to help ensure the birds that supply it are never force-fed or live-plucked.Single-pull adjustable hood adds warmth.Front zipper has an interior storm flap and a zipper garage for comfort.2 zippered pockets warm hands.Zippered internal pocket doubles as a stuff sack and includes a reinforced 'biner clip loop.Elasticized cuffs and drawcord hem seal in heat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131601854494/5060281-BUC06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045905309726/5060281-FRG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8960578781214/5060281-CLN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131601854494/5060281-BUC06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045905309726/5060281-FRG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8960578781214/5060281-CLN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131601854494/5060281-BUC06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045905309726/5060281-FRG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8960578781214/5060281-CLN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131601854494/5060281-BUC06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045905309726/5060281-FRG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8960578781214/5060281-CLN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Down Sweater Hoody - Men's",
+  "product_code": "5060-281",
+  "source_url": "https://www.mec.ca/en/product/5060-281/Down-Sweater-Hoody",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Stuffs in own pocket"
+    ],
+    "Construction": [
+      "Quilted"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Face fabric": [
+      "20-denier recycled polyester"
+    ],
+    "Hood": [
+      "Adjustable",
+      "Insulated"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Camping and hiking",
+      "Backcountry skiing"
+    ],
+    "Insulation": [
+      "800 fill-power goose down"
+    ],
+    "Length": [
+      "Below hip"
+    ],
+    "Lining/backer": [
+      "20-denier recycled polyester"
+    ],
+    "Made in": [
+      "Bangladesh"
+    ],
+    "Pockets": [
+      "2 handwarmer",
+      "1 internal zippered"
+    ],
+    "Technology": [
+      "Traceable Down"
+    ],
+    "Type": [
+      "Insulated down"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Water-resistant"
+    ],
+    "Weight": [
+      "428g (Medium)"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Mirrors",
+    "BM-45 Mirror"
+  ],
+  "description": "Keep a close eye on your blind spots. This mirror sits close to your bar end for clean aesthetics and low chance of bashing it on anything.Durable aluminum frame for distortion-free viewing.Easy to mount (Allen key included).Fits on flat or drop bars with 16-25.4mm inner diameter.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184180863006/6015770-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184189415454/6015770-NOC02-ALT-BIKE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184180863006/6015770-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184189415454/6015770-NOC02-ALT-BIKE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184180863006/6015770-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184189415454/6015770-NOC02-ALT-BIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184180863006/6015770-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184189415454/6015770-NOC02-ALT-BIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Cat Eye BM-45 Mirror",
+  "product_code": "6015-770",
+  "source_url": "https://www.mec.ca/en/product/6015-770/BM-45-Mirror",
+  "tech_specs": {
+    "Attachment": [
+      "Wedge"
+    ],
+    "Housing material": [
+      "Aluminum"
+    ],
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Mirror material": [
+      "Glass"
+    ],
+    "Mounting location": [
+      "Bar end"
+    ],
+    "Weight": [
+      "35g"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Quickdraws",
+    "Session Quickdraw"
+  ],
+  "description": "This simple, smooth-clipping quickdraw is a great addition to your sport or trad rack. The 16mm wide dogbone is comfortable to hold and balances weight and suppleness.Keylock snag-free nose design.Rope-end carabiner is equipped with rubber holder to keep carabiner in position.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089353351198/6007649-PPL51.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089353351198/6007649-PPL51.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wild Country Session Quickdraw",
+  "product_code": "6007-649",
+  "source_url": "https://www.mec.ca/en/product/6007-649/Session-Quickdraw",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.0cm (straight)",
+      "2.1cm (bent)"
+    ],
+    "Gate type": [
+      "Straight + bent"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Sling length": [
+      "12cm"
+    ],
+    "Sling material": [
+      "Nylon"
+    ],
+    "Sling width": [
+      "16mm"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "23kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "8kN"
+    ],
+    "Weight": [
+      "99g"
+    ]
+  }
+}

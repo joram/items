@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Chargers and adapters",
+    "Solar chargers",
+    "Boulder 50 Solar Panel"
+  ],
+  "description": "Upgrade your road trip rig with a rooftop panel. This large rigid panel works for stationary set-ups, like bolted to your van or used for off-grid power at a cabin or basecamp.Charges Goal Zero Yeti, Sherpa and similar powerbank systems.Charge times range from 3-4 hours (Sherpa 50 v2) to 16-32 hours (Yeti 400).Waterproof design is well suited to permanent installations.Monocrystalline solar panel.Rated to 50W, open circuit voltage is 18-20V.Solar port (blue, 8mm) is 14-22V, with up to 3.5A (50W max) output.Operating range is 0 to 40\u00b0C.Chainable up to 150W.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889728598046/5055475-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912701095966/5055475-NOC02-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889728598046/5055475-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912701095966/5055475-NOC02-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889728598046/5055475-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912701095966/5055475-NOC02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889728598046/5055475-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912701095966/5055475-NOC02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Goal Zero Boulder 50 Solar Panel",
+  "product_code": "5055-475",
+  "source_url": "https://www.mec.ca/en/product/5055-475/Boulder-50-Solar-Panel",
+  "tech_specs": {
+    "Auto shutoff\n\nDoes unit have an auto shutoff feature so that unit stops charging when batteries are full?": [
+      "No"
+    ],
+    "Charging level indicator": [
+      "No"
+    ],
+    "Folded dimensions": [
+      "55\u00a0x\u00a070\u00a0x\u00a04.4cm"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output voltage": [
+      "18-20volts"
+    ],
+    "USB Port\n\nHas a Type A USB port for charging your electronic devices.": [
+      "No"
+    ],
+    "Weight": [
+      "5.6kg"
+    ]
+  }
+}

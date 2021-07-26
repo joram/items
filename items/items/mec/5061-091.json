@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Saws, axes and camp shovels",
+    "Saws",
+    "Aggressive Blade"
+  ],
+  "description": "Give your Boreal Saw a bit of extra bite with the Aggressive Blade. Its rugged, hand-sharpened teeth rip through nearly any material with ease.Aggressive, custom-engineered tooth pattern.Hand sharpened.Hardened tips help teeth stay sharp.Cuts on both the push and the pull.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963219095582/5061091-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963231088670/5061091-NOC02-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963219095582/5061091-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963231088670/5061091-NOC02-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963219095582/5061091-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963231088670/5061091-NOC02-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963219095582/5061091-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8963231088670/5061091-NOC02-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Agawa Canyon Aggressive Blade",
+  "product_code": "5061-091",
+  "source_url": "https://www.mec.ca/en/product/5061-091/Aggressive-Blade",
+  "tech_specs": {
+    "Blade length": [
+      "53cm"
+    ],
+    "Blade material": [
+      "High carbon steel"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Professional trades"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

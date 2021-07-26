@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Base layers and underwear",
+    "Underwear",
+    "Seamless Hipster"
+  ],
+  "description": "Things are better when they go seamlessly. These soft undies are seamlessly knit with varied textures to create excellent channels for ventilation, and the merino wool fabric does what it merino does best: dries quickly, breathes well, feels nice against your skin.Made from naturally antimicrobial merino wool with nylon for durability and elastane for added stretch.Seamless construction avoids chafing.Body-mapped ventilation panels are engineered to vent in high heat and sweat zones.Wide, covered elastic waistband stays put during activity.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163333173278/6006409-LOA04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163567464478/6006409-LOA04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163333173278/6006409-LOA04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163567464478/6006409-LOA04-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163333173278/6006409-LOA04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163567464478/6006409-LOA04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163333173278/6006409-LOA04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163567464478/6006409-LOA04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Seamless Hipster - Women's",
+  "product_code": "6006-409",
+  "source_url": "https://www.mec.ca/en/product/6006-409/Seamless-Hipster",
+  "tech_specs": {
+    "Fabric content": [
+      "72% merino wool",
+      "22% nylon",
+      "6% elastane"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Fitness and training",
+      "Snowsports",
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ]
+  }
+}

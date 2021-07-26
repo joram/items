@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Chargers and adapters",
+    "Portable chargers and power banks",
+    "Flip 30 Recharger"
+  ],
+  "description": "Keep your favourite USB powered devices juiced up and ready to go. The Flip 30 Recharger has a powerful 7,800mAh battery to keep your devices going, and you can charge it while you charge your other devices.Li-NMC  (lithium nickel manganese cobalt oxide) battery offers lower energy density, but a longer life and better inherent safety.Input is USB A male, 5V, up to 1.5A (7.5W max).Output is USB A female, 5V, up to 2.1A (10.5W max), regulated.Keep it plugged in or top it up every 3-6 months.Charge time via USB is about 5 hours.Operating usage range is 0 to 40\u00b0C.Charging and low-battery protection built-in.Charging status light.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853928181790/5049815-CHA55.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853928181790/5049815-CHA55.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Goal Zero Flip 30 Recharger",
+  "product_code": "5049-815",
+  "source_url": "https://www.mec.ca/en/product/5049-815/Flip-30-Recharger",
+  "tech_specs": {
+    "Capacity": [
+      "7800mAh"
+    ],
+    "Chemistry": [
+      "Lithium nickel manganese cobalt oxide"
+    ],
+    "Dimensions": [
+      "6.1\u00a0x\u00a02.1\u00a0x\u00a09.4cm"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Travel",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output voltage": [
+      "5volts"
+    ],
+    "Rechargeable": [
+      "Yes"
+    ],
+    "Weight": [
+      "193g"
+    ]
+  }
+}

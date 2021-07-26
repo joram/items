@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Coffee makers and kettles",
+    "Espresso makers",
+    "Coffee Filters"
+  ],
+  "description": "A pack of 350 Aeropress paper filters. That\u2019s almost a full year of daily coffee goodness.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076075266078/5046863-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075871875102/5046863-NOC02-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076075266078/5046863-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075871875102/5046863-NOC02-ALT-ANGLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076075266078/5046863-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075871875102/5046863-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076075266078/5046863-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075871875102/5046863-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Aeropress Coffee Filters",
+  "product_code": "5046-863",
+  "source_url": "https://www.mec.ca/en/product/5046-863/Coffee-Filters",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking",
+      "Backpacking",
+      "Car camping",
+      "Winter and expedition camping",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

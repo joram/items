@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard helmets",
+    "Mirage MIPS Helmet"
+  ],
+  "description": "A light helmet with a fit system so comfortable you're likely to forget you're wearing it. Lots of ventilation keeps you cool on warm days, and you can block a few vents on snowy days to keep you warm. The MIPS liner is designed to reduce the rotational forces applied to your head, should you take a spill.Lightweight in-mould construction with a polycarbonate shell and an EPS inner.Aerocore\u2122 construction featuring Koroyd\u00ae is designed to absorb more impact than traditional helmets.MIPS helps reduce rotational forces in the event of a crash.AirEvac2 system drives warm air away from your goggles and adjusts by folding or unfolding liner flaps.Adjustable dial-fit system.Removable Snapfit SL earpads are machine washable and work with Outdoor Technology audio systems.Low-profile regulator adjusts internal airflow from the 14 vents.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965285445662/5061059-MBP05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131591827486/5061059-MBD03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965285445662/5061059-MBP05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131591827486/5061059-MBD03.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965285445662/5061059-MBP05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131591827486/5061059-MBD03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8965285445662/5061059-MBP05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131591827486/5061059-MBD03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smith Mirage MIPS Helmet - Women's",
+  "product_code": "5061-059",
+  "source_url": "https://www.mec.ca/en/product/5061-059/Mirage-MIPS-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Snowsports"
+    ],
+    "Circumference\n\nThe internal circumference determines the size head that the helmet will fit.": [
+      "51-55cm (Matte Black Pearl Small)",
+      "55-59cm (Matte Black Pearl Medium)",
+      "59-63cm (Matte Black Pearl Large)"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Molded in the shell"
+    ],
+    "Fit system": [
+      "Adjustable dial"
+    ],
+    "Goggle clip": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Snowsports"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Removable ear liners": [
+      "Yes"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "EN 1077 B",
+      "ASTM F2040"
+    ],
+    "Shell material": [
+      "Polycarbonate"
+    ],
+    "Vents": [
+      "Yes"
+    ],
+    "Weight": [
+      "450g (Matte Black Pearl Medium)"
+    ]
+  }
+}

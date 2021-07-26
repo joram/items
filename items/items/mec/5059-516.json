@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Gear lofts, vestibules and tent add-ons",
+    "mtnGLO Gear Loft"
+  ],
+  "description": "Hang this gear loft inside a Big Agnes\u00ae Tent to store or dry your stuff. Built-in mtnGLO LED lights help you locate your headlamp, book or earplugs in the dark.Square loft has 2 small organizer pockets and dimensions of 33 x 33cm. Compatible with Big Agnes Big House 4, Big House 4 Deluxe, Big House 6 Deluxe, Blacktail 2, C Bar 2 and 3, Copper Spur HV UL4, Frying Pan SL2 and SL3, Rabbit Ears 4 and 6, Tumble 2 mtnGLO, Tumble 3 mtnGLO and Tumble 4 mtnGLO.Triangle loft has one small organizer pocket and dimensions of 15 x 51cm. Compatible with Big Agnes C Bar 2 and 3, Copper Hotel HV UL2 and UL3, Copper Spur 2 Platinum, Copper Spur 3 Platinum, Copper Spur HV2 Expedition, Copper Spur HV3 Expedition, Copper Spur HV UL1 and UL1 mtnGLO, Copper Spur HV UL2 and UL2 mtnGLO, Copper Spur HV UL3 and UL3 mtnGLO, Fly Creek HV1 Platinum, Fly Creek HV2 Platinum, Fly Creek HV UL1 and UL2, Flying Diamond 4, Frying Pan SL2 and SL3, Scout Plus UL2, Seedhouse SL1 and SL2, Tiger Wall UL2 and UL3, Tumble 2 mtnGLO, Tumble 3 mtnGLO and Van Camp SL3.Wall lot has 6 small organizer pockets and dimensions of 36 x 64 x 25cm. Compatible with Big Agnes Battle Mountain 3, Copper Spur 2 Platinum, Copper Spur 3 Platinum, Copper Spur HV2 Expedition, Copper Spur HV3 Expedition, Copper Spur UL2 Classic, Copper Spur UL3 Classic, Fly Creek HV UL3, Frying Pan SL2 and SL3, Manzanares HV SL1 mtnGLO, Manzanares HV SL2 mtnGLO, Manzanares HV SL3 mtnGLO, Manzanares HV SL4 mtnGLO, Scout UL2, Tiger Wall UL2 and UL3, Tumble 2 mtnGLO, Tumble 3 mtnGLO, Tumble 4 mtnGLO and Van Camp SL2.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951740465182/5059516-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951767007262/5059516-BK000-ALT-TRIANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951766384670/5059516-BK000-ALT-SQUARE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951740465182/5059516-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951767007262/5059516-BK000-ALT-TRIANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951766384670/5059516-BK000-ALT-SQUARE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951740465182/5059516-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951767007262/5059516-BK000-ALT-TRIANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951766384670/5059516-BK000-ALT-SQUARE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951740465182/5059516-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951767007262/5059516-BK000-ALT-TRIANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951766384670/5059516-BK000-ALT-SQUARE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Big Agnes mtnGLO Gear Loft",
+  "product_code": "5059-516",
+  "source_url": "https://www.mec.ca/en/product/5059-516/mtnGLO-Gear-Loft",
+  "tech_specs": {
+    "Attachment location": [
+      "Wall",
+      "Ceiling"
+    ],
+    "Fits": [
+      "Specific tent(s); see product description"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Backpacking",
+      "Winter and expedition camping"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

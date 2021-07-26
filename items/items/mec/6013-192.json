@@ -1,0 +1,96 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Spicy Chicken Curry"
+  ],
+  "description": "A delicate balance of curry and spices make this hearty chicken dish sing. Rice and lentils add satisfyingly savoury substance, while currants and apples excite the sweet parts of your palate.Packaging clearly shows allergens and nutritional information, and has a graduated scale on one side, so you know how much water to add.Ingredients: instant white rice, lentils, raisins (raisins, sunflower oil), freeze dried grilled chicken (chicken breast with rib meat, salt, potato starch, onion and garlic powder, spices), coconut milk powder (coconut milk, maltodextrin, sodium caseinate), potato starch, apples [(calcium stearate) (as a flow agent)], curry powder [spices (including chili pepper), turmeric, salt], fructose, sweet whey, soy sauce [(wheat, soybeans, salt) maltodextrin, salt], sea salt, spinach, garlic granulated, white sesame seeds, white onion, bell pepper red & green combo, turmeric, cinnamon, ginger, black pepper, citric acid anhydrous, cumin, cayenne pepper, jalapeno, cilantro.Allergens: contains soy, sesame and wheat.No cooking needed, simply add water, stir, wait and enjoy.Meals have a 5-year shelf life.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182661574686/6013192-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182665965598/6013192-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182661574686/6013192-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182665965598/6013192-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182661574686/6013192-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182665965598/6013192-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182661574686/6013192-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182665965598/6013192-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "AlpineAire Spicy Chicken Curry",
+  "product_code": "6013-192",
+  "source_url": "https://www.mec.ca/en/product/6013-192/Spicy-Chicken-Curry",
+  "tech_specs": {
+    "Calories per serving": [
+      "300Cal"
+    ],
+    "Carbohydrates": [
+      "59g"
+    ],
+    "Cholesterol": [
+      "20mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "7g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "14g"
+    ],
+    "Saturated fat": [
+      "2.5g"
+    ],
+    "Serving size": [
+      "1/2 package"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "380mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "14g"
+    ],
+    "Total fat": [
+      "4.5g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ],
+    "Weight": [
+      "170g"
+    ]
+  }
+}

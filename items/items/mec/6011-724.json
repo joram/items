@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax",
+    "PS10 Wax"
+  ],
+  "description": "Versatile glide wax for the track or the mountain. This melt-on wax penetrates your base for long-lasting glide in above freezing conditions.Fluor-free liquid paraffin wax.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137296343070/6011724-YLW00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137296343070/6011724-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Swix PS10 Wax",
+  "product_code": "6011-724",
+  "source_url": "https://www.mec.ca/en/product/6011-724/PS10-Wax",
+  "tech_specs": {
+    "Ideal for": [
+      "Cross-country skiing",
+      "Downhill skiing",
+      "Backcountry skiing",
+      "Snowboarding"
+    ],
+    "Made in": [
+      "Norway"
+    ],
+    "State": [
+      "Bar"
+    ],
+    "Temperature range": [
+      "0/+10\u00b0C"
+    ],
+    "Type": [
+      "Glide"
+    ]
+  }
+}

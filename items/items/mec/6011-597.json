@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country classic",
+    "Classic ski bindings",
+    "Control Step-In Bindings"
+  ],
+  "description": "Sport/touring bindings with an automatic step-in function to get you off touring while the snow\u2019s still good. Manual release gets you out just while the hot chocolate\u2019s still warm.Flex index is designed for classic skiing to promote power transfer and ski control (5.0 flex index; 45\u00b0 amplitude).Step-in design automatically clicks closed. Manual release to open.Low profile stack height ensures maximum stability through the gliding phase and direct snow feel for increased precision.Compatible with IFP mounting plate only.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134115618846/6011597-WHT01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134115618846/6011597-WHT01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rossignol Control Step-In Bindings - Unisex",
+  "product_code": "6011-597",
+  "source_url": "https://www.mec.ca/en/product/6011-597/Control-Step-In-Bindings",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "NNN"
+    ],
+    "Ideal for": [
+      "Recreational classic skiing"
+    ],
+    "Made in": [
+      "Bosnia"
+    ],
+    "Weight": [
+      "242g"
+    ]
+  }
+}

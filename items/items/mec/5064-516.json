@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Coffee makers and kettles",
+    "Drip and pour-over coffee makers",
+    "Camp Cafe"
+  ],
+  "description": "Wake up your entire camp crew with the smell of freshly brewed coffee. This lightweight camp coffee kit is large enough for 12 cups of java, and packs up neatly into the kettle when it's time to move along.2.5L kettle has a Flux Ring base that holds in heat for speedy and efficient boiling.Pour-over filter holder uses #4 filters.Carafe and filter holder nest in kettle for easy carrying.Includes a 2.5L kettle with lid, a carafe, a filter holder and spoon.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018945503262/5064516-ALU00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018945503262/5064516-ALU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Eureka! Camp Cafe",
+  "product_code": "5064-516",
+  "source_url": "https://www.mec.ca/en/product/5064-516/Camp-Cafe",
+  "tech_specs": {
+    "Foldable handle": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Hard-anodized aluminum",
+      "Silicone",
+      "Polypropylene"
+    ],
+    "Volume": [
+      "2.5L"
+    ],
+    "Weight": [
+      "2.41kg"
+    ]
+  }
+}

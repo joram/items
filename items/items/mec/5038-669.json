@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski base cleaners",
+    "Base Binder Spray"
+  ],
+  "description": "Base Binder applied to your kick zones before your kick wax will help your wax adhere longer. Apply a thin coating, wait 5 minutes and layer on the kick wax.FWorks best in fine grained and transformed snow.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817162420254/5038669-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817162420254/5038669-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Swix Base Binder Spray",
+  "product_code": "5038-669",
+  "source_url": "https://www.mec.ca/en/product/5038-669/Base-Binder-Spray",
+  "tech_specs": {
+    "Ideal for": [
+      "Cross-country classic skiing"
+    ],
+    "Made in": [
+      "Norway"
+    ],
+    "Type": [
+      "Ski base binder"
+    ],
+    "Volume": [
+      "70ml"
+    ]
+  }
+}

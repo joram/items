@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Field guides",
+    "Plants",
+    "Edible Plants"
+  ],
+  "description": "Some wild edible plants have very poisonous look-alikes, and it\u2019s vital to know the difference. This pocket-sized, folding guide provides information on edible berries, nuts, leaves, and plants in North America. Illustrated with more than 100 species, and includes a section on dangerous poisonous plants.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815883354142/5017837-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815883354142/5017837-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Edible Plants",
+  "product_code": "5017-837",
+  "source_url": "https://www.mec.ca/en/product/5017-837/Edible-Plants",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Mini Stripe Banner Toque"
+  ],
+  "description": "Keep a warm head as you explore the Rockies or take a wander down 2nd Avenue. The big pompom keeps things fun.Thick wool and acrylic knit is soft and holds in heat.Large, fluffy pompom completes the look.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132300501022/6009984-YUK22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132300337182/6009984-AER00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132300501022/6009984-YUK22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132300337182/6009984-AER00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132300501022/6009984-YUK22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132300337182/6009984-AER00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132300501022/6009984-YUK22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132300337182/6009984-AER00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Mini Stripe Banner Toque - Unisex",
+  "product_code": "6009-984",
+  "source_url": "https://www.mec.ca/en/product/6009-984/Mini-Stripe-Banner-Toque",
+  "tech_specs": {
+    "Fabric content": [
+      "50% merino wool",
+      "50% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Snowsports"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

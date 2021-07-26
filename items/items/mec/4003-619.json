@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Aid climbing gear",
+    "Grappling Hook"
+  ],
+  "description": "The Grappling Hook\u2019s longer throw allows it to clear and hook larger placements.Clearance will fit divots further back on wide edges, but will fit larger flakes as well.Bi-pod base keeps it stable.Tie-off holes provided (tie knot on back and thread forward and down).Made of 4130 chrome-moly steel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807418495006/4003619-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807418495006/4003619-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Grappling Hook",
+  "product_code": "4003-619",
+  "source_url": "https://www.mec.ca/en/product/4003-619/Grappling-Hook",
+  "tech_specs": {
+    "Ideal for": [
+      "Aid climbing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "65g"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Camp stoves and grills",
+    "Accessories and maintenance",
+    "Jet Gauge"
+  ],
+  "description": "Is that partial fuel canister enough to get you through a weekend in the backcountry? Take the guesswork out of calculating your remaining LPG. The Jet Gauge is a compact scale that screws directly to your JetPower fuel canister and measures how much fuel you have left.3 pre-sets weigh your 100g, 230g and 450g JetPower fuel canisters.4th setting lets you weigh your gear (maximum capacity 2.5kg).Digital readout displays percentage of fuel remaining.User-replaceable batteries (CR2032).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8958404460574/5057347-GRY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8958404460574/5057347-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Jetboil Jet Gauge",
+  "product_code": "5057-347",
+  "source_url": "https://www.mec.ca/en/product/5057-347/Jet-Gauge",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "85g"
+    ]
+  }
+}

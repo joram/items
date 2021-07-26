@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Cooking utensils and cutting boards",
+    "Cooking utensils and food prep",
+    "Peppermill"
+  ],
+  "description": "Add some spice to your outdoor feasts with fresh and flavourful ground pepper.Made of durable co-polyester.Adjustible, stainless-steel grinding mechanism gives you a perfect grind.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812601999390/5017467-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812601999390/5017467-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Peppermill",
+  "product_code": "5017-467",
+  "source_url": "https://www.mec.ca/en/product/5017-467/Peppermill",
+  "tech_specs": {
+    "Dimensions": [
+      "3.5\u00a0x\u00a03.5\u00a0x\u00a07.6cm"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Co-polyester"
+    ],
+    "Weight": [
+      "71g"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training food and drinks",
+    "Energy gels and chews",
+    "Salted Watermelon Gel"
+  ],
+  "description": "Salt and watermelon certainly make strange bedfellows, but it works. This quirky, yet delicious flavour combo is engineered to give your body the fuel it needs, and keep you in play longer.Ingredients: Maltodextrin, water, fructose, leucine, sea salt, citric acid, natural flavor, potassium citrate, sodium citrate, calcium carbonate, valine, green tea (leaf) extract (contains caffeine), gellan gum, isoleucine, sunflower oil, sodium benzoate (preservative), potassium sorbate (preservative).Complex and simple carbs are optimized for rapid absorption and energy accessibility.Caffeine for an extra boost of energy.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812391399454/5044623-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135617310750/5044623-NOC02-ALT-INGREDIENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812391399454/5044623-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135617310750/5044623-NOC02-ALT-INGREDIENTS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812391399454/5044623-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135617310750/5044623-NOC02-ALT-INGREDIENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812391399454/5044623-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135617310750/5044623-NOC02-ALT-INGREDIENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GU Salted Watermelon Gel",
+  "product_code": "5044-623",
+  "source_url": "https://www.mec.ca/en/product/5044-623/Salted-Watermelon-Gel",
+  "tech_specs": {
+    "Best consumed": [
+      "During exercise"
+    ],
+    "Caffeine": [
+      "20mg"
+    ],
+    "Calories per serving": [
+      "100Cal"
+    ],
+    "Carbohydrates": [
+      "23g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "0g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycling",
+      "Running"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Potassium": [
+      "35mg"
+    ],
+    "Protein": [
+      "0g"
+    ],
+    "Saturated fat": [
+      "0g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "125mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "6g"
+    ],
+    "Total fat": [
+      "0g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "32g"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training electronics",
+    "Heart rate monitor sensor straps",
+    "TICKR 2 ANT+/Blue Tooth Heart Rate Monitor"
+  ],
+  "description": "Combined with the free Wahoo Fitness App, this HRM strap turns your Android or Apple device into a powerful trainer. It\u2019s also both ANT+ and Bluetooth Smart compatible, so it will play nice with many of your existing training watches.Dual top mounted LEDs: blue indicates connection, red confirms heart rate reading.Connects over ANT+ (unlimited connections at the same time) and Bluetooth\u2122 Smart (up to 3 Bluetooth connections at the same time).Free Wahoo Fitness App tracks heart rate and calories burned in real time.Works seamlessly with 50+ fitness apps, including: Zwift, The Sufferfest, Peloton for cycling and Runkeeper and MapMyRun for running.Replaceable coin cell battery (CR2032) lasts over 500 active hours.In the box: TICKR heart rate monitor, adjustable soft strap, quick start guide.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132498124830/6011922-SEH00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132498124830/6011922-SEH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wahoo Fitness TICKR 2 ANT+/Blue Tooth Heart Rate Monitor",
+  "product_code": "6011-922",
+  "source_url": "https://www.mec.ca/en/product/6011-922/TICKR-2-ANT%2B-Blue-Tooth-Heart-Rate-Monitor",
+  "tech_specs": {
+    "ANT+ compatible\n\nEnsures seamless digital wireless communication between ANT+ devices. For example, data from an ultra-low power wireless sensor can be displayed on a bike computer or smartphone, then downloaded to a PC, etc.": [
+      "Yes"
+    ],
+    "Bluetooth": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Running",
+      "Fitness and training",
+      "Cycle training"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Product sustainability": [
+      "Rechargeable batteries"
+    ],
+    "Weight": [
+      "48g"
+    ]
+  }
+}

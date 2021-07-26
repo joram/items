@@ -1,0 +1,88 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Drinks",
+    "Energy and recovery drinks",
+    "Sport Hydration Oranges"
+  ],
+  "description": "Quench your thirst with a hydration mix that contains all natural ingredients.Ingredients: cane sugar, dextrose, sodium citrate, citric acid, oranges, magnesium citrate, calcium citrate, potassium citrate, ascorbic acid (vitamin C).Optimized glucose and fructose blend allows for more rapid absorption.Electrolyte profile closely mirrors what is lost in sweat, allowing you to recover faster.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015379755038/5058679-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015379755038/5058679-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Skratch Labs Sport Hydration Oranges",
+  "product_code": "5058-679",
+  "source_url": "https://www.mec.ca/en/product/5058-679/Sport-Hydration-Oranges",
+  "tech_specs": {
+    "Best consumed": [
+      "Before exercise",
+      "During exercise",
+      "Recovery"
+    ],
+    "Calories per serving": [
+      "80Cal"
+    ],
+    "Carbohydrates": [
+      "20g"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Road cycling",
+      "Mountain biking",
+      "Fitness and training",
+      "Running"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Magnesium": [
+      "40mg"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Potassium": [
+      "38.5mg"
+    ],
+    "Protein": [
+      "0g"
+    ],
+    "Serving size": [
+      "1 scoop"
+    ],
+    "Servings": [
+      "20"
+    ],
+    "Sodium": [
+      "380mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "19g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "440g"
+    ]
+  }
+}

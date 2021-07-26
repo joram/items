@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Headlamps and lighting",
+    "Bulbs and accessories",
+    "Mini-Mag Nylon Holster"
+  ],
+  "description": "A nylon, full-flap holster to house your Mag-Lite Mini-Maglite\u00ae flashlight. It attaches to belts up to 2.25 inches wide, and uses Velcro\u00ae interlocking front and back flaps for quick attachment and sure retention.Made of rugged, woven nylon.Weather-resistant to protect your flashlight.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227704350/0102707-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227704350/0102707-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Maglite Mini-Mag Nylon Holster",
+  "product_code": "0102-707",
+  "source_url": "https://www.mec.ca/en/product/0102-707/Mini-Mag-Nylon-Holster",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "45g"
+    ]
+  }
+}

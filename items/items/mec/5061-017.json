@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard clothing",
+    "Ski and snow headwear",
+    "Ski masks and balaclavas",
+    "Combo Clava Balaclava"
+  ],
+  "description": "Arctic days on the hill call for a little extra warmth. Rock this balaclava as usual, or fold it over to wear it as a mask or hood. Subtle breathing holes keep your goggles from fogging up.Mask is Neofleece\u00ae: waterproof, windproof neoprene, lined with fleece for comfort against skin.Hood and neck section is 200-weight Polartec\u00ae fleece for cozy warmth.Holes around the nose and mouth let you breathe easily.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8987513356318/5061017-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8987513356318/5061017-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Seirus Combo Clava Balaclava - Unisex",
+  "product_code": "5061-017",
+  "source_url": "https://www.mec.ca/en/product/5061-017/Combo-Clava-Balaclava",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Snowsports"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof panels"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike helmets and body armour",
+    "Bike helmets",
+    "Therapy Cycling Helmet"
+  ],
+  "description": "Safety looks good on you. This lightweight helmet is nicely featured for summer group rides or solo workouts. An aerodynamic design reduces drag when you're leading the pack, and the micro-fit system lets you dial in the perfect fit.Aerodynamic design features of low density gel layer (LDL) for enhanced impact protection.Polycarbonate shell with EPS foam liner provides lightweight protection.Micro-fit closure system with 2-postion height adjustment allows for a quick and easy custom fit.6 vents let air flow through to keep you comfortable.Removable anti-microbial pads.Kali helmets offer a lifetime crash replacement, simply get in touch with Kali and they will trade your damaged helmet for a new one.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160796864542/6013352-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160804925470/6013352-WHT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160805154846/6013352-WHT00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160804859934/6013352-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160796667934/6013352-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160796864542/6013352-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160804925470/6013352-WHT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160805154846/6013352-WHT00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160804859934/6013352-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160796667934/6013352-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160796864542/6013352-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160804925470/6013352-WHT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160805154846/6013352-WHT00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160804859934/6013352-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160796667934/6013352-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160796864542/6013352-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160804925470/6013352-WHT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160805154846/6013352-WHT00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160804859934/6013352-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160796667934/6013352-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kali Therapy Cycling Helmet - Unisex",
+  "product_code": "6013-352",
+  "source_url": "https://www.mec.ca/en/product/6013-352/Therapy-Cycling-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Cycling"
+    ],
+    "Circumference\n\nThe internal circumference determines the size head that the helmet will fit.": [
+      "55-61cm (Black Small/Medium)",
+      "60-63cm (Black Large/X-Large)"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Molded in the shell"
+    ],
+    "Fit system": [
+      "Adjustable dial"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Sport road cycling"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "EN 1078",
+      "CPSC"
+    ],
+    "Shell material": [
+      "Polycarbonate"
+    ],
+    "Vents": [
+      "Yes"
+    ],
+    "Weight": [
+      "285g (Small/Medium)"
+    ]
+  }
+}

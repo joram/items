@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country classic",
+    "Classic ski boots",
+    "Escape Plus Prolink Boots"
+  ],
+  "description": "For long days of Nordic touring, the Escape Plus Prolink boot offers a customizable fit with the added warmth of Thinsulate. These boots are generously sized for all day comfort, with a semi-rigid cuff to balance support with flexibility.Custom fit liner with Thinsulate\u00ae insulation.Sanitized anti-bacterial treatment keeps inners odour-free.Quick-lace speed lacing system with zip-up lace covers.Ergonomic flexible cuff has Velcro\u00ae strap for a secure fit.Touring fit is slightly generous for long-term comfort and 105mm width.Classic flex pattern is designed for good forefoot flex, with stiffer rear flex to add torsional rigidity.Prolink soles are NNN compatible and provide a low profile boot-binding connection for exceptional snow feel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053385162782/6003885-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053385162782/6003885-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Escape Plus Prolink Boots - Men's",
+  "product_code": "6003-885",
+  "source_url": "https://www.mec.ca/en/product/6003-885/Escape-Plus-Prolink-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "NNN"
+    ],
+    "Hinged/high cuff": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Recreational classic skiing"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lace cover": [
+      "Yes"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ]
+  }
+}

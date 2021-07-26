@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Double Layer Escape Crew Socks"
+  ],
+  "description": "These technical socks are double-layered to reduce friction as you move. Great for hiking and other long days on your feet.Both layers are made of polyester, nylon and LYCRA.Inner layer is smooth against the skin and wicks moisture away from your feet.Lightly cushioned footbed.Stabilizer zones keep them in place.Venting channels add breathability.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8971985551390/5047561-TRL01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924935061534/5047561-BK621.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9063526170654/5047561-AST05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924936273950/5047561-ASH18.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8971985551390/5047561-TRL01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924935061534/5047561-BK621.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9063526170654/5047561-AST05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924936273950/5047561-ASH18.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8971985551390/5047561-TRL01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924935061534/5047561-BK621.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9063526170654/5047561-AST05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924936273950/5047561-ASH18.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8971985551390/5047561-TRL01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924935061534/5047561-BK621.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9063526170654/5047561-AST05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8924936273950/5047561-ASH18.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "WrightSock Double Layer Escape Crew Socks - Unisex",
+  "product_code": "5047-561",
+  "source_url": "https://www.mec.ca/en/product/5047-561/Double-Layer-Escape-Crew-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "68% polyester",
+      "24% nylon",
+      "8% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

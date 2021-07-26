@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Casual sandals",
+    "Molokini III Flips"
+  ],
+  "description": "Incredibly comfortable sandals for recovery days or everyday kicking around. Slip them in your pack to wear around camp after a long day of hiking.Padded strap for irritation free comfort.Supportive FluidFoam\u2122 base supports your archesMouldable footbed adapts to your stride.Non-marking rubber sole with perimeter traction lugs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088329220126/6007598-BK479.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088326205470/6007598-BK479-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088326402078/6007598-BK479-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088329220126/6007598-BK479.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088326205470/6007598-BK479-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088326402078/6007598-BK479-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088329220126/6007598-BK479.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088326205470/6007598-BK479-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088326402078/6007598-BK479-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088329220126/6007598-BK479.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088326205470/6007598-BK479-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088326402078/6007598-BK479-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Columbia Molokini III Flips - Women's",
+  "product_code": "6007-598",
+  "source_url": "https://www.mec.ca/en/product/6007-598/Molokini-III-Flips",
+  "tech_specs": {
+    "Footbed": [
+      "Synthetic rubber"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Upper material": [
+      "Polyester"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike bags and trailers",
+    "Bike pannier racks",
+    "Tour Rack"
+  ],
+  "description": "This rack works on nearly any ride, from a road bike to a full-suspension mountain bike. It holds your gear securely without vibration or noise.Attachment system secures easily to rear seat stays and front fork.Rubberized attachment prevents sliding and protects your bike frame.Tough construction allows off-road riding.Tire clearance up to 29x2.5in.Maximum load is 10kg when used on the front, 11kg when used on the back.Carries loads on top of the rack. To use with panniers, you'll want the Thule Side Frames attachment (sold separately).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937370845214/5058751-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938065723422/5058751-NOC02-ALT-REARVIEW.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938065756190/5058751-NOC02-ALT-INSTALLED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938065985566/5058751-NOC02-ALT-FRONTVIEW.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938068017182/5058751-NOC02-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937370845214/5058751-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938065723422/5058751-NOC02-ALT-REARVIEW.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938065756190/5058751-NOC02-ALT-INSTALLED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938065985566/5058751-NOC02-ALT-FRONTVIEW.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938068017182/5058751-NOC02-ALT-FOLDED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937370845214/5058751-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938065723422/5058751-NOC02-ALT-REARVIEW.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938065756190/5058751-NOC02-ALT-INSTALLED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938065985566/5058751-NOC02-ALT-FRONTVIEW.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938068017182/5058751-NOC02-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937370845214/5058751-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938065723422/5058751-NOC02-ALT-REARVIEW.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938065756190/5058751-NOC02-ALT-INSTALLED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938065985566/5058751-NOC02-ALT-FRONTVIEW.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938068017182/5058751-NOC02-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Thule Tour Rack",
+  "product_code": "5058-751",
+  "source_url": "https://www.mec.ca/en/product/5058-751/Tour-Rack",
+  "tech_specs": {
+    "Adjustable height\n\nThe rack's height can be adjusted to accommodate fenders and various wheel sizes.": [
+      "Yes"
+    ],
+    "Attachment type": [
+      "Bracket"
+    ],
+    "Dimensions": [
+      "32\u00a0x\u00a012cm"
+    ],
+    "Disc brake compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Cycle touring"
+    ],
+    "Light/reflector bracket": [
+      "No"
+    ],
+    "Load capacity": [
+      "11kg"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Aluminum",
+      "Plastic"
+    ],
+    "Mounting position": [
+      "Rear",
+      "Front"
+    ],
+    "Suspension compatible": [
+      "Yes"
+    ],
+    "Weight": [
+      "1.1kg"
+    ]
+  }
+}

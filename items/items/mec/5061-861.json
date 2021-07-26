@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard clothing",
+    "Ski gloves and mittens",
+    "Liner gloves",
+    "Polypro Liner Gloves"
+  ],
+  "description": "These gloves are happy to fly solo on mild days, or layer under insulated gloves on extra-cold adventures. Touchscreen compatible thumb and forefingers let you check your map or snap a pic on the fly.Made of knit polypropylene that provides warmth and wicks moisture.Touchscreen compatible inserts on thumbs and forefingers.Spandex thread in the cuffs keeps them in place.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044678967326/5061861-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044678967326/5061861-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Polypro Liner Gloves - Unisex",
+  "product_code": "5061-861",
+  "source_url": "https://www.mec.ca/en/product/5061-861/Polypro-Liner-Gloves",
+  "tech_specs": {
+    "Ideal for": [
+      "Snowsports",
+      "Camping and hiking",
+      "Casual wear",
+      "Alpine climbing and mountaineering"
+    ],
+    "Insulation": [
+      "Light"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Main fabric": [
+      "100% polypropylene"
+    ],
+    "Touchscreen compatible": [
+      "Yes"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

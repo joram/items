@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Action cameras and accessories",
+    "Camera accessories and mounts",
+    "3-Way"
+  ],
+  "description": "The only GoPro mount you need. Works as an extendable selfie stick, mini-tripod and grip mount. Use the folding arm to get following shots without the stick appearing in the shot.Folding extension arm captures selfies without the mount appearing in your shot.Handle can be detached from the arm and used as a camera grip.Removable tripod conveniently stores inside the handle.Lightweight, mini tripod can be used on its own or combined with the handle.Waterproof construction is safe for use in water and snow.Extended length is 51cm. Collapsed length is 19cm.Includes: extension arm, grip, tripod, thumb screw.Compatible with all GoPro HERO cameras.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8922564952094/5057594-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8922583334942/5057594-BK000-ALT-EXTENDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8922564952094/5057594-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8922583334942/5057594-BK000-ALT-EXTENDED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8922564952094/5057594-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8922583334942/5057594-BK000-ALT-EXTENDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8922564952094/5057594-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8922583334942/5057594-BK000-ALT-EXTENDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GoPro 3-Way",
+  "product_code": "5057-594",
+  "source_url": "https://www.mec.ca/en/product/5057-594/3-Way",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking",
+      "Travel",
+      "Snowsports",
+      "Watersports"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "300g"
+    ]
+  }
+}

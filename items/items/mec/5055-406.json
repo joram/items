@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski base cleaners",
+    "T73 Digital Sport Waxing Iron"
+  ],
+  "description": "A waxing iron with a thick plate that makes for even heat distribution. Digital temperature reading means it\u2019s easy to get the perfect setting.18mm thick plate ensure even heat distribution.Digital microprocessor ensure a precise temperature control.Digital display is controlled by the wheel adjustment.Operating temperatures of 80 to 170\u00b0C.With 850W of heating power, you'll have plenty of heat to melt your wax.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003542872094/5055406-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003542872094/5055406-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Swix T73 Digital Sport Waxing Iron",
+  "product_code": "5055-406",
+  "source_url": "https://www.mec.ca/en/product/5055-406/T73-Digital-Sport-Waxing-Iron",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Cross-country skiing",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Temperature range": [
+      "80-170\u00b0C"
+    ],
+    "Temperature sensor\n\nA digital temperature sensor allows for more precise temperature control than an analog sensor.": [
+      "Digital"
+    ]
+  }
+}

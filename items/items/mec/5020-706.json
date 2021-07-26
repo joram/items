@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Baby (0-2 yrs)",
+    "Baby clothing",
+    "Baby accessories",
+    "Baby hats and toques",
+    "Baby caps",
+    "Sun Runner Cap"
+  ],
+  "description": "A peaked hat with complete sun and wind protection. The cape provides full coverage for the neck, while the stiffened brim shades the face from the sun and screens the wind. Lightweight fabric keeps you cool, dries quickly, and crushes easily so you can cram it into a pack.Made of 100% nylon with UPF 30+ protection.The moisture managing headband provides day long comfort.Elasticized sun skirt with adjustable hook-and-loop closure allows you to customize your fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8811911774238/5020706-KHA12.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8811911774238/5020706-KHA12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outdoor Research Sun Runner Cap - Infants to Youths",
+  "product_code": "5020-706",
+  "source_url": "https://www.mec.ca/en/product/5020-706/Sun-Runner-Cap",
+  "tech_specs": {
+    "Fabric content": [
+      "100% nylon"
+    ],
+    "Ideal for": [
+      "Watersports"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "25-39 (Blocks ~96% of UVA/UVB)"
+    ],
+    "Weight": [
+      "68g (Medium)"
+    ]
+  }
+}

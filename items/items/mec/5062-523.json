@@ -1,0 +1,132 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Running and training footwear",
+    "Running shoes",
+    "Road running shoes",
+    "Cloud Road Running Shoes"
+  ],
+  "description": "Tackle road running and urban exploring with equal confidence. With a patented CloudTec\u00ae sole, speed-lacing and a super soft step-in, the Cloud is the lightest, fully-cushioned, all day every day shoe your feet have ever slid into.  The Cloud series is renowned for its unique CloudTec\u00ae sole: EVA pods compress on footstrike, then rebound to provide an energy boost with each toe-off.Breathable, antimicrobial mesh weave upper for an ideal foot climate.No-sew taped reinforcements and toe cap increase durability.Easy-entry speed lace system for effortless transitions. Comes with a set of conventional laces as well.Adaptive first-layer sockliner ensures a comfortable fit.V-molded heel provides a secure, snug feel.Speedboard provides responsive flex and rocker that encourages the natural rolling process and promotes explosive take-offs.Outsole is super-light Zero-Gravity foam for a responsive, cushioned landing.Advanced abrasion pads provide grip and durability.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075882426398/5062523-CSD11.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075872595998/5062523-CSD11-ALT-ANKLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075872661534/5062523-CSD11-ALT-ANKLEDETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873021982/5062523-CSD11-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873120286/5062523-CSD11-ALT-LACES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873087518/5062523-CSD11-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873054750/5062523-CSD11-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873153054/5062523-CSD11-ALT-SOLEHEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873316894/5062523-CSD11-ALT-TOEDETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040110780446/5062523-BK058-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040110944286/5062523-BK058-ALT-HEEL3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111042590/5062523-BK058-ALT-HEEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111075358/5062523-BK058-ALT-INNER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111239198/5062523-BK058-ALT-LACES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111271966/5062523-BK058-ALT-LACES2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111304734/5062523-BK058-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111403038/5062523-BK058-ALT-SOLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111697950/5062523-BK058-ALT-TOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040090136606/5062523-BK058.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075882426398/5062523-CSD11.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075872595998/5062523-CSD11-ALT-ANKLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075872661534/5062523-CSD11-ALT-ANKLEDETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873021982/5062523-CSD11-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873120286/5062523-CSD11-ALT-LACES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873087518/5062523-CSD11-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873054750/5062523-CSD11-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873153054/5062523-CSD11-ALT-SOLEHEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873316894/5062523-CSD11-ALT-TOEDETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040110780446/5062523-BK058-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040110944286/5062523-BK058-ALT-HEEL3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111042590/5062523-BK058-ALT-HEEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111075358/5062523-BK058-ALT-INNER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111239198/5062523-BK058-ALT-LACES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111271966/5062523-BK058-ALT-LACES2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111304734/5062523-BK058-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111403038/5062523-BK058-ALT-SOLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111697950/5062523-BK058-ALT-TOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040090136606/5062523-BK058.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075882426398/5062523-CSD11.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075872595998/5062523-CSD11-ALT-ANKLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075872661534/5062523-CSD11-ALT-ANKLEDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873021982/5062523-CSD11-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873120286/5062523-CSD11-ALT-LACES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873087518/5062523-CSD11-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873054750/5062523-CSD11-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873153054/5062523-CSD11-ALT-SOLEHEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873316894/5062523-CSD11-ALT-TOEDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040110780446/5062523-BK058-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040110944286/5062523-BK058-ALT-HEEL3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111042590/5062523-BK058-ALT-HEEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111075358/5062523-BK058-ALT-INNER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111239198/5062523-BK058-ALT-LACES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111271966/5062523-BK058-ALT-LACES2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111304734/5062523-BK058-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111403038/5062523-BK058-ALT-SOLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111697950/5062523-BK058-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040090136606/5062523-BK058.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075882426398/5062523-CSD11.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075872595998/5062523-CSD11-ALT-ANKLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075872661534/5062523-CSD11-ALT-ANKLEDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873021982/5062523-CSD11-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873120286/5062523-CSD11-ALT-LACES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873087518/5062523-CSD11-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873054750/5062523-CSD11-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873153054/5062523-CSD11-ALT-SOLEHEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075873316894/5062523-CSD11-ALT-TOEDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040110780446/5062523-BK058-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040110944286/5062523-BK058-ALT-HEEL3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111042590/5062523-BK058-ALT-HEEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111075358/5062523-BK058-ALT-INNER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111239198/5062523-BK058-ALT-LACES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111271966/5062523-BK058-ALT-LACES2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111304734/5062523-BK058-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111403038/5062523-BK058-ALT-SOLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040111697950/5062523-BK058-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040090136606/5062523-BK058.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "On Cloud Road Running Shoes - Men's",
+  "product_code": "5062-523",
+  "source_url": "https://www.mec.ca/en/product/5062-523/Cloud-Road-Running-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Quick pull"
+    ],
+    "Drop\n\nThe drop is the difference in height between the heel and the forefoot midsole cushioning. Traditional running shoes tend to have a 10mm drop or higher while minimalist style shoes are on the lower end of the spectrum.": [
+      "6mm"
+    ],
+    "Feel\n\n'Minimal and natural' shoes offer low drop, lots of flex, and minimal cushioning. Most running shoes are 'Light and responsive' with medium cushioning and good energy return. 'Cushioned and floaty' shoes have maximum cushioning.": [
+      "Light and responsive"
+    ],
+    "Heel-to-toe cushioning\n\nThe approximate thickness of the midsole cushioning under the heel and the forefoot. A thicker heel and greater difference between heel and toe height tends to suit heel-strike runners, while forefoot and midfoot strikers may prefer a minimal drop between heel and toe cushioning.": [
+      "24-18mm"
+    ],
+    "Ideal for": [
+      "Road running"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Stability\n\nSome shoes include added motion control or stability features to help minimize over pronation, where the foot tends to roll inward in a biomechanically imbalanced running position.": [
+      "Neutral"
+    ],
+    "Upper material": [
+      "Synthetic"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ],
+    "Weight": [
+      "460g (8.5)"
+    ]
+  }
+}

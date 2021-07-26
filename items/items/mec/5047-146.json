@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training electronics",
+    "Heart rate monitor sensor straps",
+    "Heart Rate Monitor - Run"
+  ],
+  "description": "More than a run-of-the-mill heartrate monitor. For those looking to perfect their running form, Garmin's run specific HRM does just that: foot cadence, vertical bounce per glide, ground contact time and stride length are all measured in a light and compact package.Integrated accelerometer measures vertical oscillation, ground contact time, vertical ratio and stride length.Heartrate data is hyper-accurate and ANT+ compatible.Running motion features only compatible with select Garmin products.Replaceable coin battery provides up to 10 months of battery.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810650468382/5047146-BK048.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810650468382/5047146-BK048.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810650468382/5047146-BK048.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810650468382/5047146-BK048.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Garmin Heart Rate Monitor - Run - Unisex",
+  "product_code": "5047-146",
+  "source_url": "https://www.mec.ca/en/product/5047-146/Heart-Rate-Monitor---Run",
+  "tech_specs": {
+    "ANT+ compatible\n\nEnsures seamless digital wireless communication between ANT+ devices. For example, data from an ultra-low power wireless sensor can be displayed on a bike computer or smartphone, then downloaded to a PC, etc.": [
+      "Yes"
+    ],
+    "Bluetooth": [
+      "No"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

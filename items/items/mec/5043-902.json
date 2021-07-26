@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill ski bindings",
+    "Z Series/L Series Brakes"
+  ],
+  "description": "Replace or swap out the brakes on your Salomon Z series or L series bindings for a different size.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817265049630/5043902-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817265049630/5043902-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Z Series/L Series Brakes",
+  "product_code": "5043-902",
+  "source_url": "https://www.mec.ca/en/product/5043-902/Z-Series-L-Series-Brakes",
+  "tech_specs": {
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Austria"
+    ]
+  }
+}

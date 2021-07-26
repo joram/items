@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Guyline and rigging",
+    "Line Lock"
+  ],
+  "description": "Maybe you\u2019re knot-challenged. Maybe it\u2019s just too cold to take off your gloves. Either way, you\u2019ll appreciate how these locks securely adjust guylines on tents or tarps. The hold firmly in regardless of strong winds or vibration.Engineering grade nylon is UV resistant and tested to sub-zero conditions.Toothed shape holds loads without damaging lines.Easy to rig.Small fits ropes 1 to 3mm, Large fits 2 to 5mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815567765534/5028461-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815567765534/5028461-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Line Lock",
+  "product_code": "5028-461",
+  "source_url": "https://www.mec.ca/en/product/5028-461/Line-Lock",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Weight": [
+      "2g (Small)"
+    ]
+  }
+}

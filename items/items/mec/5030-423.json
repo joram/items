@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry ski bindings",
+    "Backcountry ski binding brakes",
+    "NTN Freedom Ski Brakes"
+  ],
+  "description": "Brakes for 2012 models of Rottefella NTN Freedom Telemark Bindings.Not  compatible with the 2012 NTN Freeride bindings.95mm and 110mm, 125mm to fit standard, fat, superfat skis.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817249255454/5030423-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817249288222/5030423-NOC02-ALT-ONBINDING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817249255454/5030423-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817249288222/5030423-NOC02-ALT-ONBINDING.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817249255454/5030423-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817249288222/5030423-NOC02-ALT-ONBINDING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817249255454/5030423-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817249288222/5030423-NOC02-ALT-ONBINDING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rottefella NTN Freedom Ski Brakes",
+  "product_code": "5030-423",
+  "source_url": "https://www.mec.ca/en/product/5030-423/NTN-Freedom-Ski-Brakes",
+  "tech_specs": {
+    "Ideal for": [
+      "Telemark skiing"
+    ],
+    "Made in": [
+      "Norway"
+    ]
+  }
+}

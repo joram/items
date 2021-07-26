@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Footwear accessories",
+    "Shoe and boot care",
+    "Hydrobloc Proofing Cream"
+  ],
+  "description": "Formulated specifically for use on Zamberlan\u00ae Hydrobloc\u2122 full grain leathers (smooth and waxy finish) to enhance their water resistance and appearance. Also suitable for other synthetically tanned full grain leathers. Not for use on Nubuck, split, or roughout leathers as it will darken and change the finish of the leather.Refined mixture of non-oil based petroleum hydrocarbons, waxes and paraffins melted in mineral turpentine.Protects leather without softening.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815533654046/4017078-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815533654046/4017078-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Zamberlan Hydrobloc Proofing Cream",
+  "product_code": "4017-078",
+  "source_url": "https://www.mec.ca/en/product/4017-078/Hydrobloc-Proofing-Cream",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Type": [
+      "Waterproofer"
+    ],
+    "Weight": [
+      "65g"
+    ]
+  }
+}

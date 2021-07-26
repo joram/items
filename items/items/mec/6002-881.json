@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Climb accessories",
+    "Upshot Belay Glasses"
+  ],
+  "description": "Don't let long project-belays become a thing you dread. These glasses let you keep a close eye on your climber without straining your neck, and come with a hard case so you can throw them in your crag bag without them getting damaged.Lightweight, solid plastic frames are easy to put on or take off.High-transparency prisms aim high on the wall.Low profile nose pads fit with other eyewear.Includes hard case, lanyard and lens cloth.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026260008990/6002881-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026259484702/6002881-PPL00-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027021275166/6002881-PPL00-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027021307934/6002881-PPL00-ALT-OUTSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026260008990/6002881-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026259484702/6002881-PPL00-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027021275166/6002881-PPL00-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027021307934/6002881-PPL00-ALT-OUTSIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026260008990/6002881-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026259484702/6002881-PPL00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027021275166/6002881-PPL00-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027021307934/6002881-PPL00-ALT-OUTSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026260008990/6002881-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026259484702/6002881-PPL00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027021275166/6002881-PPL00-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027021307934/6002881-PPL00-ALT-OUTSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Metolius Upshot Belay Glasses - Unisex",
+  "product_code": "6002-881",
+  "source_url": "https://www.mec.ca/en/product/6002-881/Upshot-Belay-Glasses",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing",
+      "Snow and ice climbing",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "45g"
+    ]
+  }
+}

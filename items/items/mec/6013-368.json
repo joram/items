@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Caps",
+    "Winter GOCap"
+  ],
+  "description": "A classic cap with a winter twist. Thermal fabric on the sides and a wool blend panel on top hold in heat to protect your noggin on winter runs.Polartec\u00ae Power Wool\u2122 and Power Grid\u2122 fabric is warm and wicking.Pliable packable brim.Reflective details front and back.5-panel fit with a adjustment in back.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146524106782/6013368-WHI08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528038942/6013368-WHI08-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528071710/6013368-WHI08-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528137246/6013368-WHI08-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146524106782/6013368-WHI08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528038942/6013368-WHI08-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528071710/6013368-WHI08-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528137246/6013368-WHI08-ALT-INSIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146524106782/6013368-WHI08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528038942/6013368-WHI08-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528071710/6013368-WHI08-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528137246/6013368-WHI08-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146524106782/6013368-WHI08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528038942/6013368-WHI08-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528071710/6013368-WHI08-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146528137246/6013368-WHI08-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ciele Athletics Winter GOCap - Unisex",
+  "product_code": "6013-368",
+  "source_url": "https://www.mec.ca/en/product/6013-368/Winter-GOCap",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Fabric content": [
+      "60% polyester",
+      "40% wool"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "Secondary fabric": [
+      "93% recycled polyester",
+      "7% spandex"
+    ]
+  }
+}

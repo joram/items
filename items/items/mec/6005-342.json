@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Electronics cases",
+    "Phone cases",
+    "Hitch Phone Anchor + Tether"
+  ],
+  "description": "Keep your device handy and eliminate phone-drop anxiety during beach and chairlift selfies. Two mini double-gated locking carabiners add versatility, allowing you to anchor your phone to loops, straps or the included coiled tether.Fits between case and phone without interfering with charging.Removable coiled tether extends to 60cm.Detachable locking carabiners allows easy connection to the coiled tether, belt loops or pack straps.Works best with cases that feature a standard size charging port.Includes coiled tether, 2 Microlok carabiners and Hitch Phone Anchor.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040085614622/6005342-CST03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040099639326/6005342-CST03-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040099835934/6005342-CST03-ALT-ONMODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097116190/6005342-BK006-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097345566/6005342-BK006-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097837086/6005342-BK006-ALT-ONMODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097935390/6005342-BK006-ALT-ONMODEL3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040098164766/6005342-BK006-ALT-ONMODEL4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040098394142/6005342-BK006-ALT-ONMODEL5.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040099147806/6005342-BK006-ALT-SETUP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040085418014/6005342-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040085614622/6005342-CST03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040099639326/6005342-CST03-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040099835934/6005342-CST03-ALT-ONMODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097116190/6005342-BK006-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097345566/6005342-BK006-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097837086/6005342-BK006-ALT-ONMODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097935390/6005342-BK006-ALT-ONMODEL3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040098164766/6005342-BK006-ALT-ONMODEL4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040098394142/6005342-BK006-ALT-ONMODEL5.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040099147806/6005342-BK006-ALT-SETUP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040085418014/6005342-BK006.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040085614622/6005342-CST03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040099639326/6005342-CST03-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040099835934/6005342-CST03-ALT-ONMODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097116190/6005342-BK006-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097345566/6005342-BK006-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097837086/6005342-BK006-ALT-ONMODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097935390/6005342-BK006-ALT-ONMODEL3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040098164766/6005342-BK006-ALT-ONMODEL4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040098394142/6005342-BK006-ALT-ONMODEL5.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040099147806/6005342-BK006-ALT-SETUP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040085418014/6005342-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040085614622/6005342-CST03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040099639326/6005342-CST03-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040099835934/6005342-CST03-ALT-ONMODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097116190/6005342-BK006-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097345566/6005342-BK006-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097837086/6005342-BK006-ALT-ONMODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040097935390/6005342-BK006-ALT-ONMODEL3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040098164766/6005342-BK006-ALT-ONMODEL4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040098394142/6005342-BK006-ALT-ONMODEL5.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040099147806/6005342-BK006-ALT-SETUP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040085418014/6005342-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nite Ize Hitch Phone Anchor + Tether",
+  "product_code": "6005-342",
+  "source_url": "https://www.mec.ca/en/product/6005-342/Hitch-Phone-Anchor-%2B-Tether",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel",
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

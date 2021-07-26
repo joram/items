@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike cassettes and freewheels",
+    "105 CS-5700 10 Speed 11-28T Cassette"
+  ],
+  "description": "From the mid-range road riding series from Shimano, the CS-5700 features Hyperglide sprockets. With specifically positioned shift ramps and tooth profiles, Hyperglide improves chain control for fast and responsive indexed shifting.10-speed.Nickel plated.11-12-13-14-15-17-19-21-24-28T",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873684434974/5054079-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873684434974/5054079-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano 105 CS-5700 10 Speed 11-28T Cassette",
+  "product_code": "5054-079",
+  "source_url": "https://www.mec.ca/en/product/5054-079/105-CS-5700-10-Speed-11-28T-Cassette",
+  "tech_specs": {
+    "Compatibility": [
+      "10-speed"
+    ],
+    "Gear ratio": [
+      "11-28T"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Nickel plated\n\nNickel plating can increase durability and product life.": [
+      "Yes"
+    ],
+    "Type": [
+      "Cassette"
+    ],
+    "Weight": [
+      "255g"
+    ]
+  }
+}

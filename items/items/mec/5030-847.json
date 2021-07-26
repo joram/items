@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Jasper South Trail Map"
+  ],
+  "description": "Based on GeoBase data and data from Natural Resources Canada, these high-quality National Geographic illustrated maps are revised regularly in co-operation with Parks Canada. Printed on synthetic paper that's waterproof and tear-resistant, the map holds up to handling and repeated use. This version includes trail distances for the South Boundary, Athabasca Pass, Maligne Lake, Tonquin Valley, and Hamber Provincial Park. Approximate scale is 1:100,000.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815848718366/5030847-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815848718366/5030847-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "National Geographic Jasper South Trail Map",
+  "product_code": "5030-847",
+  "source_url": "https://www.mec.ca/en/product/5030-847/Jasper-South-Trail-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:100,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

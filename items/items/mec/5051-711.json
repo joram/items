@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling clothing accessories",
+    "Cycling gloves",
+    "Grom's Prodigy Gloves"
+  ],
+  "description": "The North Shore's original freeride apparel company offers up these minimalist gloves for the accomplished, the fearless and the airborne.Made of stretchy synthetic Ax Suede with synthetic leather palms.DuPont Kevlar thread throughout for bomber durability.Pre-curved fingers have silicone tips for better grip.Absorbent terry textured micro-fibre panel lets you wipe your brow.Pull-on style cuffs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133117145118/5051711-MSS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133113475102/5051711-MSS00-ALT-PALM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8869827805214/5051711-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133117145118/5051711-MSS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133113475102/5051711-MSS00-ALT-PALM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8869827805214/5051711-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133117145118/5051711-MSS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133113475102/5051711-MSS00-ALT-PALM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8869827805214/5051711-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133117145118/5051711-MSS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133113475102/5051711-MSS00-ALT-PALM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8869827805214/5051711-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sombrio Grom's Prodigy Gloves - Children to Youths",
+  "product_code": "5051-711",
+  "source_url": "https://www.mec.ca/en/product/5051-711/Grom%27s-Prodigy-Gloves",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Nose wipe"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Liner type": [
+      "None"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Synthetic leather"
+    ],
+    "Touchscreen compatible": [
+      "No"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

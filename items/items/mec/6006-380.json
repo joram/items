@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Base layers and underwear",
+    "Base layers",
+    "Base layer tops",
+    "Merino 150 Baselayer Short Sleeve"
+  ],
+  "description": "Add this amazing wool and nylon base to your ski layers or hiking setup. The naturally high-tech wool maintains warmth and controls odours, and the synthetic fibres wick wetness and help the fabric withstand the rigours of the wild. In cool or damp conditions, merino wool is an unbeatable material for holding warmth and creating next-to-skin comfort.Made of a naturally antimicrobial merino wool blend.Nylon core for increased durability, while keeping the soft merino wool next to your skin.Fabric provides UPF 20 sun protection.Raglan sleeve design eliminates shoulder seams.Stretch merrow stitching for chafe-free comfort.Side seams wrap to the front for a body-enhancing fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163332255774/6006380-IGB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163327799326/6006380-IGB00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163567398942/6006380-IGB00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163327832094/6006380-CBM09-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163327766558/6006380-CBM09-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163332059166/6006380-CBM09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163332255774/6006380-IGB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163327799326/6006380-IGB00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163567398942/6006380-IGB00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163327832094/6006380-CBM09-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163327766558/6006380-CBM09-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163332059166/6006380-CBM09.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163332255774/6006380-IGB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163327799326/6006380-IGB00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163567398942/6006380-IGB00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163327832094/6006380-CBM09-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163327766558/6006380-CBM09-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163332059166/6006380-CBM09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163332255774/6006380-IGB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163327799326/6006380-IGB00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163567398942/6006380-IGB00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163327832094/6006380-CBM09-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163327766558/6006380-CBM09-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163332059166/6006380-CBM09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Merino 150 Baselayer Short Sleeve - Women's",
+  "product_code": "6006-380",
+  "source_url": "https://www.mec.ca/en/product/6006-380/Merino-150-Baselayer-Short-Sleeve",
+  "tech_specs": {
+    "Fabric content": [
+      "87% merino wool",
+      "13% nylon"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "150gsm"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Backcountry skiing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "15-24 (Blocks ~93% of UVA/UVB)"
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Multi-tools",
+    "Sidekick Tool"
+  ],
+  "description": "If you're looking for your first multi-tool, the Sidekick has lots of useful features (including  a serrated knife) and it's great value. You may wonder how you lived so long without a set of folding pliers.14 different tools to help you work through whatever life throws at you.Pliers with built-in wire cutters.Locking blade keeps fingers safe.Saw rips through wood.Includes a compact carabiner that doubles as a bottle opener.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812866764830/5026515-STA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812866830366/5026515-STA00-ALT-CLOSED1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812866797598/5026515-STA00-ALT-CLOSED2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860019032094/5026515-STA00-ALT-BINER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812866764830/5026515-STA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812866830366/5026515-STA00-ALT-CLOSED1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812866797598/5026515-STA00-ALT-CLOSED2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860019032094/5026515-STA00-ALT-BINER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812866764830/5026515-STA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812866830366/5026515-STA00-ALT-CLOSED1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812866797598/5026515-STA00-ALT-CLOSED2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860019032094/5026515-STA00-ALT-BINER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812866764830/5026515-STA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812866830366/5026515-STA00-ALT-CLOSED1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812866797598/5026515-STA00-ALT-CLOSED2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860019032094/5026515-STA00-ALT-BINER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Leatherman Sidekick Multi-Tool",
+  "product_code": "5026-515",
+  "source_url": "https://www.mec.ca/en/product/5026-515/Sidekick-Tool",
+  "tech_specs": {
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Straight"
+    ],
+    "Blade length": [
+      "6.6cm"
+    ],
+    "Blade material": [
+      "420 HC stainless steel"
+    ],
+    "Bottle opener": [
+      "Yes"
+    ],
+    "Can opener": [
+      "Yes"
+    ],
+    "Carabiner clip": [
+      "Yes"
+    ],
+    "Flathead (slot) screwdriver": [
+      "Yes"
+    ],
+    "Handle material": [
+      "Stainless steel"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Camping and hiking",
+      "Travel"
+    ],
+    "Knife length (closed)": [
+      "9.7cm"
+    ],
+    "Lanyard attachment": [
+      "Yes"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Metal file": [
+      "Yes"
+    ],
+    "Number of knives": [
+      "2"
+    ],
+    "Package opener": [
+      "Yes"
+    ],
+    "Phillips (cross) driver": [
+      "Yes"
+    ],
+    "Pliers": [
+      "Regular"
+    ],
+    "Pocket clip": [
+      "Yes"
+    ],
+    "Ruler": [
+      "Yes"
+    ],
+    "Saw": [
+      "Yes"
+    ],
+    "Sheath included": [
+      "Yes"
+    ],
+    "Sheath material": [
+      "Nylon"
+    ],
+    "Weight": [
+      "198g"
+    ],
+    "Wire cutter": [
+      "Regular"
+    ],
+    "Wire stripper": [
+      "Yes"
+    ]
+  }
+}

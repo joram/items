@@ -1,0 +1,92 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "GPS Navigation",
+    "Satellite communicators and locators",
+    "Satellite Communicator"
+  ],
+  "description": "Stay conected even without cell reception. Pair your phone via Bluetooth to this communicator to send texts, emails, GPS info or SOS messages. Each communicator gets its own email and phone number (for texts), so your friends and family can reach you, no special app needed. With the Iridium satellite network, this communicator can send and receive messages anywhere on earth (subscription required).Iridium\u2019s constellation of 66 satellites covers earth's entire surface.Smart notifications (emails, texts, alerts, etc.) via Bluetooth connection.Check-in button lets 2 pre-determined contacts know where you are.Free Zoleo app pairs with phone or tablet for messaging, weather forecasts, location sharing, check-ins and SOS triggering.SOS messaging calls rescuers to your exact GPS location, allows texting with the rescue team.GEOS worldwide emergency response center with 24/7/365 staffing receives SOS messages.Trigger SOS messages from phone or device, SOS button has a hard-plastic cover to prevent accidental activation (if activated accidentally, they can be canceled in the app).Cycles between satellite, cellular and WiFi communication, choosing the most affordable option.3 monthly subscription plans available with basic: 25 messages (additional messages are charged) to an unlimited subscription  plan. After the first 3 months plans can be suspended.IP68 dust and waterproofing protection.LED alert lights for power, SOS, check-in and messages.USB charging.200+ hours of battery life on a single charge (checking messages every 12 minutes).Integrated carry clip.In the box: Zoleo satellite communicator, carabiner, USB cable and documentation.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151998656542/6013634-GRY04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151998656542/6013634-GRY04.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151998656542/6013634-GRY04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9151998656542/6013634-GRY04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Zoleo Satellite Communicator",
+  "product_code": "6013-634",
+  "source_url": "https://www.mec.ca/en/product/6013-634/Satellite-Communicator",
+  "tech_specs": {
+    "Ability to test\n\nAllows you to test the unit.": [
+      "No"
+    ],
+    "Barometric altimeter\n\nBarometer function helps forecast weather trends. An altimeter can provide one line of position for location on a topo map, useful if the GPS isn't working.": [
+      "No"
+    ],
+    "Basemap\n\nA basic set of map data that is included with the GPS. Basemap detail may vary from unit to unit.": [
+      "No"
+    ],
+    "Batteries": [
+      "Rechargeable battery pack (non-removable)"
+    ],
+    "Battery life (operating)": [
+      "200\u00a0h"
+    ],
+    "Check-in feature\n\nAllows you to send a 'check-in' message to let people know you are safe.": [
+      "Yes"
+    ],
+    "Delivery confirmation\n\nLets you know that your message was received.": [
+      "Yes"
+    ],
+    "Dimensions": [
+      "9.1\u00a0x\u00a06.6\u00a0x\u00a02.7cm"
+    ],
+    "Electronic compass\n\nAn electronic compass allows the user to view their heading in situations where they are either standing still or moving too slowly for the GPS to detect.": [
+      "No"
+    ],
+    "Floats": [
+      "No"
+    ],
+    "GPS data sent in SOS\n\nGPS coordinates are sent in each SOS message.": [
+      "Yes"
+    ],
+    "IPX rating\n\nIndicates the degree of protection against liquid. IP X1: Dripping water while in normal operating orientation; IP X4: Splashing water; IP X5: Water jets; IP X6: Powerful water jets; IP X7: Immersion up to 1m \u2264 30 minutes; IP X8: Suitable for submersion as specified by manufacturer.": [
+      "IP X8"
+    ],
+    "Ideal for": [
+      "Emergency preparedness",
+      "Backpacking",
+      "Winter and expedition camping"
+    ],
+    "Lanyard attachment": [
+      "Yes"
+    ],
+    "Made in": [
+      "Malaysia"
+    ],
+    "Operating temperature": [
+      "-20-55\u00b0C"
+    ],
+    "Product sustainability": [
+      "Rechargeable batteries"
+    ],
+    "Replaceable batteries": [
+      "No"
+    ],
+    "Satellite network used": [
+      "Iridium"
+    ],
+    "Storage temperature": [
+      "-20-60\u00b0C"
+    ],
+    "Weight": [
+      "150g"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing training gear",
+    "Wood Rock Rings"
+  ],
+  "description": "Similar to the classic Rock Rings, but made with wood for more skin-friendly training. Hang them anywhere to work on your pull-ups, lock-offs or dead hangs. Each Wood Rock Ring includes a jug on top, a large edge, and a small edge.Made of fine-grain wood that doesn't shred your skin.Designed to allow rotation of joints to prevent injury.3 different sized edges work for all ability levels.4 screws included for mounting.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064723415070/6007929-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064723415070/6007929-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Metolius Wood Rock Rings",
+  "product_code": "6007-929",
+  "source_url": "https://www.mec.ca/en/product/6007-929/Wood-Rock-Rings",
+  "tech_specs": {
+    "Dimensions": [
+      "15.2\u00a0x\u00a010.2cm"
+    ],
+    "Hold size": [
+      "Mixed"
+    ],
+    "Ideal for": [
+      "Climbing training"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Wood"
+    ],
+    "Mounting hardware": [
+      "Not included"
+    ]
+  }
+}

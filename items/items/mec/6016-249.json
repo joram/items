@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Active-T"
+  ],
+  "description": "Workout or hang out, you'll appreciate the comfort and wicking properties of this tee.Soft cotton and Modal with a hind of stretch.Antibacterial treatment resists odour buildup.Anatomical flat seams for unrestricted movement.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193336438814/6016249-LML00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193351282718/6016249-LML00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193351086110/6016249-DRK77-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350889502/6016249-BK000-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193336307742/6016249-DRK77.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193336078366/6016249-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193336438814/6016249-LML00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193351282718/6016249-LML00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193351086110/6016249-DRK77-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350889502/6016249-BK000-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193336307742/6016249-DRK77.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193336078366/6016249-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193336438814/6016249-LML00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193351282718/6016249-LML00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193351086110/6016249-DRK77-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350889502/6016249-BK000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193336307742/6016249-DRK77.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193336078366/6016249-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193336438814/6016249-LML00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193351282718/6016249-LML00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193351086110/6016249-DRK77-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350889502/6016249-BK000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193336307742/6016249-DRK77.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193336078366/6016249-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "On Active-T - Men's",
+  "product_code": "6016-249",
+  "source_url": "https://www.mec.ca/en/product/6016-249/Active-T",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Antimicrobial treatment"
+    ],
+    "Fabric content": [
+      "55% cotton",
+      "37% Modal",
+      "8% elastane"
+    ],
+    "Ideal for": [
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Vietnam"
+    ]
+  }
+}

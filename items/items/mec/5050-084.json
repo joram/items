@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Thai Phrasebook 8th Edition"
+  ],
+  "description": "Communicate with the locals in Thailand. Includes a comprehensive reference dictionary, key words and phrases for travellers and an easy-to-use pronounciation guide.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815698247710/5050084-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815698444318/5050084-NOC02-ALT-SPREAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815698247710/5050084-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815698444318/5050084-NOC02-ALT-SPREAD.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815698247710/5050084-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815698444318/5050084-NOC02-ALT-SPREAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815698247710/5050084-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815698444318/5050084-NOC02-ALT-SPREAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Lonely Planet Thai Phrasebook 8th Edition",
+  "product_code": "5050-084",
+  "source_url": "https://www.mec.ca/en/product/5050-084/Thai-Phrasebook-8th-Edition",
+  "tech_specs": {
+    "Edition": [
+      "8th"
+    ],
+    "ISBN": [
+      "9781743214527"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pages": [
+      "256"
+    ],
+    "Published": [
+      "2015"
+    ],
+    "Regionality": [
+      "Asia"
+    ]
+  }
+}

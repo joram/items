@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child footwear",
+    "Toddler and child socks",
+    "Toddler and child hiking socks",
+    "Coolmesh II Quarter Socks"
+  ],
+  "description": "These double layer socks reduce friction and prevent blisters. The inner layer pulls moisture away from the skin, while the outer layer allows maximum airflow.Both layers are Dri-Wright II polyester, nylon and LYCRA\u00ae.Mesh panels provide air flow to keep your feet cool.Stabilizer zone in arches locks socks in place.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046518005790/6004501-LGY20.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046518005790/6004501-LGY20.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "WrightSock Coolmesh II Quarter Socks - Children",
+  "product_code": "6004-501",
+  "source_url": "https://www.mec.ca/en/product/6004-501/Coolmesh-II-Quarter-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Quarter"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "71% polyester",
+      "24% nylon",
+      "5% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

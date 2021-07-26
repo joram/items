@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Mountaineering axes",
+    "Corsa Alpine Ice Axe"
+  ],
+  "description": "Light and strong, this axe is suited for classic alpine or skimo adventures. The Corsa Alpine blends the ultralight shaft of the original Corsa axe, with a more durable steel pick for greater durability.Durable pick is made from chromoly steel for use in technical terrain.Hollow aluminum shaft is incredibly lightweight.Pick tapers to 3mm for better penetration.Head slot acceps a leash.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143676895262/6010905-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143676895262/6010905-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Corsa Alpine Ice Axe",
+  "product_code": "6010-905",
+  "source_url": "https://www.mec.ca/en/product/6010-905/Corsa-Alpine-Ice-Axe",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Adze"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Ski mountaineering"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "55cm (55 cm)",
+      "65cm (65 cm)",
+      "45cm (45cm)"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Removable pick": [
+      "No"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "B-rated"
+    ],
+    "Weight": [
+      "265g (55 cm)",
+      "290g (65 cm)",
+      "240g (45cm)"
+    ]
+  }
+}

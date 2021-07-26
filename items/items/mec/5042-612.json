@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Paddleboarding",
+    "Paddleboard accessories",
+    "Leashes and attachments",
+    "SUP Ankle Leash Coiled"
+  ],
+  "description": "A coiled leash for keeping your board close.Memory formed 7mm diameter coil.Stainless steel double swivel.Velcro\u00ae ankle closure with neoprene padding.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818067406878/5042612-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818067046430/5042612-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818067406878/5042612-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818067046430/5042612-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818067406878/5042612-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818067046430/5042612-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818067406878/5042612-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818067046430/5042612-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six SUP Ankle Leash Coiled",
+  "product_code": "5042-612",
+  "source_url": "https://www.mec.ca/en/product/5042-612/SUP-Ankle-Leash-Coiled",
+  "tech_specs": {
+    "Ideal for": [
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Road maps and atlases",
+    "Thompson Okanagan BC"
+  ],
+  "description": "A comprehensive outdoor recreation resource for the Thompson Okanagan region of BC. Includes detailed maps of backroad networks and trail systems, along with information on paddling routes, winter recreation, and camping. Covers areas and parks around Ashcroft, Cache Creek, Clearwater, Grand Forks, Kamloops, Kelowna, McBride, Merritt, Osoyoos, Penticton, Princeton, Salmon Arm, Tulameen, Valemount, Vernon, and more.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058513584158/6006611-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528002078/6006611-NOC02-ALT-1CONTENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528165918/6006611-NOC02-ALT-2ACKNOWLEDGEMENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528231454/6006611-NOC02-ALT-3INTRODUCTION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528198686/6006611-NOC02-ALT-4GUIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528264222/6006611-NOC02-ALT-5CENTERS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528329758/6006611-NOC02-ALT-6NAVIGATING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528296990/6006611-NOC02-ALT-7LEGEND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528362526/6006611-NOC02-ALT-8TOPOMAPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528395294/6006611-NOC02-ALT-9SAMPLEMAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528428062/6006611-NOC02-ALT-10SAMPLEMAP2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528526366/6006611-NOC02-ALT-11HUNTING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528559134/6006611-NOC02-ALT-12OKANAGAN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528591902/6006611-NOC02-ALT-13KELOWNA.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528624670/6006611-NOC02-ALT-14INDEX.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058513584158/6006611-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528002078/6006611-NOC02-ALT-1CONTENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528165918/6006611-NOC02-ALT-2ACKNOWLEDGEMENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528231454/6006611-NOC02-ALT-3INTRODUCTION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528198686/6006611-NOC02-ALT-4GUIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528264222/6006611-NOC02-ALT-5CENTERS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528329758/6006611-NOC02-ALT-6NAVIGATING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528296990/6006611-NOC02-ALT-7LEGEND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528362526/6006611-NOC02-ALT-8TOPOMAPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528395294/6006611-NOC02-ALT-9SAMPLEMAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528428062/6006611-NOC02-ALT-10SAMPLEMAP2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528526366/6006611-NOC02-ALT-11HUNTING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528559134/6006611-NOC02-ALT-12OKANAGAN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528591902/6006611-NOC02-ALT-13KELOWNA.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528624670/6006611-NOC02-ALT-14INDEX.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058513584158/6006611-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528002078/6006611-NOC02-ALT-1CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528165918/6006611-NOC02-ALT-2ACKNOWLEDGEMENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528231454/6006611-NOC02-ALT-3INTRODUCTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528198686/6006611-NOC02-ALT-4GUIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528264222/6006611-NOC02-ALT-5CENTERS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528329758/6006611-NOC02-ALT-6NAVIGATING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528296990/6006611-NOC02-ALT-7LEGEND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528362526/6006611-NOC02-ALT-8TOPOMAPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528395294/6006611-NOC02-ALT-9SAMPLEMAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528428062/6006611-NOC02-ALT-10SAMPLEMAP2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528526366/6006611-NOC02-ALT-11HUNTING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528559134/6006611-NOC02-ALT-12OKANAGAN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528591902/6006611-NOC02-ALT-13KELOWNA.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528624670/6006611-NOC02-ALT-14INDEX.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058513584158/6006611-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528002078/6006611-NOC02-ALT-1CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528165918/6006611-NOC02-ALT-2ACKNOWLEDGEMENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528231454/6006611-NOC02-ALT-3INTRODUCTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528198686/6006611-NOC02-ALT-4GUIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528264222/6006611-NOC02-ALT-5CENTERS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528329758/6006611-NOC02-ALT-6NAVIGATING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528296990/6006611-NOC02-ALT-7LEGEND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528362526/6006611-NOC02-ALT-8TOPOMAPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528395294/6006611-NOC02-ALT-9SAMPLEMAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528428062/6006611-NOC02-ALT-10SAMPLEMAP2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528526366/6006611-NOC02-ALT-11HUNTING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528559134/6006611-NOC02-ALT-12OKANAGAN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528591902/6006611-NOC02-ALT-13KELOWNA.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058528624670/6006611-NOC02-ALT-14INDEX.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backroad Mapbooks Thompson Okanagan BC",
+  "product_code": "6006-611",
+  "source_url": "https://www.mec.ca/en/product/6006-611/Thompson-Okanagan-BC",
+  "tech_specs": {
+    "Edition": [
+      "5th"
+    ],
+    "ISBN": [
+      "9781926806969"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Canoeing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "256"
+    ],
+    "Published": [
+      "2019"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

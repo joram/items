@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bottle cages and water bottles",
+    "Bottle cages",
+    "Sideload Bottle Cage"
+  ],
+  "description": "Excellent on a small bike frame where top loading is awkward, a side loading bottle cage requires much less space to remove and replace.Made of cold-forged aluminum.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806379388958/5044600-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806379388958/5044600-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike Sideload Bottle Cage",
+  "product_code": "5044-600",
+  "source_url": "https://www.mec.ca/en/product/5044-600/Sideload-Bottle-Cage",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Aluminum"
+    ],
+    "Mount": [
+      "Hardware"
+    ],
+    "Weight": [
+      "41g"
+    ]
+  }
+}

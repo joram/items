@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "109 Walks in British Columbia's Lower Mainlan"
+  ],
+  "description": "A fully updated edition of the Lower Mainland's bestselling walking guidebook, featuring a wider range of trails than ever before, as well as updated directions with GPS coordinates for easier route-finding. Since its first edition in 1976, 109 Walks has guided more than 100,000 locals and visitors alike to the best viewpoints, urban forests, and coastal headlands of British Columbia's stunning Lower Mainland. This latest edition features more than twenty completely new trails, including more options in the Sea-to-Sky Corridor, Surrey and the Fraser Valley, as well as options under 3 hours.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9033560686622/6002445-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9033560686622/6002445-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "109 Walks in British Columbia's Lower Mainland",
+  "product_code": "6002-445",
+  "source_url": "https://www.mec.ca/en/product/6002-445/109-Walks-in-British-Columbia%27s-Lower-Mainlan",
+  "tech_specs": {
+    "Author": [
+      "John Halliday, Alice Purdy"
+    ],
+    "Edition": [
+      "8th"
+    ],
+    "ISBN": [
+      "9781771644310"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "256"
+    ],
+    "Published": [
+      "2019"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

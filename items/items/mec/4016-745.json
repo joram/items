@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Alpine Select Guide"
+  ],
+  "description": "This guide presents a collection of 158 of the best, the most popular, and the most difficult alpine climbs in southwest British Columbia and northern Washington. Climbs include fourth class and fifth class routes, little-known gems, unpublished quality routes, summer season climbs, and some of the best link-ups in the area. Each one is graded with a rating to illustrate the relative difficulty and degree of engagement required. Routes cover a wide spectrum of alpine experience, though approaches are straightforward and have minimal bushwacking, and all are within weekend striking range of Vancouver.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815583559710/4016745-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815583559710/4016745-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Alpine Select Guide",
+  "product_code": "4016-745",
+  "source_url": "https://www.mec.ca/en/product/4016-745/Alpine-Select-Guide",
+  "tech_specs": {
+    "Author": [
+      "Kevin Mclane"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9780968247273"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "360"
+    ],
+    "Published": [
+      "2001"
+    ],
+    "Regionality": [
+      "British Columbia",
+      "USA"
+    ]
+  }
+}

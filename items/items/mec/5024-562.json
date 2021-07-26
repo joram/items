@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Bent gate carabiners",
+    "Pure Bent Gate Carabiner"
+  ],
+  "description": "A sturdy, all around design with a bent gate and keylock closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8975748792350/5024562-OAS00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8975748792350/5024562-OAS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Edelrid Pure Bent Gate Carabiner",
+  "product_code": "5024-562",
+  "source_url": "https://www.mec.ca/en/product/5024-562/Pure-Bent-Gate-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2cm"
+    ],
+    "Gate type": [
+      "Bent"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "23kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "8kN"
+    ],
+    "Weight": [
+      "39g"
+    ]
+  }
+}

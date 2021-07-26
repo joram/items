@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Mountaineering axes",
+    "Corsa Nanotech Ice Axe"
+  ],
+  "description": "Head into the alpine with confidence. This innovative hybrid axe design uses steel attachments on the pick and spike to increase the strength and durability or these points without significantly increasing the weight. Great for alpine or mountaineering routes where you're likely to encounter ice or hard snow.Pick is aluminum with a Sandvik Nanoflex\u00ae steel tip.Hollow aluminum shaft is incredibly lightweight.Aggressive Sandvik Nanoflex\u00ae steel spike design plunges and anchors well.Head slot acceps a leash.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143677419550/6010907-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143677419550/6010907-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Corsa Nanotech Ice Axe",
+  "product_code": "6010-907",
+  "source_url": "https://www.mec.ca/en/product/6010-907/Corsa-Nanotech-Ice-Axe",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Adze"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Ski mountaineering"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "60cm (60cm)",
+      "70cm (70cm)",
+      "50cm (50cm)"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Removable pick": [
+      "No"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "B-rated"
+    ],
+    "Weight": [
+      "253g (60cm)",
+      "284g (70cm)",
+      "225g (50cm)"
+    ]
+  }
+}

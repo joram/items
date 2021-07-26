@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Uppers and downers",
+    "Belay devices",
+    "ATC Belay Device"
+  ],
+  "description": "The Air Traffic Controller (or ATC) has a cone shape that encourages non-jamming rope feeding. Particular attention has been paid to the slots, which are designed with an elliptical shape similar to a bight of rope. The dynamic braking quality, which allows rope to slip through the device, is important in limiting forces on the belay chain. The walls are somewhat less thick on the ATC and, as with other devices, will wear thinner over time.For twin, half, or single rope belay and rappel.Integral rigid keeper wire won\u2019t get sucked into slots.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807224147998/4000218-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807224147998/4000218-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond ATC Belay Device",
+  "product_code": "4000-218",
+  "source_url": "https://www.mec.ca/en/product/4000-218/ATC-Belay-Device",
+  "tech_specs": {
+    "Belay off anchor\n\nUse an autoblock device with a locking carabiner to belay off the anchor or to bring up two seconds on independent lines.": [
+      "No"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Rope diameter\n\nThe maximum diameter or the range of rope diameter that is compatible with the device.": [
+      "7.7 - 11mm"
+    ],
+    "Type": [
+      "Tubular"
+    ],
+    "Weight": [
+      "55g"
+    ]
+  }
+}

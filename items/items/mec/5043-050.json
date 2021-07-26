@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Cooking utensils and cutting boards",
+    "Cooking utensils and food prep",
+    "Nylon Utensil Set"
+  ],
+  "description": "Scrape the bottom of the pot without scratching your nice coated cookware.Includes 1 slotted spoon, 1 spoon, 1 spatulaMade of dishwasher safe nylon.Heat resistant to 210\u00b0C.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812596658206/5043050-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812596658206/5043050-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Nylon Utensil Set",
+  "product_code": "5043-050",
+  "source_url": "https://www.mec.ca/en/product/5043-050/Nylon-Utensil-Set",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Heat resistant": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Nylon"
+    ],
+    "Weight": [
+      "98g"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Headlamps and lighting",
+    "Lanterns",
+    "Electric and LED lanterns",
+    "Moji LED Lantern"
+  ],
+  "description": "Add it to the picnic table as a little basket of light. The Moji\u2019s frosted globe delivers a serene, even glow. A dimmer switch lets you set the level of brightness, and it's small enough to fit in your pocket.LED is enclosed in a frosted globe to provide bright, ambient light.Collapsible, double-hook for hanging in the tent or car.Dimmer switch controls light levels.Take 3 AAA batteries (not included).Protected against water to IPX 4 (splashes).Dimensions are 7 x 5.8cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8892962603038/5039036-ORG13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813189759006/5039036-GRA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950585622558/5039036-BRY31.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8892962603038/5039036-ORG13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813189759006/5039036-GRA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950585622558/5039036-BRY31.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8892962603038/5039036-ORG13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813189759006/5039036-GRA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950585622558/5039036-BRY31.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8892962603038/5039036-ORG13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813189759006/5039036-GRA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950585622558/5039036-BRY31.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Moji LED Lantern",
+  "product_code": "5039-036",
+  "source_url": "https://www.mec.ca/en/product/5039-036/Moji-LED-Lantern",
+  "tech_specs": {
+    "Batteries": [
+      "3 AAA (not included)"
+    ],
+    "Burn time": [
+      "4-70\u00a0h"
+    ],
+    "Glass globe": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Emergency preparedness",
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Max light output\n\nThe total quantity of light emitted in every direction from a source of light; measured in lumens.": [
+      "100\u00a0lumens"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Non-rechargeable"
+    ],
+    "Red light mode": [
+      "No"
+    ],
+    "Regulated output\n\nOn regulated lights brightness is consistent, and does not decrease gradually as the batteries are drained.": [
+      "Yes"
+    ],
+    "Uses mantels": [
+      "No"
+    ],
+    "Weight": [
+      "119g"
+    ]
+  }
+}

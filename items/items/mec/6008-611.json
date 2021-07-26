@@ -1,0 +1,83 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Rashguards and sunguards",
+    "Hydroskin 0.5mm Long Sleeve Shirt"
+  ],
+  "description": "Be the last one out of the water. This long-sleeved pullover is stretchy and adds a little bit of insulation so you can stay in the water a little longer.Terreprene is non-allergenic and neoprene-free, made of limestone and recycled rubber tires.4-way stretch Terreprene is 0.5mm thick on the torso and arms, with spandex underarm panels.Body-mapped design allows comfortable range of motion.Titanium layer reflects heat back to your body so you stay warmer.ThermalPlush lining is warm and comfortable next to skin.Soft neckline reduces chaffing.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191100547102/6008611-MCB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191104118814/6008611-MCB00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191104151582/6008611-MCB00-ALT-PERSON.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190754846/6008611-MAB13-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190951454/6008611-MAB13-ALT-FLATBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190918686/6008611-MAB13-ALT-FLATFRONTANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190984222/6008611-MAB13-ALT-FLATFRONTANGLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096192000030/6008611-MAB13-ALT-HEMS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191103692830/6008611-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191103823902/6008611-BK000-ALT-PERSON.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096155136030/6008611-MAB13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191100448798/6008611-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191100547102/6008611-MCB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191104118814/6008611-MCB00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191104151582/6008611-MCB00-ALT-PERSON.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190754846/6008611-MAB13-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190951454/6008611-MAB13-ALT-FLATBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190918686/6008611-MAB13-ALT-FLATFRONTANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190984222/6008611-MAB13-ALT-FLATFRONTANGLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096192000030/6008611-MAB13-ALT-HEMS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191103692830/6008611-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191103823902/6008611-BK000-ALT-PERSON.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096155136030/6008611-MAB13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191100448798/6008611-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191100547102/6008611-MCB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191104118814/6008611-MCB00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191104151582/6008611-MCB00-ALT-PERSON.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190754846/6008611-MAB13-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190951454/6008611-MAB13-ALT-FLATBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190918686/6008611-MAB13-ALT-FLATFRONTANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190984222/6008611-MAB13-ALT-FLATFRONTANGLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096192000030/6008611-MAB13-ALT-HEMS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191103692830/6008611-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191103823902/6008611-BK000-ALT-PERSON.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096155136030/6008611-MAB13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191100448798/6008611-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191100547102/6008611-MCB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191104118814/6008611-MCB00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191104151582/6008611-MCB00-ALT-PERSON.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190754846/6008611-MAB13-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190951454/6008611-MAB13-ALT-FLATBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190918686/6008611-MAB13-ALT-FLATFRONTANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096190984222/6008611-MAB13-ALT-FLATFRONTANGLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096192000030/6008611-MAB13-ALT-HEMS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191103692830/6008611-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191103823902/6008611-BK000-ALT-PERSON.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096155136030/6008611-MAB13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191100448798/6008611-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "NRS Hydroskin 0.5mm Long Sleeve Shirt - Men's",
+  "product_code": "6008-611",
+  "source_url": "https://www.mec.ca/en/product/6008-611/Hydroskin-0-5mm-Long-Sleeve-Shirt",
+  "tech_specs": {
+    "Face fabric": [
+      "0.5 mm neoprene"
+    ],
+    "Ideal for": [
+      "Paddleboarding",
+      "Surfing"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

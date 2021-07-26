@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Tanks and sleeveless shirts",
+    "Pounce Jumpsuit"
+  ],
+  "description": "Easy to throw on and comfortable, for any day of the week.Soft and breathable fabric has 4-way stretch for unrestricted movement.Drawcord waistband lets you cinch the perfect fit.Front slit pockets store essentials.Relaxed fit wears like an old fave.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197185892382/6016373-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198862893086/6016373-BK000-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198862794782/6016373-BK000-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198862925854/6016373-BK000-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198863024158/6016373-BK000-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198863187998/6016373-BK000-ALT-E.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197185892382/6016373-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198862893086/6016373-BK000-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198862794782/6016373-BK000-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198862925854/6016373-BK000-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198863024158/6016373-BK000-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198863187998/6016373-BK000-ALT-E.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197185892382/6016373-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198862893086/6016373-BK000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198862794782/6016373-BK000-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198862925854/6016373-BK000-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198863024158/6016373-BK000-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198863187998/6016373-BK000-ALT-E.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197185892382/6016373-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198862893086/6016373-BK000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198862794782/6016373-BK000-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198862925854/6016373-BK000-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198863024158/6016373-BK000-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198863187998/6016373-BK000-ALT-E.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MPG Pounce Jumpsuit - Women's",
+  "product_code": "6016-373",
+  "source_url": "https://www.mec.ca/en/product/6016-373/Pounce-Jumpsuit",
+  "tech_specs": {
+    "Fabric content": [
+      "82% recycled polyester",
+      "18% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Length": [
+      "Ankle-length"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 front"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

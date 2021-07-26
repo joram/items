@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Coffee makers and kettles",
+    "Drip and pour-over coffee makers",
+    "Coffee Press Grande - Silicone"
+  ],
+  "description": "Turn your Jetboil Sumo or MiniMo cup into a French press and make coffee for the whole crew.Silicone ring provides a seal to prevent grounds from escaping when plunged.Stem detaches from basket for storage.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160498380830/6009104-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160747548702/6009104-NOC02-ALT-1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160748367902/6009104-NOC02-ALT-PACKAGING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160498380830/6009104-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160747548702/6009104-NOC02-ALT-1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160748367902/6009104-NOC02-ALT-PACKAGING.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160498380830/6009104-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160747548702/6009104-NOC02-ALT-1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160748367902/6009104-NOC02-ALT-PACKAGING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160498380830/6009104-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160747548702/6009104-NOC02-ALT-1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160748367902/6009104-NOC02-ALT-PACKAGING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Jetboil Coffee Press Grande - Silicone",
+  "product_code": "6009-104",
+  "source_url": "https://www.mec.ca/en/product/6009-104/Coffee-Press-Grande---Silicone",
+  "tech_specs": {
+    "Dimensions": [
+      "11.5\u00a0x\u00a018.5cm"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Plastic",
+      "Stainless steel",
+      "Silicone"
+    ],
+    "Weight": [
+      "42g"
+    ]
+  }
+}

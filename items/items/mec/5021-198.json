@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Uppers and downers",
+    "Pulleys",
+    "Mini Prusik Minding Pulley"
+  ],
+  "description": "A pulley for self-rescue or hauling big loads. The light, flat profile and compact size mean it can go anywhere, and it has an impressive breaking strength and working load. The model has been updated with thinner side plates that fit tighter over the sheave, making it more efficient. The weight-reducing holes have been eliminated, which helps keep debris out of the system.Aluminum side plates and sheave.Sheave is mounted on sealed ball-bearings for excellent efficiency.Side plates are designed for use with a prusik hitch.For ropes 7-11mm.Breaking strength rated to 23kN.CE and UIAA approved.Not intended for organized rescues.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807210975262/5021198-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807210975262/5021198-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Mini Prusik Minding Pulley",
+  "product_code": "5021-198",
+  "source_url": "https://www.mec.ca/en/product/5021-198/Mini-Prusik-Minding-Pulley",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Trad and aid climbing"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Rope diameter\n\nThe maximum diameter or the range of rope diameter that is compatible with the device.": [
+      "7 - 11mm"
+    ],
+    "Sheave material": [
+      "Aluminum"
+    ],
+    "Side plates material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "23kN"
+    ],
+    "Weight": [
+      "80g"
+    ]
+  }
+}

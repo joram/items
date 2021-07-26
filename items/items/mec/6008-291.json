@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Showers, soap & travel toothbrushes",
+    "Helio LX Pressure Shower"
+  ],
+  "description": "Shower, rinse off salt water, clean a dirty bike, hose down the dishes, or wash the dog. The Helio LX has double the capacity of the original, and produces up to 20% more water pressure. Unlike most outdoor showers, it sits on the ground, so you don't need to find a place to hang it.3.05m hose with a spray nozzle.22L reservoir provides enough water for a 7-10 minute shower.Foot pump to maintain water pressure.Includes ventilated carrying case.Durable polyurethane-coated polyester reservoir.Dimensions: 58 x 26cm, 16 x 26cm when packed.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089850212382/6008291-BAP01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660401182/6008291-BAP01-ALT-HANDLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660466718/6008291-BAP01-ALT-HANDLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660499486/6008291-BAP01-ALT-HOSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660630558/6008291-BAP01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660597790/6008291-BAP01-ALT-PUMP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660892702/6008291-BAP01-ALT-WASH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089850212382/6008291-BAP01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660401182/6008291-BAP01-ALT-HANDLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660466718/6008291-BAP01-ALT-HANDLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660499486/6008291-BAP01-ALT-HOSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660630558/6008291-BAP01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660597790/6008291-BAP01-ALT-PUMP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660892702/6008291-BAP01-ALT-WASH.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089850212382/6008291-BAP01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660401182/6008291-BAP01-ALT-HANDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660466718/6008291-BAP01-ALT-HANDLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660499486/6008291-BAP01-ALT-HOSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660630558/6008291-BAP01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660597790/6008291-BAP01-ALT-PUMP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660892702/6008291-BAP01-ALT-WASH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089850212382/6008291-BAP01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660401182/6008291-BAP01-ALT-HANDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660466718/6008291-BAP01-ALT-HANDLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660499486/6008291-BAP01-ALT-HOSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660630558/6008291-BAP01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660597790/6008291-BAP01-ALT-PUMP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090660892702/6008291-BAP01-ALT-WASH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nemo Helio LX Pressure Shower",
+  "product_code": "6008-291",
+  "source_url": "https://www.mec.ca/en/product/6008-291/Helio-LX-Pressure-Shower",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping",
+      "Beach",
+      "Backpacking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Volume": [
+      "22L"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Killarney Camping Map"
+  ],
+  "description": "Plan and execute your canoe trip to Killarney Provincial Park with this thoughtfully designed map. Two-sided design lets you plot route options on the planning side of the map using whiteboard markers and a quick reference itinerary chart. The map even comes with route suggestions for different experience levels. Flip over to the trip side of the map to use colour-coded routes for navigation. And don't stress if you get caught out late \u2013 the trip map uses glow-in-the-dusk ink!",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8967303331870/5061575-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968186691614/5061575-NOC02-ALT-TRIPFEATURES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968186855454/5061575-NOC02-ALT-TRIP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968187019294/5061575-NOC02-ALT-PLANFEATURES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968187117598/5061575-NOC02-ALT-PLAN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968187346974/5061575-NOC02-ALT-BACKCOVER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8967303331870/5061575-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968186691614/5061575-NOC02-ALT-TRIPFEATURES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968186855454/5061575-NOC02-ALT-TRIP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968187019294/5061575-NOC02-ALT-PLANFEATURES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968187117598/5061575-NOC02-ALT-PLAN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968187346974/5061575-NOC02-ALT-BACKCOVER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8967303331870/5061575-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968186691614/5061575-NOC02-ALT-TRIPFEATURES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968186855454/5061575-NOC02-ALT-TRIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968187019294/5061575-NOC02-ALT-PLANFEATURES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968187117598/5061575-NOC02-ALT-PLAN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968187346974/5061575-NOC02-ALT-BACKCOVER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8967303331870/5061575-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968186691614/5061575-NOC02-ALT-TRIPFEATURES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968186855454/5061575-NOC02-ALT-TRIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968187019294/5061575-NOC02-ALT-PLANFEATURES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968187117598/5061575-NOC02-ALT-PLAN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8968187346974/5061575-NOC02-ALT-BACKCOVER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Unlostify Killarney Camping Map",
+  "product_code": "5061-575",
+  "source_url": "https://www.mec.ca/en/product/5061-575/Killarney-Camping-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Canoeing",
+      "Kayak touring"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2018"
+    ],
+    "Regionality": [
+      "Ontario"
+    ],
+    "Scale": [
+      "1:62,500"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Road maps and atlases",
+    "Central Alberta"
+  ],
+  "description": "Highly detailed maps of the Central Alberta: east from the Rocky Mountain foothills to Saskatchewan, and between Olds in the south and Lac La Biche in the north. The guide highlights main roads, logging and exploration road networks, trail systems, parks, and recreation areas. Explorers will find the maps useful in finding new areas. Also covers activities such as paddling, winter recreation, hiking, biking, and wildlife watching.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034895917086/6002431-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441307678/6002431-NOC02-ALT-1INDEX.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441504286/6002431-NOC02-ALT-2INDUSTRY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441766430/6002431-NOC02-ALT-4SAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441799198/6002431-NOC02-ALT-3FISHING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441963038/6002431-NOC02-ALT-5SAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441995806/6002431-NOC02-ALT-6MAPKEY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035442192414/6002431-NOC02-ALT-8CONTENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035442454558/6002431-NOC02-ALT-7NAVIGATION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034895917086/6002431-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441307678/6002431-NOC02-ALT-1INDEX.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441504286/6002431-NOC02-ALT-2INDUSTRY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441766430/6002431-NOC02-ALT-4SAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441799198/6002431-NOC02-ALT-3FISHING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441963038/6002431-NOC02-ALT-5SAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441995806/6002431-NOC02-ALT-6MAPKEY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035442192414/6002431-NOC02-ALT-8CONTENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035442454558/6002431-NOC02-ALT-7NAVIGATION.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034895917086/6002431-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441307678/6002431-NOC02-ALT-1INDEX.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441504286/6002431-NOC02-ALT-2INDUSTRY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441766430/6002431-NOC02-ALT-4SAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441799198/6002431-NOC02-ALT-3FISHING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441963038/6002431-NOC02-ALT-5SAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441995806/6002431-NOC02-ALT-6MAPKEY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035442192414/6002431-NOC02-ALT-8CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035442454558/6002431-NOC02-ALT-7NAVIGATION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034895917086/6002431-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441307678/6002431-NOC02-ALT-1INDEX.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441504286/6002431-NOC02-ALT-2INDUSTRY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441766430/6002431-NOC02-ALT-4SAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441799198/6002431-NOC02-ALT-3FISHING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441963038/6002431-NOC02-ALT-5SAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035441995806/6002431-NOC02-ALT-6MAPKEY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035442192414/6002431-NOC02-ALT-8CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035442454558/6002431-NOC02-ALT-7NAVIGATION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backroad Mapbooks Central Alberta",
+  "product_code": "6002-431",
+  "source_url": "https://www.mec.ca/en/product/6002-431/Central-Alberta",
+  "tech_specs": {
+    "Edition": [
+      "5th"
+    ],
+    "ISBN": [
+      "9781926806907"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Day hiking",
+      "Car camping",
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "208"
+    ],
+    "Published": [
+      "2019"
+    ],
+    "Regionality": [
+      "Prairies",
+      "Rockies"
+    ]
+  }
+}

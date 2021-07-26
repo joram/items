@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Headlamps and lighting",
+    "Bulbs and accessories",
+    "Accu Nao+ Lithium-Ion Rechargeable Battery"
+  ],
+  "description": "A rechargeable lithium-ion battery for Petzl\u00ae Nao + headlamps. Pick one up as a replacement, or as a spare for quick change-outs.Plug into any USB port and 5 hours later the battery is charged.Power and charge level indicator.Lithium-ion chemistry offers reduced weight, and better performance at low temperatures.Integrated electronic protection circuit prevents overcharging or complete depletion.IPX4 water proofing means the power keeps flowing rain to shine.2,600mAh capacity.Lasts for approximately 300 charges.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8876834422814/5047692-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8876834422814/5047692-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Accu Nao+ Lithium-Ion Rechargeable Battery",
+  "product_code": "5047-692",
+  "source_url": "https://www.mec.ca/en/product/5047-692/Accu-Nao%2B-Lithium-Ion-Rechargeable-Battery",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

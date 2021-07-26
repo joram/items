@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Emergency and survival gear",
+    "Rescue tools",
+    "Pen Launcher"
+  ],
+  "description": "This pen-sized launcher can fire flares or noise-making bear bangers.For15mm centre-fire cartridges only, not compatible with rim-fire cartridges.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810022502430/4007143-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810022502430/4007143-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Tru Flare Pen Launcher",
+  "product_code": "4007-143",
+  "source_url": "https://www.mec.ca/en/product/4007-143/Pen-Launcher",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayak touring",
+      "Canoe tripping",
+      "Alpine climbing and mountaineering",
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Bulgaria"
+    ],
+    "Weight": [
+      "37g"
+    ]
+  }
+}

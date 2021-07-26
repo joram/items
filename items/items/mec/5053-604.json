@@ -1,0 +1,90 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Coconut Thai Soup"
+  ],
+  "description": "Loaded with rice noodles and chicken this coconut based Thai curry soup is warming, aromatic, and delicious.Ingredients: rice noodles, chicken broth powder (glucose solids, yeast extract, chicken meat, hydrolyzed soy protein, corn flour, sea salt, chicken fat, potato starch, onion powder, spices), textured soy proteins, coconut milk powder (dried coconut milk, tapioca maltodextrin, sodium caseinate), toasted slivered almonds, skimmed milk powder, toasted sesame seeds, dehydrated vegetables (carrot, potato, onion, celery, leek, red and green bell peppers),corn starch, spices, dried lemon zest, citric acid.May contain: nut, peanuts, egg, fish, sea food, mustard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042304696350/5053604-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042304696350/5053604-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Coconut Thai Soup",
+  "product_code": "5053-604",
+  "source_url": "https://www.mec.ca/en/product/5053-604/Coconut-Thai-Soup",
+  "tech_specs": {
+    "Calories per serving": [
+      "190Cal"
+    ],
+    "Carbohydrates": [
+      "24g"
+    ],
+    "Cholesterol": [
+      "5mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "3g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "9g"
+    ],
+    "Saturated fat": [
+      "3g"
+    ],
+    "Serving size": [
+      "1/2 package"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "410mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "4g"
+    ],
+    "Total fat": [
+      "7g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ],
+    "Weight": [
+      "90g"
+    ]
+  }
+}

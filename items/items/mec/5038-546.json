@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Campout! The Ultimate Kids' Guide"
+  ],
+  "description": "Did you know you can tell the temperature by counting cricket chirps? This kids\u2019 guide to the outdoors is packed with neat outdoor facts, activities, experiments, and games. Whether you\u2019re planning an overnight in the backyard or a weekend camping in the wilderness, bring this book to get kids interested in the trees, animals, insects, and night sky around them. Also has tasty recipes for meals like solar oven pizza and 8 types of s\u2019mores.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815759884318/5038546-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815759884318/5038546-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Campout! The Ultimate Kids' Guide",
+  "product_code": "5038-546",
+  "source_url": "https://www.mec.ca/en/product/5038-546/Campout%21-The-Ultimate-Kids%27-Guide",
+  "tech_specs": {
+    "Author": [
+      "Lynn Brunelle"
+    ],
+    "ISBN": [
+      "9780761141228"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Illustrator": [
+      "Brian Biggs, Elara Tanguy"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "376"
+    ],
+    "Published": [
+      "2007"
+    ]
+  }
+}

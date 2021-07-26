@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Towels",
+    "Original Towel"
+  ],
+  "description": "The original PackTowl, it uses heavier material that gets softer with every wash. With a convenient snap closed hang loop, and a mesh bag, it is easy to dry, hang, and take travelling.Absorbs 10x its own weight in water.Made from a compostable material.Includes a mesh storage bag.Snap loop makes it easy to hang dry.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879415492638/5055126-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881067917342/5055126-BL000-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879415492638/5055126-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881067917342/5055126-BL000-ALT-PACKED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879415492638/5055126-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881067917342/5055126-BL000-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879415492638/5055126-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881067917342/5055126-BL000-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "PackTowl Original Towel",
+  "product_code": "5055-126",
+  "source_url": "https://www.mec.ca/en/product/5055-126/Original-Towel",
+  "tech_specs": {
+    "Fabric content": [
+      "90% rayon",
+      "10% polypropylene"
+    ],
+    "Hang loop": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Travel",
+      "Backpacking"
+    ],
+    "Length": [
+      "35cm (Small)",
+      "56cm (Medium)",
+      "92cm (Large)",
+      "137cm (X-Large)"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Width": [
+      "25cm (Small)",
+      "30cm (Medium)",
+      "42cm (Large)",
+      "64cm (X-Large)"
+    ]
+  }
+}

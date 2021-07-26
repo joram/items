@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Avalanche safety gear",
+    "Snow analysis",
+    "15X Magnifique Loupe"
+  ],
+  "description": "Get a micro view on the state of the snowpack by analyzing snow crystal shapes and forms.15x magnification.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131553521694/6011343-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131561943070/6011343-NOC02-ALT-CLOSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131553521694/6011343-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131561943070/6011343-NOC02-ALT-CLOSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131553521694/6011343-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131561943070/6011343-NOC02-ALT-CLOSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131553521694/6011343-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131561943070/6011343-NOC02-ALT-CLOSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backcountry Access 15X Magnifique Loupe",
+  "product_code": "6011-343",
+  "source_url": "https://www.mec.ca/en/product/6011-343/15X-Magnifique-Loupe",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Mountain snowshoeing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "50g"
+    ]
+  }
+}

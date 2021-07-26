@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike locks",
+    "U-locks",
+    "DX Lok"
+  ],
+  "description": "A U-Lock that sits a step above most other options. The DX Lok is the strongest option in HipLok's range, and is up on the top step when it comes to security. The 14mm hardened steel shackle and hardened steel body are incredibly strong and designed to survive any attack short of an angle grinder. At 1.25kg, this lock punches above its weight and its versatile clip system makes it easy to carry around.14mm hardened steel shackle and hardened steel body are tough and durable.Dual locking, anti-twist shackle tabs is designed with ultimate protection in mind.Integrated clip and ride system makes it easy to carry the lock on your belt or pack straps.Durable case is made of impact-resistant nylon.Weatherproof keyhole seal keeps the grime out of the locking mechanism.3 keys are included. These are coded and can be replaced if you lose them.Dimensions inside the lock are 15cm x 8.5cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007475851294/5064540-ORG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998642024478/5064540-ORG00-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007481389086/5064540-ORG00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007475851294/5064540-ORG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998642024478/5064540-ORG00-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007481389086/5064540-ORG00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007475851294/5064540-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998642024478/5064540-ORG00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007481389086/5064540-ORG00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007475851294/5064540-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998642024478/5064540-ORG00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9007481389086/5064540-ORG00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hiplok DX Lok",
+  "product_code": "5064-540",
+  "source_url": "https://www.mec.ca/en/product/5064-540/DX-Lok",
+  "tech_specs": {
+    "Diameter": [
+      "14mm"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Locking mechanism": [
+      "Key"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Hardened steel"
+    ],
+    "Mounting bracket": [
+      "No"
+    ],
+    "Number of keys": [
+      "3"
+    ],
+    "Weight": [
+      "1.25kg"
+    ]
+  }
+}

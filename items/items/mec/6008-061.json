@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "Shadow HMS Screwgate Carabiner"
+  ],
+  "description": "Finding the balance between lightweight and useability, the Shadow HMS Screwgate biner is large enough for belaying and rigging, yet light enough that you can bring some extras.I-beam construction has great strength-to-weight ratio.Constructed from hot-forged aluminum.Keylock nose prevents snagging.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087664717854/6008061-TNL01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087664717854/6008061-TNL01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DMM Shadow HMS Screwgate Carabiner",
+  "product_code": "6008-061",
+  "source_url": "https://www.mec.ca/en/product/6008-061/Shadow-HMS-Screwgate-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.2cm"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Screwgate"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "26kN"
+    ],
+    "Strength cross-loaded": [
+      "9kN"
+    ],
+    "Strength open": [
+      "7kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "70g"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike helmets and body armour",
+    "Bike helmets",
+    "Super Buddy Helmet"
+  ],
+  "description": "A reasonably priced helmet with an adjustable dial system to keep it fitting snugly on growing kids\u2019 heads. The pinch-free chin buckle helps get your family bike ride off to a smooth start.Made of polystyrene with ABS outer shell. Twin-shell construction.Air vents have mesh to keep the bugs out.Lateral dividers ensure the straps are positioned correctly and stay in place.Anti-allergenic interior pads manage moisture, and can be washed by hand.Reflective stickers on the back.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810094067742/5032174-WH013.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810093674526/5032174-PNK02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810094067742/5032174-WH013.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810093674526/5032174-PNK02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810094067742/5032174-WH013.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810093674526/5032174-PNK02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810094067742/5032174-WH013.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810093674526/5032174-PNK02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MET Super Buddy Helmet - Children",
+  "product_code": "5032-174",
+  "source_url": "https://www.mec.ca/en/product/5032-174/Super-Buddy-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Cycling"
+    ],
+    "Circumference\n\nThe internal circumference determines the size head that the helmet will fit.": [
+      "52-57cm"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Microshell"
+    ],
+    "Fit system": [
+      "Adjustable dial"
+    ],
+    "Ideal for": [
+      "Urban cycling"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "EN 1078"
+    ],
+    "Shell material": [
+      "ABS"
+    ],
+    "Vents": [
+      "Yes"
+    ],
+    "Weight": [
+      "250g"
+    ]
+  }
+}

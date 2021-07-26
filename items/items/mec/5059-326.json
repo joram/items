@@ -1,0 +1,87 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Snacks",
+    "Nuts, fruit and dried foods",
+    "Jerky - Sweet BBQ"
+  ],
+  "description": "The sweet tang of Memphis barbecue in an on-the-go snack. Noble jerky is made from plant protein marinated and seasoned with southern-style barbecue sauce.Ingredients: soy protein, tomatoes, brown cane sugar, spices, sea salt, rice vinegar, canola oil, smoke flavor.100% non-GMO ingredients.Contains soy.Made in a facility that also processes wheat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8941797769246/5059326-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8941797769246/5059326-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Noble Jerky - Sweet BBQ",
+  "product_code": "5059-326",
+  "source_url": "https://www.mec.ca/en/product/5059-326/Jerky---Sweet-BBQ",
+  "tech_specs": {
+    "Calories per serving": [
+      "100Cal"
+    ],
+    "Carbohydrates": [
+      "11g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "3g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "9g"
+    ],
+    "Saturated fat": [
+      "0g"
+    ],
+    "Serving size": [
+      "1/2 package"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "352mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "6g"
+    ],
+    "Total fat": [
+      "3g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "70g"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Kootenay N.P.-The Rockwall Map"
+  ],
+  "description": "This 1:50,000 scale map covers the entire north end of Kootenay National Park. A network of over 100 km of hiking trails await your backpacking trip along The Rockwall, the towering 900-metre high rock face overlooking some of the most spectacular scenery in the Rockies. This map also includes the Paint Pots, Marble Canyon, Numa Creek, Vermilion Crossing and the Kootenay Park Lodge.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815824699422/4019070-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815824699422/4019070-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Map Kootenay N.P.-The Rockwall Map",
+  "product_code": "4019-070",
+  "source_url": "https://www.mec.ca/en/product/4019-070/Kootenay-N-P--The-Rockwall-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

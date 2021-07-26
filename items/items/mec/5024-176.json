@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Cooking utensils and cutting boards",
+    "Cooking utensils and food prep",
+    "Pivot Spatula"
+  ],
+  "description": "This spatula is like a magic wand \u2013 flip your food with it and it\u2019ll taste like Julia Child\u2019s beef bourguignon or Jamie Oliver\u2019s macaroni cheese. (Lots of red wine and wild imagination sold separately).Pivoting design lets you enjoy cooking with a full-size tool, without having to pack one.Reinforced handle pivots for extra durability.Made with high temperature nylon 66.Serrated cutting edge makes quick portioning.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812582502430/5024176-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812582502430/5024176-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Pivot Spatula",
+  "product_code": "5024-176",
+  "source_url": "https://www.mec.ca/en/product/5024-176/Pivot-Spatula",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Nylon"
+    ],
+    "Packed length": [
+      "17.3cm"
+    ],
+    "Weight": [
+      "38g"
+    ]
+  }
+}

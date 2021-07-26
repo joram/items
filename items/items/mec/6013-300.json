@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Blankets and quilts",
+    "Puffin Blanket"
+  ],
+  "description": "Made for cozy nights around the campfire or the cabin.Shell fabric is water-resistant and easy to wash.Lofty insulation keeps you warm without adding bulk.Foot Nook button system lets you tuck your feet away from the cold.Integrated storage sack doubles as a pillow when stuffed.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199328722974/6013300-SMD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199128543262/6013300-SMD00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198894219294/6013300-FST01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199326560286/6013300-FST01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199328722974/6013300-SMD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199128543262/6013300-SMD00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198894219294/6013300-FST01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199326560286/6013300-FST01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199328722974/6013300-SMD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199128543262/6013300-SMD00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198894219294/6013300-FST01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199326560286/6013300-FST01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199328722974/6013300-SMD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199128543262/6013300-SMD00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198894219294/6013300-FST01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199326560286/6013300-FST01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nemo Puffin Blanket",
+  "product_code": "6013-300",
+  "source_url": "https://www.mec.ca/en/product/6013-300/Puffin-Blanket",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "DWR-treated shell fabric",
+      "Stuffs in own pocket"
+    ],
+    "Face fabric": [
+      "40-denier ripstop polyester"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Travel"
+    ],
+    "Insulation": [
+      "Synthetic"
+    ],
+    "Lining/backer": [
+      "40-denier ripstop polyester"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Shape": [
+      "Rectangle"
+    ],
+    "Weight": [
+      "1.65kg (Smolder)",
+      "1.08kg (Flame Starline)"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike bells and horns",
+    "Humdinger Plus Bell"
+  ],
+  "description": "Ding your way safely along crowded bike paths or by unexpecting pedestrians.Swivelling lever allows you to mount it left or right.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199102394398/6016425-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199102394398/6016425-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "49N Humdinger Plus Bell",
+  "product_code": "6016-425",
+  "source_url": "https://www.mec.ca/en/product/6016-425/Humdinger-Plus-Bell",
+  "tech_specs": {
+    "Made in": [
+      "China"
+    ]
+  }
+}

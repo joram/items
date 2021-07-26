@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bug spray and bug nets",
+    "Bug spray and insect repellent",
+    "DEET FREE Wallet Size Insect Repellent Pump S"
+  ],
+  "description": "A nice alternative to DEET-based repellents, the formula contains 20% Icaridin, making it a good choice for children from 6 months to 12 years.Active ingredient is Icaridin 20%, with 0% DEET.Formula is non-irritating, non-greasy and non-allergenic.Provides 12-hour protection from ticks, 12-hour protection from mosquitoes, and 10 hours from black flies.Suited to kids from 6 months and up.Pocket sized 40ml bottle is perfect for bringing along for a day on the trails.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074413240350/5048217-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074428117022/5048217-NOC02-ALT-FRENCH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074413240350/5048217-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074428117022/5048217-NOC02-ALT-FRENCH.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074413240350/5048217-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074428117022/5048217-NOC02-ALT-FRENCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074413240350/5048217-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074428117022/5048217-NOC02-ALT-FRENCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "PiActive DEET FREE Wallet Size Insect Repellent Pump S",
+  "product_code": "5048-217",
+  "source_url": "https://www.mec.ca/en/product/5048-217/DEET-FREE-Wallet-Size-Insect-Repellent-Pump-S",
+  "tech_specs": {
+    "DEET\n\nThe active ingredient in many bug repellents. It is not recommended for use on young children.": [
+      "0%"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Travel"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Picaridin\n\nAn odourless alternative to DEET; suitable for people with sensitive skin.": [
+      "20%"
+    ],
+    "Plant-based repellent\n\nPlant-based repellents such as citronella do not contain chemical deterents such as DEET and may be more suitable for children.": [
+      "No"
+    ],
+    "Volume": [
+      "40ml"
+    ]
+  }
+}

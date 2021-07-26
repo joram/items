@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Whitewater Ski Area Backcountry Ski Map and G"
+  ],
+  "description": "For backcountry skiiers and snowboarders This map taps into the experience and local knowledge of CAA professionals, ACMG/UIFMG members, and GIS technicians Explore the Whitewater Ski Area in Nelson, BC. Includes georeferenced route photographs, approach routes, avalanche terrain assessment scales, hut locations, and more.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815850422302/5033229-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815850422302/5033229-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Reference Whitewater Ski Area Backcountry Ski Map and Guide",
+  "product_code": "5033-229",
+  "source_url": "https://www.mec.ca/en/product/5033-229/Whitewater-Ski-Area-Backcountry-Ski-Map-and-G",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "USA"
+    ],
+    "Scale": [
+      "1:25,000"
+    ]
+  }
+}

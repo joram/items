@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike chains",
+    "CN-6701 10 Speed Chain"
+  ],
+  "description": "A 10-speed chain from the Shimano\u00ae Ultegra/105 series.Chain type is super narrow HG for 10-speed cassettes.Includes one connecting pin.Unidirectional (asymmetrical) design uses different inner and outer plate chamfers and dimensions to accommodate the different shifting requirements when moving the chain inward or outward.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806832537630/5028368-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806832537630/5028368-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano CN-6701 10 Speed Chain",
+  "product_code": "5028-368",
+  "source_url": "https://www.mec.ca/en/product/5028-368/CN-6701-10-Speed-Chain",
+  "tech_specs": {
+    "Compatibility": [
+      "10-speed"
+    ],
+    "Ideal for": [
+      "Bike maintenance",
+      "Road cycling",
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Number of links": [
+      "116"
+    ],
+    "Weight": [
+      "272g"
+    ]
+  }
+}

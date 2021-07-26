@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Caps",
+    "Pursuit Ball Cap"
+  ],
+  "description": "For those who thrive on trees, wind, mountains and sunshine.Made of organically grown cotton and hemp.Adjustable snaps to get a good fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168643129374/5051479-SKD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168643096606/5051479-FDM00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168643129374/5051479-SKD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168643096606/5051479-FDM00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168643129374/5051479-SKD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168643096606/5051479-FDM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168643129374/5051479-SKD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168643096606/5051479-FDM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ambler Pursuit Ball Cap - Men's",
+  "product_code": "5051-479",
+  "source_url": "https://www.mec.ca/en/product/5051-479/Pursuit-Ball-Cap",
+  "tech_specs": {
+    "Fabric content": [
+      "78% organically grown cotton",
+      "22% organically grown hemp"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Lining/backer": [
+      "Organically grown cotton"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

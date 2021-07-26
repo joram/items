@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camp furniture",
+    "Chairs",
+    "Camp Chair"
+  ],
+  "description": "Sit back, relax and be a source of campsite envy. For seasons of fireside and beachfront enjoyment, this durable camp chair uses breathable mesh with 600-denier polyester in high stress areas. When you've achieved near-max comfort, whip out the cup holder and revel in the excellent decision you made with this chair.Made of powder-coated steel, with breathable mesh and 600-denier reinforcements.Stow-away cup holder folds up under the seat.Padded armrests.Includes a stuff sack with carry handle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948438433822/5041085-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948439154718/5041085-BK000-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948440891422/5041085-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948438433822/5041085-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948439154718/5041085-BK000-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948440891422/5041085-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948438433822/5041085-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948439154718/5041085-BK000-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948440891422/5041085-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948438433822/5041085-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948439154718/5041085-BK000-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948440891422/5041085-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Camp Chair",
+  "product_code": "5041-085",
+  "source_url": "https://www.mec.ca/en/product/5041-085/Camp-Chair",
+  "tech_specs": {
+    "Cup holder": [
+      "Yes"
+    ],
+    "Dimensions": [
+      "52\u00a0x\u00a055\u00a0x\u00a096cm"
+    ],
+    "Folded dimensions": [
+      "21.5 cm x 21.5 cm x 96cm"
+    ],
+    "Frame material": [
+      "Steel"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Beach"
+    ],
+    "Load capacity": [
+      "136kg"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "Mesh"
+    ],
+    "Stuff sack": [
+      "Yes"
+    ],
+    "Weight": [
+      "5.2kg"
+    ]
+  }
+}

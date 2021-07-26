@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Quickdraws",
+    "Phantom Alpine Draw"
+  ],
+  "description": "Lightweight, versatile draws for your alpine rack. The 60cm sling helps prevent rope drag on wandering routes and can be slung around natural anchors. Wire gate Phantom carabiners help prevent gate flutter and keep the overall weight low.Includes 2 lightweight wire gate Phantom carabiners.Supple 60cm extendable Dyneema sling.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070011809822/5058639-SIL18.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070011809822/5058639-SIL18.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DMM Phantom Alpine Draw",
+  "product_code": "5058-639",
+  "source_url": "https://www.mec.ca/en/product/5058-639/Phantom-Alpine-Draw",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.2cm"
+    ],
+    "Gate type": [
+      "Wire"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Trad climbing"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Sling length": [
+      "60cm"
+    ],
+    "Sling material": [
+      "Dyneema"
+    ],
+    "Sling width": [
+      "11mm"
+    ],
+    "Snag-free nose": [
+      "No"
+    ],
+    "Strength closed": [
+      "23kN"
+    ],
+    "Strength cross-loaded": [
+      "7kN"
+    ],
+    "Strength open": [
+      "9kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "82g"
+    ]
+  }
+}

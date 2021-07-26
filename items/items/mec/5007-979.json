@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Guide des Cascades de Quebec"
+  ],
+  "description": "A guide to ice and mixed climbing Quebec. Contains photos and detailed route descriptions. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815589752862/5007979-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815589752862/5007979-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Guide des Cascades de Quebec",
+  "product_code": "5007-979",
+  "source_url": "https://www.mec.ca/en/product/5007-979/Guide-des-Cascades-de-Quebec",
+  "tech_specs": {
+    "Author": [
+      "St\u00e9phane Lapierre, Bernard Gagnon"
+    ],
+    "ISBN": [
+      "5007979"
+    ],
+    "Ideal for": [
+      "Ice climbing"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "528"
+    ],
+    "Published": [
+      "2004"
+    ],
+    "Regionality": [
+      "Quebec"
+    ]
+  }
+}

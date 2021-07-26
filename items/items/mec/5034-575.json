@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "PFDs, helmets and safety equipment",
+    "PFD accessories",
+    "Re-Arm Kit MA2014"
+  ],
+  "description": "Re-arm your Mustang Survival M.I.T. 100 Inflatable PFD. Manufacturers recommend that manual and automatic PFDs be re-armed after deployment, and the inflator bobbin on automatic PFDs regularly replaced.Contains a 24 gram CO2 cylinder and bayonet assembly, bobbin and re-arming instruction manual.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818046828574/5034575-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818046828574/5034575-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mustang Survival Re-Arm Kit MA2014",
+  "product_code": "5034-575",
+  "source_url": "https://www.mec.ca/en/product/5034-575/Re-Arm-Kit-MA2014",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayaking",
+      "Canoeing",
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "Austria"
+    ]
+  }
+}

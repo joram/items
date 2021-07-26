@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Kenora Rock Climbs"
+  ],
+  "description": "A comprehensive guide for Northwestern Ontario rock. Over 450 routes and boulders from the Whiteshell Provincial Park to Kenora, including Lily Pond, Roadside, Gooseneck, Southcliff, Jones, Echo, Panorama and Whiskeyjacks areas. You'll find maps, approach beta and cliff drawings to help you find climbs, as well as colour pictures to get you psyched.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034762354718/6005166-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034762354718/6005166-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kenora Rock Climbs",
+  "product_code": "6005-166",
+  "source_url": "https://www.mec.ca/en/product/6005-166/Kenora-Rock-Climbs",
+  "tech_specs": {
+    "Author": [
+      "Mike Brown, Ryan Munro"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "978-1-9995417-0"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2019"
+    ],
+    "Regionality": [
+      "Ontario"
+    ]
+  }
+}

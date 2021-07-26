@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Flip flops",
+    "Ho'opio Sandals"
+  ],
+  "description": "See you on the flipside. Versatile and easy to wear, these summer staples have water-resistant straps and a fast drying lining.Synthetic upper and footbed.Water-resistant synthetic strap with fast-drying jersey lining.Soft nylon toe post.Anatomically moulded micro-textured PU midsole, designed for water.Non marking rubber with textured pods for extra traction and durability.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870167281694/5045527-ONX08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870878150686/5045527-ONX08-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870878445598/5045527-ONX08-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870167281694/5045527-ONX08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870878150686/5045527-ONX08-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870878445598/5045527-ONX08-ALT-SOLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870167281694/5045527-ONX08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870878150686/5045527-ONX08-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870878445598/5045527-ONX08-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870167281694/5045527-ONX08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870878150686/5045527-ONX08-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870878445598/5045527-ONX08-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Olukai Ho'opio Sandals - Women's",
+  "product_code": "5045-527",
+  "source_url": "https://www.mec.ca/en/product/5045-527/Ho%27opio-Sandals",
+  "tech_specs": {
+    "Antimicrobial treatment\n\nA treatment that inhibits bacteria growth and reduces odour.": [
+      "No"
+    ],
+    "Closure": [
+      "Toe thong"
+    ],
+    "Footbed": [
+      "Synthetic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Upper material": [
+      "Synthetic"
+    ]
+  }
+}

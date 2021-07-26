@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fuel",
+    "Isopro Fuel 450g Canister"
+  ],
+  "description": "For use with MSR\u00ae canister stoves, the fuel is clean-burning, 80/20 blend of Isobutane and propane.Fuel maintains pressure from 55psi per gram down to 30psi per gram, so it functions well even as the canister empties.Self-sealing Lindal valve.Contains 450g of fuel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860475490334/5044199-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860475490334/5044199-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Isopro Fuel 450g Canister",
+  "product_code": "5044-199",
+  "source_url": "https://www.mec.ca/en/product/5044-199/Isopro-Fuel-450g-Canister",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ],
+    "Shelf life (opened)": [
+      "60mo"
+    ],
+    "Shelf life (sealed)": [
+      "60mo"
+    ],
+    "Weight": [
+      "660g"
+    ]
+  }
+}

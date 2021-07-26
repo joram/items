@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Showers, soap & travel toothbrushes",
+    "Ecotrail Multi-Purpose Soap 125ml"
+  ],
+  "description": "A natural, multi-purpose soap to clean your skin, hair, dog, clothes, and camp dishes. Its concentrated formula means you only need a few drops, making it travel-friendly and light in the backpack.100% of the ingredients are of natural origin, biodegradable, and phosphate-free.12.5% of the ingredients are organically grown.Pleasant odour with no citronella.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809969909790/5029100-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809969909790/5029100-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Druide Ecotrail Multi-Purpose Soap 125ml",
+  "product_code": "5029-100",
+  "source_url": "https://www.mec.ca/en/product/5029-100/Ecotrail-Multi-Purpose-Soap-125ml",
+  "tech_specs": {
+    "Biodegradable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Travel"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Volume": [
+      "0.125L"
+    ],
+    "Weight": [
+      "159g"
+    ]
+  }
+}

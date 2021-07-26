@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill ski poles and baskets",
+    "Arctic Ski Poles"
+  ],
+  "description": "Not too flimsy, not too spendy. Just simple, strong poles for snowy adventures. Wider grips suit larger hands.Made of strong yet lightweight aluminum, 18mm diameter.Grips are bi-material synthetics.Adjustable webbing strapsStandard downhill baskets.Downhill tips.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977313169438/5060600-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983443931166/5060600-BL000-ALT-HANDLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977313169438/5060600-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983443931166/5060600-BL000-ALT-HANDLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977313169438/5060600-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983443931166/5060600-BL000-ALT-HANDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977313169438/5060600-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8983443931166/5060600-BL000-ALT-HANDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Arctic Ski Poles - Unisex",
+  "product_code": "5060-600",
+  "source_url": "https://www.mec.ca/en/product/5060-600/Arctic-Ski-Poles",
+  "tech_specs": {
+    "Extended length": [
+      "110cm (110cm)",
+      "115cm (115cm)",
+      "120cm (120cm)",
+      "125cm (125cm)",
+      "130cm (130cm)",
+      "135cm (135cm)"
+    ],
+    "Grip material": [
+      "Dual component synthetic"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pole material": [
+      "Aluminum"
+    ],
+    "Sections": [
+      "1"
+    ],
+    "Sold in pairs": [
+      "Yes"
+    ],
+    "Weight": [
+      "260g (120cm)"
+    ]
+  }
+}

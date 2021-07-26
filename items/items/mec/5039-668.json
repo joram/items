@@ -1,0 +1,83 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Packs",
+    "Backpacking packs",
+    "Overnight packs (35 - 55l)",
+    "Stone 45 Pack"
+  ],
+  "description": "Go cragging, scramble peak to peak or do a speed run up your favorite alpine route. The spacious top-loading compartment holds your climbing essentials, and the side zipper lets you grab must-have items quickly. The heavy fabric squeezes through chimneys without getting too roughed up. And the rope strap, ice axe loop and top compression straps all tuck away so they won\u2019t get snagged on the way.Heavyweight nylon and ballistic nylon reinforcements are amazingly durable.Top loading with side zipper access so you don\u2019t have to dig shoulder-deep for your headlamp.Padded shoulder straps and hip belt.Zippered lid pocket.Rope strap, axe loop and compression strap tuck away when not needed.Hip belt and lid can be removed to reduce weight.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814577090590/5039668-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814578171934/5039668-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814577090590/5039668-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814578171934/5039668-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814577090590/5039668-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814578171934/5039668-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814577090590/5039668-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8814578171934/5039668-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Stone 45 Pack - Unisex",
+  "product_code": "5039-668",
+  "source_url": "https://www.mec.ca/en/product/5039-668/Stone-45-Pack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top",
+      "Side"
+    ],
+    "Additional feature(s)": [
+      "Compression straps",
+      "Ice axe/pole attachment",
+      "Expandable collar"
+    ],
+    "Adjustable shoulder harness\n\nAn adjustable harness lets you change the height of the shoulder straps to fit your specific back length.": [
+      "No"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "No"
+    ],
+    "Dynamic suspension\n\nThe hipbelt and/or shoulder straps of the pack are designed to move, pivot or flex to follow your body\u2019s movements.  Each brand uses their own technology.": [
+      "No"
+    ],
+    "Hipbelt": [
+      "Removable padded"
+    ],
+    "Hipbelt circumference": [
+      "66-102cm (Small/Medium)",
+      "71-114cm (Medium/Large)"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Alpine climbing and mountaineering"
+    ],
+    "Lid type\n\nSome pack lids can be adjusted to compensate for overloaded packs, or even removed, and some removeable lids have tuck-away hipbelts that allow youto use them as a waistpack.": [
+      "Adjustable",
+      "Removable"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Main fabric": [
+      "800-denier nylon"
+    ],
+    "Secondary fabric": [
+      "1260-denier ballistic nylon"
+    ],
+    "Ventilated back panel": [
+      "No"
+    ],
+    "Volume": [
+      "43L (Small/Medium)",
+      "45L (Medium/Large)"
+    ],
+    "Weight": [
+      "1.45kg (Medium/Large)"
+    ]
+  }
+}

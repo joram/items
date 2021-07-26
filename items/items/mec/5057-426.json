@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Dry suits, tops and pants",
+    "Dry suit pants",
+    "Hydrus Tempest Pants"
+  ],
+  "description": "Launch and land your boat without soaking your lower legs. Integrated socks let you wade fearlessly up to your thighs. These paddling pants are made of breathable fabric that ensures you\u2019ll stay comfortable no matter how hard you're working.Hydrus 3-layer waterproof-breathable fabric has a soft polyester inner for moisture transport, a polyurethane micro-porous coating, and a rugged nylon outer with a DWR finish.Seams are factory sealed.Neoprene waistband with adjustable hook-and-loop tabs for a snug, comfortable fit.Gravel guards on the socks reduce wear (though water shoes or boots are recommended).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932470751262/5057426-LGY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932998316062/5057426-LGY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932470751262/5057426-LGY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932998316062/5057426-LGY00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932470751262/5057426-LGY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932998316062/5057426-LGY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932470751262/5057426-LGY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932998316062/5057426-LGY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kokatat Hydrus Tempest Pants - Men's",
+  "product_code": "5057-426",
+  "source_url": "https://www.mec.ca/en/product/5057-426/Hydrus-Tempest-Pants",
+  "tech_specs": {
+    "Drop-seat": [
+      "No"
+    ],
+    "Face fabric": [
+      "Nylon",
+      "Polyurethane"
+    ],
+    "Ideal for": [
+      "Kayak touring"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Pockets": [
+      "None"
+    ],
+    "Relief opening": [
+      "No"
+    ]
+  }
+}

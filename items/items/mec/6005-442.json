@@ -1,0 +1,117 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bikes",
+    "Road bikes",
+    "Helium SLX Bicycle 2020"
+  ],
+  "description": "Push your limits on the road. From intense team rides to fondos, this performance road bike turns your riding ambitions into reality. An elegant Shimano Ultegra groupset brings pure sophistication to each sprint, climb and breakaway. Compliant and light, its full carbon frame promotes an efficient riding posture, so every ride is your best ride.Unidirectional carbon frame and fork, with aggressive performance geometry.2x11 drive train pairs a 52-36T crankset with an 11-30T cassette.Premium performance in a Shimano Ultegra groupset.Forged 6082 alloy direct mount crank arms.Hydraulic disc brakes.Tubeless compatible alloy wheelset.25mm clincher tires.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081694781470/6005442-LRB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686622238/6005442-LRB00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686655006/6005442-LRB00-ALT-DISC.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686720542/6005442-LRB00-ALT-FRONTDRIVE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686687774/6005442-LRB00-ALT-HANDLEBARS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686753310/6005442-LRB00-ALT-REARDRIVE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686786078/6005442-LRB00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081694781470/6005442-LRB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686622238/6005442-LRB00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686655006/6005442-LRB00-ALT-DISC.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686720542/6005442-LRB00-ALT-FRONTDRIVE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686687774/6005442-LRB00-ALT-HANDLEBARS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686753310/6005442-LRB00-ALT-REARDRIVE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686786078/6005442-LRB00-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081694781470/6005442-LRB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686622238/6005442-LRB00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686655006/6005442-LRB00-ALT-DISC.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686720542/6005442-LRB00-ALT-FRONTDRIVE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686687774/6005442-LRB00-ALT-HANDLEBARS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686753310/6005442-LRB00-ALT-REARDRIVE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686786078/6005442-LRB00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081694781470/6005442-LRB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686622238/6005442-LRB00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686655006/6005442-LRB00-ALT-DISC.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686720542/6005442-LRB00-ALT-FRONTDRIVE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686687774/6005442-LRB00-ALT-HANDLEBARS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686753310/6005442-LRB00-ALT-REARDRIVE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081686786078/6005442-LRB00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ridley Helium SLX Bicycle 2020 - Unisex",
+  "product_code": "6005-442",
+  "source_url": "https://www.mec.ca/en/product/6005-442/Helium-SLX-Bicycle-2020",
+  "tech_specs": {
+    "Brake levers": [
+      "Shimano Ultegra R8000"
+    ],
+    "Brakes\n\nMechanical disc brakes are more powerful than rim brakes, but less powerful than hydraulic brakes.": [
+      "Shimano Ultegra (hydraulic disc)"
+    ],
+    "Cassette\n\nCassettes with a smaller range allow you to go faster; a bigger range makes climbing hills easier.": [
+      "Shimano Ultegra 11-speed 11-30T"
+    ],
+    "Chain": [
+      "KMC X11"
+    ],
+    "Crank + rings": [
+      "Rotor Vegast 52-36T"
+    ],
+    "Derailleur (front)": [
+      "Shimano Ultegra R8000"
+    ],
+    "Derailleur (rear)": [
+      "Shimano Ultegra R8000"
+    ],
+    "Fork": [
+      "Helium HM carbon"
+    ],
+    "Frame": [
+      "Ridley Helium HM carbon"
+    ],
+    "Grips/tape": [
+      "4ZA Cirrus Gel"
+    ],
+    "Handlebars": [
+      "4ZA Cirrus 31.8mm"
+    ],
+    "Headset": [
+      "Integrated"
+    ],
+    "Ideal for": [
+      "Performance and race road cycling",
+      "Sport road cycling"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Pedals": [
+      "Sold separately"
+    ],
+    "Saddle": [
+      "Selle Italia SLR"
+    ],
+    "Seatpost": [
+      "4ZA Cirrus"
+    ],
+    "Shifters": [
+      "Shimano Ultegra R8000"
+    ],
+    "Stem": [
+      "4ZA Cirrus 31.8mm"
+    ],
+    "Tires": [
+      "Vittoria Rubino Pro 700 x 25"
+    ],
+    "Weight": [
+      "7.2kg (Medium)"
+    ],
+    "Wheel": [
+      "Fulcrum Racing 500 DB"
+    ]
+  }
+}

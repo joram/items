@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "30 Below Classic Socks"
+  ],
+  "description": "Fully cushioned winter thermal socks for really cold temperatures.Made of a wool blend for extreme warmth.Non-binding top doesn't restrict blood flow.Thick cushioning adds warmth and comfort for long days.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165727498270/6014455-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165727432734/6014455-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165727006750/6014455-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165727498270/6014455-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165727432734/6014455-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165727006750/6014455-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165727498270/6014455-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165727432734/6014455-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165727006750/6014455-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165727498270/6014455-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165727432734/6014455-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165727006750/6014455-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "J.B. Field's 30 Below Classic Socks - Unisex",
+  "product_code": "6014-455",
+  "source_url": "https://www.mec.ca/en/product/6014-455/30-Below-Classic-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "70% merino wool",
+      "30% nylon"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing",
+      "Snowshoeing",
+      "Snow and ice climbing"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Thickness": [
+      "Thick"
+    ]
+  }
+}

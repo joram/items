@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike derailleurs",
+    "Derailleur hangers, pulley wheels and parts",
+    "Urban Bike Derailleur Hanger Model Year 2019+"
+  ],
+  "description": "A rear derailleur hanger for all MEC Midtown, Silhouette, Shadowlands, Chinook, and Adanac bikes to 2019+.Fits Shimano\u00ae standard mounts.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027494215710/6001550-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027494215710/6001550-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Urban Bike Derailleur Hanger Model Year 2019+",
+  "product_code": "6001-550",
+  "source_url": "https://www.mec.ca/en/product/6001-550/Urban-Bike-Derailleur-Hanger-Model-Year-2019%2B",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

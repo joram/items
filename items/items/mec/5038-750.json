@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike racks, carriers and storage",
+    "Bike boxes and travel cases",
+    "Origami Carry-On Bag"
+  ],
+  "description": "Carry your folding Origami Bike onto crowded subway cars with ease. This bag carries the weight of the folded bike on a comfortably padded shoulder strap. Keep the bike protected and keep chain grease and grime away from everyone's clothes. When you\u2019re ready to ride, the bag stows neatly under the bike's saddle.Made of lightweight ripstop nylon.Internal quick-lash straps transfer the load to the shoulder strap.When under the saddle, the bag reveals reflective accents, a blinky light loop and a zippered mesh internal pocket for keys or a patch kit.Dimensions: 104 x 98cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929463762974/5038750-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929463926814/5038750-BK000-ALT-BIKE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815369322526/5038750-BK000-ALT-SEAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929463762974/5038750-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929463926814/5038750-BK000-ALT-BIKE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815369322526/5038750-BK000-ALT-SEAT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929463762974/5038750-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929463926814/5038750-BK000-ALT-BIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815369322526/5038750-BK000-ALT-SEAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929463762974/5038750-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929463926814/5038750-BK000-ALT-BIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815369322526/5038750-BK000-ALT-SEAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Origami Carry-On Bag - Unisex",
+  "product_code": "5038-750",
+  "source_url": "https://www.mec.ca/en/product/5038-750/Origami-Carry-On-Bag",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel",
+      "Urban cycling",
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Ripstop nylon"
+    ],
+    "Weight": [
+      "510g"
+    ]
+  }
+}

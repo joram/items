@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fire starters, matches and lighters",
+    "Firelighting Kit BIO-Plastic"
+  ],
+  "description": "Strike up a fire and get cooking even in the rain. Whittle a few shavings from the tinder. Shower them with high temperature sparks from the FireSteel. Spear your hotdog on the FireFork and roast to crisp perfection.Tinder-on-a-Rope is high resin wood that's easy to light, slow-burning, waterproof and has no chemical additives.FireSteel Scout Bio is a magnesium alloy and striker is stainless steel, both with sugarcane- and wood fibre-based HDPE handle.FireFork mounts on almost any stick and includes a bio-plastic safety cap.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017467830302/6001020-HBO08.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017467830302/6001020-HBO08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Light My Fire Firelighting Kit BIO-Plastic",
+  "product_code": "6001-020",
+  "source_url": "https://www.mec.ca/en/product/6001-020/Firelighting-Kit-BIO-Plastic",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Made in": [
+      "Sweden"
+    ],
+    "Requires combustible materials\n\nProvides a point of  ignition to light fire, but not the fuel.": [
+      "No"
+    ],
+    "Requires ignition\n\nRequires a point of  ignition to light fire.": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ],
+    "Weight": [
+      "115g"
+    ]
+  }
+}

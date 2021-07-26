@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "SmD Twist-Lock Carabiner"
+  ],
+  "description": "A compact, versatile locker that's easy to manipulate, even while wearing gloves.D-shape is versatile and easy to use.Snag-free, strength-enhancing keylock closure.Twist-lock gate is quick to open and locks shut when released.H cross-section for added strength and grip.Individually tested.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189839077406/6006654-YLW00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189839077406/6006654-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Sm'D Twist-Lock Carabiner",
+  "product_code": "6006-654",
+  "source_url": "https://www.mec.ca/en/product/6006-654/SmD-Twist-Lock-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2cm"
+    ],
+    "Gate type": [
+      "Straight"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Indoor climbing",
+      "Snow and ice climbing"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Auto-locking"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "23kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "7kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "51g"
+    ]
+  }
+}

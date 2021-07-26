@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Trousers",
+    "Nikka Curved Trousers"
+  ],
+  "description": "Bolstered with technical features, the Nikka Trousers add reliable performance to your adventure plans. Head straight from the airport to the mountains thanks to articulated knees and stretch panels that move when you do. Strategic panels of Fjallraven\u2019s G-1000 fabric deliver tough and durable functionality where you need it most. The curved fit has more room in the butt and thighs and a waist that rises slightly around the back to fit smoothly under a pack and keep you feeling comfortable and covered, no matter where the map leads you.Articulated knees and stretchy panels let the pants move with you as you scramble and hike.Hard-wearing G-1000 reinforcement in high-wear areas.Higher waist at the back for comfort under a pack.Paneled construction reduces hot spots.4 outer pockets help keep necessities close, while 1 internal pocket keeps small essentials safe.Curved fit is designed to fit curvy figures with a more generous fit in the butt and thighs and a higher waist that won't gape or bunch.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020922822686/5062928-GAR05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134857388062/5062928-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020922822686/5062928-GAR05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134857388062/5062928-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020922822686/5062928-GAR05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134857388062/5062928-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020922822686/5062928-GAR05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134857388062/5062928-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fjallraven Nikka Curved Trousers - Women's",
+  "product_code": "5062-928",
+  "source_url": "https://www.mec.ca/en/product/5062-928/Nikka-Curved-Trousers",
+  "tech_specs": {
+    "Fabric content": [
+      "63% nylon",
+      "26% polyester",
+      "11% elastane"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Alpine climbing and mountaineering"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front zippered",
+      "2 side"
+    ],
+    "Secondary fabric": [
+      "65% polyester",
+      "35% cotton"
+    ],
+    "Weight": [
+      "405g (38)"
+    ]
+  }
+}

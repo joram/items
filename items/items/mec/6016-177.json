@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "PFDs, helmets and safety equipment",
+    "Boat safety equipment",
+    "Compact Quick Throw Bag"
+  ],
+  "description": "Be ready in case of emergency. This streamlined bag features a tough, dynamic rope with a whopping 300kg breaking strength. It's quick to stuff and rethrow, thanks to the gusseted opening system.Durable 600-denier nylon bag with mesh panels for quick draining and drying.Gusseted opening for easy re-packing.Dynamic polypropylene floating line has a high-tensile strength.Webbing buckle with an integrated whistle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188909285406/6016177-ORG19.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188914757662/6016177-ORG19-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188914823198/6016177-ORG19-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188915019806/6016177-ORG19-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188915150878/6016177-ORG19-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188909285406/6016177-ORG19.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188914757662/6016177-ORG19-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188914823198/6016177-ORG19-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188915019806/6016177-ORG19-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188915150878/6016177-ORG19-ALT-D.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188909285406/6016177-ORG19.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188914757662/6016177-ORG19-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188914823198/6016177-ORG19-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188915019806/6016177-ORG19-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188915150878/6016177-ORG19-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188909285406/6016177-ORG19.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188914757662/6016177-ORG19-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188914823198/6016177-ORG19-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188915019806/6016177-ORG19-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188915150878/6016177-ORG19-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Compact Quick Throw Bag",
+  "product_code": "6016-177",
+  "source_url": "https://www.mec.ca/en/product/6016-177/Compact-Quick-Throw-Bag",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayaking",
+      "Canoeing",
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Meets Transport Canada safety requirement": [
+      "Yes"
+    ],
+    "Rope breaking strength": [
+      "300kg"
+    ],
+    "Rope diameter": [
+      "6mm"
+    ],
+    "Rope length": [
+      "16m"
+    ],
+    "Rope material": [
+      "Polypropylene"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child clothing",
+    "Toddler and child accessories",
+    "Toddler and child hats and toques",
+    "Toddler and child toques",
+    "ZigZag Beanie"
+  ],
+  "description": "A cozy hat for when temperatures dip and cheeks get rosy.Scandinavian-style knit pattern.Bold eco-fur pom.Sewn-in leather logo patch.One size fits all.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127439532062/5060241-BLF09.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127439532062/5060241-BLF09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Bula ZigZag Beanie - Girls' - Children",
+  "product_code": "5060-241",
+  "source_url": "https://www.mec.ca/en/product/5060-241/ZigZag-Beanie",
+  "tech_specs": {
+    "Fabric content": [
+      "100% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Lining/backer": [
+      "Acrylic"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "None"
+    ]
+  }
+}

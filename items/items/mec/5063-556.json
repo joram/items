@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike lubricants and cleaners",
+    "Lubricants and grease",
+    "ForkBoost Lube 120ml"
+  ],
+  "description": "For crack-free seals and squeaky-clean stanchions. This fork lube is easy to apply, keeps your fork feeling buttery smooth, and helps keep seals lubricated over the long haul.Made of biodegradable and natural materials.Be sure to clean stanchions of any dust, grime or dirt before applying.Can be used as internal seal lubricant.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989895688222/5063556-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989895688222/5063556-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "WPL ForkBoost Lube 120ml",
+  "product_code": "5063-556",
+  "source_url": "https://www.mec.ca/en/product/5063-556/ForkBoost-Lube-120ml",
+  "tech_specs": {
+    "Biodegradable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Volume": [
+      "120ml"
+    ]
+  }
+}

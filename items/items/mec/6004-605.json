@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Showers, soap & travel toothbrushes",
+    "Super Concentrated Wilderness Wash 40ml"
+  ],
+  "description": "A little goes a long way with this super concentrated wash. Gentle enough to use on skin but strong enough for dishes and laundry.Packable, leak-proof bottle.Biodegradable and compostable (still, practice Leave No Trace and please wash well away from waterways).Phosphate and paraben free.Safe for personal use, pots, pans, clothes or any outdoor gear.Super-thick concentrated formula.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030053036062/6004605-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030391529502/6004605-NOC02-ALT-PACKAGED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030053036062/6004605-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030391529502/6004605-NOC02-ALT-PACKAGED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030053036062/6004605-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030391529502/6004605-NOC02-ALT-PACKAGED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030053036062/6004605-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030391529502/6004605-NOC02-ALT-PACKAGED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sea To Summit Super Concentrated Wilderness Wash 40ml",
+  "product_code": "6004-605",
+  "source_url": "https://www.mec.ca/en/product/6004-605/Super-Concentrated-Wilderness-Wash-40ml",
+  "tech_specs": {
+    "Biodegradable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Suitable for use in salt water": [
+      "No"
+    ],
+    "Volume": [
+      "40ml"
+    ]
+  }
+}

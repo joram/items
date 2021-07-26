@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Accessories",
+    "Running and fitness hats",
+    "Tech Fleece Headband"
+  ],
+  "description": "A little wind chill never slowed you down. Keep up the pace no matter the weather in this streamlined fleece headband.Lightweight Carvico fabric is breathable, wind-resistant and quick drying.Seamless design for irritation-free wear.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140732887070/6012666-NLB03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140733378590/6012666-COB44.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140732887070/6012666-NLB03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140733378590/6012666-COB44.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140732887070/6012666-NLB03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140733378590/6012666-COB44.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140732887070/6012666-NLB03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140733378590/6012666-COB44.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Buff Tech Fleece Headband - Unisex",
+  "product_code": "6012-666",
+  "source_url": "https://www.mec.ca/en/product/6012-666/Tech-Fleece-Headband",
+  "tech_specs": {
+    "Fabric content": [
+      "90% nylon",
+      "10% elastane"
+    ],
+    "Ideal for": [
+      "Running",
+      "Cross-country skiing"
+    ],
+    "Made in": [
+      "Spain"
+    ]
+  }
+}

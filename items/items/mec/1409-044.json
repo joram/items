@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "12mm Steel Locking D Carabiner"
+  ],
+  "description": "This carabiner is not intended for normal recreational climbing purposes. It is steel and therefore very heavy. However, its strength makes it great for field rescue applications or for Search and Rescue groups. The heavy offset asymmetrical D-shape helps direct the load to the spine, where the carabiner is strongest.Cold forged steel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807119552542/1409044-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807119552542/1409044-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DMM 12mm Steel Locking D Carabiner",
+  "product_code": "1409-044",
+  "source_url": "https://www.mec.ca/en/product/1409-044/12mm-Steel-Locking-D-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "1.8cm"
+    ],
+    "Gate type": [
+      "Straight"
+    ],
+    "Ideal for": [
+      "High angle rescue"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Screwgate"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Material": [
+      "Zinc-plated steel"
+    ],
+    "Strength closed": [
+      "45kN"
+    ],
+    "Strength cross-loaded": [
+      "9kN"
+    ],
+    "Strength open": [
+      "15kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "235g"
+    ]
+  }
+}

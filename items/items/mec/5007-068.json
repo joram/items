@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Hand sanitizer",
+    "Hand Sanitizer 60ml"
+  ],
+  "description": "Hand Sanitizer is the super-hero of hand-cleaners: it needs no water in its mission to kill 99.9% of germs and get rid of grit and grime.Waterless application.Aloe-based ingredients.Contains alcohol, which also makes it great as a fire starter.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809969254430/5007068-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809969254430/5007068-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "One Step Hand Sanitizer 60ml",
+  "product_code": "5007-068",
+  "source_url": "https://www.mec.ca/en/product/5007-068/Hand-Sanitizer-60ml",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use",
+      "Travel",
+      "Camping and hiking",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Weight": [
+      "68g"
+    ]
+  }
+}

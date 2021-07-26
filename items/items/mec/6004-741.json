@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports footwear",
+    "Water shoes",
+    "Surfwalker Pro Mesh Water Shoes"
+  ],
+  "description": "Keep your footing in or out of the pool with this high-tech aquatic shoe. A mesh upper breathes and drains well, and has less of an environmental impact than neoprene. The hydrophilic insole won't soak up water, and the sole channels water out from underfoot for improved grip on pool decks and other slippery surfaces.Engineered mesh upper breathes and drains well.Neoprene-free construction.Hydrophilic rubber insole doesn't soak up water.Outsole disperses water for improved grip on slippery surfaces.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044166836254/6004741-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044173226014/6004741-BK000-ALT-FABRIC.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044173389854/6004741-BK000-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044166836254/6004741-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044173226014/6004741-BK000-ALT-FABRIC.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044173389854/6004741-BK000-ALT-SOLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044166836254/6004741-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044173226014/6004741-BK000-ALT-FABRIC.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044173389854/6004741-BK000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044166836254/6004741-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044173226014/6004741-BK000-ALT-FABRIC.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044173389854/6004741-BK000-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Speedo Surfwalker Pro Mesh Water Shoes - Men's",
+  "product_code": "6004-741",
+  "source_url": "https://www.mec.ca/en/product/6004-741/Surfwalker-Pro-Mesh-Water-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Ideal for": [
+      "Watersports"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Outsole": [
+      "S-Trac rubber"
+    ],
+    "Upper material": [
+      "Mesh"
+    ]
+  }
+}

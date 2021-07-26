@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike computers",
+    "Mounts and sensors for bike computers",
+    "Wiring, sensors and parts for bike computers",
+    "Speed& Cadence Sensor 2 Bundle"
+  ],
+  "description": "Transmitting over both Bluetooth and ANT+ these compact sensors capture speed, distance and pedal strokes per minute, whether you\u2019re riding outside or on a trainer. With no magnets or other exposed parts to line up, they\u2019re a cinch to install, maintain and switch between bikes. It's compatible with units that support separate channels for speed and cadence (not units that combine the 2 signals). If your device only has one menu item for speed/cadence, then this product is not compatible.Bluetooth\u2122 and ANT+\u2122 secure digital transmission technology.Speed Sensor 2 has a memory allowing the unit to track your rides, even when you aren\u2019t using your phone or bike computer. The sensor will start a ride session when you start rolling and stop that session when you come to a stop, synching that ride to your phone (running Garmin Connect) or computer next time they are in range.Each unit use a single CR2032 battery life is approximately 360 hours.Range is 10m.Waterproof to 10 meters (does not function underwater).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034896900126/6005146-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034896900126/6005146-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Garmin Speed & Cadence Sensor 2 Bundle",
+  "product_code": "6005-146",
+  "source_url": "https://www.mec.ca/en/product/6005-146/Speed%26-Cadence-Sensor-2-Bundle",
+  "tech_specs": {
+    "ANT+ compatible\n\nEnsures seamless digital wireless communication between ANT+ devices. For example, data from an ultra-low power wireless sensor can be displayed on a bike computer or smartphone, then downloaded to a PC, etc.": [
+      "Yes"
+    ],
+    "Bluetooth": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Road cycling",
+      "Sport road cycling",
+      "Cycle training",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

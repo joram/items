@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Aurora Beanie"
+  ],
+  "description": "Warmth and coverage for bluebird winter days. The diamond knit is eye-catching and holds a nice amount of heat.Soft acrylic, merino wool blend is naturally antimicrobial.Fabric has UPF 50+ sun protection.Polyester microfleece earband.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148709306398/6013508-MXP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700131358/6013508-MXP00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700164126/6013508-MXP00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700262430/6013508-MXP00-ALT-PATTERN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148709339166/6013508-MXG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148709306398/6013508-MXP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700131358/6013508-MXP00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700164126/6013508-MXP00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700262430/6013508-MXP00-ALT-PATTERN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148709339166/6013508-MXG00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148709306398/6013508-MXP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700131358/6013508-MXP00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700164126/6013508-MXP00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700262430/6013508-MXP00-ALT-PATTERN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148709339166/6013508-MXG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148709306398/6013508-MXP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700131358/6013508-MXP00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700164126/6013508-MXP00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700262430/6013508-MXP00-ALT-PATTERN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148709339166/6013508-MXG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sunday Afternoons Aurora Beanie - Women's",
+  "product_code": "6013-508",
+  "source_url": "https://www.mec.ca/en/product/6013-508/Aurora-Beanie",
+  "tech_specs": {
+    "Fabric content": [
+      "50% merino wool",
+      "50% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Secondary fabric": [
+      "100% polyester"
+    ]
+  }
+}

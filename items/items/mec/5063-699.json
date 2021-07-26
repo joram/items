@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Wash, repair and maintenance",
+    "Cleaners and waterproofers",
+    "Sandal Wash"
+  ],
+  "description": "A foaming cleaner for use on waterproof footwear. Great for getting rid of mud and grime and revitalizing the DWR finish on your sandals. This Sandal Wash can also be used as a pre-wash before you use a re-waterproofing treatment.Water-based formula is biodegradable.Sponge on, rub in, rinse and allow footwear to air-dry.Contains 125ml.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994972958750/5063699-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994972958750/5063699-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nikwax Sandal Wash",
+  "product_code": "5063-699",
+  "source_url": "https://www.mec.ca/en/product/5063-699/Sandal-Wash",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Type": [
+      "Cleanser"
+    ],
+    "Volume": [
+      "125ml"
+    ]
+  }
+}

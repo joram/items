@@ -1,0 +1,93 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Shepherds Pie"
+  ],
+  "description": "A French-Canadian take on an English Classic. The culinary wizards at Happy Yak have worked their magic on this pastoral delight, presenting an authentic p\u00e2t\u00e9 chinois.Happy Yak knows that some MUST have a little ketchup with their p\u00e2t\u00e9 chinois, so they have included 2 pouches of Heinz 57\u00ae.Ingredients: beef mix (freeze-dried extra lean ground beef (beef, onion, spices), freeze-dried corn) gravy (glucose solids, corn starch, hydrolysed corn protein, potato starch, garlic powder, sugar, caramel, yeast extract, onion powder, salt, tomato powder, spices), dehydrated onion flakes. potato mix (potato flakes, skimmed milk powder, salt, spices.)May contain: peanuts, sesame, egg, milk, fish, sea food, soy, wheat and mustard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319671326/6004910-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035444256798/6004910-NOC02-ALT-PREPARED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319671326/6004910-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035444256798/6004910-NOC02-ALT-PREPARED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319671326/6004910-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035444256798/6004910-NOC02-ALT-PREPARED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319671326/6004910-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035444256798/6004910-NOC02-ALT-PREPARED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Shepherds Pie",
+  "product_code": "6004-910",
+  "source_url": "https://www.mec.ca/en/product/6004-910/Shepherds-Pie",
+  "tech_specs": {
+    "Calories per serving": [
+      "440Cal"
+    ],
+    "Carbohydrates": [
+      "56g"
+    ],
+    "Cholesterol": [
+      "70mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "No"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "4g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "34g"
+    ],
+    "Saturated fat": [
+      "4g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "720mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "12g"
+    ],
+    "Total fat": [
+      "9g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ]
+  }
+}

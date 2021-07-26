@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bicycle pumps",
+    "Bike pump parts and accessories",
+    "Anywhere Cage Adapter"
+  ],
+  "description": "Own a bike without cage mounting holes? Here's the solution to your thirst. Attach the bottle cage of your choice to your bike with this simple and effective solution.Fits tube diameters up to 80mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867414835230/5053475-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867414835230/5053475-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SKS Anywhere Cage Adapter",
+  "product_code": "5053-475",
+  "source_url": "https://www.mec.ca/en/product/5053-475/Anywhere-Cage-Adapter",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycle touring and bikepacking",
+      "Urban cycling",
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Material": [
+      "Plastic"
+    ],
+    "Mount": [
+      "Clamp"
+    ]
+  }
+}

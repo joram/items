@@ -1,0 +1,92 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth footwear",
+    "Youth boots",
+    "Youth winter boots",
+    "Snow Quest Lite 2.0 Waterproof Boots"
+  ],
+  "description": "Go play outside, even in the depths of winter. These boots keep kids feet warm and dry, with a no-fuss bungee and toggle closure that takes seconds to tighten.Bungee lacing system for quick adjustments.Waterproof-breathable membrane construction.200g M-Select Warm synthetic insulation and cozy, brushed-textile lining.400g M-Select Warm insulation in footbed.Grippy M-Select Grip rubber outsole is non-marking.Manufacturer\u2019s active temperature rating is -35\u00b0C.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134654914590/6010217-BK657.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647312414/6010217-BK657-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647345182/6010217-BK657-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647443486/6010217-BK657-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647476254/6010217-GY003-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647541790/6010217-GY003-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647509022/6010217-GY003-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647574558/6010217-GY003-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134654816286/6010217-GY003.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134654914590/6010217-BK657.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647312414/6010217-BK657-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647345182/6010217-BK657-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647443486/6010217-BK657-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647476254/6010217-GY003-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647541790/6010217-GY003-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647509022/6010217-GY003-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647574558/6010217-GY003-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134654816286/6010217-GY003.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134654914590/6010217-BK657.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647312414/6010217-BK657-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647345182/6010217-BK657-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647443486/6010217-BK657-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647476254/6010217-GY003-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647541790/6010217-GY003-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647509022/6010217-GY003-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647574558/6010217-GY003-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134654816286/6010217-GY003.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134654914590/6010217-BK657.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647312414/6010217-BK657-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647345182/6010217-BK657-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647443486/6010217-BK657-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647476254/6010217-GY003-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647541790/6010217-GY003-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647509022/6010217-GY003-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134647574558/6010217-GY003-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134654816286/6010217-GY003.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Merrell Snow Quest Lite 2.0 Waterproof Boots - Children to Youths",
+  "product_code": "6010-217",
+  "source_url": "https://www.mec.ca/en/product/6010-217/Snow-Quest-Lite-2-0-Waterproof-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Quick pull"
+    ],
+    "Height\n\nThe approximate boot height for the average person.": [
+      "Mid-calf"
+    ],
+    "Ideal for": [
+      "Active winter wear"
+    ],
+    "Insulation": [
+      "400g synthetic insulation",
+      "200g synthetic insulation"
+    ],
+    "Lining material": [
+      "Synthetic"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable inner boot": [
+      "No"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Nylon",
+      "EVA"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ]
+  }
+}

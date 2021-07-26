@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Fixed protection",
+    "Brush Nylon Tube 1/2\""
+  ],
+  "description": "Cleans a bolt hole of grit and dust.Size is 1/2in.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807422689310/5045019-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807422689310/5045019-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Climbtech Brush Nylon Tube 1/2\"",
+  "product_code": "5045-019",
+  "source_url": "https://www.mec.ca/en/product/5045-019/Brush-Nylon-Tube-1-2%22",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

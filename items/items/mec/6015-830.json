@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Tanks and sleeveless shirts",
+    "Highline Cotton Knit Tank"
+  ],
+  "description": "Enjoy sweater-season cozy in the middle of summer.Gentle organic cotton knit.Vintage silhouette and flattering neckline.Ribbed hem tucks easily into high waisted jeans.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199330689054/6015830-CLD50.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129133086/6015830-CLD50-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129296926/6015830-CLD50-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199330689054/6015830-CLD50.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129133086/6015830-CLD50-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129296926/6015830-CLD50-ALT-B.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199330689054/6015830-CLD50.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129133086/6015830-CLD50-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129296926/6015830-CLD50-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199330689054/6015830-CLD50.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129133086/6015830-CLD50-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199129296926/6015830-CLD50-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "tentree Highline Cotton Knit Tank - Women's",
+  "product_code": "6015-830",
+  "source_url": "https://www.mec.ca/en/product/6015-830/Highline-Cotton-Knit-Tank",
+  "tech_specs": {
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Long sleeved shirts",
+    "First Trail UPF Long Sleeve Shirt"
+  ],
+  "description": "You never know what the weather will do when you're on the trail. With water-repellent fabric and UPF 50 sun protection, this shirt is ready for it all.Woven polyester and elastane with a DWR finish to shed light rain.Fabric has 4-way stretch for unrestricted mobility.Zippered chest pocket.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767147550/6011952-WRI00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767082014/6011952-WRI00-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767213086/6011952-WRI00-ALT-MODEL-DETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767409694/6011952-WRI00-ALT-MODEL-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767606302/6011952-WRI00-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766426654/6011952-VIN06-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766557726/6011952-VIN06-ALT-MODEL-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766852638/6011952-VIN06-ALT-MODEL-DETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766885406/6011952-VIN06-ALT-MODEL-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766361118/6011952-VIN06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767147550/6011952-WRI00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767082014/6011952-WRI00-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767213086/6011952-WRI00-ALT-MODEL-DETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767409694/6011952-WRI00-ALT-MODEL-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767606302/6011952-WRI00-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766426654/6011952-VIN06-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766557726/6011952-VIN06-ALT-MODEL-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766852638/6011952-VIN06-ALT-MODEL-DETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766885406/6011952-VIN06-ALT-MODEL-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766361118/6011952-VIN06.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767147550/6011952-WRI00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767082014/6011952-WRI00-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767213086/6011952-WRI00-ALT-MODEL-DETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767409694/6011952-WRI00-ALT-MODEL-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767606302/6011952-WRI00-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766426654/6011952-VIN06-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766557726/6011952-VIN06-ALT-MODEL-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766852638/6011952-VIN06-ALT-MODEL-DETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766885406/6011952-VIN06-ALT-MODEL-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766361118/6011952-VIN06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767147550/6011952-WRI00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767082014/6011952-WRI00-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767213086/6011952-WRI00-ALT-MODEL-DETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767409694/6011952-WRI00-ALT-MODEL-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165767606302/6011952-WRI00-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766426654/6011952-VIN06-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766557726/6011952-VIN06-ALT-MODEL-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766852638/6011952-VIN06-ALT-MODEL-DETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766885406/6011952-VIN06-ALT-MODEL-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165766361118/6011952-VIN06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face First Trail UPF Long Sleeve Shirt - Women's",
+  "product_code": "6011-952",
+  "source_url": "https://www.mec.ca/en/product/6011-952/First-Trail-UPF-Long-Sleeve-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "86% polyester",
+      "14% elastane"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "123gsm"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Pockets": [
+      "1 zippered chest"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ],
+    "Weight": [
+      "255g (Small)"
+    ]
+  }
+}

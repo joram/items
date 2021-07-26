@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Saddles and seat posts",
+    "Saddles",
+    "Butterfly Chromoly Saddle"
+  ],
+  "description": "Terry has years of experience working with competitive and casual female cyclists. They\u2019ve brought it all to the design of the Butterfly.Low profile, flat top has a vinyl cover.Wider in the rear than most race saddles, for good support of a woman's sit bones.Nose and midsection are completely cut away for flexibility and comfort against soft tissues.Multi-density foam is slightly stiffer at the rear for more power while pedaling.Cromoly steel rails.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182663835678/6015046-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667767838/6015046-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667800606/6015046-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182663835678/6015046-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667767838/6015046-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667800606/6015046-BK000-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182663835678/6015046-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667767838/6015046-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667800606/6015046-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182663835678/6015046-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667767838/6015046-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667800606/6015046-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Terry Butterfly Chromoly Saddle - Women's",
+  "product_code": "6015-046",
+  "source_url": "https://www.mec.ca/en/product/6015-046/Butterfly-Chromoly-Saddle",
+  "tech_specs": {
+    "Cover material": [
+      "Vinyl"
+    ],
+    "Dimensions": [
+      "26\u00a0x\u00a015.5cm"
+    ],
+    "Ideal for": [
+      "Road cycling",
+      "Cycle touring",
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Rails": [
+      "Chromoly"
+    ],
+    "Shell": [
+      "Nylon"
+    ]
+  }
+}

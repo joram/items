@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Discover the Adirondacks"
+  ],
+  "description": "The Adirondacks boast 6 million acres of mountains and waters, 46 peaks over 4,000 feet, 3,000 lakes and ponds, and 30,000 miles of rivers and streams. So what do you put on your bucket list? This concise travel guide includes 50 multi-sport trips, turn-by-turn directions and maps, and trip planning advice for first-time visitors or seasoned explorers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815621668894/5029123-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815621668894/5029123-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Appalachian Mountain Club Discover the Adirondacks",
+  "product_code": "5029-123",
+  "source_url": "https://www.mec.ca/en/product/5029-123/Discover-the-Adirondacks",
+  "tech_specs": {
+    "Author": [
+      "Peter W. Kick"
+    ],
+    "ISBN": [
+      "9781934028315"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "246"
+    ],
+    "Published": [
+      "2012"
+    ],
+    "Regionality": [
+      "USA"
+    ]
+  }
+}

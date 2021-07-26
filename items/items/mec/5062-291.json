@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Casual socks",
+    "Flight Compression Socks"
+  ],
+  "description": "Wear these for long-haul plane flights and arrive with fresher legs. Graduated compression increases circulation for less swelling, fatigue and stiffness.Nylon and cotton blend is soft against the skin.Seamless toe with vented panel provides breathable, chafe-free comfort.Padded zones underfoot absorb shock and add comfort.Anatomical left and right footbed for improved fit.Medium firmness 15-20mmHg graduated compression helps fend off fatigue.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074415337502/5062291-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074429198366/5062291-BK006-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074415337502/5062291-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074429198366/5062291-BK006-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074415337502/5062291-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074429198366/5062291-BK006-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074415337502/5062291-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074429198366/5062291-BK006-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "2XU Flight Compression Socks - Unisex",
+  "product_code": "5062-291",
+  "source_url": "https://www.mec.ca/en/product/5062-291/Flight-Compression-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Recovery compression",
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "Yes"
+    ],
+    "Cuff height": [
+      "Knee"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "67% nylon",
+      "18% cotton",
+      "15% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

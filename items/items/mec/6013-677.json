@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bicycle pumps",
+    "Mini bike pumps",
+    "Millibar Dual Valve Mini Pump"
+  ],
+  "description": "The quicker you pump, the quicker you can get back to riding. Designed to fill high-volume MTB and fat bike tires in no time, the Millibar Dual Valve Mini Pump is easy to lock on to both Presta and Schrader valves. The light weight and small size mean you'll barely notice it in your pack, until it saves the day.Extendable hose and head system for improved comfort and to protect valves from the jarring motion of pumping.Compact size and low weight makes it ideal for all types of riding.Compatible with Presta and Schrader valves.Lever-actuated head provides a secure grip on the valve.High-volume pump makes inflating big tires up to 40psi a quick affair.Snap-fit frame mount included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150288822302/6013677-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150288822302/6013677-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fabric Millibar Dual Valve Mini Pump",
+  "product_code": "6013-677",
+  "source_url": "https://www.mec.ca/en/product/6013-677/Millibar-Dual-Valve-Mini-Pump",
+  "tech_specs": {
+    "Fits valve": [
+      "Presta",
+      "Schrader"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Length": [
+      "23.5cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Maximum psi": [
+      "40psi"
+    ],
+    "Pressure gauge": [
+      "No"
+    ],
+    "Type\n\nFloor pumps, frame fit pumps, mini pumps and CO2 inflators are for bicycle tires. Suspension pumps are used to add pressure to your bike shocks.": [
+      "Mini"
+    ]
+  }
+}

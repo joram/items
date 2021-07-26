@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Wash, repair and maintenance",
+    "Sleeping pad repair kits",
+    "Permanent Home Repair Kit"
+  ],
+  "description": "Make durable and lasting repairs to your sleeping pad.Requires 24-hour cure time, so it's not ideal for field repairs.Contains repair adhesive and fabric patches.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816553132062/5035170-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816553132062/5035170-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816553132062/5035170-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816553132062/5035170-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Therm-a-Rest Permanent Home Repair Kit",
+  "product_code": "5035-170",
+  "source_url": "https://www.mec.ca/en/product/5035-170/Permanent-Home-Repair-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "20g"
+    ]
+  }
+}

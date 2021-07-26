@@ -1,0 +1,83 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Personal protective face masks",
+    "Essential Face Mask Kit"
+  ],
+  "description": "Protect yourself and those around you when you leave home. This washable and ergonomic mask has adjustable ear loops and nose wire to provide a comfortable fit.Wicking fabric doesn't feel clammy.Includes 3 filters and protective storage pouch.Mask dimensions are 24.6 x 17cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448536606/6012408-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458367006/6012408-GRY00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458465310/6012408-GRY00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458694686/6012408-GRY00-ALT-STRAPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458006558/6012408-FAT00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458039326/6012408-FAT00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458268702/6012408-FAT00-ALT-STRAPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457777182/6012408-BK000-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457809950/6012408-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457842718/6012408-BK000-ALT-STRAPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448372766/6012408-FAT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136447782942/6012408-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448536606/6012408-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458367006/6012408-GRY00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458465310/6012408-GRY00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458694686/6012408-GRY00-ALT-STRAPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458006558/6012408-FAT00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458039326/6012408-FAT00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458268702/6012408-FAT00-ALT-STRAPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457777182/6012408-BK000-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457809950/6012408-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457842718/6012408-BK000-ALT-STRAPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448372766/6012408-FAT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136447782942/6012408-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448536606/6012408-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458367006/6012408-GRY00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458465310/6012408-GRY00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458694686/6012408-GRY00-ALT-STRAPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458006558/6012408-FAT00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458039326/6012408-FAT00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458268702/6012408-FAT00-ALT-STRAPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457777182/6012408-BK000-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457809950/6012408-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457842718/6012408-BK000-ALT-STRAPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448372766/6012408-FAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136447782942/6012408-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448536606/6012408-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458367006/6012408-GRY00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458465310/6012408-GRY00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458694686/6012408-GRY00-ALT-STRAPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458006558/6012408-FAT00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458039326/6012408-FAT00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136458268702/6012408-FAT00-ALT-STRAPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457777182/6012408-BK000-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457809950/6012408-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457842718/6012408-BK000-ALT-STRAPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448372766/6012408-FAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136447782942/6012408-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outdoor Research Essential Face Mask Kit - Unisex",
+  "product_code": "6012-408",
+  "source_url": "https://www.mec.ca/en/product/6012-408/Essential-Face-Mask-Kit",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Emergency preparedness",
+      "Everyday use"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Weight": [
+      "28g"
+    ]
+  }
+}

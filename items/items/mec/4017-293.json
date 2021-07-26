@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "Siamese Slik Clip"
+  ],
+  "description": "Unique clip that allows you to do a quick field repair to connect two webbing loops. The Siamese Slik Clip works with webbing of 1\" width or less.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815562162206/4017293-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815562162206/4017293-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Web Source Siamese Slik Clip",
+  "product_code": "4017-293",
+  "source_url": "https://www.mec.ca/en/product/4017-293/Siamese-Slik-Clip",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

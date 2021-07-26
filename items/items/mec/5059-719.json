@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Climbing chalk",
+    "Podium Chalk"
+  ],
+  "description": "When you need your chalk to last a few moves longer, slap on a bit of this. When used as a base for regular chalk, liquid chalk provides an extra layer of grip for friction dependent projects or super-hot days.Creamy textures applies evenly and dries quickly.Made with 80% alcohol base.Contains Silica Gel to keep your hands dry for longer.Compact 100ml size fits in your chalk bucket pocket and is travel friendly.Bottles were updated for 2021 with an easy-to-close lid.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188125638686/5059719-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188125638686/5059719-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Flashed Podium Chalk",
+  "product_code": "5059-719",
+  "source_url": "https://www.mec.ca/en/product/5059-719/Podium-Chalk",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing",
+      "Bouldering",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Type of chalk": [
+      "Liquid"
+    ]
+  }
+}

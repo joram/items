@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Kayak paddles",
+    "Whitewater",
+    "Rage Advantage Grip Paddle"
+  ],
+  "description": "For river running, the medium power forgives misplaced plants or eddy ambushes, while the high performance dihedral lets you exercise precise control whether you\u2019re a beginner or an expert.Light carbon fibre shaft.Durable fiberglass/nylon blades.Blade shape suits whitewater paddlers, with a design that promotes a powerful stroke.Soft Advantage Grips dampen vibration.7 degree wrist offset reduces shoulder fatigue and strain on your forearms.Ergonomically shaped grips promote proper hand placement.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096210350110/6009184-MAN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096231288862/6009184-MAN00-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096210350110/6009184-MAN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096231288862/6009184-MAN00-ALT-FULL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096210350110/6009184-MAN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096231288862/6009184-MAN00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096210350110/6009184-MAN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096231288862/6009184-MAN00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Accent Rage Advantage Grip Paddle",
+  "product_code": "6009-184",
+  "source_url": "https://www.mec.ca/en/product/6009-184/Rage-Advantage-Grip-Paddle",
+  "tech_specs": {
+    "Blade dimensions": [
+      "46\u00a0x\u00a020cm\u00a0(18.1\u00a0x\u00a07.7in.)"
+    ],
+    "Blade material": [
+      "Fibreglass reinforced plastic"
+    ],
+    "Blade shape\n\nBlade shapes are designed to apply power efficiently. Short, wide: immediate power. Long, narrow: better leverage in turbulent water. Wing: channels water for maximum power and speed.": [
+      "Performance"
+    ],
+    "Feathered\n\nThe angle of two blades relative to one another. Parallel blade = unfeathered. Offset blades = feathered. Feathered paddles reduce wind resistance. Adjustable paddles can be adjusted left or right.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Kayak river running"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Shaft material": [
+      "Carbon fibre"
+    ],
+    "Shaft type": [
+      "Straight"
+    ]
+  }
+}

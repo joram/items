@@ -1,0 +1,82 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry skis",
+    "FINDr 102 Skis"
+  ],
+  "description": "Go find your happy powder place. Light enough to tour on but powerful enough to ride on, these skis perform everywhere in the alpine. Their PU sidewalls dampen your ride, and the carbon fibre construction stabilizes the ski through a broad range of snow conditions. The result...a floaty ski that feels playful in powder, but versatile enough to tackle tours and technical objectives.Carbon fibre layering stabilizes the ski while reducing weight.Canadian aspen wood core with full thickness base is resilient, light and durable.Titanal aluminum mounting plate sets a solid base for your binding of choice.Magnetic contact points make shouldering skis easy without a strap.Polyurethane sidewall construction dampens your ride.Hardened steel edges resist denting or corrosion.Early rise tip and tail makes the ski easy to handle in mixed or soft conditions.Classic camber (4mm) livens up the ski across tough alpine conditions.Made in Canada. Woot!",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048223809566/6003531-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048216010782/6003531-RED00-ALT-CONSTRUCTION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048223809566/6003531-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048216010782/6003531-RED00-ALT-CONSTRUCTION.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048223809566/6003531-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048216010782/6003531-RED00-ALT-CONSTRUCTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048223809566/6003531-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048216010782/6003531-RED00-ALT-CONSTRUCTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "G3 FINDr 102 Skis - Unisex",
+  "product_code": "6003-531",
+  "source_url": "https://www.mec.ca/en/product/6003-531/FINDr-102-Skis",
+  "tech_specs": {
+    "Ability\n\nBeginner: new or getting back into skiing.  Intermediate: confident with turning and stopping.  Advanced: highly confident carver. Expert: steeps, drops, park, double blacks -- bring it on.": [
+      "Expert",
+      "Intermediate",
+      "Advanced"
+    ],
+    "Bindings included": [
+      "No"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Sandwich"
+    ],
+    "Core": [
+      "Wood",
+      "Carbon"
+    ],
+    "Dimension": [
+      "133-102-120mm"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Alpine touring"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Rocker/camber profile": [
+      "Rocker tail",
+      "Full camber"
+    ],
+    "Snow conditions": [
+      "Mixed",
+      "Powder"
+    ],
+    "Terrain": [
+      "Off-Piste"
+    ],
+    "Turning radius": [
+      "18.6m (164cm)",
+      "20m (169cm)",
+      "21.4m (174cm)",
+      "22.6m (179cm)",
+      "23.9m (184cm)",
+      "25.2m (189cm)"
+    ],
+    "Weight": [
+      "1.28kg (164cm)",
+      "1.33kg (169cm)",
+      "1.39kg (174cm)",
+      "1.44kg (179cm)",
+      "1.5kg (184cm)",
+      "1.55kg (189cm)"
+    ]
+  }
+}

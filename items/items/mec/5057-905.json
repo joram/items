@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Wash, repair and maintenance",
+    "Cleaners and waterproofers",
+    "Footwear& Gear Cleaner 275ml"
+  ],
+  "description": "Specialized cleaning for technical gear. This spray-on cleaner makes it easy to wash hiking boots, backpacks and other equipment that can't go in the washing machine. It's also great for spot-washing waterproof jackets and pants that don't need the full treatment.Safe for use on any footwear or technical fabrics that aren't machine washable.Protects existing water-repellent finishes.Removes dirt and neutralizes odors.To use, brush off any loose dirt or debris. Spray on affected area, then wipe off with a wet, clean cloth. Let your gear dry naturally.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926073815070/5057905-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926073815070/5057905-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926073815070/5057905-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926073815070/5057905-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Grangers Footwear & Gear Cleaner 275ml",
+  "product_code": "5057-905",
+  "source_url": "https://www.mec.ca/en/product/5057-905/Footwear%26-Gear-Cleaner-275ml",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Type": [
+      "Cleanser"
+    ],
+    "Volume": [
+      "275ml"
+    ]
+  }
+}

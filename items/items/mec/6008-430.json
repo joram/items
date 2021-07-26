@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Games and gifts",
+    "Games",
+    "Freestyle Delta Kite"
+  ],
+  "description": "Bring the freedom of a kite with you on your next hike or picnic. The Freestyle Delta Kite catches the wind easily and soars to smile-inducing heights. The compact design is easy to pack and weighs next to nothing.Made from ripstop nylon with fibreglass poles.Single line is easy to control and rolls up into a comfortable ring handle.Stabilizing tail keeps the kite soaring freely.Designed for winds from 9 to 32kph.Dimensions: 56 x 30 x 6cm, collapsed: 35 x 12 x 3cm.Includes: 30m of braided line, a winder and a carry bag.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081220071454/6008430-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081218039838/6008430-NOC02-ALT-PACKAGE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081220071454/6008430-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081218039838/6008430-NOC02-ALT-PACKAGE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081220071454/6008430-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081218039838/6008430-NOC02-ALT-PACKAGE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081220071454/6008430-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081218039838/6008430-NOC02-ALT-PACKAGE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outside Inside Freestyle Delta Kite",
+  "product_code": "6008-430",
+  "source_url": "https://www.mec.ca/en/product/6008-430/Freestyle-Delta-Kite",
+  "tech_specs": {
+    "Ideal for": [
+      "Fun and games"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

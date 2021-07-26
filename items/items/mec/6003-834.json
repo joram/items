@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry ski boots",
+    "S/Lab Mtn Ski Boots"
+  ],
+  "description": "These all-mountain boots will underwrite your quest for touring fit and performance. The S/Lab Mtn Ski Boots hike up like light touring boots and ski down like nimble downhill chargers. With 47 degrees of motion, they feel easy and natural on a long hike up. Thermoformable liners tune the fit with precision, and the shells are light enough to encourage you to climb high into the alpine for an epic top to bottom line.Grilamid+ lower shell with an Pebax cuff.Custom Shell HD is heat-mouldable to provide the best fit possible.Carbon fibre spine is rigid to allow a wide range of motion and forward flex.Motion Flex Technology offers 47 degrees of motion.24mm riveted oversized pivot reduces play for precision and direct power transmission.Textile cover on lower tongue saves weight and adds comfort in walk mode.My Customfit 3D Freeride liner is ultralight and thermoformable.Surelock ski/walk mechanism has metal on metal locking system for reliable support.2 buckles and a cam-actuated booster strap provide a precise fit.Contagrip sole provides grip and the rockered sole allows a natural walking motion.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053388832798/6003834-BT000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053388832798/6003834-BT000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon S/Lab Mtn Ski Boots - Men's",
+  "product_code": "6003-834",
+  "source_url": "https://www.mec.ca/en/product/6003-834/S-Lab-Mtn-Ski-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "Alpine touring",
+      "Tech"
+    ],
+    "Buckles": [
+      "2"
+    ],
+    "Flex index\n\nIndicates how stiff the boots are when flexed forward.  Flex ranges from 50 (soft) to 130 (very stiff). Note: There is currently no industry standardized test.": [
+      "120"
+    ],
+    "Hike mode\n\nA mechanism that allows to release the boot cuff to switch to tour mode.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Alpine touring",
+      "Freeride and freeskiing"
+    ],
+    "Lace-up option": [
+      "Yes"
+    ],
+    "Last width\n\nThe width of the interior of the boot shell across the widest part of the forefoot.": [
+      "98-104mm"
+    ],
+    "Lower shell material": [
+      "Grilamid"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Range of motion\n\nThe range of motion of the boot when in hike mode.": [
+      "47\u00ba"
+    ],
+    "Shell cuff material": [
+      "Pebax"
+    ],
+    "Sole type\n\nAlpine Touring: with tread; compatible with DIN touring bindings. Alpine Touring Tech (Tech): with tread; compatible with G3 Onyx and Dynafit. Downhill: without tread; compatible with freeride/downhill bindings.": [
+      "Tech"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ],
+    "Weight": [
+      "1.57kg (27.5)"
+    ]
+  }
+}

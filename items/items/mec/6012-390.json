@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "BD Cam T-Shirt"
+  ],
+  "description": "The backbone of pretty much every climber's rack.Pre-shrunk, soft organic cotton jersey with just a hint of spandex for a comfortable stretch.Regular fit wears like an old favourite.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167355674654/6012390-CYP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167348727838/6012390-CYP00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167355674654/6012390-CYP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167348727838/6012390-CYP00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167355674654/6012390-CYP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167348727838/6012390-CYP00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167355674654/6012390-CYP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167348727838/6012390-CYP00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond BD Cam T-Shirt - Men's",
+  "product_code": "6012-390",
+  "source_url": "https://www.mec.ca/en/product/6012-390/BD-Cam-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "96% organically grown cotton",
+      "4% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "160gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "India"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ]
+  }
+}

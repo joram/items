@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Family Biking"
+  ],
+  "description": "This family guide to safe cycling is for parents and parents-to-be who want to intoduce their children to the joys and responsibilities of cycling. Learn about safe methods of transporting your children via trailer bike or tandems, taking them on bicycle tours, bicycle fitting, bicycle safety, and how to deal with dangerous or potentially dangerous situations.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815778529310/5049394-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815778529310/5049394-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Falcon Family Biking",
+  "product_code": "5049-394",
+  "source_url": "https://www.mec.ca/en/product/5049-394/Family-Biking",
+  "tech_specs": {
+    "Author": [
+      "Christine Hurst, Robert Hurst"
+    ],
+    "ISBN": [
+      "9781493009893"
+    ],
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "224"
+    ],
+    "Published": [
+      "2015"
+    ]
+  }
+}

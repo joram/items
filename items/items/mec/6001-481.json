@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Bike socks",
+    "Woolie Boolie 6in. Socks"
+  ],
+  "description": "These breathable, high-quality, mid-weight wool cycling socks provide warmth and comfort when riding in cool conditions.Made of 70% American merino wool, 27% nylon and 3% Lycra\u00ae.Long wool cuff provides extra protection under cycling tights.Machine washable in cold water without bleach. Can be tumble dried at low heat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008650420254/6001481-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008650420254/6001481-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DeFeet Woolie Boolie 6in. Socks - Unisex",
+  "product_code": "6001-481",
+  "source_url": "https://www.mec.ca/en/product/6001-481/Woolie-Boolie-6in-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "70% merino wool",
+      "27% nylon",
+      "3% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

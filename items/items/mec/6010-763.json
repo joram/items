@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "ECO Hike Crew Socks"
+  ],
+  "description": "These technical socks are double-layered to reduce friction as you move. Great for hiking and other long days on your feet, they are naturally resistant to odour.Outer layer is made of Repreve\u00ae polyester, nylon and Lycra.Repreve\u00ae polyester is made from plastic bottles retrieved from waterways.Inner layer is RWool\u00ae upcycled wool, nylon and Lycra.Mesh panels provide air flow to keep your feet cool.Stabilizer zone in arches lock socks in place.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591947294/6010763-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591619614/6010763-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591947294/6010763-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591619614/6010763-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591947294/6010763-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591619614/6010763-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591947294/6010763-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591619614/6010763-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "WrightSock ECO Hike Crew Socks - Unisex",
+  "product_code": "6010-763",
+  "source_url": "https://www.mec.ca/en/product/6010-763/ECO-Hike-Crew-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "68% recycled polyester",
+      "24% nylon",
+      "8% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

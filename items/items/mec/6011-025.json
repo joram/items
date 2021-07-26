@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Bike chain service",
+    "CM-5.3 Cyclone Chain Scrubber"
+  ],
+  "description": "When your chain reaches next-level gunk status, it's time for a scrub. Fill the solvent reservoir, fasten it to the chain and rotate the cranks backward. The stiff-bristled rotating brushes take care of the rest.Fluid reservoir holds 60ml of solvent.Magnet within the reservoir draws particles away from chain to prevent redistribution.Internal sponge prevents drips while cleaning.Burly, stiff brushes scrub chains clean.Ergonomic handle is comfortable to use.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138053578782/6011025-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066587678/6011025-NOC02-ALT-BIKE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066685982/6011025-NOC02-ALT-CHAIN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138067243038/6011025-NOC02-ALT-ZOOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138053578782/6011025-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066587678/6011025-NOC02-ALT-BIKE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066685982/6011025-NOC02-ALT-CHAIN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138067243038/6011025-NOC02-ALT-ZOOM.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138053578782/6011025-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066587678/6011025-NOC02-ALT-BIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066685982/6011025-NOC02-ALT-CHAIN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138067243038/6011025-NOC02-ALT-ZOOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138053578782/6011025-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066587678/6011025-NOC02-ALT-BIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066685982/6011025-NOC02-ALT-CHAIN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138067243038/6011025-NOC02-ALT-ZOOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool CM-5.3 Cyclone Chain Scrubber",
+  "product_code": "6011-025",
+  "source_url": "https://www.mec.ca/en/product/6011-025/CM-5-3-Cyclone-Chain-Scrubber",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

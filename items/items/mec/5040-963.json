@@ -1,0 +1,90 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Chicken Gumbo"
+  ],
+  "description": "Deliciously spicy chicken gumbo with chicken, sweet corn, bell peppers, okra, onion, and celery \u2013 a tasty meal for the backcountry.New packaging clearly shows allergens and nutritional information, and has a graduated scale on one side, so you can gauge how much water to add to your meal.No cooking required, just add boiling water.Ingredients:  instant white rice, cooked freeze-dried diced chicken, chopped onion, mixed red and green bell pepper, freeze-dried sweet corn, tomato flakes, potato starch, low sodium salt, freeze-dried okra, low sodium chicken broth [maltodextrin, salt, torula yeast, dehydrated vegetables (onion, celery, parsley, spinach, garlic, carrot), potato flour, xanthan gum, spices, extractives of spice (including turmeric and paprika), soy lecithin.  Not more than 2% soybean oil added as a processing aid], onion granules, garlic granules, minced green onion, sassafras leaf powder, black pepper, and cayenne pepper.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812445696030/5040963-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812445696030/5040963-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "AlpineAire Chicken Gumbo",
+  "product_code": "5040-963",
+  "source_url": "https://www.mec.ca/en/product/5040-963/Chicken-Gumbo",
+  "tech_specs": {
+    "Calories per serving": [
+      "270Cal"
+    ],
+    "Carbohydrates": [
+      "50g"
+    ],
+    "Cholesterol": [
+      "30mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "3g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Protein": [
+      "16g"
+    ],
+    "Saturated fat": [
+      "0g"
+    ],
+    "Serving size": [
+      "1/2 package"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "630mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "8g"
+    ],
+    "Total fat": [
+      "2g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ],
+    "Weight": [
+      "156g"
+    ]
+  }
+}

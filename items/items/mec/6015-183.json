@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing holds",
+    "Stealth 2Tex Crimps 10 Pack"
+  ],
+  "description": "Love 'em or hate 'em, dual-textured holds are a staple in all modern gyms. These 2Tex crimps are low-profile and finger friendly, great for forcing movement or training for your next comp.Made from polyurethane.Comes with mounting hardware.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192208367646/6015183-RED00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192208367646/6015183-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "eGrips Stealth 2Tex Crimps 10 Pack",
+  "product_code": "6015-183",
+  "source_url": "https://www.mec.ca/en/product/6015-183/Stealth-2Tex-Crimps-10-Pack",
+  "tech_specs": {
+    "Hold size": [
+      "Small"
+    ],
+    "Ideal for": [
+      "Indoor route building"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Urethane"
+    ],
+    "Mounting hardware": [
+      "Bolts"
+    ],
+    "Number of holds": [
+      "10"
+    ]
+  }
+}

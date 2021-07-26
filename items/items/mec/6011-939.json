@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Skirts and dresses",
+    "Skirts",
+    "Class V Skort"
+  ],
+  "description": "Navigate high water or action-packed days with this versatile skort. FlashDry-XD\u2122 technology is highly abrasion resistant and dries in a, you guessed it, flash.Made with stretch nylon with FlashDry-XD\u2122 technology to keep you dry and cool.Wide waistband with a drawcord.Waistband and inner shorts are supple knit fabric.Front pockets and secure-zip pocket on right hip.Length: 17 inches in back.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165763411998/6011939-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165749649438/6011939-BK000-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165763706910/6011939-BK000-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165763903518/6011939-BK000-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165763411998/6011939-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165749649438/6011939-BK000-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165763706910/6011939-BK000-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165763903518/6011939-BK000-ALT-MODEL-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165763411998/6011939-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165749649438/6011939-BK000-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165763706910/6011939-BK000-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165763903518/6011939-BK000-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165763411998/6011939-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165749649438/6011939-BK000-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165763706910/6011939-BK000-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165763903518/6011939-BK000-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Class V Skort - Women's",
+  "product_code": "6011-939",
+  "source_url": "https://www.mec.ca/en/product/6011-939/Class-V-Skort",
+  "tech_specs": {
+    "Fabric content": [
+      "90% nylon",
+      "10% Lycra Spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "230gsm"
+    ],
+    "Ideal for": [
+      "Fitness and training",
+      "Running",
+      "Watersports"
+    ],
+    "Length": [
+      "Above knee"
+    ],
+    "Made in": [
+      "Jordan"
+    ],
+    "Pockets": [
+      "2 front",
+      "1 side zippered"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

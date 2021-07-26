@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Gloves and mittens",
+    "Gloves",
+    "Abner Double Knit Gloves"
+  ],
+  "description": "Simple and classic wool gloves. Nothing fancy, just 4 fingers and a thumb.Made of 85% wool, with nylon to add durability.Double knit ribbed cuffs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9115482783774/6010843-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134998519838/6010843-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9115482783774/6010843-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134998519838/6010843-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9115482783774/6010843-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134998519838/6010843-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9115482783774/6010843-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134998519838/6010843-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Auclair Abner Double Knit Gloves - Men's",
+  "product_code": "6010-843",
+  "source_url": "https://www.mec.ca/en/product/6010-843/Abner-Double-Knit-Gloves",
+  "tech_specs": {
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Liner type": [
+      "None"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "85% wool",
+      "15% nylon"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Wool"
+    ],
+    "Touchscreen compatible": [
+      "No"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "None"
+    ]
+  }
+}

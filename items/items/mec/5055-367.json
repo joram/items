@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country classic",
+    "Classic ski bindings",
+    "Tour Step In IFP Bindings"
+  ],
+  "description": "Entry-level classic bindings with a step-in design locks with an audible click, so you know when it's securely closed. The wide binding contact area adds torsional rigidity for good power transfer and control. The low-stack height gives you a feel for the snow surface as you power across it.Step-in design automatically clicks closed.Low-profile stack height is stable in the glide phase and feels precise as you ski.Compatible with IFP mounting plate only.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8910496006174/5055367-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8910495973406/5055367-NOC02-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8910496006174/5055367-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8910495973406/5055367-NOC02-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8910496006174/5055367-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8910495973406/5055367-NOC02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8910496006174/5055367-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8910495973406/5055367-NOC02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rossignol Tour Step In IFP Bindings - Unisex",
+  "product_code": "5055-367",
+  "source_url": "https://www.mec.ca/en/product/5055-367/Tour-Step-In-IFP-Bindings",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "NNN"
+    ],
+    "Ideal for": [
+      "Recreational classic skiing"
+    ],
+    "Made in": [
+      "Bosnia"
+    ],
+    "Weight": [
+      "238g"
+    ]
+  }
+}

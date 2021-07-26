@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tires",
+    "Strada USH 650B x 50 Folding Tire"
+  ],
+  "description": "This durable, high-volume tire is a fast companion for adventure bike touring. At 50mm wide, it provides more grip and comfort than you might expect. The smooth rolling centre and grippy edges let you staightline it with speed and remain in control through corners.Fast, durable and smooth rolling centre tread.Exaggerated chevron pattern on sides for cornering traction.Integrated puncture protection belt under the tread.True story: USH is the airport code of Ushuaia in Tierra del Fuego, Argentina, the world's southern-most city, and destination for adventure bike touring.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951187832862/5060309-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951764910110/5060309-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951764975646/5060309-BK000-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951187832862/5060309-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951764910110/5060309-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951764975646/5060309-BK000-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951187832862/5060309-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951764910110/5060309-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951764975646/5060309-BK000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951187832862/5060309-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951764910110/5060309-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951764975646/5060309-BK000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Donnelly Strada USH 650B x 50 Folding Tire",
+  "product_code": "5060-309",
+  "source_url": "https://www.mec.ca/en/product/5060-309/Strada-USH-650B-x-50-Folding-Tire",
+  "tech_specs": {
+    "Bead\n\nThe bead holds the tire onto the rim. Beads may be hoops of wire, or made of a flexible material which allows them to be folded compactly. Folding tires are easier to store or pack on trips.": [
+      "Folding"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "TPI\n\nThreads per inch. Tires with a higher TPI tend to be more supple and lighter, with less rolling resistance, but are less durable.": [
+      "60"
+    ],
+    "Tire size": [
+      "650B X 50"
+    ],
+    "Tire type": [
+      "Clincher"
+    ],
+    "Weight": [
+      "610g"
+    ],
+    "Wheel position": [
+      "Rear",
+      "Front"
+    ]
+  }
+}

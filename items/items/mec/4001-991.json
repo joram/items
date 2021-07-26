@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling clothing accessories",
+    "Cycling masks and balaclavas",
+    "Techno Valves"
+  ],
+  "description": "Replacement valves for your Respro\u00ae Mask.Contains 2.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806477135902/4001991-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806477135902/4001991-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Respro Techno Valves",
+  "product_code": "4001-991",
+  "source_url": "https://www.mec.ca/en/product/4001-991/Techno-Valves",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycle commuting",
+      "Sport road cycling",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Weight": [
+      "60g"
+    ]
+  }
+}

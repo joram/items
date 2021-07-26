@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Climbing books",
+    "Guidebooks",
+    "Indian Creek Climbing Map"
+  ],
+  "description": "The perfect companion to your Indian Creek climbing guidebook. Navigate to climbs with confidence you're on the right track. This handy little map shows crags, roads, tracks, access trails and amenities. Full colour, printed on rtear-proof, water-resistant PolyArt\u00ae paper. Opens up to 28 x 43cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870712344606/5054244-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870712344606/5054244-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Indian Creek Climbing Map",
+  "product_code": "5054-244",
+  "source_url": "https://www.mec.ca/en/product/5054-244/Indian-Creek-Climbing-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "USA"
+    ],
+    "Scale": [
+      "1:28,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

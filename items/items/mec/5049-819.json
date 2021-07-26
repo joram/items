@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Trail Running: Preparez vos Defis"
+  ],
+  "description": "Looking to push your trail runs into the ultra category? Learn about technique, nutrition and training plans from two experienced ultramarthon competitors. Also includes advice for classic European trail races including UTMB, TOR des G\u00e9ants and more. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815779741726/5049819-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815779741726/5049819-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Reference Trail Running: Preparez vos Defis",
+  "product_code": "5049-819",
+  "source_url": "https://www.mec.ca/en/product/5049-819/Trail-Running%3A-Preparez-vos-Defis",
+  "tech_specs": {
+    "Author": [
+      "Sylvain Bazin, Jean-Marc Delorme"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9782851809186"
+    ],
+    "Ideal for": [
+      "Trail running"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "256"
+    ],
+    "Published": [
+      "2015"
+    ]
+  }
+}

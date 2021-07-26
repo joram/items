@@ -1,0 +1,82 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Trousers",
+    "Trekr Pants"
+  ],
+  "description": "Trek up a peak, around a lake or through the forest. The stretchy and soft fabric of the Trekr Pants is comfy all day long. Need extra carrying capacity? Two low-profile side pockets add storage without bulk. When the weather warms up, cinch up the cuffs to convert them to cute capris.Made from stretchy REKOIL fabric that feels soft.K\u00dcHLKURVE contoured waistband is higher in the back for extra coverage.Internal drawcord and belt loops give you options for fine-tuning the fit.2 front pockets, 2 back pockets, and 2 hidden side zippered pockets for on-the-go storage.On hot days, cinch up the legs to convert the pants to capris.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995126706206/5059527-STN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994942910494/5059527-STN00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995127099422/5059527-STN00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995121496094/5059527-CHA00-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995122905118/5059527-CHA00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995125231646/5059527-CHA00-ALT-FLATRUCKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995125428254/5059527-CHA00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995127066654/5059527-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995126706206/5059527-STN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994942910494/5059527-STN00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995127099422/5059527-STN00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995121496094/5059527-CHA00-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995122905118/5059527-CHA00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995125231646/5059527-CHA00-ALT-FLATRUCKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995125428254/5059527-CHA00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995127066654/5059527-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995126706206/5059527-STN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994942910494/5059527-STN00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995127099422/5059527-STN00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995121496094/5059527-CHA00-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995122905118/5059527-CHA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995125231646/5059527-CHA00-ALT-FLATRUCKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995125428254/5059527-CHA00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995127066654/5059527-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995126706206/5059527-STN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994942910494/5059527-STN00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995127099422/5059527-STN00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995121496094/5059527-CHA00-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995122905118/5059527-CHA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995125231646/5059527-CHA00-ALT-FLATRUCKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995125428254/5059527-CHA00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995127066654/5059527-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kuhl Trekr Pants - Women's",
+  "product_code": "5059-527",
+  "source_url": "https://www.mec.ca/en/product/5059-527/Trekr-Pants",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Converts to capris"
+    ],
+    "Fabric content": [
+      "57% polyester",
+      "43% nylon"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "169gsm"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "32in. (all sizes)"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "2 side zippered",
+      "2 back"
+    ],
+    "Weight": [
+      "340g (6)"
+    ]
+  }
+}

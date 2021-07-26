@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Chalk bags",
+    "Chalk buckets",
+    "Top Out Boulder Bucket"
+  ],
+  "description": "A giant, stable chalk bucket that can handle the rigours of the boulder field. A zippered side pocket keeps your tape, liquid chalk, and skin care tools close at hand.Made of super burly Ballistic nylon with a soft fleece lining.Roll-top design ensures chalk won't leak.Zippered side pocket with key clip holds your daily essentials.Two handles let you easily pass it back and forth without fear of spilling chalk.Brush holder stores your favorite brush.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034175578142/6003851-LME34.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034567090206/6003851-LME34-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034175578142/6003851-LME34.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034567090206/6003851-LME34-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034175578142/6003851-LME34.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034567090206/6003851-LME34-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034175578142/6003851-LME34.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034567090206/6003851-LME34-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Flashed Top Out Boulder Bucket",
+  "product_code": "6003-851",
+  "source_url": "https://www.mec.ca/en/product/6003-851/Top-Out-Boulder-Bucket",
+  "tech_specs": {
+    "Belt included": [
+      "No"
+    ],
+    "Brush holder": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Bouldering"
+    ],
+    "Lining": [
+      "Fleece"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "1680-denier ballistic nylon"
+    ],
+    "Stash pocket": [
+      "Yes"
+    ]
+  }
+}

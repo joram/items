@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid supplies",
+    "Tick Remover Card"
+  ],
+  "description": "Ticks, ewwww. Get them off quickly and non-invasively. This card has 2 removal tools and a magnifying glass to help ensure you get all of the tick.2 different sized tick removal tools for precise extraction.Magnifying lens to check for complete removal.Compact card size form factor fits well in wallets ensuring you always have the tool.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842335158302/5050423-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842335158302/5050423-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "LifeSystems Tick Remover Card",
+  "product_code": "5050-423",
+  "source_url": "https://www.mec.ca/en/product/5050-423/Tick-Remover-Card",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ]
+  }
+}

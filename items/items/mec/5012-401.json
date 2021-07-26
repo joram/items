@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike baskets",
+    "Retro Basket"
+  ],
+  "description": "Use this basket to do a bit of shopping and then mount it on your bike and pedal on home.Quick release mechanism makes the basket easy to mount or detach.Fits handlebars to a maximum of 28.5mm in diameter.Carry handle.Recommended maximum capacity of 7kg.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806350422046/5012401-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806350454814/5012401-NOC02-ALT-CLIP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806350422046/5012401-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806350454814/5012401-NOC02-ALT-CLIP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806350422046/5012401-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806350454814/5012401-NOC02-ALT-CLIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806350422046/5012401-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806350454814/5012401-NOC02-ALT-CLIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Swagman Retro Basket",
+  "product_code": "5012-401",
+  "source_url": "https://www.mec.ca/en/product/5012-401/Retro-Basket",
+  "tech_specs": {
+    "Adjustable height\n\nThe rack's height can be adjusted to accommodate fenders and various wheel sizes.": [
+      "No"
+    ],
+    "Attachment type": [
+      "Bracket"
+    ],
+    "Ideal for": [
+      "Urban cycling",
+      "Cycle commuting"
+    ],
+    "Light/reflector bracket": [
+      "No"
+    ],
+    "Load capacity": [
+      "6.8kg"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Steel"
+    ],
+    "Mounting position": [
+      "Front"
+    ],
+    "Weight": [
+      "1.28kg"
+    ]
+  }
+}

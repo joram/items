@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Headbands and ear muffs",
+    "Midweight Merino Wool Headband"
+  ],
+  "description": "Wrap your ears in cozy wool. Two layers of mid-weight merino wool provide versatile protection against the cold.Made of merino wool that is responsibly sourced and silky soft.Naturally moisture-wicking and odour-resistant.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140733575198/6012667-GMS05.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140733575198/6012667-GMS05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Buff Midweight Merino Wool Headband - Unisex",
+  "product_code": "6012-667",
+  "source_url": "https://www.mec.ca/en/product/6012-667/Midweight-Merino-Wool-Headband",
+  "tech_specs": {
+    "Fabric content": [
+      "100% merino wool"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Spain"
+    ]
+  }
+}

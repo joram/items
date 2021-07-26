@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Games and gifts",
+    "Games",
+    "Backpack Cribbage with Playing Cards"
+  ],
+  "description": "When the clouds descend, fill the rainy hours with a portable cribbage board.Includes a deck of cards, board, and pegs.3 tracks.Also includes instructions and a mesh pouch.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818169872414/5040845-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8818169872414/5040845-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outside Inside Backpack Cribbage with Playing Cards",
+  "product_code": "5040-845",
+  "source_url": "https://www.mec.ca/en/product/5040-845/Backpack-Cribbage-with-Playing-Cards",
+  "tech_specs": {
+    "Ideal for": [
+      "Fun and games",
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "212g"
+    ]
+  }
+}

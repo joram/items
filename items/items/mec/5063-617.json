@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Casual sandals",
+    "Classic Clogs"
+  ],
+  "description": "These sporty clogs are legendary for their versatility. Lightweight and super-comfy, Crocs are great for beaches, pools and daily summer wear. The heel strap can be rotated out of the way to convert them to slip-ons.Made of light, durable closed-cell resin.Water-friendly and buoyant, with venting ports to drain water.Contoured footbed for comfort and support.Pivoting heel strap provides a secure fit.Non-marking soles.Roomy, wide fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002767843358/5063617-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003143266334/5063617-BK000-ALT-PAIR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002767843358/5063617-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003143266334/5063617-BK000-ALT-PAIR.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002767843358/5063617-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003143266334/5063617-BK000-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002767843358/5063617-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003143266334/5063617-BK000-ALT-PAIR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Crocs Classic Clogs - Unisex",
+  "product_code": "5063-617",
+  "source_url": "https://www.mec.ca/en/product/5063-617/Classic-Clogs",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Footbed": [
+      "Synthetic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable insole": [
+      "No"
+    ],
+    "Upper material": [
+      "Synthetic"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

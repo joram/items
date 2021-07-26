@@ -1,0 +1,96 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Daypacks and school bags",
+    "Daypacks",
+    "Curator Pack"
+  ],
+  "description": "Urban utility at its finest. This daypack has a pocket for anything and everything.Made with tough but light fabric, with zippered top access.Interior organizer pockets and padded laptop sleeve.Large cargo pocket with double buckle flap.2 stretch side pockets sized for a U-lock.2 zippered front pockets, with key clip.Security pocket at lower back.Bike light loop.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097568256030/6008522-JBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097880436766/6008522-JBL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091426156574/6008522-JBL00-ALT-TOPPOCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097918677022/6008522-JBL00-ALT-INTERIOR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487705630/6008522-ARA00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487771166/6008522-ARA00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488000542/6008522-ARA00-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488033310/6008522-ARA00-ALT-MODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106489442334/6008522-ARA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097568256030/6008522-JBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097880436766/6008522-JBL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091426156574/6008522-JBL00-ALT-TOPPOCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097918677022/6008522-JBL00-ALT-INTERIOR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487705630/6008522-ARA00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487771166/6008522-ARA00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488000542/6008522-ARA00-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488033310/6008522-ARA00-ALT-MODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106489442334/6008522-ARA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097568256030/6008522-JBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097880436766/6008522-JBL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091426156574/6008522-JBL00-ALT-TOPPOCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097918677022/6008522-JBL00-ALT-INTERIOR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487705630/6008522-ARA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487771166/6008522-ARA00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488000542/6008522-ARA00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488033310/6008522-ARA00-ALT-MODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106489442334/6008522-ARA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097568256030/6008522-JBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097880436766/6008522-JBL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091426156574/6008522-JBL00-ALT-TOPPOCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097918677022/6008522-JBL00-ALT-INTERIOR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487705630/6008522-ARA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487771166/6008522-ARA00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488000542/6008522-ARA00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488033310/6008522-ARA00-ALT-MODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106489442334/6008522-ARA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Timbuk2 Curator Pack - Unisex",
+  "product_code": "6008-522",
+  "source_url": "https://www.mec.ca/en/product/6008-522/Curator-Pack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top"
+    ],
+    "Additional feature(s)": [
+      "Interior pocket(s)"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Depth": [
+      "16.5cm"
+    ],
+    "Hipbelt": [
+      "None"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Everyday use",
+      "Office and school"
+    ],
+    "Length": [
+      "44cm"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Padded sleeve fits most\n\nA padded slot to fit electronics or laptops, it may be partially or fully padded on each side.": [
+      "13-inch laptop"
+    ],
+    "Ventilated back panel": [
+      "No"
+    ],
+    "Volume": [
+      "20L"
+    ],
+    "Width": [
+      "26cm"
+    ]
+  }
+}

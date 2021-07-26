@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling footwear",
+    "Cycling shoes",
+    "RC7 Cycling Shoes"
+  ],
+  "description": "A fully featured cycling shoe optimized for comfort and pedalling performance. On hot days of racing, training or just riding, the RC7's perforated synthetic upper keeps the air flowing, while the Boa\u00ae ratchet dial and specially designed last ensures efficiency during sustained efforts and maximum power transfer for the sprint finish.Perforated synthetic leather upper is cool and lightweight.Dynalast promotes pedalling efficiency.Quick micro tension adjustments are simple with the Boa\u00ae L6 system.Optimized wire guides and hook-and-loop closure provide secure support.Co-ordinated air flow management keeps your feet comfortable.Rigid and lightweight carbon composite sole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8991825199134/5063369-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8991825199134/5063369-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano RC7 Cycling Shoes - Unisex",
+  "product_code": "5063-369",
+  "source_url": "https://www.mec.ca/en/product/5063-369/RC7-Cycling-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Hook-and-loop",
+      "Ratchet cable"
+    ],
+    "Ideal for": [
+      "Sport road cycling",
+      "Performance and race road cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Outsole": [
+      "Nylon",
+      "Carbon"
+    ],
+    "Pedal compatibility": [
+      "3-hole clipless"
+    ],
+    "Upper material": [
+      "Synthetic leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ],
+    "Weight": [
+      "490g (42)"
+    ]
+  }
+}

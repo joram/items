@@ -1,0 +1,103 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Granola Raspberry Vanilla"
+  ],
+  "description": "Get ready for a day of hiking with this nutritious breakfast of rolled oats and honey with freeze-dried raspberries in whole milk.Ingredients: granola (rolled oats, honey, slivered whole almonds, almond powder, pumpkin seeds, brown sugar, cinnamon), whole milk powder, freeze-dried raspberries, vanilla Powder (corn maltodextrin, modified corn starch, caramelized sugar syrup, arabic gum, natural flavor), almonds, pumpkin seeds, milk, gluten (oats).May contain: peanuts, sesame, egg, shrimp, soy, wheat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189405491230/6012200-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189408768030/6012200-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189409095710/6012200-NOC02-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189405491230/6012200-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189408768030/6012200-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189409095710/6012200-NOC02-ALT-B.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189405491230/6012200-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189408768030/6012200-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189409095710/6012200-NOC02-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189405491230/6012200-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189408768030/6012200-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189409095710/6012200-NOC02-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Granola Raspberry Vanilla",
+  "product_code": "6012-200",
+  "source_url": "https://www.mec.ca/en/product/6012-200/Granola-Raspberry-Vanilla",
+  "tech_specs": {
+    "Calories per serving": [
+      "610Cal"
+    ],
+    "Carbohydrates": [
+      "76g"
+    ],
+    "Cholesterol": [
+      "35mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "9g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Organic": [
+      "No"
+    ],
+    "Protein": [
+      "21g"
+    ],
+    "Saturated fat": [
+      "8g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "420mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "41g"
+    ],
+    "Total fat": [
+      "27g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "140g"
+    ]
+  }
+}

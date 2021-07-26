@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Cassette and freewheel tools",
+    "FR-2 Freewheel Remover"
+  ],
+  "description": "Get that old Suntour freewheel off your wheel with this heat-treated steel tool.Compatible with 2-notch Suntour freewheels.Notches are 25mm across, outside to outside.Tool is 1-inch wide, fits wrench or bench vise.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806535462942/5048465-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806535462942/5048465-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool FR-2 Freewheel Remover",
+  "product_code": "5048-465",
+  "source_url": "https://www.mec.ca/en/product/5048-465/FR-2-Freewheel-Remover",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

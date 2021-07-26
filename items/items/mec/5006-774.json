@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Pedals and cleats",
+    "Pedals",
+    "PD-M520 SPD Pedals"
+  ],
+  "description": "Shimano\u00ae brings their classic SPD\u00ae reliability and performance to this pedal, perfected for mountain or road riding.Compact body design.Open binding allows easy entry and mud shedding.Adjustable entry and tension release settings.Chromoly spindle.Sealed bearing cartridge axle.SM-SH51 single-release cleats included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806928908318/5006774-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806928908318/5006774-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano PD-M520 SPD Pedals",
+  "product_code": "5006-774",
+  "source_url": "https://www.mec.ca/en/product/5006-774/PD-M520-SPD-Pedals",
+  "tech_specs": {
+    "Body": [
+      "Aluminum"
+    ],
+    "Degrees of float\n\nFloat allows side to side movement of the foot while the foot is clipped in. This promotes comfort and helps prevent knee problems.": [
+      "4\u00a0degrees"
+    ],
+    "Ideal for": [
+      "Mountain biking",
+      "Cyclocross",
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Spindle": [
+      "Chromoly"
+    ],
+    "Type\n\nClipless pedals require compatible cycling shoes, flat pedals work with any type of shoe, pins add grip to flat pedals, and some clipless pedals have a flat pedal on one side so you can mix things up.": [
+      "2-hole clipless"
+    ],
+    "Weight": [
+      "425g"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling footwear",
+    "Cycling shoes",
+    "R3 Aria Cycling Shoes"
+  ],
+  "description": "A premium road shoe that gets trickle-down tech from Fizik's WorldTour-level models. Microfibre upper is durable yet flexible, and perforated for extra breathability. The closure system is easy to control and fast to adjust, and it allows you to find a secure fit that's still comfortable. The carbon fibre sole hits the pinnacle of power transfer and aerodynamics.1.2mm supple Microtex synthetic leather upper is laser-perforated for breathability.Doubled Boa\u00a9 IP-1 closure system is easy to adjust on the fly.Unidirectional carbon outsole transfers every precious watt to your pedals.Removable heel stud improves walking stability when off the bike.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932787879966/5058348-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948679344158/5058348-BK006-ALT-TOPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948680818718/5058348-BK006-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932787879966/5058348-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948679344158/5058348-BK006-ALT-TOPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948680818718/5058348-BK006-ALT-SOLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932787879966/5058348-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948679344158/5058348-BK006-ALT-TOPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948680818718/5058348-BK006-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8932787879966/5058348-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948679344158/5058348-BK006-ALT-TOPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948680818718/5058348-BK006-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fizik R3 Aria Cycling Shoes - Unisex",
+  "product_code": "5058-348",
+  "source_url": "https://www.mec.ca/en/product/5058-348/R3-Aria-Cycling-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Ratchet cable"
+    ],
+    "Ideal for": [
+      "Performance and race road cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Outsole": [
+      "Carbon"
+    ],
+    "Pedal compatibility": [
+      "3-hole clipless"
+    ],
+    "Upper material": [
+      "Synthetic leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ],
+    "Weight": [
+      "486g (42)"
+    ]
+  }
+}

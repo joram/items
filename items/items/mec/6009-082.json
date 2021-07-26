@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Tubeless kits and accessories",
+    "Tubeless Presta Valves"
+  ],
+  "description": "Pick a colour, and go tubeless. This kit fits a wide range of MTB and road wheelsets.Constructed with precision-machined 6061 aluminum.Easy to install by hand, and remove with an 11mm spanner and 4mm hex.Removable core makes it easy to add sealant, with included core cap tool.Compatible with most tubeless-ready MTB and road wheelsets and tires.Included: valve, lock ring, O-ring, cap, and 3 sizes of rubber fit sleeves.Rim height: up to 30mm.Sold in pairs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090037219358/6009082-GLD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096180826142/6009082-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090037219358/6009082-GLD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096180826142/6009082-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090037219358/6009082-GLD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096180826142/6009082-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090037219358/6009082-GLD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096180826142/6009082-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Muc-Off Tubeless Presta Valves",
+  "product_code": "6009-082",
+  "source_url": "https://www.mec.ca/en/product/6009-082/Tubeless-Presta-Valves",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Valve\n\nBicycle tubes are valve-specific. Presta \u2013 narrow, with a built-in valve cap that you loosen when pumping up the tire and tighten again afterwards. Schrader \u2013 wide, with a pressure valve similar to those on a car tire.": [
+      "44mm Presta"
+    ]
+  }
+}

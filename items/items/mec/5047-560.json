@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child clothing",
+    "Toddler and child accessories",
+    "Toddler and child hats and toques",
+    "Toddler and child caps",
+    "Parkside Trucker Hat"
+  ],
+  "description": "Top off a day out in this nature-themed hat. Adjustable closure means years of wear so you don't have to give it up to your little brother.Brim is made with an earth-pleasing blend of recycled polyester and organically grown cotton.Front panel and internal sweat band are polyester knit with a wicking finish.Back and sides are open polyester mesh.Plastic snap back closure adjusts to fit many sizes of noggin.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596621342/5047560-WVP06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596391966/5047560-LGP03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196308398110/5047560-CNB04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596621342/5047560-WVP06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596391966/5047560-LGP03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196308398110/5047560-CNB04.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596621342/5047560-WVP06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596391966/5047560-LGP03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196308398110/5047560-CNB04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596621342/5047560-WVP06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9172596391966/5047560-LGP03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196308398110/5047560-CNB04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Parkside Trucker Hat - Children",
+  "product_code": "5047-560",
+  "source_url": "https://www.mec.ca/en/product/5047-560/Parkside-Trucker-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "None"
+    ]
+  }
+}

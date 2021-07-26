@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Paddling tops and pants",
+    "Paddling bottoms",
+    "Pro Guide Shorts"
+  ],
+  "description": "Classic cargo shorts that keep you warm on the water. Neoprene lining ups the heat, which comes in handy when you're tackling open water by SUP or kayak.Nylon, elastane blend is soft on skin.Stretch 0.5mm neoprene lining.Zipper fly with snap closure.Integrated belt provides a secure fit.17in. outseam.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161331310622/6013641-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161331343390/6013641-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161331474462/6013641-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161331310622/6013641-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161331343390/6013641-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161331474462/6013641-BK000-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161331310622/6013641-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161331343390/6013641-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161331474462/6013641-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161331310622/6013641-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161331343390/6013641-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161331474462/6013641-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Pro Guide Shorts - Men's",
+  "product_code": "6013-641",
+  "source_url": "https://www.mec.ca/en/product/6013-641/Pro-Guide-Shorts",
+  "tech_specs": {
+    "Face fabric": [
+      "Nylon"
+    ],
+    "Ideal for": [
+      "Kayaking",
+      "Canoeing",
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 side zippered"
+    ],
+    "Relief opening": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Canmore& Kananaskis Village"
+  ],
+  "description": "This map covers some of the most popular terrain for hikers and mountain bikers in Kananaskis Country: Bow Valley Provincial Park, the Canmore area, the Smith-Dorrien/Spray Lakes area south to Mount Shark trailhead, Barrier Lake, and the Kananaskis Village area from Ribbon Creek south to Galatea Lakes trailhead. Contains trail descriptions and photos of 14 highly recommended day hikes, three overnight trips and eight classic mountain bike rides. It also includes 3 areas recommended for cross-country skiing. Find a 1:25 000-scale inset map of the Kananaskis Village-Ribbon Creek area, and contact information for visitor centres, campgrounds, hotels and lodges.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089825439774/6006341-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089825439774/6006341-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Canmore & Kananaskis Village",
+  "product_code": "6006-341",
+  "source_url": "https://www.mec.ca/en/product/6006-341/Canmore%26-Kananaskis-Village",
+  "tech_specs": {
+    "Edition": [
+      "7th"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Mountain biking",
+      "Backpacking",
+      "Cross-country skiing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

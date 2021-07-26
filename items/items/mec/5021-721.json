@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Mountain Running in the Canadian Rockies"
+  ],
+  "description": "Find all of the best classic and newly established trails in the Canadian Rockies. For leisure joggers, long-distance runners, adventure racers, hikers, and fastpackers, this guide will set you up with a suitable mountain adventure. This edition covers Kananskis (Bragg Creek), Spray Lakes, Ghost Wilderness, Canmore, Banff, Assiniboine and Kootenay country (Hwy 93). Each description includes accurate, full-colour maps with distance and elevation gains, and GPS tracks of all routes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815605383198/5021721-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815605383198/5021721-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mountain Running in the Canadian Rockies",
+  "product_code": "5021-721",
+  "source_url": "https://www.mec.ca/en/product/5021-721/Mountain-Running-in-the-Canadian-Rockies",
+  "tech_specs": {
+    "Author": [
+      "Bob Walker"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9780981304205"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "142"
+    ],
+    "Published": [
+      "2008"
+    ],
+    "Regionality": [
+      "Rockies"
+    ]
+  }
+}

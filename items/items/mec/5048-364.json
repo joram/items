@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Wheel and spoke tools",
+    "VC-1 Valve Core Tool"
+  ],
+  "description": "A nifty little tool that allows you to remove Presta and Schrader valve cores. It also allows you to instal Presta valve extenders to gain clearance with your high-profile rims.Note that some Presta valve cores aren't removable.Includes 5mm flat wrench.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604013598/5048364-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604111902/5048364-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604341278/5048364-NOC02-ALT-USE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604537886/5048364-NOC02-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604013598/5048364-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604111902/5048364-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604341278/5048364-NOC02-ALT-USE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604537886/5048364-NOC02-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604013598/5048364-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604111902/5048364-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604341278/5048364-NOC02-ALT-USE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604537886/5048364-NOC02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604013598/5048364-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604111902/5048364-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604341278/5048364-NOC02-ALT-USE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806604537886/5048364-NOC02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool VC-1 Valve Core Tool",
+  "product_code": "5048-364",
+  "source_url": "https://www.mec.ca/en/product/5048-364/VC-1-Valve-Core-Tool",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

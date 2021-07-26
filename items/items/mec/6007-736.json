@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking footwear",
+    "Hiking shoes",
+    "Firebrand II Low Leather Light Trail Shoes"
+  ],
+  "description": "Well designed, well made hiking shoes with an all-terrain midsole and classic Oboz comfort and protection to get you to summits or viewpoints.Made of water-resistant nubuck leather.Protective heel and low-profile rubber toecap.O FIT Insoles are anatomically shaped.Dual-density EVA midsoles with a stabilizing nylon shank.Oboz Sawtooth outsole with aggressive lugs in an asymmetric multi-directional pattern.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090035744798/6007736-STN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090687795230/6007736-STN00-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090687893534/6007736-STN00-ALT-INSOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090687991838/6007736-STN00-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688024606/6007736-STN00-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688057374/6007736-STN00-ALT-OUTSOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688352286/6007736-STN00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688516126/6007736-STN00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090035744798/6007736-STN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090687795230/6007736-STN00-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090687893534/6007736-STN00-ALT-INSOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090687991838/6007736-STN00-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688024606/6007736-STN00-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688057374/6007736-STN00-ALT-OUTSOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688352286/6007736-STN00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688516126/6007736-STN00-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090035744798/6007736-STN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090687795230/6007736-STN00-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090687893534/6007736-STN00-ALT-INSOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090687991838/6007736-STN00-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688024606/6007736-STN00-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688057374/6007736-STN00-ALT-OUTSOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688352286/6007736-STN00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688516126/6007736-STN00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090035744798/6007736-STN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090687795230/6007736-STN00-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090687893534/6007736-STN00-ALT-INSOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090687991838/6007736-STN00-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688024606/6007736-STN00-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688057374/6007736-STN00-ALT-OUTSOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688352286/6007736-STN00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090688516126/6007736-STN00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Oboz Firebrand II Low Leather Light Trail Shoes - Men's",
+  "product_code": "6007-736",
+  "source_url": "https://www.mec.ca/en/product/6007-736/Firebrand-II-Low-Leather-Light-Trail-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Rand\n\nRubber on the toe and around the boot improves durability. It can also increase grip while scrambling.": [
+      "Toecap"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Nubuck leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ],
+    "Weight": [
+      "1.01kg (9 Medium)"
+    ]
+  }
+}

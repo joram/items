@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Mirrors",
+    "Mountain Mirror Handlebar Mount"
+  ],
+  "description": "This mirror is perfect for mountain bikers who must battle traffic before battling Mother Nature. Mounts on either left or right side of handlebar.Convex shape has broad range of vision (objects in the mirror are closer than they appear).Easy to mount (wrench included).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806474481694/1899707-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806474481694/1899707-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mirrycle Mountain Mirror Handlebar Mount",
+  "product_code": "1899-707",
+  "source_url": "https://www.mec.ca/en/product/1899-707/Mountain-Mirror-Handlebar-Mount",
+  "tech_specs": {
+    "Attachment": [
+      "Wedge"
+    ],
+    "Housing material": [
+      "High impact plastic"
+    ],
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Mounting location": [
+      "Bar end"
+    ],
+    "Weight": [
+      "120g"
+    ]
+  }
+}

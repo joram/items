@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "Ultra O Locksafe Oval Carabiner"
+  ],
+  "description": "A locking oval carabiner for rescue systems, hauling or use with pulleys. The symmetrical, curved shape allows attachments to self-centre and weight both sides evenly during use.I-beam construction has great strength-to-weight ratio.Clean nose prevents snagging.Locking system opens with a push and twist, spring-loaded closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087664914462/6008063-TNG01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087664914462/6008063-TNG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DMM Ultra O Locksafe Oval Carabiner",
+  "product_code": "6008-063",
+  "source_url": "https://www.mec.ca/en/product/6008-063/Ultra-O-Locksafe-Oval-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "1.9cm"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Auto-locking"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "25kN"
+    ],
+    "Strength cross-loaded": [
+      "12kN"
+    ],
+    "Strength open": [
+      "7kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "74g"
+    ]
+  }
+}

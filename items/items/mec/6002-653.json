@@ -1,0 +1,88 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Hoodies and sweaters",
+    "Hoodies",
+    "Crux Hoody"
+  ],
+  "description": "Cragging, bouldering, a cool-weather training run, this hoodie is a stylish, laid back option. Slim fit with feminine seams and a stretchy knitted synthetic blend fabric and warmth and bonus style points.Made of a nylon and polyester blend in a seamless knit.Scuba-fit hood has a drawcord adjustment.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762746910/6002653-WLD04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188765302814/6002653-WLD04-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188765106206/6002653-AZL00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188765237278/6002653-AZL00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769792030/6002653-AZL00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769628190/6002653-ANC00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769726494/6002653-ANC00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769759262/6002653-ANC00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762419230/6002653-CAR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762353694/6002653-AZL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762091550/6002653-ANC00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762746910/6002653-WLD04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188765302814/6002653-WLD04-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188765106206/6002653-AZL00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188765237278/6002653-AZL00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769792030/6002653-AZL00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769628190/6002653-ANC00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769726494/6002653-ANC00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769759262/6002653-ANC00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762419230/6002653-CAR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762353694/6002653-AZL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762091550/6002653-ANC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762746910/6002653-WLD04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188765302814/6002653-WLD04-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188765106206/6002653-AZL00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188765237278/6002653-AZL00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769792030/6002653-AZL00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769628190/6002653-ANC00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769726494/6002653-ANC00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769759262/6002653-ANC00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762419230/6002653-CAR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762353694/6002653-AZL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762091550/6002653-ANC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762746910/6002653-WLD04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188765302814/6002653-WLD04-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188765106206/6002653-AZL00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188765237278/6002653-AZL00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769792030/6002653-AZL00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769628190/6002653-ANC00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769726494/6002653-ANC00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188769759262/6002653-ANC00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762419230/6002653-CAR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762353694/6002653-AZL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188762091550/6002653-ANC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Crux Hoody - Women's",
+  "product_code": "6002-653",
+  "source_url": "https://www.mec.ca/en/product/6002-653/Crux-Hoody",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Thumb loops"
+    ],
+    "Fabric content": [
+      "61% nylon",
+      "33% polyester",
+      "6% elastane"
+    ],
+    "Hood": [
+      "Fitted"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "269g (Small)"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Daypacks and school bags",
+    "Daypacks",
+    "Rogue Backpack"
+  ],
+  "description": "Transform your backpack into a mobile office. The slim profile carries everything you need for a day of work or an evening on the beach. The coated fabric keeps your gear dry and the sleeve keeps your laptop secure. Organizer panel inside the external zippered pocket for keys and ear buds.High-denier polyester with phthalate-free PVC is durable and weather-resistant.Main compartment with laptop sleeve.Organization pocket keeps track of pens, laptop, books and notes.External mesh side pocket stretchs to hold a water bottle or a small U-lock.Daisy chain on the outside can be used to attach large U-lock, bike helmet and lighting.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140731871262/6012420-JBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140724858910/6012420-JBL00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738490398/6012420-JBL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738621470/6012420-JBL00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140731871262/6012420-JBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140724858910/6012420-JBL00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738490398/6012420-JBL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738621470/6012420-JBL00-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140731871262/6012420-JBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140724858910/6012420-JBL00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738490398/6012420-JBL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738621470/6012420-JBL00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140731871262/6012420-JBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140724858910/6012420-JBL00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738490398/6012420-JBL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738621470/6012420-JBL00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Timbuk2 Rogue Backpack - Unisex",
+  "product_code": "6012-420",
+  "source_url": "https://www.mec.ca/en/product/6012-420/Rogue-Backpack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Depth": [
+      "14cm"
+    ],
+    "Hipbelt": [
+      "None"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Length": [
+      "52cm"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Main fabric": [
+      "900-denier polyester"
+    ],
+    "Padded sleeve fits most\n\nA padded slot to fit electronics or laptops, it may be partially or fully padded on each side.": [
+      "15-inch laptop"
+    ],
+    "Ventilated back panel": [
+      "No"
+    ],
+    "Volume": [
+      "24L"
+    ],
+    "Weight": [
+      "800g"
+    ],
+    "Width": [
+      "29cm"
+    ]
+  }
+}

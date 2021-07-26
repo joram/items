@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Headlamps and lighting",
+    "Flashlights",
+    "LED Mini Glowstick"
+  ],
+  "description": "Hello, it's me. This simple glowstick is great for signalling, casting ambient light, or impromptu dance parties. Don't throw it away after use, just change the battery and shine again.Twist on/off.Waterproof and floats.Included plastic S-biner.Run time is 60 hours.4 replaceable AG-3 batteries included.Dimensions are 2 x 16cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8974090141726/5048807-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227245598/5048807-RED00-ALT-NIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227474974/5048807-RED00-ALT-PACKING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034583277598/5048807-GRN00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227114526/5048807-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034321068062/5048807-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8974090141726/5048807-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227245598/5048807-RED00-ALT-NIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227474974/5048807-RED00-ALT-PACKING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034583277598/5048807-GRN00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227114526/5048807-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034321068062/5048807-GRN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8974090141726/5048807-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227245598/5048807-RED00-ALT-NIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227474974/5048807-RED00-ALT-PACKING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034583277598/5048807-GRN00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227114526/5048807-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034321068062/5048807-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8974090141726/5048807-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227245598/5048807-RED00-ALT-NIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227474974/5048807-RED00-ALT-PACKING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034583277598/5048807-GRN00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813227114526/5048807-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034321068062/5048807-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nite Ize LED Mini Glowstick",
+  "product_code": "5048-807",
+  "source_url": "https://www.mec.ca/en/product/5048-807/LED-Mini-Glowstick",
+  "tech_specs": {
+    "Batteries": [
+      "4 AG-3 alkaline (included)"
+    ],
+    "Body material": [
+      "Plastic"
+    ],
+    "Flash mode": [
+      "No"
+    ],
+    "Ideal for": [
+      "Emergency preparedness",
+      "Everyday use"
+    ],
+    "Light modes\n\nThe number of lighting levels/modes the light has (i.e., low, med, high, flash).": [
+      "1 mode"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Non-rechargeable"
+    ],
+    "Regulated output\n\nOn regulated lights brightness is consistent, and does not decrease gradually as the batteries are drained.": [
+      "No"
+    ],
+    "Weight": [
+      "2g"
+    ]
+  }
+}

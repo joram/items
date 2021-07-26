@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Canadian Rockies Destination Guide Map"
+  ],
+  "description": "Part map, part guidebook. One side is a map covering the Canadian Rockies' southern half, including Jasper, Banff, Yoho, Glacier, and Kootenay National Parks, and the Trans-Canada highway and Icefields Parkway. The back includes important information about parks and services, including airports, buses and shuttles, railways, campgrounds, weather info, geology, wildlife, history and culture, and recreation opportunities.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815850881054/5033811-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815850881054/5033811-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "National Geographic Canadian Rockies Destination Guide Map",
+  "product_code": "5033-811",
+  "source_url": "https://www.mec.ca/en/product/5033-811/Canadian-Rockies-Destination-Guide-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

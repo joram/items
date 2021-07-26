@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Climbing skins",
+    "Ski crampons",
+    "TLT Crampon"
+  ],
+  "description": "Add a measure of safety on hardened, icy slopes.Fits Dynafit TLT bindings.Sizes correspond to the inside dimensions of the crampon. Choose a size that's slightly larger than the waist width of your ski, ie. 90mm fits skis up to 89mm.90mm is blue, 100mm is orange, 110mm is black, 120mm is red, and 130mm is gold.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817261903902/5037432-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817261772830/5037432-NOC02-ALT-130MM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817262002206/5037432-NOC02-ALT-120MM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817261838366/5037432-NOC02-ALT-110MM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817262166046/5037432-NOC02-ALT-100MM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055995953182/5037432-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817261903902/5037432-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817261772830/5037432-NOC02-ALT-130MM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817262002206/5037432-NOC02-ALT-120MM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817261838366/5037432-NOC02-ALT-110MM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817262166046/5037432-NOC02-ALT-100MM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055995953182/5037432-GRN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817261903902/5037432-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817261772830/5037432-NOC02-ALT-130MM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817262002206/5037432-NOC02-ALT-120MM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817261838366/5037432-NOC02-ALT-110MM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817262166046/5037432-NOC02-ALT-100MM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055995953182/5037432-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817261903902/5037432-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817261772830/5037432-NOC02-ALT-130MM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817262002206/5037432-NOC02-ALT-120MM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817261838366/5037432-NOC02-ALT-110MM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817262166046/5037432-NOC02-ALT-100MM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055995953182/5037432-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Dynafit TLT Crampon",
+  "product_code": "5037-432",
+  "source_url": "https://www.mec.ca/en/product/5037-432/TLT-Crampon",
+  "tech_specs": {
+    "Ideal for": [
+      "Alpine touring",
+      "Freeride and freeskiing",
+      "Ski mountaineering"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Weight": [
+      "254g (110mm)"
+    ]
+  }
+}

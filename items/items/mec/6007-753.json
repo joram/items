@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Casual sandals",
+    "Escape Biodegradable Mules"
+  ],
+  "description": "Simple summer slides. With their slipper-like comfort and step-in ease, the fact that they are biodegradable is just icing on a seriously comfy cake.Eco-One biodegradable, injection moulded EVA uses no methane in its production.Natural upper.Machine washable.Anatomic contoured footbeds are made of soft cushioning EVA.Firm, non-marking EVA outsole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089368391710/6007753-SSH00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089543077918/6007753-SSH00-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089543372830/6007753-SSH00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089543569438/6007753-SSH00-ALT-TOPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089368391710/6007753-SSH00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089543077918/6007753-SSH00-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089543372830/6007753-SSH00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089543569438/6007753-SSH00-ALT-TOPS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089368391710/6007753-SSH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089543077918/6007753-SSH00-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089543372830/6007753-SSH00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089543569438/6007753-SSH00-ALT-TOPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089368391710/6007753-SSH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089543077918/6007753-SSH00-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089543372830/6007753-SSH00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089543569438/6007753-SSH00-ALT-TOPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Reef Escape Biodegradable Mules - Women's",
+  "product_code": "6007-753",
+  "source_url": "https://www.mec.ca/en/product/6007-753/Escape-Biodegradable-Mules",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Footbed": [
+      "EVA"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Removable insole": [
+      "No"
+    ],
+    "Upper material": [
+      "Canvas"
+    ]
+  }
+}

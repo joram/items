@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Brakes, pads and rotors",
+    "Disc brake rotors",
+    "Centerline Rotor Rounded"
+  ],
+  "description": "No more squealing, warbling or wobbling. SRAM's Centerline Rotor minimizes disc brake vibration by keeping the centre of friction consistent throughout the rotation. This means stable performance and a quieter ride. Rounded edges means easier installation and are UCI compliant.6-bolt, one-piece steel rotor.Compatible with road and mountain bikes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8897218084894/5055730-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8897218117662/5055730-SIL00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8897218150430/5055730-SIL00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8897218084894/5055730-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8897218117662/5055730-SIL00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8897218150430/5055730-SIL00-ALT-ANGLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8897218084894/5055730-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8897218117662/5055730-SIL00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8897218150430/5055730-SIL00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8897218084894/5055730-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8897218117662/5055730-SIL00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8897218150430/5055730-SIL00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SRAM Centerline Rotor Rounded",
+  "product_code": "5055-730",
+  "source_url": "https://www.mec.ca/en/product/5055-730/Centerline-Rotor-Rounded",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycle commuting",
+      "Cyclocross",
+      "Performance and race road cycling",
+      "Sport road cycling",
+      "Enduro",
+      "Trail riding"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

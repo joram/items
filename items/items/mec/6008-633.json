@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Shoulder bags, slings and waist packs",
+    "Waist packs",
+    "Marathon Pak"
+  ],
+  "description": "Compact enough for racing, this lightweight belt takes care of your essentials so you can focus on your run.Zippered security pocket, sized for most smartphones.Expandable stretch pockets on the front.Gel loops and stash pockets.Reflective details.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056559104030/6008633-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056559104030/6008633-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nathan Marathon Pack - Unisex",
+  "product_code": "6008-633",
+  "source_url": "https://www.mec.ca/en/product/6008-633/Marathon-Pak",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Hipbelt pocket(s)",
+      "Reflective details",
+      "Stash pocket"
+    ],
+    "Bottle holder": [
+      "No"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Volume": [
+      "0.34L"
+    ],
+    "Weight": [
+      "79.5g"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shorts, tights and pants",
+    "Sweatpants and joggers",
+    "Synergy Joggers"
+  ],
+  "description": "Stay warm post workout or keep cozy when curled on the couch. The Synergy Joggers cool, casual style and super soft fabric are great for relaxing.Luxe French Terry cotton blend is breathable and stretchy.Comfortable elastic waistband for a secure fit.Relaxed fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197187137566/6016382-DTL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865743902/6016382-DTL00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865776670/6016382-DTL00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198866071582/6016382-DTL00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198866104350/6016382-DTL00-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865547294/6016382-ABT50-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865514526/6016382-ABT50-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865645598/6016382-ABT50-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197187072030/6016382-ABT50.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197187137566/6016382-DTL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865743902/6016382-DTL00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865776670/6016382-DTL00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198866071582/6016382-DTL00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198866104350/6016382-DTL00-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865547294/6016382-ABT50-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865514526/6016382-ABT50-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865645598/6016382-ABT50-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197187072030/6016382-ABT50.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197187137566/6016382-DTL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865743902/6016382-DTL00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865776670/6016382-DTL00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198866071582/6016382-DTL00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198866104350/6016382-DTL00-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865547294/6016382-ABT50-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865514526/6016382-ABT50-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865645598/6016382-ABT50-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197187072030/6016382-ABT50.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197187137566/6016382-DTL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865743902/6016382-DTL00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865776670/6016382-DTL00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198866071582/6016382-DTL00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198866104350/6016382-DTL00-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865547294/6016382-ABT50-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865514526/6016382-ABT50-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198865645598/6016382-ABT50-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197187072030/6016382-ABT50.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MPG Synergy Joggers - Women's",
+  "product_code": "6016-382",
+  "source_url": "https://www.mec.ca/en/product/6016-382/Synergy-Joggers",
+  "tech_specs": {
+    "Fabric content": [
+      "95% cotton",
+      "5% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "27in. (M)"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 front"
+    ]
+  }
+}

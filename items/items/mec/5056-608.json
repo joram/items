@@ -1,0 +1,101 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Vacuum bottles and flasks",
+    "Rambler 20 Vacuum Mag Slider Tumbler"
+  ],
+  "description": "Pairing the over-engineered Rambler tumbler with the coolness of the MagSlider lid, you get minimal sloshiness, maximum frostiness plus piping hotiness.Made of 18/8 stainless steel with double-walled vacuum insulation.MagSlider\u2122 holds in place with the power of magnetism, which eliminates the need for grooves or rails (and makes it easy to clean).Spill-resistant design helps reduce the risk of sloshing.Clear lid lets you see when you need a refill.Opening is 7.3cm.Dishwasher safe and BPA free.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170041929758/5056608-AQR02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170060017694/5056608-AQR02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170060148766/5056608-AQR02-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986969112606/5056608-NVY00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182772920350/5056608-GTG00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182772822046/5056608-GTG00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917709553694/5056608-STA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917819228190/5056608-SFM00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986389282846/5056608-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182771347486/5056608-GTG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917819326494/5056608-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170041929758/5056608-AQR02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170060017694/5056608-AQR02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170060148766/5056608-AQR02-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986969112606/5056608-NVY00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182772920350/5056608-GTG00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182772822046/5056608-GTG00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917709553694/5056608-STA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917819228190/5056608-SFM00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986389282846/5056608-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182771347486/5056608-GTG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917819326494/5056608-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170041929758/5056608-AQR02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170060017694/5056608-AQR02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170060148766/5056608-AQR02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986969112606/5056608-NVY00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182772920350/5056608-GTG00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182772822046/5056608-GTG00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917709553694/5056608-STA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917819228190/5056608-SFM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986389282846/5056608-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182771347486/5056608-GTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917819326494/5056608-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170041929758/5056608-AQR02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170060017694/5056608-AQR02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170060148766/5056608-AQR02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986969112606/5056608-NVY00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182772920350/5056608-GTG00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182772822046/5056608-GTG00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917709553694/5056608-STA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917819228190/5056608-SFM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986389282846/5056608-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182771347486/5056608-GTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917819326494/5056608-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Yeti Rambler 20 Vacuum Mag Slider Tumbler",
+  "product_code": "5056-608",
+  "source_url": "https://www.mec.ca/en/product/5056-608/Rambler-20-Vacuum-Mag-Slider-Tumbler",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lid type": [
+      "Press-fit",
+      "Drink-through top"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Volume": [
+      "591ml (Black)",
+      "591ml (Navy)",
+      "591ml (Seafoam)",
+      "591ml (Stainless Steel)"
+    ],
+    "Water filter compatible": [
+      "No"
+    ],
+    "Weight": [
+      "360g"
+    ]
+  }
+}

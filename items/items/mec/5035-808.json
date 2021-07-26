@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Sun hats",
+    "Catalina Hat"
+  ],
+  "description": "With its beachy vibe, this raffia hat demands an iced beverage and an expansive towel.Made from 100% raffia.Hidden drawcord to adjust to your perfect size.10cm brim.Wipe clean with a damp cloth, don't toss it in the wash.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798337990686/5035808-NAT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798337990686/5035808-NAT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798337990686/5035808-NAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798337990686/5035808-NAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wallaroo Catalina Hat - Women's",
+  "product_code": "5035-808",
+  "source_url": "https://www.mec.ca/en/product/5035-808/Catalina-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "100% raffia"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Waterproof": [
+      "No"
+    ]
+  }
+}

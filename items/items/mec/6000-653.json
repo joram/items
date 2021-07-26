@@ -1,0 +1,70 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Ropes, cords and slings",
+    "Dynamic climbing ropes",
+    "Evolution Velocity 9.8mm Rope& Hollow Block"
+  ],
+  "description": "An impressively durable 9.8mm line, custom made for MEC, that's relatively lightweight and has low impact force for a comfy catch. A firm in-hand feel makes clipping easy, and the smooth, tight sheath keeps drag low through gear and over rock. Comes with a hollow-braid Technora\u00ae cord to help you build a prusik or klemheist hitch for safety on rappels.All-round rope features suit cragging or multi-pitch climbing.DryCore treatment on core yarns reduces yarn-on-yarn abrasion and moisture absorption, so your rope maintains its strength characteristics.Middle mark increases safety and speed on rappels.Hollow Block is made of 6.8mm Technora High Modulus Polyamide fibres.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026263711774/6000653-POS04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027494674462/6000653-POS04-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026263711774/6000653-POS04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027494674462/6000653-POS04-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026263711774/6000653-POS04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027494674462/6000653-POS04-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026263711774/6000653-POS04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027494674462/6000653-POS04-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sterling Rope Evolution Velocity 9.8mm Rope & Hollow Block",
+  "product_code": "6000-653",
+  "source_url": "https://www.mec.ca/en/product/6000-653/Evolution-Velocity-9-8mm-Rope%26-Hollow-Block",
+  "tech_specs": {
+    "Diameter": [
+      "9.8mm"
+    ],
+    "Dynamic elongation\n\nMaximum elongation in the first UIAA test fall, where a weight is attached to the rope and then dropped. Higher numbers indicate stretchier ropes.": [
+      "26.4%"
+    ],
+    "Halfway pattern change": [
+      "No"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Impact force\n\nThe amount of force, in kN, that the first UIAA fall puts on the falling object. Less impact force puts less force on the climber, belayer, and protection during a fall.": [
+      "8.8kN"
+    ],
+    "Length": [
+      "70m"
+    ],
+    "Linear weight": [
+      "62g/m"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Static elongation\n\nIn controlled tests, a weight is suspended from the rope (not dropped). Higher numbers indicate stretchier ropes.": [
+      "8.6%"
+    ],
+    "Treatment\n\nDry ropes have a water-resistant treatment on both core and sheath. Dry (UIAA certified) ropes have both core and sheath treated, plus meet the UIAA Water Repellent standard by passing a stringent test where a soaked rope cannot absorb more than 5% of the rope's weight.": [
+      "Non-dry"
+    ],
+    "Type": [
+      "Single (9.9mm - 9.6mm)"
+    ],
+    "UIAA fall rating\n\nIndicates the number of consecutive falls a rope withstood during testing in a controlled environment. The number is for reference only, and does not indicate the number of falls a rope will withstand during actual use or over its lifespan.": [
+      "6"
+    ],
+    "Weight": [
+      "4.34kg"
+    ]
+  }
+}

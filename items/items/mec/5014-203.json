@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Leashes and accessories",
+    "Tech Leash"
+  ],
+  "description": "Excellent for all of Grivel\u00ae ice axes, from the classical to the most technical, including the Nepal, Monster, and Matrix.Ring attaches to the axe headEasy toggle system lets you hook up and release with a single, simple hand movement.Natural rubber sling gives comfortable support to the wrist and the climber's weight. Wrist sizes and length are easily adjustable with just one strap.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807441039390/5014203-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807441039390/5014203-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Grivel Tech Leash",
+  "product_code": "5014-203",
+  "source_url": "https://www.mec.ca/en/product/5014-203/Tech-Leash",
+  "tech_specs": {
+    "Ideal for": [
+      "Ice climbing"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Weight": [
+      "90g"
+    ]
+  }
+}

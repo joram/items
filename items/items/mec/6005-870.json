@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling clothing accessories",
+    "Arm and leg sleeves",
+    "Leg warmers",
+    "Compression Calf Sleeves"
+  ],
+  "description": "Run longer and recover faster from your training runs. Compression fabric improves your performance and reduces recovery time by compressing and supporting your calf, shin, Achilles and ankle. By reducing muscle vibration you can decrease muscle fatigue and muscle damage, letting you run longer and faster. Woven with a gradual compression, they improve circulation while sedentary, so they\u2019re a great recovery tool too.Nylon and elastane fabric is breathable and wicks moisture.Flatlock seams reduce chaffing or rubbing.Antibacterial protection avoids odour buildup.UPF 50+ protection keeps you covered on long runs.Circular knit for 360 degree stretch.22-25mmHG compression in lower calf and 16-18mmHG compression in upper calf.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082164740126/6005870-BK031.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082162905118/6005870-BK031-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082163003422/6005870-BK031-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082163036190/6005870-BK031-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082164740126/6005870-BK031.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082162905118/6005870-BK031-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082163003422/6005870-BK031-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082163036190/6005870-BK031-ALT-ONMODEL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082164740126/6005870-BK031.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082162905118/6005870-BK031-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082163003422/6005870-BK031-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082163036190/6005870-BK031-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082164740126/6005870-BK031.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082162905118/6005870-BK031-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082163003422/6005870-BK031-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082163036190/6005870-BK031-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "2XU Compression Calf Sleeves - Unisex",
+  "product_code": "6005-870",
+  "source_url": "https://www.mec.ca/en/product/6005-870/Compression-Calf-Sleeves",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Active compression",
+      "Recovery compression"
+    ],
+    "Fabric content": [
+      "72% nylon",
+      "28% spandex"
+    ],
+    "Gripper elastic\n\nGripper elastics prevent the cycling shorts from riding up and leg and arm warmers from sliding down.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Road cycling",
+      "Running",
+      "Cyclocross"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

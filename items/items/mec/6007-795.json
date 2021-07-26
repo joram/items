@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling bottoms",
+    "Cycling shorts",
+    "Cadence Liner Shorts"
+  ],
+  "description": "For long days in the saddlle. With a premium chamois, these liner shorts add extra comfort for epic days on the trail. They're super breathable and stretchy - just throw your favourite riding shorts overtop.High and wide waistband design reduces slippage during your ride.Ergonomic patterning combines two types of material for great breathability and mobility.Female-specific Formula chamois improves comfort in the saddle.Poron\u00ae foam technology provides excellent vibration dampening.Flat stitching reduces chaffing.Base layer fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083341439006/6007795-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083330002974/6007795-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083341439006/6007795-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083330002974/6007795-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083341439006/6007795-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083330002974/6007795-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083341439006/6007795-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083330002974/6007795-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sombrio Cadence Liner Shorts - Women's",
+  "product_code": "6007-795",
+  "source_url": "https://www.mec.ca/en/product/6007-795/Cadence-Liner-Shorts",
+  "tech_specs": {
+    "Chamois": [
+      "Yes"
+    ],
+    "Fabric content": [
+      "84% polyester",
+      "16% spandex"
+    ],
+    "Gripper elastic\n\nGripper elastics prevent the cycling shorts from riding up and leg and arm warmers from sliding down.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Secondary fabric": [
+      "72% nylon",
+      "28% spandex"
+    ]
+  }
+}

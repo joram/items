@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Camp pillows",
+    "Pack Rat Pillow Stuff Sack"
+  ],
+  "description": "A water-resistant stuff sack with a secret: it has a soft fleece lining, so when you flip it inside out and fill it with clothes, it becomes a cozy camping pillow.Made of lightweight and super-strong silicone-treated high-tenacity nylon that's polyurethane-coated for excellent water resistance.Internal microfleece panel is soft against your face.Cord lock closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978717245470/5054575-ATL02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978717540382/5054575-ATL02-ALT-PILLOW.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978717245470/5054575-ATL02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978717540382/5054575-ATL02-ALT-PILLOW.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978717245470/5054575-ATL02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978717540382/5054575-ATL02-ALT-PILLOW.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978717245470/5054575-ATL02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978717540382/5054575-ATL02-ALT-PILLOW.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Pack Rat Pillow Stuff Sack",
+  "product_code": "5054-575",
+  "source_url": "https://www.mec.ca/en/product/5054-575/Pack-Rat-Pillow-Stuff-Sack",
+  "tech_specs": {
+    "Dimensions": [
+      "38\u00a0x\u00a019cm"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Material": [
+      "40-denier silicone-treated ripstop nylon"
+    ],
+    "Weight": [
+      "68g"
+    ]
+  }
+}

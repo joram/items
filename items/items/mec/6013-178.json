@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid supplies",
+    "Tick Remover"
+  ],
+  "description": "A gentle, no contact way of removing ticks.Keeps ticks intact during removal.Safe and effective for humans and pets.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167541436446/6013178-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167558770718/6013178-YLW00-ALT-ONE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167541436446/6013178-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167558770718/6013178-YLW00-ALT-ONE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167541436446/6013178-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167558770718/6013178-YLW00-ALT-ONE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167541436446/6013178-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167558770718/6013178-YLW00-ALT-ONE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Tick Remover",
+  "product_code": "6013-178",
+  "source_url": "https://www.mec.ca/en/product/6013-178/Tick-Remover",
+  "tech_specs": {
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking",
+      "Mountain biking"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

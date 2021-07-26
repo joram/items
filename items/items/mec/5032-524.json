@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Bike socks",
+    "Woolie Boolie Knee High Socks"
+  ],
+  "description": "Think of Boy Scouts and Nordic skiers, people who get stuff done in knee socks and short pants. These wool-blend socks add warmth and coverage right up to your knees.Made of merino wool (from sheep not subjected to mulesing) blended with synthetics.Mapped cushioning for warmth without bulk.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140232454174/5032524-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140232454174/5032524-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DeFeet Woolie Boolie Knee High Socks - Unisex",
+  "product_code": "5032-524",
+  "source_url": "https://www.mec.ca/en/product/5032-524/Woolie-Boolie-Knee-High-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Knee"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Mapped"
+    ],
+    "Fabric content": [
+      "62% merino wool",
+      "25% Lycra Spandex",
+      "10% nylon"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

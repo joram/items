@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Temagami Canoeing, Kayaking& Hiking"
+  ],
+  "description": "Find paddling paradise in Ontario. This guide has all the classic canoe routes that have made Temagami popular, plus more than 40 popular hiking trails and viewpoint treks to the province\u2019s highest peaks. Detailed information and hand-drawn maps and illustrations will help you explore this part of the Canadian wilderness.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815617212446/5027181-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815617212446/5027181-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Temagami Canoeing, Kayaking & Hiking",
+  "product_code": "5027-181",
+  "source_url": "https://www.mec.ca/en/product/5027-181/Temagami-Canoeing%2C-Kayaking%26-Hiking",
+  "tech_specs": {
+    "Author": [
+      "Hap Wilson"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9781554079742"
+    ],
+    "Ideal for": [
+      "Canoeing",
+      "Kayaking",
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "151"
+    ],
+    "Photographer": [
+      "Hap Wilson"
+    ],
+    "Published": [
+      "2011"
+    ],
+    "Regionality": [
+      "Ontario"
+    ]
+  }
+}

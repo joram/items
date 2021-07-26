@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Gloves and mittens",
+    "Gloves",
+    "The Concord Gloves"
+  ],
+  "description": "Soft, breathable, and warm, these gloves feel great against your hands on days when wind is up and the air is cold.Made of soft micro-fleece.Lined in Accu-dri\u00ae moisture-wicking micro-polyesterTouchscreen compatible inserts on thumbs and forefingers.Synthetic leather on palms and fingers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138059509790/6012579-HTG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138059411486/6012579-DOL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138059247646/6012579-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138059509790/6012579-HTG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138059411486/6012579-DOL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138059247646/6012579-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138059509790/6012579-HTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138059411486/6012579-DOL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138059247646/6012579-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138059509790/6012579-HTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138059411486/6012579-DOL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138059247646/6012579-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kombi The Concord Gloves - Men's",
+  "product_code": "6012-579",
+  "source_url": "https://www.mec.ca/en/product/6012-579/The-Concord-Gloves",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Insulation": [
+      "Medium"
+    ],
+    "Liner type": [
+      "Sewn-in"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "100% polyester"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Synthetic leather"
+    ],
+    "Touchscreen compatible": [
+      "Yes"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

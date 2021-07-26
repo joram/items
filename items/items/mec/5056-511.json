@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Banff/Yoho/Kootenay National Parks Recreation"
+  ],
+  "description": "This recreation map and visitor guide covers popular hiking trails and attractions in Banff, Yoho and Kootenay National Parks. It covers 80 recommended sights, attractions and scenic drives in the southern Canadian Rockies, and lists over 100 hikes. Waterproof, tear-resistant, and with an approximate scale of 1:250,000.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8909120143390/5056511-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8909120143390/5056511-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Clark Geomatics Banff/Yoho/Kootenay National Parks Recreation Map",
+  "product_code": "5056-511",
+  "source_url": "https://www.mec.ca/en/product/5056-511/Banff-Yoho-Kootenay-National-Parks-Recreation",
+  "tech_specs": {
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:250,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

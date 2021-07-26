@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Ropes, cords and slings",
+    "Static ropes and cord",
+    "7mm Cordelette"
+  ],
+  "description": "Tie prusik knots, ice threads or other climbing trickery with 25ft. of cordelette. The durable sheath makes this a good choice for extending anchors.Tensile strength is 1265kg.Sold in 7.6m (25ft.) lengths.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022411472926/6000651-ORG19.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022411407390/6000651-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022411472926/6000651-ORG19.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022411407390/6000651-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022411472926/6000651-ORG19.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022411407390/6000651-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022411472926/6000651-ORG19.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022411407390/6000651-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sterling Rope 7mm Cordelette",
+  "product_code": "6000-651",
+  "source_url": "https://www.mec.ca/en/product/6000-651/7mm-Cordelette",
+  "tech_specs": {
+    "Diameter": [
+      "7mm"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Tensile strength": [
+      "1265kg"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Snow and ice protection",
+    "Ice screws",
+    "Express Ice Screw"
+  ],
+  "description": "Ice climbers have been counting on BD screws for years. They've undergone some tweakage over time for fast placements and quick change-overs. The shaft is turbo tapered, and teeth are deep to offer a quick, solid bite.Made of chromoly steel with stainless steel hangers that are light, won't rust, and help prevent melt out on sunny routesTooth geometry is designed to bite easily.Large crank knob for a fast placements and uninterrupted 360-degree motion.Second clip-in point makes swapping positions at belays more efficient.CE certified.Available in 10, 13, 16, 19, and 22cm lengths, colour coded for quick indexing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807206223902/5014134-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807206223902/5014134-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807206223902/5014134-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807206223902/5014134-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Express Ice Screw",
+  "product_code": "5014-134",
+  "source_url": "https://www.mec.ca/en/product/5014-134/Express-Ice-Screw",
+  "tech_specs": {
+    "CE Certified": [
+      "Yes"
+    ],
+    "Hanger material": [
+      "Stainless steel"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Lengths": [
+      "10, 13, 16, 19, 22cm"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Screw material": [
+      "Chromoly steel"
+    ],
+    "Weight": [
+      "148g (16cm)"
+    ]
+  }
+}

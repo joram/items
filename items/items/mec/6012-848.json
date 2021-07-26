@@ -1,0 +1,153 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Vacuum bottles and flasks",
+    "Microlite 500 Flip Bottle"
+  ],
+  "description": "A sleek design that weighs considerably less than most insulated bottles \u2013 so ideal for rest days.Super-thin insulated walls are only 2mm thick, keeping the weight down.Keeps your drinks hot for up to 10 hours or cold for up to 20 hours.Push button flip top lid locks for transport.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162535436318/6012848-TRU00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516398110/6012848-TRU00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516627486/6012848-TRU00-ALT-LID2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516561950/6012848-TRU00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516660254/6012848-TRU00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515906590/6012848-ORZ00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515873822/6012848-ORZ00-ALT-LID2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515972126/6012848-ORZ00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516201502/6012848-ORZ00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515546142/6012848-HRD00-ALT-LID2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515611678/6012848-HRD00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515709982/6012848-HRD00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515677214/6012848-HRD00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515283998/6012848-CPS00-ALT-LID2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515415070/6012848-CPS00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515513374/6012848-CPS00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515447838/6012848-CPS00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514792478/6012848-ACI00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515087390/6012848-ACI00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515054622/6012848-ACI00-ALT-LID2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515152926/6012848-ACI00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534977566/6012848-ORZ00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162535075870/6012848-HRD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534912030/6012848-CPS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534748190/6012848-ACI00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162535436318/6012848-TRU00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516398110/6012848-TRU00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516627486/6012848-TRU00-ALT-LID2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516561950/6012848-TRU00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516660254/6012848-TRU00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515906590/6012848-ORZ00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515873822/6012848-ORZ00-ALT-LID2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515972126/6012848-ORZ00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516201502/6012848-ORZ00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515546142/6012848-HRD00-ALT-LID2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515611678/6012848-HRD00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515709982/6012848-HRD00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515677214/6012848-HRD00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515283998/6012848-CPS00-ALT-LID2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515415070/6012848-CPS00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515513374/6012848-CPS00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515447838/6012848-CPS00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514792478/6012848-ACI00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515087390/6012848-ACI00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515054622/6012848-ACI00-ALT-LID2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515152926/6012848-ACI00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534977566/6012848-ORZ00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162535075870/6012848-HRD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534912030/6012848-CPS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534748190/6012848-ACI00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162535436318/6012848-TRU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516398110/6012848-TRU00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516627486/6012848-TRU00-ALT-LID2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516561950/6012848-TRU00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516660254/6012848-TRU00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515906590/6012848-ORZ00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515873822/6012848-ORZ00-ALT-LID2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515972126/6012848-ORZ00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516201502/6012848-ORZ00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515546142/6012848-HRD00-ALT-LID2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515611678/6012848-HRD00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515709982/6012848-HRD00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515677214/6012848-HRD00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515283998/6012848-CPS00-ALT-LID2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515415070/6012848-CPS00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515513374/6012848-CPS00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515447838/6012848-CPS00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514792478/6012848-ACI00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515087390/6012848-ACI00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515054622/6012848-ACI00-ALT-LID2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515152926/6012848-ACI00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534977566/6012848-ORZ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162535075870/6012848-HRD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534912030/6012848-CPS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534748190/6012848-ACI00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162535436318/6012848-TRU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516398110/6012848-TRU00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516627486/6012848-TRU00-ALT-LID2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516561950/6012848-TRU00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516660254/6012848-TRU00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515906590/6012848-ORZ00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515873822/6012848-ORZ00-ALT-LID2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515972126/6012848-ORZ00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162516201502/6012848-ORZ00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515546142/6012848-HRD00-ALT-LID2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515611678/6012848-HRD00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515709982/6012848-HRD00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515677214/6012848-HRD00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515283998/6012848-CPS00-ALT-LID2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515415070/6012848-CPS00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515513374/6012848-CPS00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515447838/6012848-CPS00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162514792478/6012848-ACI00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515087390/6012848-ACI00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515054622/6012848-ACI00-ALT-LID2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162515152926/6012848-ACI00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534977566/6012848-ORZ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162535075870/6012848-HRD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534912030/6012848-CPS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162534748190/6012848-ACI00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Microlite 500 Flip Bottle",
+  "product_code": "6012-848",
+  "source_url": "https://www.mec.ca/en/product/6012-848/Microlite-500-Flip-Bottle",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lid type": [
+      "Flip-top"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Volume": [
+      "500ml"
+    ],
+    "Water filter compatible": [
+      "No"
+    ],
+    "Weight": [
+      "224g"
+    ]
+  }
+}

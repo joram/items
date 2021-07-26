@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Shoulder bags, slings and waist packs",
+    "Waist packs",
+    "Mirage Pak Waist Pack"
+  ],
+  "description": "This minimalist waist pack carries your bare essentials while you run or workout.Zippered pocket expands to carry roughly 350ml.Stretch pocket with brushed interior to protect electronics.3M\u2122 reflective detailing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161863659550/6013075-VPG12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161863626782/6013075-BLD12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161863233566/6013075-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161863659550/6013075-VPG12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161863626782/6013075-BLD12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161863233566/6013075-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161863659550/6013075-VPG12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161863626782/6013075-BLD12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161863233566/6013075-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161863659550/6013075-VPG12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161863626782/6013075-BLD12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161863233566/6013075-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nathan Mirage Pak Waist Pack - Unisex",
+  "product_code": "6013-075",
+  "source_url": "https://www.mec.ca/en/product/6013-075/Mirage-Pak-Waist-Pack",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Bottle holder": [
+      "No"
+    ],
+    "Hipbelt": [
+      "Waistbelt"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Volume": [
+      "0.35L"
+    ]
+  }
+}

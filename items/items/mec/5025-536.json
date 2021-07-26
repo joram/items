@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bug spray and bug nets",
+    "Bug spray and insect repellent",
+    "Outdoor Treatment 20ml"
+  ],
+  "description": "Afterbite reduces the aftermath of bug bites. This treatment will stop the vicious itch and calm the swelling.Gel formula stays put. Rub-on applicator.New formula contains tea tree oil and baking soda, as well as original ammonia blend.20ml.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809976627230/5025536-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809976627230/5025536-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "AfterBite Outdoor Treatment 20ml",
+  "product_code": "5025-536",
+  "source_url": "https://www.mec.ca/en/product/5025-536/Outdoor-Treatment-20ml",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "23g"
+    ]
+  }
+}

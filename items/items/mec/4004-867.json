@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Ropes, cords and slings",
+    "Slings and webbing",
+    "Zodiac Gear Sling"
+  ],
+  "description": "This sling won\u2019t swing around like one-loop systems. Quick access loops in front keep a few pieces within easy reach. Stretchy back pocket holds extra gear.Made with plastic tubing, and using die-cut laminate construction.Soft Capilene\u00ae lining is kind to your skin.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807162511390/4004867-NOC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807162511390/4004867-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Zodiac Gear Sling",
+  "product_code": "4004-867",
+  "source_url": "https://www.mec.ca/en/product/4004-867/Zodiac-Gear-Sling",
+  "tech_specs": {
+    "Adjustable": [
+      "No"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Trad and aid climbing"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Number of loops": [
+      "4"
+    ],
+    "Weight": [
+      "151g (Medium/Large)"
+    ]
+  }
+}

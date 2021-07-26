@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike helmets and body armour",
+    "Bike helmets",
+    "Idolo Helmet"
+  ],
+  "description": "An ergonomic road helmet that won't break the bank! 15 vents will keep you head cool when your legs starts to burn. And for big-headed riders, the Idolo comes in X-large to fit head circumference 60-64cm.Inner is made of polystyrene, bonded to a polycarbonate shell.Dial offers horizontal and vertical adjustments to fit the helmet firmly to your head.Anti-slip cam dividers ensures the fit of your helmet remains perfect.Anti-allergenic interior padding are hand washable to ensure fresheness.Integrated rear LED light and reflective rear stickers improves visibility.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8918062071838/5050587-WSP01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842150739998/5050587-MAT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8918062071838/5050587-WSP01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842150739998/5050587-MAT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8918062071838/5050587-WSP01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842150739998/5050587-MAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8918062071838/5050587-WSP01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842150739998/5050587-MAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MET Idolo Helmet - Unisex",
+  "product_code": "5050-587",
+  "source_url": "https://www.mec.ca/en/product/5050-587/Idolo-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Cycling"
+    ],
+    "Circumference\n\nThe internal circumference determines the size head that the helmet will fit.": [
+      "60-64cm (X-Large)",
+      "52-59cm (Medium/Large)"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Molded in the shell"
+    ],
+    "Fit system": [
+      "Adjustable dial"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "EN 1078"
+    ],
+    "Shell material": [
+      "Polycarbonate"
+    ],
+    "Vents": [
+      "Yes"
+    ],
+    "Weight": [
+      "285g (X-Large)",
+      "250g (Medium/Large)"
+    ]
+  }
+}

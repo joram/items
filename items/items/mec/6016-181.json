@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Wetsuits and neoprene clothing",
+    "Wetsuits",
+    "Convection Neoprene Capri"
+  ],
+  "description": "Keep your legs warm while in cool water. These neoprene capris add a little insulation so you can stay on the water longer.0.5mm thermo-stretch neoprene adds light insulation.Flatlock seams prevent irritation.Grippy inner waistband and drawcord provide a secure fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189404246046/6016181-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189414764574/6016181-BK000-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189404246046/6016181-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189414764574/6016181-BK000-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189404246046/6016181-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189414764574/6016181-BK000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189404246046/6016181-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189414764574/6016181-BK000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Convection Neoprene Capri - Women's",
+  "product_code": "6016-181",
+  "source_url": "https://www.mec.ca/en/product/6016-181/Convection-Neoprene-Capri",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "High waist cut"
+    ],
+    "Face fabric": [
+      "0.5 mm neoprene"
+    ],
+    "Ideal for": [
+      "Kayaking",
+      "Canoeing",
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Relief opening": [
+      "No"
+    ]
+  }
+}

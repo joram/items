@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Swim fitness",
+    "Performance swim and lap suits",
+    "Solids Workout Bikini Maxfit Bottom"
+  ],
+  "description": "Comfortable coverage in a low-profile bikini bottom. TYR created a Workout bikini that feels as good in the water as it does on land. Made of durable, chorine-resistant polyester, it won't fade over time.TYR Durafast polyester is chlorine and fade resistant.Fabric provides UPF 50+ sun protection.Full lining has an antimicrobial treatment.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9110286893086/6008753-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9110286925854/6008753-RED00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9110286893086/6008753-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9110286925854/6008753-RED00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9110286893086/6008753-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9110286925854/6008753-RED00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9110286893086/6008753-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9110286925854/6008753-RED00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "TYR Solids Workout Bikini Maxfit Bottom - Women's",
+  "product_code": "6008-753",
+  "source_url": "https://www.mec.ca/en/product/6008-753/Solids-Workout-Bikini-Maxfit-Bottom",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Antimicrobial treatment"
+    ],
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Swim training"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

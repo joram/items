@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Bike service parts",
+    "Rivet for Helium Front Derailleur Hanger"
+  ],
+  "description": "If you're replacing the front derailleur hanger on your Ridley Helium bike, you'll need a few of these rivets.Sold individually. 2 required for the installation of a front hanger.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867866345502/5053342-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8867866345502/5053342-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ridley Rivet for Helium Front Derailleur Hanger",
+  "product_code": "5053-342",
+  "source_url": "https://www.mec.ca/en/product/5053-342/Rivet-for-Helium-Front-Derailleur-Hanger",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Aid climbing gear",
+    "Talon Hook"
+  ],
+  "description": "A necessity for big wall climbers, this unique piece provides 3 options for hooking over edges and flakes on aid climbs.The other hook options act as a 2-pronged base to keep placements stable.Covers small to medium hooking clearances of 4.7mm, 7.6mm, 12.7mm.Tie off hole in center (tie knot on back and thread forward).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807418265630/4000219-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807418265630/4000219-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Talon Hook",
+  "product_code": "4000-219",
+  "source_url": "https://www.mec.ca/en/product/4000-219/Talon-Hook",
+  "tech_specs": {
+    "Ideal for": [
+      "Aid climbing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "50g"
+    ]
+  }
+}

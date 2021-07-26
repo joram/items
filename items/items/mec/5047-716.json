@@ -1,0 +1,77 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking clothing",
+    "Hiking pants",
+    "Notion Pants"
+  ],
+  "description": "Put your project pants on. Burly with enough stretch for technical foot-trickery, they're loose fitting enough to keep cool during intense training sessions or muggy afternoons of bouldering.Heavyweight cotton and spandex fabric is comfy and stretchy.Stretch waistband with drawcord sits flat under a harness.Two front pockets and two rear pockets.Stretch cuffs keep your feet free for heel hooking.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873984098334/5047716-SLA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077809512478/5047716-IKB00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077809610782/5047716-IKB00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182665244702/5047716-AMB00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182665277470/5047716-AMB00-ALT-WAIST.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078210625566/5047716-IKB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182660132894/5047716-AMB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873984098334/5047716-SLA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077809512478/5047716-IKB00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077809610782/5047716-IKB00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182665244702/5047716-AMB00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182665277470/5047716-AMB00-ALT-WAIST.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078210625566/5047716-IKB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182660132894/5047716-AMB00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873984098334/5047716-SLA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077809512478/5047716-IKB00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077809610782/5047716-IKB00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182665244702/5047716-AMB00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182665277470/5047716-AMB00-ALT-WAIST.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078210625566/5047716-IKB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182660132894/5047716-AMB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8873984098334/5047716-SLA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077809512478/5047716-IKB00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9077809610782/5047716-IKB00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182665244702/5047716-AMB00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182665277470/5047716-AMB00-ALT-WAIST.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078210625566/5047716-IKB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182660132894/5047716-AMB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Notion Pants - Women's",
+  "product_code": "5047-716",
+  "source_url": "https://www.mec.ca/en/product/5047-716/Notion-Pants",
+  "tech_specs": {
+    "Antimicrobial treatment\n\nA treatment that inhibits bacteria growth and reduces odour.": [
+      "No"
+    ],
+    "Fabric content": [
+      "97% cotton",
+      "3% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "190gsm"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "30in. (M)"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Bouldering"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front",
+      "2 back"
+    ],
+    "Weight": [
+      "355g (Medium)"
+    ]
+  }
+}

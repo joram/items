@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Handlebars, headsets and stems",
+    "Grips and bar tape",
+    "Performance MTB Grip"
+  ],
+  "description": "Basic slip-on grips to keep your hands secure along trails or through the streets.Gel rubber with a diamond grip pattern provides grip and comfort.30mm outer diameter.130mm length",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199102754846/6016434-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199102754846/6016434-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "49N Performance MTB Grip",
+  "product_code": "6016-434",
+  "source_url": "https://www.mec.ca/en/product/6016-434/Performance-MTB-Grip",
+  "tech_specs": {
+    "Diameter": [
+      "33mm"
+    ],
+    "Ideal for": [
+      "Mountain biking",
+      "Urban cycling"
+    ],
+    "Length": [
+      "13cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Type": [
+      "Slip-on"
+    ]
+  }
+}

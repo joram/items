@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child clothing",
+    "Toddler and child swimwear",
+    "Toddler and child rashguards and sunguards",
+    "Kroolaus Swim Shirt"
+  ],
+  "description": "All over sun protection, without all the sunscreen. Shield their sensitive skin from harmful UV rays all day long as they swim, paddle or dig in the sand.Quick-drying SunProof polyester provides UPF 50+ sun protection.Recycled fabric is made from plastic bottles.Flat seams don't chafe.Long sleeves add coverage.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183007113246/6012280-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183007113246/6012280-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Reima Kroolaus Swim Shirt - Unisex - Children to Youths",
+  "product_code": "6012-280",
+  "source_url": "https://www.mec.ca/en/product/6012-280/Kroolaus-Swim-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "83% recycled polyester",
+      "17% elastane"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "210gsm"
+    ],
+    "Ideal for": [
+      "Beach"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "1 external chest"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

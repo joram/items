@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Rain hats",
+    "Oilskin Field Hat"
+  ],
+  "description": "This versatile hat provides protection from sun and rain \u2013 great for trips when you\u2019re likely to get both.Made of oil-treated canvas for waterproofness.The wide, 8.5cm brim shelters your face from beating rain and intense sun.Brim has snaps to secure it up when you want more visibility.The under-chin strap keeps it securely attached.Small fits 56cm; Medium fits 58cm; Large fits 60cm; XL 62cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798207901726/4015620-BNZ00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798207901726/4015620-BNZ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "KNP Oilskin Field Hat - Unisex",
+  "product_code": "4015-620",
+  "source_url": "https://www.mec.ca/en/product/4015-620/Oilskin-Field-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "100% cotton"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Kayaking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "188g (Medium)"
+    ]
+  }
+}

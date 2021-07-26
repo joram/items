@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shorts, tights and pants",
+    "Sweatpants and joggers",
+    "Colwood Jogger"
+  ],
+  "description": "Up your cozy quotient around campfires.These comfy pants also make laid-back Sunday mornings even more relaxing.Made of lightweight Tencel.Drawstring waist.tentree\u2019s goal is to construct quality apparel and ensure that ten trees are planted for every article of clothing sold.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085228351518/6007583-MGR06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084989177886/6007583-MGR06-ALT-FULLBODY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084989538334/6007583-MGR06-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084989571102/6007583-MGR06-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085228351518/6007583-MGR06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084989177886/6007583-MGR06-ALT-FULLBODY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084989538334/6007583-MGR06-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084989571102/6007583-MGR06-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085228351518/6007583-MGR06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084989177886/6007583-MGR06-ALT-FULLBODY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084989538334/6007583-MGR06-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084989571102/6007583-MGR06-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085228351518/6007583-MGR06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084989177886/6007583-MGR06-ALT-FULLBODY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084989538334/6007583-MGR06-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084989571102/6007583-MGR06-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "tentree Colwood Jogger - Women's",
+  "product_code": "6007-583",
+  "source_url": "https://www.mec.ca/en/product/6007-583/Colwood-Jogger",
+  "tech_specs": {
+    "Fabric content": [
+      "100% Tencel Lyocell"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "29.25in. (M)"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 side"
+    ]
+  }
+}

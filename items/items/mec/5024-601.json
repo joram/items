@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Digital maps",
+    "BlueChart g3 Canada Micro SD/SD Card"
+  ],
+  "description": "Get the most from your Garmin GPS78 and other compatible units. This card comes preloaded with charts of Canada's east and west coasts as well as the Great Lakes. Realistic navigation features show everything from shaded depth contours and coastlines to spot soundings, navaids, port plans, wrecks, obstructions, intertidal zones, restricted areas, IALA symbols and more.Smooth display presentation includes seamless transitioning between zoom levels and more continuity across chart boundaries.Compatible with HomePort\u2122 software that lets you use BlueChart data to conveniently plan and organize routes from your computer before your trip. (You need HomePort software in order to view charts on your Windows based computer.)",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049610158110/5024601-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810672062494/5024601-BK000-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623592990/5024601-BK000-ALT-COUNTRY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049610158110/5024601-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810672062494/5024601-BK000-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623592990/5024601-BK000-ALT-COUNTRY.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049610158110/5024601-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810672062494/5024601-BK000-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623592990/5024601-BK000-ALT-COUNTRY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049610158110/5024601-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810672062494/5024601-BK000-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049623592990/5024601-BK000-ALT-COUNTRY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Garmin BlueChart g3 Canada Micro SD/SD Card",
+  "product_code": "5024-601",
+  "source_url": "https://www.mec.ca/en/product/5024-601/BlueChart-g3-Canada-Micro-SD-SD-Card",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayak touring",
+      "Canoe tripping"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "4g"
+    ]
+  }
+}

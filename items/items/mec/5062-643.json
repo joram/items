@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Accessories",
+    "Running socks",
+    "PhD Run Light Elite Pattern Micro Socks"
+  ],
+  "description": "Indestructawool technology and targeted cushioning designed for runners. The high-density knit is super-durable and provides long-lasting comfort.Made of merino wool, nylon and elastane with 4-degree fit for excellent recovery.Strategic mesh zones add moisture and temperature control.Light Elite cushioning for shock absorption in targeted zones.Seamless toe for comfort over varied terrain.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163329536030/5062643-ASH00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163329536030/5062643-ASH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool PhD Run Light Elite Pattern Micro Socks - Unisex",
+  "product_code": "5062-643",
+  "source_url": "https://www.mec.ca/en/product/5062-643/PhD-Run-Light-Elite-Pattern-Micro-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "No-show"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Mapped"
+    ],
+    "Fabric content": [
+      "57% merino wool",
+      "40% nylon",
+      "3% spandex"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Emergency and survival gear",
+    "Rescue tools",
+    "Stainless Steel Mirror"
+  ],
+  "description": "This mirror is just the ticket for shaving, popping in contact lenses, or ensuring your face is completely covered with sunscreen. You could also use this mirror as an emergency signalling device by using your thumb as a sight to aim the beam.Made of unbreakable polished stainless steel.Pre-drilled hole in top for hanging on a nail or attaching a lanyard.8.3 x 19.8cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101534724126/0106088-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101534724126/0106088-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Stainless Steel Mirror",
+  "product_code": "0106-088",
+  "source_url": "https://www.mec.ca/en/product/0106-088/Stainless-Steel-Mirror",
+  "tech_specs": {
+    "Dimensions": [
+      "19.8\u00a0x\u00a08.3cm"
+    ],
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Weight": [
+      "65g"
+    ]
+  }
+}

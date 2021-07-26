@@ -1,0 +1,104 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Straight gate carabiners",
+    "MiniWire Carabiner"
+  ],
+  "description": "This lightest of the light wire gate is designed for a pared-down alpine or long-route rack.Lightest fully-functional Black Diamond carabinerHot-Forged constructionNose geometry allows for efficient clipping/unclippingSmall proportions may not suit climbers with meaty fingers wearing big gloves.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212915230/6005164-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212816926/6005164-ULP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212784158/6005164-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212587550/6005164-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212161566/6005164-OCT03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212096030/6005164-MIN33.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212030494/6005164-LGY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211997726/6005164-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211768350/6005164-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211604510/6005164-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211538974/6005164-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212915230/6005164-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212816926/6005164-ULP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212784158/6005164-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212587550/6005164-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212161566/6005164-OCT03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212096030/6005164-MIN33.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212030494/6005164-LGY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211997726/6005164-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211768350/6005164-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211604510/6005164-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211538974/6005164-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212915230/6005164-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212816926/6005164-ULP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212784158/6005164-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212587550/6005164-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212161566/6005164-OCT03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212096030/6005164-MIN33.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212030494/6005164-LGY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211997726/6005164-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211768350/6005164-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211604510/6005164-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211538974/6005164-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212915230/6005164-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212816926/6005164-ULP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212784158/6005164-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212587550/6005164-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212161566/6005164-OCT03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212096030/6005164-MIN33.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054212030494/6005164-LGY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211997726/6005164-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211768350/6005164-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211604510/6005164-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054211538974/6005164-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond MiniWire Carabiner",
+  "product_code": "6005-164",
+  "source_url": "https://www.mec.ca/en/product/6005-164/MiniWire-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.1cm"
+    ],
+    "Gate type": [
+      "Wire"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "20kN"
+    ],
+    "Strength cross-loaded": [
+      "7kN"
+    ],
+    "Strength open": [
+      "7kN"
+    ],
+    "Three sigma tested": [
+      "Yes"
+    ],
+    "Weight": [
+      "23g"
+    ]
+  }
+}

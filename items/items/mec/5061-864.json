@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Relaxed Merino Toque"
+  ],
+  "description": "Cuff it when you mean business or wear it slouchy when it's time to relax. The classic knit look goes great with all your winter activities.Made of a merino wool and acrylic blend that's super soft and cozy warm.Double layer rib knit is warm and comfy.One size fits most heads.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161586311198/5061864-CPE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161586606110/5061864-CPE00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161586704414/5061864-CPE00-ALT-UNROLL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161586311198/5061864-CPE00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161586606110/5061864-CPE00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161586704414/5061864-CPE00-ALT-UNROLL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161586311198/5061864-CPE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161586606110/5061864-CPE00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161586704414/5061864-CPE00-ALT-UNROLL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161586311198/5061864-CPE00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161586606110/5061864-CPE00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161586704414/5061864-CPE00-ALT-UNROLL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Relaxed Merino Toque - Unisex",
+  "product_code": "5061-864",
+  "source_url": "https://www.mec.ca/en/product/5061-864/Relaxed-Merino-Toque",
+  "tech_specs": {
+    "Fabric content": [
+      "50% merino wool",
+      "50% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

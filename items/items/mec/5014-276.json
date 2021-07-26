@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Avalanche safety gear",
+    "Snow analysis",
+    "Collapsible Ruler (2m)"
+  ],
+  "description": "A collapsible ruler for making accurate snowpit measurements.Two metre length.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005519274014/5014276-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005519274014/5014276-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backcountry Access Collapsible Ruler (2m)",
+  "product_code": "5014-276",
+  "source_url": "https://www.mec.ca/en/product/5014-276/Collapsible-Ruler-%282m%29",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Mountain snowshoeing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "140g"
+    ]
+  }
+}

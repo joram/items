@@ -1,0 +1,83 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard clothing",
+    "Ski and snow pants",
+    "Sentinel AR Gore-Tex Pants"
+  ],
+  "description": "Designed to handle the demands of aggressive skiers on- or off-piste, the Sentinel AR pants are waterproof, breathable and ruggedly built. Long thigh vents let you dump heat during high energy chair laps and bootpacks, while the roomy fit accommodates multiple layers for cold descents. A warm flannel backer provides additional insulation against icy blasts on the chairlift and the front zip, underarm vents and pockets all feature water-resistant zippers. The overall build quality is top-notch, with durable kick patches, tight seam tolerances and articulated construction that won't hold you back on the down or the up.Completely waterproof, breathable and durable GORE-TEX Pro construction.Hard-wearing 70-denier face fabric.Warm flannel backing provides light insulation.Micro seam allowance of 1.6mm and extra narrow 8mm seam tape reduce bulk and weight.Articulated construction and gusseted crotch for freedom of movement.Low rise waist with belt loops and removable waist belt.Front fly with snap closure.Hip stash pocket with zip closure.Twin zippered thigh pockets.Thigh zips for easy venting.Highly water-resistant external zippers used throughout.Durable kick patches protect against ski edges.Powder cuffs with gripper elastic keep snow out.Hidden Recco\u00ae reflector can be detected by rescue crews at many ski resorts. Not a substitute for avalanche gear and know-how in the backcountry.Women's specific fit accommodates multiple thermal layers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046936059934/6000897-FLX05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046935961630/6000897-DRK22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046936059934/6000897-FLX05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046935961630/6000897-DRK22.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046936059934/6000897-FLX05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046935961630/6000897-DRK22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046936059934/6000897-FLX05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046935961630/6000897-DRK22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Sentinel AR Gore-Tex Pants - Women's",
+  "product_code": "6000-897",
+  "source_url": "https://www.mec.ca/en/product/6000-897/Sentinel-AR-Gore-Tex-Pants",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Recco\u00ae system",
+      "Gusseted crotch",
+      "Kick patches",
+      "Internal gaiters"
+    ],
+    "Construction": [
+      "3-layer"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Fabric active breathability\n\nThe rate at which a waterproof breathable fabric expels moisture when the inner surface is moist from perspiration.  Values under 8,000g/m2/24h provide low performance, 20,000g/m2/24h provide moderate performance and values over 30,000g/m2/24h provide high performance.": [
+      "25,000g/m2/24h"
+    ],
+    "Fabric waterproof rating\n\nThe standard test for waterproof fabrics uses a standing column filled with water.  The figures given are the water column height.  A rating of 3,500mm or higher can be considered waterproof.  The higher the rating, the more durable the waterproof fabric will be over time.": [
+      "28,000mm"
+    ],
+    "Face fabric": [
+      "70-denier nylon"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Downhill skiing"
+    ],
+    "Lining/backer": [
+      "70-denier nylon"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "1 side zippered",
+      "2 thigh"
+    ],
+    "Technology": [
+      "GORE-TEX Pro"
+    ],
+    "Type": [
+      "Waterproof-breathable"
+    ],
+    "Venting": [
+      "Thigh vents"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Waterproof with fully taped seams"
+    ],
+    "Weight": [
+      "520g (Medium)"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

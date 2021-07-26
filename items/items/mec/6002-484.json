@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child clothing",
+    "Toddler and child accessories",
+    "Toddler and child hats and toques",
+    "Toddler and child toques",
+    "Reflective Pompom Hat"
+  ],
+  "description": "For skiing, snowshoeing or hot chocolate sipping.Made of itch-free acrylic.Polyester stretch fleece inner adds warmth.Reflective pompom.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131594809374/6002484-BLB02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131594645534/6002484-ASP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131594809374/6002484-BLB02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131594645534/6002484-ASP00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131594809374/6002484-BLB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131594645534/6002484-ASP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131594809374/6002484-BLB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131594645534/6002484-ASP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kombi Reflective Pompom Hat - Children",
+  "product_code": "6002-484",
+  "source_url": "https://www.mec.ca/en/product/6002-484/Reflective-Pompom-Hat",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Fabric content": [
+      "100% acrylic"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing",
+      "Snowsports"
+    ],
+    "Lining/backer": [
+      "Polyester",
+      "Spandex"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

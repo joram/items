@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Jasper& Maligne Lake Map 8th Edition"
+  ],
+  "description": "A 2-sided, relief-shaded trail map that covers popular hiking and mountain biking trails in Jasper National Park. Includes day hikes such as Sulphur Skyline, Valley of the Five Lakes, Opal Hills, Bald Hills and Cavell Meadows. Multi-day hikes: Geraldine Lakes, Fortress Lake, Tonquin Valley, Skyline Trail, Athabasca Pass (on the Alberta side) and Fryatt Valley are also included.   Mountain bike trails range from intermediate to technically challenging options. The back of the map includes several recommended day and multi-day hikes, mountain bike rides, photos and information about backcountry lodges.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035648499742/5056509-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035648499742/5056509-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Jasper & Maligne Lake Map 8th Edition",
+  "product_code": "5056-509",
+  "source_url": "https://www.mec.ca/en/product/5056-509/Jasper%26-Maligne-Lake-Map-8th-Edition",
+  "tech_specs": {
+    "Edition": [
+      "8th"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Day hiking",
+      "Mountain biking",
+      "Cross-country skiing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:100,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

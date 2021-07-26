@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Drinks",
+    "Coffee, tea and hot chocolate",
+    "Simply Dark Hot Chocolate"
+  ],
+  "description": "Delectable dark chocolate for the dairy conscious, this hot chocolate is made without any milk ingredients. Fair trade and organic cocoa mixed with real dark chocolate...does it get any better?Certified fair trade and organic.Ingredients: golden cane sugar, cocoa powder, and dark chocolate.May contain soy and milk.\n\n        Sustainability\n\n\n\n\n\n\nFairTrade\n\n\n\n\n\n\n\n\n\n\n\n                      Certified Fair Trade",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9063847231518/6009132-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9063847231518/6009132-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Cocoa Camino Simply Dark Hot Chocolate",
+  "product_code": "6009-132",
+  "source_url": "https://www.mec.ca/en/product/6009-132/Simply-Dark-Hot-Chocolate",
+  "tech_specs": {
+    "Calories per serving": [
+      "120Cal"
+    ],
+    "Carbohydrates": [
+      "27g"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Organic": [
+      "Yes"
+    ],
+    "Product sustainability": [
+      "Certified Fair Trade"
+    ],
+    "Protein": [
+      "3g"
+    ],
+    "Servings": [
+      "9"
+    ],
+    "Sodium": [
+      "4mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "17g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "275g"
+    ]
+  }
+}

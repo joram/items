@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Baby (0-2 yrs)",
+    "Baby footwear",
+    "Baby socks",
+    "Bootie Batch Socks"
+  ],
+  "description": "Good thing, small package. These socks offer a dose of plush cushioning and a supportive arch brace.Made of 70% merino wool, 28% nylon and 2% elastane.Machine wash warm inside out without bleach. Tumble dry low.Contains 3 pairs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140114751518/6002126-PIN13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143674109982/6002126-OCA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045307457566/6002126-BRB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140114751518/6002126-PIN13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143674109982/6002126-OCA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045307457566/6002126-BRB00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140114751518/6002126-PIN13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143674109982/6002126-OCA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045307457566/6002126-BRB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140114751518/6002126-PIN13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143674109982/6002126-OCA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045307457566/6002126-BRB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Bootie Batch Socks - Infants",
+  "product_code": "6002-126",
+  "source_url": "https://www.mec.ca/en/product/6002-126/Bootie-Batch-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Quarter"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "70% merino wool",
+      "28% nylon",
+      "2% elastane"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

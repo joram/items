@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Wetsuits and neoprene clothing",
+    "Neoprene boots",
+    "Neoprene Socks"
+  ],
+  "description": "Soaking wet feet can still be warm. Neoprene socks keep your toes toasty during long paddling days, chilly morning SUP sessions and rainy bike commutes. You can even slide them inside ski boots or wear them in your runners for canyoneering. 3mm thickness provides warmth but isn't too bulky to fit inside your shoes or sandals, and glued seams prevent chafing.Made of 3mm-thick neoprene for warmth.Nylon-covered on the outside for durability, and bare on the inside for easier cleaning and faster drying.3-piece construction with glued seams (none on the soles) that feel smooth on skin.Sized in men\u2019s sizes. For a women\u2019s size, subtract one (for a women\u2019s size 8, choose size 7). Round up if you're between full sizes.Includes a mesh storage sack for easy drying.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950435315742/5036270-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950435315742/5036270-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Neoprene Socks - Unisex",
+  "product_code": "5036-270",
+  "source_url": "https://www.mec.ca/en/product/5036-270/Neoprene-Socks",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Ideal for": [
+      "Watersports"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Outsole": [
+      "Neoprene"
+    ],
+    "Upper material": [
+      "3mm neoprene"
+    ]
+  }
+}

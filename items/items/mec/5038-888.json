@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Quickdraws",
+    "Alpha Sport Quickdraw"
+  ],
+  "description": "Designed for the workload of redpoints and repeated falls, the Alpha Draw has a robust sling and a solid carabiner. The flared shape makes it easy to get it clipped the first time.Variable width sling tapers to ensure it sits in the crook of the carabiner and loads correctly.Grippy backbone, so you're less likely to fumble the tricky clips.Strong and lightweight I-Beam construction.Rubber keeper on the bent gate carabiner.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140232781854/5038888-TNL01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140232781854/5038888-TNL01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DMM Alpha Sport Quickdraw",
+  "product_code": "5038-888",
+  "source_url": "https://www.mec.ca/en/product/5038-888/Alpha-Sport-Quickdraw",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.5cm (bent)",
+      "2.2cm (straight)"
+    ],
+    "Gate type": [
+      "Straight + bent"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Sling length": [
+      "12cm"
+    ],
+    "Sling material": [
+      "Nylon"
+    ],
+    "Sling width": [
+      "26mm"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "24kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "9kN"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Vancouver's North Shore Hiking Trails 7th Ed"
+  ],
+  "description": "This topographical map of Vancouver's north shore will get you out enjoying many kilometers of wilderness trails, or enjoying some of the region's other day-outing features. Included are roads, beaches, boat launches, picnic sites, the city border, hiking trails, and more.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192810709022/6012499-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192810709022/6012499-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vancouver's North Shore Hiking Trails 7th Ed",
+  "product_code": "6012-499",
+  "source_url": "https://www.mec.ca/en/product/6012-499/Vancouver%27s-North-Shore-Hiking-Trails-7th-Ed",
+  "tech_specs": {
+    "Edition": [
+      "7th"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Scale": [
+      "1:40,000"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

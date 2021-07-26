@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Uppers and downers",
+    "Ascenders",
+    "Basic Ascender"
+  ],
+  "description": "Lighter than the previous Basic Ascender design, and much more compact than ascenders with handles (though not as ergonomic over a long haul). It's an excellent tool for occasional use or for setting up a quick haul system.Aluminum frame, steel cam, and nylon trigger.Toothed cam is self cleaning and secure on muddy or icy ropes. Resists corrosion.Upper connection hole guides the rope through the device and prevents twisting.Lower attachment hole is large enough for 2 carabiners.Accepts ropes 8-11mm.The device is not designed for self belaying or situations where it can be shock loaded.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216316446/5031657-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216349214/5031657-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216316446/5031657-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216349214/5031657-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216316446/5031657-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216349214/5031657-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216316446/5031657-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807216349214/5031657-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Basic Ascender",
+  "product_code": "5031-657",
+  "source_url": "https://www.mec.ca/en/product/5031-657/Basic-Ascender",
+  "tech_specs": {
+    "Body material": [
+      "Aluminum"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Cam material": [
+      "Stainless steel"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Trad and aid climbing"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Rope diameter\n\nThe maximum diameter or the range of rope diameter that is compatible with the device.": [
+      "8-11mm"
+    ],
+    "Weight": [
+      "85g"
+    ]
+  }
+}

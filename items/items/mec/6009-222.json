@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Headlamps and lighting",
+    "Lanterns",
+    "Candle Lanterns",
+    "Beeswax Lantern Candle"
+  ],
+  "description": "A natural alternative to paraffin candles, for use in UCO candle lanterns. They're lead-free, soot-free, and have a light, sweet scent.Pure cotton wick.Burns up to 15 hours, when used in candle lantern.For use in UCO Original Candle Lantern, Candlelier Candle Lanterns or on their own.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9066191912990/6009222-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9066191912990/6009222-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "UCO Beeswax Lantern Candle",
+  "product_code": "6009-222",
+  "source_url": "https://www.mec.ca/en/product/6009-222/Beeswax-Lantern-Candle",
+  "tech_specs": {
+    "Ideal for": [
+      "Emergency preparedness",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Thailand"
+    ]
+  }
+}

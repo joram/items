@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Hub, axle and cone wrenches",
+    "Shop Cone Wrench"
+  ],
+  "description": "Known for their durability, quality, and precise fit, these cone wrenches will provide years of service. The Y-head design puts more material where it's needed for strength and durability. Thin enough to use on narrow adjusting cones, the long handle provides great leverage and comfort.Made of hardened industrial-quality steel with a military grade phosphate finish.Precision sizing.Vinyl-dipped handle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806539231262/5048515-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806539231262/5048515-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool Shop Cone Wrench",
+  "product_code": "5048-515",
+  "source_url": "https://www.mec.ca/en/product/5048-515/Shop-Cone-Wrench",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

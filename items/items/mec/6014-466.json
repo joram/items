@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Road maps and atlases",
+    "Vancouver Island Adventure Travel Map"
+  ],
+  "description": "Discover popular destinations on Vancouver Island, including national parks, archeological sites, hot springs, museums and more. The map covers the south island on one side, north island on the other. It's tear-resistant and waterproof to handle island adventures.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164002263070/6014466-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164669255710/6014466-NOC02-ALT-NORTH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164669550622/6014466-NOC02-ALT-SOUTH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164002263070/6014466-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164669255710/6014466-NOC02-ALT-NORTH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164669550622/6014466-NOC02-ALT-SOUTH.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164002263070/6014466-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164669255710/6014466-NOC02-ALT-NORTH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164669550622/6014466-NOC02-ALT-SOUTH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164002263070/6014466-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164669255710/6014466-NOC02-ALT-NORTH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164669550622/6014466-NOC02-ALT-SOUTH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "National Geographic Vancouver Island Adventure Travel Map",
+  "product_code": "6014-466",
+  "source_url": "https://www.mec.ca/en/product/6014-466/Vancouver-Island-Adventure-Travel-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Published": [
+      "2020"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Scale": [
+      "1:275,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

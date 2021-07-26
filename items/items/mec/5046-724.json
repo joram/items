@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Tent flys",
+    "Elixir 4-Person Tent Fly"
+  ],
+  "description": "Replace a lost or worn out fly on your MSR\u00ae Elixir 4 Tent.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998314213406/5046724-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8998314213406/5046724-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Elixir 4-Person Tent Fly",
+  "product_code": "5046-724",
+  "source_url": "https://www.mec.ca/en/product/5046-724/Elixir-4-Person-Tent-Fly",
+  "tech_specs": {
+    "Fly coating": [
+      "Polyurethane"
+    ],
+    "Fly fabric": [
+      "68-denier polyester"
+    ],
+    "Fly waterproofness\n\nThe standard test for coated fabrics uses a standing column (a pipe) filled with water. The figures given are the column height. A 1000mm coating allowed no leaks after 1 minute under 1000mm of water.": [
+      "1500mm"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

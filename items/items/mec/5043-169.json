@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Bike service parts",
+    "Riot Shock-Axle Assembly Kit #KE0178"
+  ],
+  "description": "This is a parts kit for the shock-axle assembly on your Ghost Riot.Kit includes: 1 x shock-axle \u00d813mm x 34.9mm - T30, 1 x shock-axle \u00d813mm x 25.5mm - T30, 2 x washer \u00d814mm x 2.5mm, 2 x screw M5 x 14mm x 10mm - T25.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807000834078/5043169-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807000834078/5043169-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ghost Riot Shock-Axle Assembly Kit #KE0178",
+  "product_code": "5043-169",
+  "source_url": "https://www.mec.ca/en/product/5043-169/Riot-Shock-Axle-Assembly-Kit-%23KE0178",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking",
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

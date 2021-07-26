@@ -1,0 +1,100 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Mom's Dried Tomato and Cheese Macaroni"
+  ],
+  "description": "Let these classic flavours transport you to your mom\u2019s kitchen with this homecooked classic. Toothsome macaroni noodles in a bright tomato sauce, loaded with rich parmesan cheese, make this meal a real treat after a day on the trail.Ingredients: pasta (wheat), tomato sauce (tomato powder, soy protein, dehydrated vegetables (tomato, red bell pepper, onion), parmesan, corn maltodextrin, modified corn starch, sugar; salt, garlic powder, spices, herbs, corn fiber; yeast extract, citric acid, artificial flavour].May contain: nut, peanuts, sesame, egg, sea food and mustard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136446570526/6012183-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133508395038/6012183-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136456794142/6012183-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136446570526/6012183-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133508395038/6012183-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136456794142/6012183-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136446570526/6012183-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133508395038/6012183-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136456794142/6012183-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136446570526/6012183-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133508395038/6012183-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136456794142/6012183-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Mom's Dried Tomato and Cheese Macaroni",
+  "product_code": "6012-183",
+  "source_url": "https://www.mec.ca/en/product/6012-183/Mom%27s-Dried-Tomato-and-Cheese-Macaroni",
+  "tech_specs": {
+    "Calories per serving": [
+      "620Cal"
+    ],
+    "Carbohydrates": [
+      "108g"
+    ],
+    "Cholesterol": [
+      "10mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "No"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "12g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "36g"
+    ],
+    "Saturated fat": [
+      "2g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "800mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "16g"
+    ],
+    "Total fat": [
+      "6g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "170g"
+    ]
+  }
+}

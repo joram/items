@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Le Qu\u00e9bec authentique - Lanaudi\u00e8re et Mauricie"
+  ],
+  "description": "A guide to the regions of Lanaudi\u00e8re and Mauricie in Quebec. Discover the local attractions, explore the outdoor activities, take part in festivals, and enjoy the cultural experience. Includes recommendations for where to eat, where to stay, and what to do. (Text in French)",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815643263006/5034068-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815643263006/5034068-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses Le Qu\u00e9bec authentique - Lanaudi\u00e8re et Mauricie",
+  "product_code": "5034-068",
+  "source_url": "https://www.mec.ca/en/product/5034-068/Le-Qu%C3%A9bec-authentique---Lanaudi%C3%A8re-et-Mauricie",
+  "tech_specs": {
+    "ISBN": [
+      "9782894645796"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "128"
+    ],
+    "Published": [
+      "2013"
+    ],
+    "Regionality": [
+      "Quebec"
+    ]
+  }
+}

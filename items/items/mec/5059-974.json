@@ -1,0 +1,69 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tools",
+    "Ergonomic Ice Tool"
+  ],
+  "description": "This tool offers efficient movement, whether on overhanging rock or unlikely ice columns. The pronounced curve of the shaft provides clearance under the head, and creates an angle that lends pulling power and staves off arm fatigue.Ultra-curved shaft for exceptional clearance and swing. T-rated shaft.Equipped with T-rated Dry pick. 4mm thickness tapers to 3.3mm to penetrate thin ice and allow stable hooking on ice or rock.Fully modular head with interchangeable pick for use alone, or with a hammer or adze.Ergonomic adjustable handle is angled to suit overhangs and to transfer power when locking off.Sold with Dry pick, Masselottes pick weights, Mini Marteau hammer, and Griprest.CE and UIAA certified.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990751391774/5059974-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990879580190/5059974-NOC02-ALT-DETAILHAMMEREND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990879678494/5059974-NOC02-ALT-DETAILGRIPEND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990879776798/5059974-NOC02-ALT-DETAIL-PICKEND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990751391774/5059974-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990879580190/5059974-NOC02-ALT-DETAILHAMMEREND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990879678494/5059974-NOC02-ALT-DETAILGRIPEND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990879776798/5059974-NOC02-ALT-DETAIL-PICKEND.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990751391774/5059974-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990879580190/5059974-NOC02-ALT-DETAILHAMMEREND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990879678494/5059974-NOC02-ALT-DETAILGRIPEND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990879776798/5059974-NOC02-ALT-DETAIL-PICKEND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990751391774/5059974-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990879580190/5059974-NOC02-ALT-DETAILHAMMEREND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990879678494/5059974-NOC02-ALT-DETAILGRIPEND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990879776798/5059974-NOC02-ALT-DETAIL-PICKEND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Ergonomic Ice Tool",
+  "product_code": "5059-974",
+  "source_url": "https://www.mec.ca/en/product/5059-974/Ergonomic-Ice-Tool",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Hammer modular"
+    ],
+    "Ideal for": [
+      "Ice climbing"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "50cm"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Removable pick": [
+      "Yes"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "T-rated shaft + T-rated pick"
+    ],
+    "Weight": [
+      "635g"
+    ]
+  }
+}

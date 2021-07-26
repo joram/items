@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Paddleboarding",
+    "Paddleboard accessories",
+    "Leashes and attachments",
+    "Tool Free Fin Screw and Plates"
+  ],
+  "description": "Lost a fin screw for your Level Six SUP? Replace it with one of these.Fits all 2019 Level Six SUP fins.No tools required.Sold individually.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9019244052510/6000933-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9019244052510/6000933-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Tool Free Fin Screw and Plates",
+  "product_code": "6000-933",
+  "source_url": "https://www.mec.ca/en/product/6000-933/Tool-Free-Fin-Screw-and-Plates",
+  "tech_specs": {
+    "Ideal for": [
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

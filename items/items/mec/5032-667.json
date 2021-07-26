@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing harnesses",
+    "Adjustable harnesses",
+    "Bambi II Harness"
+  ],
+  "description": "A simple and practical kids' harness. It suits aspiring senders who weigh less than 40kg. Adjustment buckles on the leg loops and shoulder straps adapt it easily to all body shapes and it works particularly well for young children who have undefined waists.Colour coded body straps and leg loops help sort things out when putting it on.2 leg loop buckles, 2 shoulder strap buckles are autolocking.Fits kids 90 to 130cm tall.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807360692254/5032667-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807360790558/5032667-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807360692254/5032667-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807360790558/5032667-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807360692254/5032667-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807360790558/5032667-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807360692254/5032667-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807360790558/5032667-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Beal Bambi II Harness - Children to Youths",
+  "product_code": "5032-667",
+  "source_url": "https://www.mec.ca/en/product/5032-667/Bambi-II-Harness",
+  "tech_specs": {
+    "Adjustable leg loops": [
+      "Yes"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Leg loop size": [
+      "54cm"
+    ],
+    "Made in": [
+      "Madagascar"
+    ],
+    "Self-locking buckle": [
+      "Yes"
+    ],
+    "Type": [
+      "Full body harness"
+    ],
+    "Waist size": [
+      "35-60cm"
+    ],
+    "Weight": [
+      "350g"
+    ]
+  }
+}

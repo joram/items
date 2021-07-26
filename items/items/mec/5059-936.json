@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Packs",
+    "Backpacking packs",
+    "Multi-day packs (55 - 75l)",
+    "Mission 55 Backpack"
+  ],
+  "description": "Black Diamond\u2122 added its mobility-maximizing ergoACTIV suspension system to this tough pack and rigged it for heavy-hauling missions like ice climbing, while still allowing you to strip it down for summer summit bids. The harness delivers ample motion and fluidity for cragging or mountaineering. The supportive frame offers a balance of support and stability that works well for heavy loads over long approaches.Swing Arm shoulder straps and free-flexing ergoACTIV hipbelt for mobility.Strip off the hipbelt padding, floating top lid and removable framesheet for minimalist missions.Thermoformed back panel.Ice tool PickPockets\u2122.Reinforced crampon pouch.Gear loops on hipbelt for racking.Hydration system\u2013compatible.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980106379294/5059936-COB03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980112343070/5059936-COB03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980106379294/5059936-COB03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980112343070/5059936-COB03-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980106379294/5059936-COB03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980112343070/5059936-COB03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980106379294/5059936-COB03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8980112343070/5059936-COB03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Mission 55 Backpack - Unisex",
+  "product_code": "5059-936",
+  "source_url": "https://www.mec.ca/en/product/5059-936/Mission-55-Backpack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top"
+    ],
+    "Additional feature(s)": [
+      "Compression straps",
+      "Crampon patch",
+      "Hydration compatible (reservoir sold separately)",
+      "Ice axe/pole attachment",
+      "Expandable collar"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "No"
+    ],
+    "Dynamic suspension\n\nThe hipbelt and/or shoulder straps of the pack are designed to move, pivot or flex to follow your body\u2019s movements.  Each brand uses their own technology.": [
+      "Yes"
+    ],
+    "Hipbelt": [
+      "Removable padded"
+    ],
+    "Hipbelt circumference": [
+      "66-102cm (Small/Medium)",
+      "71-114cm (Medium/Large)"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Ice climbing",
+      "Backpacking"
+    ],
+    "Lid type\n\nSome pack lids can be adjusted to compensate for overloaded packs, or even removed, and some removeable lids have tuck-away hipbelts that allow youto use them as a waistpack.": [
+      "Adjustable",
+      "Removable"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Main fabric": [
+      "420-denier nylon"
+    ],
+    "Ventilated back panel": [
+      "No"
+    ],
+    "Volume": [
+      "50L (Small/Medium)",
+      "52L (Medium/Large)"
+    ],
+    "Weight": [
+      "1.57kg"
+    ]
+  }
+}

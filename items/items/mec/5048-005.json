@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Gobi Liner 2 Pack Socks"
+  ],
+  "description": "These fitted socks feature fabric technology that lets yarns next to the skin wick moisture to the outer sock to help keep your foot drier and warmer. By allowing some of the friction caused by walking to take place between the liner sock and the main sock, liner socks may also help reduce blistering.Made of a polypropylene and spandex blend to help keep feet dry.Wonder-Wick\u2122 fabric technology wicks away moisture.Includes 2 pairs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805907071006/5048005-NAV00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805907071006/5048005-NAV00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wigwam Gobi Liner 2 Pack Socks - Unisex",
+  "product_code": "5048-005",
+  "source_url": "https://www.mec.ca/en/product/5048-005/Gobi-Liner-2-Pack-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "95% polypropylene",
+      "4% nylon",
+      "1% spandex"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ],
+    "Weight": [
+      "30g (Large)"
+    ]
+  }
+}

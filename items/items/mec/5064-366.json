@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Belts",
+    "Capture Belt"
+  ],
+  "description": "Give your pants the exact support they need (after all they do for you, it's the least you can do for them). The stretchy Arcade Vision belt is infinitely adjustable along its length, so you can cinch in that perfect fit. The buckle lies flat and tucks smoothly out of the way.Stretchy material is super comfy and does away with finding the perfect hole.Buckle allows for precise adjustment, is easy to open and close, and won\u2019t pinch while you play.Metal-free design is great for travel \u2013 no need to take it off at the airport.Machine washable in case of spillage.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672663582/5064366-VBT06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672237598/5064366-VBT04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672663582/5064366-VBT06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672237598/5064366-VBT04.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672663582/5064366-VBT06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672237598/5064366-VBT04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672663582/5064366-VBT06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164672237598/5064366-VBT04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arcade Capture Belt - Unisex",
+  "product_code": "5064-366",
+  "source_url": "https://www.mec.ca/en/product/5064-366/Capture-Belt",
+  "tech_specs": {
+    "Belt material": [
+      "Nylon"
+    ],
+    "Buckle material": [
+      "Plastic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Length": [
+      "104cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Width": [
+      "3.8cm"
+    ]
+  }
+}

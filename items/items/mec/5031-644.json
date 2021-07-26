@@ -1,0 +1,93 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Sleeping pads",
+    "Inflatable sleeping pads",
+    "Downmat Lite 5 Pump Sleeping Pad"
+  ],
+  "description": "For those who crave a warm, spacious bed at the end of an adventurous day. The insulation in the Downmat Lite Pad is more compact an lighter than a foam-filled, self-inflating pad. To keep you centred as you sleep, it has baffled channels and air-filled pods around the perimeter.Outer 75-denier fabric is durable and stands up to rough ground.650-fill duck down insulation provides 3-season warmth.Welded-through baffles add stability and reduce cold spots.Large, air-only outer cells keep you from rolling out of bed.Valve eliminates moisture build-up caused by inflating mats with your breath.Includes stuff sack, repair kit, and mini-pump.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816493461534/5031644-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816493953054/5031644-GRY00-ALT-VALVE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816494247966/5031644-GRY00-ALT-PUMP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816493461534/5031644-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816493953054/5031644-GRY00-ALT-VALVE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816494247966/5031644-GRY00-ALT-PUMP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816493461534/5031644-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816493953054/5031644-GRY00-ALT-VALVE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816494247966/5031644-GRY00-ALT-PUMP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816493461534/5031644-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816493953054/5031644-GRY00-ALT-VALVE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816494247966/5031644-GRY00-ALT-PUMP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Exped Downmat Lite 5 Pump Sleeping Pad - Unisex",
+  "product_code": "5031-644",
+  "source_url": "https://www.mec.ca/en/product/5031-644/Downmat-Lite-5-Pump-Sleeping-Pad",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Pump included",
+      "Repair kit included",
+      "Stuff sack included"
+    ],
+    "Bottom Fabric": [
+      "75-denier polyester"
+    ],
+    "Capacity\n\nThe number of average sized people that the product can comfortably sleep.": [
+      "1-person"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Inflation method": [
+      "Pump"
+    ],
+    "Insulation": [
+      "Down"
+    ],
+    "Length": [
+      "183cm (Medium)",
+      "197cm (Long Wide)"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "R value (thermal resistance)\n\nMeasures insulative value. Higher values indicate more warmth: 1 to 3 are best for warm weather. 3 to 4 are best for 3-season use.4.5 or higher is best for winter.": [
+      "4.1"
+    ],
+    "Rolled diameter": [
+      "13cm (Medium)",
+      "14cm (Long Wide)"
+    ],
+    "Rolled length": [
+      "26cm (Medium)",
+      "31cm (Long Wide)"
+    ],
+    "Shape": [
+      "Rectangle"
+    ],
+    "Thickness": [
+      "5cm"
+    ],
+    "Top Fabric": [
+      "75-denier polyester"
+    ],
+    "Type": [
+      "Inflatable pad"
+    ],
+    "Weight": [
+      "600g (Medium)",
+      "830g (Long Wide)"
+    ],
+    "Width": [
+      "52cm (Medium)",
+      "65cm (Long Wide)"
+    ]
+  }
+}

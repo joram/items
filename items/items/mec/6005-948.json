@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Athletic Light Elite Stripe Crew Socks"
+  ],
+  "description": "Retro athletic look meets modern merino technology. Thin cushioning and a reinforced sole keep your feet happy, wear after wear.Made of merino, nylon and elastane.2-Degree fit keeps sock in place.Light Elite cushioning for shock absorption in targeted zones.Flat knit toe seam for an irritation-free wear.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185233174558/6005948-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185233174558/6005948-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Athletic Light Elite Stripe Crew Socks - Unisex",
+  "product_code": "6005-948",
+  "source_url": "https://www.mec.ca/en/product/6005-948/Athletic-Light-Elite-Stripe-Crew-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Mapped"
+    ],
+    "Fabric content": [
+      "59% merino wool",
+      "39% nylon",
+      "2% elastane"
+    ],
+    "Ideal for": [
+      "Fitness and training",
+      "Running",
+      "Day hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

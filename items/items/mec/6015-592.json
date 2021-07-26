@@ -1,0 +1,206 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "GPS Navigation",
+    "GPS watches",
+    "Grit X GPS"
+  ],
+  "description": "Polar knows there's more to training than hitting start and stop. The Grit X analyzes training, nutrition and  recovery, to help you perform at your best. Internal GPS provides speed and distance info, an optical heart rate sensor provides all sorts of pulse-related metrics, and internal accelerometers translate your movements into information. There\u2019s even an internal running power meter, no foot pod needed. When paired with your phone running the free Polar Flow\u2122 app, you can review activities, download training plans, receive texts, social media alerts and emails, track the weather and more.130 different sport profiles are available to let you customize your watch (up to 20 profiles on the watch). Each profile has customizable data fields, zone limits, laps and more.Optical heart rate monitor uses Polar\u2019s Precision Prime\u2122 multicoloured LED sensor to measure heart rate right off your wrist.Komoot turn-by-turn navigation, plan your route, synch it over Bluetooth\u2122 and you\u2019re ready to go (Komoot region unlocking may be required).Strava\u2122 Live Segment integration lets you know when your starred segments are about to begin and shows instantaneous data (Strava premium required).HillSplitter\u2122 displays splits and counts ascents/descents for hill training.FuelWise\u2122 mode provides reminders to eat and drink as you train, and recaps your \u201cfuel sources\u201d after a workout to help you plan nutrition for the next workout.Nightly Recharge\u2122 shows quality of rest and recovering from training.FitSpark\u2122 suggests daily workouts to maintain current fitness level, with strength, cardio and supportive/flexibility focused options.Training Load Pro\u2122 breaks down how you train into 3 components: training load, cardio load, and muscle load, this data is used to tell you if you are over-training, on the right track, or under training.Swim training profile (pool and open water) detects stroke, distance, pace, strokes and rest times.Intelligent battery manager provides 40 hours of continuous training use, up to 100 hours with reduced GPS intervals and 7 days in watch mode.GPS, GLONASS, Galileo and QZSS satellite constellation support means a strong signal nearly anywhere on the globe.Free Polar Flow app can load workouts to your favourite training apps, like Strava, Training Peaks and more (uses your phone\u2019s Bluetooth connection).Bluetooth Smart lets you connect to a variety of different sensors to tell you more about how you train, including: power meters (cycling and running), cadence and speed sensors, foot pods, heart rate belts and more.Daily activity tracking with 24/7 heart rate data, steps and sleep tracking.ABC data comes in via the internal altimeter, barometer and compass.Rugged stainless-steel case.Tough, non-reflective Gorilla Glass\u00a9 screen.Bright colour touchscreen is easy to see in all conditions.Customizable watch faces let you choose how and what you see.100m water resistance.Standard 22mm strap makes customizing easy.Fits wrists 14.5-21.5cm in circumference.In the box: Grit X, charging cable and documentation.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185906884638/6015592-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185906884638/6015592-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185906884638/6015592-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185906884638/6015592-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Polar Grit X GPS",
+  "product_code": "6015-592",
+  "source_url": "https://www.mec.ca/en/product/6015-592/Grit-X-GPS",
+  "tech_specs": {
+    "12/24 hour format": [
+      "Yes"
+    ],
+    "ANT+ compatible\n\nEnsures seamless digital wireless communication between ANT+ devices. For example, data from an ultra-low power wireless sensor can be displayed on a bike computer or smartphone, then downloaded to a PC, etc.": [
+      "No"
+    ],
+    "Add maps capability\n\nThese units allow you to add maps, so you can mark and name waypoints and create routes on your PC, and then upload the map of your choice to your GPS.": [
+      "No"
+    ],
+    "App compatibility\n\nAn online community where members upload, analyze and share activity data.": [
+      "Polar Flow",
+      "Third party apps"
+    ],
+    "Area calculation": [
+      "No"
+    ],
+    "Auto pause\n\nAutomatically pauses timer when you stop or go below a specified pace.": [
+      "No"
+    ],
+    "Barometric altimeter\n\nBarometer function helps forecast weather trends. An altimeter can provide one line of position for location on a topo map, useful if the GPS isn't working.": [
+      "Yes"
+    ],
+    "Basemap\n\nA basic set of map data that is included with the GPS. Basemap detail may vary from unit to unit.": [
+      "No"
+    ],
+    "Batteries": [
+      "Rechargeable battery pack (non-removable)"
+    ],
+    "Battery life": [
+      "40-168\u00a0h"
+    ],
+    "Battery power indicator": [
+      "Yes"
+    ],
+    "Bluetooth": [
+      "Yes"
+    ],
+    "Button lock": [
+      "Yes"
+    ],
+    "Calorie consumption\n\nCalculated based on data from a heart rate monitor.": [
+      "Yes"
+    ],
+    "Calories in real time\n\nDisplays calorie expenditure during activity, based on heart rate monitor data.": [
+      "Yes"
+    ],
+    "Case diameter": [
+      "47mm"
+    ],
+    "Chest strap": [
+      "Sold separately"
+    ],
+    "Coded signal\n\nA coded instrument ensures no interference between your chest strap and your watch, necessary if you are training in busy gyms or trails where other signals may be encountered.": [
+      "Yes"
+    ],
+    "Countdown timer": [
+      "Yes"
+    ],
+    "Custom POI\n\nA POI (point of interest) is a specific location that someone may find interesting (i.e., favourite viewpoint, best coffee stop before the trailhead). The custom POI feature allows the user to load only the POI's that interest them onto their GPS unit.": [
+      "Yes"
+    ],
+    "Data card": [
+      "Not accepted"
+    ],
+    "Dimensions": [
+      "4.7\u00a0x\u00a04.7\u00a0x\u00a01.3cm"
+    ],
+    "Display dimensions": [
+      "3\u00a0x\u00a03cm"
+    ],
+    "Distance/time alarm": [
+      "Yes"
+    ],
+    "Electronic compass\n\nAn electronic compass allows the user to view their heading in situations where they are either standing still or moving too slowly for the GPS to detect.": [
+      "Yes"
+    ],
+    "Face material\n\nPolycarbonate is inexpensive and light, with good clarity and wear-resistance. Mineral crystal glass offers greater clarity and significantly greater wear-resistance. Sapphire crystal is better still for clarity and wear-resistance.": [
+      "Mineral crystal glass"
+    ],
+    "Foot pod\n\nAttaches to your shoe, captures your running data (i.e., pace, distance), and transmits it to your heart rate monitor or GPS.": [
+      "Sold separately"
+    ],
+    "Haptic feedback": [
+      "Yes"
+    ],
+    "Heart rate in real time\n\nDisplays beats per minute during activity.": [
+      "Yes"
+    ],
+    "Heart rate monitor": [
+      "Yes"
+    ],
+    "Heart rate target zones\n\nDisplays heart rate zones during activity.": [
+      "Yes"
+    ],
+    "IPX rating\n\nIndicates the degree of protection against liquid. IP X1: Dripping water while in normal operating orientation; IP X4: Splashing water; IP X5: Water jets; IP X6: Powerful water jets; IP X7: Immersion up to 1m \u2264 30 minutes; IP X8: Suitable for submersion as specified by manufacturer.": [
+      "IP X8"
+    ],
+    "Ideal for": [
+      "Running, fitness and training",
+      "Road running",
+      "Road cycling",
+      "Swim training"
+    ],
+    "Interface": [
+      "USB",
+      "Wireless"
+    ],
+    "Interval training": [
+      "Yes"
+    ],
+    "Low battery warning": [
+      "Yes"
+    ],
+    "Lug width": [
+      "22mm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Metric/imperial units format": [
+      "Yes"
+    ],
+    "New lap auto start\n\nAutomatically triggers a new lap after reaching a specified difference.": [
+      "Yes"
+    ],
+    "Pace alarm\n\nAn alarm that notifies you if you vary from a pre-set pace.": [
+      "Yes"
+    ],
+    "Pause timer\n\nPauses the timer when slowing or stopping, and automatically resumes when moving again.": [
+      "Yes"
+    ],
+    "Power meter\n\nDisplays output in watts as you ride.": [
+      "Sold separately"
+    ],
+    "Product sustainability": [
+      "Rechargeable batteries"
+    ],
+    "Programmable workouts\n\nWant an easy jog? A fast-paced ride? A workout with lots of variety to keep you on your toes? With programmable workouts you can tailor your training to match whatever you are looking for on a particular day.": [
+      "Advanced"
+    ],
+    "Replaceable wrist strap": [
+      "Yes"
+    ],
+    "Snooze": [
+      "Yes"
+    ],
+    "Speed/cadence sensor\n\nMonitors pedalling cadence and measures pedalling strokes per minute.": [
+      "Sold separately"
+    ],
+    "Stopwatch": [
+      "Yes"
+    ],
+    "Tide tables": [
+      "No"
+    ],
+    "Touch screen": [
+      "Yes"
+    ],
+    "Unit to unit transfer\n\nShares data wirelessly between compatible units.": [
+      "Yes"
+    ],
+    "Virtual partner\n\nAllows user to monitor training goals with either a virtual partner or alarms.": [
+      "Yes"
+    ],
+    "Weight": [
+      "64g"
+    ],
+    "WiFi": [
+      "No"
+    ],
+    "Wireless sync": [
+      "Yes"
+    ],
+    "Workout history": [
+      "Yes"
+    ],
+    "Wrist strap material": [
+      "Silicone"
+    ]
+  }
+}

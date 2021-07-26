@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Willmore Wilderness Topo Map"
+  ],
+  "description": "Detailed topographic map of beautiful Willmore Wilderness Park, nestled next to Jasper National Park. Black and white, with contour intervals.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815785607198/4001087-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815785607198/4001087-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Willmore Wilderness Topo Map",
+  "product_code": "4001-087",
+  "source_url": "https://www.mec.ca/en/product/4001-087/Willmore-Wilderness-Topo-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:126,720"
+    ],
+    "Tearproof": [
+      "No"
+    ],
+    "Waterproof": [
+      "No"
+    ]
+  }
+}

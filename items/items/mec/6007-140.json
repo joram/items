@@ -1,0 +1,80 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike lights",
+    "Front bike lights",
+    "Mini Drive 400/KTV Pro Light Set"
+  ],
+  "description": "These two tiny powerhouses will help keep you seen as day turns to night. Lezyne has bundle two of their tiny heavy hitters in this package, the Mini Drive 400XL has more than enough lumens and modes to see and be seen, while the KTV has a custom engineered reflector that can provides over 270\u00b0 of visibility. This pair uses easy USB-charging, with integrated plugs, simply pop off the rear cover and plug your light right into any standard USB port and you\u2019re charging, no cable needed.Front light has 8 lighting modes, 4 in steady and 4 in flashing; steady: 400 lumens (1h), 150 lumens (2.5h), 75 lumens (5h), 15 lumens (20h), flash 1\u201350 lumens (13.5h), flash 2\u201350 lumens (13.5h), day flas \u2013400 lumens (7h) and pulse\u201350 lumens (15h).Rear light has 5 lighting modes, 2 in steady and 3 in flashing; steady: 20 lumens (4h), 3 lumens (18h), flash 1\u201325 lumens (8.75h), flash 2\u201310 lumens (19.5h) and day flash \u2013 75 lumens (10h).1-button interface takes you through all your light\u2019s modes.Front light has a race mode (activated by holding the button down for 5 seconds) uses only 2 modes, a high (400 lumens) and a low (75 lumens). Race mode lets you cycle between the high and low mode with a single button press, low mode is great for when your riding in a pack, high mode is good for when you\u2019re in the lead.Front light has a mode memory remembers what mode the light was in when it was shut off.Front light rugged aluminum body is durable and dissipates heat well.Cut-outs at the lens of the front light provide side illumination, keeping you seen from the side.Rear light features a wide-angle lens that provides over 270\u00b0 of visibility.Rear light is aero post compatible.Integrated USB plug means you don\u2019t need to carry a charging cable \u2013 full charging takes ~3 hours.LED charging indicator lets you know light needs charging, when it\u2019s charging and when it\u2019s ready to go.Silicone, tool-free mounting straps.IPX7 waterproofing protects your light from heavy downpours.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053391355934/6007140-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053391355934/6007140-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Lezyne Mini Drive 400/KTV Pro Light Set",
+  "product_code": "6007-140",
+  "source_url": "https://www.mec.ca/en/product/6007-140/Mini-Drive-400-KTV-Pro-Light-Set",
+  "tech_specs": {
+    "Batteries": [
+      "Rechargeable battery pack (non-removable)"
+    ],
+    "Boost mode\n\nBriefly increases the light output to maximum brightness and distance.": [
+      "No"
+    ],
+    "Charge time\n\nThe amount of time it takes to fully charge the battery. Applies to lithium and NiMH type batteries. Does not apply to rechargeable or non-rechargeable AA or AAA batteries.": [
+      "3\u00a0h"
+    ],
+    "Flash mode": [
+      "Yes"
+    ],
+    "Helmet attachment\n\nIncludes a bracket or mounting system that attaches to most bike helmets.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling",
+      "Cycle touring"
+    ],
+    "Included mounts": [
+      "Handlebar mount",
+      "Seat post mount"
+    ],
+    "Light modes\n\nThe number of lighting levels/modes the light has (i.e., low, med, high, flash).": [
+      "5 modes"
+    ],
+    "Light source": [
+      "LED"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Max light output\n\nThe total quantity of light emitted in every direction from a source of light; measured in lumens.": [
+      "400\u00a0lumens"
+    ],
+    "Product sustainability": [
+      "Rechargeable batteries"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Rechargeable"
+    ],
+    "Red light mode": [
+      "Yes"
+    ],
+    "Regulated output\n\nOn regulated lights brightness is consistent, and does not decrease gradually as the batteries are drained.": [
+      "Yes"
+    ],
+    "Type\n\nMost Canadian municipalities require a white front light and a red rear light.": [
+      "Front",
+      "Rear"
+    ],
+    "Weight": [
+      "128g"
+    ]
+  }
+}

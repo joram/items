@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Ski socks",
+    "Deviation Midweight Ski Socks"
+  ],
+  "description": "Turn after turn, these soft merino blend socks provide warmth without bulk and has natural antimicrobial properties.Zone cushioning over calf for comfort.Elastic ankle and arch to hold sock in place.Soft merino wool provides warmth that won\u2019t shrink or itch.Seamless toe closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052306702366/6001312-OXF02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052306702366/6001312-OXF02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wigwam Deviation Midweight Ski Socks - Unisex",
+  "product_code": "6001-312",
+  "source_url": "https://www.mec.ca/en/product/6001-312/Deviation-Midweight-Ski-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Knee"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "57% merino wool",
+      "40% nylon",
+      "3% spandex"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Downhill skiing",
+      "Snowboarding",
+      "Snowshoeing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

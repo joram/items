@@ -1,0 +1,90 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Three Cheese Mac& Cheese"
+  ],
+  "description": "Classic elbow macaroni in rich creamy sauce made from a blend of parmesan, Romano, and cheddar. A hearty serving of comfort food to enjoy anywhere.Ingredients: elbow macaroni (durum semolina flour (wheat), niacin, ferrous sulfate (iron), thiamine mononitrate, riboflavin and folic acid), cheddar cheese (pasteurized milk, cheese cultures, salt, enzymes, annatto), parmesan cheese (parmesan cheese (cultured part-skim milk, salt, enzymes), disodium phosphate, salt), romano cheese from cow's milk (cultured pasteurized part-skim milk, salt, enzymes, disodium phosphate), whole milk (rbst free), butter sauce (modified corn starch, salt, whey solids, non-fat dry milk, dehydrated butter, natural butter flavor, sugar, xanthan gum, lactic acid, turmeric and annatto), onion, sea salt, bacon flavor (maltodextrin, bacon type flavor (sunflower oil, smoke flavor, with other natural flavors), rice starch, salt, tocopherol (vitamin e)), black pepper, turmeric, nutmeg.Allergens: milk, gluten, and wheat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986377650206/5052148-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986377650206/5052148-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backpacker's Pantry Three Cheese Mac & Cheese",
+  "product_code": "5052-148",
+  "source_url": "https://www.mec.ca/en/product/5052-148/Three-Cheese-Mac%26-Cheese",
+  "tech_specs": {
+    "Calories per serving": [
+      "430Cal"
+    ],
+    "Carbohydrates": [
+      "56g"
+    ],
+    "Cholesterol": [
+      "45mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "2g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "19g"
+    ],
+    "Saturated fat": [
+      "7g"
+    ],
+    "Serving size": [
+      "1/2 package"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "610mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "5g"
+    ],
+    "Total fat": [
+      "14g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "201g"
+    ]
+  }
+}

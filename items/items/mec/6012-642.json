@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Footwear accessories",
+    "Gaiters",
+    "NAVA Gaiter GTX"
+  ],
+  "description": "Rugged and waterproof, these gaiters withstand the harshest winter conditions. 3-layer construction and a tall 34cm design keep your boots dry and debris free. They pack down small into the included tote sack for convenient carrying.Upper panel is polyester and lower panel is ballistic nylon.Both panels are 3-layer GORE-TEX\u00ae construction.Asymmetrical AquaGuard\u00ae locking zipper keeps out moisture.Elasticized drawcord top provides a tight seal.Adjustable TPU-reinforced polyester webbing instep strap holds up to trail and mountain abuse.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140732133406/6012642-DKG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738687006/6012642-DKG01-ALT-BOTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738850846/6012642-DKG01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140732133406/6012642-DKG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738687006/6012642-DKG01-ALT-BOTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738850846/6012642-DKG01-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140732133406/6012642-DKG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738687006/6012642-DKG01-ALT-BOTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738850846/6012642-DKG01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140732133406/6012642-DKG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738687006/6012642-DKG01-ALT-BOTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738850846/6012642-DKG01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kahtoola NAVA Gaiter GTX - Unisex",
+  "product_code": "6012-642",
+  "source_url": "https://www.mec.ca/en/product/6012-642/NAVA-Gaiter-GTX",
+  "tech_specs": {
+    "Closure": [
+      "Zipper"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Backpacking"
+    ],
+    "Lower material": [
+      "Nylon"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Underarch material": [
+      "Polyurethane strap"
+    ],
+    "Waterproof": [
+      "Yes"
+    ],
+    "Weight": [
+      "154g (Medium)"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Manning Park&Skagit Valley Park Recreation Ma"
+  ],
+  "description": "BC Parks created this exceptional 1:50,000 scale map of Manning Park, and its beautiful cousin, Skagit Valley Park. These two parks share boundaries, span a huge area and offer hiking, biking, horse riding, cross-country and backcountry skiing. The map has detailed 25m contours and shaded relief, hike and traverse descriptions. GPS ready: UTM and latitude/longitude.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8852266549278/5051782-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8852266549278/5051782-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Clark Geomatics Manning Park  & Skagit Valley Park Recreation Map",
+  "product_code": "5051-782",
+  "source_url": "https://www.mec.ca/en/product/5051-782/Manning-Park%26Skagit-Valley-Park-Recreation-Ma",
+  "tech_specs": {
+    "Edition": [
+      "2nd"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Backcountry skiing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

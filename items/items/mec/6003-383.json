@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike locks",
+    "Cable and chain locks",
+    "Tresor 6615C Armoured Cable - Combo 15mm x 85"
+  ],
+  "description": "A packable cable lock for security in low-risk areas. It's also useful for attaching your bike to your car rack, trees and large items where there are no bike racks to be found.15mm overlapping steel shells protect the inner steel cable.Cable has a PVC cover to prevent damage to your bike's paint.Moulded number on the dial won't wear off.Unlock code can be set to your go-to number.SCMU mounting system for tool-free installation.Abus security rating of 5/15.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031331905566/6003383-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072265758/6003383-BK000-ALT-LOCK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072298526/6003383-BK000-ALT-HOLDER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031331905566/6003383-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072265758/6003383-BK000-ALT-LOCK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072298526/6003383-BK000-ALT-HOLDER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031331905566/6003383-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072265758/6003383-BK000-ALT-LOCK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072298526/6003383-BK000-ALT-HOLDER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031331905566/6003383-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072265758/6003383-BK000-ALT-LOCK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072298526/6003383-BK000-ALT-HOLDER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Abus Tresor 6615C Armoured Cable - Combo 15mm x 85cm",
+  "product_code": "6003-383",
+  "source_url": "https://www.mec.ca/en/product/6003-383/Tresor-6615C-Armoured-Cable---Combo-15mm-x-85",
+  "tech_specs": {
+    "Diameter": [
+      "15mm"
+    ],
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Length": [
+      "85cm"
+    ],
+    "Locking mechanism": [
+      "Combination"
+    ],
+    "Made in": [
+      "Hong Kong"
+    ],
+    "Material": [
+      "Steel"
+    ],
+    "Mounting bracket": [
+      "Yes"
+    ],
+    "Type": [
+      "Cable lock"
+    ],
+    "Weight": [
+      "650g"
+    ]
+  }
+}

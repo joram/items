@@ -1,0 +1,96 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Bengali Rice"
+  ],
+  "description": "Inspired by a particularly delicious trip to India, Happy Yak\u2019s Bengali rice is loaded with crunchy pistachios, sweet aromas of curry and coriander, tender vegetables and rice.Ingredients: rice, dehydrated soy chunks [texturized soy protein, water, corn semola, beef flavoured broth (hydrolyzed corn protein, glucose solids, potato starch, sugar, caramel, yeast extract, onion powder, spices), rolled oats, wheat flour, onion flakes, spices], bengali seasonings [beef flavoured broth (hydrolyzed corn protein, glucose solids, potato starch, sugar, caramel, yeast extract, onion powder, spices), spices, sugar, garlic powder, citric acid], pistachios, freeze-dried peas, freeze-dried shallots, freeze-dried red bell pepper.May contain: nuts, peanuts, sesame, milk, egg and shrimp.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140732461086/6012195-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738719774/6012195-NOC02-ALT-PACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140732461086/6012195-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738719774/6012195-NOC02-ALT-PACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140732461086/6012195-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738719774/6012195-NOC02-ALT-PACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140732461086/6012195-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140738719774/6012195-NOC02-ALT-PACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Bengali Rice",
+  "product_code": "6012-195",
+  "source_url": "https://www.mec.ca/en/product/6012-195/Bengali-Rice",
+  "tech_specs": {
+    "Calories per serving": [
+      "640Cal"
+    ],
+    "Carbohydrates": [
+      "112g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "12g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "32g"
+    ],
+    "Saturated fat": [
+      "0.8g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "940mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "6g"
+    ],
+    "Total fat": [
+      "7g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "170g"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camp furniture",
+    "Chairs",
+    "Chair One Seat Warmer"
+  ],
+  "description": "Your chair wants a puffy too. Slip this insulated covering over your Chair One for some extra cushion and warmth on cold days.Recycled polyester insulation protects from the cold and adds some padding.Reversible design can be a fun for styling and is a nice option for unexpected spills.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164002820126/6012109-BFL01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162302849054/6012109-BFL01-ALT-REVERSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164002820126/6012109-BFL01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162302849054/6012109-BFL01-ALT-REVERSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164002820126/6012109-BFL01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162302849054/6012109-BFL01-ALT-REVERSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164002820126/6012109-BFL01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162302849054/6012109-BFL01-ALT-REVERSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Helinox Chair One Seat Warmer",
+  "product_code": "6012-109",
+  "source_url": "https://www.mec.ca/en/product/6012-109/Chair-One-Seat-Warmer",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Tanks and sleeveless shirts",
+    "Rainbow Diamond Tank"
+  ],
+  "description": "A supple tank with an iconic logo.Pre-shrunk, soft organic cotton jersey with just a hint of spandex for a comfortable stretch.Slim athletic fit.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187250077726/6012154-BL332.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187250077726/6012154-BL332.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Rainbow Diamond Tank - Women's",
+  "product_code": "6012-154",
+  "source_url": "https://www.mec.ca/en/product/6012-154/Rainbow-Diamond-Tank",
+  "tech_specs": {
+    "Fabric content": [
+      "96% organically grown cotton",
+      "4% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "160gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "India"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ]
+  }
+}

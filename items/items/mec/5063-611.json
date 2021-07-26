@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water bottle accessories and parts",
+    "SlapLitLED Drink Wrap"
+  ],
+  "description": "Campfire fun is just a slap away. This neoprene drink wrap adds a layer of insulation to keep your drink cooler and your hand warmer. The coloured LED strip can be set to solid or flashing to easily identify which drink is yours.Neoprene wrap with spring steel bands has a non-slip back to hold drinks securely.Coloured LED strip lights the entire length of the wrap.Glow or flash option for easy drink identification.Replaceable CR2032 battery included for 100 hours of light.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994971680798/5063611-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994971156510/5063611-RED00-ALT-GLOWSELF.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994971648030/5063611-RED00-ALT-GLOWBOTTLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994971680798/5063611-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994971156510/5063611-RED00-ALT-GLOWSELF.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994971648030/5063611-RED00-ALT-GLOWBOTTLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994971680798/5063611-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994971156510/5063611-RED00-ALT-GLOWSELF.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994971648030/5063611-RED00-ALT-GLOWBOTTLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994971680798/5063611-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994971156510/5063611-RED00-ALT-GLOWSELF.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994971648030/5063611-RED00-ALT-GLOWBOTTLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nite Ize SlapLitLED Drink Wrap",
+  "product_code": "5063-611",
+  "source_url": "https://www.mec.ca/en/product/5063-611/SlapLitLED-Drink-Wrap",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

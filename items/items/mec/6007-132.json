@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike bags and trailers",
+    "Handlebar, frame and seat bags",
+    "Seat bags",
+    "Seat Pack with Boa"
+  ],
+  "description": "A quick fix for your storage needs. This seat post bag is expandable with roll-top access. The Boa\u00ae attachment system is super secure, compatible with fixed or dropper seat posts.140/500-denier fabric with a PU coating is durable and weather-resistant.Roll-top design gives you adjustable volume and access from the back.Boa\u00ae Fit System allows secure attachment to seat posts, including droppers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084992028702/6007132-LOA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084991995934/6007132-CAR34.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084992028702/6007132-LOA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084991995934/6007132-CAR34.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084992028702/6007132-LOA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084991995934/6007132-CAR34.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084992028702/6007132-LOA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084991995934/6007132-CAR34.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "EVOC Seat Pack with Boa",
+  "product_code": "6007-132",
+  "source_url": "https://www.mec.ca/en/product/6007-132/Seat-Pack-with-Boa",
+  "tech_specs": {
+    "Dimensions": [
+      "37\u00a0x\u00a019\u00a0x\u00a011cm (Loam)"
+    ],
+    "Ideal for": [
+      "Cycle touring and bikepacking"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Volume": [
+      "3L (Loam)"
+    ],
+    "Weight": [
+      "225g"
+    ]
+  }
+}

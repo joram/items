@@ -1,0 +1,184 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Multi-tools",
+    "Bond Multi-Tool"
+  ],
+  "description": "Do a lot, with a little. Using the same low-profile design as the original Super Tool, the Bond packs 14 useful tools into transportable package. Rounded edges are comfy when you need to apply extra torque. A full-size blade opens stubborn packaging, whittles marshmallow roasting sticks and other everyday tasks. Useful needle nose pliers will make you wonder how you ever did without.Clip-point knife blade.Integrated leaf springs keep tools securely in place.Lanyard ring provides an extra measure of security.Low-profile folding design.Phillips and multiple sizes of flat tip screwdrivers.Can opener doubles as a bottle opener.Wire-stripper tucked into the base of the can opener.10cm ruler for measurements in the field.Tough nylon sheath.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192816082974/6014651-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328050206/6014651-SIL00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328181278/6014651-SIL00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328214046/6014651-SIL00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328476190/6014651-SIL00-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328738334/6014651-SIL00-ALT-E.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695805470/6014651-SIL00-ALT-F.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192816082974/6014651-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328050206/6014651-SIL00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328181278/6014651-SIL00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328214046/6014651-SIL00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328476190/6014651-SIL00-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328738334/6014651-SIL00-ALT-E.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695805470/6014651-SIL00-ALT-F.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192816082974/6014651-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328050206/6014651-SIL00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328181278/6014651-SIL00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328214046/6014651-SIL00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328476190/6014651-SIL00-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328738334/6014651-SIL00-ALT-E.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695805470/6014651-SIL00-ALT-F.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192816082974/6014651-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328050206/6014651-SIL00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328181278/6014651-SIL00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328214046/6014651-SIL00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328476190/6014651-SIL00-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193328738334/6014651-SIL00-ALT-E.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193695805470/6014651-SIL00-ALT-F.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Leatherman Bond Multi-Tool",
+  "product_code": "6014-651",
+  "source_url": "https://www.mec.ca/en/product/6014-651/Bond-Multi-Tool",
+  "tech_specs": {
+    "Awl\n\nA spike used for making holes in tough materials such as wood or leather.": [
+      "Yes"
+    ],
+    "Belt cutter": [
+      "No"
+    ],
+    "Bit driver(s)": [
+      "No"
+    ],
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Straight"
+    ],
+    "Blade length": [
+      "6.6cm"
+    ],
+    "Blade locking system": [
+      "No"
+    ],
+    "Blade material": [
+      "420 HC stainless steel"
+    ],
+    "Bottle opener": [
+      "Yes"
+    ],
+    "Can opener": [
+      "Yes"
+    ],
+    "Carabiner clip": [
+      "No"
+    ],
+    "Chisel/scraper": [
+      "No"
+    ],
+    "Corkscrew": [
+      "No"
+    ],
+    "Crimper": [
+      "No"
+    ],
+    "Diamond file": [
+      "No"
+    ],
+    "Eyeglasses screwdriver": [
+      "No"
+    ],
+    "Fish scaler": [
+      "No"
+    ],
+    "Flathead (slot) screwdriver": [
+      "Yes"
+    ],
+    "Handle material": [
+      "Stainless steel"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Camping and hiking"
+    ],
+    "Key ring": [
+      "No"
+    ],
+    "Knife length (closed)": [
+      "10cm"
+    ],
+    "Lanyard attachment": [
+      "Yes"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Metal file": [
+      "Yes"
+    ],
+    "Nail cleaner": [
+      "No"
+    ],
+    "Nail file": [
+      "No"
+    ],
+    "Number of knives": [
+      "1"
+    ],
+    "Package opener": [
+      "No"
+    ],
+    "Phillips (cross) driver": [
+      "Yes"
+    ],
+    "Pliers": [
+      "Needlenose"
+    ],
+    "Pocket clip": [
+      "No"
+    ],
+    "Reamer\n\nReamers are used to enlarge or true a hole that has already exists.": [
+      "Yes"
+    ],
+    "Ruler": [
+      "Yes"
+    ],
+    "Saw": [
+      "No"
+    ],
+    "Scissors": [
+      "No"
+    ],
+    "Sewing awl\n\nThis type of awl has a hole for thread in the tip.": [
+      "Yes"
+    ],
+    "Sheath included": [
+      "Yes"
+    ],
+    "Sheath material": [
+      "Nylon"
+    ],
+    "Straight pin": [
+      "No"
+    ],
+    "Toothpick": [
+      "No"
+    ],
+    "Tweezers": [
+      "No"
+    ],
+    "Weight": [
+      "176g"
+    ],
+    "Wire cutter": [
+      "Regular"
+    ],
+    "Wire stripper": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Pocket knives and fixed blade knives",
+    "Fixed blade knives",
+    "Bushcraft Survival Stainless Knife"
+  ],
+  "description": "Built for rugged outdoor adventures. The Bushcraft Survival Knife's stainless steel blade is equipped a versatile  scandi grind. An ergonomic handle fits well in your hand to build a shelter or prep meals. A modular sheath holds a fire steel and sharpening stone so you're always prepared.Scandi-ground blade is great for a variety of outdoor tasks.Sheath has an integrated diamond sharpening stone and a secure fire steel holder.Modular sheath works at or below belt line or clipped to any strap or belt.Included fire steel works in wet or dry conditions and provides thousands of uses.Flat-ground spine acts as a perfect scraper for a fire steel.Mora knives have been crafted in Mora, Sweden, since 1891.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137041244190/6011883-TAN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137041244190/6011883-TAN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mora Bushcraft Survival Stainless Knife",
+  "product_code": "6011-883",
+  "source_url": "https://www.mec.ca/en/product/6011-883/Bushcraft-Survival-Stainless-Knife",
+  "tech_specs": {
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Straight"
+    ],
+    "Blade length": [
+      "10.9cm"
+    ],
+    "Blade material": [
+      "12C27 stainless steel"
+    ],
+    "Handle material": [
+      "Plastic"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Knife length (open)": [
+      "23.2cm"
+    ],
+    "Made in": [
+      "Sweden"
+    ],
+    "Sheath included": [
+      "Yes"
+    ],
+    "Sheath material": [
+      "Plastic"
+    ]
+  }
+}

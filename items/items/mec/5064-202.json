@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Straight gate carabiners",
+    "Dyon Rack Pack"
+  ],
+  "description": "A rack-pack of wire gate carabiners that come with a twist: they have two-part gates that combine the lightness of a wire gate with the snag-free design of a keylock closure. The open gate strength of 11kN inspires confidence should it slip into a compromised position.KeyWire hybrid wire gate with keylock closure.Notchless nose won't catch on gear.I-beam construction and a curved spine contribute to a high open-gate strength.Includes 6 carabiners in colours that match most cams for easy identification and racking.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023048319006/5064202-AST04.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023048319006/5064202-AST04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Dyon Rack Pack",
+  "product_code": "5064-202",
+  "source_url": "https://www.mec.ca/en/product/5064-202/Dyon-Rack-Pack",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.6cm"
+    ],
+    "Gate type": [
+      "Wire"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "21kN"
+    ],
+    "Strength cross-loaded": [
+      "7kN"
+    ],
+    "Strength open": [
+      "11kN"
+    ],
+    "Weight": [
+      "198g"
+    ]
+  }
+}

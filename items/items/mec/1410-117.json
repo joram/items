@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Uppers and downers",
+    "Descenders",
+    "Descending Ring"
+  ],
+  "description": "An aluminum ring that facilitates getting your rope back after rappelling. It\u2019s cheap enough to leave behind, and light (so you can carry a bundle for alpine routes).Strength is 14.kN.Ring is rolled (not welded).3.8cm (1.5in.) inside diameter.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807430651934/1410117-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807430651934/1410117-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SMC Descending Ring",
+  "product_code": "1410-117",
+  "source_url": "https://www.mec.ca/en/product/1410-117/Descending-Ring",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing",
+      "Snow and ice climbing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "11g"
+    ]
+  }
+}

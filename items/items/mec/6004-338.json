@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Climbing chalk",
+    "Liquid Chalk Sender"
+  ],
+  "description": "The souped-up version of Mammut's standard liquid chalk, this new formula keeps your hands dry for even longer. Apply a base layer to your hands and let dry before dipping into your regular chalk. Great for super-hot days or your friction dependent project.Keeps your hands dry longer before having to re-chalk when working routes or longer boulder problems.Compact 100ml size fits into your chalk bucket pocket.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057776762910/6004338-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057776762910/6004338-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mammut Liquid Chalk Sender",
+  "product_code": "6004-338",
+  "source_url": "https://www.mec.ca/en/product/6004-338/Liquid-Chalk-Sender",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing",
+      "Bouldering",
+      "Indoor climbing"
+    ],
+    "Made in": [
+      "Czech Republic"
+    ],
+    "Type of chalk": [
+      "Liquid"
+    ]
+  }
+}

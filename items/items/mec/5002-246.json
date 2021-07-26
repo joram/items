@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Edge tuning tools",
+    "Pocket Combo Sharpener"
+  ],
+  "description": "A compact sharpener to keep your skis on the cutting edge.Dual 88 and 90 degree edge.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817173200926/5002246-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817173200926/5002246-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kuu Pocket Combo Sharpener",
+  "product_code": "5002-246",
+  "source_url": "https://www.mec.ca/en/product/5002-246/Pocket-Combo-Sharpener",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Off-track touring",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "100g"
+    ]
+  }
+}

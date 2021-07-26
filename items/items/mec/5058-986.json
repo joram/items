@@ -1,0 +1,81 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth clothing",
+    "Youth jackets",
+    "Youth parkas and winter coats",
+    "Warm Storm Jacket"
+  ],
+  "description": "Stay cozy and dry, no matter the forecast. The Warm Storm Jacket lives up to its name, with a waterproof-breathable outside to defy the elements, and a plush fleece interior to insulate them against the chill. A touch of reflectivity keeps them visible when dusk falls early, and an internal ID label helps the jacket find its way home if it ever gets left in class.Waterproof-breathable fabric with fully taped seams.Body is 100% nylon, while hood and sleeves are a nylon/polyester blend.Hood is lined with cozy high-pile fleece.Body features 100% recycled polyester fleece lining for added warmth.Elastic cuffs.Pockets zip closed for secure storage.Reflective logos front and back for low-light visibility.ID label.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197203095582/5058986-BUR01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196119195678/5058986-BUR01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196119162910/5058986-BUR01-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197203095582/5058986-BUR01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196119195678/5058986-BUR01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196119162910/5058986-BUR01-ALT-B.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197203095582/5058986-BUR01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196119195678/5058986-BUR01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196119162910/5058986-BUR01-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197203095582/5058986-BUR01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196119195678/5058986-BUR01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196119162910/5058986-BUR01-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Warm Storm Jacket - Boys' - Children to Youths",
+  "product_code": "5058-986",
+  "source_url": "https://www.mec.ca/en/product/5058-986/Warm-Storm-Jacket",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Construction": [
+      "2-layer"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Fabric active breathability\n\nThe rate at which a waterproof breathable fabric expels moisture when the inner surface is moist from perspiration.  Values under 8,000g/m2/24h provide low performance, 20,000g/m2/24h provide moderate performance and values over 30,000g/m2/24h provide high performance.": [
+      "800g/m2/24h"
+    ],
+    "Fabric waterproof rating\n\nThe standard test for waterproof fabrics uses a standing column filled with water.  The figures given are the water column height.  A rating of 3,500mm or higher can be considered waterproof.  The higher the rating, the more durable the waterproof fabric will be over time.": [
+      "17,000 mm"
+    ],
+    "Face fabric": [
+      "70-denier nylon"
+    ],
+    "Hood": [
+      "Standard"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Lining/backer": [
+      "Polyurethane"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front"
+    ],
+    "Technology": [
+      "DryVent"
+    ],
+    "Type": [
+      "Waterproof-breathable"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Waterproof with fully taped seams"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

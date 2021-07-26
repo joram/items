@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Guide to National Parks of Canada 2nd Edition"
+  ],
+  "description": "Celebrate Canada's 150th birthday. Discover Canada's 47 national parks, stretching from Cape Breton Highlands to Banff to Pacific Rim National Park Preserve. Includes the five newest additions: N\u00e1\u00e1ts'ihch'oh National Park Reserve, Mealy Mountains, Rouge Urban, Qausuittuq, and Sable Island National Park Reserve. Full of practical information, maps, and stunning photographs. Other highlights include the best spots for wildlife watching, favourite places for kayaking, swimming, camping, hiking, and other activities, as well as such important information as how to get to each park, the best seasons, and where to stay.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8866434580510/5053207-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8866434580510/5053207-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "National Geographic Guide to National Parks of Canada 2nd Edition",
+  "product_code": "5053-207",
+  "source_url": "https://www.mec.ca/en/product/5053-207/Guide-to-National-Parks-of-Canada-2nd-Edition",
+  "tech_specs": {
+    "Edition": [
+      "2nd"
+    ],
+    "ISBN": [
+      "9781426217562"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Camping and hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "384"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "British Columbia",
+      "Atlantic Provinces",
+      "Northern Canada",
+      "Ontario",
+      "Prairies",
+      "Quebec",
+      "Rockies"
+    ]
+  }
+}

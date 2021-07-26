@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Winter boots",
+    "Casual winter boots",
+    "Chilkat II Nylon Waterproof Winter Boots"
+  ],
+  "description": "Waterproof boots that are tough enough for the mountains but made for the urban jungle. The North Face has evolved their popular Chilkat boot for harsh city winters.  Equipped with waterproof, ballistic nylon uppers and cold-proof rubber soles, they're ready for gnarly winter commutes.Waterproof, breathable DryVent\u2122 technology seals out the elements.Light and efficient Heatseeker\u2122 insulation stays warm even when wet.Partial rand adds protection where it's needed.Fleece lining in the collar seals out the cold while wicking away moisture.Large pull-on loops can be used while wearing gloves.Compression molded EVA midsole offers all- day support and excellent shock absorption.Winter Grip\u00ae rubber outsole has IcePick\u00ae temperature-sensitive rubber lugs, offering great traction in challenging winter conditions.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150284595230/6009577-BK970.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150294229022/6009577-BK970-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150294294558/6009577-BK970-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150284595230/6009577-BK970.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150294229022/6009577-BK970-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150294294558/6009577-BK970-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150284595230/6009577-BK970.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150294229022/6009577-BK970-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150294294558/6009577-BK970-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150284595230/6009577-BK970.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150294229022/6009577-BK970-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9150294294558/6009577-BK970-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Chilkat II Waterproof Winter Boots - Men's",
+  "product_code": "6009-577",
+  "source_url": "https://www.mec.ca/en/product/6009-577/Chilkat-II-Nylon-Waterproof-Winter-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Height\n\nThe approximate boot height for the average person.": [
+      "Above ankle"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Insulation": [
+      "200g synthetic insulation",
+      "Fleece"
+    ],
+    "Lining material": [
+      "Synthetic"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable inner boot": [
+      "No"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Nylon"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ]
+  }
+}

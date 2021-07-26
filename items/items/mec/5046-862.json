@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Coffee makers and kettles",
+    "Espresso makers",
+    "Coffee& Espresso Maker"
+  ],
+  "description": "Real coffee, crema and all, from a device that weighs less than the average hiking boot. The Aeropress brews delicious American-style coffee or espresso-style caffeine hits \u2013 all you need are ground beans and hot water. Try it for camping or hut trips, and it may just become your favoured method for home brewing, too. Coffee snob approved.Rapid, total immersion brewing process makes full-flavoured coffee without bitterness.Makes 1 to 3 cups per pressing in about a minute.Micro-filter means no grit in your cup (unlike a French press).Easy clean up.BPA and phthalate free.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153983348766/5046862-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982136350/5046862-NOC02-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982267422/5046862-NOC02-ALT-PRESS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982660638/5046862-NOC02-ALT-ZBAG.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153983348766/5046862-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982136350/5046862-NOC02-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982267422/5046862-NOC02-ALT-PRESS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982660638/5046862-NOC02-ALT-ZBAG.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153983348766/5046862-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982136350/5046862-NOC02-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982267422/5046862-NOC02-ALT-PRESS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982660638/5046862-NOC02-ALT-ZBAG.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153983348766/5046862-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982136350/5046862-NOC02-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982267422/5046862-NOC02-ALT-PRESS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153982660638/5046862-NOC02-ALT-ZBAG.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Aeropress Coffee & Espresso Maker",
+  "product_code": "5046-862",
+  "source_url": "https://www.mec.ca/en/product/5046-862/Coffee%26-Espresso-Maker",
+  "tech_specs": {
+    "Dimensions": [
+      "10\u00a0x\u00a010\u00a0x\u00a014cm"
+    ],
+    "Foldable handle": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Everyday use",
+      "Car camping",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Plastic"
+    ],
+    "Volume": [
+      "237ml"
+    ],
+    "Weight": [
+      "227g"
+    ]
+  }
+}

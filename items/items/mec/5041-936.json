@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tool components",
+    "Alpine Adze"
+  ],
+  "description": "Adze that fits on Black Diamond\u00ae 2015 Viper Ice Tools.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807454408734/5041936-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807454408734/5041936-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Alpine Adze",
+  "product_code": "5041-936",
+  "source_url": "https://www.mec.ca/en/product/5041-936/Alpine-Adze",
+  "tech_specs": {
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "105g"
+    ]
+  }
+}

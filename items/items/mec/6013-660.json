@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "PhD Pro Hike Crew Socks"
+  ],
+  "description": "Designed in partnership with Kalen Thorien, these hiking socks use a merino wool blend and seamless construction to keep your feet happy on the way to the summit. An Achilles strap protects your ankles from rocks and other trail debris.4-degree elite fit system uses 2 types of elastic for stretch, recovery and to keep the sock in place.Indestructawool Technology in high-impact areas for comfort.Mesh ventilation zones provide moisture management.Virtually Seamless\u2122 toe for chafe-free wear.Narrower profile suits those with narrower feet.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163341791262/6013660-ASH00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163341791262/6013660-ASH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool PhD Pro Hike Crew Socks - Women's",
+  "product_code": "6013-660",
+  "source_url": "https://www.mec.ca/en/product/6013-660/PhD-Pro-Hike-Crew-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Mapped"
+    ],
+    "Fabric content": [
+      "50% merino wool",
+      "47% nylon",
+      "3% elastane"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Day hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

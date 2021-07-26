@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Base layers and underwear",
+    "Base layers",
+    "Base layer tops",
+    "Lam Half Zip"
+  ],
+  "description": "Norwegians know winter. This cozy merino wool base layer adds extra warmth for cold days. Made from super fine 100% merino wool, the Lam is soft on skin (not scratchy) and provides excellent insulation when wet or dry.Naturally odour-resistant so you can go longer between washes.Flatlock seams throughout for comfortable layering.Raglan sleeves provide great range of motion and are comfortable under backpack straps.High collar with half zip for customizable venting.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161346318366/6012123-SLK05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160802893854/6012123-SLK05-ALT-FLAT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160803024926/6012123-SLK05-ALT-FLAT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161504325662/6012123-SLK05-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161346318366/6012123-SLK05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160802893854/6012123-SLK05-ALT-FLAT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160803024926/6012123-SLK05-ALT-FLAT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161504325662/6012123-SLK05-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161346318366/6012123-SLK05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160802893854/6012123-SLK05-ALT-FLAT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160803024926/6012123-SLK05-ALT-FLAT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161504325662/6012123-SLK05-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161346318366/6012123-SLK05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160802893854/6012123-SLK05-ALT-FLAT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160803024926/6012123-SLK05-ALT-FLAT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161504325662/6012123-SLK05-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kari Traa Lam Half Zip - Women's",
+  "product_code": "6012-123",
+  "source_url": "https://www.mec.ca/en/product/6012-123/Lam-Half-Zip",
+  "tech_specs": {
+    "Fabric content": [
+      "100% merino wool"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "150gsm"
+    ],
+    "Ideal for": [
+      "Snowsports",
+      "Camping and hiking",
+      "Alpine climbing and mountaineering"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Type": [
+      "Base layer"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Field guides",
+    "Plants",
+    "Central Rockies Wildflowers"
+  ],
+  "description": "Compact enough to slip into your pocket, this guide covers more than 115 species with more than 130 colour photos. They\u2019re organized by flower colour and shape for easy identification. All the information on their habitats and adaptations will add a new dimension to your alpine rambles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815705194526/4005794-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815705194526/4005794-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Central Rockies Wildflowers",
+  "product_code": "4005-794",
+  "source_url": "https://www.mec.ca/en/product/4005-794/Central-Rockies-Wildflowers",
+  "tech_specs": {
+    "Author": [
+      "Mike Potter"
+    ],
+    "ISBN": [
+      "9780969443834"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "94"
+    ],
+    "Published": [
+      "1996"
+    ]
+  }
+}

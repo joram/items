@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Let Them Be Eaten By Bears"
+  ],
+  "description": "This guide, based on the author\u2019s acclaimed Integrated Outdoor Program, will inspire your kids to enjoy nature and appreciate the great outdoors. Drawing from his personal and professional background as an educator, guide, writer, and father, Peter Hoffmeister puts the emphasis on fun rather than fear. Get introduced (or reintroduced) to hiking, camping, and all-around exploring with an approachable book that empowers parents and kids.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815761129502/5038857-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815761129502/5038857-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Let Them Be Eaten By Bears",
+  "product_code": "5038-857",
+  "source_url": "https://www.mec.ca/en/product/5038-857/Let-Them-Be-Eaten-By-Bears",
+  "tech_specs": {
+    "Author": [
+      "Peter Brown Hoffmeister"
+    ],
+    "ISBN": [
+      "9780399161087"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Day hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "240"
+    ],
+    "Published": [
+      "2013"
+    ]
+  }
+}

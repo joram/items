@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Wash, repair and maintenance",
+    "Sleeping pad repair kits",
+    "Instant Field Repair Kit"
+  ],
+  "description": "Repair a punctured sleeping pad easily while on the trail.Includes clear adhesive patches, glue dots and cleaning supplies.Repairs are instant, but not as long lasting as glue that requires time to cure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816553394206/5035171-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816553394206/5035171-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816553394206/5035171-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816553394206/5035171-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Therm-a-Rest Instant Field Repair Kit",
+  "product_code": "5035-171",
+  "source_url": "https://www.mec.ca/en/product/5035-171/Instant-Field-Repair-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "16g"
+    ]
+  }
+}

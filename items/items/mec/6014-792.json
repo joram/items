@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Bike socks",
+    "Ultra-light Waterproof Socks"
+  ],
+  "description": "No one likes soggy feet. These socks have a 3-layer design, like a waterproof jacket, to keep your feet dry without getting clammy or overheating.Wear-resistant knit with Artex waterproof-breathable membrane.Wearable in close fitting cycling or running shoes.As of 2020 Showers Pass is Climate Neutral certified, meaning they fully offset their carbon emissions. Climate Neutral certified is a consumer label that's carried by brands who take responsibility for greenhouse gas emissions generated in production, operation and shipping of  their goods and services.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543009310/6014792-EBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167560802334/6014792-BK000-ALT-LIFESTYLE-CYCLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167560835102/6014792-BK000-ALT-LIFESTYLE-RUN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543042078/6014792-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543009310/6014792-EBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167560802334/6014792-BK000-ALT-LIFESTYLE-CYCLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167560835102/6014792-BK000-ALT-LIFESTYLE-RUN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543042078/6014792-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543009310/6014792-EBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167560802334/6014792-BK000-ALT-LIFESTYLE-CYCLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167560835102/6014792-BK000-ALT-LIFESTYLE-RUN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543042078/6014792-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543009310/6014792-EBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167560802334/6014792-BK000-ALT-LIFESTYLE-CYCLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167560835102/6014792-BK000-ALT-LIFESTYLE-RUN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167543042078/6014792-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Showers Pass Ultra-light Waterproof Socks - Unisex",
+  "product_code": "6014-792",
+  "source_url": "https://www.mec.ca/en/product/6014-792/Ultra-light-Waterproof-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Waterproof"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Ideal for": [
+      "Cycling",
+      "Camping and hiking",
+      "Running"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

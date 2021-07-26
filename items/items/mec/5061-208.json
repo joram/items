@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training guides",
+    "Work In"
+  ],
+  "description": "Want to improve your performance in just 5 minutes a day? Work In: The Athlete's Plan for Real Recovery and Winning Results offers practical tools to help you recover better from hard training sessions and races. Yoga and recovery coach Erin Taylor provides a 28-day recovery plan, 11 different meditations, 4 restorative yoga routines and more.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000075395102/5061208-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9000075395102/5061208-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Work In",
+  "product_code": "5061-208",
+  "source_url": "https://www.mec.ca/en/product/5061-208/Work-In",
+  "tech_specs": {
+    "Author": [
+      "Erin Taylor"
+    ],
+    "ISBN": [
+      "9781937715779"
+    ],
+    "Ideal for": [
+      "Yoga and fitness"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "208"
+    ],
+    "Published": [
+      "2018"
+    ]
+  }
+}

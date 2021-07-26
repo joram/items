@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camp furniture",
+    "Chairs",
+    "Chair One Rocking Feet"
+  ],
+  "description": "Take your Chair One from comfortable, to luxurious. These rocking skids are pressure fit and require no tools to attach or remove.Press-fit attachment is easy to take on and off.Works with all generations of the Chair One.Storage sack included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8940324913182/5056558-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946586157086/5056558-NOC02-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946586320926/5056558-NOC02-ALT-DETAILTOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946592153630/5056558-NOC02-ALT-DETAILHEELTOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946592186398/5056558-NOC02-ALT-DETAILHEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8940324913182/5056558-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946586157086/5056558-NOC02-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946586320926/5056558-NOC02-ALT-DETAILTOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946592153630/5056558-NOC02-ALT-DETAILHEELTOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946592186398/5056558-NOC02-ALT-DETAILHEEL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8940324913182/5056558-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946586157086/5056558-NOC02-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946586320926/5056558-NOC02-ALT-DETAILTOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946592153630/5056558-NOC02-ALT-DETAILHEELTOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946592186398/5056558-NOC02-ALT-DETAILHEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8940324913182/5056558-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946586157086/5056558-NOC02-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946586320926/5056558-NOC02-ALT-DETAILTOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946592153630/5056558-NOC02-ALT-DETAILHEELTOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946592186398/5056558-NOC02-ALT-DETAILHEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Helinox Chair One Rocking Feet",
+  "product_code": "5056-558",
+  "source_url": "https://www.mec.ca/en/product/5056-558/Chair-One-Rocking-Feet",
+  "tech_specs": {
+    "Frame material": [
+      "Aluminum",
+      "Plastic"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Load capacity": [
+      "145kg"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ],
+    "Stuff sack": [
+      "Yes"
+    ]
+  }
+}

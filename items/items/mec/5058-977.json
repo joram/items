@@ -1,0 +1,92 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth clothing",
+    "Youth fleece, hoodies and Sweaters",
+    "Youth fleece jackets",
+    "Glacier Full Zip Hoodie"
+  ],
+  "description": "Chilly days call for a cozy hoodie. Pull on the Glacier for cool evenings at the lake, shoulder-season hikes or winter walks to school. Lightweight micro fleece is plush and soft, and doesn't weigh much if you stuff it in a pack when the day warms up. Handwarmer pockets welcome cold fingers when it just feels too early in the season for gloves.Lightweight micro-fleece fabric is at least 50% recycled content.Roomy hood.Full-length front zipper.Embroidered logo.Handwarmer pockets are finished with princess seams.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754302494/5058977-TBM06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754400798/5058977-TBM06-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754662942/5058977-TBM06-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754040350/5058977-MIJ03-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754138654/5058977-MIJ03-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166619312158/5058977-MIJ03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166619246622/5058977-MIJ03-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200850403358/5058977-BRB14-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166604075038/5058977-MIJ03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195469275166/5058977-SML04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200830545950/5058977-BRB14.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754302494/5058977-TBM06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754400798/5058977-TBM06-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754662942/5058977-TBM06-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754040350/5058977-MIJ03-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754138654/5058977-MIJ03-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166619312158/5058977-MIJ03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166619246622/5058977-MIJ03-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200850403358/5058977-BRB14-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166604075038/5058977-MIJ03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195469275166/5058977-SML04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200830545950/5058977-BRB14.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754302494/5058977-TBM06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754400798/5058977-TBM06-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754662942/5058977-TBM06-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754040350/5058977-MIJ03-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754138654/5058977-MIJ03-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166619312158/5058977-MIJ03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166619246622/5058977-MIJ03-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200850403358/5058977-BRB14-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166604075038/5058977-MIJ03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195469275166/5058977-SML04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200830545950/5058977-BRB14.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754302494/5058977-TBM06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754400798/5058977-TBM06-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754662942/5058977-TBM06-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754040350/5058977-MIJ03-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165754138654/5058977-MIJ03-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166619312158/5058977-MIJ03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166619246622/5058977-MIJ03-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200850403358/5058977-BRB14-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166604075038/5058977-MIJ03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195469275166/5058977-SML04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200830545950/5058977-BRB14.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Glacier Full Zip Hoodie - Girls' - Youths",
+  "product_code": "5058-977",
+  "source_url": "https://www.mec.ca/en/product/5058-977/Glacier-Full-Zip-Hoodie",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "155gsm"
+    ],
+    "Hood": [
+      "Standard"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "El Salvador"
+    ],
+    "Pockets": [
+      "2 front"
+    ],
+    "Type": [
+      "Mid-layer"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "None"
+    ]
+  }
+}

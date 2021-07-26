@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling clothing accessories",
+    "Cycling gloves",
+    "Select Gloves"
+  ],
+  "description": "For hours of comfort during warm days on the road. Thoughtfully placed padding cushions vibrations to relieve pressure on the nerves in your hands.Palms are made of durable synthetic leather.Main fabric is nylon, polyester and spandex for a healthy amount of stretch.Gel foam padding relieves pressure on your ulnar and median nerves.Thumbs have a soft, low-profile wiping surface.Hook and loop closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166270464030/5036498-YLW27.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165735231518/5036498-YLW27-ALT-PALM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029530615838/5036498-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166270464030/5036498-YLW27.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165735231518/5036498-YLW27-ALT-PALM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029530615838/5036498-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166270464030/5036498-YLW27.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165735231518/5036498-YLW27-ALT-PALM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029530615838/5036498-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166270464030/5036498-YLW27.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165735231518/5036498-YLW27-ALT-PALM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029530615838/5036498-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pearl Izumi Select Gloves - Women's",
+  "product_code": "5036-498",
+  "source_url": "https://www.mec.ca/en/product/5036-498/Select-Gloves",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Nose wipe"
+    ],
+    "Ideal for": [
+      "Road cycling",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "62% nylon",
+      "22% polyester",
+      "16% spandex"
+    ],
+    "Padding": [
+      "Gel"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Synthetic leather"
+    ],
+    "Type": [
+      "Fingerless gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ]
+  }
+}

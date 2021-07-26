@@ -1,0 +1,69 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Milo Short Sleeve Shirt"
+  ],
+  "description": "A casual shirt that goes with jeans, cargos, hiking, canoeing, travelling and summer in the city.Soft recycled polyester and organic cotton blend wicks away moisture and breathes well.Single chest pocket is ready for your sunnies.Sewn in a Fair Trade Certified\u2122 factory.Standard fit.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177018269726/6006812-RYE01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014566942/6006812-RYE01-ALT-AFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014632478/6006812-RYE01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014337566/6006812-GRY00-ALT-AFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014370334/6006812-GRY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014468638/6006812-GRY00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177018073118/6006812-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177018269726/6006812-RYE01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014566942/6006812-RYE01-ALT-AFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014632478/6006812-RYE01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014337566/6006812-GRY00-ALT-AFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014370334/6006812-GRY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014468638/6006812-GRY00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177018073118/6006812-GRY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177018269726/6006812-RYE01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014566942/6006812-RYE01-ALT-AFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014632478/6006812-RYE01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014337566/6006812-GRY00-ALT-AFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014370334/6006812-GRY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014468638/6006812-GRY00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177018073118/6006812-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177018269726/6006812-RYE01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014566942/6006812-RYE01-ALT-AFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014632478/6006812-RYE01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014337566/6006812-GRY00-ALT-AFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014370334/6006812-GRY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177014468638/6006812-GRY00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177018073118/6006812-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Milo Short Sleeve Shirt - Men's",
+  "product_code": "6006-812",
+  "source_url": "https://www.mec.ca/en/product/6006-812/Milo-Short-Sleeve-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "97% recycled polyester",
+      "3% organically grown cotton"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Day hiking",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "1 external chest"
+    ],
+    "Product sustainability": [
+      "Recycled content",
+      "Organically grown content"
+    ]
+  }
+}

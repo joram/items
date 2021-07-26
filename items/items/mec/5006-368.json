@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry ski bindings",
+    "Backcountry ski binding brakes",
+    "Diamir Brakes"
+  ],
+  "description": "Providing full step-in functionality, you can use these brakes instead of safety straps in avalanche terrain.Use on 2004 and later model Fritschi\u00ae Diamir bindings.Not compatible with pre-2004 models or Fritschi Diamir Vipec.Width for Medium is 82mm, Large is 95mm, XL is 108mm, XXL is 120mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817253810206/5006368-NOC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817253810206/5006368-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fritschi Diamir Brakes",
+  "product_code": "5006-368",
+  "source_url": "https://www.mec.ca/en/product/5006-368/Diamir-Brakes",
+  "tech_specs": {
+    "Ideal for": [
+      "Alpine touring",
+      "Freeride and freeskiing",
+      "Ski mountaineering"
+    ],
+    "Made in": [
+      "Switzerland"
+    ],
+    "Weight": [
+      "243g (108mm)"
+    ]
+  }
+}

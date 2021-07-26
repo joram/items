@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Cams, nuts and hexes",
+    "Nuts, hexes and nut tools",
+    "Pro Key Nut Tool"
+  ],
+  "description": "A folded end on this cunning nut tool reduces pain when pounding out stuck gear with the palm of your hand.Precision tip ground for removing the tiniest gear from the most insipient slots.Wire gate for clipping direct to harness.Large holes keep the weight downRemovable, extendible leash and clip to prevent accidental loss.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807442841630/5015619-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807442841630/5015619-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wild Country Pro Key Nut Tool",
+  "product_code": "5015-619",
+  "source_url": "https://www.mec.ca/en/product/5015-619/Pro-Key-Nut-Tool",
+  "tech_specs": {
+    "Ideal for": [
+      "Trad and aid climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "100g"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "A Daytripper's Guide to Manitoba"
+  ],
+  "description": "Use this full-colour guidebook to explore all that Manitoba has to offer at any time of year. Discover cultural attractions, ecotourism options, uncrowded beaches and much more. This new edition even covers the Lake Of The Woods region of northwestern Ontario.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815767289886/5044354-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815767289886/5044354-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "A Daytripper's Guide to Manitoba",
+  "product_code": "5044-354",
+  "source_url": "https://www.mec.ca/en/product/5044-354/A-Daytripper%27s-Guide-to-Manitoba",
+  "tech_specs": {
+    "Author": [
+      "Bartley Kives"
+    ],
+    "ISBN": [
+      "9781927855270"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pages": [
+      "234"
+    ],
+    "Published": [
+      "2015"
+    ]
+  }
+}

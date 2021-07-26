@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Tire repair and bike protection",
+    "WTK-2 Essential Tool Kit"
+  ],
+  "description": "All the things you hope you won\u2019t need to use on a ride, packed into a neat little kit to save the day in case things do go sideways. Repair, tighten, or patch tires or tubes \u2013 this tool kit is ideal for casual cyclists that do basic adjustments and repairs on the road or at home. Includes a basic multi-tool, tire boots, a tube patch kit, and tire levers.AWS-9 multi-tool folds up. Composite handle is 40% stronger than steel handles.Multi-tool includes 4mm, 5mm, and 6mm hex wrenches, along with Phillips and flat blade screwdrivers.TL-1.2 tire lever set includes 2 strong and smooth levers.2 TB-2 tire boots to repair a cut or worn tire sidewall. Size is 76 x 45mm.GP-2 pre-glued super patch kit includes a self-adhesive tube patch (no messy glue) and sandpaper.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806503284766/5048833-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806503284766/5048833-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool WTK-2 Essential Tool Kit",
+  "product_code": "5048-833",
+  "source_url": "https://www.mec.ca/en/product/5048-833/WTK-2-Essential-Tool-Kit",
+  "tech_specs": {
+    "Allen (hex) keys": [
+      "6mm",
+      "5mm",
+      "4mm"
+    ],
+    "Chain tool": [
+      "No"
+    ],
+    "Flathead (slot) screwdriver": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycling",
+      "Cycle touring and bikepacking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Phillips (cross) driver": [
+      "Yes"
+    ],
+    "Weight": [
+      "195g"
+    ]
+  }
+}

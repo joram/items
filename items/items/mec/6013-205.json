@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Gloves and mittens",
+    "Gloves",
+    "Space Dye Gloves"
+  ],
+  "description": "Everyday gloves for moving around town or apres at the chalet. You'll no longer need to cradle a hot chocolate \u2013 unless you want to.Thick acrylic knit keeps your digits warm.Extendable cuff provides coverage options.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148707307550/6013205-TMT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148707078174/6013205-SLX00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148707307550/6013205-TMT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148707078174/6013205-SLX00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148707307550/6013205-TMT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148707078174/6013205-SLX00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148707307550/6013205-TMT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148707078174/6013205-SLX00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Chaos Space Dye Gloves - Women's",
+  "product_code": "6013-205",
+  "source_url": "https://www.mec.ca/en/product/6013-205/Space-Dye-Gloves",
+  "tech_specs": {
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Insulation": [
+      "Light"
+    ],
+    "Liner type": [
+      "None"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "100% acrylic"
+    ],
+    "Touchscreen compatible": [
+      "No"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "None"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Travel accessories",
+    "Locks, tags and flags",
+    "TSA Lock for Transport Case"
+  ],
+  "description": "A combination cable lock for use with a Sportube Ski/Snowboard Case.Designed for use with Sportube cases (thinner locks can jam in Sportube's telescoping design).Set your own 3 digit comboCompliant with TSA regulations.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815441182750/5038727-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815441182750/5038727-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sportube TSA Lock for Transport Case",
+  "product_code": "5038-727",
+  "source_url": "https://www.mec.ca/en/product/5038-727/TSA-Lock-for-Transport-Case",
+  "tech_specs": {
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing",
+      "Cross-country skiing",
+      "Travel"
+    ],
+    "Locking mechanism": [
+      "Combination"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Type": [
+      "Cable lock"
+    ],
+    "Weight": [
+      "50g"
+    ]
+  }
+}

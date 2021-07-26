@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Casual socks",
+    "Burgee Crew Socks"
+  ],
+  "description": "Add some fun to your wardrobe with geometric designs and bright colours. The merino blend naturally regulates temperature and lets your feet breathe.Merino, nylon and spandex wicks sweat and manages temperature summer or winter.Virtually Seamless\u2122 toe eliminates chafing and hot spots.Shred Shield technology reduces wear from the toes.Supportive arch brace hugs your foot for a snug fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179614019614/6001920-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179614019614/6001920-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Burgee Crew Socks - Unisex",
+  "product_code": "6001-920",
+  "source_url": "https://www.mec.ca/en/product/6001-920/Burgee-Crew-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Mapped"
+    ],
+    "Fabric content": [
+      "51% merino wool",
+      "47% nylon",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

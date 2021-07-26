@@ -1,0 +1,89 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Road maps and atlases",
+    "Manitoba"
+  ],
+  "description": "Use this highly detailed mapbook to explore Manitoba. Includes 88 colour, GPS-compatible relief maps with back roads, trails, parks, campsites, activity areas, points of interest, highways and ferry routes. Browse the reference section to find new hiking, paddling, skiing or wildlife viewing spots. Maps have elevation relief shading to assist you with identifying land features.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034565943326/6002435-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594222110/6002435-NOC02-ALT-1INDEX.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594680862/6002435-NOC02-ALT-4SAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594943006/6002435-NOC02-ALT-3FISHING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594910238/6002435-NOC02-ALT-2HUNTING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034595172382/6002435-NOC02-ALT-5SAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034595434526/6002435-NOC02-ALT-6TOPOMAPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034595532830/6002435-NOC02-ALT-8CONTENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034596319262/6002435-NOC02-ALT-7NAVIGATING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034565943326/6002435-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594222110/6002435-NOC02-ALT-1INDEX.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594680862/6002435-NOC02-ALT-4SAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594943006/6002435-NOC02-ALT-3FISHING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594910238/6002435-NOC02-ALT-2HUNTING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034595172382/6002435-NOC02-ALT-5SAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034595434526/6002435-NOC02-ALT-6TOPOMAPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034595532830/6002435-NOC02-ALT-8CONTENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034596319262/6002435-NOC02-ALT-7NAVIGATING.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034565943326/6002435-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594222110/6002435-NOC02-ALT-1INDEX.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594680862/6002435-NOC02-ALT-4SAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594943006/6002435-NOC02-ALT-3FISHING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594910238/6002435-NOC02-ALT-2HUNTING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034595172382/6002435-NOC02-ALT-5SAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034595434526/6002435-NOC02-ALT-6TOPOMAPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034595532830/6002435-NOC02-ALT-8CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034596319262/6002435-NOC02-ALT-7NAVIGATING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034565943326/6002435-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594222110/6002435-NOC02-ALT-1INDEX.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594680862/6002435-NOC02-ALT-4SAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594943006/6002435-NOC02-ALT-3FISHING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034594910238/6002435-NOC02-ALT-2HUNTING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034595172382/6002435-NOC02-ALT-5SAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034595434526/6002435-NOC02-ALT-6TOPOMAPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034595532830/6002435-NOC02-ALT-8CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034596319262/6002435-NOC02-ALT-7NAVIGATING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backroad Mapbooks Manitoba",
+  "product_code": "6002-435",
+  "source_url": "https://www.mec.ca/en/product/6002-435/Manitoba",
+  "tech_specs": {
+    "Author": [
+      "Russell Mussio, Wesley Mussio"
+    ],
+    "Edition": [
+      "3rd"
+    ],
+    "ISBN": [
+      "9781926806891"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Day hiking",
+      "Canoeing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "216"
+    ],
+    "Published": [
+      "2018"
+    ],
+    "Regionality": [
+      "Prairies"
+    ]
+  }
+}

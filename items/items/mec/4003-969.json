@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Sleeping pads",
+    "Closed-cell foam sleeping pads",
+    "Blue Foam Regular Sleeping Pad"
+  ],
+  "description": "Not all blue foam is created equal \u2013 exceptional, nine percent EVA content makes this stuff stronger than most foam on the market. Not as durable as Evazote\u00ae, this pad still has good insulation and flexibility.Dimensions are 150 x 50cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816476684318/4003969-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816476684318/4003969-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Zotefoams Blue Foam Regular Sleeping Pad - Unisex",
+  "product_code": "4003-969",
+  "source_url": "https://www.mec.ca/en/product/4003-969/Blue-Foam-Regular-Sleeping-Pad",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Ultralight"
+    ],
+    "Capacity\n\nThe number of average sized people that the product can comfortably sleep.": [
+      "1-person"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping"
+    ],
+    "Insulation": [
+      "Closed-cell foam"
+    ],
+    "Length": [
+      "150cm"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "R value (thermal resistance)\n\nMeasures insulative value. Higher values indicate more warmth: 1 to 3 are best for warm weather. 3 to 4 are best for 3-season use.4.5 or higher is best for winter.": [
+      "1.4"
+    ],
+    "Rolled diameter": [
+      "15cm"
+    ],
+    "Rolled length": [
+      "53cm"
+    ],
+    "Shape": [
+      "Rectangle"
+    ],
+    "Thickness": [
+      "1cm"
+    ],
+    "Type": [
+      "Foam pad"
+    ],
+    "Weight": [
+      "220g"
+    ],
+    "Width": [
+      "50cm"
+    ]
+  }
+}

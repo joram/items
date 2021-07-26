@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shorts, tights and pants",
+    "Sweatpants and joggers",
+    "Leg Graphic Sweatpants"
+  ],
+  "description": "Slip into serious comfort when it's time to sit back and chill.Soft terry fleece is breathable and comfy.Elastic waist with drawcord for the perfect fit.Standard fit feels like an old favourite.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197197590558/6012932-MIL22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196123750430/6012932-MIL22-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201871650846/6012932-BUR01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202282496030/6012932-BUR01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197197590558/6012932-MIL22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196123750430/6012932-MIL22-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201871650846/6012932-BUR01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202282496030/6012932-BUR01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197197590558/6012932-MIL22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196123750430/6012932-MIL22-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201871650846/6012932-BUR01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202282496030/6012932-BUR01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9197197590558/6012932-MIL22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196123750430/6012932-MIL22-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201871650846/6012932-BUR01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202282496030/6012932-BUR01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Leg Graphic Sweatpants - Men's",
+  "product_code": "6012-932",
+  "source_url": "https://www.mec.ca/en/product/6012-932/Leg-Graphic-Sweatpants",
+  "tech_specs": {
+    "Fabric content": [
+      "69% cotton",
+      "31% polyester"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "30in. (M)"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Guatemala"
+    ],
+    "Pockets": [
+      "2 front"
+    ]
+  }
+}

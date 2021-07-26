@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country off-track",
+    "Off-track ski boots",
+    "Team Prolink Junior Boots"
+  ],
+  "description": "The high cuff offers good stability and the unhinged design suits either skate or classic skiing. Warm liners prevent cold-toes and the simple lace-up closure makes them quick to get off at the end of the day.Wider entry for easy in and out.Insulated with a warm Thermic liner.Thermo-formed internal heel counter creates a custom fit that keep the heel from shifting.Prolink soles are compatible with Prolink, NNN and Turnamic bindings.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138055970846/6012157-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138068979742/6012157-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138069012510/6012157-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138069241886/6012157-BK000-ALT-LACES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138055970846/6012157-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138068979742/6012157-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138069012510/6012157-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138069241886/6012157-BK000-ALT-LACES.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138055970846/6012157-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138068979742/6012157-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138069012510/6012157-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138069241886/6012157-BK000-ALT-LACES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138055970846/6012157-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138068979742/6012157-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138069012510/6012157-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138069241886/6012157-BK000-ALT-LACES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Team Prolink Junior Boots - Children to Youths",
+  "product_code": "6012-157",
+  "source_url": "https://www.mec.ca/en/product/6012-157/Team-Prolink-Junior-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "NNN"
+    ],
+    "Hinged/high cuff": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Fitness skate skiing",
+      "Recreational classic skiing",
+      "Fitness classic skiing"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lace cover": [
+      "No"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Thermoformable inner boot": [
+      "No"
+    ],
+    "Weight": [
+      "550g (Kids Shoe Size 11)"
+    ]
+  }
+}

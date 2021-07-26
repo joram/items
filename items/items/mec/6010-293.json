@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth clothing",
+    "Youth accessories",
+    "Youth socks",
+    "Youth hiking socks",
+    "Hike Medium Margarita Crew Socks"
+  ],
+  "description": "Soft socks for comfort on rough and rocky trails.Medium weight merino blend, reinforced in heels and toes to keep them durable.Flat knit seams and side panels.Elasticized arch bracket keeps them in place.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134112604190/6010293-GRP48.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145837682718/6010293-COR18.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134112210974/6010293-ALP10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134112604190/6010293-GRP48.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145837682718/6010293-COR18.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134112210974/6010293-ALP10.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134112604190/6010293-GRP48.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145837682718/6010293-COR18.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134112210974/6010293-ALP10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134112604190/6010293-GRP48.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145837682718/6010293-COR18.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134112210974/6010293-ALP10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Hike Medium Margarita Crew Socks - Children to Youths",
+  "product_code": "6010-293",
+  "source_url": "https://www.mec.ca/en/product/6010-293/Hike-Medium-Margarita-Crew-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "60% merino wool",
+      "38% nylon",
+      "2% elastane"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

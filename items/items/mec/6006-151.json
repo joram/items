@@ -1,0 +1,84 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Drinks",
+    "Energy and recovery drinks",
+    "Hydration Immunity Tablets Orange Citrus"
+  ],
+  "description": "Give your immune system a boost with this tasty blend of botanicals, vitamins and electrolytes. Each sip has the bright zing of citrus that can be so comforting when you're feeling less than yourself. Nuun has developed their immunity line for those times you aren\u2019t feeling yourself. Whether you're stressed, over-tired, finishing a grueling training session or coming down with something, these effervescent tablets help give you a lift.Ingredients: dextrose, citric acid, natural flavors, stevia leaf extract, avocado oil and rice concentrate.Each tablet contains 125 mg of Nuun\u2019s proprietary herbal blend that boosts your immune system and reduces inflammation - blend contains: elderberry extract, organic ginger powder, organic turmeric, echinacea purpurea.Dissolve one tablet in 500ml of water.Contains 10 tablets.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054709284894/6006151-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054709284894/6006151-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nuun Hydration Immunity Tablets Orange Citrus",
+  "product_code": "6006-151",
+  "source_url": "https://www.mec.ca/en/product/6006-151/Hydration-Immunity-Tablets-Orange-Citrus",
+  "tech_specs": {
+    "Best consumed": [
+      "Recovery"
+    ],
+    "Calories per serving": [
+      "15Cal"
+    ],
+    "Carbohydrates": [
+      "4g"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Magnesium": [
+      "15mg"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Potassium": [
+      "150mg"
+    ],
+    "Protein": [
+      "0g"
+    ],
+    "Serving size": [
+      "1 tablet (makes 500-650 ml)"
+    ],
+    "Servings": [
+      "10"
+    ],
+    "Sodium": [
+      "100mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "2g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "54g"
+    ]
+  }
+}

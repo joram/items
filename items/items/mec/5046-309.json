@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Tent pegs and stakes",
+    "Hook Stakes (6 Pack)"
+  ],
+  "description": "Strong, corrosion-resistant tent stakes in a bright red colour that's easy to spot.Made of lightweight yet durable 7075-series aluminum.Length is 16cm.Each stake is 13g.Sold as a pack of 6.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816276897822/5046309-RED00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816276897822/5046309-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Hook Stakes (6 Pack)",
+  "product_code": "5046-309",
+  "source_url": "https://www.mec.ca/en/product/5046-309/Hook-Stakes-%286-Pack%29",
+  "tech_specs": {
+    "Best used in": [
+      "Firm ground",
+      "Soft ground"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Length": [
+      "16cm"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ],
+    "Material": [
+      "7075 aluminum"
+    ],
+    "Sold as": [
+      "6-pack"
+    ],
+    "Weight": [
+      "78g"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Rockies Central Guide"
+  ],
+  "description": "The first comprehensive climbing guide to the area since 1985, it covers the central Rocky Mountains and details over 770 climbs and 310 peaks, with hundreds of photos and maps. Covers the ranges on either side of the Trans-Canada Highway between Canmore and Lake Louise and the other side of Highway 93 South from Castle Junction. Includes the Fairholme, Sawback and Slate ranges north of the Trans-Canada and the Kananaskis, Goat, Sundance and Massive ranges south of the highway, all the peaks in the vicinity of Moraine Lake, Lake Louise and Lake O'Hara as well as the Ball, Ottertail and Vermilion ranges on either side of Highway 93 South.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815675211806/5045642-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815675211806/5045642-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rockies Central Guide",
+  "product_code": "5045-642",
+  "source_url": "https://www.mec.ca/en/product/5045-642/Rockies-Central-Guide",
+  "tech_specs": {
+    "Author": [
+      "David P. Jones"
+    ],
+    "ISBN": [
+      "9780986519130"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Alpine climbing and mountaineering"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "560"
+    ],
+    "Published": [
+      "2015"
+    ],
+    "Regionality": [
+      "Rockies"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard clothing",
+    "Ski gloves and mittens",
+    "Ski gloves",
+    "Snow Ops Gloves"
+  ],
+  "description": "A hero to cold hands. Lined with fleece, these leather gloves provide refuge on brisk days.Made of supple cowhide leather.Microfleece lining feels soft against your hands.Knit elastic cuffs keep out snow and cold air.Maple leaf printed on thumbs to show off national pride.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134998224926/6010836-BK027.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134998224926/6010836-BK027.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Auclair Snow Ops Gloves - Unisex",
+  "product_code": "6010-836",
+  "source_url": "https://www.mec.ca/en/product/6010-836/Snow-Ops-Gloves",
+  "tech_specs": {
+    "Ideal for": [
+      "Snowsports",
+      "Snowboarding",
+      "Downhill skiing"
+    ],
+    "Insulation": [
+      "Medium"
+    ],
+    "Liner fabric": [
+      "100% polyester"
+    ],
+    "Liner type": [
+      "Sewn-in"
+    ],
+    "Made in": [
+      "Pakistan"
+    ],
+    "Main fabric": [
+      "100% leather"
+    ],
+    "Touchscreen compatible": [
+      "No"
+    ],
+    "Type": [
+      "Mittens"
+    ],
+    "Waterproof": [
+      "Yes"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

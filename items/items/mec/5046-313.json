@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Guyline and rigging",
+    "Ultralight Utility Cord 10m"
+  ],
+  "description": "Super-useful and weighs in at about 40g. Strong enough for hanging a bear bag, securing a tarp shelter, or stringing up a clothesline at camp.Made of 2.5mm nylon.Length is 10m.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815579594782/5046313-RED00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815579594782/5046313-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Ultralight Utility Cord 10m",
+  "product_code": "5046-313",
+  "source_url": "https://www.mec.ca/en/product/5046-313/Ultralight-Utility-Cord-10m",
+  "tech_specs": {
+    "Diameter": [
+      "2.5mm"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Length": [
+      "10m"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Type": [
+      "Utility"
+    ]
+  }
+}

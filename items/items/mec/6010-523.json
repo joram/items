@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth clothing",
+    "Youth base layers",
+    "Velvet Fleece Set"
+  ],
+  "description": "Set your little one up for comfort in this cozy base layer set.Soft poly blend fleece wicks away moisture and has a hint of spandex for a comfortable stretch.Flatlock seams are gentle on sensitive skin.Raglan sleeves offer improved mobility.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131598610462/6010523-SPA07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131598446622/6010523-ESL06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131598610462/6010523-SPA07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131598446622/6010523-ESL06.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131598610462/6010523-SPA07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131598446622/6010523-ESL06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131598610462/6010523-SPA07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131598446622/6010523-ESL06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kombi Velvet Fleece Set",
+  "product_code": "6010-523",
+  "source_url": "https://www.mec.ca/en/product/6010-523/Velvet-Fleece-Set",
+  "tech_specs": {
+    "Fabric content": [
+      "95% polyester",
+      "5% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "240gsm"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Snowsports"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Type": [
+      "Base layer",
+      "Fleece"
+    ]
+  }
+}

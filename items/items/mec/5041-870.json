@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Child transport",
+    "Child trailers and accessories",
+    "Accessories for child trailers",
+    "Child Trailer Syntace X-12 Axle Adapter"
+  ],
+  "description": "Made your Thule\u00ae child trailer compatible with a bicycle with a 12 mm Syntace X-12 rear axle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817380458526/5041870-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817380458526/5041870-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Thule Child Trailer Syntace X-12 Axle Adapter - Children",
+  "product_code": "5041-870",
+  "source_url": "https://www.mec.ca/en/product/5041-870/Child-Trailer-Syntace-X-12-Axle-Adapter",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

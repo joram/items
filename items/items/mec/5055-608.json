@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill ski accessories",
+    "SkiTrax"
+  ],
+  "description": "Get to the lift line without slipping or adding wear to your boots' sole by using this slip-on sole protector.Compatible with all alpine ski boots.Tread shape prevent snow build-up.Heel tab makes for an easy installation and removal.Carry bag included.X-Small fits Mondo size 21-23.5, Small fits 24-27, Medium fits 27.5-29.5, Large fits 30-31.5 and X-Large fits 32+.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8905379610654/5055608-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8905379708958/5055608-BK000-ALT-PACKING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8905379610654/5055608-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8905379708958/5055608-BK000-ALT-PACKING.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8905379610654/5055608-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8905379708958/5055608-BK000-ALT-PACKING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8905379610654/5055608-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8905379708958/5055608-BK000-ALT-PACKING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Yaktrax SkiTrax - Unisex",
+  "product_code": "5055-608",
+  "source_url": "https://www.mec.ca/en/product/5055-608/SkiTrax",
+  "tech_specs": {
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Included": [
+      "Carry bag"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

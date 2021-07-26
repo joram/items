@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling tops",
+    "Cycling jerseys",
+    "Short sleeve jerseys",
+    "Wild Ride Jersey"
+  ],
+  "description": "Stay comfy as you are ripping through the trees and devouring single-track. Designed in collaboration with Nelson\u2019s Ambler, the Wild Ride gives back to our green spaces and is constructed from 100% recycled polyester.For every jersey purchased, $1 will be donated to CPAWS, Canadian Wilderness and Wildlife Society.Made using recycled polyester that wicks away moisture and dries quickly.Mechanical stretch moves with you.Single zippered pocket on the back side, is just right for a bar and your keys.UPF 25+ UV protection, blocking more than 93% of harmful UV.Loose comfortable fit.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187443048478/6015990-TCD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187455008798/6015990-TCD00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187443048478/6015990-TCD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187455008798/6015990-TCD00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187443048478/6015990-TCD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187455008798/6015990-TCD00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187443048478/6015990-TCD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187455008798/6015990-TCD00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Craft Wild Ride Jersey - Men's",
+  "product_code": "6015-990",
+  "source_url": "https://www.mec.ca/en/product/6015-990/Wild-Ride-Jersey",
+  "tech_specs": {
+    "Fabric content": [
+      "100% recycled polyester"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "1 side zippered with cord port"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "15-24 (Blocks ~93% of UVA/UVB)"
+    ]
+  }
+}

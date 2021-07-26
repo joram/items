@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "52L14-Garner Lake"
+  ],
+  "description": "Find your way with this topographical map providing general-purpose, detailed coverage depicting ground relief, water bodies, forest cover, populated areas, and transportation routes. This 1:50,000 scale National Topographic System (NTS) map provides enough detail for a range of recreational activities.Latitude, longitude and UTM coordinates included.Legend on the reverse side.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815830958110/5000416-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815830958110/5000416-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "NTS Map 52L14-Garner Lake",
+  "product_code": "5000-416",
+  "source_url": "https://www.mec.ca/en/product/5000-416/52L14-Garner-Lake",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Language": [
+      "English/French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Prairies"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "No"
+    ],
+    "Waterproof": [
+      "No"
+    ]
+  }
+}

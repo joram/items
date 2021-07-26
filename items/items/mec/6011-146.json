@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Batteries",
+    "Lithium batteries",
+    "2450 3V Lithium Cell Battery"
+  ],
+  "description": "A quality Duracell battery to power your favourite small devices.Also known as: CR2450-1, CR2450N, DL2450, ECR2450 and 5029LC.Common application: calculators, watches, lights, bike computers, and medical equipment.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145837879326/6011146-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145837879326/6011146-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Duracell 2450 3V Lithium Cell Battery",
+  "product_code": "6011-146",
+  "source_url": "https://www.mec.ca/en/product/6011-146/2450-3V-Lithium-Cell-Battery",
+  "tech_specs": {
+    "Capacity": [
+      "620mAh"
+    ],
+    "Chemistry": [
+      "Lithium"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Rechargeable": [
+      "No"
+    ],
+    "Size": [
+      "CR2450"
+    ]
+  }
+}

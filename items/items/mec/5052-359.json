@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Hydration packs and accessories",
+    "Bladders, reservoirs and accessories",
+    "DromLite Bag V2"
+  ],
+  "description": "A little lighter and more compact than a standard plastic container, this one uses thin, strong polyurethane that still leaves the water tasting nice.made of BPA-free thermoplastic polyurethane.Wide-mouth opening works with many water filters.Redesigned cap is easier to use.Durable RF-welded seams.Integrated strap system for hanging from trees or pack attachment.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853325840414/5052359-GYY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853325905950/5052359-GYY00-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853325840414/5052359-GYY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853325905950/5052359-GYY00-ALT-FOLDED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853325840414/5052359-GYY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853325905950/5052359-GYY00-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853325840414/5052359-GYY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853325905950/5052359-GYY00-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR DromLite Bag V2",
+  "product_code": "5052-359",
+  "source_url": "https://www.mec.ca/en/product/5052-359/DromLite-Bag-V2",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lid type": [
+      "Screw-top"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Polyurethane"
+    ],
+    "Volume": [
+      "2L (2L)",
+      "4L (4L)"
+    ],
+    "Water filter compatible": [
+      "Yes"
+    ],
+    "Weight": [
+      "145g (4L)"
+    ]
+  }
+}

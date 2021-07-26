@@ -1,0 +1,103 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Multi-tools",
+    "Armbar Drive Multi-Tool"
+  ],
+  "description": "A compact multi-tool that puts a few key tools into a compact package that won\u2019t weigh you down. The tool that sets the Armbar Drive apart is its \u00bcin. hex driver, giving you a proper folding screwdriver with interchangeable bits. Bundled into the compact package with the hex driver is a locking blade, scissors and a few other tools that will make everyday life a little easier.420HC blade is easy to sharpen and holds an edge well.Liner-lock design keeps fingers safe when using the knife.Driver head aligns the screwdriver with the center of the handle letting you apply even torque.Bit head fits standard \u00bc in. bits, making the right bit easy to find, and you can mix and match with bits you already own.Compact spring loaded scissors for those cuts a knife isn\u2019t right for.Fold-out backspacer contains a bottle opener and a compact prybar.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083344191518/6010878-ONX00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331215390/6010878-ONX00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331117086/6010878-ONX00-ALT-CLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331248158/6010878-ONX00-ALT-SCREWDRIVER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083344191518/6010878-ONX00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331215390/6010878-ONX00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331117086/6010878-ONX00-ALT-CLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331248158/6010878-ONX00-ALT-SCREWDRIVER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083344191518/6010878-ONX00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331215390/6010878-ONX00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331117086/6010878-ONX00-ALT-CLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331248158/6010878-ONX00-ALT-SCREWDRIVER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083344191518/6010878-ONX00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331215390/6010878-ONX00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331117086/6010878-ONX00-ALT-CLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331248158/6010878-ONX00-ALT-SCREWDRIVER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gerber Armbar Drive Multi-Tool",
+  "product_code": "6010-878",
+  "source_url": "https://www.mec.ca/en/product/6010-878/Armbar-Drive-Multi-Tool",
+  "tech_specs": {
+    "Awl\n\nA spike used for making holes in tough materials such as wood or leather.": [
+      "Yes"
+    ],
+    "Bit driver(s)": [
+      "Yes"
+    ],
+    "Bits Included": [
+      "1"
+    ],
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Straight"
+    ],
+    "Blade length": [
+      "6.4cm"
+    ],
+    "Blade locking system": [
+      "Yes"
+    ],
+    "Blade material": [
+      "420 HC stainless steel"
+    ],
+    "Bottle opener": [
+      "Yes"
+    ],
+    "Can opener": [
+      "No"
+    ],
+    "Corkscrew": [
+      "No"
+    ],
+    "Flathead (slot) screwdriver": [
+      "Yes"
+    ],
+    "Handle material": [
+      "Aluminum",
+      "Stainless steel"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Knife length (closed)": [
+      "9cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Number of knives": [
+      "1"
+    ],
+    "Phillips (cross) driver": [
+      "Yes"
+    ],
+    "Scissors": [
+      "Yes"
+    ],
+    "Sewing awl\n\nThis type of awl has a hole for thread in the tip.": [
+      "No"
+    ],
+    "Sheath included": [
+      "No"
+    ],
+    "Weight": [
+      "88g"
+    ]
+  }
+}

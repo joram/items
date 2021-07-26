@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Caps",
+    "Dusk Cap"
+  ],
+  "description": "Keeps your eyes shaded so you can aim for the chopping block.Made of polyester and cotton, with mesh panels for airy breathability.Adjustable snap back closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086972985374/6008229-OLV00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086972297246/6008229-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086972985374/6008229-OLV00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086972297246/6008229-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086972985374/6008229-OLV00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086972297246/6008229-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086972985374/6008229-OLV00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086972297246/6008229-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pistil Dusk Cap - Men's",
+  "product_code": "6008-229",
+  "source_url": "https://www.mec.ca/en/product/6008-229/Dusk-Cap",
+  "tech_specs": {
+    "Fabric content": [
+      "80% polyester",
+      "20% cotton"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

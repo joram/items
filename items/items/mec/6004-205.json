@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Winter hats",
+    "The Cummins Hat"
+  ],
+  "description": "The cold-weather warmth of a quilted sweater, but for your head.Solid colours are 100% cotton twill, plaids are 65% polyester 33% rayon 2% elastane.Fold-down fleece earflaps up the coziness.Mid-crown fit adds space between your head and top of the hat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048630231070/6004205-LBR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048609521694/6004205-LBR00-ALT-FLAPDOWN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048630231070/6004205-LBR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048609521694/6004205-LBR00-ALT-FLAPDOWN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048630231070/6004205-LBR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048609521694/6004205-LBR00-ALT-FLAPDOWN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048630231070/6004205-LBR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048609521694/6004205-LBR00-ALT-FLAPDOWN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coal The Cummins Hat - Unisex",
+  "product_code": "6004-205",
+  "source_url": "https://www.mec.ca/en/product/6004-205/The-Cummins-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "Fabrics vary; see product descriptionFabrics vary; see product description"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

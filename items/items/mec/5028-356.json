@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike cassettes and freewheels",
+    "Ultegra CS-6700 10 Speed 11-25T Cassette"
+  ],
+  "description": "This cassette from the Ultegra series provides smooth, lightning quick shifting.Alloy sprocket carrier keeps the cogs in check when shifting under load.Sprockets have a nickel-plated finish.Compatible with super narrow HG 10-speed chains.Sprocket sizes: 11-12-13-14-15-17-19-21-23-25.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806741934110/5028356-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806741934110/5028356-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano Ultegra CS-6700 10 Speed 11-25T Cassette",
+  "product_code": "5028-356",
+  "source_url": "https://www.mec.ca/en/product/5028-356/Ultegra-CS-6700-10-Speed-11-25T-Cassette",
+  "tech_specs": {
+    "Compatibility": [
+      "10-speed"
+    ],
+    "Gear ratio": [
+      "11-25T"
+    ],
+    "Ideal for": [
+      "Performance and race road cycling"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Nickel plated\n\nNickel plating can increase durability and product life.": [
+      "Yes"
+    ],
+    "Type": [
+      "Cassette"
+    ],
+    "Weight": [
+      "209g"
+    ]
+  }
+}

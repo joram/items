@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Belts",
+    "Canvas Belt"
+  ],
+  "description": "A stout canvas belt that's easy to shorten.Slim, metal buckle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089825996830/6007171-LKH01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089826029598/6007171-DGR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089825996830/6007171-LKH01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089826029598/6007171-DGR00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089825996830/6007171-LKH01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089826029598/6007171-DGR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089825996830/6007171-LKH01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089826029598/6007171-DGR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fjallraven Canvas Belt - Unisex",
+  "product_code": "6007-171",
+  "source_url": "https://www.mec.ca/en/product/6007-171/Canvas-Belt",
+  "tech_specs": {
+    "Belt material": [
+      "Synthetic"
+    ],
+    "Buckle material": [
+      "Stainless steel"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Length": [
+      "120cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Width": [
+      "4cm"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Boardshorts",
+    "Grace Boardshorts"
+  ],
+  "description": "Cruising the bay on your paddleboard or swimming up to the beach bar, these board shorts transition seamlessly throughout the day.Hyperstretch polyester and elastane is soft on the skin.Wide elastic waistband provides a comfortable fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161509044254/6013245-NVY13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161509306398/6013245-NVY13-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161509371934/6013245-NVY13-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508585502/6013245-BRY31-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508880414/6013245-BRY31-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508192286/6013245-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508290590/6013245-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508782110/6013245-BRY31.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161507930142/6013245-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161509044254/6013245-NVY13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161509306398/6013245-NVY13-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161509371934/6013245-NVY13-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508585502/6013245-BRY31-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508880414/6013245-BRY31-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508192286/6013245-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508290590/6013245-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508782110/6013245-BRY31.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161507930142/6013245-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161509044254/6013245-NVY13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161509306398/6013245-NVY13-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161509371934/6013245-NVY13-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508585502/6013245-BRY31-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508880414/6013245-BRY31-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508192286/6013245-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508290590/6013245-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508782110/6013245-BRY31.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161507930142/6013245-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161509044254/6013245-NVY13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161509306398/6013245-NVY13-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161509371934/6013245-NVY13-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508585502/6013245-BRY31-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508880414/6013245-BRY31-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508192286/6013245-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508290590/6013245-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161508782110/6013245-BRY31.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161507930142/6013245-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Grace Boardshorts - Women's",
+  "product_code": "6013-245",
+  "source_url": "https://www.mec.ca/en/product/6013-245/Grace-Boardshorts",
+  "tech_specs": {
+    "Fabric content": [
+      "92% polyester",
+      "8% elastane"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "2in. (M)"
+    ],
+    "Ideal for": [
+      "Watersports",
+      "Beach"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "1 back with flap"
+    ]
+  }
+}

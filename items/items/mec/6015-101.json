@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Dip Dye T-Shirt"
+  ],
+  "description": "Take a stand with a cozy crew neck tee that looks good and feels right.Contains recycled polyester, preferred lyocell and organic cotton.Regular fit offers no surprises, just comfort.tentree makes quality apparel and ensures that 10 trees are planted for every piece sold.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content\n\n\n\n\n\n\n\n\n\n                      Preferred Lyocell\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190203359262/6015101-TBL52.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412765726/6015101-TBL52-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189413027870/6015101-TBL52-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412634654/6015101-PGR50-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412700190/6015101-PGR50-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412405278/6015101-AGD51-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412569118/6015101-AGD51-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190202933278/6015101-PGR50.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190202703902/6015101-AGD51.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190203359262/6015101-TBL52.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412765726/6015101-TBL52-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189413027870/6015101-TBL52-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412634654/6015101-PGR50-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412700190/6015101-PGR50-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412405278/6015101-AGD51-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412569118/6015101-AGD51-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190202933278/6015101-PGR50.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190202703902/6015101-AGD51.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190203359262/6015101-TBL52.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412765726/6015101-TBL52-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189413027870/6015101-TBL52-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412634654/6015101-PGR50-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412700190/6015101-PGR50-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412405278/6015101-AGD51-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412569118/6015101-AGD51-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190202933278/6015101-PGR50.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190202703902/6015101-AGD51.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190203359262/6015101-TBL52.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412765726/6015101-TBL52-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189413027870/6015101-TBL52-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412634654/6015101-PGR50-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412700190/6015101-PGR50-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412405278/6015101-AGD51-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189412569118/6015101-AGD51-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190202933278/6015101-PGR50.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190202703902/6015101-AGD51.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "tentree Dip Dye T-Shirt - Women's",
+  "product_code": "6015-101",
+  "source_url": "https://www.mec.ca/en/product/6015-101/Dip-Dye-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "45% recycled polyester",
+      "30% lyocell",
+      "25% organically grown cotton"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Product sustainability": [
+      "Organically grown content",
+      "Preferred Lyocell",
+      "Recycled content"
+    ]
+  }
+}

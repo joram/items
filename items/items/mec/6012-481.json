@@ -1,0 +1,95 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shorts, tights and pants",
+    "Sweatpants and joggers",
+    "Day-Tripper Pants"
+  ],
+  "description": "Comfort to go from work to workout to weekend. Soft and wicking, these pants are at home in the gym or on the trail.Made from soft and wicking nylon and spandex.Fabric has 4-way stretch for unrestricted movement.Elastic waistband with drawcord provides a secure fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549595678/6012481-MNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549726750/6012481-MNK00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549825054/6012481-MNK00-ALT-BACK2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549923358/6012481-MNK00-ALT-CUFFS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549988894/6012481-MNK00-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549956126/6012481-MNK00-ALT-WAIST.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167550087198/6012481-MNK00-ALT-WASIT2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551299614/6012481-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551496222/6012481-BK000-ALT-CUFFS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551660062/6012481-BK000-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551758366/6012481-BK000-ALT-WAIST.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551791134/6012481-BK000-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551201310/6012481-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549595678/6012481-MNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549726750/6012481-MNK00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549825054/6012481-MNK00-ALT-BACK2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549923358/6012481-MNK00-ALT-CUFFS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549988894/6012481-MNK00-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549956126/6012481-MNK00-ALT-WAIST.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167550087198/6012481-MNK00-ALT-WASIT2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551299614/6012481-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551496222/6012481-BK000-ALT-CUFFS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551660062/6012481-BK000-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551758366/6012481-BK000-ALT-WAIST.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551791134/6012481-BK000-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551201310/6012481-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549595678/6012481-MNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549726750/6012481-MNK00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549825054/6012481-MNK00-ALT-BACK2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549923358/6012481-MNK00-ALT-CUFFS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549988894/6012481-MNK00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549956126/6012481-MNK00-ALT-WAIST.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167550087198/6012481-MNK00-ALT-WASIT2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551299614/6012481-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551496222/6012481-BK000-ALT-CUFFS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551660062/6012481-BK000-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551758366/6012481-BK000-ALT-WAIST.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551791134/6012481-BK000-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551201310/6012481-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549595678/6012481-MNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549726750/6012481-MNK00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549825054/6012481-MNK00-ALT-BACK2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549923358/6012481-MNK00-ALT-CUFFS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549988894/6012481-MNK00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167549956126/6012481-MNK00-ALT-WAIST.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167550087198/6012481-MNK00-ALT-WASIT2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551299614/6012481-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551496222/6012481-BK000-ALT-CUFFS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551660062/6012481-BK000-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551758366/6012481-BK000-ALT-WAIST.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551791134/6012481-BK000-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167551201310/6012481-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MPG Day-Tripper Pants - Women's",
+  "product_code": "6012-481",
+  "source_url": "https://www.mec.ca/en/product/6012-481/Day-Tripper-Pants",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Fabric content": [
+      "60% nylon",
+      "40% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "26in. (M)"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front slash"
+    ]
+  }
+}

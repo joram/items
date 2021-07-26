@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Strato Tech T-Shirt"
+  ],
+  "description": "Could it be the world\u2019s softest training tee? Made from ultra-smooth performance moss jersey, this one might just end up subbing in for your favourite everyday tee too.Ultra soft synthetic fabric wicks moisture and dries fast.Added stretch moves with you.Athletic, free-moving cut.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047784390686/6001494-NVY57.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774953502/6001494-NVY57-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047775051806/6001494-NVY57-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774887966/6001494-CHA01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047784325150/6001494-CHA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047784390686/6001494-NVY57.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774953502/6001494-NVY57-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047775051806/6001494-NVY57-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774887966/6001494-CHA01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047784325150/6001494-CHA01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047784390686/6001494-NVY57.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774953502/6001494-NVY57-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047775051806/6001494-NVY57-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774887966/6001494-CHA01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047784325150/6001494-CHA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047784390686/6001494-NVY57.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774953502/6001494-NVY57-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047775051806/6001494-NVY57-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047774887966/6001494-CHA01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047784325150/6001494-CHA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vuori Strato Tech T-Shirt - Men's",
+  "product_code": "6001-494",
+  "source_url": "https://www.mec.ca/en/product/6001-494/Strato-Tech-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "96% polyester",
+      "4% elastane"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "125gsm"
+    ],
+    "Ideal for": [
+      "Running, fitness and training",
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

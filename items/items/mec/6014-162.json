@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing training gear",
+    "Hangboard Mounting Plate"
+  ],
+  "description": "Use this plywood board to easily mount a hangboard on a wall or above a doorframe at home. It screws to the studs in your wall to provide a solid plate on which to attach a fingerboard.Made of finished 18mm plywood.Includes instructions and 6 screws.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164678332446/6014162-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164679020574/6014162-NOC02-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164679249950/6014162-NOC02-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164678332446/6014162-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164679020574/6014162-NOC02-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164679249950/6014162-NOC02-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164678332446/6014162-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164679020574/6014162-NOC02-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164679249950/6014162-NOC02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164678332446/6014162-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164679020574/6014162-NOC02-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164679249950/6014162-NOC02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Lemur Design Hangboard Mounting Plate",
+  "product_code": "6014-162",
+  "source_url": "https://www.mec.ca/en/product/6014-162/Hangboard-Mounting-Plate",
+  "tech_specs": {
+    "Dimensions": [
+      "86\u00a0x\u00a025cm"
+    ],
+    "Ideal for": [
+      "Climbing training"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Material": [
+      "Wood"
+    ],
+    "Mounting hardware": [
+      "Screws"
+    ]
+  }
+}

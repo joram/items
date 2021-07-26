@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Chargers and adapters",
+    "Solar chargers",
+    "Extreme Solar Panel and Power Bank Kit"
+  ],
+  "description": "A compact set-up to help keep your USB-powered devices charged and ready to go. Combining a super-efficient solar panel with a light, tough Extreme battery, the Power Traveller gives you what you need to keep your tech powered while you're off the grid.Intelligent circuitry prevents overcharging.Lithium polymer battery has an extremely efficient power to weight ratio.Battery pack has bi-directional USB-C female (input/output).Battery pack has IP65 water resistance.LED indicator lets you know the battery\u2019s status, whether charging or discharging.Lash points let you easily attach the panel to a pack, tent, or deck.Solar panel features MPPT (Maximum Power Point Tracker) technology for more efficient charging in low-light conditions.Solar panel has a type-A USB female (5V 1A) output.Slim-line battery pack is easy to find a home for, dimensions: 13.6 x 7.2 x 2cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8893554163742/5053145-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8893554163742/5053145-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Power Traveller Extreme Solar Panel and Power Bank Kit",
+  "product_code": "5053-145",
+  "source_url": "https://www.mec.ca/en/product/5053-145/Extreme-Solar-Panel-and-Power-Bank-Kit",
+  "tech_specs": {
+    "Auto shutoff\n\nDoes unit have an auto shutoff feature so that unit stops charging when batteries are full?": [
+      "Yes"
+    ],
+    "Batteries": [
+      "Lithium-ion 12000mAh (included)"
+    ],
+    "Charge time via USB": [
+      "6-7\u00a0h"
+    ],
+    "Charge time via solar\n\nEstimated charging time under optimal conditions.": [
+      "10-12\u00a0h"
+    ],
+    "Charging level indicator": [
+      "Yes"
+    ],
+    "Folded dimensions": [
+      "20\u00a0x\u00a011.4\u00a0x\u00a00.8cm"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Cycle touring",
+      "Kayak touring",
+      "Canoe tripping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output voltage": [
+      "12volts"
+    ],
+    "USB Port\n\nHas a Type A USB port for charging your electronic devices.": [
+      "Yes"
+    ],
+    "Weight": [
+      "563g"
+    ]
+  }
+}

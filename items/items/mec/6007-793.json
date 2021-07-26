@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling bottoms",
+    "Cycling shorts",
+    "V'Al 2 Shorts"
+  ],
+  "description": "Versatile freeride shorts with a pocket to secure your keys or snacks. A gussetted crotch makes for comfortable days in the saddle, while a ride-friendly cut allows for unrestricted spinning or hammering.Lightweight nylon/spandex fabric has 4-way stretch with a DWR coating to shed moisture.Gusseted crotch improves comfort on and off the saddle.2 hand pockets and 1 zippered thigh pocket for secure storage.Flat waistband has internal webbing and buckle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084201795614/6007793-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084222570526/6007793-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084201795614/6007793-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084222570526/6007793-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084201795614/6007793-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084222570526/6007793-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084201795614/6007793-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084222570526/6007793-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sombrio V'Al 2 Shorts - Women's",
+  "product_code": "6007-793",
+  "source_url": "https://www.mec.ca/en/product/6007-793/V%27Al-2-Shorts",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Gusseted crotch"
+    ],
+    "Chamois": [
+      "No"
+    ],
+    "Fabric content": [
+      "90% nylon",
+      "10% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "13.5in. (M)"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 handwarmer",
+      "1 side zippered"
+    ]
+  }
+}

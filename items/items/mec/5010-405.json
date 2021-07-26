@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike locks",
+    "Cable and chain locks",
+    "15mm x 2.5m Double-End Cable"
+  ],
+  "description": "Use this double-end cable with a U-lock or padlock to secure a bike to a rack or a large, solid structure. It's longer and thicker than a standard cable, with different-sized end loops, so you can get creative with hitches and loops.2 swaged ends with different loop sizes.Dimensions are 15mm x 2.5m.To secure an expensive bike, or any bike in a public, high-risk area, we recommend a strong U-lock or a combination U-lock and cable lock.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806429327390/5010405-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806429327390/5010405-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike 15mm x 2.5m Double-End Cable",
+  "product_code": "5010-405",
+  "source_url": "https://www.mec.ca/en/product/5010-405/15mm-x-2-5m-Double-End-Cable",
+  "tech_specs": {
+    "Diameter": [
+      "15mm"
+    ],
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Length": [
+      "2.5m"
+    ],
+    "Locking mechanism": [
+      "Lock not included"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Steel"
+    ],
+    "Mounting bracket": [
+      "No"
+    ],
+    "Number of keys": [
+      "0"
+    ],
+    "Type": [
+      "Cable lock"
+    ],
+    "Weight": [
+      "845g"
+    ]
+  }
+}

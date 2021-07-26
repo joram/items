@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid supplies",
+    "Tweezer/Magnifier"
+  ],
+  "description": "Slivers don\u2019t stand a chance against this tweezer and magnifier combo. See exactly what you're doing and keep your other hand free.Stainless steel tweezers with micro-burr fine points for exceptional grip.5x magnifying glass.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030392807454/6004700-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030392807454/6004700-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Tweezer/Magnifier",
+  "product_code": "6004-700",
+  "source_url": "https://www.mec.ca/en/product/6004-700/Tweezer-Magnifier",
+  "tech_specs": {
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

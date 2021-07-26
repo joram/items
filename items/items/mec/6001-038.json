@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Eating utensils and cutlery sets",
+    "ReKit BIO-Plastic"
+  ],
+  "description": "Forget disposables, carry this kit with you on picnics or when getting take-out. All parts are made with bioplastics made of corn or sugarcane.Fibre-based materials are safe in microwaves and dishwashers.Straw is durable sugarcane- and wood fibre-based HDPE.Collapsible cup is bio-HDPE and a sugarcane-based TPE.Cup has graduations for measuring.Corn-based co-polyester spork has a serrated edge to do duty as a spoon, fork and knife.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017468813342/6001038-HBL11.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017468813342/6001038-HBL11.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Light My Fire ReKit BIO-Plastic",
+  "product_code": "6001-038",
+  "source_url": "https://www.mec.ca/en/product/6001-038/ReKit-BIO-Plastic",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Sweden"
+    ],
+    "Material": [
+      "Co-polyester",
+      "HDPE (high-density polyethylene)"
+    ],
+    "Weight": [
+      "56g"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Field guides",
+    "Plants",
+    "Alpine Flowers of the Pacific Northwest"
+  ],
+  "description": "Identify a broad range of alpine flowers with this portable, colourful, 8-fold guide. Coastal Flowers of the Pacific Northwest features 112 images of flowers found from the mid to alpine elevations on Vancouver Island and in the Coast Mountains. Includes a description of plant height, flower size, and each species' distribution range.2-sided.Colour-coded.Ruler printed on the back cover.Includes English and Latin names.Dimensions 23 x 12cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815889416222/5026577-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815889416222/5026577-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Alpine Flowers of the Pacific Northwest",
+  "product_code": "5026-577",
+  "source_url": "https://www.mec.ca/en/product/5026-577/Alpine-Flowers-of-the-Pacific-Northwest",
+  "tech_specs": {
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

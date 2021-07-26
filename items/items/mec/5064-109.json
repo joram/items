@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Footprints",
+    "Universal 2 Regular Footprint"
+  ],
+  "description": "Protect the floor of your MSR Tent and extend the life of your tent, this footprint is designed to better protect your tent from wear-and-tear. Compatible with Hubba Hubba, Freelite 2, Carbon Reflex 2, Access 2 or Thru Hiker Mesh House 2 tents.Sized to fit the floor of the your MSR Tent and designed so it doesn't channel rain underneath.Dimensions: 208 x 122cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016476205086/5064109-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017094045726/5064109-RED00-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016476205086/5064109-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017094045726/5064109-RED00-ALT-FOLDED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016476205086/5064109-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017094045726/5064109-RED00-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016476205086/5064109-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017094045726/5064109-RED00-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Universal 2 Regular Footprint",
+  "product_code": "5064-109",
+  "source_url": "https://www.mec.ca/en/product/5064-109/Universal-2-Regular-Footprint",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Weight": [
+      "198g"
+    ]
+  }
+}

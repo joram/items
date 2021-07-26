@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Brakes, pads and rotors",
+    "Brakes",
+    "Alivio BRT4000 V-Brake"
+  ],
+  "description": "Designed for both mountain and touring bikes, the extra long brake arms can easily clear  mudguards and extra wide tires.Made of aluminum.Comes with S65T brake pads.107mm long brake arms.16mm mounting bolts.Front and rear brakes sold separately.Brake levers and cables not included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806815629342/5042876-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806815629342/5042876-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano Alivio BRT4000 V-Brake",
+  "product_code": "5042-876",
+  "source_url": "https://www.mec.ca/en/product/5042-876/Alivio-BRT4000-V-Brake",
+  "tech_specs": {
+    "Ideal for": [
+      "Cross-country riding",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Type": [
+      "V-brake"
+    ],
+    "Weight": [
+      "202g (Front)"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Headlamps and lighting",
+    "Headlamps",
+    "HL60R Headlamp"
+  ],
+  "description": "Hiking up in the dark to watch the sun rise? Light your way with a compact headlamp. 5 output modes go as low as 1 lumen and as high as 950 \u2013 something that would have previously required an external battery pack. Easy charging plus rugged aluminum body and an excellent waterproof rating make this light a lasting addition to your outdoor  excursions.Hard-anodized aluminum housing with an anti-abrasive finish.Toughened glass lens with anti-reflective coating.Cree XM-L2 T6 LED produces a neutral white.5 output modes plus a red light for night vision, ranging 1\u2013950 lumens.Automatically enters the last used mode.Regulated output maintains constant brightness in each mode.160-degree tilt to dial in the perfect beam angle.Side switch for fast and simple operation.18650 battery charges through the integrated Micro USB port.Waterproof to IPX-8 rating (underwater for 6.5 feet for 30 minutes) even if the anti-dust cover is unplugged.Remove the small plastic disk that prevents accidental activation in shipping, by taking out the battery before use.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813004652574/5049313-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813004652574/5049313-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813004652574/5049313-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813004652574/5049313-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fenix HL60R Headlamp",
+  "product_code": "5049-313",
+  "source_url": "https://www.mec.ca/en/product/5049-313/HL60R-Headlamp",
+  "tech_specs": {
+    "Batteries": [
+      "1 18650 (included) or 2 lithium CR123A (not included)"
+    ],
+    "Beam distance - boost": [
+      "116m"
+    ],
+    "Beam pattern\n\nBeam pattern affects how much you can see within the area of light thrown from the headlamp. Wide beams are good for close-up; spot or focussed beams are good for long range visibility.": [
+      "Spot"
+    ],
+    "Boost mode\n\nBriefly increases the light output to maximum brightness and distance.": [
+      "Yes"
+    ],
+    "Burn time - high": [
+      "3\u00a0h"
+    ],
+    "Burn time - low": [
+      "100\u00a0h"
+    ],
+    "Burn time - med": [
+      "10\u00a0h"
+    ],
+    "Flash mode": [
+      "No"
+    ],
+    "IPX rating\n\nIndicates the degree of protection against liquid. IP X1: Dripping water while in normal operating orientation; IP X4: Splashing water; IP X5: Water jets; IP X6: Powerful water jets; IP X7: Immersion up to 1m \u2264 30 minutes; IP X8: Suitable for submersion as specified by manufacturer.": [
+      "IP X8"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Trail running"
+    ],
+    "Light modes\n\nThe number of lighting levels/modes the light has (i.e., low, med, high, flash).": [
+      "6 modes"
+    ],
+    "Light source": [
+      "Cree XM-L2 T6 LED"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Max light output\n\nThe total quantity of light emitted in every direction from a source of light; measured in lumens.": [
+      "950\u00a0lumens"
+    ],
+    "Product sustainability": [
+      "Rechargeable batteries"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Rechargeable"
+    ],
+    "Red light mode": [
+      "Yes"
+    ],
+    "Regulated output\n\nOn regulated lights brightness is consistent, and does not decrease gradually as the batteries are drained.": [
+      "Yes"
+    ],
+    "Weight": [
+      "121g"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Climbing skins",
+    "Ski skins",
+    "Minimist Speed"
+  ],
+  "description": "Grippy and ultrlight, these mohair skins offer reliable backcountry performance with unrivaled weight and packability. Small enough to pack in your pocket, the G3 Minimist Speed skins feature a carbon fibre insert at the tip to prevent snow creep, while a low profile tail connector keeps it fast and easy to adjust or remove.100% mohair for maximum grip and packability.RipStrip makes pulling apart skins easier, and can be removed for added traction in case of adhesion contamination.16cm length adjustment fits a wide range of ski sizes.Hydrophobic water treatment prevents snow or ice clumping.Non-toxic adhesive is functional to -30C.Trim tool included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076106428446/6010343-NAT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076111409182/6010343-NAT00-ALT-ROLLED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076106428446/6010343-NAT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076111409182/6010343-NAT00-ALT-ROLLED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076106428446/6010343-NAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076111409182/6010343-NAT00-ALT-ROLLED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076106428446/6010343-NAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9076111409182/6010343-NAT00-ALT-ROLLED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "G3 Minimist Speed",
+  "product_code": "6010-343",
+  "source_url": "https://www.mec.ca/en/product/6010-343/Minimist-Speed",
+  "tech_specs": {
+    "Ideal for": [
+      "Alpine touring",
+      "Ski mountaineering"
+    ],
+    "Length": [
+      "150-166; 161-177; 172-188; 183-199;cm"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Material": [
+      "Mohair"
+    ],
+    "Width": [
+      "100mm (W100mmxL183-199cm)",
+      "130mm (W130mmxL183-199cm)",
+      "100mm (W100mmxL150-166cm)",
+      "100mm (W100mmxL161-177cm)",
+      "100mm (W100mmxL172-188cm)",
+      "130mm (W130mmxL150-166cm)",
+      "130mm (W130mmxL161-177cm)",
+      "130mm (W130mmxL172-188cm)"
+    ]
+  }
+}

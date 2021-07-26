@@ -1,0 +1,85 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training food and drinks",
+    "Energy gels and chews",
+    "Roctane Blueberry Pomegranate Gel"
+  ],
+  "description": "This gel shot contains an amino acid blend designed to provide nutritional support for extended sessions and endurance sports. The Roctane blend is fuel for activities that require focus, concentration and sustained mental acuity.Contains 35g of caffeine.Ingredients: maltodextrin, water fructose, leucine, sodium citrate, valine, natural flavours, malic acid, potassium citrate, citric acid, calcium carbonate, sea salt, green tea (leaf) extract (contains caffeine), isoleucine, gellan gum, sodium benzoate, potassium sorbate, D-alpha-tocopheryl acetate (natural Vitamin E).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135603482654/5039219-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135616491550/5039219-NOC02-ALT-INGREDIENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135603482654/5039219-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135616491550/5039219-NOC02-ALT-INGREDIENTS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135603482654/5039219-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135616491550/5039219-NOC02-ALT-INGREDIENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135603482654/5039219-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135616491550/5039219-NOC02-ALT-INGREDIENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GU Roctane Blueberry Pomegranate Gel",
+  "product_code": "5039-219",
+  "source_url": "https://www.mec.ca/en/product/5039-219/Roctane-Blueberry-Pomegranate-Gel",
+  "tech_specs": {
+    "Best consumed": [
+      "Before exercise"
+    ],
+    "Caffeine": [
+      "35mg"
+    ],
+    "Calories per serving": [
+      "100Cal"
+    ],
+    "Carbohydrates": [
+      "21g"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycling",
+      "Running"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Potassium": [
+      "55mg"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "125mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "6g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "32g"
+    ]
+  }
+}

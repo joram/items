@@ -1,0 +1,108 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Packs",
+    "Backpacking packs",
+    "Overnight packs (35 - 55l)",
+    "AlpineLite 42 Backpack"
+  ],
+  "description": "An alpine pack that can be loaded up or stripped down according to the mission at hand. To pare back the weight, take out the back panel and remove the hipbelt and lid. The stripped-back version weighs about half a kilo, carries enough gear for a night or two, and it's streamlined enough to get through slots and squeeze chimneys.Made of lightweight and strong 210-denier high tenacity nylon, with a double-layer bottom panel made of 420-denier high tenacity nylon for extra abrasion resistance.Back panel and shoulder straps have light padding to reduce weight and bulk. To save even more weight, the foam backpanel is removable.Padded hipbelt is removable so you can use the wide webbing waistbelt alone.Removable floating lid has an outer zippered pocket and a zippered pocket underneath with a key clip.One-handed drawcord closure on the spindrift collar is glove-friendly.Dual ice-axe holders use a low-profile toggle to hold the axe head.Twin front daisy chains for lashing on extra gear.Side compression straps consolidate the load.Metal buckles on compression straps and lid closure are much more low profile and durable than traditional plastic buckles.Hydration reservoir pocket and hanger, and a port for a hydration tube.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011645218846/5042084-ORA20.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013735161886/5042084-ORA20-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013567782942/5042084-ORA20-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013735718942/5042084-ORA20-ALT-NOLID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013569617950/5042084-ORA20-ALT-ICEAXE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015616339998/5042084-ORA20-ALT-BODYBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015616667678/5042084-ORA20-ALT-BODYFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011645218846/5042084-ORA20.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013735161886/5042084-ORA20-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013567782942/5042084-ORA20-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013735718942/5042084-ORA20-ALT-NOLID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013569617950/5042084-ORA20-ALT-ICEAXE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015616339998/5042084-ORA20-ALT-BODYBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015616667678/5042084-ORA20-ALT-BODYFRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011645218846/5042084-ORA20.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013735161886/5042084-ORA20-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013567782942/5042084-ORA20-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013735718942/5042084-ORA20-ALT-NOLID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013569617950/5042084-ORA20-ALT-ICEAXE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015616339998/5042084-ORA20-ALT-BODYBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015616667678/5042084-ORA20-ALT-BODYFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011645218846/5042084-ORA20.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013735161886/5042084-ORA20-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013567782942/5042084-ORA20-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013735718942/5042084-ORA20-ALT-NOLID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9013569617950/5042084-ORA20-ALT-ICEAXE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015616339998/5042084-ORA20-ALT-BODYBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015616667678/5042084-ORA20-ALT-BODYFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC AlpineLite 42 Backpack - Unisex",
+  "product_code": "5042-084",
+  "source_url": "https://www.mec.ca/en/product/5042-084/AlpineLite-42-Backpack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top"
+    ],
+    "Additional feature(s)": [
+      "Compression straps",
+      "Hydration compatible (reservoir sold separately)",
+      "Ice axe/pole attachment",
+      "Expandable collar",
+      "Ultralight"
+    ],
+    "Adjustable shoulder harness\n\nAn adjustable harness lets you change the height of the shoulder straps to fit your specific back length.": [
+      "No"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "No"
+    ],
+    "Depth": [
+      "24cm"
+    ],
+    "Dynamic suspension\n\nThe hipbelt and/or shoulder straps of the pack are designed to move, pivot or flex to follow your body\u2019s movements.  Each brand uses their own technology.": [
+      "No"
+    ],
+    "Hipbelt": [
+      "Removable padded"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Backpacking"
+    ],
+    "Length": [
+      "57cm"
+    ],
+    "Lid type\n\nSome pack lids can be adjusted to compensate for overloaded packs, or even removed, and some removeable lids have tuck-away hipbelts that allow youto use them as a waistpack.": [
+      "Adjustable",
+      "Removable"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "210-denier HT ripstop nylon"
+    ],
+    "Secondary fabric": [
+      "420-denier nylon"
+    ],
+    "Ventilated back panel": [
+      "No"
+    ],
+    "Volume": [
+      "42L"
+    ],
+    "Weight": [
+      "960g"
+    ],
+    "Width": [
+      "26cm"
+    ]
+  }
+}

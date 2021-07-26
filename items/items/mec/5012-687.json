@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Snowshoeing gear",
+    "Snowshoe accessories",
+    "Hand and toe warmers",
+    "Reusable Heat Pack"
+  ],
+  "description": "This reusable, non-toxic heat pack is safe even for kids and pets. Depending on the pack's exposure, activation, and use, it will provide heat for approximately 45 minutes to 2 hours.Maximum temperature is 54\u00b0C.Contains water, a stainless steel disc, and food-grade ingredients.Activate by snapping the stainless steel disc and then, as it changes color, knead it to maximize heat and make it last.To reuse, simply boil the pack for approximately 5 minutes. (Microwaving not recommended).Be sure not to let your Reusable Heater Pack freeze. Sub-zero temperatures will permanently affect the internal components, meaning no more toasty heat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810053599262/5012687-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810053599262/5012687-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Toasterz Reusable Heat Pack",
+  "product_code": "5012-687",
+  "source_url": "https://www.mec.ca/en/product/5012-687/Reusable-Heat-Pack",
+  "tech_specs": {
+    "Ideal for": [
+      "Snowsports",
+      "Alpine climbing and mountaineering",
+      "Ice climbing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "187g"
+    ]
+  }
+}

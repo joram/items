@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Hoodies and sweaters",
+    "Hoodies",
+    "TreeFleece Banshee Hoodie"
+  ],
+  "description": "Comfort for your body and your mind. Made of super-soft TreeFleece blend of recycled and natural fibres, this is a hoodie you can feel good about.tentree\u2019s goal is to construct quality apparel and ensure that ten trees are planted for every article of clothing sold.Regular fit feels just right.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content\n\n\n\n\n\n\n\n\n\n                      Preferred Lyocell",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182571528222/6012013-MEB01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182571528222/6012013-MEB01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "tentree TreeFleece Banshee Hoodie - Women's",
+  "product_code": "6012-013",
+  "source_url": "https://www.mec.ca/en/product/6012-013/TreeFleece-Banshee-Hoodie",
+  "tech_specs": {
+    "Fabric content": [
+      "55% organically grown cotton",
+      "26% recycled polyester",
+      "19% Tencel Lyocell"
+    ],
+    "Hood": [
+      "Standard",
+      "Adjustable"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "1 kangaroo"
+    ],
+    "Product sustainability": [
+      "Organically grown content",
+      "Recycled content",
+      "Preferred Lyocell"
+    ]
+  }
+}

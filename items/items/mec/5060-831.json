@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Pedals and cleats",
+    "Pedals",
+    "Ultegra PD-R8000 SPD-SL Pedals"
+  ],
+  "description": "These lightweight carbon composite pedals take larger SPD-SL road cleats. Get excellent support and power transfer for racing to the finish line or getting to the coffee shop before it closes.Stack height reduced by 0.6mm from previous version.Included SM-SH11 cleat provides 6 degrees of float, best for riders with knee issues and if your feet move naturally during pedal strokes.Optional larger SM-SH10 cleat has no float, and optional SM-SH12 cleat has 2 degrees of float for a balance of comfort and efficiency.Adjustable entry and release tension settings.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951618764830/5060831-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951762976798/5060831-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951763075102/5060831-BK000-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951618764830/5060831-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951762976798/5060831-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951763075102/5060831-BK000-ALT-ANGLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951618764830/5060831-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951762976798/5060831-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951763075102/5060831-BK000-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951618764830/5060831-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951762976798/5060831-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951763075102/5060831-BK000-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano Ultegra PD-R8000 SPD-SL Pedals",
+  "product_code": "5060-831",
+  "source_url": "https://www.mec.ca/en/product/5060-831/Ultegra-PD-R8000-SPD-SL-Pedals",
+  "tech_specs": {
+    "Body": [
+      "Carbon"
+    ],
+    "Degrees of float\n\nFloat allows side to side movement of the foot while the foot is clipped in. This promotes comfort and helps prevent knee problems.": [
+      "Cleat dependent"
+    ],
+    "Ideal for": [
+      "Performance and race road cycling"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Spindle": [
+      "Stainless steel"
+    ],
+    "Type\n\nClipless pedals require compatible cycling shoes, flat pedals work with any type of shoe, pins add grip to flat pedals, and some clipless pedals have a flat pedal on one side so you can mix things up.": [
+      "3-hole clipless"
+    ],
+    "Weight": [
+      "248g"
+    ]
+  }
+}

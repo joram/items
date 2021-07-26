@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Workshop and general bike repair",
+    "Shop tools",
+    "Chain Keeper"
+  ],
+  "description": "Useful for cleaning, transporting and maintaining your bike. With simple 1-handed operation, the Chain Keeper sits where your cassette\u2019s smallest cog would be, and lets you maintain chain tension to remove the rear wheel.1-hand operation takes greasy frustration out of the equation.Includes adapters to use with quick-release and 12mm thru-axle dropouts.CNC aluminium construction.Delrin roller protects your chain.Dimensions: 15 x 10cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950351134750/5060517-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950351134750/5060517-RED00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950351134750/5060517-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950351134750/5060517-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Feedback Sports Chain Keeper",
+  "product_code": "5060-517",
+  "source_url": "https://www.mec.ca/en/product/5060-517/Chain-Keeper",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "454g"
+    ]
+  }
+}

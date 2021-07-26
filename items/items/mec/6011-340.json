@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Avalanche safety gear",
+    "Snow analysis",
+    "Snow Study Kit"
+  ],
+  "description": "Combined with the right training, this kit helps you evaluate snowpacks and slopes while traveling in the backcountry.Durable fabric carry case has slots and pockets for each tool.Calibratable thermometer has a range of -50 to 200\u00b0C.Slope meter has an angle range of 0-60 degrees and can be read from the side and above.15x magnifying loupe features a folding metal base and glass lens.Polycarbonate crystal card includes snow grain classifications, slope angle map tool, and a 2mm grid to help with snowpack evaluations.2m cord to cut through snow and crust.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131553587230/6011340-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131566366750/6011340-NOC02-ALT-CLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131566596126/6011340-NOC02-ALT-CORD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131566694430/6011340-NOC02-ALT-MAGNIFIER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131567284254/6011340-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131553587230/6011340-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131566366750/6011340-NOC02-ALT-CLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131566596126/6011340-NOC02-ALT-CORD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131566694430/6011340-NOC02-ALT-MAGNIFIER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131567284254/6011340-NOC02-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131553587230/6011340-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131566366750/6011340-NOC02-ALT-CLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131566596126/6011340-NOC02-ALT-CORD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131566694430/6011340-NOC02-ALT-MAGNIFIER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131567284254/6011340-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131553587230/6011340-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131566366750/6011340-NOC02-ALT-CLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131566596126/6011340-NOC02-ALT-CORD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131566694430/6011340-NOC02-ALT-MAGNIFIER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131567284254/6011340-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backcountry Access Snow Study Kit",
+  "product_code": "6011-340",
+  "source_url": "https://www.mec.ca/en/product/6011-340/Snow-Study-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Mountain snowshoeing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "280g"
+    ]
+  }
+}

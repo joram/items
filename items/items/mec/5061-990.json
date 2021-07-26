@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Adventure and documentary",
+    "On My Walk"
+  ],
+  "description": "In this beautiful picture book, illustrated by Christina Leist, a mother and her toddler are caught up in a summer rainstorm on their walk through the city. This simple story, poetically told by Kari-Lynn Winters, is a fun bedtime \u2013 or anytime \u2013 read for toddlers and parents alike.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978724225054/5061990-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8978724225054/5061990-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "On My Walk",
+  "product_code": "5061-990",
+  "source_url": "https://www.mec.ca/en/product/5061-990/On-My-Walk",
+  "tech_specs": {
+    "Author": [
+      "Kari-Lynn Winters"
+    ],
+    "ISBN": [
+      "9781896580616"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Illustrator": [
+      "Christina Leist"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "26"
+    ],
+    "Published": [
+      "2009"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

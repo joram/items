@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water bottles",
+    "Sports bottles",
+    "Gripper Insulated Bottle 650ml"
+  ],
+  "description": "Ever struggled to grab your water bottle on a rainy or hot day? The Gripper's textured top helps you get solid grip, no matter how heavy the downpour or sweaty your hands.Unique textured surface offers improved grip.Soft, squeezable body.Insulated closed cell foil insert keeps your water cool.Silicone mouthpiece and high-flow valve won't leave you thirsty.BPA-free. Safe for fluids between 0 and 70\u00b0C.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153976860702/6013674-WHT01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153976860702/6013674-WHT01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fabric Gripper Insulated Bottle 650ml",
+  "product_code": "6013-674",
+  "source_url": "https://www.mec.ca/en/product/6013-674/Gripper-Insulated-Bottle-650ml",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lid type": [
+      "Sport cap"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Polypropylene",
+      "Silicone"
+    ],
+    "Volume": [
+      "650ml"
+    ]
+  }
+}

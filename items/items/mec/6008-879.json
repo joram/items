@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling footwear",
+    "Cycling shoes",
+    "Cosmic Boa Shoes"
+  ],
+  "description": "These lightweight shoes are true everyday performers. Their stiff sole primes your for snappy sprints, with just enough flex for longer days in the saddle.Roomy toe box design and contoured 3D EVA tongue.Synthetic micro-fibre upper, with laser-cut perforations.Boa\u00ae L6 Fit System with micro-adjustments.Fiberglass/nylon midsole for improved stiffness.Ortholite\u00ae insole.Heel and toe bumper.Compatible with 3-bolt cleats.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096197111838/6008879-TTB05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095878148126/6008879-TTB05-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095878377502/6008879-TTB05-ALT-TOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096197111838/6008879-TTB05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095878148126/6008879-TTB05-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095878377502/6008879-TTB05-ALT-TOE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096197111838/6008879-TTB05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095878148126/6008879-TTB05-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095878377502/6008879-TTB05-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096197111838/6008879-TTB05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095878148126/6008879-TTB05-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095878377502/6008879-TTB05-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mavic Cosmic Boa Shoes - Unisex",
+  "product_code": "6008-879",
+  "source_url": "https://www.mec.ca/en/product/6008-879/Cosmic-Boa-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Ratchet cable"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Outsole": [
+      "Nylon",
+      "Fibreglass"
+    ],
+    "Pedal compatibility": [
+      "3-hole clipless"
+    ],
+    "Upper material": [
+      "Synthetic"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

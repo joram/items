@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Drinks",
+    "Coffee, tea and hot chocolate",
+    "Original Blend Medium Roast Coffee"
+  ],
+  "description": "Instant coffee that tastes like proper coffee \u2026 what more could you want?Original blend is a medium roast, with a full bodied flavour, a subtle acidity, and notes of dark chocolate.Dissolves easily in hot or cold water.100% Arabica beans from high altitude farms in Columbia.8 individual servings per box.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006818361374/5064467-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006818361374/5064467-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Alpine Start Original Blend Medium Roast Coffee",
+  "product_code": "5064-467",
+  "source_url": "https://www.mec.ca/en/product/5064-467/Original-Blend-Medium-Roast-Coffee",
+  "tech_specs": {
+    "Dairy free": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "8"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "25g"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "Photon Lock Screwgate Biner"
+  ],
+  "description": "A versatile, full size, lightweight locker. It is a good option for alpine use due to it's snag-free nose and narrow profile that slips in and out of webbing or piton eyes.Full-size, making it easy to use even while wearing gloves.Markings on gate indicate whether it is open or closed.Dimensions are 10.6 x 6.3cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153974665246/6007464-GUN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153979547678/6007464-GUN00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153974665246/6007464-GUN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153979547678/6007464-GUN00-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153974665246/6007464-GUN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153979547678/6007464-GUN00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153974665246/6007464-GUN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153979547678/6007464-GUN00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Photon Lock Screwgate Carabiner",
+  "product_code": "6007-464",
+  "source_url": "https://www.mec.ca/en/product/6007-464/Photon-Lock-Screwgate-Biner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "1.7cm"
+    ],
+    "Gate type": [
+      "Straight"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Screwgate"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "22kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "9kN"
+    ],
+    "Weight": [
+      "43g"
+    ]
+  }
+}

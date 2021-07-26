@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Dry suits, tops and pants",
+    "Dry suit care",
+    "Latex Ankle Gasket"
+  ],
+  "description": "A replacement latex ankle gasket.Fits most paddling pants and drysuits.We recommend using Aquaseal\u00ae glue to seal your new ankle gasket to your paddling pants or drysuit.Sold individually.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806224953374/1906312-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806224986142/1906312-NOC02-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806224953374/1906312-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806224986142/1906312-NOC02-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806224953374/1906312-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806224986142/1906312-NOC02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806224953374/1906312-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806224986142/1906312-NOC02-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kokatat Latex Ankle Gasket - Unisex",
+  "product_code": "1906-312",
+  "source_url": "https://www.mec.ca/en/product/1906-312/Latex-Ankle-Gasket",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayaking",
+      "Canoeing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "9g"
+    ]
+  }
+}

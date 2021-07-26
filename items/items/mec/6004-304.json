@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill ski boots",
+    "Panterra 100 GW Ski Boots"
+  ],
+  "description": "Ski from squares to diamonds. A nicely featured all-mountain boot, the Panterra 100 GW design puts the spotlight on performance without sacrificing comfort. In a medium flex, these boots have the guts to tackle steeper terrain and tighter turns. Their 3-piece shell construction is customizable, so you can make these boots truly your own. Superbly crafted liners are ready to ski new, or you can thermo-mould them for instant next-level comfort.  And with micro-adjust buckles, you can modify the boot's tightness throughout your day.Lightweight PU shell construction reduces weight.Cabrio 3 piece shell design flexes consistently and absorbs shock.Variable Volume Fit allows adjustment of the forefoot width.Contour 4 Fit Technology fits securely while allowing extra room where needed.My Fit system offers customizable fit at the shell and liner.Adjustable rear cuff lets you customize the boot's height to your calf.Dynalink heel strap keeps the foot from sliding.Grip Walk soles allow nearly-normal walking with a rockered design.Dura-grip replaceable heels and toes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055748030494/6004304-BK032.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055748030494/6004304-BK032.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Dalbello Panterra 100 GW Ski Boots",
+  "product_code": "6004-304",
+  "source_url": "https://www.mec.ca/en/product/6004-304/Panterra-100-GW-Ski-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "GripWalk"
+    ],
+    "Buckles": [
+      "4"
+    ],
+    "Flex index\n\nIndicates how stiff the boots are when flexed forward.  Flex ranges from 50 (soft) to 130 (very stiff). Note: There is currently no industry standardized test.": [
+      "100"
+    ],
+    "Hike mode\n\nA mechanism that allows to release the boot cuff to switch to tour mode.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Lace-up option": [
+      "No"
+    ],
+    "Last width\n\nThe width of the interior of the boot shell across the widest part of the forefoot.": [
+      "100-102mm"
+    ],
+    "Lower shell material": [
+      "Polyurethane"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Shell cuff material": [
+      "Polyurethane"
+    ],
+    "Sole type\n\nAlpine Touring: with tread; compatible with DIN touring bindings. Alpine Touring Tech (Tech): with tread; compatible with G3 Onyx and Dynafit. Downhill: without tread; compatible with freeride/downhill bindings.": [
+      "Downhill"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ],
+    "Weight": [
+      "1.92kg (27.5)"
+    ]
+  }
+}

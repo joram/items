@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shorts, tights and pants",
+    "Leggings",
+    "ADV Charge Shiny Tights"
+  ],
+  "description": "Add some flair to your workout attire. Semi-transparent material and colour blocking provide an eye-catching look while providing airflow while you're working hard.Wicking synthetic blend has plenty of stretch.Mesh panels provide ventilation.High rise.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190342852638/6016155-TTR50.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190342852638/6016155-TTR50.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Craft ADV Charge Shiny Tights - Women's",
+  "product_code": "6016-155",
+  "source_url": "https://www.mec.ca/en/product/6016-155/ADV-Charge-Shiny-Tights",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "High waist cut",
+      "Reflective details"
+    ],
+    "Fabric content": [
+      "72% polyester",
+      "28% elastane"
+    ],
+    "Ideal for": [
+      "Fitness and training",
+      "Running"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Secondary fabric": [
+      "82% polyester",
+      "18% elastane"
+    ]
+  }
+}

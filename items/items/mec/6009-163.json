@@ -1,0 +1,94 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Snacks",
+    "Nuts, fruit and dried foods",
+    "Chewy Banana Bites"
+  ],
+  "description": "Delicious little bites of banana that you don\u2019t need to worry about squishing. Nomad Nutrition\u2019s Chewy Banana Bite let you enjoy the potassium packed goodness of a banana anywhere.100% non-GMO ingredients.Ingredients: organic bananas.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079064756254/6009163-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079059152926/6009163-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079064756254/6009163-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079059152926/6009163-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079064756254/6009163-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079059152926/6009163-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079064756254/6009163-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079059152926/6009163-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nomad Nutrition Chewy Banana Bites",
+  "product_code": "6009-163",
+  "source_url": "https://www.mec.ca/en/product/6009-163/Chewy-Banana-Bites",
+  "tech_specs": {
+    "Calories per serving": [
+      "280Cal"
+    ],
+    "Carbohydrates": [
+      "74g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "9g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "Yes"
+    ],
+    "Organic": [
+      "Yes"
+    ],
+    "Protein": [
+      "3g"
+    ],
+    "Saturated fat": [
+      "0g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "2mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "58g"
+    ],
+    "Total fat": [
+      "1g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ]
+  }
+}

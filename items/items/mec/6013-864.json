@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing harnesses",
+    "Adjustable harnesses",
+    "Corax LT Harness"
+  ],
+  "description": "Versatile and comfortable, the all-around Corax LT harness does it all. It's light enough for tough redpoint attempts, and packed with carry options for your multipitch, ice, or alpine ascents. Flexible rear gear loops won't interfere with a pack and the angled front loops make organizing and accessing gear easier.High-strength webbing and perforated closed-cell foam evenly distributes pressure.Pre-threaded double back buckle adjusts with a single pull.Elasticized leg loops stay snug without constricting.Polyester-reinforced tie-in points increase durability.Women's specific fit means longer rise and tapered leg loops.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165725925406/6013864-TRQ00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165725925406/6013864-TRQ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Corax LT Harness - Women's",
+  "product_code": "6013-864",
+  "source_url": "https://www.mec.ca/en/product/6013-864/Corax-LT-Harness",
+  "tech_specs": {
+    "Adjustable leg loops": [
+      "No"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Drop seat": [
+      "Yes"
+    ],
+    "Gear loops": [
+      "4"
+    ],
+    "Haul loop": [
+      "Yes"
+    ],
+    "Ice clipper slots": [
+      "No"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Indoor climbing",
+      "Snow and ice climbing"
+    ],
+    "Leg loop size": [
+      "57-62cm (X-Small)",
+      "52-57cm (Small)",
+      "55-60cm (Medium)",
+      "57-62cm (Large)",
+      "58-53cm (X-Large)"
+    ],
+    "Made in": [
+      "Malaysia"
+    ],
+    "Self-locking buckle": [
+      "Yes"
+    ],
+    "Type": [
+      "Seat harness"
+    ],
+    "Waist size": [
+      "92-100cm (X-Small)",
+      "71-77cm (Small)",
+      "77-84cm (Medium)",
+      "84-92cm (Large)",
+      "65-71cm (X-Large)"
+    ],
+    "Weight": [
+      "350g (X-Small)",
+      "370g (Small)",
+      "400g (Medium)",
+      "430g (Large)",
+      "460g (X-Large)"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Chargers and adapters",
+    "Adapters",
+    "MUV USB World Adapter"
+  ],
+  "description": "Travel the world and power your devices wherever you go. This adapter connects an ungrounded 2-prong appliance to an outlet and simultaneously charge 2 USB devices. A fuse ensures you don\u2019t immediately fry an electronic device if you use it with the wrong voltage. (Note that this adapter is not a voltage converter. Your device must be compatible with the voltage of the outlet you\u2019re using.)Female plugs for Australia/China, UK, USA/Japan, Europe (2-pole Euro).Male retractable plugs for Australia/China, UK, USA, Europe (2-pole Euro).Works for non-grounded plugs only (not 3-prong).Dual USB top for charging 2 USB devices simultaneously.Input voltage is 100\u2013250V.Maximum load is 2.5A.USB output is 5V/2400mA shared.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850093047838/5052152-WHT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8850093047838/5052152-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Skross MUV USB World Adapter",
+  "product_code": "5052-152",
+  "source_url": "https://www.mec.ca/en/product/5052-152/MUV-USB-World-Adapter",
+  "tech_specs": {
+    "Converts voltage": [
+      "No"
+    ],
+    "Female plug type(s)\n\nPlug types accepted by this device.": [
+      "Type I",
+      "Type G",
+      "Type F",
+      "Type E",
+      "Type C",
+      "Type B",
+      "Type A",
+      "USB A"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Male plug type(s)\n\nTypes of outlet this device can be plugged into.": [
+      "Type I",
+      "Type G",
+      "Type F",
+      "Type E",
+      "Type C",
+      "Type B",
+      "Type A"
+    ]
+  }
+}

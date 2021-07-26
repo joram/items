@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Trekking poles and accessories",
+    "Trekking pole baskets, tips and parts",
+    "Alpine Z Pole Baskets"
+  ],
+  "description": "A pair of 60mm diameter basket with 2-section pole capture for use with Black Diamond Alpine Z-poles.Sold in pairs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817285660702/5042704-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817285660702/5042704-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Alpine Z Pole Baskets",
+  "product_code": "5042-704",
+  "source_url": "https://www.mec.ca/en/product/5042-704/Alpine-Z-Pole-Baskets",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Day hiking",
+      "Snowshoeing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "16g"
+    ]
+  }
+}

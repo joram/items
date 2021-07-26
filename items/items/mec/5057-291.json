@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Knots: The Complete Visual Guide"
+  ],
+  "description": "Learn to tie and use over 100 different knots. This very visual book is filled with step-by-step colour photographs to guide you through everything from stopper knots, binding knots and bends to hitches, loops, splices and whippings. Know how to choose, use and maintain your ropes and knots with this handy guide.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917826306078/5057291-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8917826306078/5057291-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Knots: The Complete Visual Guide",
+  "product_code": "5057-291",
+  "source_url": "https://www.mec.ca/en/product/5057-291/Knots%3A-The-Complete-Visual-Guide",
+  "tech_specs": {
+    "Author": [
+      "Des Pawson"
+    ],
+    "ISBN": [
+      "9780756690540"
+    ],
+    "Ideal for": [
+      "Climbing",
+      "Camping and hiking",
+      "Watersports"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "400"
+    ],
+    "Published": [
+      "2012"
+    ]
+  }
+}

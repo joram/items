@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Garvan Shirt"
+  ],
+  "description": "A sun-protective shirt with venting for sunny days or tropical heat.Recycled polyester blend with a comfortable amount of stretch.Fabric dries quickly and wicks away moisture.UPF rated fabric stops more than 95% of harmful UV.Back vent has a mesh panel to help keep you cool.\n\n        Sustainability\n\n\n\n\n\n\n\n\nBluesign\n\n\n\n\n\n\n\n\n\n\n\n                      Bluesign\u00ae Approved Material\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177018728478/6012310-EMB06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177016926238/6012310-EMB06-ALT-AFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177017057310/6012310-EMB06-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177017188382/6012310-EMB06-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177018728478/6012310-EMB06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177016926238/6012310-EMB06-ALT-AFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177017057310/6012310-EMB06-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177017188382/6012310-EMB06-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177018728478/6012310-EMB06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177016926238/6012310-EMB06-ALT-AFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177017057310/6012310-EMB06-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177017188382/6012310-EMB06-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177018728478/6012310-EMB06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177016926238/6012310-EMB06-ALT-AFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177017057310/6012310-EMB06-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9177017188382/6012310-EMB06-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Garvan Shirt - Men's",
+  "product_code": "6012-310",
+  "source_url": "https://www.mec.ca/en/product/6012-310/Garvan-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "96% recycled polyester",
+      "4% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Travel"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 external chest"
+    ],
+    "Product sustainability": [
+      "Bluesign\u00ae Approved Material",
+      "Recycled content"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "25-39 (Blocks ~96% of UVA/UVB)"
+    ]
+  }
+}

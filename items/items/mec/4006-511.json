@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Mugs, cups and dishes",
+    "Camping drinkware",
+    "Camping mugs and cups",
+    "Espresso Cup"
+  ],
+  "description": "Slurp your concentrated caffeine jolt in style. This small cup fits nicely under the GSI Espresso Maker to create a backcountry bistro. The double-walled construction helps keep the coffee hot longer.Made of stainless steel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812556451870/4006511-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812556451870/4006511-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Espresso Cup",
+  "product_code": "4006-511",
+  "source_url": "https://www.mec.ca/en/product/4006-511/Espresso-Cup",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Diameter": [
+      "7.1cm"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Volume": [
+      "52ml"
+    ],
+    "Weight": [
+      "57g"
+    ]
+  }
+}

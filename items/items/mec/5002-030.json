@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bug spray and bug nets",
+    "Bug shirts and bug jackets",
+    "Insect-Proof Pants"
+  ],
+  "description": "Sometimes mosquitoes and flies seem undeterred by potions and lotions. And not every person likes or can tolerate chemicals on their skin. These breathable and lightweight bug pants are made of economical, airy, and bug-proof 100% polyester no-see-um mesh, and provide a very effective deterrent against bugs.Certified flame retardant.Full-cut sizing maximizes protection.Elasticized drawstring waist and cuffs.Small fits up to 73 kg, medium fits up to 91 kg, large fits up to 109 kg.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809981214750/5002030-NOC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809981214750/5002030-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Insect-Proof Pants - Unisex",
+  "product_code": "5002-030",
+  "source_url": "https://www.mec.ca/en/product/5002-030/Insect-Proof-Pants",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

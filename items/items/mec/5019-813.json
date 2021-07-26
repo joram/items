@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Tire repair and bike protection",
+    "Chain Stay Protector"
+  ],
+  "description": "A self-adhesive sticker that protects your bike\u2019s chainstay from dings and scratches.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806831521822/5019813-CLR00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806831521822/5019813-CLR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Velo Chain Stay Protector",
+  "product_code": "5019-813",
+  "source_url": "https://www.mec.ca/en/product/5019-813/Chain-Stay-Protector",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "17g"
+    ]
+  }
+}

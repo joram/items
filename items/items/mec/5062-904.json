@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Swimsuits",
+    "Two-piece swimsuits",
+    "Swim tops",
+    "Sophia Tankini Top"
+  ],
+  "description": "A tankini top you'll want to from the beach to the smoothie bar, and back again. With a nod to athleisure wear, this blouson top has an integrated interior bra and exposed strappy back. The banded bottom and removable chest pads provide ample support for chests of all sizes, including D cups.Made of four way stretch nylon with lots of spandex.Fabric provides UPF 50+ sun protection to shield you from harsh UV rays.Criss cross back straps are adjustable.Regular sizes provide high support for A-C cups. D cup sizes provide medium support for D and DD cups.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189847269406/5062904-BWW01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189854511134/5062904-BWW01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189854478366/5062904-BWW01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189847269406/5062904-BWW01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189854511134/5062904-BWW01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189854478366/5062904-BWW01-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189847269406/5062904-BWW01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189854511134/5062904-BWW01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189854478366/5062904-BWW01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189847269406/5062904-BWW01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189854511134/5062904-BWW01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189854478366/5062904-BWW01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Carve Designs Sophia Tankini Top - Women's",
+  "product_code": "5062-904",
+  "source_url": "https://www.mec.ca/en/product/5062-904/Sophia-Tankini-Top",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Removable cups"
+    ],
+    "Fabric content": [
+      "82% nylon",
+      "18% spandex"
+    ],
+    "Ideal for": [
+      "Beach",
+      "Watersports"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski base cleaners",
+    "Iron Maiden Waxing Iron"
+  ],
+  "description": "Wax your bases correctly with this compact, hole-free iron.Team style rectangular base.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817170513950/5008970-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817170513950/5008970-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kuu Iron Maiden Waxing Iron",
+  "product_code": "5008-970",
+  "source_url": "https://www.mec.ca/en/product/5008-970/Iron-Maiden-Waxing-Iron",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Cross-country skiing",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Temperature sensor\n\nA digital temperature sensor allows for more precise temperature control than an analog sensor.": [
+      "Analog"
+    ],
+    "Weight": [
+      "1.15kg"
+    ]
+  }
+}

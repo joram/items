@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Ski socks",
+    "Altitude Lightweight Ski Socks"
+  ],
+  "description": "Performance fitting for racking up run after run. These merino wool-blend socks will keep you comfortable and toasty all day long.Medium weight ski sock with Ultimax\u00ae for moisture control.Zone cushioning over calf for comfort.Elastic ankle and arch to hold sock in place.Seamless toe closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052306505758/6001310-SFW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052306472990/6001310-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052306505758/6001310-SFW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052306472990/6001310-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052306505758/6001310-SFW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052306472990/6001310-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052306505758/6001310-SFW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9052306472990/6001310-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wigwam Altitude Lightweight Ski Socks - Unisex",
+  "product_code": "6001-310",
+  "source_url": "https://www.mec.ca/en/product/6001-310/Altitude-Lightweight-Ski-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "Yes"
+    ],
+    "Cuff height": [
+      "Knee"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot",
+      "Shin"
+    ],
+    "Fabric content": [
+      "42% nylon",
+      "36% merino wool",
+      "16% polyester",
+      "4% spandex",
+      "2% lyocell"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing",
+      "Snowboarding",
+      "Snowshoeing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

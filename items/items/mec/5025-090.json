@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid kits",
+    "Ultralight/Waterproof .3 First Aid Kit"
+  ],
+  "description": "This light and compact first aid package has the basic supplies one person might need on a one-day outing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809998024734/5025090-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809998024734/5025090-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Medical Kits Ultralight/Waterproof .3 First Aid Kit",
+  "product_code": "5025-090",
+  "source_url": "https://www.mec.ca/en/product/5025-090/Ultralight-Waterproof-3-First-Aid-Kit",
+  "tech_specs": {
+    "Adhesive fabric bandages": [
+      "5"
+    ],
+    "Adhesive fabric knuckle bandages": [
+      "3"
+    ],
+    "Afterbite wipes": [
+      "1"
+    ],
+    "Antiseptic/antibacterial wipes": [
+      "3"
+    ],
+    "Blister/burn dressing": [
+      "Yes"
+    ],
+    "Dimensions": [
+      "15\u00a0x\u00a03\u00a0x\u00a013cm"
+    ],
+    "Ideal for": [
+      "Emergency preparedness",
+      "Backpacking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Medical tape": [
+      "Yes"
+    ],
+    "Moleskin": [
+      "Yes"
+    ],
+    "Recommended use": [
+      "Day trip"
+    ],
+    "Safety pins": [
+      "3"
+    ],
+    "Sterile dressing gauze medium": [
+      "4"
+    ],
+    "Watertight pouch\n\nThe pouch is waterproof and has a watertight closure to keep the contents dry in wet conditions.": [
+      "Yes"
+    ],
+    "Weight": [
+      "85g"
+    ],
+    "Wound closure strips": [
+      "2"
+    ]
+  }
+}

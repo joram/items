@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Torque tools for bikes",
+    "TW-5.2 Torque Wrench"
+  ],
+  "description": "Don't bring a knife to a gun fight. And don't damage lightweight compents on high-end bikes by over-torquing. This high-quality, ratcheting, click-type torque wrench is ideal for lower-torque applications like installing a seat post, seat clamp, handlebar and stem.2\u201314 Nm range (18\u2013124 inch pounds).Adjustable in 0.4 Nm increments.Ratcheting 3/8in. drive.Reads and registers for both left hand and right hand threadingDial-adjust system allows desired torque setting to be presetConversion scale on tool body.Calibrated to be accurate to +/- 4%.Length is 23cm.Note, torque wrenches are measurement tools and shouldn't be used as a general-purpose ratcheting driver.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948415037470/5060195-BK007.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950825648158/5060195-BK007-ALT-METER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950825680926/5060195-BK007-ALT-CASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950825779230/5060195-BK007-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948415037470/5060195-BK007.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950825648158/5060195-BK007-ALT-METER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950825680926/5060195-BK007-ALT-CASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950825779230/5060195-BK007-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948415037470/5060195-BK007.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950825648158/5060195-BK007-ALT-METER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950825680926/5060195-BK007-ALT-CASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950825779230/5060195-BK007-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948415037470/5060195-BK007.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950825648158/5060195-BK007-ALT-METER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950825680926/5060195-BK007-ALT-CASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950825779230/5060195-BK007-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool TW-5.2 Torque Wrench",
+  "product_code": "5060-195",
+  "source_url": "https://www.mec.ca/en/product/5060-195/TW-5-2-Torque-Wrench",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

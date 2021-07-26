@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill skis",
+    "Kendo 88 Skis"
+  ],
+  "description": "The ultimate freeski feeling. Cross any terrain, on or off-piste, with the Kendo's turn-friendly tip and tail rocker. The moderate taper and strong multi-layer wood core offer stability and good power transfer on groomers or the rough stuff. Titanal reduces chatter when you leave the drift for hardpack. Overall, the Kendo is a sporty freeride ski, ready to ride wherever you are.Multi-layer wood core puts strong beech wood under the binding and lighter poplar everywhere else.Carbon layup in the tips increase reliability and stability.Vertical sidewalls offer grip, stability and sensitivity.Titanal layer adds significant damping to reduce chatter on firm terrain.Combination tip and tail rocker make it turn-friendly and allow for a stiffer flex set-up.3 radius sidecut makes turn initiation easy of different terrains.P-Tex 2100 base gives exceptional glide.Recommended for use with Marker Royal bindings.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228761630/6011645-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136245669918/6011645-NOC02-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228761630/6011645-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136245669918/6011645-NOC02-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228761630/6011645-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136245669918/6011645-NOC02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228761630/6011645-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136245669918/6011645-NOC02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Volkl Kendo 88 Skis - Unisex",
+  "product_code": "6011-645",
+  "source_url": "https://www.mec.ca/en/product/6011-645/Kendo-88-Skis",
+  "tech_specs": {
+    "Ability\n\nBeginner: new or getting back into skiing.  Intermediate: confident with turning and stopping.  Advanced: highly confident carver. Expert: steeps, drops, park, double blacks -- bring it on.": [
+      "Intermediate",
+      "Advanced"
+    ],
+    "Bindings included": [
+      "No"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Sandwich"
+    ],
+    "Core": [
+      "Wood"
+    ],
+    "Dimension": [
+      "129-88-111 mmmm"
+    ],
+    "Ideal for": [
+      "Freeride and freeskiing",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Rocker/camber profile": [
+      "Rocker tip",
+      "Rocker tail"
+    ],
+    "Snow conditions": [
+      "Mixed",
+      "Powder",
+      "Groomed"
+    ],
+    "Terrain": [
+      "On-Piste",
+      "Off-Piste"
+    ],
+    "Turning radius": [
+      "14m (163cm)",
+      "15m (170cm)",
+      "17m (177cm)",
+      "18m (184cm)"
+    ],
+    "Weight": [
+      "3.45kg (163cm)",
+      "3.66kg (170cm)",
+      "3.88kg (177cm)",
+      "3.96kg (184cm)"
+    ]
+  }
+}

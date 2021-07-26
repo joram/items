@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Fenders",
+    "Mudguard Big"
+  ],
+  "description": "Clip this mini-shield to your saddle rails to foil mud and water. The sleek design won't slow your progress on mountain bikes, gravel cruisers or commuter rides.Made of 100% recyclable 0.8 mm thick polypropylene.Clips to saddle rails, no tools required to install.Flip-Tip locks this lightweight fender into place.Designed for tires widths 30 to 50mm.Length is 38cm from tip to tail.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8884471791646/5055704-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8884471791646/5055704-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ass Savers Mudguard Big",
+  "product_code": "5055-704",
+  "source_url": "https://www.mec.ca/en/product/5055-704/Mudguard-Big",
+  "tech_specs": {
+    "Attachment type": [
+      "Clip-on"
+    ],
+    "Fits tires": [
+      "All"
+    ],
+    "Ideal for": [
+      "Cycle touring",
+      "Urban cycling",
+      "Cyclocross",
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Sweden"
+    ],
+    "Material": [
+      "Plastic"
+    ],
+    "Sold": [
+      "Single"
+    ],
+    "V-stays": [
+      "No"
+    ],
+    "Weight": [
+      "26g"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Flasks, growlers and wine storage",
+    "Growlers and beer glasses",
+    "Pioneer Pint"
+  ],
+  "description": "Better than glass or disposable plastic, this handsome enamelware adds a touch of class.Made of enameled steel with a stainless steel lip.Dimensions are 8.6 x 8.6 x 13.5cm.500ml capacity.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812554747934/5040672-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9098959355934/5040672-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812554747934/5040672-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9098959355934/5040672-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812554747934/5040672-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9098959355934/5040672-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812554747934/5040672-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9098959355934/5040672-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Pioneer Pint",
+  "product_code": "5040-672",
+  "source_url": "https://www.mec.ca/en/product/5040-672/Pioneer-Pint",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Diameter": [
+      "8.6cm"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Volume": [
+      "500ml"
+    ],
+    "Weight": [
+      "170g"
+    ]
+  }
+}

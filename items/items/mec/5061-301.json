@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Top 60 Canoe Routes of Ontario 2nd Edition"
+  ],
+  "description": "From two-day paddles to week-long expeditions, these 60 routes stand above the rest, and this guide includes all the information paddlers need to complete them. Detailed descriptions and maps of access points, accurate portage lengths and important river features. Top 60 Canoe Routes of Ontario is your ticket to discovering the province's most stunning paddling areas.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957041606686/5061301-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8957041606686/5061301-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Firefly Top 60 Canoe Routes of Ontario 2nd Edition",
+  "product_code": "5061-301",
+  "source_url": "https://www.mec.ca/en/product/5061-301/Top-60-Canoe-Routes-of-Ontario-2nd-Edition",
+  "tech_specs": {
+    "Author": [
+      "Kevin Callan"
+    ],
+    "Edition": [
+      "2nd"
+    ],
+    "ISBN": [
+      "9780228100249"
+    ],
+    "Ideal for": [
+      "Canoeing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pages": [
+      "384"
+    ],
+    "Published": [
+      "2018"
+    ],
+    "Regionality": [
+      "Ontario"
+    ]
+  }
+}

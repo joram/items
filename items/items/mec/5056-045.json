@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Handlebars, headsets and stems",
+    "Handlebars",
+    "Energy Wing Pro Compact Road Handlebar"
+  ],
+  "description": "Compact drop and aero tops make these bars comfortable regardless of the terrain you're staring down.Light, strong double butted 7050 series aluminum.34-millimeter Aero-Ergo flat top.Centre section is 120-millimeter, fits clip-on accessories.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8892445884446/5056045-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8892445884446/5056045-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "FSA Energy Wing Pro Compact Road Handlebar",
+  "product_code": "5056-045",
+  "source_url": "https://www.mec.ca/en/product/5056-045/Energy-Wing-Pro-Compact-Road-Handlebar",
+  "tech_specs": {
+    "Diameter": [
+      "31.8mm"
+    ],
+    "Drop": [
+      "125mm"
+    ],
+    "Ideal for": [
+      "Performance and race road cycling",
+      "Sport road cycling"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "7050 aluminum"
+    ],
+    "Reach": [
+      "80mm"
+    ],
+    "Weight": [
+      "284g (440mm)"
+    ],
+    "Width": [
+      "400mm (400mm)",
+      "420mm (420mm)",
+      "440mm (440mm)",
+      "380mm (380mm)"
+    ]
+  }
+}

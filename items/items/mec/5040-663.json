@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Mountaineering axes",
+    "Glacier Ice Axe"
+  ],
+  "description": "Designed for mountain routes and glacier travel. The Glacier Axe has a nice balanced weight, smooth finishing, and forms a solid anchor on sun-baked, hardened snow and bare ice. The head is designed to rest comfortably in your hand, and it comes with a comfortable Linkin leash.Aluminum shaft has a hard- anodized finish for excellent rust protection.3mm pick is hot-forged chromoly steel, offers good bite in hard snow and ice.Teeth offer purchase when used for hooking and anchoring.Steel adze supports your hand comfortably and is edged to chop steps efficiently.Stainless steel spike with a clippable hole.Linkin leash included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807173881886/5040663-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807174078494/5040663-NOC02-ALT-END.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807174897694/5040663-NOC02-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807173881886/5040663-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807174078494/5040663-NOC02-ALT-END.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807174897694/5040663-NOC02-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807173881886/5040663-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807174078494/5040663-NOC02-ALT-END.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807174897694/5040663-NOC02-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807173881886/5040663-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807174078494/5040663-NOC02-ALT-END.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807174897694/5040663-NOC02-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Glacier Ice Axe",
+  "product_code": "5040-663",
+  "source_url": "https://www.mec.ca/en/product/5040-663/Glacier-Ice-Axe",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Adze"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering"
+    ],
+    "Leash included": [
+      "Yes"
+    ],
+    "Length": [
+      "60, 68, 75cm"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Removable pick": [
+      "No"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "B-rated"
+    ],
+    "Weight": [
+      "370g (68 cm)"
+    ]
+  }
+}

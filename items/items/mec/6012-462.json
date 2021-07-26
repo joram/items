@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Shorts",
+    "Layover 2.0 Shorts"
+  ],
+  "description": "Whether the day has you running between gates in the international terminal, or just running for the bus, these can take some of the stress out of getting from A to B.Slim, straight fit.Fabric blend is tough, dries quickly and has an easy mechanical stretch.Zippered front pockets and button-up back pockets. Drop-in phone pocket on back right side gives you ready access.Drawcord waist.Rear ventilated panel for improved breathability.19in. outseam",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164910166046/6012462-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164910559262/6012462-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164911181854/6012462-BK000-ALT-DETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164911378462/6012462-BK000-ALT-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164911640606/6012462-BK000-ALT-DETAIL3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164910166046/6012462-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164910559262/6012462-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164911181854/6012462-BK000-ALT-DETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164911378462/6012462-BK000-ALT-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164911640606/6012462-BK000-ALT-DETAIL3.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164910166046/6012462-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164910559262/6012462-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164911181854/6012462-BK000-ALT-DETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164911378462/6012462-BK000-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164911640606/6012462-BK000-ALT-DETAIL3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164910166046/6012462-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164910559262/6012462-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164911181854/6012462-BK000-ALT-DETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164911378462/6012462-BK000-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164911640606/6012462-BK000-ALT-DETAIL3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Roark Layover 2.0 Shorts - Men's",
+  "product_code": "6012-462",
+  "source_url": "https://www.mec.ca/en/product/6012-462/Layover-2-0-Shorts",
+  "tech_specs": {
+    "Fabric content": [
+      "70% cotton",
+      "26% nylon",
+      "4% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "230gsm"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 side zippered",
+      "1 back",
+      "2 back with flap"
+    ]
+  }
+}

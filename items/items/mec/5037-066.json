@@ -1,0 +1,87 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Snacks",
+    "Chocolate bars",
+    "Coconut Chocolate Bar"
+  ],
+  "description": "Filled to the brim with rich coconut-milk cream and crispy coconut flakes.Ingredients: Sugar, vegetable fat, milk powder (12.8%), cocoa butter, cocoa mass, grated coconut (5.8%), lactose, skimmed milk powder, cream powder, hazelnut paste, emulsifier (soya lecithin), natural flavouring.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812470304798/5037066-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812470304798/5037066-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ritter Sport Coconut Chocolate Bar",
+  "product_code": "5037-066",
+  "source_url": "https://www.mec.ca/en/product/5037-066/Coconut-Chocolate-Bar",
+  "tech_specs": {
+    "Calories per serving": [
+      "584Cal"
+    ],
+    "Carbohydrates": [
+      "48g"
+    ],
+    "Cholesterol": [
+      "67.8mg"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "2.2g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "7g"
+    ],
+    "Saturated fat": [
+      "21.4g"
+    ],
+    "Serving size": [
+      "1 bar"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "76.7mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "46.9g"
+    ],
+    "Total fat": [
+      "41g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "100g"
+    ]
+  }
+}

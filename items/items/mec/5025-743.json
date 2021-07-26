@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Brakes, pads and rotors",
+    "Brake cables and housing",
+    "Sil-Tec Road SLR Brake Inner/Outer Cable Set"
+  ],
+  "description": "A complete road brake cable set for Road SLR (Shimano\u00ae Linear Response) systems.Stainless steel inner cables are Teflon coated.Outer casing is lined with a polymer sheath for a smooth operation of the cable inside.Contains 5mm diameter housing (140cm). 1.6mm inner cables 205, 80, and 100cm.  4 pieces for installing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806963675166/5025743-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806963576862/5025743-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806963675166/5025743-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806963576862/5025743-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806963675166/5025743-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806963576862/5025743-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806963675166/5025743-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806963576862/5025743-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano Sil-Tec Road SLR Brake Inner/Outer Cable Set",
+  "product_code": "5025-743",
+  "source_url": "https://www.mec.ca/en/product/5025-743/Sil-Tec-Road-SLR-Brake-Inner-Outer-Cable-Set",
+  "tech_specs": {
+    "Diameter": [
+      "1.6mm"
+    ],
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Length": [
+      "205, 100, 80cm"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Type": [
+      "Brake"
+    ],
+    "Weight": [
+      "116g"
+    ]
+  }
+}

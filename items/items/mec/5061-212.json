@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Hoodies and sweaters",
+    "Hoodies",
+    "Halo Performance Hoodie"
+  ],
+  "description": "A super-soft layer to add when you wrap up a training session or need to run a quick errand. Secure pocket keeps your keys, card and cash safe.Moss jersey fabric is moisture wicking, quick drying and as soft as it gets.Drawcord-adjustable hood.Zippered pocket keep valuables in place when you're on the move.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185231568926/5061212-PHG02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221083166/5061212-PHG02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221345310/5061212-PHG02-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221476382/5061212-PHG02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990877646878/5061212-HTG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990877843486/5061212-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185231568926/5061212-PHG02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221083166/5061212-PHG02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221345310/5061212-PHG02-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221476382/5061212-PHG02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990877646878/5061212-HTG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990877843486/5061212-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185231568926/5061212-PHG02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221083166/5061212-PHG02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221345310/5061212-PHG02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221476382/5061212-PHG02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990877646878/5061212-HTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990877843486/5061212-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185231568926/5061212-PHG02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221083166/5061212-PHG02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221345310/5061212-PHG02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221476382/5061212-PHG02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990877646878/5061212-HTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990877843486/5061212-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vuori Halo Performance Hoodie - Women's",
+  "product_code": "5061-212",
+  "source_url": "https://www.mec.ca/en/product/5061-212/Halo-Performance-Hoodie",
+  "tech_specs": {
+    "Fabric content": [
+      "87% polyester",
+      "13% spandex"
+    ],
+    "Hood": [
+      "Adjustable"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 front",
+      "1 front zippered"
+    ]
+  }
+}

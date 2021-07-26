@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Eris T-Shirt"
+  ],
+  "description": "For those casual days that might involve a send or two. The Eris\u2019 clean lines and soft cotton blend look at home in the city, while the gusseted sleeves help you reach for a high hold (or beerglass at the back of the shelf).Crafted from a blend of organic cotton and recycled polyester that is super soft and helps wick away moisture.Single laminated chest pocket is a home for your sunnies.Stealthy underarm gussets allow movement while keeping the clean t-shirt lines.Regular fit.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153613332510/6005687-WHN04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624014878/6005687-WHN04-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624047646/6005687-WHN04-ALT-MODEL-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153613168670/6005687-FOR65.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153613332510/6005687-WHN04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624014878/6005687-WHN04-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624047646/6005687-WHN04-ALT-MODEL-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153613168670/6005687-FOR65.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153613332510/6005687-WHN04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624014878/6005687-WHN04-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624047646/6005687-WHN04-ALT-MODEL-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153613168670/6005687-FOR65.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153613332510/6005687-WHN04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624014878/6005687-WHN04-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624047646/6005687-WHN04-ALT-MODEL-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153613168670/6005687-FOR65.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Eris T-Shirt - Men's",
+  "product_code": "6005-687",
+  "source_url": "https://www.mec.ca/en/product/6005-687/Eris-T-Shirt",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Gusseted sleeves"
+    ],
+    "Fabric content": [
+      "60% organically grown cotton",
+      "40% recycled polyester"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "150gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Pockets": [
+      "1 external chest"
+    ],
+    "Product sustainability": [
+      "Organically grown content",
+      "Recycled content"
+    ]
+  }
+}

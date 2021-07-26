@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Kayak accessories",
+    "Hatch Cover"
+  ],
+  "description": "These Kajak Sport hatch covers feature double seals to ensure absolute watertightness. Moulded-in tabs allow you to fit a security line to prevent loss overboard.Fits P&H kayaks, Venture Kayaks, and many other brands.Bow hatch cover diameter is 24cm.Dayhatch cover diameter is 20cm.Stern oval hatch cover diameter is 42 x 30cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817991057438/5016083-NOC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817991057438/5016083-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kajak Sport Hatch Cover",
+  "product_code": "5016-083",
+  "source_url": "https://www.mec.ca/en/product/5016-083/Hatch-Cover",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayak touring",
+      "Cottage and recreational kayaking"
+    ],
+    "Made in": [
+      "Finland"
+    ],
+    "Weight": [
+      "315g (Bow)"
+    ]
+  }
+}

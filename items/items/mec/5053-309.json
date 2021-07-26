@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Hydration packs and accessories",
+    "Bladders, reservoirs and accessories",
+    "Arcticfusion Tube Set"
+  ],
+  "description": "Waaaaay more insulation than most, this is the system to use when you need to keep the water flowing in extreme cold weather. Includes an insulated valve cover that prevents ice dams at the source.Made of taste-free TPU that contains no BPA or PVC.3mm TPU foam provides lots of insulation.Plug-N-Play push button valve lets you leave the tube in your bag when you remove the reservoir.Phaser angled bite valve is silicone with an insulated valve cover.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8866882027550/5053309-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8866882027550/5053309-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8866882027550/5053309-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8866882027550/5053309-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hydrapak Arcticfusion Tube Set",
+  "product_code": "5053-309",
+  "source_url": "https://www.mec.ca/en/product/5053-309/Arcticfusion-Tube-Set",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking",
+      "Running",
+      "Snowsports",
+      "Camping and hiking",
+      "Snowshoeing"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

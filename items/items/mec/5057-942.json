@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water filters",
+    "Inline and filter water bottles",
+    "BeFree Microfilter with Hydrapak 3.0L"
+  ],
+  "description": "Let gravity do the work for you. This lightweight water filtration system uses Katadyn\u2019s fast-flowing BeFree filter to provide clean, safe drinking water for you and your group. A simple shake or swish to cleans out the filter, no back-flushing or scrubbing required. When it's empty, it collapses to free up space in your pack.BeFree\u2122 0.1 micron microfilter removes harmful bacteria and cysts.Filter has a fast flow rate and is easy to clean without back-flushing or special tools.Body is 0.4mm thermoplastic polyurethane.Front bail handle and rear carrying handle make filling and transport easy.Materials are free of BPA and PVC.Meets or exceeds FDA and EU regulations.Do not allow the cartridge to freeze after initial use.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926723473438/5057942-CLR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926723473438/5057942-CLR00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926723473438/5057942-CLR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926723473438/5057942-CLR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Katadyn BeFree Microfilter with Hydrapak 3.0L",
+  "product_code": "5057-942",
+  "source_url": "https://www.mec.ca/en/product/5057-942/BeFree-Microfilter-with-Hydrapak-3-0L",
+  "tech_specs": {
+    "Cartridge life\n\nThe life of the filter cartridge is based on the quantity of water you can treat before the cartridge is no longer effective. This does not apply to battery operated or chemical filter systems.": [
+      "1000L"
+    ],
+    "Effective against bacteria\n\nBacteria can cause illnesses such as diarrhea and dysentery and are about 1.0 micron in size, although some can be as small as 0.2 microns.": [
+      "Yes"
+    ],
+    "Effective against particulate\n\nParticulate consists of very small bits and pieces such as dirt or bugs.": [
+      "Yes"
+    ],
+    "Effective against protozoa\n\nProtozoa are larger than one micron and include cryptosporidium and giardia.": [
+      "Yes"
+    ],
+    "Effective against viruses\n\nMost viruses are in the 0.1 micron size range, but they can be as small as 0.002 microns.": [
+      "No"
+    ],
+    "Filter size\n\nA 0.5 micron or smaller filters protozoa and some large bacteria; 0.2 micron or smaller filters smaller bacteria such as campylobacter.": [
+      "0.1microns"
+    ],
+    "Filter type\n\nWater can be treated using various types of filters, chemicals or non-chemical purification methods, or a combination. Filters on their own will not remove viruses as they are too small.": [
+      "Hollow fibre technology"
+    ],
+    "Ideal for": [
+      "Canoe tripping"
+    ],
+    "Made in": [
+      "Switzerland"
+    ],
+    "Output": [
+      "2L/min"
+    ],
+    "Weight": [
+      "113g"
+    ]
+  }
+}

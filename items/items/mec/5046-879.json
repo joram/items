@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Wetsuits and neoprene clothing",
+    "Paddling gloves and mitts",
+    "H2O Lightweight Gloves"
+  ],
+  "description": "Keep your hands blister-free on warm-weather paddling days. The sturdy synthetic leather protects your palms, and the main fabric is lightweight and breathable so your hands stay cool.Quick-drying polyester mesh backs.Clarino (synthetic leather) palms for excellent paddle feel and great abrasion resistance and blister prevention.Sticky hexagon-patterned silicone on fingers improves grip.Reinforced at high-wear areas like the tops of the palms and inside of thumbs.Velcro\u00ae closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798072700958/5046879-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798072700958/5046879-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC H2O Lightweight Gloves - Unisex",
+  "product_code": "5046-879",
+  "source_url": "https://www.mec.ca/en/product/5046-879/H2O-Lightweight-Gloves",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayaking",
+      "Canoeing",
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Synthetic leather"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ]
+  }
+}

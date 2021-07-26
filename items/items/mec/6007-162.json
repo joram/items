@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Caps",
+    "1960 Logo Langtradarkeps Cap"
+  ],
+  "description": "A classic trucker (in Swedish that's l\u00e5ngtradar) with mesh sides and back.Made of G-1000 Eco with 100% recycled polyester mesh.Adjustable snap closure at the back.Embroidered badge on front.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169689083934/6007162-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645568030/6007162-GRN00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089832583198/6007162-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169689083934/6007162-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645568030/6007162-GRN00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089832583198/6007162-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169689083934/6007162-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645568030/6007162-GRN00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089832583198/6007162-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169689083934/6007162-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645568030/6007162-GRN00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089832583198/6007162-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fjallraven 1960 Logo Langtradarkeps Cap - Unisex",
+  "product_code": "6007-162",
+  "source_url": "https://www.mec.ca/en/product/6007-162/1960-Logo-Langtradarkeps-Cap",
+  "tech_specs": {
+    "Fabric content": [
+      "65% polyester",
+      "35% cotton"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

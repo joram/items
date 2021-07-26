@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid supplies",
+    "Emergency Poncho"
+  ],
+  "description": "Store this clear rain poncho in your backpack or emergency kit in case you get caught in an unexpected storm.Made of lightweight polyethylene.Open dimensions are 203 x 127cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139396018206/6011807-CLR00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9139396018206/6011807-CLR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Emergency Poncho - Unisex",
+  "product_code": "6011-807",
+  "source_url": "https://www.mec.ca/en/product/6011-807/Emergency-Poncho",
+  "tech_specs": {
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

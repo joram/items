@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Neck gaiters and scarves",
+    "Original Ecostretch Multifunctional Headwear"
+  ],
+  "description": "A versatile tube that can be worn as a headband, mask, balaclava, beanie or neck warmer. The seamlessly knit tube is made from recycled PET bottles.Made from breathable and quick-drying recycled polyester with a hint of elastane for stretch.Fabric has UPF 50+ sun protection.Dimensions are 53 x 24.5cm.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202279448606/6003116-KMR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156272586782/6003116-BCP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202279448606/6003116-KMR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156272586782/6003116-BCP00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202279448606/6003116-KMR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156272586782/6003116-BCP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202279448606/6003116-KMR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9156272586782/6003116-BCP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Buff Original Ecostretch Multifunctional Headwear - Unisex",
+  "product_code": "6003-116",
+  "source_url": "https://www.mec.ca/en/product/6003-116/Original-Ecostretch-Multifunctional-Headwear",
+  "tech_specs": {
+    "Fabric content": [
+      "95% recycled polyester",
+      "5% elastane"
+    ],
+    "Ideal for": [
+      "Snowsports",
+      "Camping and hiking",
+      "Cross-country skiing"
+    ],
+    "Made in": [
+      "Spain"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

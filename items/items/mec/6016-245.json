@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Kayak accessories",
+    "Kayak Foam Block Kit"
+  ],
+  "description": "Everything you need to mount your Kayak securely on top of your vehicle.Made of high-density closed-cell foam.Cut out fits a wide range of roof racks.Includes 2 foam blocks and 2 straps.25mm webbing straps are 4 meters long.Includes mesh carrying bag.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193335455774/6016245-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350692894/6016245-CHA00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193335455774/6016245-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350692894/6016245-CHA00-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193335455774/6016245-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350692894/6016245-CHA00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193335455774/6016245-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193350692894/6016245-CHA00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Kayak Foam Block Kit",
+  "product_code": "6016-245",
+  "source_url": "https://www.mec.ca/en/product/6016-245/Kayak-Foam-Block-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayaking"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

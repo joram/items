@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Caledon Hikes"
+  ],
+  "description": "A guide to 37 hiking loops within Caledon, Ontario. Wander past farmers' fields, down country roads, through forests of towering maples, and along trickling streams. This guide covers the Niagara Escarpment, Oak Ridges Moraine, Credit River, Humber River and Etobicoke Creek areas. All hikes start and end at the same point and vary in length from an hour to an entire day. Contains length, level of difficulty, time needed, detailed directions, places to eat and drink, and highlights of each trip.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029534220318/5044447-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935494549534/5044447-NOC02-ALT-SPREAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935494582302/5044447-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935495368734/5044447-NOC02-ALT-SPREAD2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935496712222/5044447-NOC02-ALT-SPREAD3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029534220318/5044447-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935494549534/5044447-NOC02-ALT-SPREAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935494582302/5044447-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935495368734/5044447-NOC02-ALT-SPREAD2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935496712222/5044447-NOC02-ALT-SPREAD3.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029534220318/5044447-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935494549534/5044447-NOC02-ALT-SPREAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935494582302/5044447-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935495368734/5044447-NOC02-ALT-SPREAD2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935496712222/5044447-NOC02-ALT-SPREAD3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029534220318/5044447-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935494549534/5044447-NOC02-ALT-SPREAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935494582302/5044447-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935495368734/5044447-NOC02-ALT-SPREAD2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8935496712222/5044447-NOC02-ALT-SPREAD3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Loops & Lattes Hiking Guides Caledon Hikes",
+  "product_code": "5044-447",
+  "source_url": "https://www.mec.ca/en/product/5044-447/Caledon-Hikes",
+  "tech_specs": {
+    "Author": [
+      "Nicola Ross"
+    ],
+    "ISBN": [
+      "9780994030207"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "192"
+    ],
+    "Published": [
+      "2015"
+    ],
+    "Regionality": [
+      "Ontario"
+    ]
+  }
+}

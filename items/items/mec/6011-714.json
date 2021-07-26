@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country skate",
+    "Skate ski poles",
+    "Elite Tradition Poles"
+  ],
+  "description": "Like pushing hard on groomed trails and loose snow? These poles are suitable for beginner and intermediate skiers in all snow conditions.Shafts are lightweight extruded aluminum for durability.Grips are cork-filled thermoplastic for comfort and warmth.Simple straps are great for shorter trips.Large touring baskets provide good support on loose snow.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137294835742/6011714-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137294835742/6011714-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Swix Elite Tradition Poles - Unisex",
+  "product_code": "6011-714",
+  "source_url": "https://www.mec.ca/en/product/6011-714/Elite-Tradition-Poles",
+  "tech_specs": {
+    "Grip material": [
+      "Cork"
+    ],
+    "Ideal for": [
+      "Cross-country skiing"
+    ],
+    "Made in": [
+      "Lithuania"
+    ],
+    "Pole material": [
+      "Aluminum"
+    ],
+    "Sold in pairs": [
+      "Yes"
+    ]
+  }
+}

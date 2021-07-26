@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Fixed protection",
+    "TE-CX 3/8\" x 6\" SDS Drill Bit"
+  ],
+  "description": "This SDS drill bit fits most power hammer drills, and hand drills. The bit life will vary according to the rock. We estimate 15 to 20 holes in granite (though the drilling will get progressively harder), more in softer rock.2-stage bit features softer carbide on the bottom end for a better bond to the steel and more resistance to breaking.Each cutting surface now has its own channel to clear debris.For placing 3/8 wedge bolts.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807422165022/5014665-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807422165022/5014665-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hilti TE-CX 3/8\" x 6\" SDS Drill Bit",
+  "product_code": "5014-665",
+  "source_url": "https://www.mec.ca/en/product/5014-665/TE-CX-3-8%22-x-6%22-SDS-Drill-Bit",
+  "tech_specs": {
+    "Ideal for": [
+      "Outdoor route building"
+    ],
+    "Made in": [
+      "Germany"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Headlamps and lighting",
+    "Lanterns",
+    "Electric and LED lanterns",
+    "Zip Lantern"
+  ],
+  "description": "Compact lighting that pulls double-duty as both a lantern and a flashlight. Versatility is a wonderful thing when space is at a premium. With its compact design providing both a wide even light that works well around camp, and a focused beam that lets you put the light exactly where you want it, it's easy to make room for the Zip Lantern. Running off of one of the world\u2019s most widely available batteries, this little lantern also makes a great travel companion.1 LED sits behind a frosted lantern globe providing up to 150 lumens of even lighting, great around camp or during power outages.1 LED flashlight produces up to 100 lumens of focused light, great when you need to see things that are a bit further away.Smooth dimming feature lets you dial in the perfect brightness for both the lantern and the flashlight.1-button interface is easy to use.Collapsible hanging hook tucks out of the way when you don\u2019t need it, and is there when you do.IPX4 waterproofing means the light keeps shining even when Mother Nature has other ideas.Textured case is easy to hold on to in nearly any conditions.AAA batteries are easy to find almost anywhere in the world.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985217728542/5061171-OCT03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985218056222/5061171-GRA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985217728542/5061171-OCT03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985218056222/5061171-GRA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985217728542/5061171-OCT03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985218056222/5061171-GRA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985217728542/5061171-OCT03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985218056222/5061171-GRA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Zip Lantern",
+  "product_code": "5061-171",
+  "source_url": "https://www.mec.ca/en/product/5061-171/Zip-Lantern",
+  "tech_specs": {
+    "Batteries": [
+      "4 AAA (not included)"
+    ],
+    "Burn time": [
+      "3 - 50\u00a0h"
+    ],
+    "Glass globe": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Max light output\n\nThe total quantity of light emitted in every direction from a source of light; measured in lumens.": [
+      "150\u00a0lumens"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Non-rechargeable"
+    ],
+    "Red light mode": [
+      "No"
+    ],
+    "Regulated output\n\nOn regulated lights brightness is consistent, and does not decrease gradually as the batteries are drained.": [
+      "No"
+    ],
+    "Uses mantels": [
+      "No"
+    ],
+    "Weight": [
+      "100g"
+    ]
+  }
+}

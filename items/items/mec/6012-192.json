@@ -1,0 +1,100 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Ranchero Soup"
+  ],
+  "description": "Inspired by the big flavours of the American southwest, Rachero soup delivers bold spices with hearty lentils and soy protein in a bright tomato broth.Ingredients: tomato broth (dehydrated vegetables (tomato, onions), corn maltodextrin, glucose solids, hydrolyzed corn protein, modified corn starch, potato starch, sugar, salt, caramel (sulphites), spices, yeast extract, corn fiber, garlic and onion powder; citric acid, artificial flavour), red lentils, rice, dehydrated soy proteins chunks (textured soy proteins, corn semolina, oat flakes (gluten), wheal flour, onion flakes, spices]. dehydrated vegetables (carrot, potato, onion, celery, leek, red and green tell peppers).May contain: nuts, peanuts, sesame, milk, egg, seafood, soy, wheat and mustard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136447422494/6012192-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133508853790/6012192-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457285662/6012192-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136447422494/6012192-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133508853790/6012192-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457285662/6012192-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136447422494/6012192-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133508853790/6012192-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457285662/6012192-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136447422494/6012192-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133508853790/6012192-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457285662/6012192-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Ranchero Soup",
+  "product_code": "6012-192",
+  "source_url": "https://www.mec.ca/en/product/6012-192/Ranchero-Soup",
+  "tech_specs": {
+    "Calories per serving": [
+      "240Cal"
+    ],
+    "Carbohydrates": [
+      "46g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "6g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "12g"
+    ],
+    "Saturated fat": [
+      "0g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "1000mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "8g"
+    ],
+    "Total fat": [
+      "1g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "70g"
+    ]
+  }
+}

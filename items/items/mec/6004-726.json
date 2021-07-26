@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Accessories",
+    "Running and fitness hats",
+    "Pack Run Cap"
+  ],
+  "description": "Lightweight and packable, this running hat folds down small to fit in your running pack or pocket. The breathable, moisture-wicking fabric keeps your head cool during high-output activities.Made of ultralight polyester and elastane that wicks sweat away from your head.Packable design folds down into tiny ball.Soft polyurethane visor maintains its shape even after packing.Adjustable drawstring fits most heads.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158285918238/6004726-MTQ00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089830879262/6004726-GRY02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089830846494/6004726-BK941.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158285918238/6004726-MTQ00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089830879262/6004726-GRY02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089830846494/6004726-BK941.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158285918238/6004726-MTQ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089830879262/6004726-GRY02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089830846494/6004726-BK941.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158285918238/6004726-MTQ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089830879262/6004726-GRY02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089830846494/6004726-BK941.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Buff Pack Run Cap - Unisex",
+  "product_code": "6004-726",
+  "source_url": "https://www.mec.ca/en/product/6004-726/Pack-Run-Cap",
+  "tech_specs": {
+    "Fabric content": [
+      "91% polyester",
+      "9% elastane"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Made in": [
+      "Spain"
+    ],
+    "Weight": [
+      "30g"
+    ]
+  }
+}

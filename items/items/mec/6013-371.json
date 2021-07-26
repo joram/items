@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Bivy sacks",
+    "Alpine Bivy"
+  ],
+  "description": "This minimalist bivy excels in cold, alpine environments. The simple design packs down small to take up little room in your pack. Fully waterproof construction shelters from the elements and the larger interior provides you with plenty of space for a good night's sleep before your summit push.3-layer DVStorm fabric upper with eVent waterproof laminate is breathable and weatherproof.Durable nylon bathtub floor.Zippered opening with weatherproof storm flap.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143682760734/6013371-OLV00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143682760734/6013371-OLV00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rab Alpine Bivy",
+  "product_code": "6013-371",
+  "source_url": "https://www.mec.ca/en/product/6013-371/Alpine-Bivy",
+  "tech_specs": {
+    "Floor coating": [
+      "Polyurethane"
+    ],
+    "Floor fabric": [
+      "70-denier nylon"
+    ],
+    "Floor length\n\nA measurement based on the longest point of the tent.": [
+      "2.34m"
+    ],
+    "Floor width\n\nA measurement based on the widest points of the tent.": [
+      "0.79m"
+    ],
+    "Fly fabric": [
+      "Waterproof-breathable fabric"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Packed size": [
+      "30x12cm"
+    ],
+    "Packed weight\n\nIncludes the full tent with its stuff sack, repair swatches, and all the guylines and pegs.": [
+      "470kg"
+    ],
+    "Seasons": [
+      "4-season"
+    ],
+    "Weight": [
+      "470g"
+    ]
+  }
+}

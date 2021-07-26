@@ -1,0 +1,95 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training food and drinks",
+    "Energy and protein bars",
+    "Blueberry"
+  ],
+  "description": "Not only are blueberries a super healthy fruit, they\u2019re delicious. RXBAR puts the primary ingredients of these bars front and centre, so you know what tasty thing you're about dig into.Ingredients: dates, dried egg whites, almonds, cashews, blueberries and natural flavours.Allergen: contains eggs, almonds and cashews.Manufactured in a facility that also processes peanuts, tree nuts, eggs, milk, soy and wheat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027037495326/6004092-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027037495326/6004092-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "RXBAR Blueberry",
+  "product_code": "6004-092",
+  "source_url": "https://www.mec.ca/en/product/6004-092/Blueberry",
+  "tech_specs": {
+    "Best consumed": [
+      "Before exercise",
+      "During exercise",
+      "Recovery"
+    ],
+    "Calories per serving": [
+      "210Cal"
+    ],
+    "Carbohydrates": [
+      "24g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "4g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Cycling",
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Potassium": [
+      "450mg"
+    ],
+    "Protein": [
+      "12g"
+    ],
+    "Saturated fat": [
+      "1g"
+    ],
+    "Serving size": [
+      "1 bar"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "140mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "15g"
+    ],
+    "Total fat": [
+      "7g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "52g"
+    ]
+  }
+}

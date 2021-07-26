@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike cranksets",
+    "Acera FC-M361 (28/38/48) 7/8 Speed Crankset"
+  ],
+  "description": "A complete crankset with chain rings that can be paired with your preferred bottom bracket.Crank arms are aluminum with a painted finish.Rings are steel with a painted finish.Inner and outer ring fixing bolts are stainless steel.Recommended for use with Shimano\u00ae HG chains and Shimano bottom bracket BB-UN26 or BB-UN26K.Compatible with 7 or 8-speed systems.Chain ring combination 48-38-28T.Chain line is 50mm.Chain case compatible.170 or 175mm crank arms.Chain guard included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806779355166/5037581-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806779355166/5037581-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano Acera FC-M361 (28/38/48) 7/8 Speed Crankset",
+  "product_code": "5037-581",
+  "source_url": "https://www.mec.ca/en/product/5037-581/Acera-FC-M361-%2828-38-48%29-7-8-Speed-Crankset",
+  "tech_specs": {
+    "Bottom bracket included": [
+      "No"
+    ],
+    "Compatibility": [
+      "7-speed",
+      "8-speed"
+    ],
+    "Ideal for": [
+      "Urban cycling",
+      "Cycle commuting"
+    ],
+    "Length": [
+      "170, 175mm"
+    ],
+    "Made in": [
+      "Malaysia"
+    ],
+    "Material": [
+      "Aluminum"
+    ],
+    "Teeth": [
+      "28, 38, 48"
+    ],
+    "Weight": [
+      "891g (170mm)"
+    ]
+  }
+}

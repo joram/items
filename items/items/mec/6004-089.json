@@ -1,0 +1,95 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training food and drinks",
+    "Energy and protein bars",
+    "Peanut Butter Chocolate"
+  ],
+  "description": "Is there a more perfect pairing than peanut butter and chocolate? Nope. RXBAR puts the primary ingredients of these bars front and centre, so you know what tasty thing you're about dig into.Ingredients: dates, peanuts, dried egg whites, chocolate, natural flavours, sea salt and cocoa.Allergen: contains eggs and peanuts.Manufactured in a facility that also processes peanuts, tree nuts, eggs, milk, soy and wheat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027037397022/6004089-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027037397022/6004089-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "RXBAR Peanut Butter Chocolate",
+  "product_code": "6004-089",
+  "source_url": "https://www.mec.ca/en/product/6004-089/Peanut-Butter-Chocolate",
+  "tech_specs": {
+    "Best consumed": [
+      "Before exercise",
+      "During exercise",
+      "Recovery"
+    ],
+    "Calories per serving": [
+      "210Cal"
+    ],
+    "Carbohydrates": [
+      "23g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "5g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Cycling",
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Potassium": [
+      "450mg"
+    ],
+    "Protein": [
+      "12g"
+    ],
+    "Saturated fat": [
+      "2g"
+    ],
+    "Serving size": [
+      "1 bar"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "310mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "14g"
+    ],
+    "Total fat": [
+      "9g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "52g"
+    ]
+  }
+}

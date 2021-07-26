@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "PFDs, helmets and safety equipment",
+    "Boat safety equipment",
+    "Quick-release Straight Leash"
+  ],
+  "description": "High grade coated aluminum with stainless-steel swivels to prevent tangles. Add an element of safety when a quick get-away from your board is necessary.Neoprene padding with Velcro ankle closure.Quick-release pull made from stainless steel.Length: 2.3m",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202280726558/6016247-YLW00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202280726558/6016247-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Quick-release Straight Leash",
+  "product_code": "6016-247",
+  "source_url": "https://www.mec.ca/en/product/6016-247/Quick-release-Straight-Leash",
+  "tech_specs": {
+    "Ideal for": [
+      "Paddleboarding"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "ECO Explore Crew Socks"
+  ],
+  "description": "These eco-friendly, technical socks are double-layered to reduce friction as you move. Great for hiking and other long days on your feet.Both layers are made of Repreve\u00ae polyester, nylon and LYCRA.Repreve\u00ae polyester is made from plastic bottles retrieved from waterways.Inner layer is smooth against the skin and wicks moisture away from your feet.Stabilizer zones keep them in place.Venting channels add breathability.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591488542/6010762-LBS27.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591226398/6010762-DBS07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161590964254/6010762-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591488542/6010762-LBS27.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591226398/6010762-DBS07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161590964254/6010762-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591488542/6010762-LBS27.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591226398/6010762-DBS07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161590964254/6010762-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591488542/6010762-LBS27.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161591226398/6010762-DBS07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161590964254/6010762-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "WrightSock ECO Explore Crew Socks - Unisex",
+  "product_code": "6010-762",
+  "source_url": "https://www.mec.ca/en/product/6010-762/ECO-Explore-Crew-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "68% recycled polyester",
+      "24% nylon",
+      "8% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

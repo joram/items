@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Kootenay National Park Map 5th Edition"
+  ],
+  "description": "Coverage includes all of Kootenay National Park, from Castle Mountain Junction south through Radium, to Windermere. Explore the diversity of hiking and mountain biking trails  including Boom Lake, Twin and Arnica Lakes, Stanley Glacier, Marble Canyon and the Paint Pots, Hawk Creek, Kindersley Pass-Sinclair Creek, plus Floe Lake and the entire Rockwall Trail. Detailed descriptions with photographs from 10 short, interpretive walks, 6 day hikes, 4 mountain biking trails, and 4 more strenuous dayhikes or overnight trips.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035647352862/5051610-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035647352862/5051610-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Publishing Kootenay National Park Map 5th Edition",
+  "product_code": "5051-610",
+  "source_url": "https://www.mec.ca/en/product/5051-610/Kootenay-National-Park-Map-5th-Edition",
+  "tech_specs": {
+    "Edition": [
+      "5th"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking",
+      "Mountain biking",
+      "Cross-country skiing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:100,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

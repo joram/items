@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "PFDs, helmets and safety equipment",
+    "Boat safety equipment",
+    "Paddle Carabiner"
+  ],
+  "description": "Prevent the awkwardness of paddle loss during river rescues. This big-mouthed biner clips around pretty much any paddle shaft.High-grade 7075 aircraft aluminum.22kN breaking strength.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870488473630/5019371-ALU04.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870488473630/5019371-ALU04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Paddle Carabiner",
+  "product_code": "5019-371",
+  "source_url": "https://www.mec.ca/en/product/5019-371/Paddle-Carabiner",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayaking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "77g"
+    ]
+  }
+}

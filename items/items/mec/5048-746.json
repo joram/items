@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training electronics",
+    "Heart rate monitor sensor straps",
+    "USB Ant+ Stick"
+  ],
+  "description": "This device wirelessly downloads data from your ANT+ compatible devices to your PC, making it available to be used with your favourite training apps and software.ANT+ secure digital transmission technology.Works with many ANT+ compatible bike trainers.USB connection, no batteries required.Reception range up to 10m.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8877167378462/5048746-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8877167378462/5048746-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Garmin USB Ant+ Stick",
+  "product_code": "5048-746",
+  "source_url": "https://www.mec.ca/en/product/5048-746/USB-Ant%2B-Stick",
+  "tech_specs": {
+    "ANT+ compatible\n\nEnsures seamless digital wireless communication between ANT+ devices. For example, data from an ultra-low power wireless sensor can be displayed on a bike computer or smartphone, then downloaded to a PC, etc.": [
+      "Yes"
+    ],
+    "Bluetooth": [
+      "No"
+    ],
+    "Ideal for": [
+      "Fitness and training",
+      "Cycle training"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry ski poles and baskets",
+    "Ti-7 EXP Powerlock Poles"
+  ],
+  "description": "Boulder fields, gnarly scree descents or holding up a tarp shelter in a windstorm, these durable poles are up for the challenge.3-section design with durable 7075-T6 aluminum.Powerlock 3.0 for secure adjustments.Ultralight foam grips.Padded wrist straps.Includes trekking baskets.Durable carbide tips.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9111969824798/6008908-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082346635294/6008908-SIL00-ALT-COMPACT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9111969824798/6008908-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082346635294/6008908-SIL00-ALT-COMPACT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9111969824798/6008908-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082346635294/6008908-SIL00-ALT-COMPACT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9111969824798/6008908-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082346635294/6008908-SIL00-ALT-COMPACT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Komperdell Ti-7 EXP Powerlock Poles - Unisex",
+  "product_code": "6008-908",
+  "source_url": "https://www.mec.ca/en/product/6008-908/Ti-7-EXP-Powerlock-Poles",
+  "tech_specs": {
+    "Extended length": [
+      "105-140cm"
+    ],
+    "Grip material": [
+      "Foam"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking"
+    ],
+    "Locking mechanism": [
+      "Powerlock 3.0"
+    ],
+    "Made in": [
+      "Austria"
+    ],
+    "Packed length\n\nThe shortest length of the pole when all sections have been compacted.": [
+      "65cm"
+    ],
+    "Pole material": [
+      "Aluminum"
+    ],
+    "Sections": [
+      "3"
+    ],
+    "Sold in pairs": [
+      "Yes"
+    ]
+  }
+}

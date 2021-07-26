@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard clothing",
+    "Ski and snow headwear",
+    "Ski masks and balaclavas",
+    "Dome Balaclava"
+  ],
+  "description": "Cover your dome, neck and face. The thin yet warm microfleece fits under your helmet for cold days in the mountains.Polyester fleece with a hint of spandex for stretch.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142273671198/6013101-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142273671198/6013101-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Dome Balaclava - Unisex",
+  "product_code": "6013-101",
+  "source_url": "https://www.mec.ca/en/product/6013-101/Dome-Balaclava",
+  "tech_specs": {
+    "Fabric content": [
+      "95% polyester",
+      "5% elastane"
+    ],
+    "Ideal for": [
+      "Snowsports"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

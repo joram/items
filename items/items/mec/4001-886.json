@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Ropes, cords and slings",
+    "Static ropes and cord",
+    "11mm KMIII Nylon Static Rope"
+  ],
+  "description": "Static ropes are a good choice for rescue and descending activities. They are designed to provide high strength with low stretch and good abrasion resistance. This rope has a polyester mantle cover over a continuous filament, low twist nylon kern. This creates a rope with a low elongation factor and high tensile strength. The polyester sheath has a better resistance to chemicals such as acids.National Fire Protection Association certified.Weighs 86.3g/m.Breaking strength is 3628kg.Spool size of 183m.Sold by the metre.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807294402590/4001886-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851081723934/4001886-ORG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807294763038/4001886-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807294402590/4001886-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851081723934/4001886-ORG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807294763038/4001886-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807294402590/4001886-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851081723934/4001886-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807294763038/4001886-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807294402590/4001886-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851081723934/4001886-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807294763038/4001886-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Teufelberger 11mm KMIII Nylon Static Rope",
+  "product_code": "4001-886",
+  "source_url": "https://www.mec.ca/en/product/4001-886/11mm-KMIII-Nylon-Static-Rope",
+  "tech_specs": {
+    "Diameter": [
+      "11mm"
+    ],
+    "Ideal for": [
+      "High angle rescue"
+    ],
+    "Linear weight": [
+      "86.3g/m"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Sold": [
+      "By the meter"
+    ],
+    "Static elongation\n\nIn controlled tests, a weight is suspended from the rope (not dropped). Higher numbers indicate stretchier ropes.": [
+      "2.9-8.0%"
+    ],
+    "Tensile strength": [
+      "3632kg"
+    ],
+    "Type": [
+      "Static"
+    ],
+    "Weight": [
+      "86g"
+    ]
+  }
+}

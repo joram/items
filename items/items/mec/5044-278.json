@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Tent flys",
+    "Spark 2-Person Tent Fly"
+  ],
+  "description": "Replace a lost or tattered fly on your MEC Spark 2 Tent.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816310386718/5044278-STA28.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816310386718/5044278-STA28.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816310386718/5044278-STA28.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816310386718/5044278-STA28.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Spark 2-Person Tent Fly",
+  "product_code": "5044-278",
+  "source_url": "https://www.mec.ca/en/product/5044-278/Spark-2-Person-Tent-Fly",
+  "tech_specs": {
+    "Fly coating": [
+      "Ether-type polyurethane"
+    ],
+    "Fly fabric": [
+      "30-denier polyester ripstop"
+    ],
+    "Fly waterproofness\n\nThe standard test for coated fabrics uses a standing column (a pipe) filled with water. The figures given are the column height. A 1000mm coating allowed no leaks after 1 minute under 1000mm of water.": [
+      "3000mm"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Weight": [
+      "516g"
+    ]
+  }
+}

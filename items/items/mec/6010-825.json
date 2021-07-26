@@ -1,0 +1,84 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry skis",
+    "Helio Recon 88 Skis"
+  ],
+  "description": "The backcountry skier's best friend on technical objectives. With rockered tip and tail and camber underfoot, this powerful ski thrives in harder snow, but can handle it's own in the soft stuff. The camber and short turning radius inspire confidence and control when charging hard, and the rockered tip and tail keep you smoothly on top of powder.Rockered tip and tail with traditional camber for use in mixed conditions.Poplar wood core construction with fibreglass layup.ABS sidewalls for durability.Short turning radius handles hard snow conditions well.Added dampening offers a smooth ride is soft and hard snow.Optimal use: 30% soft snow and 70% hard snow.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138053382174/6010825-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066227230/6010825-YLW00-ALT-ALL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066259998/6010825-YLW00-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066358302/6010825-YLW00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138053382174/6010825-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066227230/6010825-YLW00-ALT-ALL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066259998/6010825-YLW00-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066358302/6010825-YLW00-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138053382174/6010825-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066227230/6010825-YLW00-ALT-ALL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066259998/6010825-YLW00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066358302/6010825-YLW00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138053382174/6010825-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066227230/6010825-YLW00-ALT-ALL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066259998/6010825-YLW00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138066358302/6010825-YLW00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Helio Recon 88 Skis - Unisex",
+  "product_code": "6010-825",
+  "source_url": "https://www.mec.ca/en/product/6010-825/Helio-Recon-88-Skis",
+  "tech_specs": {
+    "Ability\n\nBeginner: new or getting back into skiing.  Intermediate: confident with turning and stopping.  Advanced: highly confident carver. Expert: steeps, drops, park, double blacks -- bring it on.": [
+      "Advanced",
+      "Expert"
+    ],
+    "Bindings included": [
+      "No"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Sandwich"
+    ],
+    "Core": [
+      "Wood"
+    ],
+    "Dimension": [
+      "119-88-110mm (158cm)",
+      "121-88-111mm (168cm)",
+      "123-88-112mm (178cm)"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Alpine touring"
+    ],
+    "Made in": [
+      "Austria"
+    ],
+    "Rocker/camber profile": [
+      "Rocker tail",
+      "Rocker tip"
+    ],
+    "Snow conditions": [
+      "Mixed",
+      "Powder"
+    ],
+    "Terrain": [
+      "Off-Piste"
+    ],
+    "Turning radius": [
+      "17m (158cm)",
+      "17m (168cm)",
+      "18m (178cm)"
+    ],
+    "Weight": [
+      "2.7kg (158cm)",
+      "2.9kg (168cm)",
+      "3.1kg (178cm)"
+    ]
+  }
+}

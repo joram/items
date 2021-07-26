@@ -1,0 +1,101 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Running packs",
+    "Hydration vests and belts",
+    "Adv Skin 12 Set Pack"
+  ],
+  "description": "Get this vest adjusted to your shape, and it will feel like an extension of your own body. 12L capacity has room to kit out your long runs and keep you equipped to cross through climactic zones. It includes 2 soft bottles and has room for a 1.5L reservoir.3D air mesh on body contact surfaces wicks sweat, soft touch trim prevents friction and chafing.2 elastic sternum straps adjust the fit without creating pressure points.2 front stretch pockets hold included 500ml Soft Flask bottles.Front and chest pockets secure gear with a combination of zippered and stretch closures.Side compression laces are adjustable on the go.Trekking pole loops hold poles diagonally to keep them accessibleLarge rear compartment.Low rear pocket is accessible from either side.External insulated compartment holds a 1.5L hydration reservoir (sold separately).Safety features: integrated whistle and reflective details.Weight: 277g, 335g with accessory bottles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079665557534/6007867-GOB01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616274462/6007867-GOB01-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616307230/6007867-GOB01-ALT-ONMODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616438302/6007867-GOB01-ALT-ONMODEL3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616602142/6007867-GOB01-ALT-ONMODEL4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079615782942/6007867-EBN00-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616012318/6007867-EBN00-ALT-ONMODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616045086/6007867-EBN00-ALT-ONMODEL3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616208926/6007867-EBN00-ALT-ONMODEL4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079665393694/6007867-EBN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079665557534/6007867-GOB01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616274462/6007867-GOB01-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616307230/6007867-GOB01-ALT-ONMODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616438302/6007867-GOB01-ALT-ONMODEL3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616602142/6007867-GOB01-ALT-ONMODEL4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079615782942/6007867-EBN00-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616012318/6007867-EBN00-ALT-ONMODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616045086/6007867-EBN00-ALT-ONMODEL3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616208926/6007867-EBN00-ALT-ONMODEL4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079665393694/6007867-EBN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079665557534/6007867-GOB01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616274462/6007867-GOB01-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616307230/6007867-GOB01-ALT-ONMODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616438302/6007867-GOB01-ALT-ONMODEL3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616602142/6007867-GOB01-ALT-ONMODEL4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079615782942/6007867-EBN00-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616012318/6007867-EBN00-ALT-ONMODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616045086/6007867-EBN00-ALT-ONMODEL3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616208926/6007867-EBN00-ALT-ONMODEL4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079665393694/6007867-EBN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079665557534/6007867-GOB01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616274462/6007867-GOB01-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616307230/6007867-GOB01-ALT-ONMODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616438302/6007867-GOB01-ALT-ONMODEL3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616602142/6007867-GOB01-ALT-ONMODEL4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079615782942/6007867-EBN00-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616012318/6007867-EBN00-ALT-ONMODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616045086/6007867-EBN00-ALT-ONMODEL3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079616208926/6007867-EBN00-ALT-ONMODEL4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079665393694/6007867-EBN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Adv Skin 12 Set Pack - Unisex",
+  "product_code": "6007-867",
+  "source_url": "https://www.mec.ca/en/product/6007-867/Adv-Skin-12-Set-Pack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top"
+    ],
+    "Additional feature(s)": [
+      "Hydration compatible (reservoir sold separately)",
+      "Ice axe/pole attachment",
+      "Reflective details"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Chest circumference": [
+      "86-97cm (X-Small)",
+      "88.5-96cm (Small)",
+      "95.5-102.5cm (Medium)",
+      "101.5-108.5cm (Large)",
+      "107+cm (X-Large)"
+    ],
+    "Hipbelt": [
+      "None"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Length": [
+      "40cm"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "Nylon"
+    ],
+    "Volume": [
+      "12L"
+    ],
+    "Width": [
+      "20cm"
+    ]
+  }
+}

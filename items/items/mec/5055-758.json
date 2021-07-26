@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike cables and housing",
+    "Polymer Coated Dura-Ace Brake Cable Set"
+  ],
+  "description": "Top-of-the-line cables, built with the quality and care you expect from Dura-Ace components.Combination polymer-coated cables, with pre-lubricated casings to improve glide.Sealed end caps provide mud protection.1 polymer coated stainless steel inner cable \u00f8 1.6mm x 2000mm.1 polymer coated stainless steel inner cable \u00f8 1.6mm x 1600mm.2 outer caps with short tongue.2 inner cable end caps.1 cable housing of 1800mm and one cable housing of 800mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890281295902/5055758-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890279952414/5055758-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890279690270/5055758-HGY01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890279362590/5055758-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890281295902/5055758-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890279952414/5055758-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890279690270/5055758-HGY01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890279362590/5055758-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890281295902/5055758-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890279952414/5055758-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890279690270/5055758-HGY01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890279362590/5055758-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890281295902/5055758-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890279952414/5055758-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890279690270/5055758-HGY01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890279362590/5055758-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano Polymer Coated Dura-Ace Brake Cable Set",
+  "product_code": "5055-758",
+  "source_url": "https://www.mec.ca/en/product/5055-758/Polymer-Coated-Dura-Ace-Brake-Cable-Set",
+  "tech_specs": {
+    "Diameter": [
+      "1.6mm"
+    ],
+    "Ideal for": [
+      "Performance and race road cycling",
+      "Sport road cycling"
+    ],
+    "Length": [
+      "200, 160cm"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Type": [
+      "Brake"
+    ]
+  }
+}

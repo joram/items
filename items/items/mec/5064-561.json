@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Chargers and adapters",
+    "Solar chargers",
+    "Sport 25 Solar Panel and Power Bank Kit"
+  ],
+  "description": "Keep your USB-powered devices fully charged and ready for use. This kit combines the rugged and lightweight Sport 25 power pack with the Falcon 7 solar panel to keep your GPS, media player or camera powered while you're off the grid.Monocrystalline solar panel is light and folds compactly.Rated power is 7W.USB output on solar panel lets you directly charge devices (5V, up to 1.4A).Powerbank has 2 ports: USB port (output) is 5V, up to 2A quick charge, and bi-directional USB-C port (input/output) is 5V, up to 3A.Built-in 150 lumen flashlight with SOS mode.Battery pack has IP67 water resistance.Solar panel has IPX4 water resistance.Lash points lets you easily attach the panel to a pack, tent or panniers.Includes Sport 25 power pack, Falcon 7 solar panel, USB-C to USB cable, female USB-C to micro USB adapter, 2 carabiners.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997930336286/5064561-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997930336286/5064561-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997930336286/5064561-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997930336286/5064561-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Power Traveller Sport 25 Solar Panel and Power Bank Kit",
+  "product_code": "5064-561",
+  "source_url": "https://www.mec.ca/en/product/5064-561/Sport-25-Solar-Panel-and-Power-Bank-Kit",
+  "tech_specs": {
+    "Batteries": [
+      "Lithium-ion 6700mAh (included)"
+    ],
+    "Charging level indicator": [
+      "Yes"
+    ],
+    "Folded dimensions": [
+      "17.9\u00a0x\u00a015.7\u00a0x\u00a04.1cm"
+    ],
+    "Ideal for": [
+      "Everyday use",
+      "Camping and hiking",
+      "Travel",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output voltage": [
+      "5volts"
+    ],
+    "USB Port\n\nHas a Type A USB port for charging your electronic devices.": [
+      "Yes"
+    ],
+    "Weight": [
+      "427g"
+    ]
+  }
+}

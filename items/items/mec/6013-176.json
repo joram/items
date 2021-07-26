@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Emergency and survival gear",
+    "Emergency blankets and bivies",
+    "Kids Poncho"
+  ],
+  "description": "Easy to toss in your pack for a rainy day. Light, compact and waterproof, this poncho is potential day saver.Made of lightweight polyethylene.Open dimensions are 76 x 102cm.Fits kids ages 6 and up.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167558705182/6013176-CLR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167558508574/6013176-CLR00-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167560507422/6013176-CLR00-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167558705182/6013176-CLR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167558508574/6013176-CLR00-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167560507422/6013176-CLR00-ALT-LIFESTYLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167558705182/6013176-CLR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167558508574/6013176-CLR00-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167560507422/6013176-CLR00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167558705182/6013176-CLR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167558508574/6013176-CLR00-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167560507422/6013176-CLR00-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Kids Poncho",
+  "product_code": "6013-176",
+  "source_url": "https://www.mec.ca/en/product/6013-176/Kids-Poncho",
+  "tech_specs": {
+    "Dimensions": [
+      "102\u00a0x\u00a076cm"
+    ],
+    "Fabric": [
+      "Polyethylene"
+    ],
+    "Ideal for": [
+      "Emergency preparedness",
+      "Travel",
+      "Day hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Stuff sack": [
+      "No"
+    ]
+  }
+}

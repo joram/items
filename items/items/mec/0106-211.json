@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Tent repair and maintenance",
+    "Snap Fastener Kit 8811"
+  ],
+  "description": "A kit for replacing or adding two-piece snaps. Ideal for attaching fabric covers to hard surfaces, such as canoe tarps.Eight nickel-plated, screw-in studs.Eight corresponding caps.One flaring tool.One setting base.Not designed for use on clothing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101536329758/0106211-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532463134/0106211-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101536329758/0106211-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532463134/0106211-NOC02-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101536329758/0106211-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532463134/0106211-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101536329758/0106211-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532463134/0106211-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Snap Fastener Kit 8811",
+  "product_code": "0106-211",
+  "source_url": "https://www.mec.ca/en/product/0106-211/Snap-Fastener-Kit-8811",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "34g"
+    ]
+  }
+}

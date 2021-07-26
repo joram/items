@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Batteries",
+    "Alkaline batteries",
+    "AAAA 2 Pack Batteries"
+  ],
+  "description": "A two-pack of AAAA batteries.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973432979486/5040960-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8973432979486/5040960-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Duracell AAAA 2 Pack Batteries",
+  "product_code": "5040-960",
+  "source_url": "https://www.mec.ca/en/product/5040-960/AAAA-2-Pack-Batteries",
+  "tech_specs": {
+    "Capacity": [
+      "550mAh"
+    ],
+    "Chemistry": [
+      "Alkaline"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Rechargeable": [
+      "No"
+    ],
+    "Size": [
+      "AAAA"
+    ]
+  }
+}

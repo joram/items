@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike cranksets",
+    "Next R Cranks"
+  ],
+  "description": "Chase a spot on the the podium with this premium carbon crankset.Made with superlight carbon crank arms, with a 7050 alloy spindle and 30mm spline.Broad compatibility with MTB bottom brackets, including BB, BSA and pressfit.Fits 24-42T Cinch DM chain rings.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9111076044830/6005762-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9111076044830/6005762-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Race Face Next R Cranks",
+  "product_code": "6005-762",
+  "source_url": "https://www.mec.ca/en/product/6005-762/Next-R-Cranks",
+  "tech_specs": {
+    "Ideal for": [
+      "Cross-country riding",
+      "Trail riding",
+      "Enduro"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "495g (170mm)"
+    ]
+  }
+}

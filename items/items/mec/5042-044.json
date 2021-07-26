@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Bike multi-tools",
+    "M19 Multi-Tool"
+  ],
+  "description": "A fully featured lightweight bike tool with 19 components, so you're covered for most road-side repairs.Frame is made of aluminum.Tools are high tensile steel.3 screwdrivers: phillips #1, #2 and flat #2.Chain tool compatible with 8/9/10/11/12 speed chains.Stainless steel carrying case included (weight of tool excludes case).Length is 89mm (closed).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806489751582/5042044-NKL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806489817118/5042044-NKL00adjustasperemail.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806489751582/5042044-NKL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806489817118/5042044-NKL00adjustasperemail.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806489751582/5042044-NKL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806489817118/5042044-NKL00adjustasperemail.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806489751582/5042044-NKL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806489817118/5042044-NKL00adjustasperemail.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Crankbrothers M19 Multi-Tool",
+  "product_code": "5042-044",
+  "source_url": "https://www.mec.ca/en/product/5042-044/M19-Multi-Tool",
+  "tech_specs": {
+    "Allen (hex) keys": [
+      "2mm",
+      "2.5mm",
+      "3mm",
+      "4mm",
+      "5mm",
+      "6mm",
+      "8mm"
+    ],
+    "Chain tool": [
+      "Yes"
+    ],
+    "Flathead (slot) screwdriver": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Road cycling",
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Open wrenches": [
+      "8mm",
+      "10mm"
+    ],
+    "Phillips (cross) driver": [
+      "Yes"
+    ],
+    "Spoke wrenches": [
+      "#3: 3.96mm (0.156in)",
+      "#2: 3.45mm (0.136in)",
+      "#1: 3.30mm (0.130in)",
+      "#0: 3.23mm (0.127in)"
+    ],
+    "Torx drivers": [
+      "T-10",
+      "T-25"
+    ],
+    "Weight": [
+      "175g"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Caps",
+    "Pops Hat"
+  ],
+  "description": "Soft, unstructured, and a classic look. What's not to like?Made of soft cotton.Adjustable snapback lets you dial in the perfect fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179615723550/6012428-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179615494174/6012428-KHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179615723550/6012428-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179615494174/6012428-KHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179615723550/6012428-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179615494174/6012428-KHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179615723550/6012428-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9179615494174/6012428-KHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ambler Pops Hat - Men's",
+  "product_code": "6012-428",
+  "source_url": "https://www.mec.ca/en/product/6012-428/Pops-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "100% cotton"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shorts, tights and pants",
+    "Sweatpants and joggers",
+    "Ponto Performance Pants"
+  ],
+  "description": "A super-soft pair of pants to wear for a training session or when you need to run a quick errand. A zippered rear pocket keeps your phone and some cash handy.Performance jersey fabric is breathable, moisture-wicking and stretchy for ease of movement.Elastic waistband with drawcord provides a snug fit.Zippered back pocket secures essentials.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018294272030/5062863-HTG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018927513630/5062863-HTG00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018927579166/5062863-HTG00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018928037918/5062863-HTG00-ALT-FRONTSTRETCH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018928103454/5062863-HTG00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018928234526/5062863-HTG00-ALT-SIDESTRETCH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047771512862/5062863-CHA01-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047772495902/5062863-CHA01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047772528670/5062863-CHA01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047782981662/5062863-CHA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018294272030/5062863-HTG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018927513630/5062863-HTG00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018927579166/5062863-HTG00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018928037918/5062863-HTG00-ALT-FRONTSTRETCH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018928103454/5062863-HTG00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018928234526/5062863-HTG00-ALT-SIDESTRETCH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047771512862/5062863-CHA01-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047772495902/5062863-CHA01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047772528670/5062863-CHA01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047782981662/5062863-CHA01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018294272030/5062863-HTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018927513630/5062863-HTG00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018927579166/5062863-HTG00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018928037918/5062863-HTG00-ALT-FRONTSTRETCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018928103454/5062863-HTG00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018928234526/5062863-HTG00-ALT-SIDESTRETCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047771512862/5062863-CHA01-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047772495902/5062863-CHA01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047772528670/5062863-CHA01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047782981662/5062863-CHA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018294272030/5062863-HTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018927513630/5062863-HTG00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018927579166/5062863-HTG00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018928037918/5062863-HTG00-ALT-FRONTSTRETCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018928103454/5062863-HTG00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9018928234526/5062863-HTG00-ALT-SIDESTRETCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047771512862/5062863-CHA01-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047772495902/5062863-CHA01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047772528670/5062863-CHA01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047782981662/5062863-CHA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vuori Ponto Performance Pants - Men's",
+  "product_code": "5062-863",
+  "source_url": "https://www.mec.ca/en/product/5062-863/Ponto-Performance-Pants",
+  "tech_specs": {
+    "Fabric content": [
+      "87% polyester",
+      "13% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "30in. (M)"
+    ],
+    "Ideal for": [
+      "Yoga and fitness",
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 front",
+      "1 back zippered"
+    ]
+  }
+}

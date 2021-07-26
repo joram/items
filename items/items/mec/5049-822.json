@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "The 11,000ers Of The Canadian Rockies 2nd Edi"
+  ],
+  "description": "This updated climber\u2019s guide and history of the 11,000-ft peaks in the Canadian Rockies captures the lively and frequently forgotten accounts of pioneering climbers. Each entry provides a vivid description of the peak, an extensive history of early ascents, and a detailed description of moderate to intermediate routes, including access and approach information. Includes contemporary and historical photos, area maps, updated routes and access information, and 4 new peaks for a total of 58.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815685861406/5049822-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815685861406/5049822-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Reference The 11,000ers Of The Canadian Rockies 2nd Edition",
+  "product_code": "5049-822",
+  "source_url": "https://www.mec.ca/en/product/5049-822/The-11%2C000ers-Of-The-Canadian-Rockies-2nd-Edi",
+  "tech_specs": {
+    "Author": [
+      "Bill Corbett"
+    ],
+    "Edition": [
+      "2nd"
+    ],
+    "ISBN": [
+      "9781771601320"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "288"
+    ],
+    "Photographer": [
+      "Bill Corbett"
+    ],
+    "Published": [
+      "2016"
+    ],
+    "Regionality": [
+      "Rockies"
+    ]
+  }
+}

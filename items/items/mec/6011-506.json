@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Southwest Alberta& Southeast British Columbi"
+  ],
+  "description": "Navigate your way to all the popular outdoor vacation destinations in Southwest Alberta and Southeast BC. Includes all major highways, secondary roads, parks, ski areas, campgrounds and points of interest. This map covers from Edmonton and Calgary south to the US border, west to Jasper National Park in the north and Castlegar and the BC Kootenays in the south.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089841627166/6011506-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089841627166/6011506-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Publishing Southwest Alberta & Southeast British Columbia Map",
+  "product_code": "6011-506",
+  "source_url": "https://www.mec.ca/en/product/6011-506/Southwest-Alberta%26-Southeast-British-Columbi",
+  "tech_specs": {
+    "Edition": [
+      "7th"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2020"
+    ],
+    "Regionality": [
+      "British Columbia",
+      "Rockies"
+    ],
+    "Scale": [
+      "1:500,000"
+    ],
+    "Tearproof": [
+      "No"
+    ],
+    "Waterproof": [
+      "No"
+    ]
+  }
+}

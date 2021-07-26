@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike cranksets",
+    "Carbon PowerBox (52/36) Crankset"
+  ],
+  "description": "Training with power is a great way to get stronger, faster. This crankset will help you do just that with its tried and true technology. By partnering with Power2Max, FSA made a reliable, precise power meter that won't break the bank. Carbon fiber crank arms bring the weight down and the spindle works with as many bikes as possible. Plus, ANT+ and Bluetooth Smart pair with pretty much every device around, so you can track your winter training on your phone and computer.Hollow carbon crankarms with UD carbon finish are light, stiff and stunning.Forged and then CNC machined AL6061 spider.BB386EVO 30mm spindle uses AL7050 aluminum and fits every frame with the correct bottom bracket.CNC machined chainrings are using AL7075.Power reading accuracy of +/- 2%.Active temperature compensation ensures reading remain accurate when the temperature changes.User replaceable battery is expected to last 300-400hrs, or 6000km to 12000km.Calibration is taken care of by Auto-Zero feature without you ever knowing.Accelerometer-based cadence doesn't require any magnets.Optimized for 11-speed systems. Compatible with Shimano and SRAM 10 and 11 speed drivetrains.Spider-based power sensors provide total power output measurement of both legs, with Left & Right leg output analysis.System firmware can be upgraded for a fee to include Pedal Smoothness and Torque.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9025576239134/6004032-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9025576239134/6004032-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "FSA Carbon PowerBox (52/36) Crankset",
+  "product_code": "6004-032",
+  "source_url": "https://www.mec.ca/en/product/6004-032/Carbon-PowerBox-%2852-36%29-Crankset",
+  "tech_specs": {
+    "Bottom bracket included": [
+      "No"
+    ],
+    "Compatibility": [
+      "11-speed",
+      "10-speed"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Length": [
+      "175mm (175mm)",
+      "170mm (170mm)",
+      "172.5mm (172.5 mm)"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Carbon"
+    ],
+    "Teeth": [
+      "52, 36"
+    ],
+    "Weight": [
+      "760g (172.5 mm)"
+    ]
+  }
+}

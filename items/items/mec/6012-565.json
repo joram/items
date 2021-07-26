@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Gloves and mittens",
+    "Gloves",
+    "P1 Liner Glove"
+  ],
+  "description": "Slide these smooth-faced gloves under your outer shells for warm hands in the backcountry. They're fast to dry and offer protection from wind and wet when worn alone.Active-sport\u00ae shell (175g/sqm) is wind resistant, breathable and quick to dry.Lined in Accu-dri\u00ae moisture-wicking micro-polyesterTouchscreen compatible inserts on thumbs and forefingers.Contoured wrists slide under your jacket or outer gloves.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138056429598/6012565-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138056429598/6012565-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kombi P1 Liner Glove - Men's",
+  "product_code": "6012-565",
+  "source_url": "https://www.mec.ca/en/product/6012-565/P1-Liner-Glove",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Antimicrobial treatment",
+      "Reflective details"
+    ],
+    "Ideal for": [
+      "Running, fitness and training",
+      "Snowsports",
+      "Camping and hiking"
+    ],
+    "Insulation": [
+      "Light"
+    ],
+    "Liner fabric": [
+      "100% polyester"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "88% polyester",
+      "12% elastane"
+    ],
+    "Touchscreen compatible": [
+      "Yes"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

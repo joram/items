@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Coolers and food storage",
+    "Food containers",
+    "Egg Holder 6 Egg Size"
+  ],
+  "description": "A super rugged plastic half-sack for six delicious, but delicate eggs. Useful for camping and kayaking.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101533085726/4009459-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532659742/4009459-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101533085726/4009459-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532659742/4009459-NOC02-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101533085726/4009459-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532659742/4009459-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101533085726/4009459-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532659742/4009459-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Egg Holder 6 Egg Size",
+  "product_code": "4009-459",
+  "source_url": "https://www.mec.ca/en/product/4009-459/Egg-Holder-6-Egg-Size",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Bear-resistant": [
+      "No"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Lid type": [
+      "Flip-top"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Polypropylene"
+    ],
+    "Weight": [
+      "200g"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling footwear",
+    "Shoe covers",
+    "Club Shoe Cover"
+  ],
+  "description": "Lightweight, waterproof and reflective, these shoe covers will keep your footwear clean and dry on wet commutes. Zippered rear closures and hook-and-loop ankle straps let you pop them on and off with ease, and the rugged nylon soles can be adapted to accommodate cleats.Made from waterproof Artex\u00ae fabric, with a tough nylon face.Cleat-adaptable design. Simply cut the sole with scissors to accommodate cleats.Zippered rear closure with adjustable hook and loop strap at ankle.Reflective details enhance visibility from all angles.As of 2020 Showers Pass is Climate Neutral certified, meaning they fully offset their carbon emissions. Climate Neutral certified is a consumer label that's carried by brands who take responsibility for greenhouse gas emissions generated in production, operation and shipping of  their goods and services.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050915045406/6003631-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921205790/6003631-BK000-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921369630/6003631-BK000-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921402398/6003631-BK000-ALT-LIFESTYLE3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921664542/6003631-BK000-ALT-LIFESTYLE4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050915045406/6003631-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921205790/6003631-BK000-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921369630/6003631-BK000-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921402398/6003631-BK000-ALT-LIFESTYLE3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921664542/6003631-BK000-ALT-LIFESTYLE4.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050915045406/6003631-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921205790/6003631-BK000-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921369630/6003631-BK000-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921402398/6003631-BK000-ALT-LIFESTYLE3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921664542/6003631-BK000-ALT-LIFESTYLE4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050915045406/6003631-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921205790/6003631-BK000-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921369630/6003631-BK000-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921402398/6003631-BK000-ALT-LIFESTYLE3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050921664542/6003631-BK000-ALT-LIFESTYLE4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Showers Pass Club Shoe Cover - Unisex",
+  "product_code": "6003-631",
+  "source_url": "https://www.mec.ca/en/product/6003-631/Club-Shoe-Cover",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Closure": [
+      "Zipper"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Main material": [
+      "Nylon",
+      "Polyurethane"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling bottoms",
+    "Bibshorts and bibtights",
+    "Attack Bib Shorts"
+  ],
+  "description": "A high-performance interface between the bike and your anatomy, these bib shorts set the standard for comfort and moisture transfer. The 8-panel cut is designed to fit closely and move as you move, without adding any resistance or pressure. The tailored chamois uses variable thickness padding and an ergonomic cut that relieves pressure points and allows air to circulate.Select Transfer Dry fabric is made of nylon and spandex, with a sun-protective rating of UPF 50+.Flat-locked seams for comfort.Select Persuit chamois uses breathable 4-way stretch material and shaped, variable-density padding, up to 13mm.Silicone leg grippers keep the legs in place.Reflective elements for low-light visibility.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075420856350/6007321-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075437568030/6007321-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075420856350/6007321-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075437568030/6007321-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075420856350/6007321-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075437568030/6007321-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075420856350/6007321-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075437568030/6007321-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pearl Izumi Attack Bib Shorts - Men's",
+  "product_code": "6007-321",
+  "source_url": "https://www.mec.ca/en/product/6007-321/Attack-Bib-Shorts",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Chamois": [
+      "Yes"
+    ],
+    "Fabric content": [
+      "86% nylon",
+      "14% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "9.25in. (M)"
+    ],
+    "Gripper elastic\n\nGripper elastics prevent the cycling shorts from riding up and leg and arm warmers from sliding down.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "None"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

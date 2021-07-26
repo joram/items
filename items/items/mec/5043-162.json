@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Bike service parts",
+    "Riot Chainguide Assembly Kit #KE0175"
+  ],
+  "description": "This is a parts kit for the chainguide assembly on your Ghost Riot.Kit includes: 1 x chainguide 53.8mm x 25.7mm x 5mm, 2 x washer \u00d84mm x \u00d89mm x 2mm, 2 x chainguide screw M4mm x 12mm x 7mm - T15, 1 x carbon looking foil carbon surface, 1 x CS aluminum protector.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807000342558/5043162-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807000342558/5043162-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ghost Riot Chainguide Assembly Kit #KE0175",
+  "product_code": "5043-162",
+  "source_url": "https://www.mec.ca/en/product/5043-162/Riot-Chainguide-Assembly-Kit-%23KE0175",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking",
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

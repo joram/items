@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid supplies",
+    "2nd Skin Blister Pads (5 Pack)"
+  ],
+  "description": "Despite your best efforts at prevention, blisters can happen. If they do, these soft, self-adhesive pads stay in place up to five days to protect afflicted areas as they heal.Made of sterile, soft, hydrocolloid material.Pack of five.Each pad is 60 x 45mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8891097219102/5019708-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8891097219102/5019708-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Spenco 2nd Skin Blister Pads (5 Pack) - Unisex",
+  "product_code": "5019-708",
+  "source_url": "https://www.mec.ca/en/product/5019-708/2nd-Skin-Blister-Pads-%285-Pack%29",
+  "tech_specs": {
+    "Ideal for": [
+      "Running",
+      "Backpacking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "30g"
+    ]
+  }
+}

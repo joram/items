@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike baskets",
+    "Cento Rear Centre Basket"
+  ],
+  "description": "This elegant basket bolts to the top of your rear rack. On weekdays, let it take the weight of your pack off your back. On weekends, load it with snacks and ride to your favourite picnic spot.Made of painted steel mesh with a strengthened frame.Fixed mounting to rear rack with included hardware.Cutout for seat clearance.Dimensions are 30 x 51 x 20cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806352617502/5026791-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806352617502/5026791-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Basil Cento Rear Centre Basket",
+  "product_code": "5026-791",
+  "source_url": "https://www.mec.ca/en/product/5026-791/Cento-Rear-Centre-Basket",
+  "tech_specs": {
+    "Attachment type": [
+      "Bracket"
+    ],
+    "Dimensions": [
+      "51\u00a0x\u00a030\u00a0x\u00a020cm"
+    ],
+    "Ideal for": [
+      "Urban cycling",
+      "Cycle commuting"
+    ],
+    "Light/reflector bracket": [
+      "No"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Steel"
+    ],
+    "Mounting position": [
+      "Rear"
+    ],
+    "Weight": [
+      "1.43kg"
+    ]
+  }
+}

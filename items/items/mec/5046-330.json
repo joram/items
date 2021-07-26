@@ -1,0 +1,76 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Camp stoves and grills",
+    "Car camping stoves",
+    "Profile Stove Dual"
+  ],
+  "description": "Run the best burger stand at basecamp. With a grill on one side and a regular burner on the other, the Duo lets you barbeque perfect patties while heating side dishes or pots of water.Removable BBQ grill tray has a non-stick coating for easier cleaning.Stainless steel drip tray keeps the bottom clean.Piezoelectric ignitor means no fumbling for matches or lighters.Burns propane canisters. Adapter and hoses for larger propane bottles, such as those used for barbecues, can also purchased at hardware stores.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812664815646/5046330-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812664815646/5046330-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Primus Profile Stove Dual",
+  "product_code": "5046-330",
+  "source_url": "https://www.mec.ca/en/product/5046-330/Profile-Stove-Dual",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Drip tray"
+    ],
+    "Boil time\n\nThe average time it takes to boil 1L of water. Wind, air temperature and elevation will affect boil time in the field.": [
+      "3\u00a0min"
+    ],
+    "Burner components": [
+      "Steel",
+      "Brass"
+    ],
+    "Cooking surface(s)": [
+      "Grill",
+      "One burner"
+    ],
+    "Dimensions": [
+      "59\u00a0x\u00a012\u00a0x\u00a032cm"
+    ],
+    "Fuel\n\nStoves are designed to burn specific fuels. All stoves should only be used with recommended fuels to prevent damage.": [
+      "Propane"
+    ],
+    "Fuel pump\n\nLiquid fuel stoves require a fuel pump to pressurize the fuel tank.": [
+      "No"
+    ],
+    "Heat reflector\n\nHeat reflectors are placed under the burner and reflect heat back up towards the cooking pot. This helps save fuel and speed cooking time.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output\n\nThe output of any heat generating device is shown in BTUs (British Thermal Units) which measure the amount of heat energy needed to raise the temperature of 1lb. of water by 1\u00b0F.": [
+      "12,000BTU"
+    ],
+    "Piezo ignition": [
+      "Yes"
+    ],
+    "Pot included": [
+      "No"
+    ],
+    "Simmers": [
+      "Yes"
+    ],
+    "Weight": [
+      "5.6kg"
+    ],
+    "Windscreen": [
+      "Yes"
+    ]
+  }
+}

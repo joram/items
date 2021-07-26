@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Sunglasses",
+    "Straps, cleaning and cases",
+    "Small Hard Sunglasses Case"
+  ],
+  "description": "Keep your sunnies safe when they\u2019re not on your head. This hard case protects your glasses from the perils faced at the bottom of a pack, handbag, or glovebox.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034578722846/6000546-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034578722846/6000546-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Small Hard Sunglasses Case",
+  "product_code": "6000-546",
+  "source_url": "https://www.mec.ca/en/product/6000-546/Small-Hard-Sunglasses-Case",
+  "tech_specs": {
+    "Dimensions": [
+      "15.8\u00a0x\u00a08\u00a0x\u00a05.5cm"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

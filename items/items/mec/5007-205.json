@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Dry suits, tops and pants",
+    "Dry suit tops",
+    "Gore-Tex Rogue Dry Top"
+  ],
+  "description": "Arguably the most technologically advanced drytop around. Tough yet supple, sexy yet utilitarian, it's a true blend of all things good.Body is GORE-TEX\u00ae 3.2oz. Evolution fabric.Side panels and sprayskirt tunnel are GORE-TEX XCR\u00ae for maximum breathability, comfort, and mobility.Dual-adjustable neoprene outer skirt incorporates hook-and-loop-compatible neoprene for unhindered stretch.Shoulders, elbows, and forearms are reinforced with GORE-TEX Cordura\u00ae.Self-draining Super Stretch neoprene neck and wrist cuffs.Self-draining chest pocket.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026549383198/5007205-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026568650782/5007205-RED00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026549383198/5007205-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026568650782/5007205-RED00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026549383198/5007205-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026568650782/5007205-RED00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026549383198/5007205-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026568650782/5007205-RED00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kokatat Gore-Tex Rogue Dry Top - Men's",
+  "product_code": "5007-205",
+  "source_url": "https://www.mec.ca/en/product/5007-205/Gore-Tex-Rogue-Dry-Top",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Face fabric": [
+      "Nylon"
+    ],
+    "Ideal for": [
+      "Kayak touring",
+      "Whitewater kayaking",
+      "Ocean play kayaking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pockets": [
+      "1 external chest"
+    ],
+    "Weight": [
+      "725g (Medium)"
+    ]
+  }
+}

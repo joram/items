@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Madawaska River& Opeongo River Whitewater Gu"
+  ],
+  "description": "Aimed at experienced canoeists, this guide features detailed maps of both rivers, with portages and river conditions. It also includes tips on equipment, paddling and repairs. Spiral binding sits flat for easy map viewing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815581823006/4006590-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815581823006/4006590-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Madawaska River & Opeongo River Whitewater Guide",
+  "product_code": "4006-590",
+  "source_url": "https://www.mec.ca/en/product/4006-590/Madawaska-River%26-Opeongo-River-Whitewater-Gu",
+  "tech_specs": {
+    "Author": [
+      "George Drought"
+    ],
+    "ISBN": [
+      "9781894993661"
+    ],
+    "Ideal for": [
+      "Canoeing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "1996"
+    ],
+    "Regionality": [
+      "Ontario"
+    ]
+  }
+}

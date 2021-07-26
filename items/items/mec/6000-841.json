@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fire pits and accessories",
+    "Bonfire Stand"
+  ],
+  "description": "Use your Bonfire Fire Pit on heat sensitive surfaces like wood decks and patios.Made of 304 stainless steel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028949966878/6000841-STA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028949966878/6000841-STA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Solo Stove Bonfire Stand",
+  "product_code": "6000-841",
+  "source_url": "https://www.mec.ca/en/product/6000-841/Bonfire-Stand",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

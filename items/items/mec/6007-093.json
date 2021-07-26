@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Button up shirts and polos",
+    "Cayman Shirt"
+  ],
+  "description": "A classic button-down, engineered for adventure. The breathable polyester  keeps you cool when the temperatures soar, and it dries quickly when you do laundry on the road too.Lightweight blend of recycled polyester and polyester wicks away moisture.Drop-in chest pockets secure with button flaps.Shirttail hemline fits well under a backpack and looks good either tucked in or untucked.Regular fit wears like an old fave.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080072208414/6007093-NAU03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080061984798/6007093-NAU03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080062083102/6007093-NAU03-ALT-COLLAR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789962782/6007093-CHA00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168790192158/6007093-CHA00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168790257694/6007093-CHA00-ALT-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168963928094/6007093-CHA00-ALT-ZFLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789766174/6007093-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080072208414/6007093-NAU03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080061984798/6007093-NAU03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080062083102/6007093-NAU03-ALT-COLLAR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789962782/6007093-CHA00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168790192158/6007093-CHA00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168790257694/6007093-CHA00-ALT-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168963928094/6007093-CHA00-ALT-ZFLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789766174/6007093-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080072208414/6007093-NAU03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080061984798/6007093-NAU03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080062083102/6007093-NAU03-ALT-COLLAR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789962782/6007093-CHA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168790192158/6007093-CHA00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168790257694/6007093-CHA00-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168963928094/6007093-CHA00-ALT-ZFLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789766174/6007093-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080072208414/6007093-NAU03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080061984798/6007093-NAU03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9080062083102/6007093-NAU03-ALT-COLLAR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789962782/6007093-CHA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168790192158/6007093-CHA00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168790257694/6007093-CHA00-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168963928094/6007093-CHA00-ALT-ZFLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168789766174/6007093-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Cayman Shirt - Men's",
+  "product_code": "6007-093",
+  "source_url": "https://www.mec.ca/en/product/6007-093/Cayman-Shirt",
+  "tech_specs": {
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ]
+  }
+}

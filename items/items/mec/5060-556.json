@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Trailboost Merino Crew Socks"
+  ],
+  "description": "Your tired feet deserve a boost of comfort and performance. These midweight cushioned socks use a nylon, merino blend to keep your feet dry and comfy on short hikes or long backpacking trips.Nylon, merino wool and spandex wick moisture to keep your feet comfortable.Merino wool is naturally antimicrobial and keeps your feet warm in the cold and cool in the warmth.Anti-slip leg and seamless construction ensure no bunching or blisters.Cushioned toe and heel keep you going kilometre after kilometre.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9019431256094/5060556-LIG37.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9019431256094/5060556-LIG37.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Trailboost Merino Crew Socks - Women's",
+  "product_code": "5060-556",
+  "source_url": "https://www.mec.ca/en/product/5060-556/Trailboost-Merino-Crew-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "63% nylon",
+      "35% merino wool",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking"
+    ],
+    "Made in": [
+      "Colombia"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

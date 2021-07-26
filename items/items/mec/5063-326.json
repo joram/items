@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Climbing books",
+    "Guidebooks",
+    "Skaha Climbing"
+  ],
+  "description": "Skaha Climbing is a comprehensive guide to the cliffs in Penticton\u2019s Skaha Bluffs and an essential tool for climbers living in BC, Alberta and Washington. Skaha Bluffs contains over 1,000 single-pitch face climbs and boasts a warm, dry climate that provides predictable conditions in a user-friendly provincial park.All of the newest crags are included in this guide, as well as valuable travelling information for climbers coming from afar. In the spring and fall, Skaha is one of Western Canada\u2019s best places to rock climb!",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986380632094/5063326-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986380632094/5063326-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Skaha Climbing",
+  "product_code": "5063-326",
+  "source_url": "https://www.mec.ca/en/product/5063-326/Skaha-Climbing",
+  "tech_specs": {
+    "Author": [
+      "Marc Bourdon"
+    ],
+    "ISBN": [
+      "9780987779694"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Hong Kong"
+    ],
+    "Pages": [
+      "316"
+    ],
+    "Published": [
+      "2018"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

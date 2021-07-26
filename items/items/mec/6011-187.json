@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Replacement skins",
+    "Kit Skin - Grind Adaptor"
+  ],
+  "description": "Maintain the integrity of your skin zone when stone grinding.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146522828830/6011187-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146522828830/6011187-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Kit Skin - Grind Adaptor",
+  "product_code": "6011-187",
+  "source_url": "https://www.mec.ca/en/product/6011-187/Kit-Skin---Grind-Adaptor",
+  "tech_specs": {
+    "Ideal for": [
+      "Cross-country classic skiing"
+    ],
+    "Made in": [
+      "Bulgaria"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Casual boots",
+    "Low-Rider Chelsea Boots"
+  ],
+  "description": "Slip-on Chelsea booties that look great with a cuffed jean. Comfort with classic lines, these Low-Rider Chelsea boots use a premium leather that are comfy from step one and get even better with a little wear.Rugged unlined leather upper looks great and wears in well.Leather lined memory foam insole is comfy, supportive and removeable if you want to add your own insole.Grippy rubber outsole is right at home on slick side walks and wet train platforms.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085239132190/6007900-FSS07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085674651678/6007900-FSS07-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085674815518/6007900-FSS07-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085239132190/6007900-FSS07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085674651678/6007900-FSS07-ALT-LATERAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085674815518/6007900-FSS07-ALT-SOLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085239132190/6007900-FSS07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085674651678/6007900-FSS07-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085674815518/6007900-FSS07-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085239132190/6007900-FSS07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085674651678/6007900-FSS07-ALT-LATERAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085674815518/6007900-FSS07-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kodiak Low-Rider Chelsea Boots - Women's",
+  "product_code": "6007-900",
+  "source_url": "https://www.mec.ca/en/product/6007-900/Low-Rider-Chelsea-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

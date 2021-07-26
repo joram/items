@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Showers, soap & travel toothbrushes",
+    "CampSuds Nalgene 118ml"
+  ],
+  "description": "Because it is so highly concentrated, only a few drops of Campsuds are needed for most cleaning tasks. The sturdy, leak-proof Nalgene\u00ae bottle is reusable.Contains purified water and vegetable-based biodegradable anionic and non-ionic cleaning agents.Effective in hot or cold water \u2013 and salt water, too!No animal ingredients or petroleum oils.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809969549342/4015090-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809969549342/4015090-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sierra Dawn CampSuds Nalgene 118ml",
+  "product_code": "4015-090",
+  "source_url": "https://www.mec.ca/en/product/4015-090/CampSuds-Nalgene-118ml",
+  "tech_specs": {
+    "Biodegradable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Suitable for use in salt water": [
+      "Yes"
+    ],
+    "Volume": [
+      "0.118L"
+    ],
+    "Weight": [
+      "155g"
+    ]
+  }
+}

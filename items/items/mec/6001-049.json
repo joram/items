@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Eating utensils and cutlery sets",
+    "Spork Original BIO-Plastic"
+  ],
+  "description": "1 utensil. 3 functions. Bio-friendly. It's a knife, it's a fork, it's a spoon. Just the thing for picnics or ultra-light dining.Made of a corn-based co-polyester that won't scratch non-stick coatings.Durable design to withstand aggressive eaters.Dishwasher safe.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168635854878/6001049-SGN10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168636608542/6001049-RSO01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168635166750/6001049-MYY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168635035678/6001049-DPK10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168635854878/6001049-SGN10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168636608542/6001049-RSO01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168635166750/6001049-MYY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168635035678/6001049-DPK10.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168635854878/6001049-SGN10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168636608542/6001049-RSO01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168635166750/6001049-MYY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168635035678/6001049-DPK10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168635854878/6001049-SGN10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168636608542/6001049-RSO01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168635166750/6001049-MYY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168635035678/6001049-DPK10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Light My Fire Spork Original BIO-Plastic",
+  "product_code": "6001-049",
+  "source_url": "https://www.mec.ca/en/product/6001-049/Spork-Original-BIO-Plastic",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Heat resistant": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Length": [
+      "17cm"
+    ],
+    "Made in": [
+      "Sweden"
+    ],
+    "Material": [
+      "Co-polyester"
+    ]
+  }
+}

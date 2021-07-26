@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Headlamps and lighting",
+    "Bulbs and accessories",
+    "Stretch Lite Holster"
+  ],
+  "description": "A universal flashlight holster. The sides stretch to fit most sizes and shapes of flashlights.The super-strong flex clip rotates 360 degrees and locks in eight positions, allowing for hands-free use.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813235961886/5016840-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813235961886/5016840-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nite Ize Stretch Lite Holster",
+  "product_code": "5016-840",
+  "source_url": "https://www.mec.ca/en/product/5016-840/Stretch-Lite-Holster",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "85g"
+    ]
+  }
+}

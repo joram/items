@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Canada by Bicycle"
+  ],
+  "description": "Whether you are cycling across Canada or just biking through a province or two, this guidebook presents detailed maps and all of the information that you need to explore the country by bicycle. Author and veteran cycle tourist Steve Langston shares his expert advice and a 72-day itinerary to get you prepared for your pannier-filled journey.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815607382046/5023201-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815607382046/5023201-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Canada by Bicycle",
+  "product_code": "5023-201",
+  "source_url": "https://www.mec.ca/en/product/5023-201/Canada-by-Bicycle",
+  "tech_specs": {
+    "Author": [
+      "Steve Langston"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9780981242811"
+    ],
+    "Ideal for": [
+      "Cycle touring and bikepacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "252"
+    ],
+    "Published": [
+      "2010"
+    ]
+  }
+}

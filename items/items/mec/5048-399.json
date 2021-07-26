@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Hub, axle and cone wrenches",
+    "SS-15 Single Speed Spanner"
+  ],
+  "description": "This single speeded favourite is compact and strong. At 17cm, it's ideal for carrying around or wrenching in the garage.Includes 15mm socket wrench for axle nuts, 15mm open wrench for pedals.Doubles as a tire lever and can be relied on for bottle openning.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806517735454/5048399-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806517899294/5048399-NOC02-ALT-USE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806517735454/5048399-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806517899294/5048399-NOC02-ALT-USE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806517735454/5048399-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806517899294/5048399-NOC02-ALT-USE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806517735454/5048399-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806517899294/5048399-NOC02-ALT-USE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool SS-15 Single Speed Spanner",
+  "product_code": "5048-399",
+  "source_url": "https://www.mec.ca/en/product/5048-399/SS-15-Single-Speed-Spanner",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

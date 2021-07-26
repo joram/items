@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike chains",
+    "CN-HG40 6/7/8 Speed Chain"
+  ],
+  "description": "Keep your bike happy by replacing its chain when it's time. This Shimano chain is designed for 6-, 7- and 8-speed bikes.Compatible with HG (Hyper Glide) cassettes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047272226846/6006386-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047272226846/6006386-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano CN-HG40 6/7/8 Speed Chain",
+  "product_code": "6006-386",
+  "source_url": "https://www.mec.ca/en/product/6006-386/CN-HG40-6-7-8-Speed-Chain",
+  "tech_specs": {
+    "Compatibility": [
+      "8-speed",
+      "7-speed",
+      "6-speed"
+    ],
+    "Ideal for": [
+      "Bike maintenance",
+      "Road cycling",
+      "Mountain biking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Number of links": [
+      "116"
+    ]
+  }
+}

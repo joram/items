@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tool components",
+    "X-Dream Adze"
+  ],
+  "description": "Swap out the hammer for an adze on a Cassin X Ice Tool.Compatible with the new X-Dream Ice Pick and X-Dream Mixte Pick.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060413112350/6005212-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9060413112350/6005212-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp X-Dream Adze",
+  "product_code": "6005-212",
+  "source_url": "https://www.mec.ca/en/product/6005-212/X-Dream-Adze",
+  "tech_specs": {
+    "Ideal for": [
+      "Ice climbing",
+      "Alpine climbing and mountaineering"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Weight": [
+      "46g"
+    ]
+  }
+}

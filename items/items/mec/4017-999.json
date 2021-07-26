@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Fixed protection",
+    "Rocpecker Hand Drill"
+  ],
+  "description": "The Rocpecker eliminates the need for fastening collettes or pins that can compromise reliability. The design simply imitates the SDS function found on power drills. Just slide the drill bit into the chuck, and you\u2019re ready to go.Short for less levering.Takes any SDS-compatible bits with shanks up to 0.5 in.Leash included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807421902878/4017999-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807421902878/4017999-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Rocpecker Hand Drill",
+  "product_code": "4017-999",
+  "source_url": "https://www.mec.ca/en/product/4017-999/Rocpecker-Hand-Drill",
+  "tech_specs": {
+    "Ideal for": [
+      "Outdoor route building"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Weight": [
+      "198g"
+    ]
+  }
+}

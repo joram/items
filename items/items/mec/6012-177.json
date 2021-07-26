@@ -1,0 +1,80 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shorts, tights and pants",
+    "Running and training shorts",
+    "Tierra Adventure Shorts"
+  ],
+  "description": "Durable and stretchy shorts for when warm-weather adventures call. Just enough pockets keep your trail essentials close at hand.Lightweight nylon and spandex moves with you.Side slits vent heat and allow unrestricted movement.Mid-rise waist provides coverage.Cotopaxi designates 1% of their revenue to provide grants for non-profits.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526621726/6012177-TER04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162524721182/6012177-TER04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162524852254/6012177-TER04-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162524983326/6012177-TER04-ALT-ZDETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162525081630/6012177-TER04-ALT-ZDETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526949406/6012177-TER04-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526359582/6012177-IND00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526425118/6012177-IND00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526294046/6012177-IND00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526621726/6012177-TER04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162524721182/6012177-TER04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162524852254/6012177-TER04-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162524983326/6012177-TER04-ALT-ZDETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162525081630/6012177-TER04-ALT-ZDETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526949406/6012177-TER04-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526359582/6012177-IND00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526425118/6012177-IND00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526294046/6012177-IND00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526621726/6012177-TER04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162524721182/6012177-TER04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162524852254/6012177-TER04-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162524983326/6012177-TER04-ALT-ZDETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162525081630/6012177-TER04-ALT-ZDETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526949406/6012177-TER04-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526359582/6012177-IND00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526425118/6012177-IND00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526294046/6012177-IND00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526621726/6012177-TER04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162524721182/6012177-TER04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162524852254/6012177-TER04-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162524983326/6012177-TER04-ALT-ZDETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162525081630/6012177-TER04-ALT-ZDETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526949406/6012177-TER04-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526359582/6012177-IND00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526425118/6012177-IND00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162526294046/6012177-IND00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Cotopaxi Tierra Adventure Shorts - Women's",
+  "product_code": "6012-177",
+  "source_url": "https://www.mec.ca/en/product/6012-177/Tierra-Adventure-Shorts",
+  "tech_specs": {
+    "Fabric content": [
+      "85% nylon",
+      "15% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "125gsm"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "3in. (M)"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Running"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Pockets": [
+      "2 side",
+      "1 side zippered"
+    ]
+  }
+}

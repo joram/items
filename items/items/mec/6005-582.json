@@ -1,0 +1,69 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Hoodies and sweaters",
+    "Sweaters",
+    "Celena Top"
+  ],
+  "description": "Wrap yourself in comfort with this luxuriously soft French terry knit.Polyester, lyocell and spandex knit has a comfortable stretch, dries quickly and uses wicking drirelease\u00ae lyocell.Rib knit insert at the center back and cuffs.UPF 50+ UV protection.Hidden snaps and subtle tie closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089350041630/6005582-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085881155614/6005582-BK000-ALT-SLEEVE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089354465310/6005582-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089354760222/6005582-BK000-ALT-SIDECUT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089354825758/6005582-BK000-ALT-SLEEVE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089350041630/6005582-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085881155614/6005582-BK000-ALT-SLEEVE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089354465310/6005582-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089354760222/6005582-BK000-ALT-SIDECUT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089354825758/6005582-BK000-ALT-SLEEVE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089350041630/6005582-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085881155614/6005582-BK000-ALT-SLEEVE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089354465310/6005582-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089354760222/6005582-BK000-ALT-SIDECUT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089354825758/6005582-BK000-ALT-SLEEVE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089350041630/6005582-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085881155614/6005582-BK000-ALT-SLEEVE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089354465310/6005582-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089354760222/6005582-BK000-ALT-SIDECUT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089354825758/6005582-BK000-ALT-SLEEVE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Indyeva Celena Top - Women's",
+  "product_code": "6005-582",
+  "source_url": "https://www.mec.ca/en/product/6005-582/Celena-Top",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Thumb loops"
+    ],
+    "Fabric content": [
+      "81% polyester",
+      "11% lyocell",
+      "8% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "300gsm"
+    ],
+    "Hood": [
+      "Adjustable"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Pockets": [
+      "2 front"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

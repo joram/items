@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Ropes, cords and slings",
+    "Static ropes and cord",
+    "TRC 6mm Tag Line"
+  ],
+  "description": "A lightweight line for getting in full-length rappels or to rig a haul line. Rapping with different diameter ropes is an advanced climbing skill, so make sure you have proper training for safe use.75m length.6mm diameter.Nylon core protected by a Technora sheath is highly cut- and abrasion-resistant.Warning: It's not a dynamic rope. Don't use it for climbing. Don't lead with it. Don't use it for top roping.Another warning: Use caution when rappelling with two different diameter ropes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8947765706782/5052834-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8947765706782/5052834-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sterling Rope TRC 6mm Tag Line",
+  "product_code": "5052-834",
+  "source_url": "https://www.mec.ca/en/product/5052-834/TRC-6mm-Tag-Line",
+  "tech_specs": {
+    "Diameter": [
+      "6mm"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing"
+    ],
+    "Length": [
+      "75m"
+    ],
+    "Linear weight": [
+      "28g/m"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Static elongation\n\nIn controlled tests, a weight is suspended from the rope (not dropped). Higher numbers indicate stretchier ropes.": [
+      "5.4%"
+    ],
+    "Tensile strength": [
+      "1580kg"
+    ],
+    "Type": [
+      "Static"
+    ],
+    "Weight": [
+      "2.07kg"
+    ]
+  }
+}

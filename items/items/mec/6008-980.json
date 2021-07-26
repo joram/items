@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shorts, tights and pants",
+    "Yoga pants",
+    "High Rise Compressive 28\" Leggings"
+  ],
+  "description": "These tights are made sustainably from plastic bottles, diverting 25 water bottles from landfills. The compressive fabric and paneled design supports your lower body though high-impact workouts.Compressive fabric with 4-way stretch.High waist with wide waistband provides extra coverage.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190927859742/6008980-TAR04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189829410846/6008980-TAR04-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189829869598/6008980-TAR04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190511771678/6008980-TAR04-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146498580510/6008980-PLU00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146502676510/6008980-PLU00-ALT-MODELBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146503036958/6008980-PLU00-ALT-MODELFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146004635678/6008980-PLU00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096264974366/6008980-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190927859742/6008980-TAR04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189829410846/6008980-TAR04-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189829869598/6008980-TAR04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190511771678/6008980-TAR04-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146498580510/6008980-PLU00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146502676510/6008980-PLU00-ALT-MODELBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146503036958/6008980-PLU00-ALT-MODELFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146004635678/6008980-PLU00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096264974366/6008980-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190927859742/6008980-TAR04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189829410846/6008980-TAR04-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189829869598/6008980-TAR04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190511771678/6008980-TAR04-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146498580510/6008980-PLU00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146502676510/6008980-PLU00-ALT-MODELBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146503036958/6008980-PLU00-ALT-MODELFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146004635678/6008980-PLU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096264974366/6008980-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190927859742/6008980-TAR04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189829410846/6008980-TAR04-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189829869598/6008980-TAR04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9190511771678/6008980-TAR04-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146498580510/6008980-PLU00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146502676510/6008980-PLU00-ALT-MODELBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146503036958/6008980-PLU00-ALT-MODELFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146004635678/6008980-PLU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096264974366/6008980-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Girlfriend Collective High Rise Compressive 28\" Leggings - Women's",
+  "product_code": "6008-980",
+  "source_url": "https://www.mec.ca/en/product/6008-980/High-Rise-Compressive-28%22-Leggings",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "High waist cut"
+    ],
+    "Fabric content": [
+      "79% recycled polyester",
+      "21% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "28.5in. (M)"
+    ],
+    "Ideal for": [
+      "Yoga and fitness",
+      "Running"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

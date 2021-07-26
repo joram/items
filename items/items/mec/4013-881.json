@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Fenders",
+    "Dirt Board Cycling Fender"
+  ],
+  "description": "No more spray lines on your fancy cycling jacket with this wide fender. Easy-to-use over-center clip makes it easy to take on and off quickly.Wide coverageArticulating adjustable angle.Fits any size seat tube.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806382370846/4013881-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806382370846/4013881-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SKS Dirt Board Cycling Fender",
+  "product_code": "4013-881",
+  "source_url": "https://www.mec.ca/en/product/4013-881/Dirt-Board-Cycling-Fender",
+  "tech_specs": {
+    "Attachment type": [
+      "Clip-on"
+    ],
+    "Fits tires": [
+      "All"
+    ],
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Material": [
+      "Plastic"
+    ],
+    "Sold": [
+      "Single Rear"
+    ],
+    "V-stays": [
+      "No"
+    ],
+    "Weight": [
+      "140g"
+    ]
+  }
+}

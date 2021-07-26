@@ -1,0 +1,67 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Frying pans",
+    "Alpha Pan"
+  ],
+  "description": "Impress your camp-mates with a gourmet grilled cheese or a spicy stir-fry. The hard-anodized aluminum is uber-durable so you'll be flipping flapjacks on it for many adventures. Since the non-stick coating disperses heat evenly, you're less likely to burn your meal too.Lightweight hard-anodized aluminum is simple to clean.Non-stick coating is abrasion-resistant and distributes heat for even cooking.Flip-up handle has silicone grip for easy handling and folds underneath pan for transport.Textured base keeps pot secure on camp stoves.Nests with Sea to Summit Alpha pots.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016963399710/5062667-ALU00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017087721502/5062667-ALU00-ALT-NESTSWITHPOT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017087918110/5062667-ALU00-ALT-FOLDHANDLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017088081950/5062667-ALU00-ALT-8IN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016963399710/5062667-ALU00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017087721502/5062667-ALU00-ALT-NESTSWITHPOT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017087918110/5062667-ALU00-ALT-FOLDHANDLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017088081950/5062667-ALU00-ALT-8IN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016963399710/5062667-ALU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017087721502/5062667-ALU00-ALT-NESTSWITHPOT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017087918110/5062667-ALU00-ALT-FOLDHANDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017088081950/5062667-ALU00-ALT-8IN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9016963399710/5062667-ALU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017087721502/5062667-ALU00-ALT-NESTSWITHPOT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017087918110/5062667-ALU00-ALT-FOLDHANDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017088081950/5062667-ALU00-ALT-8IN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sea To Summit Alpha Pan",
+  "product_code": "5062-667",
+  "source_url": "https://www.mec.ca/en/product/5062-667/Alpha-Pan",
+  "tech_specs": {
+    "Dimensions": [
+      "20.3\u00a0x\u00a04.4cm (8\")",
+      "25.4\u00a0x\u00a04.4cm (10\")"
+    ],
+    "Foldable handle": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Cycle touring and bikepacking"
+    ],
+    "Includes": [
+      "1 frying pan"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Hard-anodized aluminum"
+    ],
+    "Non-stick": [
+      "Yes"
+    ],
+    "Weight": [
+      "245g (8\")",
+      "335g (10\")"
+    ]
+  }
+}

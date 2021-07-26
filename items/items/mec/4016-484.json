@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "50mm Plasti-Metallic Hook"
+  ],
+  "description": "Plasti-metallic hook. Use with 50mm webbing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815561015326/4016484-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815561015326/4016484-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DuraFlex 50mm Plasti-Metallic Hook",
+  "product_code": "4016-484",
+  "source_url": "https://www.mec.ca/en/product/4016-484/50mm-Plasti-Metallic-Hook",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "10g"
+    ]
+  }
+}

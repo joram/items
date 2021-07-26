@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Sandals",
+    "Casual sandals",
+    "Yucatan Offroad Sandals"
+  ],
+  "description": "Comfortable sandals with capable tread. The understated nubuck leather upper fits right in at backyard BBQs, and the soft neoprene lining adds a level of comfort that lets you hang out til the very end. The microfibre lining in the footbed keeps feet feeling fresh no matter how long you spend on them, and the tough rubber outsole lets you head off the beaten path if you want to.Soft nubuck upper is lined with neoprene for a soft, comfortable feel.Three point hook-and-loop adjustment system lets you dial the fit.Lightweight EVA footbed is lined with microfibre to help keep your feet fresh and cool.Durable rubber outsole offers traction on a variety of surfaces.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024996507678/5062424-TAM01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026090860574/5062424-TAM01-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024996507678/5062424-TAM01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026090860574/5062424-TAM01-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024996507678/5062424-TAM01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026090860574/5062424-TAM01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024996507678/5062424-TAM01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9026090860574/5062424-TAM01-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ecco Yucatan Offroad Sandals - Men's",
+  "product_code": "5062-424",
+  "source_url": "https://www.mec.ca/en/product/5062-424/Yucatan-Offroad-Sandals",
+  "tech_specs": {
+    "Closure": [
+      "Hook-and-loop"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Portugal"
+    ],
+    "Removable insole": [
+      "No"
+    ],
+    "Upper material": [
+      "Suede",
+      "Rubber"
+    ]
+  }
+}

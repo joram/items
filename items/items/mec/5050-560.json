@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike derailleurs",
+    "Derailleur hangers, pulley wheels and parts",
+    "Derailleur Hanger #731HGEX"
+  ],
+  "description": "A rear derailleur hanger for Cinelli bikes.Fits the 2016 Cinelli Zydeco.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8843111170078/5050560-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8843111235614/5050560-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8843111170078/5050560-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8843111235614/5050560-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8843111170078/5050560-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8843111235614/5050560-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8843111170078/5050560-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8843111235614/5050560-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Cinelli Derailleur Hanger #731HGEX",
+  "product_code": "5050-560",
+  "source_url": "https://www.mec.ca/en/product/5050-560/Derailleur-Hanger-%23731HGEX",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Italy"
+    ]
+  }
+}

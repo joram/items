@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Long sleeved shirts",
+    "All Day Essentials Mock Neck T-Shirt"
+  ],
+  "description": "The distinctly retro vibe of a mock neck pairs well with high-waisted jeans. Our All Day Essentials line packs well, dries quickly and has bluesign\u00ae approved odour control, letting you skip a laundry day or two.Polyester, spandex blend wicks sweat, dries quickly and holds its shape over time.Active odour control lets you go a couple extra days between washes, great for travel.UPF 30 helps block UV.Cropped length helps keep you cool.Relaxed fit.\n\n        Sustainability\n\n\n\n\n\n\n\n\nBluesign\n\n\n\n\n\n\n\n\n\n\n\n                      Bluesign\u00ae Approved Material\n\n\n\n\n\n\nFairTrade\n\n\n\n\n\n\n\n\n\n\n\n                      Certified Fair Trade",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097205710878/6004581-DBH02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097221636126/6004581-DBH02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097221931038/6004581-DBH02-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182589911070/6004581-ACH03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097205710878/6004581-DBH02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097221636126/6004581-DBH02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097221931038/6004581-DBH02-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182589911070/6004581-ACH03.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097205710878/6004581-DBH02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097221636126/6004581-DBH02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097221931038/6004581-DBH02-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182589911070/6004581-ACH03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097205710878/6004581-DBH02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097221636126/6004581-DBH02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097221931038/6004581-DBH02-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182589911070/6004581-ACH03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC All Day Essentials Mock Neck T-Shirt - Women's",
+  "product_code": "6004-581",
+  "source_url": "https://www.mec.ca/en/product/6004-581/All-Day-Essentials-Mock-Neck-T-Shirt",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Antimicrobial treatment"
+    ],
+    "Fabric content": [
+      "96% polyester",
+      "4% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "175gsm"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Travel"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Product sustainability": [
+      "Bluesign\u00ae Approved Material",
+      "Certified Fair Trade"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "25-39 (Blocks ~96% of UVA/UVB)"
+    ]
+  }
+}

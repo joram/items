@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camp furniture",
+    "Chairs",
+    "Chair One Mini"
+  ],
+  "description": "Get your mini-me set up for roasting marshmallows in a little version of your fave camp chair. Same comfort and design as the adult-size Helinox Chair One, but made for little campers.Made with light, strong DAC aluminum and breathable mesh.Load capacity is 90kg.Packed size is 10 x 8 x 26cm.Assembled dimensions are 44 x 34 x 40cm.Seat height from ground is 24cm.Carrying case with zipper closure, grab handles and daisy chain included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8911415377950/5045598-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8911415377950/5045598-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Helinox Chair One Mini",
+  "product_code": "5045-598",
+  "source_url": "https://www.mec.ca/en/product/5045-598/Chair-One-Mini",
+  "tech_specs": {
+    "Cup holder": [
+      "No"
+    ],
+    "Dimensions": [
+      "34\u00a0x\u00a040\u00a0x\u00a044cm"
+    ],
+    "Folded dimensions": [
+      "10 x 8 x 26cm"
+    ],
+    "Frame material": [
+      "Aluminum"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Load capacity": [
+      "90kg"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "600-denier polyester"
+    ],
+    "Stuff sack": [
+      "Yes"
+    ],
+    "Weight": [
+      "500g"
+    ]
+  }
+}

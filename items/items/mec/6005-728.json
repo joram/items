@@ -1,0 +1,82 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shorts, tights and pants",
+    "Running and training shorts",
+    "Aptin Shorts"
+  ],
+  "description": "Hit the ground running. These versatile shorts are light and breathable for high-intensity trail runs, and are durable for sweaty summer hikes. A longer inseam extends the coverage and a wide waistband ensures you stay comfortable throughout your entire workout.Lightweight nylon and elastane wicks sweat and dries quickly.A water-repellant finish provides weather-resistance.Elastic waistband with a drawcord for a secure fit.Multiple pockets keep your essentials close at hand.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153614446622/6005728-TAT03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624408094/6005728-LAD01-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624735774/6005728-LAD01-ALT-MODEL-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624834078/6005728-LAD01-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624801310/6005728-LAD01-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153625030686/6005728-LAD01-ALT-WAIST.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153614381086/6005728-LAD01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078160588830/6005728-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153614446622/6005728-TAT03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624408094/6005728-LAD01-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624735774/6005728-LAD01-ALT-MODEL-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624834078/6005728-LAD01-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624801310/6005728-LAD01-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153625030686/6005728-LAD01-ALT-WAIST.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153614381086/6005728-LAD01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078160588830/6005728-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153614446622/6005728-TAT03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624408094/6005728-LAD01-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624735774/6005728-LAD01-ALT-MODEL-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624834078/6005728-LAD01-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624801310/6005728-LAD01-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153625030686/6005728-LAD01-ALT-WAIST.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153614381086/6005728-LAD01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078160588830/6005728-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153614446622/6005728-TAT03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624408094/6005728-LAD01-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624735774/6005728-LAD01-ALT-MODEL-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624834078/6005728-LAD01-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153624801310/6005728-LAD01-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153625030686/6005728-LAD01-ALT-WAIST.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153614381086/6005728-LAD01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9078160588830/6005728-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Aptin Shorts - Men's",
+  "product_code": "6005-728",
+  "source_url": "https://www.mec.ca/en/product/6005-728/Aptin-Shorts",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Gusseted crotch",
+      "Reflective details"
+    ],
+    "Fabric content": [
+      "87% nylon",
+      "13% elastane"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "10.5in. (M)"
+    ],
+    "Ideal for": [
+      "Trail running",
+      "Day hiking",
+      "Backpacking"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Pockets": [
+      "2 front",
+      "1 side zippered",
+      "1 front drop-in with cord port"
+    ],
+    "Weight": [
+      "170g (Medium)"
+    ]
+  }
+}

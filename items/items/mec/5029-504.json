@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard goggles",
+    "Ultra Vision OTG Goggles"
+  ],
+  "description": "The temples of these goggles feature foam reliefs that prevent your glasses from digging in to your temples. Crisp Carl Zeiss optics and fog-banishing vents complete the package.Fleece-covered dual-density foam provides a comfortable face seal.Strap has silicone bead for good grip.Protective bag included.HP Clear lens has 89% visible light transmission (VLT).Medium to large fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813701890078/5029504-DGR21.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138049744926/5029504-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813701890078/5029504-DGR21.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138049744926/5029504-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813701890078/5029504-DGR21.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138049744926/5029504-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813701890078/5029504-DGR21.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9138049744926/5029504-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gordini Ultra Vision OTG Goggles - Unisex",
+  "product_code": "5029-504",
+  "source_url": "https://www.mec.ca/en/product/5029-504/Ultra-Vision-OTG-Goggles",
+  "tech_specs": {
+    "100% UV protection\n\nProvides 100% protection against UVA and UVB rays.": [
+      "Yes"
+    ],
+    "Anti-fog coating\n\nA coating on the inside of the lens that inhibits condensation.": [
+      "No"
+    ],
+    "Fits over most eyewear\n\nThese optics are designed to fit comfortably over most eyewear.": [
+      "Yes"
+    ],
+    "Helmet compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing",
+      "Snowboarding"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Scratch-resistant lens": [
+      "Yes"
+    ],
+    "Vents\n\nVents allow airflow through the goggles which helps to prevent fogging.": [
+      "Yes"
+    ],
+    "Visible Light Transmission\n\n0-10% \u2013 very heavy tint, too dark for most needs. \n10-30% \u2013 heavy tint for bright sunny days.\n20-60% \u2013 light tint, great for cloudy, overcast conditions and shady trails. \n60-80% \u2013 very light tint (often coloured), for improving contrast in low-light conditions, think dawn or dusk. \n80-100% \u2013 little to no tint, this what you want in the dark.": [
+      "90%"
+    ],
+    "Weight": [
+      "136g"
+    ]
+  }
+}

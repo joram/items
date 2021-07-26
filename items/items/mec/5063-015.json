@@ -1,0 +1,81 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Vacuum bottles and flasks",
+    "Doppio"
+  ],
+  "description": "Want to keep just a couple of shots hot? Why let your coffee slosh around and cool down in a barrel-sized mug? Reach for the compact and elegant Doppio.Double-walled stainless steel provides excellent insulation.Press fit lid retains warmth.Fits most vehicle cup holders.Capacity is 192ml, enough for a double shot and a bit of steamed milk.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162527637534/5063015-VY000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162510204958/5063015-VY000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164891979806/5063015-GLB05-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005821788190/5063015-ESP00-ALT-LIDOFF.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005822312478/5063015-ESP00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164872843294/5063015-GLB05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005822279710/5063015-ESP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162527637534/5063015-VY000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162510204958/5063015-VY000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164891979806/5063015-GLB05-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005821788190/5063015-ESP00-ALT-LIDOFF.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005822312478/5063015-ESP00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164872843294/5063015-GLB05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005822279710/5063015-ESP00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162527637534/5063015-VY000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162510204958/5063015-VY000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164891979806/5063015-GLB05-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005821788190/5063015-ESP00-ALT-LIDOFF.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005822312478/5063015-ESP00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164872843294/5063015-GLB05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005822279710/5063015-ESP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162527637534/5063015-VY000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162510204958/5063015-VY000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164891979806/5063015-GLB05-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005821788190/5063015-ESP00-ALT-LIDOFF.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005822312478/5063015-ESP00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164872843294/5063015-GLB05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9005822279710/5063015-ESP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Doppio",
+  "product_code": "5063-015",
+  "source_url": "https://www.mec.ca/en/product/5063-015/Doppio",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lid type": [
+      "Press-fit"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Volume": [
+      "192ml (Espresso)"
+    ],
+    "Water filter compatible": [
+      "No"
+    ],
+    "Weight": [
+      "136g"
+    ]
+  }
+}

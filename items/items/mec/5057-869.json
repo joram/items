@@ -1,0 +1,86 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Dry bags",
+    "Blocker PurgeAir Dry Sack"
+  ],
+  "description": "Reliably waterproof, but not wildly heavy, these dry bags slot smoothly into small spaces. Rectangular shape leaves less wasted space in your pack. Great for backpacking, cycle touring, kayaking or travel.Made from 70-denier polyurethane coated nylon ripstop that offers more puncture and abrasion resistance than PVC.Radio frequency welded seams are stronger and more durably than sewn and taped seams.Roll-top closure seals tight.One-way PurgeAir valve vents trapped air while remaining waterproof so you can compress the bag.PackTight flat-side rectangular shapes nestle close to together so there's less wasted space.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948426113054/5057869-ORG00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948426113054/5057869-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SealLine Blocker PurgeAir Dry Sack",
+  "product_code": "5057-869",
+  "source_url": "https://www.mec.ca/en/product/5057-869/Blocker-PurgeAir-Dry-Sack",
+  "tech_specs": {
+    "Closure": [
+      "Roll-top"
+    ],
+    "Depth": [
+      "9cm (5L)",
+      "11cm (10L)",
+      "12cm (15L)",
+      "14cm (20L)",
+      "16cm (30L)"
+    ],
+    "IPX rating\n\nIndicates the degree of protection against liquid. IP X1: Dripping water while in normal operating orientation; IP X4: Splashing water; IP X5: Water jets; IP X6: Powerful water jets; IP X7: Immersion up to 1m \u2264 30 minutes; IP X8: Suitable for submersion as specified by manufacturer.": [
+      "Not IPX rated"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Cycle touring",
+      "Travel",
+      "Watersports"
+    ],
+    "Length": [
+      "30cm (5L)",
+      "36cm (10L)",
+      "41cm (15L)",
+      "48cm (20L)",
+      "58cm (30L)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "70-denier PU-coated nylon"
+    ],
+    "Ruggedness\n\nFair: made of lightweight materials and designed to be carried inside another bag. Good: strikes a balance between light weight and durability. Excellent: made of heavy duty materials and designed to be carried alone. Exceptional: made of ultra-tough materials and designed to withstand abuse.": [
+      "Good"
+    ],
+    "Submersible": [
+      "No"
+    ],
+    "Volume": [
+      "5L (5L)",
+      "10L (10L)",
+      "15L (15L)",
+      "20L (20L)",
+      "30L (30L)"
+    ],
+    "Waterproofness\n\nWaterproof bags and cases are made with waterproof materials and have waterproof closures. Some are designed to be submersible. Water-resistant bags and cases are made with waterproof materials, but water could sneak in through the seams or closure.": [
+      "Waterproof"
+    ],
+    "Weight": [
+      "50g (5L)",
+      "70g (10L)",
+      "80g (15L)",
+      "90g (20L)",
+      "110g (30L)"
+    ],
+    "Width": [
+      "16.5cm (5L)",
+      "21cm (10L)",
+      "23.5cm (15L)",
+      "26.5cm (20L)",
+      "30.5cm (30L)"
+    ]
+  }
+}

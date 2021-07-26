@@ -1,0 +1,75 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child clothing",
+    "Toddler and child outerwear",
+    "Toddler and child jackets",
+    "Toddler and child rain jackets",
+    "Schiff Reimatec Jacket"
+  ],
+  "description": "April showers bring May flowers, so go outside and embrace the rain in this colourful rain jacket.Reimatec waterproof-breathable material has fully taped seams to keep nasty weather out.BIONIC-FINISH\u00aeECO fluorocarbon-free finish helps sheds water and dirt.Lightweight mesh lining makes layering easy.Removable hood.Front zippered pockets are perfect for the toy of the day and a snack.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183006228510/6008114-PNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183005802526/6008114-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183006228510/6008114-PNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183005802526/6008114-NVY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183006228510/6008114-PNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183005802526/6008114-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183006228510/6008114-PNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9183005802526/6008114-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Reima Schiff Reimatec Jacket - Children to Youths",
+  "product_code": "6008-114",
+  "source_url": "https://www.mec.ca/en/product/6008-114/Schiff-Reimatec-Jacket",
+  "tech_specs": {
+    "Construction": [
+      "Sewn-through"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Fabric active breathability\n\nThe rate at which a waterproof breathable fabric expels moisture when the inner surface is moist from perspiration.  Values under 8,000g/m2/24h provide low performance, 20,000g/m2/24h provide moderate performance and values over 30,000g/m2/24h provide high performance.": [
+      "7000g/m2/24h"
+    ],
+    "Fabric waterproof rating\n\nThe standard test for waterproof fabrics uses a standing column filled with water.  The figures given are the water column height.  A rating of 3,500mm or higher can be considered waterproof.  The higher the rating, the more durable the waterproof fabric will be over time.": [
+      "8000mm"
+    ],
+    "Face fabric": [
+      "Polyester"
+    ],
+    "Hood": [
+      "Removable"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Lining/backer": [
+      "Polyester"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "1 front zippered"
+    ],
+    "Technology": [
+      "Reimatec"
+    ],
+    "Type": [
+      "Waterproof-breathable"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Waterproof with fully taped seams"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

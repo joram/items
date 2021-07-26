@@ -1,0 +1,124 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bikes",
+    "Mountain bikes",
+    "Habit Carbon 3 Bicycle"
+  ],
+  "description": "One bike to ride them all. A true trail generalist, this mountain machine combines full FOX suspension with 29er wheels to set you up for success up, over or down your chosen objective. Its light carbon front triangle puts all day missions back on the roster. This stoke-worthy ride is nicely efficient for climbing and forgiving when you let gravity kick in.Carbon and SmartForm C1 alloy frame, with a slack headtube angle and versatile trail geometry.FOX Float Performance 34 suspension fork, with 140mm of travel.FOX Float Performance DPS (3 pos), with 120mm of travel.1x12 drive train pairs a 30T chain ring with a 10-50T cassette.SRAM Eagle GX and NX groupset, with Truvativ Stylo crank.Hydraulic disc brakes.SRAM Eagle NX chain.Dropper seat post.Front tire: Maxxis Minion DHF 29 x 2.5 (tubeless ready).Rear tire: Maxxis High Roller II 29 x 2.3 (tubeless ready).Bikes are covered by MEC's Rocksolid Guarantee and Bike Service Agreement. You can bring your bike to any MEC bike shop for free adjustments and minor maintenance for two years after purchase.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058539307038/6006018-EME00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100004950046/6006018-EME00-ALT-LIFESTYLE1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100004982814/6006018-EME00-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100005081118/6006018-EME00-ALT-LIFESTYLE3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100005113886/6006018-EME00-ALT-LIFESTYLE4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100005146654/6006018-EME00-ALT-LIFESTYLE5.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058539307038/6006018-EME00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100004950046/6006018-EME00-ALT-LIFESTYLE1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100004982814/6006018-EME00-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100005081118/6006018-EME00-ALT-LIFESTYLE3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100005113886/6006018-EME00-ALT-LIFESTYLE4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100005146654/6006018-EME00-ALT-LIFESTYLE5.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058539307038/6006018-EME00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100004950046/6006018-EME00-ALT-LIFESTYLE1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100004982814/6006018-EME00-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100005081118/6006018-EME00-ALT-LIFESTYLE3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100005113886/6006018-EME00-ALT-LIFESTYLE4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100005146654/6006018-EME00-ALT-LIFESTYLE5.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058539307038/6006018-EME00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100004950046/6006018-EME00-ALT-LIFESTYLE1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100004982814/6006018-EME00-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100005081118/6006018-EME00-ALT-LIFESTYLE3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100005113886/6006018-EME00-ALT-LIFESTYLE4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100005146654/6006018-EME00-ALT-LIFESTYLE5.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Cannondale Habit Carbon 3 Bicycle - Unisex",
+  "product_code": "6006-018",
+  "source_url": "https://www.mec.ca/en/product/6006-018/Habit-Carbon-3-Bicycle",
+  "tech_specs": {
+    "Bottom bracket": [
+      "SRAM Pressfit DUB"
+    ],
+    "Brake levers": [
+      "SRAM Guide R"
+    ],
+    "Brakes\n\nMechanical disc brakes are more powerful than rim brakes, but less powerful than hydraulic brakes.": [
+      "SRAM Guide R (hydraulic disc)"
+    ],
+    "Cassette\n\nCassettes with a smaller range allow you to go faster; a bigger range makes climbing hills easier.": [
+      "SRAM PG 1230 Eagle 12-speed 10-50T"
+    ],
+    "Chain": [
+      "SRAM Eagle NX"
+    ],
+    "Crank + rings": [
+      "Truvativ Stylo 6K DUB 30T"
+    ],
+    "Derailleur (rear)": [
+      "SRAM GX Eagle"
+    ],
+    "Fork": [
+      "Fox Float 34 Performance"
+    ],
+    "Frame": [
+      "BallisTec Carbon front triangle with Smartform C1 Alloy swingarm"
+    ],
+    "Front travel": [
+      "140mm"
+    ],
+    "Grips/tape": [
+      "Fabric Funguy Lock-on"
+    ],
+    "Handlebars": [
+      "Alloy Riser"
+    ],
+    "Headset": [
+      "Integrated"
+    ],
+    "Hub (front)": [
+      "Formula"
+    ],
+    "Hub (rear)\n\nThe hub affects a bike\u2019s rolling efficiency. Internally geared hubs require significantly less maintenance.": [
+      "Formula"
+    ],
+    "Ideal for": [
+      "Trail riding"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Rear shock": [
+      "Fox Float Performance DPS EVOL 3 pos"
+    ],
+    "Rear travel": [
+      "120mm"
+    ],
+    "Rims": [
+      "Stan's NoTubes ARCH S1"
+    ],
+    "Saddle": [
+      "Fabric Scoop Shallow Sport"
+    ],
+    "Seatpost": [
+      "Cannondale DownLow Dropper"
+    ],
+    "Shifters": [
+      "SRAM NX Eagle"
+    ],
+    "Spokes": [
+      "DT Champion"
+    ],
+    "Stem": [
+      "Alloy 31.8mm"
+    ],
+    "Weight": [
+      "14.1kg (Medium)"
+    ]
+  }
+}

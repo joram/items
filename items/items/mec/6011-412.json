@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill skis",
+    "V-Shape V6 Skis"
+  ],
+  "description": "Effortless carving on freshly laid corduroy is on the menu with the V6. This playful all-mountain ski is designed to make linking turns easy and enjoyable. The LYT Tech construction creates a ski that has a thicker tip and tail and a thinner middle section to provide great carving performance and vibration dampening. Improved control, better steering and increased stability is what you should expect. The softer flex allows for a fun and forgiving ski that carves effortlessly.LYT Tech construction uses variable thickness to facilitate carving.ERA 3.0 combines technology, rocker and shape for optimal performance.Graphene layer adds strength and very little weight.Power sidewall jacket construction uses ABS sidewalls for impact resistance.Wood composite core makes for an easy-to-steer and forgiving ride.Allride rocker features a 20% rocker in the tip, 80% camber underfoot and is tuned for female shredders.Structured UHM C base is fast enough for race skis.Includes PR 11 GW all-mountain bindings, compatible with Alpine or GripWalk boots.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135638741022/6011412-BK048.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135623667742/6011412-BK048-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135623766046/6011412-BK048-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135623831582/6011412-BK048-ALT-PLATES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135638741022/6011412-BK048.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135623667742/6011412-BK048-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135623766046/6011412-BK048-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135623831582/6011412-BK048-ALT-PLATES.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135638741022/6011412-BK048.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135623667742/6011412-BK048-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135623766046/6011412-BK048-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135623831582/6011412-BK048-ALT-PLATES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135638741022/6011412-BK048.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135623667742/6011412-BK048-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135623766046/6011412-BK048-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9135623831582/6011412-BK048-ALT-PLATES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Head V-Shape V6 Skis - Men's",
+  "product_code": "6011-412",
+  "source_url": "https://www.mec.ca/en/product/6011-412/V-Shape-V6-Skis",
+  "tech_specs": {
+    "Ability\n\nBeginner: new or getting back into skiing.  Intermediate: confident with turning and stopping.  Advanced: highly confident carver. Expert: steeps, drops, park, double blacks -- bring it on.": [
+      "Intermediate",
+      "Advanced"
+    ],
+    "Bindings included": [
+      "Yes"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Sandwich"
+    ],
+    "Core": [
+      "Wood",
+      "Synthetic"
+    ],
+    "Dimension": [
+      "132-78-113mm"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Czech Republic"
+    ],
+    "Rocker/camber profile": [
+      "Rocker tip"
+    ],
+    "Snow conditions": [
+      "Groomed"
+    ],
+    "Terrain": [
+      "On-Piste"
+    ],
+    "Turning radius": [
+      "13.5m (170cm)"
+    ]
+  }
+}

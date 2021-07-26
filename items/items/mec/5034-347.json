@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Highwood& Cataract Creek Map 3rd Edition"
+  ],
+  "description": "A trail guide covering south Kananaskis Country from Sheep River Falls in the north to Plateau Mountain in the south. Includes trail descriptions and photographs for 18 hikes, 2 overnight trips and 3 mountain bike rides. Map displays contour lines, campgrounds, lodges and visitor centres. Additional trails on inset map include Pasque Mountain, Plateau Mountain, Hailstone Butte Fire Lookout and Indian Graves Ridge.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035645911070/5034347-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035645911070/5034347-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Publishing Highwood & Cataract Creek Map 3rd Edition",
+  "product_code": "5034-347",
+  "source_url": "https://www.mec.ca/en/product/5034-347/Highwood%26-Cataract-Creek-Map-3rd-Edition",
+  "tech_specs": {
+    "Edition": [
+      "3rd"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking",
+      "Cross-country skiing",
+      "Mountain biking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

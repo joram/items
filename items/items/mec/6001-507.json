@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Snowshoeing gear",
+    "Snowshoes",
+    "Blizzard III Snowshoes"
+  ],
+  "description": "Powder and trail friendly snowshoes. High-carbon steel front crampons provide traction for different terrain types and snow conditions. When you\u2019re climbing up trails, heel riser bars give your calves a break, and the micro-adjustable Boa closure won\u2019t cause pressure points so you can explore a little farther.6061 T6 aluminum anodized frame is lightweight and sturdy.Contoured frame design allows for a natural stride.Decking sheds snow well and provides good float surface.High carbon steel crampons provide traction uphill and downhill.Freeflex pivot provides suspension and rotation on axle for an efficient stride.Contact Trek boot harness is flexible even in cold temperatures.Boa\u00ae Fit System lets you fine-tune the fit.Gradient heel riser reduces calf strain while climbing.Suitable for powder or on trails.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050146504734/6001507-TRQ00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050160463902/6001507-TRQ00-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050146504734/6001507-TRQ00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050160463902/6001507-TRQ00-ALT-BOTTOM.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050146504734/6001507-TRQ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050160463902/6001507-TRQ00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050146504734/6001507-TRQ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9050160463902/6001507-TRQ00-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Louis Garneau Blizzard III Snowshoes - Women's",
+  "product_code": "6001-507",
+  "source_url": "https://www.mec.ca/en/product/6001-507/Blizzard-III-Snowshoes",
+  "tech_specs": {
+    "Heel lift\n\nIndicates if the snowshoe has a heel lift or not. Heel lifts reduce calf strain on uphill climbs.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "General snowshoeing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Max recommended load": [
+      "100-200lb. (825)",
+      "80-160lb. (822)"
+    ]
+  }
+}

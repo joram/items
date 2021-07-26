@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike lubricants and cleaners",
+    "Lubricants and grease",
+    "HPG-1 High Performance Grease - 4oz/113g"
+  ],
+  "description": "Park Tool\u2019s secret recipe to keep bearings silky smooth. Excellent for rebuilding high-end parts, including precision-ground and ceramic bearings, pivot and suspension components.Great adherence and lubrication life.Excellent water resistance.Performs at temperatures between -29\u00b0C and 282\u00b0C.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806449283102/5048826-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806449512478/5048826-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806449283102/5048826-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806449512478/5048826-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806449283102/5048826-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806449512478/5048826-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806449283102/5048826-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806449512478/5048826-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool HPG-1 High Performance Grease - 4oz/113g",
+  "product_code": "5048-826",
+  "source_url": "https://www.mec.ca/en/product/5048-826/HPG-1-High-Performance-Grease---4oz-113g",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "113g"
+    ]
+  }
+}

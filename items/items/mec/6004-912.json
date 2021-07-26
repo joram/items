@@ -1,0 +1,93 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Freeze Dried Cooked Beef Cubes"
+  ],
+  "description": "Where\u2019s the beef? Right here. Beef up any backcountry meal with these tender little cubes of precooked freeze-dried beef.Ingredients: Freeze-dried cooked beef cubes (beef, beef broth, onion flakes).May contain: peanuts, sesame, egg, milk, fish, sea food, soy, wheat and mustard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319900702/6004912-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035444125726/6004912-NOC02-ALT-PREPARED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319900702/6004912-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035444125726/6004912-NOC02-ALT-PREPARED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319900702/6004912-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035444125726/6004912-NOC02-ALT-PREPARED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042319900702/6004912-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035444125726/6004912-NOC02-ALT-PREPARED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Freeze Dried Cooked Beef Cubes",
+  "product_code": "6004-912",
+  "source_url": "https://www.mec.ca/en/product/6004-912/Freeze-Dried-Cooked-Beef-Cubes",
+  "tech_specs": {
+    "Calories per serving": [
+      "130Cal"
+    ],
+    "Carbohydrates": [
+      "1g"
+    ],
+    "Cholesterol": [
+      "55mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "0g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "16g"
+    ],
+    "Saturated fat": [
+      "3g"
+    ],
+    "Serving size": [
+      "1/2 package"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "40mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "0g"
+    ],
+    "Total fat": [
+      "7g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ]
+  }
+}

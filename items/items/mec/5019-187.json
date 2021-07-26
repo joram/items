@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Footwear accessories",
+    "Shoe and boot care",
+    "Paste Wax"
+  ],
+  "description": "Repels water and stains and conditions your rough or smooth leather footwear. It also helps maintain the original breathability.Works well on suede, nubuck, and full-grain leather.Easy to apply paste wax.75ml tube.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8891097153566/5019187-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8891097153566/5019187-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8891097153566/5019187-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8891097153566/5019187-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Grangers Paste Wax",
+  "product_code": "5019-187",
+  "source_url": "https://www.mec.ca/en/product/5019-187/Paste-Wax",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Type": [
+      "Waterproofer"
+    ],
+    "Volume": [
+      "75ml"
+    ],
+    "Weight": [
+      "75g"
+    ]
+  }
+}

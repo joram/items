@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing harnesses",
+    "Adjustable harnesses",
+    "Joker II Harness"
+  ],
+  "description": "This no-nonsense harness features safety buckles that can't be fully undone. It's ideal for guiding schools, adventure education, and climbing rentals.Unpadded 45mm webbing waist and leg loops adjusts to fit a wide range of sizes.Waist and legs have non-opening buckles for security.Leg loops have markings to ensure harness is put on correctly.One size fits most.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926314758174/5058026-NGT01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926314758174/5058026-NGT01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Edelrid Joker II Harness - Unisex",
+  "product_code": "5058-026",
+  "source_url": "https://www.mec.ca/en/product/5058-026/Joker-II-Harness",
+  "tech_specs": {
+    "Adjustable leg loops": [
+      "Yes"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Drop seat": [
+      "No"
+    ],
+    "Gear loops": [
+      "1"
+    ],
+    "Haul loop": [
+      "No"
+    ],
+    "Ice clipper slots": [
+      "No"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Leg loop size": [
+      "22-75cm"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Self-locking buckle": [
+      "Yes"
+    ],
+    "Type": [
+      "Seat harness"
+    ],
+    "Waist size": [
+      "48-112cm"
+    ],
+    "Weight": [
+      "485g"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard racks",
+    "FatCat EVO 6 Ski Rack"
+  ],
+  "description": "Bring the whole crew and plus their boards. This sleek looking rack is easy to open/close and mounts to most roof racks.DoubleJoint opens widely to make removing or securing your boards easy.Large button mechanism is easy to open with gloves or mittens on.Carries up to 4 snowboards, or up to 6 pairs of skis (maximum ski tip width: 136mm).Overhang feature makes it easier to access your equipment when the rack is full.SkiLift feature accommodates skis with large bindings.Universal mounts work on most roof racks: round, square, factory, and aerodynamic.Integrated locks included, with a single key system (SKS).Compatible with T-slot crossbars (SmarT-Slot Kit 2 sold separately).Dimensions: each clamp is L 40.50 x W 3.75 x H 5.25in",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074460164126/6007967-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455085086/6007967-BK000-ALT-INUSECLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455150622/6007967-BK000-ALT-INUSELOCKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455117854/6007967-BK000-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455183390/6007967-BK000-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455347230/6007967-BK000-ALT-MOUNTED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455379998/6007967-BK000-ALT-ONCARBOARD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455412766/6007967-BK000-ALT-ONCARSKIS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455576606/6007967-BK000-ALT-SKILIFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455609374/6007967-BK000-ALT-UCLAMP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074460164126/6007967-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455085086/6007967-BK000-ALT-INUSECLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455150622/6007967-BK000-ALT-INUSELOCKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455117854/6007967-BK000-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455183390/6007967-BK000-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455347230/6007967-BK000-ALT-MOUNTED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455379998/6007967-BK000-ALT-ONCARBOARD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455412766/6007967-BK000-ALT-ONCARSKIS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455576606/6007967-BK000-ALT-SKILIFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455609374/6007967-BK000-ALT-UCLAMP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074460164126/6007967-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455085086/6007967-BK000-ALT-INUSECLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455150622/6007967-BK000-ALT-INUSELOCKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455117854/6007967-BK000-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455183390/6007967-BK000-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455347230/6007967-BK000-ALT-MOUNTED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455379998/6007967-BK000-ALT-ONCARBOARD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455412766/6007967-BK000-ALT-ONCARSKIS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455576606/6007967-BK000-ALT-SKILIFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455609374/6007967-BK000-ALT-UCLAMP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074460164126/6007967-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455085086/6007967-BK000-ALT-INUSECLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455150622/6007967-BK000-ALT-INUSELOCKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455117854/6007967-BK000-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455183390/6007967-BK000-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455347230/6007967-BK000-ALT-MOUNTED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455379998/6007967-BK000-ALT-ONCARBOARD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455412766/6007967-BK000-ALT-ONCARSKIS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455576606/6007967-BK000-ALT-SKILIFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9074455609374/6007967-BK000-ALT-UCLAMP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Yakima FatCat EVO 6 Ski Rack",
+  "product_code": "6007-967",
+  "source_url": "https://www.mec.ca/en/product/6007-967/FatCat-EVO-6-Ski-Rack",
+  "tech_specs": {
+    "Fits crossbars": [
+      "Yakima"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Snowboarding"
+    ],
+    "Includes lock": [
+      "Yes"
+    ],
+    "Load capacity": [
+      "6 pairs of skis or 4 snowboards"
+    ],
+    "Locks to roof rack": [
+      "No"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Requires roof rack": [
+      "Yes"
+    ],
+    "Type": [
+      "Ski carrier"
+    ],
+    "Weight": [
+      "5.8kg"
+    ]
+  }
+}

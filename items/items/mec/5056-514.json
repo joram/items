@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "A Peakbagger's Guide To The Canadian Rockies"
+  ],
+  "description": "This scrambling guidebook covers from the Columbia Icefields northwards, including Jasper National Park, Willmore Wilderness Park and Mount Robson Provincial Park as well as peaks near the towns of Cadomin, Hinton, Grande Cache and Valemount. It covers nearly 100 routes, from simple alpine hikes to challenging scrambles and alpine climbs, from short single-day trips to multi-day expeditions. Each summit is described in comprehensive detail and includes stunning photographs. A portion of proceeds from the sale of this book go to support trail maintenance in Jasper National Park by the Jasper Trail Alliance, part of the Friends of Jasper National Park.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8905366601758/5056514-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8905366601758/5056514-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "A Peakbagger's Guide To The Canadian Rockies",
+  "product_code": "5056-514",
+  "source_url": "https://www.mec.ca/en/product/5056-514/A-Peakbagger%27s-Guide-To-The-Canadian-Rockies",
+  "tech_specs": {
+    "Author": [
+      "Ben Nearingburg, Eric Coulthard"
+    ],
+    "ISBN": [
+      "9781771601986"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "288"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "Rockies"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Wheel and spoke tools",
+    "Spoke Wrench"
+  ],
+  "description": "The ultimate spoke wrench, precise, durable, lightweight and easy to use. It's been around for a long time and is here to stay.Black sized for 0.127in. (3.23mm) nipples, SW-0.Green sized for 0.130in. (3.30mm) nipples, SW-1.Red sized for 0.136in. (3.45mm) nipples, SW-2.Blue sized for 0.156in. (3.96mm) nipples, SW-3.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806528974878/5048449-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806528385054/5048449-GRN00-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806528286750/5048449-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806527795230/5048449-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806528974878/5048449-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806528385054/5048449-GRN00-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806528286750/5048449-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806527795230/5048449-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806528974878/5048449-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806528385054/5048449-GRN00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806528286750/5048449-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806527795230/5048449-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806528974878/5048449-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806528385054/5048449-GRN00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806528286750/5048449-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806527795230/5048449-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool Spoke Wrench",
+  "product_code": "5048-449",
+  "source_url": "https://www.mec.ca/en/product/5048-449/Spoke-Wrench",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

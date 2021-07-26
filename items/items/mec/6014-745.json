@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Pocket knives and fixed blade knives",
+    "Folding pocket knives",
+    "Bantam BLW Knife"
+  ],
+  "description": "A rugged pocket knife that loves the outdoors almost as much as you do.Strong and versatile spearpoint blade.420HC blade is easy to sharpen and holds an edge well.Lock-back design is reliable and strong.Ergonomic handle and multipoint jimping provides a secure and comfortable grip.Large lanyard hole.Tip-down pocket clip on the right side.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196896419870/6014745-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196896419870/6014745-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Buck Bantam BLW Knife",
+  "product_code": "6014-745",
+  "source_url": "https://www.mec.ca/en/product/6014-745/Bantam-BLW-Knife",
+  "tech_specs": {
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Straight"
+    ],
+    "Blade length": [
+      "7.9cm"
+    ],
+    "Blade locking system": [
+      "Yes"
+    ],
+    "Blade material": [
+      "420 HC stainless steel"
+    ],
+    "Handle material": [
+      "Glass-reinforced nylon (GRN)"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use"
+    ],
+    "Knife length (closed)": [
+      "11.1cm"
+    ],
+    "Knife length (open)": [
+      "19cm"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Sheath included": [
+      "No"
+    ],
+    "Weight": [
+      "69g"
+    ]
+  }
+}

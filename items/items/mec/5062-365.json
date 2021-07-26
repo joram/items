@@ -1,0 +1,112 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Jackets",
+    "Rain jackets",
+    "AllProof Stretch Rain Jacket"
+  ],
+  "description": "Waterproof. Windproof. Everything-proof. Keep on moving, no matter what the weather throws at you. The lightweight AllProof Stretch Rain Jacket uses a stretchy face fabric that won't hold you back as you hike, scramble and explore. When the sun comes out, it packs down small inside your backpack.Made of lightweight 30-denier polyester with mechanical stretch and a DryVent\u2122 2.5-layer waterproof-breathable membrane.Fully sealed seams and a Durable Water Repellency finish keep moisture from sneaking in.Water-resistant front zipper has an internal storm flap.Zippered hand pockets.Pit-zips let you vent heat on humid days.Adjustable hood, Velcro\u00ae cuff tabs and hem cinch cord can be snugged up when the wind gets gusty.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165744701470/5062365-MOB09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756137502/5062365-MOB09-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756104734/5062365-MOB09-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756432414/5062365-MOB09-ALT-MODEL-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756465182/5062365-MOB09-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756694558/5062365-MOB09-ALT-MODEL-HOOD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755613214/5062365-BK377-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755777054/5062365-BK377-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755744286/5062365-BK377-ALT-MODEL-HOOD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755809822/5062365-BK377-ALT-MODEL-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756071966/5062365-BK377-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165744406558/5062365-BK377.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165744701470/5062365-MOB09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756137502/5062365-MOB09-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756104734/5062365-MOB09-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756432414/5062365-MOB09-ALT-MODEL-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756465182/5062365-MOB09-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756694558/5062365-MOB09-ALT-MODEL-HOOD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755613214/5062365-BK377-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755777054/5062365-BK377-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755744286/5062365-BK377-ALT-MODEL-HOOD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755809822/5062365-BK377-ALT-MODEL-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756071966/5062365-BK377-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165744406558/5062365-BK377.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165744701470/5062365-MOB09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756137502/5062365-MOB09-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756104734/5062365-MOB09-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756432414/5062365-MOB09-ALT-MODEL-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756465182/5062365-MOB09-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756694558/5062365-MOB09-ALT-MODEL-HOOD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755613214/5062365-BK377-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755777054/5062365-BK377-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755744286/5062365-BK377-ALT-MODEL-HOOD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755809822/5062365-BK377-ALT-MODEL-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756071966/5062365-BK377-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165744406558/5062365-BK377.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165744701470/5062365-MOB09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756137502/5062365-MOB09-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756104734/5062365-MOB09-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756432414/5062365-MOB09-ALT-MODEL-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756465182/5062365-MOB09-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756694558/5062365-MOB09-ALT-MODEL-HOOD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755613214/5062365-BK377-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755777054/5062365-BK377-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755744286/5062365-BK377-ALT-MODEL-HOOD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165755809822/5062365-BK377-ALT-MODEL-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165756071966/5062365-BK377-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165744406558/5062365-BK377.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face AllProof Stretch Rain Jacket - Women's",
+  "product_code": "5062-365",
+  "source_url": "https://www.mec.ca/en/product/5062-365/AllProof-Stretch-Rain-Jacket",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Wind flap behind zipper"
+    ],
+    "Construction": [
+      "2.5-layer"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Face fabric": [
+      "30-denier polyester"
+    ],
+    "Hood": [
+      "Adjustable"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Length": [
+      "Hip-length"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front zippered"
+    ],
+    "Technology": [
+      "DryVent"
+    ],
+    "Type": [
+      "Waterproof-breathable"
+    ],
+    "Venting": [
+      "Underarm zips"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Waterproof with fully taped seams"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

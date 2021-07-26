@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike computers",
+    "Mounts and sensors for bike computers",
+    "Bike computer mounts",
+    "Elemnt Bolt Aerodynamic Out Front Mount"
+  ],
+  "description": "Streamline your cockpit with this aero mount. This aerodynamic mount is sculpted and engineered to reduce drag. It comes with an optional locking screw for UCI compliant weigh-ins.Works with Wahoo ELEMNT BOLT computers.Fits 31.8mm round bars.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088309264414/6007731-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088323584030/6007731-BK000-ALT-WCOMPUTER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088309264414/6007731-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088323584030/6007731-BK000-ALT-WCOMPUTER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088309264414/6007731-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088323584030/6007731-BK000-ALT-WCOMPUTER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088309264414/6007731-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088323584030/6007731-BK000-ALT-WCOMPUTER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wahoo Fitness Elemnt Bolt Aerodynamic Out Front Mount",
+  "product_code": "6007-731",
+  "source_url": "https://www.mec.ca/en/product/6007-731/Elemnt-Bolt-Aerodynamic-Out-Front-Mount",
+  "tech_specs": {
+    "Ideal for": [
+      "Sport road cycling",
+      "Performance and race road cycling",
+      "Cross-country riding"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

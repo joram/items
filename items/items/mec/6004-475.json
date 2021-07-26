@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Showers, soap & travel toothbrushes",
+    "Trek& Travel Pocket Body Wash"
+  ],
+  "description": "Travel friendly soap that you can use nearly anywhere. Gentle formula works on everything from your hair, to your body, to your clothes.50 leaves of leakproof soap.Biodegradable, phosphate and paraben free.Light green tea fragrance.TSA carry-on compliant.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030052413470/6004475-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030390448158/6004475-NOC02-ALT-PACKAGED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030052413470/6004475-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030390448158/6004475-NOC02-ALT-PACKAGED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030052413470/6004475-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030390448158/6004475-NOC02-ALT-PACKAGED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030052413470/6004475-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030390448158/6004475-NOC02-ALT-PACKAGED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sea To Summit Trek & Travel Pocket Body Wash",
+  "product_code": "6004-475",
+  "source_url": "https://www.mec.ca/en/product/6004-475/Trek%26-Travel-Pocket-Body-Wash",
+  "tech_specs": {
+    "Biodegradable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

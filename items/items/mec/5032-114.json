@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Banff Rock"
+  ],
+  "description": "This rock climbing guidebook covers all the sport and gear-protected climbs in Banff National Park, including multi-pitch and semi-alpine routes. Learn about climbs at Tunnel Mountain, Mount Rundle, Cascade, Stewart Canyon, Sunshine area, Mount Norquay, Mounts Edith and Louis, Mount Cory, Finger-Cockscomb, Castle Mountain, Stanley Peak, Lake Louise, Takakkaw Falls in Yoho, Helen Lake, and Mount Wilson. Full of colour photos and route maps.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815635628062/5032114-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815635628062/5032114-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Banff Rock",
+  "product_code": "5032-114",
+  "source_url": "https://www.mec.ca/en/product/5032-114/Banff-Rock",
+  "tech_specs": {
+    "Author": [
+      "Chris Perry"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9780987937001"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "512"
+    ],
+    "Published": [
+      "2012"
+    ],
+    "Regionality": [
+      "Rockies"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Marine navigation",
+    "Compasses",
+    "Compass Ranger S"
+  ],
+  "description": "A compact sighting compass that's easy to read and super-reliable. The mirror folds down over the compass to make convenient, compact package.0\u00b0-360-degree luminous dial markings with large numerals at every 20-degrees are easy to read in challenging conditions.1:25:000 and 1:50:000 scales and centimeter/millimetre rules.Sighting mirror for plotting routes, can be used in emergencies for signalling.Scale lanyard (1:25k and 1:50k) takes guessing out of plotting, and as a break-away lanyard it's safe and convenient.DryFlex\u2122 rubberized bezel is easy to use with or without gloves.Clear baseplate for easy mapping and plotting.Declination scale.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8943062482974/5058469-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8943062482974/5058469-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Silva Compass Ranger S",
+  "product_code": "5058-469",
+  "source_url": "https://www.mec.ca/en/product/5058-469/Compass-Ranger-S",
+  "tech_specs": {
+    "Adjustable declination\n\nSets the compass to indicate true north instead of magnetic north.": [
+      "No"
+    ],
+    "Clinometer\n\nMeasures angles of slope, elevation or inclination.": [
+      "No"
+    ],
+    "Hemisphere\n\nThe earth's magnetic field varies considerably so most compasses are designed to work in the specific hemisphere zones for which they are being used. A global compass can be used anywhere.": [
+      "Northern Hemisphere"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Day hiking",
+      "Emergency preparedness"
+    ],
+    "Luminous markings\n\nLuminous markings allow you to read your compass in dim light conditions.": [
+      "Yes"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Magnifying lens": [
+      "Yes"
+    ],
+    "Sighting mirror": [
+      "Yes"
+    ],
+    "Weight": [
+      "58g"
+    ]
+  }
+}

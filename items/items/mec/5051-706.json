@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling bottoms",
+    "Cycling shorts",
+    "Grom's Badass Shorts"
+  ],
+  "description": "Versatile, freeride shorts that take mobility and abrasion resistance seriously. Smart innovations like a DWR coating and knee-pad coverage that doesn't add bulk behind your knee.Fabric is durable 4-way stretch nylon and spandex.DWR finish repels moisture and mud.Bartack stitching throughout stress zones.Adjustable waistband.Locking zip fly with hidden snap and Velcro.Seamless crotch.Front and rear zippered pockets, 1 with lift pass cord.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870952534046/5051706-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870951682078/5051706-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870952534046/5051706-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870951682078/5051706-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870952534046/5051706-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870951682078/5051706-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870952534046/5051706-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870951682078/5051706-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sombrio Grom's Badass Shorts - Youths",
+  "product_code": "5051-706",
+  "source_url": "https://www.mec.ca/en/product/5051-706/Grom%27s-Badass-Shorts",
+  "tech_specs": {
+    "Fabric content": [
+      "81% nylon",
+      "19% spandex"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "1 back"
+    ]
+  }
+}

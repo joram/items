@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Cooking utensils and cutting boards",
+    "Cooking utensils and food prep",
+    "Alpine Grater-Strainer"
+  ],
+  "description": "If you don't already have a folding strainer that functions as a grater, this could be the one for you.Made of nylon, glass reinforced to keep the grating edge sharp.Durable hinge folds repeatedly for travel.Now easier to fold and unfold while wearing gloves.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812602589214/5024132-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812602687518/5024132-NOC02-ALT-CLOSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812602589214/5024132-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812602687518/5024132-NOC02-ALT-CLOSED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812602589214/5024132-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812602687518/5024132-NOC02-ALT-CLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812602589214/5024132-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812602687518/5024132-NOC02-ALT-CLOSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Alpine Grater-Strainer",
+  "product_code": "5024-132",
+  "source_url": "https://www.mec.ca/en/product/5024-132/Alpine-Grater-Strainer",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Nylon"
+    ],
+    "Packed length": [
+      "16.8cm"
+    ],
+    "Weight": [
+      "25g"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Camping meals",
+    "Linguini Rosa With Shrimp"
+  ],
+  "description": "A rich ros\u00e9 Alfredo with the perfect blend of bright tomatoes, aged parmesan and herbs is the heart of this pasta, tender shrimp are peppered throughout, and it\u2019s tossed with linguine noodles, all you need to do is nail the al dente and enjoy.Ingredients: pasta (wheat), ros\u00e9 sauce (tomato powder, vegetables [tomato, onion], whole milk powder parmesan, corn modified corn starch, garlic powder, sugar, salt, spices, corn fiber, yeast extract, citric acid, artificial flavour) freeze dried Matane shrimp.May contain: nut, peanuts, sesame, egg, fish, sea food, soya, wheat and mustard.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136447094814/6012190-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133508591646/6012190-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457220126/6012190-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136447094814/6012190-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133508591646/6012190-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457220126/6012190-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136447094814/6012190-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133508591646/6012190-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457220126/6012190-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136447094814/6012190-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133508591646/6012190-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136457220126/6012190-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Linguini Rosa With Shrimp",
+  "product_code": "6012-190",
+  "source_url": "https://www.mec.ca/en/product/6012-190/Linguini-Rosa-With-Shrimp",
+  "tech_specs": {
+    "Calories per serving": [
+      "460Cal"
+    ],
+    "Carbohydrates": [
+      "90g"
+    ],
+    "Cholesterol": [
+      "160mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "No"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "4g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "34g"
+    ],
+    "Saturated fat": [
+      "4g"
+    ],
+    "Serving size": [
+      "1 package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "1260mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "12g"
+    ],
+    "Total fat": [
+      "8g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "No"
+    ],
+    "Weight": [
+      "140g"
+    ]
+  }
+}

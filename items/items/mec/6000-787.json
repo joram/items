@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fuel",
+    "Winter Gas Fuel Canister"
+  ],
+  "description": "Keep your LPG stove running strong even in freezing temperatures. The Winter Gas canister uses highly absorbent paper inside the canister to increase the surface area on which the liquid fuel can evaporate into gas, resulting in better performance in colder temps. A self-sealing valve allows lets you remove the partially consumed canister from your stove for easy packing or travel.Each canisters contains 230g of fuel.Performance falls off below -22\u00b0C unless the stove has a preheating coil.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006007746590/6000787-BRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006265958430/6000787-BRN00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006007746590/6000787-BRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006265958430/6000787-BRN00-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006007746590/6000787-BRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006265958430/6000787-BRN00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006007746590/6000787-BRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006265958430/6000787-BRN00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Primus Winter Gas Fuel Canister",
+  "product_code": "6000-787",
+  "source_url": "https://www.mec.ca/en/product/6000-787/Winter-Gas-Fuel-Canister",
+  "tech_specs": {
+    "Ideal for": [
+      "Winter and expedition camping"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ],
+    "Weight": [
+      "390g"
+    ]
+  }
+}

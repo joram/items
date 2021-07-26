@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Sun hats",
+    "Casual Traveller Hat"
+  ],
+  "description": "Shade yourself at the local farmers market or on beaches abroad. Fashionable and functional, this hat is also crushable so you can throw it in your bag without worry once the day is done.Polyester microfiber dries quickly and has UPF 50+ sun protection.4in. adjustable brim customizes your look for the day.Hidden internal drawstring for a fine-tuned fit.Crushable so you can toss it in your bag without worry.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926041243678/5057305-NVY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926041243678/5057305-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wallaroo Casual Traveller Hat - Women's",
+  "product_code": "5057-305",
+  "source_url": "https://www.mec.ca/en/product/5057-305/Casual-Traveller-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

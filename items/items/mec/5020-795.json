@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tires",
+    "Ultra Sport Hometrainer 26 x 1.75 Folding Tir"
+  ],
+  "description": "Fine-tune your performance all winter with this indoor-only tire. Designed specifically for use with rollers, a special cold-running compound prevents heat build-up and tread separation.Recommended 45psi, maximum 65psi.Not suitable for outdoor use.Folding.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806667124766/5020795-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806667419678/5020795-BK000-ALT-STRUCTURE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806667124766/5020795-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806667419678/5020795-BK000-ALT-STRUCTURE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806667124766/5020795-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806667419678/5020795-BK000-ALT-STRUCTURE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806667124766/5020795-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806667419678/5020795-BK000-ALT-STRUCTURE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Continental Ultra Sport Hometrainer 26 x 1.75 Folding Tire",
+  "product_code": "5020-795",
+  "source_url": "https://www.mec.ca/en/product/5020-795/Ultra-Sport-Hometrainer-26-x-1-75-Folding-Tir",
+  "tech_specs": {
+    "Bead\n\nThe bead holds the tire onto the rim. Beads may be hoops of wire, or made of a flexible material which allows them to be folded compactly. Folding tires are easier to store or pack on trips.": [
+      "Folding"
+    ],
+    "ETRTO\n\nISO/ETRTO universal tire sizing system number for matching the correct tire to the rim.": [
+      "47-559"
+    ],
+    "Ideal for": [
+      "Cycle training"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Recommended PSI\n\nInflating your tires over the recommended PSI (pounds per square inch) could cause your tube and/or tire to rupture.": [
+      "45psi"
+    ],
+    "TPI\n\nThreads per inch. Tires with a higher TPI tend to be more supple and lighter, with less rolling resistance, but are less durable.": [
+      "180"
+    ],
+    "Tire size": [
+      "26\u00a0x\u00a01.75in."
+    ],
+    "Tire type": [
+      "Clincher"
+    ],
+    "Weight": [
+      "600g"
+    ],
+    "Wheel position": [
+      "Rear"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fire pits and accessories",
+    "FirePit+"
+  ],
+  "description": "For those who love to watch campfire magic. The FirePit+ provides 360-degree views of the blaze with next-to-no smoke, thanks to the airjets and mesh panels. The high-capacity battery improves the run times for longer evenings round the fire.Stainless steel, enamel-coated steel, and glass-filled nylon.X-Ray Mesh side panels give 360\u00b0 viewing of embers and burning wood.Includes FirePit, grill grate, fuel rack, and USB cord for internal battery charging.Internal 12,800mAh battery powers a fan for fuel burning efficiency.4 fan speeds control the intensity of your flames.51 airjets improve burning efficiency, resulting in less smoke than a conventional fire pit.Cooking grate is 18.5 x 46cm.13cm foldable legs keep the unit off the ground in sensitive environments.Slide-out ash tray makes for easier clean-ups.Fan is compatible with Bluetooth app for control.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160481341470/6014190-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160479768606/6014190-NOC02-ALT-LIT-DARK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160730673182/6014190-NOC02-ALT-FUEL-CHARCOAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160730869790/6014190-NOC02-ALT-FUEL-WOOD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160731033630/6014190-NOC02-ALT-LIT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160731164702/6014190-NOC02-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160481341470/6014190-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160479768606/6014190-NOC02-ALT-LIT-DARK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160730673182/6014190-NOC02-ALT-FUEL-CHARCOAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160730869790/6014190-NOC02-ALT-FUEL-WOOD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160731033630/6014190-NOC02-ALT-LIT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160731164702/6014190-NOC02-ALT-PACKED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160481341470/6014190-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160479768606/6014190-NOC02-ALT-LIT-DARK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160730673182/6014190-NOC02-ALT-FUEL-CHARCOAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160730869790/6014190-NOC02-ALT-FUEL-WOOD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160731033630/6014190-NOC02-ALT-LIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160731164702/6014190-NOC02-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160481341470/6014190-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160479768606/6014190-NOC02-ALT-LIT-DARK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160730673182/6014190-NOC02-ALT-FUEL-CHARCOAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160730869790/6014190-NOC02-ALT-FUEL-WOOD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160731033630/6014190-NOC02-ALT-LIT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160731164702/6014190-NOC02-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "BioLite FirePit+",
+  "product_code": "6014-190",
+  "source_url": "https://www.mec.ca/en/product/6014-190/FirePit%2B",
+  "tech_specs": {
+    "Burner components": [
+      "Stainless steel",
+      "Steel"
+    ],
+    "Dimensions": [
+      "70\u00a0x\u00a030\u00a0x\u00a041cm"
+    ],
+    "Fuel\n\nStoves are designed to burn specific fuels. All stoves should only be used with recommended fuels to prevent damage.": [
+      "Wood",
+      "Charcoal"
+    ],
+    "Fuel pump\n\nLiquid fuel stoves require a fuel pump to pressurize the fuel tank.": [
+      "No"
+    ],
+    "Heat reflector\n\nHeat reflectors are placed under the burner and reflect heat back up towards the cooking pot. This helps save fuel and speed cooking time.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Piezo ignition": [
+      "No"
+    ],
+    "Pot included": [
+      "No"
+    ],
+    "Simmers": [
+      "Yes"
+    ],
+    "Weight": [
+      "8.98kg"
+    ],
+    "Windscreen": [
+      "Yes"
+    ]
+  }
+}

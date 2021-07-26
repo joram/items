@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry skis",
+    "Backland 107 Skis"
+  ],
+  "description": "A light touring ski that shines bright on powder days. With a wood core from toe to tail and a carbon backbone to stiffen it up, the Backland 107 lets you reach deep mountain terrain and quickly lap your skintrack for another powder hit. The HRZN Tech tip is spoon-shaped to provide extra float in powder. Reach all the best stashes, pick your line and drop in.Core is made of poplar and beech wood to bring the weight as low as possible.Carbon Backbone adds snap and edge-hold with very minimal weight penality.HRZN Tech spoon-like tip reduces deflection and improves control in powder.Full sidewall construction improves steering.Powder Rocker is 20% rocker in the tip, 10% in the tail, and 70% camber underfoot for maximum stability in weird conditions and float in deep powder.7000-series sintered base holds wax very well for fast glide in any snow conditions.Topsheets are lightweight and wear-resistant.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168805429278/6011293-BK031.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168805429278/6011293-BK031.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Atomic Backland 107 Skis - Unisex",
+  "product_code": "6011-293",
+  "source_url": "https://www.mec.ca/en/product/6011-293/Backland-107-Skis",
+  "tech_specs": {
+    "Ability\n\nBeginner: new or getting back into skiing.  Intermediate: confident with turning and stopping.  Advanced: highly confident carver. Expert: steeps, drops, park, double blacks -- bring it on.": [
+      "Intermediate",
+      "Advanced"
+    ],
+    "Bindings included": [
+      "No"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Sandwich"
+    ],
+    "Core": [
+      "Wood"
+    ],
+    "Dimension": [
+      "136-107-123mm (175cm)",
+      "137-107-124mm (182cm)",
+      "138-107-125mm (189cm)"
+    ],
+    "Ideal for": [
+      "Freeride and freeskiing",
+      "Alpine touring"
+    ],
+    "Made in": [
+      "Austria"
+    ],
+    "Rocker/camber profile": [
+      "Rocker tip",
+      "Rocker tail"
+    ],
+    "Snow conditions": [
+      "Powder",
+      "Mixed"
+    ],
+    "Terrain": [
+      "Off-Piste"
+    ],
+    "Turning radius": [
+      "17.5m (175cm)",
+      "18.5m (182cm)",
+      "19.5m (189cm)"
+    ],
+    "Weight": [
+      "3.1kg (182cm)"
+    ]
+  }
+}

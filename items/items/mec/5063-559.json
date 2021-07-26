@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Bike chain service",
+    "Bio-Solvent Degreaser 473ml"
+  ],
+  "description": "Keeping your drivetrain clean is key to extending the amount of riding you'll get out of it. This Bio-Solvent Degreaser is designed to be tough on grease and grime, while being kind on the mechanics that use it. You can use the spray bottle to clean your components on the bike, or use the degreaser to clean your parts off the bike.Bio-based formula made with natural ingredients.Powerful solvent easily removes grease and grime.Biodegradable formula doesn't contain toxic products.For use on drivetrain parts with stubborn grease buildup and contamination.Easy spray trigger penetrates deep into moving parts.Safe for carbon fibre, titanium, aluminum, steel, chrome, rubber and plastic.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989894344734/5063559-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989894344734/5063559-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "WPL Bio-Solvent Degreaser 473ml",
+  "product_code": "5063-559",
+  "source_url": "https://www.mec.ca/en/product/5063-559/Bio-Solvent-Degreaser-473ml",
+  "tech_specs": {
+    "Biodegradable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Volume": [
+      "473ml"
+    ]
+  }
+}

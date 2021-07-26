@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Shorts",
+    "Furrow Shorts 11\" Inseam"
+  ],
+  "description": "Tough shorts that can handle what you throw at them: muddy hikes, ultimate practice, or abrasive wicker on the patio chairs.Hard wearing hemp, soft polyester and LYCRA to let you move.Wallet and keys fit in the 2 front pockets2 back pockets.Internal drop-in pocket.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8800118505502/5030802-MUD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8800117620766/5030802-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8800117162014/5030802-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8800118505502/5030802-MUD00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8800117620766/5030802-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8800117162014/5030802-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8800118505502/5030802-MUD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8800117620766/5030802-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8800117162014/5030802-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8800118505502/5030802-MUD00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8800117620766/5030802-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8800117162014/5030802-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Furrow Shorts 11\" Inseam - Men's",
+  "product_code": "5030-802",
+  "source_url": "https://www.mec.ca/en/product/5030-802/Furrow-Shorts-11%22-Inseam",
+  "tech_specs": {
+    "Fabric content": [
+      "53% hemp",
+      "44% recycled polyester",
+      "3% Lycra Spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "11in. (34)"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "1 internal drop-in",
+      "2 back drop-in"
+    ]
+  }
+}

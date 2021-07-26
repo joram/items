@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Packs",
+    "Backpacking packs",
+    "Overnight packs (35 - 55l)",
+    "Cirque 45 Backpack"
+  ],
+  "description": "Technical and streamlined, the Cirque is down with your winter alpine missions. Equipped for high alpine environments, it features ski attachment points, a stowable helmet flap, ice tool carry points and AvaLung compatibility. SwingArm shoulder straps and a form fitting harness effortlessly adapt to your movements, so it feels like this pack is moving with you, not against you.Made of lightweight Dyneema nylon that has incredible abrasion and tear resistance.Form fitting suspension system with SwingArm shoulder straps designed specifically for skiing.Lightly padded hip belt has a stretch woven pocket and a gear loop.Top loading with unique single-pull cinch closure. A long side zipper gives you a secondary access point.Optional ultralight silnylon lid with pocket sold separately.Dedicated avalanche tool organizer panel keeps things tidy and where they need to be.PickPockets and a quick deploy piolet system houses your ice tools for glacier travel.Stowable helmet flap and rope-strap.A-frame or diagonal ski carry system tucks away when not in use.AvaLung compatible design lets you add or remove the AvaLung Element device without tools.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8836376625182/5048526-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8836376625182/5048526-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Cirque 45 Backpack - Unisex",
+  "product_code": "5048-526",
+  "source_url": "https://www.mec.ca/en/product/5048-526/Cirque-45-Backpack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top",
+      "Side"
+    ],
+    "Additional feature(s)": [
+      "Compression straps",
+      "Helmet attachment",
+      "Hipbelt pocket(s)",
+      "Ice axe/pole attachment",
+      "AvaLung Element ready (AvaLung Element sold separately)"
+    ],
+    "Adjustable shoulder harness\n\nAn adjustable harness lets you change the height of the shoulder straps to fit your specific back length.": [
+      "No"
+    ],
+    "Carries": [
+      "Skis - A-frame",
+      "Skis - diagonal"
+    ],
+    "Dynamic suspension\n\nThe hipbelt and/or shoulder straps of the pack are designed to move, pivot or flex to follow your body\u2019s movements.  Each brand uses their own technology.": [
+      "Yes"
+    ],
+    "Hipbelt": [
+      "Padded"
+    ],
+    "Hipbelt circumference": [
+      "66-102 (Small/Medium)",
+      "71-114cm (Medium/Large)"
+    ],
+    "Ideal for": [
+      "Ski mountaineering",
+      "Alpine climbing and mountaineering",
+      "Alpine touring"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Main fabric": [
+      "Dyneema"
+    ],
+    "Ventilated back panel": [
+      "No"
+    ],
+    "Volume": [
+      "45L"
+    ],
+    "Weight": [
+      "1.06kg"
+    ]
+  }
+}

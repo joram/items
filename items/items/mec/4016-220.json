@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling clothing accessories",
+    "Cycling masks and balaclavas",
+    "Techno Gold Filters"
+  ],
+  "description": "Replacement filters for the Respro\u00ae Techno mask.Contains 2 filters.Filters out hydrocarbons, sulphur dioxide, lead oxide, and smoke, as well as sub-micron particulates including pollen dust, rapeseed dust and other irritants.Respro filters are interchangeable. Match the mask and filter size, and use any Respro replacement filter in your mask.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8846883160094/4016220-NOC00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8846883160094/4016220-NOC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8846883160094/4016220-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8846883160094/4016220-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Respro Techno Gold Filters",
+  "product_code": "4016-220",
+  "source_url": "https://www.mec.ca/en/product/4016-220/Techno-Gold-Filters",
+  "tech_specs": {
+    "Filter life": [
+      "1mo"
+    ],
+    "Filter size\n\nA 0.5 micron or smaller filters protozoa and some large bacteria; 0.2 micron or smaller filters smaller bacteria such as campylobacter.": [
+      "0.99microns"
+    ],
+    "Filter type\n\nWater can be treated using various types of filters, chemicals or non-chemical purification methods, or a combination. Filters on their own will not remove viruses as they are too small.": [
+      "Hepa-Type and activated charcoal"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Sport road cycling",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Washable": [
+      "No"
+    ],
+    "Weight": [
+      "20g (Medium)"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Ropes, cords and slings",
+    "Dynamic climbing ropes",
+    "Kinglet 9.2mm Rope"
+  ],
+  "description": "Whether you have your sights set on Dreamcatcher, a speed ascent of The Nose, or just pushing yourself to the next level, this light and thin rope may be what you're after. The low weight and high core percentage are well suited to hard redpoints or long multi-pitches. The Thermo Shield heat treatment ensures the rope will not shrink over time.Thermo Shield treatment gives it excellent handling properties, a supple feel and an impressive strength rating.3D lap coiled so you can use the rope right out of the package.\n\n        Sustainability\n\n\n\n\n\n\n\n\nBluesign\n\n\n\n\n\n\n\n\n\n\n\n                      Certified Bluesign\u00ae Product",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083373584414/6006773-SNW01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083373584414/6006773-SNW01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Edelrid Kinglet 9.2mm Rope",
+  "product_code": "6006-773",
+  "source_url": "https://www.mec.ca/en/product/6006-773/Kinglet-9-2mm-Rope",
+  "tech_specs": {
+    "Diameter": [
+      "9.2mm"
+    ],
+    "Dynamic elongation\n\nMaximum elongation in the first UIAA test fall, where a weight is attached to the rope and then dropped. Higher numbers indicate stretchier ropes.": [
+      "31%"
+    ],
+    "Halfway pattern change": [
+      "No"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Snow and ice climbing"
+    ],
+    "Impact force\n\nThe amount of force, in kN, that the first UIAA fall puts on the falling object. Less impact force puts less force on the climber, belayer, and protection during a fall.": [
+      "8.8kN"
+    ],
+    "Length": [
+      "70m"
+    ],
+    "Linear weight": [
+      "56g/m"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Product sustainability": [
+      "Certified Bluesign\u00ae Product"
+    ],
+    "Static elongation\n\nIn controlled tests, a weight is suspended from the rope (not dropped). Higher numbers indicate stretchier ropes.": [
+      "6.0%"
+    ],
+    "Treatment\n\nDry ropes have a water-resistant treatment on both core and sheath. Dry (UIAA certified) ropes have both core and sheath treated, plus meet the UIAA Water Repellent standard by passing a stringent test where a soaked rope cannot absorb more than 5% of the rope's weight.": [
+      "Non-dry"
+    ],
+    "Type": [
+      "Single (\u2039 9.6mm)"
+    ],
+    "UIAA fall rating\n\nIndicates the number of consecutive falls a rope withstood during testing in a controlled environment. The number is for reference only, and does not indicate the number of falls a rope will withstand during actual use or over its lifespan.": [
+      "7"
+    ],
+    "Weight": [
+      "3.92kg"
+    ]
+  }
+}

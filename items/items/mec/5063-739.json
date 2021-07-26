@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Hydration packs and accessories",
+    "Bladders, reservoirs and accessories",
+    "Big Zip EVO Reservoir Hanger"
+  ],
+  "description": "Platypus expands the possibilities for hydration with this high-quality hook to hang the Big Zip\u2122 EVO Reservoir.Works with any backpack with a hang loop.Made of anodized aluminum.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027032088606/5063739-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027032088606/5063739-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Platypus Big Zip EVO Reservoir Hanger",
+  "product_code": "5063-739",
+  "source_url": "https://www.mec.ca/en/product/5063-739/Big-Zip-EVO-Reservoir-Hanger",
+  "tech_specs": {
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking",
+      "Mountain biking",
+      "Running"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

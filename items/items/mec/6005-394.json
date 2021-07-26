@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Accessory carabiners and key holders",
+    "HikeHitch 2 Compass/ Thermometer Carabiner"
+  ],
+  "description": "Throw your keys on the Hitchhike 2 and never lose track of the temperature or the cardinal directions again.Carabiner clip snaps on nearly anywhere.Thermometer reads in Fahrenheit and Celsius scales down to -20\u00ba F and -30\u00ba C.Separate keyring keeps your keys out of the carabiner, reducing the chances of lost keys.Compact design can be a keyring or a zipper-pull.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041933238302/6005394-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041919901726/6005394-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041933238302/6005394-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041919901726/6005394-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041933238302/6005394-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041919901726/6005394-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041933238302/6005394-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041919901726/6005394-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sun Company HikeHitch 2 Compass/ Thermometer Carabiner",
+  "product_code": "6005-394",
+  "source_url": "https://www.mec.ca/en/product/6005-394/HikeHitch-2-Compass-Thermometer-Carabiner",
+  "tech_specs": {
+    "Calibration\n\nThe thermometer can be calibrated to adjust to any suspected inaccuracies.": [
+      "No"
+    ],
+    "Display": [
+      "Analog"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Protective cover": [
+      "No"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Winter boots",
+    "Casual winter boots",
+    "Mt Hayes Waterproof Chukkas"
+  ],
+  "description": "Rich colours and textures plus warm insulation make these a winter classic.Full-grain leather upper with a waterproof-breathable membrane made from 50% recycled materials.Winter-ready Primaloft insulation.Ortholite footbed for all day comfort and support.Gripstick rubber outsole made from 34% recycled rubber provides traction wet or dry.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955215806494/5048581-BRN82.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8808508260382/5048581-DBR03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955215806494/5048581-BRN82.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8808508260382/5048581-DBR03.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955215806494/5048581-BRN82.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8808508260382/5048581-DBR03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8955215806494/5048581-BRN82.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8808508260382/5048581-DBR03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Timberland Mt Hayes Waterproof Chukkas - Women's",
+  "product_code": "5048-581",
+  "source_url": "https://www.mec.ca/en/product/5048-581/Mt-Hayes-Waterproof-Chukkas",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Height\n\nThe approximate boot height for the average person.": [
+      "Above ankle"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Insulation": [
+      "200g synthetic insulation",
+      "200g fleece"
+    ],
+    "Lining material": [
+      "Faux fur"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable inner boot": [
+      "No"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Full-grain leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ]
+  }
+}

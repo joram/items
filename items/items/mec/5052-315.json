@@ -1,0 +1,80 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Chalk bags",
+    "Mojo Zip Chalk Bag"
+  ],
+  "description": "Keeping it simple, this traditional bag has space for chalk, a brush, and a few crucial items.Classic cylinder shape has a pliable wire rim and an abrasion-resistant TPU lower.Zippered pocket for keys, route topo and micro headlight.Fleece-lined interior with cinching cord-lock closure.Brush holder.Webbing belt with quick-release buckle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860806578206/5052315-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168351133726/5052315-VML12-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168351100958/5052315-BK006-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168350478366/5052315-ABB52-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168343760926/5052315-VML12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168343597086/5052315-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168342745118/5052315-ABB52.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860806578206/5052315-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168351133726/5052315-VML12-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168351100958/5052315-BK006-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168350478366/5052315-ABB52-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168343760926/5052315-VML12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168343597086/5052315-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168342745118/5052315-ABB52.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860806578206/5052315-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168351133726/5052315-VML12-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168351100958/5052315-BK006-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168350478366/5052315-ABB52-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168343760926/5052315-VML12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168343597086/5052315-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168342745118/5052315-ABB52.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860806578206/5052315-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168351133726/5052315-VML12-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168351100958/5052315-BK006-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168350478366/5052315-ABB52-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168343760926/5052315-VML12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168343597086/5052315-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168342745118/5052315-ABB52.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Mojo Zip Chalk Bag",
+  "product_code": "5052-315",
+  "source_url": "https://www.mec.ca/en/product/5052-315/Mojo-Zip-Chalk-Bag",
+  "tech_specs": {
+    "Belt included": [
+      "Yes"
+    ],
+    "Brush holder": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Bouldering",
+      "Indoor climbing"
+    ],
+    "Lining": [
+      "Fleece"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "Nylon"
+    ],
+    "Number of belt loops": [
+      "2"
+    ],
+    "Stash pocket": [
+      "Yes"
+    ],
+    "Weight": [
+      "90g (Medium/Large)"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike reflectors",
+    "Scotchlite 1\" Adhesive Reflective Tape"
+  ],
+  "description": "Stick this reflective tape on any firm surface such as bike tubes, racks or helmets.Tape is 2.5cm wide.Sold by the meter.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815535292446/4003533-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815535292446/4003533-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "3M Scotchlite 1\" Adhesive Reflective Tape",
+  "product_code": "4003-533",
+  "source_url": "https://www.mec.ca/en/product/4003-533/Scotchlite-1%22-Adhesive-Reflective-Tape",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayak touring",
+      "Canoe tripping",
+      "Cycle commuting",
+      "Cycle touring and bikepacking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

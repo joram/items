@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Climbing helmets",
+    "Half Dome Helmet"
+  ],
+  "description": "Whether it's short-cropped, shaved, dreadlocked or woolly-toqued, your head will fit inside this classic helmet. The Half Dome Helmet's redesigned suspension system and one-handed dial should give you a comfortable fit, even if most other helmets feel like a bucket on your head.Moulded EPS foam interior and polycarbonate shell exterior are extremely durable.Low-profile suspension system provides a comfortable fit.Ventilation ports help regulate temperature, expel moisture and improve breathability.Wheel adjuster provides precise adjustment for a quick, fine-tuned fit.Headlamp clips slot directly into the mould of the helmet for secure attachment.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003544543262/5062982-ORG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003544641566/5062982-SLA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003545002014/5062982-DEN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003544543262/5062982-ORG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003544641566/5062982-SLA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003545002014/5062982-DEN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003544543262/5062982-ORG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003544641566/5062982-SLA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003545002014/5062982-DEN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003544543262/5062982-ORG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003544641566/5062982-SLA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9003545002014/5062982-DEN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Half Dome Helmet - Unisex",
+  "product_code": "5062-982",
+  "source_url": "https://www.mec.ca/en/product/5062-982/Half-Dome-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Climbing"
+    ],
+    "Circumference\n\nThe internal circumference determines the size head that the helmet will fit.": [
+      "50-58cm (Small/Medium)",
+      "56-63cm (Medium/Large)"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Hardshell"
+    ],
+    "Fit system": [
+      "Adjustable dial"
+    ],
+    "Headlamp compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "EN 12492"
+    ],
+    "Shell material": [
+      "Polycarbonate"
+    ],
+    "Vents": [
+      "Yes"
+    ],
+    "Weight": [
+      "330g (Small/Medium)",
+      "350g (Medium/Large)"
+    ]
+  }
+}

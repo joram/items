@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Brakes, pads and rotors",
+    "Brake pads",
+    "Dura 2 Road Brake Pad Insert"
+  ],
+  "description": "This replacement brake pad insert is thicker than the standard Dura type, so it lasts longer. It has a 7.65mm contact width for narrow rims and cut outs for reduced weight. Designed for riding in dry conditions, but good in all types of weather.Compatible with any cartridge-based road-brake pad shoes.Water grooves push rain off of rims.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806824869918/5023230-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806824869918/5023230-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kool-Stop Dura 2 Road Brake Pad Insert",
+  "product_code": "5023-230",
+  "source_url": "https://www.mec.ca/en/product/5023-230/Dura-2-Road-Brake-Pad-Insert",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Type": [
+      "Caliper"
+    ],
+    "Weight": [
+      "9g"
+    ]
+  }
+}

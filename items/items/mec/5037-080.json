@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Canoeing",
+    "Canoe accessories",
+    "Helium Yoke Pad"
+  ],
+  "description": "Make long portages feel magically shorter with a cushy yoke pad.Grip-Tex fabric ensures the pad stays in place.Air-mesh panels keep air circulating and make the canoe feel like its floating like a helium balloon.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817903894558/5037080-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817903894558/5037080-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Helium Yoke Pad",
+  "product_code": "5037-080",
+  "source_url": "https://www.mec.ca/en/product/5037-080/Helium-Yoke-Pad",
+  "tech_specs": {
+    "Ideal for": [
+      "Canoeing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "98g"
+    ]
+  }
+}

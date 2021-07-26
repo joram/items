@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child clothing",
+    "Toddler and child accessories",
+    "Toddler and child hats and toques",
+    "Toddler and child winter hats",
+    "Animal Family Hat"
+  ],
+  "description": "With ear flaps and a soft, fleecy lining, this whimsical hat warms up a cold winter day.Made from soft, itch-free acrylic.Lining is 4-way stretch fleece that adds wind resistance.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131590811678/5042654-LTL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131590647838/5042654-JTB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131590811678/5042654-LTL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131590647838/5042654-JTB00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131590811678/5042654-LTL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131590647838/5042654-JTB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131590811678/5042654-LTL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131590647838/5042654-JTB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kombi Animal Family Hat - Children",
+  "product_code": "5042-654",
+  "source_url": "https://www.mec.ca/en/product/5042-654/Animal-Family-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "100% acrylic"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Snowboarding",
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

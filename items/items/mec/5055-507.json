@@ -1,0 +1,81 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Straight gate carabiners",
+    "Nano 22 Carabiner"
+  ],
+  "description": "With an unbeatable strength-to-weight ratio, this carabiner keeps your rack light and your clipping speedy.Relatively stiff wire and hooded nose won't rub open.Deep basket keeps the rope seated.Small proportions may not suit climbers with meaty fingers wearing big gloves.Dimensions are 8.5cm long by 4.5cm wide.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369060382/5055507-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369158686/5055507-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369322526/5055507-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369486366/5055507-LGY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369715742/5055507-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369748510/5055507-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369060382/5055507-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369158686/5055507-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369322526/5055507-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369486366/5055507-LGY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369715742/5055507-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369748510/5055507-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369060382/5055507-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369158686/5055507-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369322526/5055507-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369486366/5055507-LGY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369715742/5055507-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369748510/5055507-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369060382/5055507-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369158686/5055507-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369322526/5055507-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369486366/5055507-LGY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369715742/5055507-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879369748510/5055507-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Nano 22 Carabiner",
+  "product_code": "5055-507",
+  "source_url": "https://www.mec.ca/en/product/5055-507/Nano-22-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.1cm"
+    ],
+    "Gate type": [
+      "Wire"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "No"
+    ],
+    "Strength closed": [
+      "21kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "9kN"
+    ],
+    "Weight": [
+      "22g"
+    ]
+  }
+}

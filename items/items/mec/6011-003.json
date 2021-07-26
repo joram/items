@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard bags",
+    "Nordic Gear Bag"
+  ],
+  "description": "Carry and store your nordic boots and accessories in a convenient package.Padded mat keeps feet dry while changing from boots to shoes.Waterproof bottom.Adjustable shoulder strap and 1 front accessory pocket.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132498157598/6011003-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132498157598/6011003-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Nordic Gear Bag - Unisex",
+  "product_code": "6011-003",
+  "source_url": "https://www.mec.ca/en/product/6011-003/Nordic-Gear-Bag",
+  "tech_specs": {
+    "Depth": [
+      "18cm"
+    ],
+    "Ideal for": [
+      "Cross-country skiing"
+    ],
+    "Length": [
+      "28cm"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "600-denier polyester"
+    ],
+    "Volume": [
+      "16L"
+    ],
+    "Weight": [
+      "363g"
+    ],
+    "Width": [
+      "35cm"
+    ]
+  }
+}

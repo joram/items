@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country classic",
+    "Classic skis",
+    "Escape 6 Vitane Grip Skis"
+  ],
+  "description": "For recreational skiers looking for stability and control. Sidecut and wide front platform promote control and stability. Minimal camber from heel to toe means skis respond efficiently to your power. Waxless bases have dual grip zones for nuanced traction and consistent kick.S-cut sidecut has a light carving sidecut behind the foot and a wider platform and the front for more control and stability.Low heel-toe camber puts lots of oomph into your stride and glide.Core is Densolite 2000, light in weight, but with consistent torsional stiffness.G2 Synchro waxless bases have dual grip zones for smooth transitions and consistent kick.Universal Race grinding uses low-pressure stone grinding to make these fast in all conditions.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137040031774/6011183-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036591134/6011183-NOC02-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137040031774/6011183-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036591134/6011183-NOC02-ALT-BOTTOM.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137040031774/6011183-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036591134/6011183-NOC02-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137040031774/6011183-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036591134/6011183-NOC02-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Escape 6 Vitane Grip Skis - Women's",
+  "product_code": "6011-183",
+  "source_url": "https://www.mec.ca/en/product/6011-183/Escape-6-Vitane-Grip-Skis",
+  "tech_specs": {
+    "Bindings included": [
+      "No"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Structural cap"
+    ],
+    "Core": [
+      "Densolite"
+    ],
+    "Dimension (all lengths)": [
+      "51-48-46-49mm"
+    ],
+    "Ideal for": [
+      "Recreational classic skiing"
+    ],
+    "Made in": [
+      "Bulgaria"
+    ],
+    "Metal edge": [
+      "No"
+    ],
+    "User weight range\n\nA good starting point for selecting ski or snowboard length. You might choose a shorter or longer length based on terrain and ability.": [
+      "40-55kg (174cm)",
+      "50-65kg (182cm)",
+      "60-75kg (190cm)",
+      "70-85kg (198cm)"
+    ],
+    "Waxless\n\nOften called \"fish scale\" skis, waxless skis are designed so you don't need to apply kick wax. However, you may still want to apply glide wax for a better glide. They are a good option for those who don't like waxing, or for regions where temperatures can vary greatly throughout the day.": [
+      "Yes"
+    ],
+    "Weight": [
+      "1.37kg (190cm)"
+    ]
+  }
+}

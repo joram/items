@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Avalanche safety gear",
+    "Avalanche probes",
+    "320 Speed TECH Probe"
+  ],
+  "description": "Featuring a quick deployment system with single pull assembly, the Speed Tech Probes have the strength and durability of aluminum, but are still relatively light to suit professional or recreational use. Extra length adds versatility.Single pull SL mechanism has a lightweight cord for quick deployment.Polymer pull handle resists icing and can be clipped to the probe shaft or a carabiner.Coated stainless steel cable for durability.Speed bullet ferrules provide smooth and rapid assembly of probe sections.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130871259166/5025903-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130871259166/5025903-NVY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130871259166/5025903-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9130871259166/5025903-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "G3 320 Speed TECH Probe",
+  "product_code": "5025-903",
+  "source_url": "https://www.mec.ca/en/product/5025-903/320-Speed-TECH-Probe",
+  "tech_specs": {
+    "Cable material\n\nThe material the cable is made of. The cable runs through the centre of the probe, and provides the tension to hold a multi-sectioned probe together when extended.": [
+      "Stainless steel"
+    ],
+    "Depth marking\n\nDepth markings on the outside of the probe measure snow depth. They show how much snow is between the rescuer and the victim.": [
+      "Yes"
+    ],
+    "Diameter": [
+      "12.5mm"
+    ],
+    "Extended length": [
+      "320cm"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Mountain snowshoeing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "7001-T6 aluminum"
+    ],
+    "Packed length": [
+      "52.5cm"
+    ],
+    "Scale increments": [
+      "5cm"
+    ],
+    "Stuff sack": [
+      "Yes"
+    ],
+    "Weight": [
+      "294g"
+    ]
+  }
+}

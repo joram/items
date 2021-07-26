@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "PhD Outdoor Medium Crew Socks"
+  ],
+  "description": "Nice socks for 3-season hiking and backpacking. The materials manage moisture and allow your feet to breathe.Made of wool, nylon and spandex.Flat-knit toe seam for long-distance comfort.Arch brace keeps the sock in place and adds support.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805903499294/5047801-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805903499294/5047801-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805903499294/5047801-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805903499294/5047801-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool PhD Outdoor Medium Crew Socks - Unisex",
+  "product_code": "5047-801",
+  "source_url": "https://www.mec.ca/en/product/5047-801/PhD-Outdoor-Medium-Crew-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Mapped"
+    ],
+    "Fabric content": [
+      "63% merino wool",
+      "35% nylon",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

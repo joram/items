@@ -1,0 +1,113 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Daypacks and school bags",
+    "Daypacks",
+    "Lane Commuter Pack"
+  ],
+  "description": "Small in size but big on features, the Lane pack is great for the daily commute. It's built to keep gear dry in nasty weather, with stout Cordura and vinyl fabrics as well as a nylon rain cover to deploy in downpours. Gadgets are accessible from their dedicated pocket, and air mesh back panels keep it light and airy, even when fully packed.Made of durable Cordura nylon with water-resistant vinyl panels.Reflective nylon rain cover stashes in a dedicated pocket.Dual side stretch pockets fit water bottles or U-lock.Organizer pockets include a tricot lined soft pocket for sunglasses or phone.Side zip access interior slip pocket for a 15in. laptop.Incognito reflective mesh panel is subtle when not in use and illuminates with direct light.Included reflective rain cover can be pulled out when it starts pouring.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167548317726/6012423-JBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556575262/6012423-JBL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556673566/6012423-JBL00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556739102/6012423-JBL00-ALT-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557034014/6012423-JBL00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167559688222/6012423-JBL00-ALT-MODEL-FEMALE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167559950366/6012423-JBL00-ALT-MODEL-MALE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556411422/6012423-GRT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556476958/6012423-GRT00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167559720990/6012423-GRT00-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167548088350/6012423-GRT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167548317726/6012423-JBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556575262/6012423-JBL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556673566/6012423-JBL00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556739102/6012423-JBL00-ALT-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557034014/6012423-JBL00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167559688222/6012423-JBL00-ALT-MODEL-FEMALE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167559950366/6012423-JBL00-ALT-MODEL-MALE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556411422/6012423-GRT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556476958/6012423-GRT00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167559720990/6012423-GRT00-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167548088350/6012423-GRT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167548317726/6012423-JBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556575262/6012423-JBL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556673566/6012423-JBL00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556739102/6012423-JBL00-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557034014/6012423-JBL00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167559688222/6012423-JBL00-ALT-MODEL-FEMALE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167559950366/6012423-JBL00-ALT-MODEL-MALE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556411422/6012423-GRT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556476958/6012423-GRT00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167559720990/6012423-GRT00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167548088350/6012423-GRT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167548317726/6012423-JBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556575262/6012423-JBL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556673566/6012423-JBL00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556739102/6012423-JBL00-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167557034014/6012423-JBL00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167559688222/6012423-JBL00-ALT-MODEL-FEMALE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167559950366/6012423-JBL00-ALT-MODEL-MALE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556411422/6012423-GRT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167556476958/6012423-GRT00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167559720990/6012423-GRT00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9167548088350/6012423-GRT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Timbuk2 Lane Commuter Pack - Unisex",
+  "product_code": "6012-423",
+  "source_url": "https://www.mec.ca/en/product/6012-423/Lane-Commuter-Pack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Clamshell zip",
+      "Side"
+    ],
+    "Additional feature(s)": [
+      "Reflective details",
+      "Rain cover included"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Depth": [
+      "15cm"
+    ],
+    "Hipbelt": [
+      "None"
+    ],
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Length": [
+      "45cm"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Main fabric": [
+      "Cordura nylon"
+    ],
+    "Padded sleeve fits most\n\nA padded slot to fit electronics or laptops, it may be partially or fully padded on each side.": [
+      "15-inch laptop"
+    ],
+    "Secondary fabric": [
+      "Vinyl-laminated nylon"
+    ],
+    "Ventilated back panel": [
+      "Yes"
+    ],
+    "Volume": [
+      "18L"
+    ],
+    "Weight": [
+      "1.1kg"
+    ],
+    "Width": [
+      "27.5cm"
+    ]
+  }
+}

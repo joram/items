@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling bottoms",
+    "Cycling pants and tights",
+    "Rove Pants"
+  ],
+  "description": "Designed for riding, but styled for everyday. These nice lookin' trousers are comfortable enough for your 2-wheeled commute. And with understated styling, they blend in at the office or pub.Soft organic cotton, nylon blend has a hit of spandex for stretch.2 welted back pockets and 2 front hand pockets.Reflective details.Belt loops.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096215527454/6007380-PHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877066782/6007380-PHA00-ALT-ANKLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877230622/6007380-PHA00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877197854/6007380-PHA00-ALT-LEG.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877263390/6007380-PHA00-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096215527454/6007380-PHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877066782/6007380-PHA00-ALT-ANKLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877230622/6007380-PHA00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877197854/6007380-PHA00-ALT-LEG.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877263390/6007380-PHA00-ALT-POCKET.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096215527454/6007380-PHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877066782/6007380-PHA00-ALT-ANKLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877230622/6007380-PHA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877197854/6007380-PHA00-ALT-LEG.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877263390/6007380-PHA00-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096215527454/6007380-PHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877066782/6007380-PHA00-ALT-ANKLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877230622/6007380-PHA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877197854/6007380-PHA00-ALT-LEG.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9095877263390/6007380-PHA00-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pearl Izumi Rove Pants - Women's",
+  "product_code": "6007-380",
+  "source_url": "https://www.mec.ca/en/product/6007-380/Rove-Pants",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Chamois": [
+      "No"
+    ],
+    "Fabric content": [
+      "70% organically grown cotton",
+      "27% nylon",
+      "3% spandex"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 back",
+      "2 front"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "None"
+    ]
+  }
+}

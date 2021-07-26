@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Mugs, cups and dishes",
+    "Bowls and plates",
+    "Pioneer Plate"
+  ],
+  "description": "Classic enamelware plate that looks good in camp, at home or in a cabin.Made of kiln-hardened enameled steel with a stainless rim.Classic speckled finish.Non-stick surface is chip and scratch resistant.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812549177374/5046066-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812549177374/5046066-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Pioneer Plate",
+  "product_code": "5046-066",
+  "source_url": "https://www.mec.ca/en/product/5046-066/Pioneer-Plate",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Diameter": [
+      "25.4cm"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Made in": [
+      "Mexico"
+    ],
+    "Material": [
+      "Enameled steel"
+    ],
+    "Weight": [
+      "244g"
+    ]
+  }
+}

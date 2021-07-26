@@ -1,0 +1,114 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Road maps and atlases",
+    "Cariboo Chilcotin Coast BC"
+  ],
+  "description": "A detailed mapbook for outdoor adventurers heading to areas near 100 Mile House, Anahim Lake, Bella Coola, Horsefly, Klemtu, Lillooet, Quesnel, Wells, and Williams Lake. Paddlers can explore remote coastlines and the famous Bowron Lakes Canoe Route. There are also many trails and historic routes for hikers and bikers. Maps have elevation relief shading to help you identify land features.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988213313566/5044392-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889077661726/5044392-NOC02-ALT-BARKERVILLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889077694494/5044392-NOC02-ALT-RIVERSINLET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889077923870/5044392-NOC02-ALT-PARKADVENTURES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078087710/5044392-NOC02-ALT-NAVIGATING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078317086/5044392-NOC02-ALT-MAPKEY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078349854/5044392-NOC02-ALT-INDEX.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078513694/5044392-NOC02-ALT-CONTENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239855646/5044392-NOC02-ALT-08CONTENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239822878/5044392-NOC02-ALT-07NAVIGATING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988238577694/5044392-NOC02-ALT-06TOPOGRAPHIC.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988238675998/5044392-NOC02-ALT-05MAPEXAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988238708766/5044392-NOC02-ALT-04MAPEXAMPLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239069214/5044392-NOC02-ALT-03FISHING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239233054/5044392-NOC02-ALT-02LOCALTRIVIA.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988240543774/5044392-NOC02-ALT-01INDEX.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988213313566/5044392-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889077661726/5044392-NOC02-ALT-BARKERVILLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889077694494/5044392-NOC02-ALT-RIVERSINLET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889077923870/5044392-NOC02-ALT-PARKADVENTURES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078087710/5044392-NOC02-ALT-NAVIGATING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078317086/5044392-NOC02-ALT-MAPKEY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078349854/5044392-NOC02-ALT-INDEX.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078513694/5044392-NOC02-ALT-CONTENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239855646/5044392-NOC02-ALT-08CONTENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239822878/5044392-NOC02-ALT-07NAVIGATING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988238577694/5044392-NOC02-ALT-06TOPOGRAPHIC.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988238675998/5044392-NOC02-ALT-05MAPEXAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988238708766/5044392-NOC02-ALT-04MAPEXAMPLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239069214/5044392-NOC02-ALT-03FISHING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239233054/5044392-NOC02-ALT-02LOCALTRIVIA.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988240543774/5044392-NOC02-ALT-01INDEX.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988213313566/5044392-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889077661726/5044392-NOC02-ALT-BARKERVILLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889077694494/5044392-NOC02-ALT-RIVERSINLET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889077923870/5044392-NOC02-ALT-PARKADVENTURES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078087710/5044392-NOC02-ALT-NAVIGATING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078317086/5044392-NOC02-ALT-MAPKEY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078349854/5044392-NOC02-ALT-INDEX.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078513694/5044392-NOC02-ALT-CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239855646/5044392-NOC02-ALT-08CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239822878/5044392-NOC02-ALT-07NAVIGATING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988238577694/5044392-NOC02-ALT-06TOPOGRAPHIC.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988238675998/5044392-NOC02-ALT-05MAPEXAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988238708766/5044392-NOC02-ALT-04MAPEXAMPLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239069214/5044392-NOC02-ALT-03FISHING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239233054/5044392-NOC02-ALT-02LOCALTRIVIA.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988240543774/5044392-NOC02-ALT-01INDEX.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988213313566/5044392-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889077661726/5044392-NOC02-ALT-BARKERVILLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889077694494/5044392-NOC02-ALT-RIVERSINLET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889077923870/5044392-NOC02-ALT-PARKADVENTURES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078087710/5044392-NOC02-ALT-NAVIGATING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078317086/5044392-NOC02-ALT-MAPKEY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078349854/5044392-NOC02-ALT-INDEX.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889078513694/5044392-NOC02-ALT-CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239855646/5044392-NOC02-ALT-08CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239822878/5044392-NOC02-ALT-07NAVIGATING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988238577694/5044392-NOC02-ALT-06TOPOGRAPHIC.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988238675998/5044392-NOC02-ALT-05MAPEXAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988238708766/5044392-NOC02-ALT-04MAPEXAMPLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239069214/5044392-NOC02-ALT-03FISHING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988239233054/5044392-NOC02-ALT-02LOCALTRIVIA.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8988240543774/5044392-NOC02-ALT-01INDEX.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backroad Mapbooks Cariboo Chilcotin Coast BC",
+  "product_code": "5044-392",
+  "source_url": "https://www.mec.ca/en/product/5044-392/Cariboo-Chilcotin-Coast-BC",
+  "tech_specs": {
+    "Edition": [
+      "5th"
+    ],
+    "ISBN": [
+      "9781926806860"
+    ],
+    "Ideal for": [
+      "Canoeing",
+      "Backpacking",
+      "Cycling"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "224"
+    ],
+    "Published": [
+      "2018"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

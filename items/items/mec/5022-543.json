@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tool components",
+    "Hammer"
+  ],
+  "description": "This hammer fits 2010 versions of Petzl\u00ae Quark, Ergo, and Nomic Ice Tools with modular heads.Fits earlier models of Nomic tools, but not earlier versions of the Quark.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807447232542/5022543-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807447232542/5022543-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Hammer",
+  "product_code": "5022-543",
+  "source_url": "https://www.mec.ca/en/product/5022-543/Hammer",
+  "tech_specs": {
+    "Ideal for": [
+      "Ice climbing"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Weight": [
+      "58g"
+    ]
+  }
+}

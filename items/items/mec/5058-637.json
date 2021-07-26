@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Saddles and seat posts",
+    "Saddles",
+    "Arione R3 Saddle"
+  ],
+  "description": "Find comfort on a solid base saddle with a deep pressure-relief zone. Fizik's Spine Concept System is tuned to specific ranges of flexibility and helps you maintain a comfortable position while maximizing output and endurance. The Arione R3 Saddle is designed for the \"Snake\" style, flexible riders who move easily through different positions and use the saddle's entire length. Bending at the lower spine puts most of these riders' weight on their sit bones.Shell is made of composite glass co-injected nylon WingFlex.Cover is thermowelded microtex.Padded with double-injected foam.Rails are made of K:ium tubular alloy that has excellent resistance to metal fatigue and corrosion, and has a high strength-to-weight ratio.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937008201758/5058637-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937201991710/5058637-BK006-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937202024478/5058637-BK006-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937008201758/5058637-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937201991710/5058637-BK006-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937202024478/5058637-BK006-ALT-BOTTOM.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937008201758/5058637-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937201991710/5058637-BK006-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937202024478/5058637-BK006-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937008201758/5058637-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937201991710/5058637-BK006-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8937202024478/5058637-BK006-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fizik Arione R3 Saddle - Unisex",
+  "product_code": "5058-637",
+  "source_url": "https://www.mec.ca/en/product/5058-637/Arione-R3-Saddle",
+  "tech_specs": {
+    "Cover material": [
+      "Synthetic"
+    ],
+    "Dimensions": [
+      "30.0\u00a0x\u00a013.0cm"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Rails": [
+      "Steel alloy"
+    ],
+    "Shell": [
+      "Carbon reinforced nylon"
+    ],
+    "Weight": [
+      "200g"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike chain rings",
+    "Omega Alloy Road Chainring (130mm/5-Bolt)"
+  ],
+  "description": "Alloy chainring to fit either FSA Omega cranks or Shimano 9-speed road cranks.Compatible with triple chainring cranks only.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926733729822/5027020-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926733729822/5027020-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "FSA Omega Alloy Road Chainring (130mm/5-Bolt)",
+  "product_code": "5027-020",
+  "source_url": "https://www.mec.ca/en/product/5027-020/Omega-Alloy-Road-Chainring-%28130mm-5-Bolt%29",
+  "tech_specs": {
+    "Attachment": [
+      "5-bolts"
+    ],
+    "Bolt circle diameter\n\nBolt circle diameter (BCD): the diameter of an imaginary circle that intersects the centre of each chainring bolt.": [
+      "130mm"
+    ],
+    "Compatibility": [
+      "10-speed",
+      "9-speed"
+    ],
+    "Ideal for": [
+      "Road cycling",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "7075-T6 aluminum"
+    ],
+    "Teeth": [
+      "39 (39 Tooth)",
+      "50 (50 Tooth)"
+    ],
+    "Weight": [
+      "99g (50 Tooth)"
+    ]
+  }
+}

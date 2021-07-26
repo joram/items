@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water treatments and tablets",
+    "SE200 Community Chlorine Maker"
+  ],
+  "description": "A high-volume, portable solution for purifying lots of water. Great for remote locations, extended basecamp living or emergency situations. The system electrolyzes brine solution (mixed by you) into chlorine, and in one 5-minute cycle, produces enough to treat 200L of water.  It needs a 12-volt battery (not included) as a power source. Adapters for vehicle and wall outlet are available separately.Generates enough chlorine solution to treat 200L of water in one 5-minute cycle.Default power source is a 12-volt battery (connected via included alligator clips).One fully charged 12-volt battery provides enough power to treat 40,000L of water.Can also be powered by car and wall outlets using adapter kits (sold separately).Easy to follow 1-page image-only instructions.White indicator light and sound signals communicate the progress of electrolysis. Coloured lights indicate power source or brine concentration issues.Includes starter salt for brine-mixing, test strips to ensure proper concentration and a carrying caseIncludes measuring cup (for treating 200L barrels) and measuring spoon (for treating 20L cans).Chlorine container (included) to store treatment solution for up to 24 hours, to treat water that's remote from the chlorine maker and its power source.Tested and validated in low-resource settings, including communities in Kenya, Mali, Tanzania, Zimbabwe, and Thailand.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951740301342/5056136-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951750098974/5056136-NOC02-ALT-ZOPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951750262814/5056136-NOC02-ALT-CONTENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951740301342/5056136-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951750098974/5056136-NOC02-ALT-ZOPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951750262814/5056136-NOC02-ALT-CONTENTS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951740301342/5056136-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951750098974/5056136-NOC02-ALT-ZOPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951750262814/5056136-NOC02-ALT-CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951740301342/5056136-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951750098974/5056136-NOC02-ALT-ZOPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8951750262814/5056136-NOC02-ALT-CONTENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR SE200 Community Chlorine Maker",
+  "product_code": "5056-136",
+  "source_url": "https://www.mec.ca/en/product/5056-136/SE200-Community-Chlorine-Maker",
+  "tech_specs": {
+    "Effective against bacteria\n\nBacteria can cause illnesses such as diarrhea and dysentery and are about 1.0 micron in size, although some can be as small as 0.2 microns.": [
+      "Yes"
+    ],
+    "Effective against particulate\n\nParticulate consists of very small bits and pieces such as dirt or bugs.": [
+      "No"
+    ],
+    "Effective against protozoa\n\nProtozoa are larger than one micron and include cryptosporidium and giardia.": [
+      "Yes"
+    ],
+    "Effective against viruses\n\nMost viruses are in the 0.1 micron size range, but they can be as small as 0.002 microns.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "765g"
+    ]
+  }
+}

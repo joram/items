@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike computers",
+    "Mounts and sensors for bike computers",
+    "Wiring, sensors and parts for bike computers",
+    "RPM Speed/Cadence Bundle"
+  ],
+  "description": "Sleek, magnet-less solutions for capturing speed and cadence data.Compatible with both ANT+ and Bluetooth Smart, these sensors connect to both smartphones and bike computers.Easily replaceable CR2032 batteries last up to a year.Simple tool-free installation.IPX7 waterproofing shrugs off even the heaviest rain.In the box: RPM speed sensor, hub mounting option, RPM cadence sensor, rubber mounting option, zip-ties, shoe mount option, 3M double sided, tape quick start guides.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889714245662/5055794-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889714016286/5055794-BK000-ALT-PKG.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889714245662/5055794-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889714016286/5055794-BK000-ALT-PKG.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889714245662/5055794-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889714016286/5055794-BK000-ALT-PKG.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889714245662/5055794-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8889714016286/5055794-BK000-ALT-PKG.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Wahoo Fitness RPM Speed/Cadence Bundle",
+  "product_code": "5055-794",
+  "source_url": "https://www.mec.ca/en/product/5055-794/RPM-Speed-Cadence-Bundle",
+  "tech_specs": {
+    "ANT+ compatible\n\nEnsures seamless digital wireless communication between ANT+ devices. For example, data from an ultra-low power wireless sensor can be displayed on a bike computer or smartphone, then downloaded to a PC, etc.": [
+      "Yes"
+    ],
+    "Bluetooth": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

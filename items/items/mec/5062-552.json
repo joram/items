@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Accessories",
+    "Running socks",
+    "Aspire One Running Socks"
+  ],
+  "description": "Running socks that go the distance. These thin and lightweight socks have minimal cushioning for comfort in close-fitting shoes without sacrificing sensitivity.Durable nylon and olefin fabric manages moisture and breathability to keep your feet cool and comfortable.Firm support keeps feet going mile after mile.Midfoot arch band and y-heel keeps socks in place without bunching.Seamless toe for chafe-free comfort.Ultralight cushioning keeps feet comfortable without adding bulk.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008846077982/5062552-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008846077982/5062552-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Swiftwick Aspire One Running Socks - Unisex",
+  "product_code": "5062-552",
+  "source_url": "https://www.mec.ca/en/product/5062-552/Aspire-One-Running-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "No-show"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "53% nylon",
+      "39% polypropylene",
+      "8% spandex"
+    ],
+    "Ideal for": [
+      "Running",
+      "Cycling"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

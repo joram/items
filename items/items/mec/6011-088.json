@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike chain rings",
+    "XT SM-CRM85 12 Speed Chainring"
+  ],
+  "description": "Shimano XT quality to complete your 1x12 speed drivetrain. Steel and aluminum composite construction keeps weight down without sacrificing stiffness and durability.Shimano Dynamic Chain Engagement+ technology uses a special tooth profile is designed to improve chain retention and engagement, improving your drivetrain\u2019s efficiency.Designed to be paired with the FC-M8100, FC-M8120, FC-M8130 cranksets.Compatible with 1x12 speed drivetrains.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125756960798/6011088-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125756960798/6011088-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano XT SM-CRM85 12 Speed Chainring",
+  "product_code": "6011-088",
+  "source_url": "https://www.mec.ca/en/product/6011-088/XT-SM-CRM85-12-Speed-Chainring",
+  "tech_specs": {
+    "Attachment": [
+      "Direct mount (Cinch)"
+    ],
+    "Compatibility": [
+      "12-speed"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Japan"
+    ]
+  }
+}

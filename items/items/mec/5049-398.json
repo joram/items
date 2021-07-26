@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid supplies",
+    "Knee Pro-Tec Patellar Tendon Strap"
+  ],
+  "description": "Designed to alleviate knee pain in areas under and surrounding the knee cap, often associated with tendinitis, chondromalacia, Osgood-Schlatter's Disease, and other knee ailments. Provides compression on the patellar tendon to reduce discomfort and irritation. Also help stabilize your patella, absorb stress to the knee, and reduce vibrations in the femoral groove.Neoprene construction with a Velcro\u00ae closure.Circumference measured just below kneecap is 25-30cm for Small, 30.7 -34.6 for Medium, 34.9-39.4cm for Large, 39.7-44.5cm for X-large.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810018144286/5049398-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810018144286/5049398-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810018144286/5049398-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810018144286/5049398-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pro-Tec Athletics Knee Pro-Tec Patellar Tendon Strap",
+  "product_code": "5049-398",
+  "source_url": "https://www.mec.ca/en/product/5049-398/Knee-Pro-Tec-Patellar-Tendon-Strap",
+  "tech_specs": {
+    "Ideal for": [
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

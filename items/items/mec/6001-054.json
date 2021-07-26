@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Arc'word Short Sleeve T-Shirt"
+  ],
+  "description": "The Arc\u2019word Tee is loaded with casual cotton comfort that feels like home.Crafted from a soft organic cotton.Regular fit wears like you want it to, no surprises.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153610448926/6001054-KIN01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153622278174/6001054-KIN01-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153622343710/6001054-KIN01-ALT-MODEL-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153610448926/6001054-KIN01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153622278174/6001054-KIN01-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153622343710/6001054-KIN01-ALT-MODEL-FULL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153610448926/6001054-KIN01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153622278174/6001054-KIN01-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153622343710/6001054-KIN01-ALT-MODEL-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153610448926/6001054-KIN01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153622278174/6001054-KIN01-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153622343710/6001054-KIN01-ALT-MODEL-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arc'teryx Arc'word Short Sleeve T-Shirt - Men's",
+  "product_code": "6001-054",
+  "source_url": "https://www.mec.ca/en/product/6001-054/Arc%27word-Short-Sleeve-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "160gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ]
+  }
+}

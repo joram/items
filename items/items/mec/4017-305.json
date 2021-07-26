@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "Groovy Zipper Pull"
+  ],
+  "description": "This funky zipper-pull will attach to the existing pull on most zippers. It looks cool and is easier to grip than a standard pull.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815569600542/4017305-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815569600542/4017305-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Web Source Groovy Zipper Pull",
+  "product_code": "4017-305",
+  "source_url": "https://www.mec.ca/en/product/4017-305/Groovy-Zipper-Pull",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

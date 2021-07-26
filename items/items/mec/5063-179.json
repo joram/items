@@ -1,0 +1,130 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running and fitness jackets",
+    "Houdini Air Jacket"
+  ],
+  "description": "More breathable and moisture-wicking than the original, the Houdini Air Jacket is your best friend for longer missions when a little weather resistance is crucial. The ultralight fabric is treated with DWR to shed light rain, and a tight weave blocks wind and withstands abrasions. The fabric backing is lightly textured to help you avoid getting clammy during high-output adventures. The cuffs and hem are designed with minimal trim to be lightweight with low bulk. And the chest pocket doubles as a stuff sack for convenient carrying, with a reinforced carabiner loop so it can be clipped to your harness or pack.Lightweight nylon (51% recycled) and polyester fabric has a textured backing for increased airflow against the skin.DWR finish adds weather protection.Low-profile hood with drawcord lets you fine-tune fit while maintaining peripheral vision.Zippered chest pocket converts to a stuff sack for easy storage. Includes a reinforced loop for securing to your harness or pack.Reflective details keep you visible.Slim fit accommodates a base layer or mid-layer.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086979080222/5063179-BL468.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005130782/5063179-BL468-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005229086/5063179-BL468-ALT-BACK2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005294622/5063179-BL468-ALT-DWR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005261854/5063179-BL468-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005360158/5063179-BL468-ALT-FLAT2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005425694/5063179-BL468-ALT-FLATOPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005523998/5063179-BL468-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005556766/5063179-BL468-ALT-FULLBODY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005720606/5063179-BL468-ALT-HOOD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005917214/5063179-BL468-ALT-HOODANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005851678/5063179-BL468-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005818910/5063179-BL468-ALT-PACKED2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005982750/5063179-COR03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087006081054/5063179-COR03-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087006113822/5063179-COR03-ALT-HOOD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087006343198/5063179-COR03-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086979178526/5063179-COR03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086979080222/5063179-BL468.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005130782/5063179-BL468-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005229086/5063179-BL468-ALT-BACK2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005294622/5063179-BL468-ALT-DWR.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005261854/5063179-BL468-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005360158/5063179-BL468-ALT-FLAT2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005425694/5063179-BL468-ALT-FLATOPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005523998/5063179-BL468-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005556766/5063179-BL468-ALT-FULLBODY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005720606/5063179-BL468-ALT-HOOD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005917214/5063179-BL468-ALT-HOODANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005851678/5063179-BL468-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005818910/5063179-BL468-ALT-PACKED2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005982750/5063179-COR03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087006081054/5063179-COR03-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087006113822/5063179-COR03-ALT-HOOD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087006343198/5063179-COR03-ALT-PACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086979178526/5063179-COR03.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086979080222/5063179-BL468.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005130782/5063179-BL468-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005229086/5063179-BL468-ALT-BACK2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005294622/5063179-BL468-ALT-DWR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005261854/5063179-BL468-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005360158/5063179-BL468-ALT-FLAT2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005425694/5063179-BL468-ALT-FLATOPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005523998/5063179-BL468-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005556766/5063179-BL468-ALT-FULLBODY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005720606/5063179-BL468-ALT-HOOD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005917214/5063179-BL468-ALT-HOODANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005851678/5063179-BL468-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005818910/5063179-BL468-ALT-PACKED2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005982750/5063179-COR03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087006081054/5063179-COR03-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087006113822/5063179-COR03-ALT-HOOD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087006343198/5063179-COR03-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086979178526/5063179-COR03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086979080222/5063179-BL468.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005130782/5063179-BL468-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005229086/5063179-BL468-ALT-BACK2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005294622/5063179-BL468-ALT-DWR.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005261854/5063179-BL468-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005360158/5063179-BL468-ALT-FLAT2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005425694/5063179-BL468-ALT-FLATOPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005523998/5063179-BL468-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005556766/5063179-BL468-ALT-FULLBODY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005720606/5063179-BL468-ALT-HOOD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005917214/5063179-BL468-ALT-HOODANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005851678/5063179-BL468-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005818910/5063179-BL468-ALT-PACKED2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087005982750/5063179-COR03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087006081054/5063179-COR03-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087006113822/5063179-COR03-ALT-HOOD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087006343198/5063179-COR03-ALT-PACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9086979178526/5063179-COR03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Houdini Air Jacket - Women's",
+  "product_code": "5063-179",
+  "source_url": "https://www.mec.ca/en/product/5063-179/Houdini-Air-Jacket",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Stuffs in own pocket",
+      "Reflective details"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Fabric content": [
+      "51% recycled nylon",
+      "39% nylon",
+      "10% polyester"
+    ],
+    "Hood": [
+      "Adjustable"
+    ],
+    "Ideal for": [
+      "Trail running"
+    ],
+    "Length": [
+      "Hip-length"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "1 zippered chest"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Water-resistant"
+    ],
+    "Weight": [
+      "102g (Small)"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

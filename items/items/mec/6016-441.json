@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Handlebars, headsets and stems",
+    "Grips and bar tape",
+    "Spectrum EVA Tape"
+  ],
+  "description": "Replace ratty, old bar tape with shock-absorbing EVA. The adhesive backing keeps the tape in place while you're wrapping.Adhesive backing for easy wrapping.Screw-in end plugs included.210cm length covers one set of road bike bars.Available in cork colour only.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199742156830/6016441-COK00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199742156830/6016441-COK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "49N Spectrum EVA Tape",
+  "product_code": "6016-441",
+  "source_url": "https://www.mec.ca/en/product/6016-441/Spectrum-EVA-Tape",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Length": [
+      "210cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Plugs included": [
+      "Yes"
+    ],
+    "Width": [
+      "30mm"
+    ]
+  }
+}

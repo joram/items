@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard goggles",
+    "Ace Goggles"
+  ],
+  "description": "Slopeside goggles with a pair of interchangeable lenses for shifting light conditions. The Ace Goggles have a flexible frame that adapts to lots of different faces. Plus, they're helmet-compatible, moisture-wicking and won't fog up on warm days.Quick Draw lens system uses a simple lever system for fast lens changes.HD+ lenses heighten contrast detail in challenging conditions, giving excellent clarity.Includes a second lens.Rise ventilation system combats lens fogging.Triple-layer Isotron face foam forms a good seal with moisture-wicking Dri-force fleece.Silicone ribbed strap.Includes a spare HD+ persimmon with silver spectra with 46% visible light transmission.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145997688862/6013524-MWB00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145997688862/6013524-MWB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Spy+ Ace Goggles - Unisex",
+  "product_code": "6013-524",
+  "source_url": "https://www.mec.ca/en/product/6013-524/Ace-Goggles",
+  "tech_specs": {
+    "100% UV protection\n\nProvides 100% protection against UVA and UVB rays.": [
+      "Yes"
+    ],
+    "Anti-fog coating\n\nA coating on the inside of the lens that inhibits condensation.": [
+      "Yes"
+    ],
+    "Fits over most eyewear\n\nThese optics are designed to fit comfortably over most eyewear.": [
+      "No"
+    ],
+    "Helmet compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing",
+      "Snowboarding"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Scratch-resistant lens": [
+      "Yes"
+    ],
+    "Vents\n\nVents allow airflow through the goggles which helps to prevent fogging.": [
+      "Yes"
+    ],
+    "Visible Light Transmission\n\n0-10% \u2013 very heavy tint, too dark for most needs. \n10-30% \u2013 heavy tint for bright sunny days.\n20-60% \u2013 light tint, great for cloudy, overcast conditions and shady trails. \n60-80% \u2013 very light tint (often coloured), for improving contrast in low-light conditions, think dawn or dusk. \n80-100% \u2013 little to no tint, this what you want in the dark.": [
+      "14%"
+    ]
+  }
+}

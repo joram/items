@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Pocket knives and fixed blade knives",
+    "Fixed blade knives",
+    "Floating Knife"
+  ],
+  "description": "A good knife is as useful at sea as it is on land. But most knives have one significant flaw: they sink. Maintaining the classic styling and ergonomic design that Mora is known for, the Mora Floating Knife solves the buoyancy issue with a natural cork handle that not only floats, but provides a sure, comfortable grip in wet or dry conditions.Natural cork handle is soft, grippy and floats.Scandi ground blade is great for a variety of outdoor tasks.Rigid high-visibility sheath is easy to find in low light.Sheath has an easy-to-use clip system that allows you to mount your knife almost anywhere.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185916780574/6011887-GNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185764802590/6011887-GNK00-ALT-DOUNLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185916780574/6011887-GNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185764802590/6011887-GNK00-ALT-DOUNLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185916780574/6011887-GNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185764802590/6011887-GNK00-ALT-DOUNLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185916780574/6011887-GNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185764802590/6011887-GNK00-ALT-DOUNLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mora Floating Knife",
+  "product_code": "6011-887",
+  "source_url": "https://www.mec.ca/en/product/6011-887/Floating-Knife",
+  "tech_specs": {
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Straight"
+    ],
+    "Blade length": [
+      "9.4cm"
+    ],
+    "Blade material": [
+      "12C27 stainless steel"
+    ],
+    "Handle material": [
+      "Cork",
+      "Nylon"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Kayaking",
+      "Canoeing"
+    ],
+    "Knife length (open)": [
+      "23.5cm"
+    ],
+    "Made in": [
+      "Sweden"
+    ],
+    "Sheath included": [
+      "Yes"
+    ],
+    "Sheath material": [
+      "Nylon"
+    ],
+    "Weight": [
+      "49g"
+    ]
+  }
+}

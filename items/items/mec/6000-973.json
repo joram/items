@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Dry suits, tops and pants",
+    "Dry suit pants",
+    "Taku Bib Pants"
+  ],
+  "description": "These versatile, high-mobility bib pants are equipped with articulated knee pads. Super-comfortable when kneeling in the boat or back on shore. Mustang Survival chose a 3-layer waterproof-breathable fabric that's light, yet durable enough to stand up to sand and salt waterMarineSpec SP waterproof-breathable fabric is designed for salt-water environments.Adjustable cuffs.Light, functional, snag-free design reduces bulk and improves mobility.Large front zipper makes getting on and off easy.Low profile pockets offer easy access to essentials.Lightweight moulded knee pads stay put with knee adjustment tabs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022411931678/6000973-GR046.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023078662174/6000973-GR046-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022411931678/6000973-GR046.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023078662174/6000973-GR046-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022411931678/6000973-GR046.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023078662174/6000973-GR046-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022411931678/6000973-GR046.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023078662174/6000973-GR046-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mustang Survival Taku Bib Pants - Men's",
+  "product_code": "6000-973",
+  "source_url": "https://www.mec.ca/en/product/6000-973/Taku-Bib-Pants",
+  "tech_specs": {
+    "Drop-seat": [
+      "No"
+    ],
+    "Ideal for": [
+      "Canoeing",
+      "Paddleboarding",
+      "Kayak touring"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pockets": [
+      "2 external chest",
+      "1 thigh"
+    ],
+    "Relief opening": [
+      "No"
+    ]
+  }
+}

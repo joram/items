@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Wash, repair and maintenance",
+    "Tape, needle and thread",
+    "Repair tape and patches",
+    "Seam Grip+WP Field Repair Kit"
+  ],
+  "description": "A basic field repair kit for all types of minor repairs to tents, sleeping pads, rainwear, backpacks, boots, and more.Packed in an expandable water-resistant tube.Seam Grip (7g tube).1 Clear patch (7.5cm).1 Black patch (7.5cm).Contains a field repair guide.Dimensions are 8.5 x 3cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842629742622/5002490-BK131.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8843142103070/5002490-BK131-ALT-APPLY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842629742622/5002490-BK131.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8843142103070/5002490-BK131-ALT-APPLY.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842629742622/5002490-BK131.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8843142103070/5002490-BK131-ALT-APPLY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8842629742622/5002490-BK131.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8843142103070/5002490-BK131-ALT-APPLY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gear Aid Seam Grip+WP Field Repair Kit",
+  "product_code": "5002-490",
+  "source_url": "https://www.mec.ca/en/product/5002-490/Seam-Grip%2BWP-Field-Repair-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "23g"
+    ]
+  }
+}

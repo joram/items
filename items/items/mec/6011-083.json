@@ -1,0 +1,105 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike computers",
+    "Wired bike computers",
+    "Velo 7 Bike Computer"
+  ],
+  "description": "Simple, but in a good way. For those new world of cycling computers, or who only need the basics, this little computer will tell you a lot about how you ride.Current, average  and maximum speed.Pace arrow show if current speed is below or above the average speed.Trip distance and total distance.Clock and elapsed time.Zap strap mount fits all handlebars.Tire size input makes installation easy.Coin cell battery lasts around 3 years with an hour a day of use.Easy to use 1-button controls.Large displayDimensions: 56 x 38 x 19mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100925599774/6011083-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100925599774/6011083-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Cat Eye Velo 7 Bike Computer",
+  "product_code": "6011-083",
+  "source_url": "https://www.mec.ca/en/product/6011-083/Velo-7-Bike-Computer",
+  "tech_specs": {
+    "Alarm": [
+      "No"
+    ],
+    "Altimeter": [
+      "No"
+    ],
+    "Auto sleep\n\nAutomatically switches to sleep mode to preserve battery.": [
+      "Yes"
+    ],
+    "Auto start/stop\n\nAutomatically starts tracking data when riding, and stops tracking data when stopped.": [
+      "Yes"
+    ],
+    "Average speed": [
+      "Yes"
+    ],
+    "Batteries": [
+      "1 lithium CR2032 (included)"
+    ],
+    "Cadence\n\nRevolutions of crankset per minute.": [
+      "No"
+    ],
+    "Clock": [
+      "Yes"
+    ],
+    "Countdown timer": [
+      "No"
+    ],
+    "Current speed": [
+      "Yes"
+    ],
+    "Heart rate monitor": [
+      "No"
+    ],
+    "Ideal for": [
+      "Sport road cycling",
+      "Cycle commuting",
+      "Cycle touring"
+    ],
+    "Illumination": [
+      "No"
+    ],
+    "Included mounts": [
+      "Handlebar mount"
+    ],
+    "Low battery warning": [
+      "Yes"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Maximum speed": [
+      "No"
+    ],
+    "Oversized handlebar mount": [
+      "Yes"
+    ],
+    "Speed comparator\n\nIndicates pace relative to average speed.": [
+      "No"
+    ],
+    "Speed tendency\n\nIndicates whether the rider is accelerating or decelerating.": [
+      "No"
+    ],
+    "Stopwatch": [
+      "Yes"
+    ],
+    "Temperature": [
+      "No"
+    ],
+    "Time trial timer": [
+      "No"
+    ],
+    "Total odometer": [
+      "Yes"
+    ],
+    "Trip odometer": [
+      "Yes"
+    ],
+    "Two bike compatibility\n\nCan be set up for two separate bikes.": [
+      "No"
+    ]
+  }
+}

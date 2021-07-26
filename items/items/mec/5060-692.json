@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Avalanche safety gear",
+    "Snow analysis",
+    "Thermometer"
+  ],
+  "description": "This analog thermometer is a valuable snow safety tool to measure the temperature gradient of the snowpack. The 20mm-diameter dial is easy to read and covers temperatures from -40\u00b0C to 70\u00b0C.Sling included to help attach the thermometer to your skis when measuring air temperature.Thermometer sleeve protects the probe from damage.Overall length of 13.5cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989908467742/5060692-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989908467742/5060692-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backcountry Access Thermometer",
+  "product_code": "5060-692",
+  "source_url": "https://www.mec.ca/en/product/5060-692/Thermometer",
+  "tech_specs": {
+    "Calibration\n\nThe thermometer can be calibrated to adjust to any suspected inaccuracies.": [
+      "No"
+    ],
+    "Display": [
+      "Analog"
+    ],
+    "Ideal for": [
+      "Backcountry skiing"
+    ],
+    "Length": [
+      "13.5cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Protective cover": [
+      "Yes"
+    ],
+    "Temperature range": [
+      "-35 to +40\u00b0C"
+    ],
+    "Waterproof": [
+      "Yes"
+    ],
+    "Weight": [
+      "26g"
+    ]
+  }
+}

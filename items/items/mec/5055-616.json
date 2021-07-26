@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child footwear",
+    "Toddler and child socks",
+    "Toddler and child hiking socks",
+    "Escape Crew Socks"
+  ],
+  "description": "These technical socks are double-layered to reduce friction as you move. Great for hiking and other long days on your feet.Both layers are made of polyester, nylon and LYCRA.Inner layer is smooth against the skin and wicks moisture away from your feet.Lightly cushioned footbed.Stabilizer zones keep them in place.Mesh panels add breathability.Small fits kids shoe size 9-11.5, medium fits 12-2.5, large fits 3-6.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8888106647582/5055616-PPP01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045913305118/5055616-PNK09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045913174046/5055616-BL073.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8888106352670/5055616-ASH16.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8888106647582/5055616-PPP01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045913305118/5055616-PNK09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045913174046/5055616-BL073.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8888106352670/5055616-ASH16.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8888106647582/5055616-PPP01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045913305118/5055616-PNK09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045913174046/5055616-BL073.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8888106352670/5055616-ASH16.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8888106647582/5055616-PPP01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045913305118/5055616-PNK09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9045913174046/5055616-BL073.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8888106352670/5055616-ASH16.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "WrightSock Escape Crew Socks - Children to Youths",
+  "product_code": "5055-616",
+  "source_url": "https://www.mec.ca/en/product/5055-616/Escape-Crew-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "68% polyester",
+      "24% nylon",
+      "8% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

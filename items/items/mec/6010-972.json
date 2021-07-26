@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry ski boots",
+    "Shift Pro 100 AT Ski Boots"
+  ],
+  "description": "Power and stability meet versatility, these boots shift from in bounds groomers to backcountry tours with ease. The highly customizable Custom Shell HD and liner can be thermo-moulded to fit your foot perfectly. The GripWalk\u00ae soles and Surelock mechanism provide traction and range of motion when in walk mode.Polyurethane shell with fibreglass framing transfers power efficiently to your ski.Coreframe and Sensifit\u2122 inserts add power and easy step-in.Cuff is Polyolefin and polyamide for stability and ideal flex.Shell and seamless liner can be thermo-moulded for personalized performance.4 aluminum micro-adjust buckles secure your foot in a snug fit.35 mm strap adds extra support at the top of the cuff.Adjustable flex lets you tweak the boot's stiffness.Oversized pivot transfers power smoothly.GripWalk soles allow nearly-normal walking with a rockered design.Compatible with tech bindings, WTR bindings, GripWalk bindings and MNC bindings.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132496125982/6010972-PET09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132496125982/6010972-PET09.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132496125982/6010972-PET09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132496125982/6010972-PET09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Shift Pro 100 AT Ski Boots - Men's",
+  "product_code": "6010-972",
+  "source_url": "https://www.mec.ca/en/product/6010-972/Shift-Pro-100-AT-Ski-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "GripWalk",
+      "Alpine touring",
+      "Alpine touring (WTR)",
+      "Tech"
+    ],
+    "Buckles": [
+      "4"
+    ],
+    "Flex index\n\nIndicates how stiff the boots are when flexed forward.  Flex ranges from 50 (soft) to 130 (very stiff). Note: There is currently no industry standardized test.": [
+      "100"
+    ],
+    "Hike mode\n\nA mechanism that allows to release the boot cuff to switch to tour mode.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Freeride and freeskiing",
+      "Alpine touring",
+      "Downhill skiing"
+    ],
+    "Lace-up option": [
+      "Yes"
+    ],
+    "Last width\n\nThe width of the interior of the boot shell across the widest part of the forefoot.": [
+      "100mm"
+    ],
+    "Lower shell material": [
+      "Polyurethane",
+      "Fibreglass"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Shell cuff material": [
+      "Polypropylene",
+      "Polyamide"
+    ],
+    "Sole type\n\nAlpine Touring: with tread; compatible with DIN touring bindings. Alpine Touring Tech (Tech): with tread; compatible with G3 Onyx and Dynafit. Downhill: without tread; compatible with freeride/downhill bindings.": [
+      "GripWalk",
+      "Tech"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ],
+    "Weight": [
+      "3.54kg (26.5)"
+    ]
+  }
+}

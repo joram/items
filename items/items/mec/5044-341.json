@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Tent poles",
+    "Camper 4-Person Tent Pole Set"
+  ],
+  "description": "Replacement pole set for the MEC Camper 4 Tent. Fits 2017 and newer MEC Camper 4 tents only.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855287201822/5044341-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855287201822/5044341-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Camper 4-Person Tent Pole Set",
+  "product_code": "5044-341",
+  "source_url": "https://www.mec.ca/en/product/5044-341/Camper-4-Person-Tent-Pole-Set",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pole": [
+      "7000-series aluminum"
+    ],
+    "Pole diameter": [
+      "9.5mm"
+    ]
+  }
+}

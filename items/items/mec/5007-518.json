@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Notebooks and pens",
+    "Pens",
+    "Apollo Space Pen Refill Black"
+  ],
+  "description": "A refill for your Space Pen.Black ink.Fits most Fisher Space pens.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815875981342/5007518-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815875981342/5007518-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fisher Apollo Space Pen Refill Black",
+  "product_code": "5007-518",
+  "source_url": "https://www.mec.ca/en/product/5007-518/Apollo-Space-Pen-Refill-Black",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

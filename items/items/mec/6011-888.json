@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Headlamps and lighting",
+    "Lanterns",
+    "Candle Lanterns",
+    "Original Candle Lantern Kit 2.0"
+  ],
+  "description": "For cheery campsite light and a surprising amount of heat, turn to the reliable candle lantern. When packed, it telescopes shut with the candle inside. Includes lantern, reflector, and neoprene case.Body is lightweight aluminum, globe is glass.Parabolic side reflector directs light for tasks like reading.Neoprene cocoon for protection when travelling.Spring-loaded candle tube keeps flame height constant, small viewing window shows the remaining candle life.Candle burns for 9 hours, resists melting in hot weather.Freeze to remove wax. Frozen wax will chip off easily.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189054971934/6011888-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189057560606/6011888-RED00-ALT-ASE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189054971934/6011888-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189057560606/6011888-RED00-ALT-ASE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189054971934/6011888-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189057560606/6011888-RED00-ALT-ASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189054971934/6011888-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189057560606/6011888-RED00-ALT-ASE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "UCO Original Candle Lantern Kit 2.0",
+  "product_code": "6011-888",
+  "source_url": "https://www.mec.ca/en/product/6011-888/Original-Candle-Lantern-Kit-2-0",
+  "tech_specs": {
+    "Glass globe": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Packed height\n\nHeight of a lantern while closed and not in use. The height does not include the canister for LPG lanterns.": [
+      "10.8cm"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Non-rechargeable"
+    ]
+  }
+}

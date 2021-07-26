@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Spruce Stripe T-Shirt"
+  ],
+  "description": "Get spruced up with this super-soft tee.Soft Treeblend fabric is made of recycled and natural fibres, giving you a clean conscience.tentree\u2019s goal is to construct quality apparel and ensure that ten trees are planted for every article of clothing sold.Regular fit feels just right.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content\n\n\n\n\n\n\n\n\n\n                      Preferred Lyocell\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170049335326/6012040-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170065653790/6012040-WHT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170065850398/6012040-WHT00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170076139550/6012040-DBH14-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170076205086/6012040-DBH14-ALT-GRAPHIC.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170034786334/6012040-DBH14.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170049335326/6012040-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170065653790/6012040-WHT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170065850398/6012040-WHT00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170076139550/6012040-DBH14-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170076205086/6012040-DBH14-ALT-GRAPHIC.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170034786334/6012040-DBH14.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170049335326/6012040-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170065653790/6012040-WHT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170065850398/6012040-WHT00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170076139550/6012040-DBH14-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170076205086/6012040-DBH14-ALT-GRAPHIC.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170034786334/6012040-DBH14.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170049335326/6012040-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170065653790/6012040-WHT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170065850398/6012040-WHT00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170076139550/6012040-DBH14-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170076205086/6012040-DBH14-ALT-GRAPHIC.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9170034786334/6012040-DBH14.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "tentree Spruce Stripe T-Shirt - Men's",
+  "product_code": "6012-040",
+  "source_url": "https://www.mec.ca/en/product/6012-040/Spruce-Stripe-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "45% recycled polyester",
+      "30% Tencel Lyocell",
+      "25% organically grown cotton"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "160gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Product sustainability": [
+      "Recycled content",
+      "Preferred Lyocell",
+      "Organically grown content"
+    ]
+  }
+}

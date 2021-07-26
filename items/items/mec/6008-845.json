@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water bottles",
+    "Sports bottles",
+    "Breakaway Insulated 590ml Water Bottle"
+  ],
+  "description": "Hot days demand cold water. This water bottle packs multiple layers of insulation into a lightweight, flexible bottle to deliver thirst-quenching cool water when you need it. The self-sealing valve ensures you don't lose any precious cold liquid.Triple-layered insulation keeps your water cooler for longer.Spill-proof nozzle is self-sealing to prevent leaks.Removeable valve system is easy to clean and prevents grunge buildup.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087666880542/6008845-BOL02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075856769054/6008845-BL487.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087666880542/6008845-BOL02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075856769054/6008845-BL487.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087666880542/6008845-BOL02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075856769054/6008845-BL487.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087666880542/6008845-BOL02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9075856769054/6008845-BL487.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Polar Bottle Breakaway Insulated 590ml Water Bottle",
+  "product_code": "6008-845",
+  "source_url": "https://www.mec.ca/en/product/6008-845/Breakaway-Insulated-590ml-Water-Bottle",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycling",
+      "Running",
+      "Fitness and training"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lid type": [
+      "Sport cap"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "LDPE (low-density polyethylene)"
+    ],
+    "Volume": [
+      "590ml"
+    ],
+    "Water filter compatible": [
+      "No"
+    ]
+  }
+}

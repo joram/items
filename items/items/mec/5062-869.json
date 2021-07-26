@@ -1,0 +1,81 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shorts, tights and pants",
+    "Running and training shorts",
+    "Kore Shorts"
+  ],
+  "description": "Nail crow pose, do another set of deadlifts or knock 5 minutes off your 10K time. The Kore Shorts are your all-purpose answer to the eternal question of \"what should we do today?\" The answer: whatever the heck you want.Moisture-wicking polyester and spandex has 4-way stretch for unrestricted movement.CoolMax liner moves moisture away from your body and dries quickly to keep you cool and comfortable.Anti-odour treatment keeps you smelling as fresh as possible.Elastic waistband with drawcord for a customized fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185231962142/5062869-INM04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221607454/5062869-INM04-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221804062/5062869-INM04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221836830/5062869-INM04-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185222164510/5062869-INM04-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185222131742/5062869-INM04-ALT-STRETCH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020074393630/5062869-BK000-ALT-UNDERLAYER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020074426398/5062869-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9019441905694/5062869-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185231962142/5062869-INM04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221607454/5062869-INM04-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221804062/5062869-INM04-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221836830/5062869-INM04-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185222164510/5062869-INM04-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185222131742/5062869-INM04-ALT-STRETCH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020074393630/5062869-BK000-ALT-UNDERLAYER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020074426398/5062869-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9019441905694/5062869-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185231962142/5062869-INM04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221607454/5062869-INM04-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221804062/5062869-INM04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221836830/5062869-INM04-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185222164510/5062869-INM04-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185222131742/5062869-INM04-ALT-STRETCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020074393630/5062869-BK000-ALT-UNDERLAYER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020074426398/5062869-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9019441905694/5062869-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185231962142/5062869-INM04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221607454/5062869-INM04-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221804062/5062869-INM04-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185221836830/5062869-INM04-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185222164510/5062869-INM04-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185222131742/5062869-INM04-ALT-STRETCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020074393630/5062869-BK000-ALT-UNDERLAYER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020074426398/5062869-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9019441905694/5062869-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vuori Kore Shorts - Men's",
+  "product_code": "5062-869",
+  "source_url": "https://www.mec.ca/en/product/5062-869/Kore-Shorts",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Antimicrobial treatment",
+      "Built-in brief"
+    ],
+    "Fabric content": [
+      "88% polyester",
+      "12% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "8in. (M)"
+    ],
+    "Ideal for": [
+      "Yoga and fitness",
+      "Running"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 front",
+      "1 back"
+    ]
+  }
+}

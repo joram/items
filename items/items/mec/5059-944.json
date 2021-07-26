@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike cassettes and freewheels",
+    "Ultegra CS-R8000 11 Speed Cassette"
+  ],
+  "description": "Lightweight and durable with a wide gear adjustment range. 11 speeds allow you to discover the optimal gearing setup for the terrain and to \"tune\" the bike for any specific application.The five largest sprockets are mounted on 2 aluminum spiders to keep the weight low.Cogs are made of hard-wearing nickel-plated steel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8960088801310/5059944-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8960088801310/5059944-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano Ultegra CS-R8000 11 Speed Cassette",
+  "product_code": "5059-944",
+  "source_url": "https://www.mec.ca/en/product/5059-944/Ultegra-CS-R8000-11-Speed-Cassette",
+  "tech_specs": {
+    "Compatibility": [
+      "11-speed"
+    ],
+    "Gear ratio": [
+      "11-25T (11-25 Teeth)",
+      "11-28T (11-28 Teeth)",
+      "11-30T (11-30 Teeth)"
+    ],
+    "Ideal for": [
+      "Performance and race road cycling"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Nickel plated\n\nNickel plating can increase durability and product life.": [
+      "Yes"
+    ],
+    "Type": [
+      "Cassette"
+    ],
+    "Weight": [
+      "232g (11-25 Teeth)",
+      "251g (11-28 Teeth)",
+      "269g (11-30 Teeth)"
+    ]
+  }
+}

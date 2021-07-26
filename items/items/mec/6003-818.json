@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Fire pits and accessories",
+    "Firebowl Carry Bag"
+  ],
+  "description": "A convenient storage solution for your Outland Firebowl Deluxe Fire Pit. Webbing handles provide carrying options, and the zippered top contains any dust or debris that may come off the fire pit.Made of durable 400-denier polyester with a polyurethane lining.Zippered top is easy to load.Pocket under of lid stores a lighter and other small items.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030084591646/6003818-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030397689886/6003818-NOC02-ALT-INHAND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030084591646/6003818-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030397689886/6003818-NOC02-ALT-INHAND.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030084591646/6003818-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030397689886/6003818-NOC02-ALT-INHAND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030084591646/6003818-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030397689886/6003818-NOC02-ALT-INHAND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outland Living Firebowl Carry Bag",
+  "product_code": "6003-818",
+  "source_url": "https://www.mec.ca/en/product/6003-818/Firebowl-Carry-Bag",
+  "tech_specs": {
+    "Ideal for": [
+      "Car camping",
+      "Beach"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "454g"
+    ]
+  }
+}

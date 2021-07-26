@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Showers, soap & travel toothbrushes",
+    "Campsuds 500ml"
+  ],
+  "description": "Because it is so highly concentrated, only a few drops of Campsuds are needed for most cleaning tasks. The flip-up spout lets you dispense controlled and economical quantities of cleanser.Contains purified water and vegetable-based biodegradable anionic and non-ionic cleaning agents.Effective in hot or cold water \u2013 and salt water, too!No animal ingredients or petroleum oils.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202275713054/5003531-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202275713054/5003531-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sierra Dawn Campsuds 500ml",
+  "product_code": "5003-531",
+  "source_url": "https://www.mec.ca/en/product/5003-531/Campsuds-500ml",
+  "tech_specs": {
+    "Biodegradable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Suitable for use in salt water": [
+      "Yes"
+    ],
+    "Volume": [
+      "0.5L"
+    ],
+    "Weight": [
+      "595g"
+    ]
+  }
+}

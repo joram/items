@@ -1,0 +1,91 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike lights",
+    "Rear bike lights",
+    "Vya Smart Taillight"
+  ],
+  "description": "Compact, easy to charge, weatherproof, and it turns itself on, what more could you want?  The Vya knows when you are on the move, automatically turning on its 50-lumen pulse, letting you focus on your ride.Internal motion detector turns it on when you start rolling.Light cannot turn on unless in the mount and turns off when removed from the mount. .Pulsing light pattern is engineered for maximum visibility.Integrated type-A male USB plug makes charging easy.Side lighting ports help keep you from sliding into blinds spots.IP67 weather proofing keeps the Vibe shining, regardless of the conditions.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143695671326/6013059-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143682924574/6013059-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143685808158/6013059-BK000-ALT-OFF.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143685873694/6013059-BK000-ALT-ON.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143695671326/6013059-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143682924574/6013059-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143685808158/6013059-BK000-ALT-OFF.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143685873694/6013059-BK000-ALT-ON.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143695671326/6013059-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143682924574/6013059-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143685808158/6013059-BK000-ALT-OFF.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143685873694/6013059-BK000-ALT-ON.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143695671326/6013059-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143682924574/6013059-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143685808158/6013059-BK000-ALT-OFF.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143685873694/6013059-BK000-ALT-ON.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Light & Motion Vya Smart Taillight",
+  "product_code": "6013-059",
+  "source_url": "https://www.mec.ca/en/product/6013-059/Vya-Smart-Taillight",
+  "tech_specs": {
+    "Batteries": [
+      "Rechargeable battery pack (non-removable)"
+    ],
+    "Burn time - flash": [
+      "8\u00a0h"
+    ],
+    "Charge time\n\nThe amount of time it takes to fully charge the battery. Applies to lithium and NiMH type batteries. Does not apply to rechargeable or non-rechargeable AA or AAA batteries.": [
+      "2\u00a0h"
+    ],
+    "Flash mode": [
+      "Yes"
+    ],
+    "Helmet attachment\n\nIncludes a bracket or mounting system that attaches to most bike helmets.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Included mounts": [
+      "Seat post mount"
+    ],
+    "Light modes\n\nThe number of lighting levels/modes the light has (i.e., low, med, high, flash).": [
+      "1 mode"
+    ],
+    "Light source": [
+      "LED"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Max light output\n\nThe total quantity of light emitted in every direction from a source of light; measured in lumens.": [
+      "50\u00a0lumens"
+    ],
+    "Product sustainability": [
+      "Rechargeable batteries"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Rechargeable"
+    ],
+    "Red light mode": [
+      "Yes"
+    ],
+    "Regulated output\n\nOn regulated lights brightness is consistent, and does not decrease gradually as the batteries are drained.": [
+      "Yes"
+    ],
+    "Type\n\nMost Canadian municipalities require a white front light and a red rear light.": [
+      "Rear"
+    ],
+    "Weight": [
+      "30g"
+    ]
+  }
+}

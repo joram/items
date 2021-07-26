@@ -1,0 +1,111 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "GPS Navigation",
+    "Satellite communicators and locators",
+    "RescuMe PLB-1 Personal Locator Beacon"
+  ],
+  "description": "A simple, subscription-free way to call for help. This beacon fits in a pocket and transmits on 2 frequencies simultaneously once activated. The 406 MHz signal goes to both the GEOSAR and LEOSAR satellite constellations. The 121.5 MHz transmission is a local signal that searchers can triangulate on once in your vicinity. A manually-activated SOS strobe guides SAR personnel at night.Broadcasts SOS to government funded satellite networks, so there's no monthly fee.Transmits a unique beacon identifier you register with the Rescue Coordination Centre for fast response time as SAR teams know what to look for.66-channel GPS receiver pinpoints locations within a few metres and embeds it in the signal to GEOSAR satellites.Battery lasts 7 years in storage, transmits for more than 24 hours at -20\u00b0C.Battery replacement can be done at an Ocean Signal authorised battery replacement centres.Retractable antenna improves signal strength in challenging conditions.1-button activation with a spring loaded hard-plastic cover, prevents accidental activation.Cancel button for accidental activation.Test button for yearly readines checks.Bright white strobe (13 lumens) signals  SOS transmission, and guides rescuers to your position.LED indicator provides transmission details.Floatation pouch included to make it bouyant.Waterproof to 15m.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145996869662/6013458-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995198494/6013458-NOC02-ALT-INSITU.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146026917918/6013458-NOC02-ALT-DIMENSIONS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146026950686/6013458-NOC02-ALT-SIZING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145996869662/6013458-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995198494/6013458-NOC02-ALT-INSITU.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146026917918/6013458-NOC02-ALT-DIMENSIONS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146026950686/6013458-NOC02-ALT-SIZING.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145996869662/6013458-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995198494/6013458-NOC02-ALT-INSITU.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146026917918/6013458-NOC02-ALT-DIMENSIONS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146026950686/6013458-NOC02-ALT-SIZING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145996869662/6013458-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145995198494/6013458-NOC02-ALT-INSITU.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146026917918/6013458-NOC02-ALT-DIMENSIONS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9146026950686/6013458-NOC02-ALT-SIZING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ocean Signal RescuMe PLB-1 Personal Locator Beacon",
+  "product_code": "6013-458",
+  "source_url": "https://www.mec.ca/en/product/6013-458/RescuMe-PLB-1-Personal-Locator-Beacon",
+  "tech_specs": {
+    "Ability to test\n\nAllows you to test the unit.": [
+      "Yes"
+    ],
+    "Barometric altimeter\n\nBarometer function helps forecast weather trends. An altimeter can provide one line of position for location on a topo map, useful if the GPS isn't working.": [
+      "No"
+    ],
+    "Batteries": [
+      "Lithium-manganese (included)"
+    ],
+    "Battery life (operating)": [
+      "24\u00a0h"
+    ],
+    "Battery life (standby)": [
+      "61320\u00a0h"
+    ],
+    "Check-in feature\n\nAllows you to send a 'check-in' message to let people know you are safe.": [
+      "No"
+    ],
+    "Delivery confirmation\n\nLets you know that your message was received.": [
+      "Yes"
+    ],
+    "Dimensions": [
+      "3.3\u00a0x\u00a05.1\u00a0x\u00a07.7cm"
+    ],
+    "Electronic compass\n\nAn electronic compass allows the user to view their heading in situations where they are either standing still or moving too slowly for the GPS to detect.": [
+      "No"
+    ],
+    "Floats": [
+      "No"
+    ],
+    "Frequency (alert)": [
+      "406MHz"
+    ],
+    "Frequency (homing)": [
+      "121.5MHz"
+    ],
+    "GPS data sent in SOS\n\nGPS coordinates are sent in each SOS message.": [
+      "Yes"
+    ],
+    "IPX rating\n\nIndicates the degree of protection against liquid. IP X1: Dripping water while in normal operating orientation; IP X4: Splashing water; IP X5: Water jets; IP X6: Powerful water jets; IP X7: Immersion up to 1m \u2264 30 minutes; IP X8: Suitable for submersion as specified by manufacturer.": [
+      "IP X8"
+    ],
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Operating temperature": [
+      "-20 to 55\u00b0C"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Non-rechargeable"
+    ],
+    "Replaceable batteries": [
+      "No"
+    ],
+    "Satellite network used": [
+      "COSPAS-SARSAT"
+    ],
+    "Standards": [
+      "ETSI EN 302-152-1"
+    ],
+    "Storage temperature": [
+      "-30 to 70\u00b0C"
+    ],
+    "Transmission duration": [
+      "24 hours @ -20\u00baC"
+    ],
+    "Weight": [
+      "116g"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Toddler ski harness and teaching equipment",
+    "12\" Balance Bike Snow Kit"
+  ],
+  "description": "Turn your toddler's Strider bike into a ski bike. Let them reign terror on the snow!Ski blades strap under each wheel.Mind-blowingly hilarious.Straps included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091105587230/6011269-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435036702/6011269-BK000-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435069470/6011269-BK000-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435102238/6011269-BK000-ALT-ONBIKE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435331614/6011269-BK000-ALT-ONBIKE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091105587230/6011269-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435036702/6011269-BK000-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435069470/6011269-BK000-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435102238/6011269-BK000-ALT-ONBIKE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435331614/6011269-BK000-ALT-ONBIKE2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091105587230/6011269-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435036702/6011269-BK000-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435069470/6011269-BK000-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435102238/6011269-BK000-ALT-ONBIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435331614/6011269-BK000-ALT-ONBIKE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091105587230/6011269-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435036702/6011269-BK000-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435069470/6011269-BK000-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435102238/6011269-BK000-ALT-ONBIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091435331614/6011269-BK000-ALT-ONBIKE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Strider 12\" Balance Bike Snow Kit - Youths",
+  "product_code": "6011-269",
+  "source_url": "https://www.mec.ca/en/product/6011-269/12%22-Balance-Bike-Snow-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

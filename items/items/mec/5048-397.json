@@ -1,0 +1,70 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Bike multi-tools",
+    "AWS-10 Folding Hex Wrench"
+  ],
+  "description": "With a slip-resistant handle and hardened tool steel bits, the AWS-10 has all the hex power you need.Tough, slip resistant, composite handle.Through-hardened industrial steel bits.Chamfered edges on the bits for an easy and proper fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496469022/5048397-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496567326/5048397-NOC02-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496796702/5048397-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496829470/5048397-NOC02-ALT-USE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806497058846/5048397-NOC02-ALT-PARTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496469022/5048397-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496567326/5048397-NOC02-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496796702/5048397-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496829470/5048397-NOC02-ALT-USE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806497058846/5048397-NOC02-ALT-PARTS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496469022/5048397-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496567326/5048397-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496796702/5048397-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496829470/5048397-NOC02-ALT-USE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806497058846/5048397-NOC02-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496469022/5048397-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496567326/5048397-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496796702/5048397-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806496829470/5048397-NOC02-ALT-USE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806497058846/5048397-NOC02-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool AWS-10 Folding Hex Wrench",
+  "product_code": "5048-397",
+  "source_url": "https://www.mec.ca/en/product/5048-397/AWS-10-Folding-Hex-Wrench",
+  "tech_specs": {
+    "Allen (hex) keys": [
+      "1.5mm",
+      "2mm",
+      "2.5mm",
+      "3mm",
+      "4mm",
+      "5mm",
+      "6mm"
+    ],
+    "Chain tool": [
+      "No"
+    ],
+    "Flathead (slot) screwdriver": [
+      "No"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Phillips (cross) driver": [
+      "No"
+    ],
+    "Weight": [
+      "105g"
+    ]
+  }
+}

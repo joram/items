@@ -1,0 +1,113 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Vacuum bottles and flasks",
+    "Microlite 720 Twist Bottle"
+  ],
+  "description": "A sleek design that weighs considerably less than most insulated bottles \u2013 so ideal for rest days.Super-thin insulated walls are only 2mm thick, keeping the weight down.Keeps your drinks hot for up to 12 hours or cold for up to 24 hours.Leakproof screw-top lid.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537271326/6012852-STA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518233118/6012852-STA00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518396958/6012852-STA00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518102046/6012852-ORZ00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518167582/6012852-ORZ00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518265886/6012852-ORZ00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517708830/6012852-MTV00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517807134/6012852-MTV00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517872670/6012852-MTV00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517446686/6012852-BK000-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517676062/6012852-BK000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517774366/6012852-BK000-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537173022/6012852-ORZ00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537009182/6012852-MTV00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517381150/6012852-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537271326/6012852-STA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518233118/6012852-STA00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518396958/6012852-STA00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518102046/6012852-ORZ00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518167582/6012852-ORZ00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518265886/6012852-ORZ00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517708830/6012852-MTV00-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517807134/6012852-MTV00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517872670/6012852-MTV00-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517446686/6012852-BK000-ALT-LID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517676062/6012852-BK000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517774366/6012852-BK000-ALT-OPEN2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537173022/6012852-ORZ00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537009182/6012852-MTV00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517381150/6012852-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537271326/6012852-STA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518233118/6012852-STA00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518396958/6012852-STA00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518102046/6012852-ORZ00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518167582/6012852-ORZ00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518265886/6012852-ORZ00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517708830/6012852-MTV00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517807134/6012852-MTV00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517872670/6012852-MTV00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517446686/6012852-BK000-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517676062/6012852-BK000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517774366/6012852-BK000-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537173022/6012852-ORZ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537009182/6012852-MTV00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517381150/6012852-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537271326/6012852-STA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518233118/6012852-STA00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518396958/6012852-STA00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518102046/6012852-ORZ00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518167582/6012852-ORZ00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162518265886/6012852-ORZ00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517708830/6012852-MTV00-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517807134/6012852-MTV00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517872670/6012852-MTV00-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517446686/6012852-BK000-ALT-LID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517676062/6012852-BK000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517774366/6012852-BK000-ALT-OPEN2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537173022/6012852-ORZ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162537009182/6012852-MTV00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162517381150/6012852-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Microlite 720 Twist Bottle",
+  "product_code": "6012-852",
+  "source_url": "https://www.mec.ca/en/product/6012-852/Microlite-720-Twist-Bottle",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Insulated": [
+      "Yes"
+    ],
+    "Lid type": [
+      "Screw-top"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Volume": [
+      "720ml"
+    ],
+    "Water filter compatible": [
+      "No"
+    ],
+    "Weight": [
+      "288g"
+    ]
+  }
+}

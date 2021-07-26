@@ -1,0 +1,82 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "East Kootenay BC WP Map"
+  ],
+  "description": "A waterproof, tear-resistant map featuring the East Kootenays, from Radium Hot Springs to Fernie, through the Purcell Range and beyond. This edition has been expanded to include Banff National Park and more of the Flathead area, north to Golden and even a portion of the West Kootenays. Includes topographic information, trail systems, logging roads and recreational features. GPS compatible, it includes hot springs, points of interest, camp sites, trails, access points and service providers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058510405662/6002429-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058526986270/6002429-NOC02-ALT-1BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527150110/6002429-NOC02-ALT-2NORTHMAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527182878/6002429-NOC02-ALT-3SOUTHMAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527215646/6002429-NOC02-ALT-4LEGEND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527313950/6002429-NOC02-ALT-5SAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527477790/6002429-NOC02-ALT-6SAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527510558/6002429-NOC02-ALT-7WRITEUPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058510405662/6002429-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058526986270/6002429-NOC02-ALT-1BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527150110/6002429-NOC02-ALT-2NORTHMAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527182878/6002429-NOC02-ALT-3SOUTHMAP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527215646/6002429-NOC02-ALT-4LEGEND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527313950/6002429-NOC02-ALT-5SAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527477790/6002429-NOC02-ALT-6SAMPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527510558/6002429-NOC02-ALT-7WRITEUPS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058510405662/6002429-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058526986270/6002429-NOC02-ALT-1BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527150110/6002429-NOC02-ALT-2NORTHMAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527182878/6002429-NOC02-ALT-3SOUTHMAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527215646/6002429-NOC02-ALT-4LEGEND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527313950/6002429-NOC02-ALT-5SAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527477790/6002429-NOC02-ALT-6SAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527510558/6002429-NOC02-ALT-7WRITEUPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058510405662/6002429-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058526986270/6002429-NOC02-ALT-1BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527150110/6002429-NOC02-ALT-2NORTHMAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527182878/6002429-NOC02-ALT-3SOUTHMAP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527215646/6002429-NOC02-ALT-4LEGEND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527313950/6002429-NOC02-ALT-5SAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527477790/6002429-NOC02-ALT-6SAMPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058527510558/6002429-NOC02-ALT-7WRITEUPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backroad Mapbooks East Kootenay BC WP Map",
+  "product_code": "6002-429",
+  "source_url": "https://www.mec.ca/en/product/6002-429/East-Kootenay-BC-WP-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Canoeing",
+      "Travel"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2019"
+    ],
+    "Regionality": [
+      "British Columbia",
+      "Rockies"
+    ],
+    "Scale": [
+      "1:200,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

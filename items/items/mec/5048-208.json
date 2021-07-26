@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid supplies",
+    "C-Splint"
+  ],
+  "description": "This innovative lightweight, malleable splint allows you to stabilize injuries to help safely evacuate an injured person from the backcountry.Made of a pliable thin aluminum alloy sandwiched between 2 layers of closed-cell foam.Can be folded flat or rolled for packing.Reusable, and can be shaped or cut to fit.Waterproof and stable at exteme temperatures.Can be worn for x-rays.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810017882142/5048208-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810017882142/5048208-YLW00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810017882142/5048208-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810017882142/5048208-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Medical Kits C-Splint",
+  "product_code": "5048-208",
+  "source_url": "https://www.mec.ca/en/product/5048-208/C-Splint",
+  "tech_specs": {
+    "Ideal for": [
+      "Emergency preparedness",
+      "Snowsports",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "128g"
+    ]
+  }
+}

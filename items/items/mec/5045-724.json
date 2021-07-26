@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "William Ball Lock Carabiner"
+  ],
+  "description": "A large, pear-shaped locking carabiner that\u2019s great for belaying and rappelling. It can easily accommodate a Munter hitch with both single and double ropes. The large size also makes it useful for anchoring multiple ropes and slings, and keeping belays organized.Ball-lock system automatically locks, resists accidental opening, and is easily opened one-handed.Green button indicates when gate is locked.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807131512862/5045724-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807131512862/5045724-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl William Ball Lock Carabiner",
+  "product_code": "5045-724",
+  "source_url": "https://www.mec.ca/en/product/5045-724/William-Ball-Lock-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.7cm"
+    ],
+    "Gate type": [
+      "Straight"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Indoor climbing"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Auto-locking"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "27kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "8kN"
+    ],
+    "Weight": [
+      "90g"
+    ]
+  }
+}

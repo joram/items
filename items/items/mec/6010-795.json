@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Swim fitness",
+    "Performance swim and lap suits",
+    "Endurance Launch Splice Jammer Swimsuit"
+  ],
+  "description": "Made from Speedo's longest lasting fabric, this suit is highly resistant to chlorine and resists fading in the sun. Designed for swimmers who are training and prepping to compete.Endurance+ fabric is chlorine-resistant and retains colour and shape.Body-hugging fit reduces drag.No-slip drawcord at waist.Lined front panel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549467678/6010795-BK007.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021621790/6010795-BK007-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549467678/6010795-BK007.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021621790/6010795-BK007-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549467678/6010795-BK007.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021621790/6010795-BK007-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549467678/6010795-BK007.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021621790/6010795-BK007-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Speedo Endurance Launch Splice Jammer Swimsuit - Men's",
+  "product_code": "6010-795",
+  "source_url": "https://www.mec.ca/en/product/6010-795/Endurance-Launch-Splice-Jammer-Swimsuit",
+  "tech_specs": {
+    "Fabric content": [
+      "50% PBT",
+      "50% polyester"
+    ],
+    "Ideal for": [
+      "Swim training",
+      "Triathlon"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Caps",
+    "Pride Ball Cap"
+  ],
+  "description": "Show your love of the mountains and hide your bedhead.Organic cotton ripstop in a five-panel construction.FlashDry\u2122 sweatband keeps sweat from your eyes.Adjustable snap back fits most heads.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192207777822/6012992-WHF01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192202305566/6012992-WHF01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192202207262/6012992-BK276-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192207745054/6012992-BK276.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192207777822/6012992-WHF01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192202305566/6012992-WHF01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192202207262/6012992-BK276-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192207745054/6012992-BK276.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192207777822/6012992-WHF01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192202305566/6012992-WHF01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192202207262/6012992-BK276-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192207745054/6012992-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192207777822/6012992-WHF01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192202305566/6012992-WHF01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192202207262/6012992-BK276-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192207745054/6012992-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Pride Ball Cap - Unisex",
+  "product_code": "6012-992",
+  "source_url": "https://www.mec.ca/en/product/6012-992/Pride-Ball-Cap",
+  "tech_specs": {
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ],
+    "Secondary fabric": [
+      "94% polyester",
+      "6% elastane"
+    ]
+  }
+}

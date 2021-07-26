@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Bent gate carabiners",
+    "Djinn Bent Gate Carabiner"
+  ],
+  "description": "A good carabiner for those learning to climb outside. The large gate is easy to operate even when you're starting to feel the pump.H-shape cross section reduces weight and offers an impressive strength to weight ratio.Wide contact surfaces allow the rope to glide and reduce wear on the carabiner.Keylock nose for unhindered, no-snag clipping.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015786897438/5063122-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089997963294/5063122-BL000-ALT-GATEOPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015786897438/5063122-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089997963294/5063122-BL000-ALT-GATEOPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015786897438/5063122-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089997963294/5063122-BL000-ALT-GATEOPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9015786897438/5063122-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089997963294/5063122-BL000-ALT-GATEOPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Djinn Bent Gate Carabiner",
+  "product_code": "5063-122",
+  "source_url": "https://www.mec.ca/en/product/5063-122/Djinn-Bent-Gate-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.7cm"
+    ],
+    "Gate type": [
+      "Bent"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "23kN"
+    ],
+    "Strength cross-loaded": [
+      "8kN"
+    ],
+    "Strength open": [
+      "9kN"
+    ],
+    "Weight": [
+      "45g"
+    ]
+  }
+}

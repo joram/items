@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Accessories",
+    "Running socks",
+    "PhD Run Ultra Light Micro Socks"
+  ],
+  "description": "Indestructawool technology with a run-specific fit. The high-density knit is super-durable and provides long lasting comfort.Made of merino wool, nylon and elastane with 4-degree fit for excellent recovery.Strategic mesh zones add moisture and temperature control.Seamless toe for comfort over varied terrain.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954427441182/5050650-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8954427441182/5050650-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool PhD Run Ultra Light Micro Socks - Unisex",
+  "product_code": "5050-650",
+  "source_url": "https://www.mec.ca/en/product/5050-650/PhD-Run-Ultra-Light-Micro-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "No-show"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "45% merino wool",
+      "50% nylon",
+      "5% spandex"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

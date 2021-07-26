@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Child transport",
+    "Child carrier backpacks",
+    "Accessories for child carriers",
+    "Poco Raincover"
+  ],
+  "description": "Keep your child dry and comfortable on your hikes, no matter the weather. This full coverage rain cover fits the Osprey Poco Child Carrier and has clear windows so they can keep an eye on the world.Made of lightweight 210-nylon ripstop with clear side windows.4-point installation attachment system is easy to deploy in adverse conditions.Stores in its own pouch.Compatible with Osprey Pogo and Pogo Plus child carriers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125061361694/6005088-ELM00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125068046366/6005088-ELM00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125061361694/6005088-ELM00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125068046366/6005088-ELM00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125061361694/6005088-ELM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125068046366/6005088-ELM00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125061361694/6005088-ELM00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9125068046366/6005088-ELM00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Osprey Poco Raincover",
+  "product_code": "6005-088",
+  "source_url": "https://www.mec.ca/en/product/6005-088/Poco-Raincover",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use",
+      "Travel"
+    ],
+    "Made in": [
+      "Vietnam"
+    ]
+  }
+}

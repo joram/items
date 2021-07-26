@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Bent gate carabiners",
+    "BulletProof Bent Gate Carabiner"
+  ],
+  "description": "A bomber carabiner with a silver bullet that solves the problem of edge wear. It uses a steel insert at the point of highest wear, where the rope contacts it. The rest of the carabiner is aluminum.Made of aluminum, with stainless steel reinforcement insert at the inner apex of the carabiner.Deep rope basket helps keep the rope in place.H-shape construction keeps the weight down.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853834235934/5052485-OAS00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853834235934/5052485-OAS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Edelrid BulletProof Bent Gate Carabiner",
+  "product_code": "5052-485",
+  "source_url": "https://www.mec.ca/en/product/5052-485/BulletProof-Bent-Gate-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2cm"
+    ],
+    "Gate type": [
+      "Bent"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Rock climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum alloy + stainless steel"
+    ],
+    "Snag-free nose": [
+      "No"
+    ],
+    "Strength closed": [
+      "23kN"
+    ],
+    "Strength cross-loaded": [
+      "9kN"
+    ],
+    "Strength open": [
+      "9kN"
+    ],
+    "Weight": [
+      "55g"
+    ]
+  }
+}

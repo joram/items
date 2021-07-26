@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Mirrors",
+    "Bar End Road Mirror Set"
+  ],
+  "description": "Riders in mirror are faster than they appear. Keep an eye on what's going on behind you without having to look back.Sleek 2 part design is compatible with road bars.Tool-free installation is easy and replaces bar end plug.Mirror angle is adjustable to suit your riding position.Includes 2 bar-end mirrors.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202288689182/6017181-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201875550238/6017181-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202288689182/6017181-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201875550238/6017181-NOC02-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202288689182/6017181-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201875550238/6017181-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9202288689182/6017181-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201875550238/6017181-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sprintech Bar End Road Mirror Set",
+  "product_code": "6017-181",
+  "source_url": "https://www.mec.ca/en/product/6017-181/Bar-End-Road-Mirror-Set",
+  "tech_specs": {
+    "Attachment": [
+      "Press fit"
+    ],
+    "Housing material": [
+      "High impact plastic"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "Switzerland"
+    ],
+    "Mirror material": [
+      "Acrylic"
+    ],
+    "Mounting location": [
+      "Bar end"
+    ],
+    "Weight": [
+      "33g"
+    ]
+  }
+}

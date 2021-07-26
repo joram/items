@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Slippers, booties and fleece socks",
+    "Slippers and booties",
+    "The Slipper (Leather Sole)"
+  ],
+  "description": "Slide your bare feet into these felt slippers for cold-floor comfort. Great for winter mornings when you're waiting for the wood stove to heat up the cabin.Felted wool upper is breathable and won't absorb odours or perspiration.Glerups sources wool from suppliers who don't practice mulesing.Double-layered felted wool insole is durable and moulds to your foot shape, becoming more comfortable with each use.Calfskin soles are stitched and glued for extra durability.Completely handmade.Designed for indoor wear only.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929470218270/5058067-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929470447646/5058067-DEN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929470808094/5058067-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929470218270/5058067-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929470447646/5058067-DEN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929470808094/5058067-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929470218270/5058067-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929470447646/5058067-DEN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929470808094/5058067-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929470218270/5058067-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929470447646/5058067-DEN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8929470808094/5058067-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Glerups The Slipper (Leather Sole) - Unisex",
+  "product_code": "5058-067",
+  "source_url": "https://www.mec.ca/en/product/5058-067/The-Slipper-%28Leather-Sole%29",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Upper material": [
+      "Wool felt"
+    ]
+  }
+}

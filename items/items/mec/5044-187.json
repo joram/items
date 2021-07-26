@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Wheel truing stands",
+    "Thru Axle Wheel Adapter"
+  ],
+  "description": "Designed specifically for truing stands and wheel displays.  It is not to be used as a ride adapter.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806603259934/5044187-BK006.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806603259934/5044187-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Feedback Sports Thru Axle Wheel Adapter",
+  "product_code": "5044-187",
+  "source_url": "https://www.mec.ca/en/product/5044-187/Thru-Axle-Wheel-Adapter",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

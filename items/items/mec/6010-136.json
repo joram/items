@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Fleece jackets",
+    "Greenland Pile Fleece"
+  ],
+  "description": "This fleece layer is packable and ideal for bridging climate zones or hiking through changeable mountain weather.Double-layered fleece is thick and warm.High collar adds coverage.Regular fit works well with layers.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145827328030/6010136-NGT03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145827196958/6010136-FOR18.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145827328030/6010136-NGT03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145827196958/6010136-FOR18.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145827328030/6010136-NGT03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145827196958/6010136-FOR18.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145827328030/6010136-NGT03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145827196958/6010136-FOR18.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fjallraven Greenland Pile Fleece - Men's",
+  "product_code": "6010-136",
+  "source_url": "https://www.mec.ca/en/product/6010-136/Greenland-Pile-Fleece",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "2-way zipper"
+    ],
+    "Fabric content": [
+      "67% polyester",
+      "33% recycled polyester"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 external chest",
+      "2 handwarmer"
+    ],
+    "Product sustainability": [
+      "Recycled content",
+      "Organically grown content"
+    ],
+    "Secondary fabric": [
+      "65% recycled polyester",
+      "35% organically grown cotton"
+    ]
+  }
+}

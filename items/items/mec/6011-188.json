@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard helmets",
+    "Pioneer LT Helmet"
+  ],
+  "description": "Get your downhill thrills in this helmet with a fit that\u2019ll feel like it was made for you. An active vent system lets heat out but prevents snow from getting in. Hopefully disaster never strikes, but if it does, you\u2019ll be prepared with EPS 4D foam that absorbs more impact than a standard EPS helmet.Tough polycarbonate shell offers durable protection without a lot of weight.Moulded shell construction with EPS4D absorbs and dissipates shock.Active ventilation lets you control airflow and heat venting.Custom Dial fit adapts quickly and easily for many head shapes.AdvancedSkin ActiveDry liner comes out for easy washing.Earpads are audio system compatible.Includes helmet bag.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137040195614/6011188-BSI01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137028562974/6011188-BSI01-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036722206/6011188-BSI01-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036787742/6011188-BSI01-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036754974/6011188-BSI01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137040195614/6011188-BSI01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137028562974/6011188-BSI01-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036722206/6011188-BSI01-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036787742/6011188-BSI01-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036754974/6011188-BSI01-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137040195614/6011188-BSI01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137028562974/6011188-BSI01-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036722206/6011188-BSI01-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036787742/6011188-BSI01-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036754974/6011188-BSI01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137040195614/6011188-BSI01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137028562974/6011188-BSI01-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036722206/6011188-BSI01-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036787742/6011188-BSI01-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137036754974/6011188-BSI01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Pioneer LT Helmet - Unisex",
+  "product_code": "6011-188",
+  "source_url": "https://www.mec.ca/en/product/6011-188/Pioneer-LT-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Snowsports"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Molded in the shell"
+    ],
+    "Fit system": [
+      "Adjustable dial"
+    ],
+    "Goggle clip": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Snowboarding"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Removable ear liners": [
+      "Yes"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "ASTM F2040",
+      "EN 1077 A"
+    ],
+    "Shell material": [
+      "Polycarbonate"
+    ],
+    "Vents": [
+      "Yes"
+    ],
+    "Weight": [
+      "370g (Medium)"
+    ]
+  }
+}

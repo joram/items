@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bug spray and bug nets",
+    "Bug spray and insect repellent",
+    "30% Deet Insect Repellent Lotion 45ml"
+  ],
+  "description": "This bug repellent uses safe but effective levels of diethyl-meta-toluamide (DEET) to discourage insect bites and protect you from the diseases they carry.30% DEET formula lotion.45ml.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9113922109470/6004929-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9113922109470/6004929-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Great Outdoors 30% Deet Insect Repellent Lotion 45ml",
+  "product_code": "6004-929",
+  "source_url": "https://www.mec.ca/en/product/6004-929/30%25-Deet-Insect-Repellent-Lotion-45ml",
+  "tech_specs": {
+    "DEET\n\nThe active ingredient in many bug repellents. It is not recommended for use on young children.": [
+      "30%"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Travel"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Picaridin\n\nAn odourless alternative to DEET; suitable for people with sensitive skin.": [
+      "0%"
+    ],
+    "Plant-based repellent\n\nPlant-based repellents such as citronella do not contain chemical deterents such as DEET and may be more suitable for children.": [
+      "No"
+    ],
+    "Volume": [
+      "45ml"
+    ]
+  }
+}

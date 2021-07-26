@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Accessory carabiners and key holders",
+    "Dual Carabiner MicroLock (2 Pack)"
+  ],
+  "description": "Nite Ize has improved their already great S-Biners by adding one key feature, now they lock. Get peace of mind, knowing your stuff is exactly where you clipped it.Durable stainless steel construction.Dimensions are 3.5 x 1.5cm.Weight rating of 1.36kg.Not for climbing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853925527582/5052864-SNL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163554334/5052864-SNL00-ALT-KEY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163947550/5052864-SNL00-ALT-SIZING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854164045854/5052864-SNL00-ALT-ZIP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853925527582/5052864-SNL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163554334/5052864-SNL00-ALT-KEY.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163947550/5052864-SNL00-ALT-SIZING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854164045854/5052864-SNL00-ALT-ZIP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853925527582/5052864-SNL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163554334/5052864-SNL00-ALT-KEY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163947550/5052864-SNL00-ALT-SIZING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854164045854/5052864-SNL00-ALT-ZIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853925527582/5052864-SNL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163554334/5052864-SNL00-ALT-KEY.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854163947550/5052864-SNL00-ALT-SIZING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854164045854/5052864-SNL00-ALT-ZIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nite Ize Dual Carabiner MicroLock (2 Pack)",
+  "product_code": "5052-864",
+  "source_url": "https://www.mec.ca/en/product/5052-864/Dual-Carabiner-MicroLock-%282-Pack%29",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

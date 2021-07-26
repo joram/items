@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Sunglasses",
+    "Alternative and replacement lenses",
+    "Hub Lens"
+  ],
+  "description": "Replacement lenses for the MEC Hub Sunglasses.Clear lens provides 93% visible light transmission.Yellow lens provides 57% visible light transmission.Rose lens provides 12% visible light transmission.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813667844126/5041396-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813668106270/5041396-CLR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813667844126/5041396-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813668106270/5041396-CLR00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813667844126/5041396-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813668106270/5041396-CLR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813667844126/5041396-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813668106270/5041396-CLR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Hub Lens - Unisex",
+  "product_code": "5041-396",
+  "source_url": "https://www.mec.ca/en/product/5041-396/Hub-Lens",
+  "tech_specs": {
+    "100% UVA protected": [
+      "Yes"
+    ],
+    "100% UVB protected": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Sport road cycling",
+      "Cycle commuting"
+    ],
+    "Lens height\n\nMeasures the height of the lens within the frame, excluding the lens curve.": [
+      "40.8mm"
+    ],
+    "Lens material": [
+      "Polycarbonate"
+    ],
+    "Lens performance\n\nFixed tints provide a constant degree of darkness. Photochromic lenses adjust to changing light levels. Polarized lenses absorb horizontal reflected glare to improve clarity around surfaces like snow or water.": [
+      "Fixed tint"
+    ],
+    "Lens width\n\nRefers to the horizontal width in millimeters of one of the frame's lenses.": [
+      "68mm"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

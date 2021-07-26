@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Climbing skins",
+    "Ski skin accessories",
+    "Standard Adjustable Skin Tip Loop Cables"
+  ],
+  "description": "A standard tip loop for the Black Diamond\u2122 adjustable tip loop system.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817276223518/5019888-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817276223518/5019888-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Standard Adjustable Skin Tip Loop Cables",
+  "product_code": "5019-888",
+  "source_url": "https://www.mec.ca/en/product/5019-888/Standard-Adjustable-Skin-Tip-Loop-Cables",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Off-track touring"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "18g"
+    ]
+  }
+}

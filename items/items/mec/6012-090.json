@@ -1,0 +1,103 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Fleece, hoodies and sweaters",
+    "Hoodies and sweaters",
+    "Hoodies",
+    "Wander Hoodie"
+  ],
+  "description": "Comfort and coverage for cooler days outside. This lightweight hoodie protects your skin from harsh UV rays while it wicks moisture.Made of a double-knit polyester with FlashDry\u2122 moisture-management technology to wick sweat and dry quickly.Fabric provides UPF 50+ sun protection.Raglan sleeves for unrestricted mobility.Slight drop-tail hem provides extra rear coverage.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187434332190/6012090-SSG02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187451174942/6012090-SSG02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187451306014/6012090-SSG02-ALT-SIDES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194110517278/6012090-NTG00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450912798/6012090-MOB09-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450847262/6012090-MOB09-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194110353438/6012090-LIG01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450650654/6012090-BK276-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450814494/6012090-BK276-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193690562590/6012090-NTG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187434102814/6012090-MOB09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193690431518/6012090-LIG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187433676830/6012090-BK276.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187434332190/6012090-SSG02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187451174942/6012090-SSG02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187451306014/6012090-SSG02-ALT-SIDES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194110517278/6012090-NTG00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450912798/6012090-MOB09-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450847262/6012090-MOB09-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194110353438/6012090-LIG01-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450650654/6012090-BK276-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450814494/6012090-BK276-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193690562590/6012090-NTG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187434102814/6012090-MOB09.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193690431518/6012090-LIG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187433676830/6012090-BK276.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187434332190/6012090-SSG02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187451174942/6012090-SSG02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187451306014/6012090-SSG02-ALT-SIDES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194110517278/6012090-NTG00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450912798/6012090-MOB09-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450847262/6012090-MOB09-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194110353438/6012090-LIG01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450650654/6012090-BK276-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450814494/6012090-BK276-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193690562590/6012090-NTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187434102814/6012090-MOB09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193690431518/6012090-LIG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187433676830/6012090-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187434332190/6012090-SSG02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187451174942/6012090-SSG02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187451306014/6012090-SSG02-ALT-SIDES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194110517278/6012090-NTG00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450912798/6012090-MOB09-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450847262/6012090-MOB09-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9194110353438/6012090-LIG01-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450650654/6012090-BK276-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187450814494/6012090-BK276-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193690562590/6012090-NTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187434102814/6012090-MOB09.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193690431518/6012090-LIG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9187433676830/6012090-BK276.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Wander Hoodie - Men's",
+  "product_code": "6012-090",
+  "source_url": "https://www.mec.ca/en/product/6012-090/Wander-Hoodie",
+  "tech_specs": {
+    "Fabric content": [
+      "100% recycled polyester"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "160gsm"
+    ],
+    "Hood": [
+      "Standard"
+    ],
+    "Ideal for": [
+      "Fitness and training",
+      "Day hiking"
+    ],
+    "Length": [
+      "Hip-length"
+    ],
+    "Made in": [
+      "Jordan"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "Type": [
+      "Mid-layer"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

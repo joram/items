@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Trousers",
+    "Nikit Pants"
+  ],
+  "description": "Stylish cargo pants? Yup. When you want a break from jeans, Nikit Cargo Pants check all the right boxes.Organic cotton moleskin weave adds structure without stiffness.Plenty of pocket space let's you leave your bag at home.Printed waistband lining adds a hidden pop.Ankle length pairs perfectly with boots.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content\n\n\n\n\n\n\nFairTrade\n\n\n\n\n\n\n\n\n\n\n\n                      Certified Fair Trade",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140237369374/6010242-WNT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140237303838/6010242-NOC99.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140237369374/6010242-WNT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140237303838/6010242-NOC99.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140237369374/6010242-WNT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140237303838/6010242-NOC99.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140237369374/6010242-WNT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140237303838/6010242-NOC99.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Nikit Pants - Women's",
+  "product_code": "6010-242",
+  "source_url": "https://www.mec.ca/en/product/6010-242/Nikit-Pants",
+  "tech_specs": {
+    "Fabric content": [
+      "98% organically grown cotton",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Sri Lanka"
+    ],
+    "Pockets": [
+      "2 front",
+      "2 back",
+      "2 side"
+    ],
+    "Product sustainability": [
+      "Organically grown content",
+      "Certified Fair Trade"
+    ]
+  }
+}

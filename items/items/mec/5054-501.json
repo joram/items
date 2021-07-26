@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry ski bindings",
+    "Backcountry ski binding brakes",
+    "TLT Speed Brakes"
+  ],
+  "description": "Lightweight, removable brakes for your Dynafit TLT Speedfit or TLT Speed bindings., so you can now choose to ride with brakes, or not.Made of stainless steel and synthetic materials.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8911431041054/5054501-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8911431041054/5054501-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Dynafit TLT Speed Brakes - Unisex",
+  "product_code": "5054-501",
+  "source_url": "https://www.mec.ca/en/product/5054-501/TLT-Speed-Brakes",
+  "tech_specs": {
+    "Ideal for": [
+      "Alpine touring",
+      "Ski mountaineering"
+    ],
+    "Made in": [
+      "Germany"
+    ]
+  }
+}

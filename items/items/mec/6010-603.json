@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Footwear accessories",
+    "Shoe and boot care",
+    "Boots Sauce Conditioner"
+  ],
+  "description": "Keep your smooth, polishable leather conditioned and protected.Built-in sponge applicator keeps your fingers clean mess to a minimum.Not recommended for suede or nubuck.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145384861726/6010603-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145390333982/6010603-NOC02-ALT-SINGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145384861726/6010603-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145390333982/6010603-NOC02-ALT-SINGLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145384861726/6010603-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145390333982/6010603-NOC02-ALT-SINGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145384861726/6010603-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145390333982/6010603-NOC02-ALT-SINGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Timberland Boots Sauce Conditioner",
+  "product_code": "6010-603",
+  "source_url": "https://www.mec.ca/en/product/6010-603/Boots-Sauce-Conditioner",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Type": [
+      "Cleanser"
+    ],
+    "Volume": [
+      "89ml"
+    ]
+  }
+}

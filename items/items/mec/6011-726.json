@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax",
+    "HS7 Liquid Wax"
+  ],
+  "description": "Suitable for training or as a base for your racing waxes, this spray on liquid wax quickly penetrates your base for long-lasting glide in various snow conditions.Fluor-free liquid paraffin wax works best below the freezing point.Not humidity sensitive.Manual application lets you wax at the track without an iron.Recommended air temperature: -2 to -7C.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137296965662/6011726-VLT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137296965662/6011726-VLT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Swix HS7 Liquid Wax",
+  "product_code": "6011-726",
+  "source_url": "https://www.mec.ca/en/product/6011-726/HS7-Liquid-Wax",
+  "tech_specs": {
+    "Ideal for": [
+      "Fitness classic skiing",
+      "Classic ski racing",
+      "Fitness skate skiing",
+      "Skate ski racing"
+    ],
+    "Made in": [
+      "Norway"
+    ],
+    "State": [
+      "Liquid"
+    ],
+    "Temperature range": [
+      "-2/-7\u00b0C"
+    ],
+    "Type": [
+      "Glide"
+    ]
+  }
+}

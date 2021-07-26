@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Paddleboarding",
+    "Paddleboard accessories",
+    "Leashes and attachments",
+    "EZ Plug (2)"
+  ],
+  "description": "An easy way to attach surface-mounted accessory attachment points to your SUP, canoe or kayak. Great for creating bungi cord attachments.3M high bond peel-and-stick adhesive for good holding power.Pack of two.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8886179266590/5024652-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8886179266590/5024652-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Surfco EZ Plug (2)",
+  "product_code": "5024-652",
+  "source_url": "https://www.mec.ca/en/product/5024-652/EZ-Plug-%282%29",
+  "tech_specs": {
+    "Ideal for": [
+      "Paddleboarding",
+      "Kayaking",
+      "Canoeing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "21g"
+    ]
+  }
+}

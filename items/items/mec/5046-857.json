@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Accessory carabiners and key holders",
+    "Mini Sliderlock Accessory Carabiner"
+  ],
+  "description": "A small aluminum accessory carabiner with the added security of a slide lock and a key ring attached.Dimensions are 6 x 3cm.Not for climbing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851633635358/5046857-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851633897502/5046857-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851634028574/5046857-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851634159646/5046857-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851634618398/5046857-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851633635358/5046857-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851633897502/5046857-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851634028574/5046857-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851634159646/5046857-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851634618398/5046857-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851633635358/5046857-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851633897502/5046857-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851634028574/5046857-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851634159646/5046857-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851634618398/5046857-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851633635358/5046857-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851633897502/5046857-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851634028574/5046857-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851634159646/5046857-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851634618398/5046857-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Mini Sliderlock Accessory Carabiner",
+  "product_code": "5046-857",
+  "source_url": "https://www.mec.ca/en/product/5046-857/Mini-Sliderlock-Accessory-Carabiner",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ]
+  }
+}

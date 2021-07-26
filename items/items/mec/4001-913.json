@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Drinks",
+    "Coffee, tea and hot chocolate",
+    "Hot Apple Drink"
+  ],
+  "description": "Slightly spicy, this hot apple drink mix is caffeine free and vitamin C enriched.Just add 1 pouch to 170ml of hot water, stir, and enjoy.Contains 10, 23g packets.Ingredients: Apple juice, sugar, dextrose, maltodextrin, natural flavours, citric acid, silicon dioxide, ascorbic acid (vitamin C), caramel, tricalcium phosphate, salt.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812385566750/4001913-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812385566750/4001913-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Lynch Hot Apple Drink",
+  "product_code": "4001-913",
+  "source_url": "https://www.mec.ca/en/product/4001-913/Hot-Apple-Drink",
+  "tech_specs": {
+    "Calories per serving": [
+      "90Cal"
+    ],
+    "Carbohydrates": [
+      "22g"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Potassium": [
+      "0.7mg"
+    ],
+    "Protein": [
+      "0g"
+    ],
+    "Serving size": [
+      "1 pouch (makes 170ml)"
+    ],
+    "Servings": [
+      "10"
+    ],
+    "Sodium": [
+      "20mg"
+    ],
+    "Weight": [
+      "230g"
+    ]
+  }
+}

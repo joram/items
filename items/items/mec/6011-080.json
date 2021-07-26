@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Child transport",
+    "Strollers and accessories",
+    "Accessories for strollers",
+    "Spring Mesh Cover"
+  ],
+  "description": "Add insect-proof mesh to your Thule\u00ae child carrier.Custom fitted for the Thule\u00ae Spring stroller.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096797749278/6011080-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096797749278/6011080-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Thule Spring Mesh Cover",
+  "product_code": "6011-080",
+  "source_url": "https://www.mec.ca/en/product/6011-080/Spring-Mesh-Cover",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

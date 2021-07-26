@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Footwear accessories",
+    "Shoe and boot care",
+    "Aquaseal+SR Shoe Repair 28g"
+  ],
+  "description": "Used as either a preventative measure or to repair ripped and torn seams, Aquaseal seals holes, severed seams, and torn stitching on leather, vinyl, and synthetics. This tough, flexible, transparent urethane is not affected by heat, water, or solvents.Not to be used as waterproofer on entire upper surfaces - use on seams only.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986372440094/0799130-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986382827550/0799130-NOC02-ALT-PACKAGE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986372440094/0799130-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986382827550/0799130-NOC02-ALT-PACKAGE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986372440094/0799130-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986382827550/0799130-NOC02-ALT-PACKAGE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986372440094/0799130-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8986382827550/0799130-NOC02-ALT-PACKAGE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gear Aid Aquaseal+SR Shoe Repair 28g",
+  "product_code": "0799-130",
+  "source_url": "https://www.mec.ca/en/product/0799-130/Aquaseal%2BSR-Shoe-Repair-28g",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Type": [
+      "Seam sealer"
+    ],
+    "Weight": [
+      "28g"
+    ]
+  }
+}

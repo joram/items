@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling clothing accessories",
+    "Cycling gloves",
+    "Drencher Gloves"
+  ],
+  "description": "Pedal anywhere, anytime. These waterproof \"lobster\" gloves keep your fingers together for warmth, but give you enough dexterity to brake easily. Depending on the temperature, pull on the Drencher Gloves over thin liners or warmer fleece gloves to enjoy dry, toasty digits.Waterproof, breathable nylon fabric with taped seams keeps water out.Lobster-style gloves keep your fingers warm while providing enough dexterity for braking or changing gears.Shingle-action cuff slides under your jacket to stop water from running in.Brushed fleece sniffle patch on thumb.3M reflective trim for low-light visibility.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8981347598366/5053602-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8981347598366/5053602-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Drencher Gloves - Unisex",
+  "product_code": "5053-602",
+  "source_url": "https://www.mec.ca/en/product/5053-602/Drencher-Gloves",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Nose wipe",
+      "Reflective details"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Cycle touring and bikepacking"
+    ],
+    "Liner fabric": [
+      "100% nylon"
+    ],
+    "Liner type": [
+      "None"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "100% nylon"
+    ],
+    "Padding": [
+      "None"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Grippy palm"
+    ],
+    "Touchscreen compatible": [
+      "No"
+    ],
+    "Type": [
+      "Split fingers"
+    ],
+    "Waterproof": [
+      "Yes"
+    ],
+    "Weight": [
+      "60g (Medium)"
+    ]
+  }
+}

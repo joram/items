@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike bells and horns",
+    "DingDing Bike Bell"
+  ],
+  "description": "Ding! Ding! This bell announces your presence to pedestrians, dogs, and drivers.Tool-free assembly.2 sizes of rubber bands mean they fit most handlbars.Replacement rubber bands available.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806471991326/5023906-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806472155166/5023906-BK000-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806471991326/5023906-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806472155166/5023906-BK000-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806471991326/5023906-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806472155166/5023906-BK000-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806471991326/5023906-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806472155166/5023906-BK000-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Filzer DingDing Bike Bell",
+  "product_code": "5023-906",
+  "source_url": "https://www.mec.ca/en/product/5023-906/DingDing-Bike-Bell",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Type": [
+      "Bell"
+    ],
+    "Weight": [
+      "26g"
+    ]
+  }
+}

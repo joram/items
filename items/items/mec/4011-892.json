@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard clothing",
+    "Ski and snow headwear",
+    "Ski masks and balaclavas",
+    "Neofleece Comfort Masque"
+  ],
+  "description": "Throw on this neofleece mask and your face will stay warm while you\u2019re shussing down the slopes. It has a soft fleece lining, is comfortable, and wicks away moisture.Made of neofleece, which is fleece-lined neoprene.Velcro\u00ae closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798207279134/4011892-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798207279134/4011892-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Seirus Neofleece Comfort Masque - Unisex",
+  "product_code": "4011-892",
+  "source_url": "https://www.mec.ca/en/product/4011-892/Neofleece-Comfort-Masque",
+  "tech_specs": {
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Cycle commuting"
+    ],
+    "Lining/backer": [
+      "Polyester"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Weight": [
+      "47g (Medium)"
+    ]
+  }
+}

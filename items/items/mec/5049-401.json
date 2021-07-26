@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid supplies",
+    "Gel Force Knee Sleeve"
+  ],
+  "description": "A soft, breathable knee sleeve that's more comfortable than neoprene, and offers better compression and support. Helps provide patellar stability and compression of the surrounding areas. Great for patello-femoral pain syndrome, patellar tracking, chondromalacia, minor meniscus and ligament tears.Breathable fabric offers 4-way stretch for comfortable compression.Thick oval gel provides support to knee cap area, medial and lateral spiral stays offer overall knee joint stability.Circumference measured 2cm above top of patella is 33-35.6cm for Small, 35.6-40.6cm for Medium, 40.6-45.7cm for Large, and 45.7-50.8cm for X-large.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810019258398/5049401-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810019258398/5049401-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pro-Tec Athletics Gel Force Knee Sleeve",
+  "product_code": "5049-401",
+  "source_url": "https://www.mec.ca/en/product/5049-401/Gel-Force-Knee-Sleeve",
+  "tech_specs": {
+    "Ideal for": [
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

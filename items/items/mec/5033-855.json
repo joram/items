@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Climbing Anchors 3rd Edition"
+  ],
+  "description": "A complete guide for building safe, reliable climbing anchors. Use this authoritative source to learn about placing protection, understanding fall factors, using natural anchors, tying fundamental knots, and working with sophisticated rigging and equalizing techniques. Build bomber belay anchors safely and efficiently. Illustrated with more than 100 photos.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815750184990/5033855-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815750184990/5033855-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Falcon Climbing Anchors 3rd Edition",
+  "product_code": "5033-855",
+  "source_url": "https://www.mec.ca/en/product/5033-855/Climbing-Anchors-3rd-Edition",
+  "tech_specs": {
+    "Author": [
+      "John Long"
+    ],
+    "Edition": [
+      "3rd"
+    ],
+    "ISBN": [
+      "9780762782079"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Climbing training"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "224"
+    ],
+    "Published": [
+      "2013"
+    ]
+  }
+}

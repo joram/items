@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bicycle pumps",
+    "Mini bike pumps",
+    "ShockMate 3.0 Suspension Pump"
+  ],
+  "description": "A high-pressure suspension pump for front and rear shocks with a large, easy-to-read, industrial-class gauge. The latest version of the ShockMate line features a few key upgrades for easier suspension tuning.Longer, higher volume aluminum body adds more air per pump.Locking T-grip handle makes pumping easier.20cm swivel hose and valve head makes secure connections easy.No-leak valve release system and bleeder valve for fine-tuning shock pressure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143682498590/6013369-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143685939230/6013369-SIL00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143692099614/6013369-SIL00-ALT-GAUGE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143692165150/6013369-SIL00-ALT-HANDLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143682498590/6013369-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143685939230/6013369-SIL00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143692099614/6013369-SIL00-ALT-GAUGE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143692165150/6013369-SIL00-ALT-HANDLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143682498590/6013369-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143685939230/6013369-SIL00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143692099614/6013369-SIL00-ALT-GAUGE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143692165150/6013369-SIL00-ALT-HANDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143682498590/6013369-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143685939230/6013369-SIL00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143692099614/6013369-SIL00-ALT-GAUGE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143692165150/6013369-SIL00-ALT-HANDLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike ShockMate 3.0 Suspension Pump",
+  "product_code": "6013-369",
+  "source_url": "https://www.mec.ca/en/product/6013-369/ShockMate-3-0-Suspension-Pump",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Length": [
+      "26cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Maximum psi": [
+      "400psi"
+    ],
+    "Pressure gauge": [
+      "Yes"
+    ],
+    "Type\n\nFloor pumps, frame fit pumps, mini pumps and CO2 inflators are for bicycle tires. Suspension pumps are used to add pressure to your bike shocks.": [
+      "Suspension Pump"
+    ]
+  }
+}

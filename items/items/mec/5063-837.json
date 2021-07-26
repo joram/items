@@ -1,0 +1,94 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike bags and trailers",
+    "Bike backpacks and messenger bags",
+    "Bike backpacks",
+    "Trailblazer 20L Pack"
+  ],
+  "description": "This might be the only pack you'll ever need. The comfortable harness adapts to your body for a snug fit whether you are hiking, running or biking. Lots of pockets keep all your essentials close at hand. Inside there's a sleeve for your hydration reservoir and one for your laptop so you're ready to head from your desk directly to the trails.Lightweight 3D harness wraps around your body for a comfortable fit.Large main compartment has a wide zippered opening for easy access.Two external zippered pockets, a zippered hip pocket and side stretch pockets keep you organized.Internal compartment holds your hydration reservoir (sold separately)Hanging laptop sleeve to protect your computer from bumps and drops.Stretch loops let you attach trekking poles.Clip a blinky light on to the reflective loop for extra nighttime visibility.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081220497438/5063837-GRG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079629119518/5063837-GRG01-ALT-ONMODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079630069790/5063837-GRG01-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011635552286/5063837-BK006-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011635978270/5063837-BK006-ALT-HYDROFLASK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011638763550/5063837-BK006-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011251445790/5063837-BK006.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081220497438/5063837-GRG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079629119518/5063837-GRG01-ALT-ONMODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079630069790/5063837-GRG01-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011635552286/5063837-BK006-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011635978270/5063837-BK006-ALT-HYDROFLASK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011638763550/5063837-BK006-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011251445790/5063837-BK006.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081220497438/5063837-GRG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079629119518/5063837-GRG01-ALT-ONMODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079630069790/5063837-GRG01-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011635552286/5063837-BK006-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011635978270/5063837-BK006-ALT-HYDROFLASK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011638763550/5063837-BK006-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011251445790/5063837-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081220497438/5063837-GRG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079629119518/5063837-GRG01-ALT-ONMODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9079630069790/5063837-GRG01-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011635552286/5063837-BK006-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011635978270/5063837-BK006-ALT-HYDROFLASK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011638763550/5063837-BK006-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9011251445790/5063837-BK006.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Trailblazer 20L Pack - Unisex",
+  "product_code": "5063-837",
+  "source_url": "https://www.mec.ca/en/product/5063-837/Trailblazer-20L-Pack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Clamshell zip"
+    ],
+    "Additional feature(s)": [
+      "Hydration compatible (reservoir sold separately)",
+      "Hipbelt pocket(s)",
+      "Ice axe/pole attachment",
+      "Reflective details",
+      "Ultralight"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Depth": [
+      "18cm"
+    ],
+    "Hipbelt": [
+      "Padded"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Running",
+      "School",
+      "Cycling"
+    ],
+    "Length": [
+      "48cm"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "Polyester"
+    ],
+    "Volume": [
+      "20L"
+    ],
+    "Weight": [
+      "414g"
+    ],
+    "Width": [
+      "24cm"
+    ]
+  }
+}

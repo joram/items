@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski base cleaners",
+    "Spin Bronze 115mm Roto Brush"
+  ],
+  "description": "Ideal for initial base brushing before applying wax, and as a first brush after waxing to open the base structure. Hook it up to a power drill for a consistent finish and save your arm strength for skiing.Brush is 11.5cm wide.8mm brass bristles are durable.Compatible with the Tools4Boards Spin Handle + Hex.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997048254494/5061405-BNZ00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8997048254494/5061405-BNZ00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Tools4Boards Spin Bronze 115mm Roto Brush",
+  "product_code": "5061-405",
+  "source_url": "https://www.mec.ca/en/product/5061-405/Spin-Bronze-115mm-Roto-Brush",
+  "tech_specs": {
+    "Bristle material": [
+      "Brass"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Cross-country skiing",
+      "Snowboarding",
+      "Backcountry skiing"
+    ],
+    "Made in": [
+      "Germany"
+    ]
+  }
+}

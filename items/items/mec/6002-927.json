@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bicycle pumps",
+    "Tire gauges",
+    "Airchecker 2 Pressure Gauge"
+  ],
+  "description": "Get it just right, on the first try. This high-precision digital pressure gauge works just as well on super low-pressure fat bikes as it does on skinny road tires. Updated version of this air-checker comes with a case for storage.Swivel head fits Presta and Schrader valves.Maximum pressure is 144psi.Pressure can be displayed in bar or psi.Allows for pressure adjustment to the nearest psi.Backlit display and large digits make for easy reading.Uses a CR2032 battery.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017469763614/6002927-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017769787422/6002927-BK000-ALT-HEAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017771458590/6002927-BK000-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017469763614/6002927-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017769787422/6002927-BK000-ALT-HEAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017771458590/6002927-BK000-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017469763614/6002927-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017769787422/6002927-BK000-ALT-HEAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017771458590/6002927-BK000-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017469763614/6002927-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017769787422/6002927-BK000-ALT-HEAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017771458590/6002927-BK000-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SKS Airchecker 2 Pressure Gauge",
+  "product_code": "6002-927",
+  "source_url": "https://www.mec.ca/en/product/6002-927/Airchecker-2-Pressure-Gauge",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "54g"
+    ]
+  }
+}

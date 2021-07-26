@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tools",
+    "Nomic Ice Tool"
+  ],
+  "description": "This highly technical tool excels at ice climbing. The redesigned Nomic has an ergonomic handle with multiple grip options to give you maximum freedom of movement and limit the risk of snagging when you're switching hands. The fully modular head can be adapted to the terrain \u2013 change up the pick and this tool becomes a mixed climbing master.Curved upper shaft adds clearance under the head and facilitates switching.Equipped with B-rated PUR'ICE pick. 3mm thickness at end penetrates thin ice and allows stable hooking on ice.Double handle for stable hand switching and multiple grip options.Serrated end below Griprest provides some hold when pulling out of steep sections on hard snow or ice.Sold with PUR'ICE pick, Masselottes pick weights, Mini Marteau hammer and adjustable Griprest.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995142139934/5059975-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995142172702/5059975-NOC02-ALT-GRIP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995142336542/5059975-NOC02-ALT-HAMMER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995142139934/5059975-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995142172702/5059975-NOC02-ALT-GRIP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995142336542/5059975-NOC02-ALT-HAMMER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995142139934/5059975-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995142172702/5059975-NOC02-ALT-GRIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995142336542/5059975-NOC02-ALT-HAMMER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995142139934/5059975-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995142172702/5059975-NOC02-ALT-GRIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8995142336542/5059975-NOC02-ALT-HAMMER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Nomic Ice Tool",
+  "product_code": "5059-975",
+  "source_url": "https://www.mec.ca/en/product/5059-975/Nomic-Ice-Tool",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Hammer modular"
+    ],
+    "Ideal for": [
+      "Ice climbing"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "50cm"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Removable pick": [
+      "Yes"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "T-rated shaft + B-rated pick"
+    ],
+    "Weight": [
+      "585g"
+    ]
+  }
+}

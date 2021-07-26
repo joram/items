@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Casual socks",
+    "Anchor Line Socks"
+  ],
+  "description": "Socks that stay in place, where ever you go. The merino blend naturally regulates temperature and lets your feet breathe.Merino, nylon and spandex wicks sweat and manages temperature to keep you cool in the summer yet warm in the winter.Virtually Seamless\u2122 toe eliminates chafing and hot spots.Arch brace hugs the foot for a snug and supportive fit.Mesh ventilation zones keep feet cool and comfortable.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041700978718/5060292-CHA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041700978718/5060292-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Anchor Line Socks - Unisex",
+  "product_code": "5060-292",
+  "source_url": "https://www.mec.ca/en/product/5060-292/Anchor-Line-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "None"
+    ],
+    "Fabric content": [
+      "59% merino wool",
+      "39% nylon",
+      "2% elastane"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

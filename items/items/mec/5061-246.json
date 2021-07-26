@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Batteries",
+    "Rechargeable batteries",
+    "Eneloop Rechargeable Batteries AAA 4 Pack"
+  ],
+  "description": "Better for the planet, better for your wallet, and better than you thought a rechargeable battery could be. Panasonic\u2019s Eneloop line of rechargeable batteries are widely regarded as some of the best on the market. Gone are the days of reaching for your device, only to find the rechargeable batteries are dead: the Eneloops retain more than 70% of their capacity after 10 years.Able to be recharged up to 2,100 times.Retains more than 70% capacity after 10 years in storage. Most competitors discharge completely after 2 years.Pre-charged with solar energy and ready to use.Excellent cold weather performance (0\u00baC), and will work in temperatures as low as -20\u00baC.Recharge whenever you like with no negative impact on the capacity.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8960577962014/5061246-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8960577962014/5061246-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Panasonic Eneloop Rechargeable Batteries AAA 4 Pack",
+  "product_code": "5061-246",
+  "source_url": "https://www.mec.ca/en/product/5061-246/Eneloop-Rechargeable-Batteries-AAA-4-Pack",
+  "tech_specs": {
+    "Capacity": [
+      "900mAh"
+    ],
+    "Chemistry": [
+      "Nickel-metal hydride"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Rechargeable": [
+      "Yes"
+    ],
+    "Size": [
+      "AAA"
+    ]
+  }
+}

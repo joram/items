@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Bike chain service",
+    "Expanding Microcell Sponge"
+  ],
+  "description": "Extend the life of your bike by keeping it clean. This sponge is great for restoring your bike to its former glory.Ergonomic shape is easy to hold and get into tough-to-reach spots on your bike.Open cell foam is suitable for removing dirt and grime from your frame or wheels.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064724037662/6009087-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9064724037662/6009087-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Muc-Off Expanding Microcell Sponge",
+  "product_code": "6009-087",
+  "source_url": "https://www.mec.ca/en/product/6009-087/Expanding-Microcell-Sponge",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycling",
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ]
+  }
+}

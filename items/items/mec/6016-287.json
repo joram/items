@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shirts and tops",
+    "Short sleeved training shirts",
+    "Active-T Breathe"
+  ],
+  "description": "Workout or hang out, you'll appreciate the comfort and wicking properties of this tee.Soft Lyocell with a hint of stretch.Antibacterial treatment resists odour buildup.Open back vents excess heat.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n                      Preferred Lyocell",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193338863646/6016287-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193338634270/6016287-LIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193338863646/6016287-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193338634270/6016287-LIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193338863646/6016287-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193338634270/6016287-LIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193338863646/6016287-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193338634270/6016287-LIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "On Active-T Breathe - Women's",
+  "product_code": "6016-287",
+  "source_url": "https://www.mec.ca/en/product/6016-287/Active-T-Breathe",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Antimicrobial treatment"
+    ],
+    "Fabric content": [
+      "93% Tencel Lyocell",
+      "7% elastane"
+    ],
+    "Ideal for": [
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Product sustainability": [
+      "Preferred Lyocell"
+    ]
+  }
+}

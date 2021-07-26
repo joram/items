@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Icefields Parkway Map"
+  ],
+  "description": "Whether you have a day or a week to explore the spectacular Icefields Parkway highway, this detailed map-guide will help you make the most of your time. Includes all viewpoints, picnic areas, trailheads, campgrounds, hostels, lodges and other services, with descriptions to point you to the best places to stop. A mileage chart, area map and elevation profile complete the guide.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133122748446/6012254-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133122748446/6012254-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Publishing Icefields Parkway Map",
+  "product_code": "6012-254",
+  "source_url": "https://www.mec.ca/en/product/6012-254/Icefields-Parkway-Map",
+  "tech_specs": {
+    "Edition": [
+      "4th"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Mountain biking",
+      "Cross-country skiing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2020"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:400,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

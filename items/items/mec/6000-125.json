@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike racks, carriers and storage",
+    "Bike boxes and travel cases",
+    "Bike Travel Bag"
+  ],
+  "description": "Most bike travel cases are awesome in transit but a bulky nuisance once you arrive. Not this bag. It uses your bike\u2019s frame and removable stiffener rods to form a robust internal structure, and it rolls up for compact storage at your destination. It fits XC, downhill and enduro rides (including 29ers). Add the optional road bike stand to fit your road or tri bike.Made of strong, abrasion-resistant 600-denier polyester.10mm foam padding protects against knocks, polyethylene panels provide crush-resistance at key areas, and a hard plastic undercarriage adds stability.In-line skate wheels for smooth rolling through airports and train stations.Main compartment has a pad to support chain stay and protect drive train, a cinch-down pocket for the forks, an adjustable wrap pad for the top tube and down tube, and hook-and-loop wraps for seat post, handlebars and frame.3 zippered internal pockets for pedals, quick release skewers or tools.2 zippered exterior pockets hold bike wheels up to 29in. with tires up to 2.6in wide.8 webbing grab handles for easy handling.Zippers are lockable.Business card pocket on exterior for easy luggage ID.Collapsed dimensions are 136 x 39 x 25cm.Fits most road, gravel, triathlon, cross-country, all-mountain, enduro, freeride and bikes with a maximum wheelbase of 126cm.To safely transport road and triathlon bikes, you'll need the road bike aluminum stand, available separately.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008850829342/6000125-MTI03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006262550558/6000125-BK000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006007681054/6000125-CHI10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006007320606/6000125-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008850829342/6000125-MTI03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006262550558/6000125-BK000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006007681054/6000125-CHI10.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006007320606/6000125-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008850829342/6000125-MTI03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006262550558/6000125-BK000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006007681054/6000125-CHI10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006007320606/6000125-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008850829342/6000125-MTI03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006262550558/6000125-BK000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006007681054/6000125-CHI10.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9006007320606/6000125-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "EVOC Bike Travel Bag",
+  "product_code": "6000-125",
+  "source_url": "https://www.mec.ca/en/product/6000-125/Bike-Travel-Bag",
+  "tech_specs": {
+    "Depth": [
+      "39cm"
+    ],
+    "Ideal for": [
+      "Cycling",
+      "Travel"
+    ],
+    "Length": [
+      "138cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "600-denier polyester"
+    ],
+    "Volume": [
+      "285L"
+    ],
+    "Weight": [
+      "9.1kg"
+    ],
+    "Width": [
+      "85cm"
+    ]
+  }
+}

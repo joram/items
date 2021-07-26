@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Fenders",
+    "Freddy Fender SpeedEZ Rubber Strap Pair"
+  ],
+  "description": "Replacement straps for the Planet Bike SpeedEZ Fenders.Sold in pairs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806382731294/5019498-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806382731294/5019498-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike Freddy Fender SpeedEZ Rubber Strap Pair",
+  "product_code": "5019-498",
+  "source_url": "https://www.mec.ca/en/product/5019-498/Freddy-Fender-SpeedEZ-Rubber-Strap-Pair",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

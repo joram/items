@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "A Paddler's Guide to Killarney and French Riv"
+  ],
+  "description": "One of Ontario's most popular canoeing guides takes readers on some of the province's best canoe routes. Routes range from a two-day paddle in Frontenac Provincial Park to a week-long expedition down Pukaskwa's White River. Each one includes detailed descriptions, maps of all access points, accurate portage lengths, and advice on everything from running rapids to shuttle arrangements. Covers the Frontenac, Mazinaw-Mississippi, Madawaska, Barron River Canyon, Algonquin, Magnetawan, French River, Killarney, Spanish River, Temagami, White River, Upper Missinaibi and Quetico.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815595683870/5011402-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815595683870/5011402-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "A Paddler's Guide to Killarney and French River",
+  "product_code": "5011-402",
+  "source_url": "https://www.mec.ca/en/product/5011-402/A-Paddler%27s-Guide-to-Killarney-and-French-Riv",
+  "tech_specs": {
+    "Author": [
+      "Kevin Callan"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9781550464603"
+    ],
+    "Ideal for": [
+      "Canoeing",
+      "Canoe tripping"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "168"
+    ],
+    "Published": [
+      "2006"
+    ],
+    "Regionality": [
+      "Ontario"
+    ]
+  }
+}

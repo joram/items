@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Cana Plaid Beanie"
+  ],
+  "description": "Rock some plaid while keeping your ears warm.Cozy merino and acrylic blend is soft against the skin.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143681122334/6013125-RED00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143681122334/6013125-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Canadian Hat Cana Plaid Beanie - Unisex",
+  "product_code": "6013-125",
+  "source_url": "https://www.mec.ca/en/product/6013-125/Cana-Plaid-Beanie",
+  "tech_specs": {
+    "Fabric content": [
+      "50% acrylic",
+      "50% merino wool"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

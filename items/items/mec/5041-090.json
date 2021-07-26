@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Bushcraft"
+  ],
+  "description": "Gain practical knowledge about surviving in the northern bush, with minimal use of technological materials and tools.  Written by a long-time wilderness educator, this guide is written for hikers, campers, foresters, backwoods adventurers and anyone with a passion for the outdoors. Includes instructions and diagrams for lighting and maintaining a fire, chopping wood and felling trees, creating shelters and keeping warm, safe use of the axe and bush knife, plants and animals important for survival, food, water, cooking and wilderness first aid.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815763357726/5041090-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815763357726/5041090-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Bushcraft",
+  "product_code": "5041-090",
+  "source_url": "https://www.mec.ca/en/product/5041-090/Bushcraft",
+  "tech_specs": {
+    "Author": [
+      "Mors Kochanski"
+    ],
+    "Edition": [
+      "3rd"
+    ],
+    "ISBN": [
+      "9781772130072"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Camping and hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "304"
+    ],
+    "Published": [
+      "2016"
+    ]
+  }
+}

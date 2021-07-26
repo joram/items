@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Trousers",
+    "Arlie Joggers"
+  ],
+  "description": "A comfy pair to reach for after work. An easy fit and mid-rise are great for relaxing and look great when on the town.Woven organic cotton is extra soft.Wide elastic waistband with drawcord give customizable comfort.Semi-slim fit with elastic cuffs.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content\n\n\n\n\n\n\nFairTrade\n\n\n\n\n\n\n\n\n\n\n\n                      Certified Fair Trade",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791797790/6012328-CHS06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791666718/6012328-CHS06-ALT-AFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791863326/6012328-CHS06-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791928862/6012328-CHS06-ALT-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168792387614/6012328-CHS06-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168792322078/6012328-CHS06-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168964550686/6012328-CHS06-ALT-ZFLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791797790/6012328-CHS06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791666718/6012328-CHS06-ALT-AFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791863326/6012328-CHS06-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791928862/6012328-CHS06-ALT-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168792387614/6012328-CHS06-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168792322078/6012328-CHS06-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168964550686/6012328-CHS06-ALT-ZFLAT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791797790/6012328-CHS06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791666718/6012328-CHS06-ALT-AFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791863326/6012328-CHS06-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791928862/6012328-CHS06-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168792387614/6012328-CHS06-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168792322078/6012328-CHS06-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168964550686/6012328-CHS06-ALT-ZFLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791797790/6012328-CHS06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791666718/6012328-CHS06-ALT-AFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791863326/6012328-CHS06-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168791928862/6012328-CHS06-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168792387614/6012328-CHS06-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168792322078/6012328-CHS06-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168964550686/6012328-CHS06-ALT-ZFLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Arlie Joggers - Women's",
+  "product_code": "6012-328",
+  "source_url": "https://www.mec.ca/en/product/6012-328/Arlie-Joggers",
+  "tech_specs": {
+    "Fabric content": [
+      "100% organically grown cotton"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "India"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "2 back with flap"
+    ],
+    "Product sustainability": [
+      "Organically grown content",
+      "Certified Fair Trade"
+    ]
+  }
+}

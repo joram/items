@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth clothing",
+    "Youth accessories",
+    "Youth socks",
+    "Youth hiking socks",
+    "Merino Hike Stripe Light Crew Socks"
+  ],
+  "description": "Stripes add zest to life.Made of merino, nylon and elastane.Sizing clearly indicated on the sock.Flat-knit toe seam.Elasticized arch brace.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994766618654/5062815-NVY13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163329503262/5062815-MIL22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145836732446/5062815-DSR13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022247534622/5062815-COR18.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994766618654/5062815-NVY13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163329503262/5062815-MIL22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145836732446/5062815-DSR13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022247534622/5062815-COR18.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994766618654/5062815-NVY13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163329503262/5062815-MIL22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145836732446/5062815-DSR13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022247534622/5062815-COR18.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8994766618654/5062815-NVY13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9163329503262/5062815-MIL22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145836732446/5062815-DSR13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022247534622/5062815-COR18.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Merino Hike Stripe Light Crew Socks - Children to Youths",
+  "product_code": "5062-815",
+  "source_url": "https://www.mec.ca/en/product/5062-815/Merino-Hike-Stripe-Light-Crew-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "48% merino wool",
+      "50% nylon",
+      "2% elastane"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Casual wear",
+      "School"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

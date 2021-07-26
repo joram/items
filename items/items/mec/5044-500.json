@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "BC Coast Volume 2 South Vancouver Island"
+  ],
+  "description": "Covers Vancouver Island's south coast from Bamfield to Comox Harbour, including the West Coast Trail, Juan de Fuca Strait, Haro Strait, the Gulf Islands, and the east coast to Comox.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815674064926/5044500-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815674064926/5044500-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "BC Coast Volume 2 South Vancouver Island",
+  "product_code": "5044-500",
+  "source_url": "https://www.mec.ca/en/product/5044-500/BC-Coast-Volume-2-South-Vancouver-Island",
+  "tech_specs": {
+    "Author": [
+      "John Kimantas"
+    ],
+    "ISBN": [
+      "9780987985118"
+    ],
+    "Ideal for": [
+      "Kayak touring"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "192"
+    ],
+    "Published": [
+      "2015"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

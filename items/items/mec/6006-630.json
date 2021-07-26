@@ -1,0 +1,84 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing harnesses",
+    "Adjustable harnesses",
+    "Altitude Harness"
+  ],
+  "description": "This surprisingly lightweight harness balances long-haul comfort with mountaineering and ski touring performance. The design is easy to put on while you have skis or crampons on. 2 gear loops and ice-screw sleeves house essentials for glacier travel or pitches of ice, while the doubleback buckle can easily be operated with gloves on.Wireframe technology uses HDPE strands which replaces traditional padding and webbing.2 low-profile gear loops help organize gear.Each leg loop features an ice-screw holder for quick access.Aluminum DoubleBack Light buckle and straps are easy to handle, even with gloves on.Sized to adapt to layers.Harness can be donned while wearing skis or crampons.Protective carry bag included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089992687646/6006630-ORG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090681700382/6006630-ORG00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090681733150/6006630-ORG00-ALT-INHAND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090637398046/6006630-ORG00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089992687646/6006630-ORG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090681700382/6006630-ORG00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090681733150/6006630-ORG00-ALT-INHAND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090637398046/6006630-ORG00-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089992687646/6006630-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090681700382/6006630-ORG00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090681733150/6006630-ORG00-ALT-INHAND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090637398046/6006630-ORG00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089992687646/6006630-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090681700382/6006630-ORG00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090681733150/6006630-ORG00-ALT-INHAND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090637398046/6006630-ORG00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Altitude Harness - Unisex",
+  "product_code": "6006-630",
+  "source_url": "https://www.mec.ca/en/product/6006-630/Altitude-Harness",
+  "tech_specs": {
+    "Adjustable leg loops": [
+      "Yes"
+    ],
+    "CE certified": [
+      "Yes"
+    ],
+    "Drop seat": [
+      "No"
+    ],
+    "Gear loops": [
+      "2"
+    ],
+    "Haul loop": [
+      "No"
+    ],
+    "Ice clipper slots": [
+      "No"
+    ],
+    "Ideal for": [
+      "Ski mountaineering"
+    ],
+    "Leg loop size": [
+      "55-67cm (Small/Medium)",
+      "60-73cm (Medium/Large)",
+      "66-79cm (Large/X-Large)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Self-locking buckle": [
+      "Yes"
+    ],
+    "Type": [
+      "Seat harness"
+    ],
+    "Waist size": [
+      "64-86cm (Small/Medium)",
+      "74-96cm (Medium/Large)",
+      "84-108cm (Large/X-Large)"
+    ],
+    "Weight": [
+      "150g (Small/Medium)",
+      "160g (Medium/Large)",
+      "170g (Large/X-Large)"
+    ]
+  }
+}

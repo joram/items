@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Money belts and wallets",
+    "RFID Safe Bifold Wallet"
+  ],
+  "description": "Whether at home or abroad, this wallet protects your credit cards from unwanted scans.RFID protection with 4 interior card slots plus mesh ID pocket.Cut-resistant fabric with clip point.Sized for all currencies.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106489311262/6008470-CAR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487541790/6008470-CAR00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487574558/6008470-CAR00-ALT-BACK-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487607326/6008470-CAR00-ALT-FRONT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487640094/6008470-CAR00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487672862/6008470-CAR00-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487738398/6008470-CAR00-ALT-SCALE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106489311262/6008470-CAR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487541790/6008470-CAR00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487574558/6008470-CAR00-ALT-BACK-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487607326/6008470-CAR00-ALT-FRONT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487640094/6008470-CAR00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487672862/6008470-CAR00-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487738398/6008470-CAR00-ALT-SCALE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106489311262/6008470-CAR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487541790/6008470-CAR00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487574558/6008470-CAR00-ALT-BACK-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487607326/6008470-CAR00-ALT-FRONT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487640094/6008470-CAR00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487672862/6008470-CAR00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487738398/6008470-CAR00-ALT-SCALE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106489311262/6008470-CAR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487541790/6008470-CAR00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487574558/6008470-CAR00-ALT-BACK-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487607326/6008470-CAR00-ALT-FRONT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487640094/6008470-CAR00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487672862/6008470-CAR00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106487738398/6008470-CAR00-ALT-SCALE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pacsafe RFID Safe Bifold Wallet",
+  "product_code": "6008-470",
+  "source_url": "https://www.mec.ca/en/product/6008-470/RFID-Safe-Bifold-Wallet",
+  "tech_specs": {
+    "Depth": [
+      "2.5cm"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Everyday use"
+    ],
+    "Length": [
+      "11cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "600-denier polyester"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "Weight": [
+      "0.17kg"
+    ],
+    "Width": [
+      "12cm"
+    ]
+  }
+}

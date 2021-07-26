@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Hydration packs and accessories",
+    "Bladders, reservoirs and accessories",
+    "Cleaning Kit"
+  ],
+  "description": "Clean the grunge out of your hydration system.Flexible 91cm wire brush cleans the entire length of your hydration tube. Fits all 6mm hydration tubes.Includes one effervescent Bottle Bright tablet for biodegradable, chlorine-free removal of stains and odours.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8866883469342/5053311-MEA00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8866883469342/5053311-MEA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hydrapak Cleaning Kit",
+  "product_code": "5053-311",
+  "source_url": "https://www.mec.ca/en/product/5053-311/Cleaning-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking",
+      "Mountain biking",
+      "Running"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

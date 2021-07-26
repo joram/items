@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Caps",
+    "Outdoor Stoke Stretch Fit Hat"
+  ],
+  "description": "Shade your eyes and show that mountains are top of mind. The mid-crown size provides a roomier fit.Classic 6-panel cap with an embroidered front patch.Stretch fit back gives a clean look.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184167788574/6000224-GOR06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184167723038/6000224-DNR01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184167788574/6000224-GOR06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184167723038/6000224-DNR01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184167788574/6000224-GOR06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184167723038/6000224-DNR01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184167788574/6000224-GOR06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9184167723038/6000224-DNR01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Outdoor Stoke Stretch Fit Hat - Unisex",
+  "product_code": "6000-224",
+  "source_url": "https://www.mec.ca/en/product/6000-224/Outdoor-Stoke-Stretch-Fit-Hat",
+  "tech_specs": {
+    "Fabric content": [
+      "98% organically grown cotton",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ],
+    "Secondary fabric": [
+      "90% polyester",
+      "10% spandex"
+    ]
+  }
+}

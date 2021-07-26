@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax",
+    "Phantom Glide DIY Kit (One Part Formula)"
+  ],
+  "description": "No more need to wax your skis ... ever. Phantom Glide is a permanent, one-time application that bonds to the PTex on your board or ski bases to give you predictable glide anywhere you ride. Great for skiers and snowboarders who do big-day seasons at resorts or in the backcountry. Save money on waxing and know that you're not putting hydrocarbon wax into the snowpack and watershed.Consistent glide and speed on all snow temperatures that feels similar to all-temperature wax in mid-winter conditions.Works on new or freshly stone-ground bases.Performance never declines regardless of number of tunes or stone grinds.Permanently alters the shore hardness of base material for durability and resilience against rock impacts.Includes 2 pouches of Phantom (enough for 1 pair of skis or 1 snowboard), a microfiber cloth, and a brush for base finishing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133122224158/6012205-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133116751902/6012205-NOC02-ALT-DESCRIPTION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133122224158/6012205-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133116751902/6012205-NOC02-ALT-DESCRIPTION.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133122224158/6012205-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133116751902/6012205-NOC02-ALT-DESCRIPTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133122224158/6012205-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133116751902/6012205-NOC02-ALT-DESCRIPTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DPS Skis Phantom Glide DIY Kit (One Part Formula)",
+  "product_code": "6012-205",
+  "source_url": "https://www.mec.ca/en/product/6012-205/Phantom-Glide-DIY-Kit-%28One-Part-Formula%29",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Downhill skiing",
+      "Snowboarding"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "State": [
+      "Liquid"
+    ],
+    "Type": [
+      "Glide"
+    ]
+  }
+}

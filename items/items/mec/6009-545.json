@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax stands, vises and tables",
+    "Aluminum Waxing Profile"
+  ],
+  "description": "Just like a pro, you can wax and clean your own skis on this aluminum profile.Extendable profile is ideal for waxing skate or classic skis.Aluminum rails clamp easily on a bench or table.Storage/travel bag included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9073754144798/6009545-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9073754144798/6009545-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rode Aluminum Waxing Profile",
+  "product_code": "6009-545",
+  "source_url": "https://www.mec.ca/en/product/6009-545/Aluminum-Waxing-Profile",
+  "tech_specs": {
+    "Ideal for": [
+      "Cross-country skiing",
+      "Skate skiing"
+    ],
+    "Made in": [
+      "Italy"
+    ]
+  }
+}

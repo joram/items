@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Swim fitness",
+    "Tri suits",
+    "Hexa All Over Jammer Swimsuit"
+  ],
+  "description": "A sleek swimsuit for swimming workouts and triathlon training. Made of durable, chorine-resistant polyester, these jammers have a smooth fit and won't sag or fade over time.Made of TYR Durafast Elite polyester that's chlorine- and fade-resistant.Fabric provides UPF 50+ sun protection.Compression fit and drawcord waist hold these jammers firmly in place.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008613228574/6000468-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008612474910/6000468-NVY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008613294110/6000468-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008614113310/6000468-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008613228574/6000468-NVY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008612474910/6000468-NVY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008613294110/6000468-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008614113310/6000468-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008613228574/6000468-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008612474910/6000468-NVY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008613294110/6000468-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008614113310/6000468-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008613228574/6000468-NVY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008612474910/6000468-NVY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008613294110/6000468-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9008614113310/6000468-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "TYR Hexa All Over Jammer Swimsuit - Men's",
+  "product_code": "6000-468",
+  "source_url": "https://www.mec.ca/en/product/6000-468/Hexa-All-Over-Jammer-Swimsuit",
+  "tech_specs": {
+    "Fabric content": [
+      "94% polyester",
+      "6% spandex"
+    ],
+    "Ideal for": [
+      "Swim training",
+      "Swim triathlon",
+      "Watersports"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

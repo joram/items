@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Skirts and dresses",
+    "Dresses",
+    "Liike III Dress"
+  ],
+  "description": "Add a sophisticated twist to casual summer dressing. This little number has ruching and adjustable hems that elevate the style above your typical sundress.Made of quick-drying stretch-woven nylon and spandex that moves with you.Hand pockets... because who doesn't love pockets?Side hem adjustments let you adjust the length and silhouette.Front length is 36.25in. Back length is 37in.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165757841438/5063125-FG000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165757906974/5063125-FG000-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165758005278/5063125-FG000-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357279262/5063125-DIG00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357312030/5063125-DIG00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085880074270/5063125-BK000-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085880172574/5063125-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085880205342/5063125-BK000-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193344696350/5063125-DIG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085888790558/5063125-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165757841438/5063125-FG000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165757906974/5063125-FG000-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165758005278/5063125-FG000-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357279262/5063125-DIG00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357312030/5063125-DIG00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085880074270/5063125-BK000-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085880172574/5063125-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085880205342/5063125-BK000-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193344696350/5063125-DIG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085888790558/5063125-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165757841438/5063125-FG000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165757906974/5063125-FG000-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165758005278/5063125-FG000-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357279262/5063125-DIG00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357312030/5063125-DIG00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085880074270/5063125-BK000-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085880172574/5063125-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085880205342/5063125-BK000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193344696350/5063125-DIG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085888790558/5063125-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165757841438/5063125-FG000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165757906974/5063125-FG000-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165758005278/5063125-FG000-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357279262/5063125-DIG00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193357312030/5063125-DIG00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085880074270/5063125-BK000-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085880172574/5063125-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085880205342/5063125-BK000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193344696350/5063125-DIG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9085888790558/5063125-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Indyeva Liike III Dress - Women's",
+  "product_code": "5063-125",
+  "source_url": "https://www.mec.ca/en/product/5063-125/Liike-III-Dress",
+  "tech_specs": {
+    "Fabric content": [
+      "94% nylon",
+      "6% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Travel"
+    ],
+    "Length": [
+      "Above knee"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Pockets": [
+      "2 side"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Trousers",
+    "Adventure Pants"
+  ],
+  "description": "Technical pants that look good, are festooned with pockets and adapt to most adventures. The blended fabric is breathable and wicking, so it's a practical choice for different climates and mixed-bag weather.Stretch fabric moves with you, breathes well and helps wick moisture.Flat-stitched side seams hug the body and don't cause hot spots.Plenty of pockets to house EDC kit.Invisible gusset for comfort.Adjustable ankle strap transform them into slim fitting joggers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9051142783006/5052536-CIV00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9051146747934/5052536-CIV00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9051148746782/5052536-CIV00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8888418730014/5052536-LOD01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9051142783006/5052536-CIV00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9051146747934/5052536-CIV00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9051148746782/5052536-CIV00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8888418730014/5052536-LOD01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9051142783006/5052536-CIV00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9051146747934/5052536-CIV00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9051148746782/5052536-CIV00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8888418730014/5052536-LOD01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9051142783006/5052536-CIV00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9051146747934/5052536-CIV00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9051148746782/5052536-CIV00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8888418730014/5052536-LOD01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DU/ER Adventure Pants - Men's",
+  "product_code": "5052-536",
+  "source_url": "https://www.mec.ca/en/product/5052-536/Adventure-Pants",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Gusseted crotch"
+    ],
+    "Fabric content": [
+      "52% organically grown cotton",
+      "28% Tencel Lyocell",
+      "18% polyester",
+      "2% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "32in. (34)"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Travel",
+      "Urban cycling"
+    ],
+    "Made in": [
+      "Pakistan"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "2 back",
+      "2 thigh"
+    ]
+  }
+}

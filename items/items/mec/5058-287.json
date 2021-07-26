@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Night Sky"
+  ],
+  "description": "This simplified guide to the night sky introduces you to the solar system, our moon, planets that are visible with the naked eye, meteor showers and eclipses. Features seasonal glow-in-the-dark charts to the stars and constellations. Shine a flashlight on the charts to illuminate them! Laminated for durability.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8927563448350/5058287-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8927895486494/5058287-NOC02-ALT-FOLDOUT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8927563448350/5058287-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8927895486494/5058287-NOC02-ALT-FOLDOUT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8927563448350/5058287-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8927895486494/5058287-NOC02-ALT-FOLDOUT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8927563448350/5058287-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8927895486494/5058287-NOC02-ALT-FOLDOUT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Night Sky",
+  "product_code": "5058-287",
+  "source_url": "https://www.mec.ca/en/product/5058-287/Night-Sky",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

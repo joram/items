@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Sun protection",
+    "Sunscreen",
+    "SPF 30 Kids Sunscreen Spray 30ml"
+  ],
+  "description": "A great choice for kids with sensitive skin, or anyone who get prolonged sun exposure during training. It offers excellent UV protection, dries quickly and has no added fragrance.Gentle formula is fragrance-free, contains no PABA, oil, or alcohol, so is suitable for kids and adults.Oil-free formula isn't sticky or messy.Sweat and water-resistant (for up to 80 minutes).Goes on wet and dries in 2 to 3 minutes.Active ingredients: Avobenzone 2.50%, Octinoxate 7.50%, Octisalate 5.00%, Octocrylene 7.50%.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028939776030/6004444-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029101322270/6004444-NOC02-ALT-LIFESTYLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028939776030/6004444-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029101322270/6004444-NOC02-ALT-LIFESTYLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028939776030/6004444-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029101322270/6004444-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028939776030/6004444-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9029101322270/6004444-NOC02-ALT-LIFESTYLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "KineSys SPF 30 Kids Sunscreen Spray 30ml",
+  "product_code": "6004-444",
+  "source_url": "https://www.mec.ca/en/product/6004-444/SPF-30-Kids-Sunscreen-Spray-30ml",
+  "tech_specs": {
+    "Alcohol free\n\nAlcohol is a skin irritant, so alcohol-free sun products are better for sensitive skin.": [
+      "Yes"
+    ],
+    "Fragrance free": [
+      "Yes"
+    ],
+    "Hypoallergenic": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Beach"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Noncomedogenic\n\nNoncomedogenic skin care products are less likely to block pores.": [
+      "Yes"
+    ],
+    "PABA free": [
+      "Yes"
+    ],
+    "Reef and coral friendly\n\nFree of the two most common ingredients known to affect coral health (oxybenzone and octinoxate).": [
+      "No"
+    ],
+    "SPF": [
+      "30"
+    ],
+    "Type": [
+      "Body",
+      "Face"
+    ],
+    "Volume": [
+      "30ml"
+    ],
+    "Water/sweatproof": [
+      "Yes"
+    ]
+  }
+}

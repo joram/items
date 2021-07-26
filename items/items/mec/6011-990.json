@@ -1,0 +1,67 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Shorts",
+    "Merino Sport 10'' Shorts"
+  ],
+  "description": "High-performance shorts to keep you at the perfect temperature.Outer fabric is 86% recycled polyester and 14% elastane, with a water repellent finish.Waistband is lined with Merino Sport 150.Drawcord adjustable waist.Double snap closure and zipper.2 front pockets and back pocket with zipper.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185234157598/6011990-MMG08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225670686/6011990-MMG08-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225703454/6011990-MMG08-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225572382/6011990-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225637918/6011990-BK000-ALT-BBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185234124830/6011990-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185234157598/6011990-MMG08.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225670686/6011990-MMG08-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225703454/6011990-MMG08-ALT-FLAT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225572382/6011990-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225637918/6011990-BK000-ALT-BBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185234124830/6011990-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185234157598/6011990-MMG08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225670686/6011990-MMG08-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225703454/6011990-MMG08-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225572382/6011990-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225637918/6011990-BK000-ALT-BBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185234124830/6011990-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185234157598/6011990-MMG08.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225670686/6011990-MMG08-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225703454/6011990-MMG08-ALT-FLAT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225572382/6011990-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185225637918/6011990-BK000-ALT-BBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185234124830/6011990-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Merino Sport 10'' Shorts - Men's",
+  "product_code": "6011-990",
+  "source_url": "https://www.mec.ca/en/product/6011-990/Merino-Sport-10%27%27-Shorts",
+  "tech_specs": {
+    "Fabric content": [
+      "86% recycled polyester",
+      "14% elastane"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "10in. (M)"
+    ],
+    "Ideal for": [
+      "Running, fitness and training"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front",
+      "1 back zippered"
+    ],
+    "Secondary fabric": [
+      "54% merino wool",
+      "46% polyester"
+    ]
+  }
+}

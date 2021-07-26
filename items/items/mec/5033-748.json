@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Rogers Pass Alpine Guide"
+  ],
+  "description": "Explore the heart of the Selkirk Mountains. This is the essential reference book to the climbs in Canada's Glacier National Park. The guide details more than 300 climbs and their approach and descent routes. Illustrated with over 350 full-colour photos, maps and drawings.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815639232542/5033748-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815639232542/5033748-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rogers Pass Alpine Guide",
+  "product_code": "5033-748",
+  "source_url": "https://www.mec.ca/en/product/5033-748/Rogers-Pass-Alpine-Guide",
+  "tech_specs": {
+    "Author": [
+      "David P. Jones"
+    ],
+    "ISBN": [
+      "9780986519123"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Rock climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "255"
+    ],
+    "Published": [
+      "2012"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

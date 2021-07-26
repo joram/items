@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Hydration packs and accessories",
+    "Bladders, reservoirs and accessories",
+    "Bite Valve Cover"
+  ],
+  "description": "It's only a matter of time before you put you backpack in the dirt. This bite valve cover prevents drinking dirt flavoured water. On winter trips, it also slows down the freezing.Fits all Platypus\u00ae bite valves.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027032776734/5063741-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027032776734/5063741-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Platypus Bite Valve Cover",
+  "product_code": "5063-741",
+  "source_url": "https://www.mec.ca/en/product/5063-741/Bite-Valve-Cover",
+  "tech_specs": {
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking",
+      "Mountain biking",
+      "Running"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Winter boots",
+    "Active winter boots",
+    "Cham 8 Thermo Tall Waterproof Winter Boots"
+  ],
+  "description": "Waterproof boots to keep your feet dry and warm during winter hikes and snowshoes, or when just shoveling the driveway. A snowshoe strap ridge keeps your foot secure in snowshoe bindings, and the deep-lugged sole provides the traction you need on snowy surfaces.Synthetic upper with M Select\u2122 Dry Barrier waterproof membrane.400g M Select\u2122 Warm insulation keeps feet warm.Bellows tongue keeps trail debris and snow out.Fleece lining for next-to-foot comfort.Kinetic Fit\u2122 Base insole supports underfoot.EVA midsole provides cushion and stability.Air Cushion in heel absorbs shocks.Vibram\u00ae TC5+ rubber outsole has 6mm lugs for superior traction on slippery winter surfaces.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134137278494/6010089-BRK66.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129152030/6010089-BRK66-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129381406/6010089-BRK66-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129741854/6010089-BRK66-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129872926/6010089-BRK66-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129938462/6010089-BRK66-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134130364446/6010089-BRK66-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134130790430/6010089-BRK66-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134137278494/6010089-BRK66.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129152030/6010089-BRK66-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129381406/6010089-BRK66-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129741854/6010089-BRK66-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129872926/6010089-BRK66-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129938462/6010089-BRK66-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134130364446/6010089-BRK66-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134130790430/6010089-BRK66-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134137278494/6010089-BRK66.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129152030/6010089-BRK66-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129381406/6010089-BRK66-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129741854/6010089-BRK66-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129872926/6010089-BRK66-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129938462/6010089-BRK66-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134130364446/6010089-BRK66-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134130790430/6010089-BRK66-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134137278494/6010089-BRK66.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129152030/6010089-BRK66-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129381406/6010089-BRK66-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129741854/6010089-BRK66-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129872926/6010089-BRK66-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134129938462/6010089-BRK66-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134130364446/6010089-BRK66-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134130790430/6010089-BRK66-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Merrell Cham 8 Thermo Tall Waterproof Winter Boots - Men's",
+  "product_code": "6010-089",
+  "source_url": "https://www.mec.ca/en/product/6010-089/Cham-8-Thermo-Tall-Waterproof-Winter-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Height\n\nThe approximate boot height for the average person.": [
+      "Low calf"
+    ],
+    "Ideal for": [
+      "Active winter wear",
+      "Snowshoeing"
+    ],
+    "Insulation": [
+      "400g synthetic insulation"
+    ],
+    "Lining material": [
+      "Microfleece"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable inner boot": [
+      "No"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Synthetic leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ],
+    "Weight": [
+      "1.22kg (9)"
+    ]
+  }
+}

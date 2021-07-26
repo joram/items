@@ -1,0 +1,81 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill skis",
+    "Blackops W Blazer Skis"
+  ],
+  "description": "The BlackOps Blazer is a quiver-of-one for charging mountains or getting in some groomed laps. Blending versatility and float in a durable yet agile package, intermediate to advanced skiers will find a playful ride and freedom to go beyond the resort. The high camber adds grip on the groomers while the high tip and medium tail offer flotation and steering control.Rossitop cap construction adds strenght and rebound for control in varied conditions.Lightweight poplar wood core offers progressive flex and pop.Responsive Diagofiber reinforcements provide lightweight pop.Titanal beam provides power and grip along the length of the ski.Partial twin tip with a cambered midsection.Damp Tech insert reduces vibration.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134113751070/6011569-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134119649310/6011569-NOC02-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134119583774/6011569-NOC02-ALT-TIP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134119714846/6011569-NOC02-ALT-END.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134113751070/6011569-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134119649310/6011569-NOC02-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134119583774/6011569-NOC02-ALT-TIP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134119714846/6011569-NOC02-ALT-END.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134113751070/6011569-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134119649310/6011569-NOC02-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134119583774/6011569-NOC02-ALT-TIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134119714846/6011569-NOC02-ALT-END.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134113751070/6011569-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134119649310/6011569-NOC02-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134119583774/6011569-NOC02-ALT-TIP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134119714846/6011569-NOC02-ALT-END.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rossignol Blackops W Blazer Skis - Women's",
+  "product_code": "6011-569",
+  "source_url": "https://www.mec.ca/en/product/6011-569/Blackops-W-Blazer-Skis",
+  "tech_specs": {
+    "Ability\n\nBeginner: new or getting back into skiing.  Intermediate: confident with turning and stopping.  Advanced: highly confident carver. Expert: steeps, drops, park, double blacks -- bring it on.": [
+      "Intermediate",
+      "Advanced"
+    ],
+    "Bindings included": [
+      "No"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Structural cap"
+    ],
+    "Core": [
+      "Wood"
+    ],
+    "Dimension": [
+      "131-98-121mm (160cm)"
+    ],
+    "Ideal for": [
+      "Freeride and freeskiing"
+    ],
+    "Made in": [
+      "Spain"
+    ],
+    "Rocker/camber profile": [
+      "Rocker tail",
+      "Rocker tip"
+    ],
+    "Snow conditions": [
+      "Powder",
+      "Mixed",
+      "Groomed"
+    ],
+    "Terrain": [
+      "Off-Piste",
+      "On-Piste"
+    ],
+    "Turning radius": [
+      "13m (160cm)",
+      "16m (170cm)"
+    ],
+    "Weight": [
+      "3.6kg (160cm)",
+      "3.8kg (170cm)"
+    ]
+  }
+}

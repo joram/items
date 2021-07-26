@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Running packs",
+    "Hydration vests and belts",
+    "Pinnacle Belt"
+  ],
+  "description": "Compact enough for racing, this lightweight and featured belt takes care of your essentials so you can focus on your run.Zippered security pocket, sized for most smartphones.Expandable hydration pocket with foam lining for stability.Side stash pockets hold snacks or keys.600ml ergonomic soft flask included.Compression tabs compress soft flask as you drink down the contents.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164042174494/6013077-BMA34.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164034867230/6013077-BMA34-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164035129374/6013077-BMA34-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164042174494/6013077-BMA34.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164034867230/6013077-BMA34-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164035129374/6013077-BMA34-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164042174494/6013077-BMA34.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164034867230/6013077-BMA34-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164035129374/6013077-BMA34-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164042174494/6013077-BMA34.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164034867230/6013077-BMA34-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164035129374/6013077-BMA34-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nathan Pinnacle Belt - Unisex",
+  "product_code": "6013-077",
+  "source_url": "https://www.mec.ca/en/product/6013-077/Pinnacle-Belt",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Hipbelt pocket(s)",
+      "Compression straps"
+    ],
+    "BPA-free": [
+      "Yes"
+    ],
+    "Bottle holder": [
+      "Yes"
+    ],
+    "Bottle included": [
+      "Yes"
+    ],
+    "Bottle volume": [
+      "600ml"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Lid type": [
+      "Sport cap"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Volume": [
+      "0.5L"
+    ],
+    "Weight": [
+      "113g (Small/Medium)"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Toddler ski harness and teaching equipment",
+    "Edgie Wedgie Ski Training Tool"
+  ],
+  "description": "A simple training tool for young skiers. It holds their ski tips together, which helps them hold a balanced, controlled wedge position and prevents crossed tips. Once they\u2019ve mastered pizza, unscrew the tool and move on to French fries.Comes with metal thumb screws for easy on and off.Small enough to tuck away in a pocket.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841689661470/5049905-RED00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8841689661470/5049905-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ski Ties Edgie Wedgie Ski Training Tool - Children",
+  "product_code": "5049-905",
+  "source_url": "https://www.mec.ca/en/product/5049-905/Edgie-Wedgie-Ski-Training-Tool",
+  "tech_specs": {
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Included": [
+      "Ski tip links"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

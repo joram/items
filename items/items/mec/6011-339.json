@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Avalanche safety gear",
+    "Avalanche probes",
+    "Stealth 330 Probe"
+  ],
+  "description": "Burly enough to stand up to the demands of professional use and deep snowpacks, the Stealth 330 is free of the dangling pull-cable found on other probes. In its place, there\u2019s a tube nested into the first probe section. It makes it smaller in your pack, and quick to deploy: just pull the trigger and the probe extends to its full 330cm.Laser-etched depth markings are easy to read and highly resistant to wear.Tip penetrates debris easily.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131852988446/6011339-ORG19.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131852988446/6011339-ORG19.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backcountry Access Stealth 330 Probe",
+  "product_code": "6011-339",
+  "source_url": "https://www.mec.ca/en/product/6011-339/Stealth-330-Probe",
+  "tech_specs": {
+    "Cable material\n\nThe material the cable is made of. The cable runs through the centre of the probe, and provides the tension to hold a multi-sectioned probe together when extended.": [
+      "Stainless steel"
+    ],
+    "Depth marking\n\nDepth markings on the outside of the probe measure snow depth. They show how much snow is between the rescuer and the victim.": [
+      "Yes"
+    ],
+    "Diameter": [
+      "13mm"
+    ],
+    "Extended length": [
+      "330cm"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Mountain snowshoeing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "7075 aluminum"
+    ],
+    "Packed length": [
+      "47cm"
+    ],
+    "Scale increments": [
+      "1cm"
+    ],
+    "Stuff sack": [
+      "Yes"
+    ],
+    "Weight": [
+      "350g"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Shorts",
+    "Abisko Lite Shorts"
+  ],
+  "description": "Lightweight shorts with a technical cut and stretch fabric that lets you move quickly toward the next patch of shade. Zippered pockets house your essentials and hold them secure.Breathable fabric suits warmer climates.Waist is cut high in the back for coverage and comfort under a backpack.2 front hand pockets. Internal mesh pocket fits a phone.Back and side pockets with zippers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091099885598/6005393-LOL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9110277455902/6005393-LOL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645404190/6005393-DGR00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645174814/6005393-DGR00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681416222/6005393-DGR00-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681580062/6005393-DGR00-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681645598/6005393-DGR00-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681743902/6005393-DGR00-ALT-MODEL-POCKETS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681809438/6005393-DGR00-ALT-MODEL-STRETCH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169688264734/6005393-DGR00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091099885598/6005393-LOL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9110277455902/6005393-LOL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645404190/6005393-DGR00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645174814/6005393-DGR00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681416222/6005393-DGR00-ALT-MODEL-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681580062/6005393-DGR00-ALT-MODEL-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681645598/6005393-DGR00-ALT-MODEL-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681743902/6005393-DGR00-ALT-MODEL-POCKETS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681809438/6005393-DGR00-ALT-MODEL-STRETCH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169688264734/6005393-DGR00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091099885598/6005393-LOL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9110277455902/6005393-LOL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645404190/6005393-DGR00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645174814/6005393-DGR00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681416222/6005393-DGR00-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681580062/6005393-DGR00-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681645598/6005393-DGR00-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681743902/6005393-DGR00-ALT-MODEL-POCKETS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681809438/6005393-DGR00-ALT-MODEL-STRETCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169688264734/6005393-DGR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091099885598/6005393-LOL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9110277455902/6005393-LOL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645404190/6005393-DGR00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169645174814/6005393-DGR00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681416222/6005393-DGR00-ALT-MODEL-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681580062/6005393-DGR00-ALT-MODEL-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681645598/6005393-DGR00-ALT-MODEL-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681743902/6005393-DGR00-ALT-MODEL-POCKETS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169681809438/6005393-DGR00-ALT-MODEL-STRETCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9169688264734/6005393-DGR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fjallraven Abisko Lite Shorts - Men's",
+  "product_code": "6005-393",
+  "source_url": "https://www.mec.ca/en/product/6005-393/Abisko-Lite-Shorts",
+  "tech_specs": {
+    "Fabric content": [
+      "88% polyester",
+      "12% elastane"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "1 side zippered",
+      "1 back zippered"
+    ],
+    "Weight": [
+      "300g (48)"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "The Beginning Runner's Handbook"
+  ],
+  "description": "Most running books are directed to advanced runner, whereas this guide offers the absolutely basics to beginners seeking long-term fitness. New to this edition is a revised run/walk program that targets 10K runners. Expanded and enhanced sections include cross-training options such as trail running, group fitness classes, and boot camp sessions as well as information on running through pregnancy. It includes facts about barefoot running, minimalist shoes, and links to online sources of information and running communities.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815739830302/5029304-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815739830302/5029304-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The Beginning Runner's Handbook",
+  "product_code": "5029-304",
+  "source_url": "https://www.mec.ca/en/product/5029-304/The-Beginning-Runner%27s-Handbook",
+  "tech_specs": {
+    "Author": [
+      "Ian MacNeill"
+    ],
+    "Edition": [
+      "4th"
+    ],
+    "ISBN": [
+      "9781553658603"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "224"
+    ],
+    "Published": [
+      "2011"
+    ]
+  }
+}

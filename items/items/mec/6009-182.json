@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Kayak paddles",
+    "Touring",
+    "Energy Hybrid Touring Paddle"
+  ],
+  "description": "A first paddle you won't need to upgrade. All the benefits of a bent-shaft paddle are in this budget friendly option. The keeps the weight down for long days or ocean tours. Contoured grips, versatile blade shape and a carbon shaft set you up for pure enjoyment on the water.Durable fiberglass/nylon blades.Light, stiff carbon shaft.Blade shape suits high and low angle paddlers, with a large surface area for powerful strokes.Soft Advantage Grips dampen vibration.Ergonomic grips promote proper hand placement.7 degree wrist offset reduces shoulder fatigue and strain on your forearms.Kingpin Connection gives you 12 blade angle options on 15 degree increments.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096210087966/6009182-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096230928414/6009182-WHT00-ALT-CONNECTION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096230993950/6009182-WHT00-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096230961182/6009182-WHT00-ALT-GRIPS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096210087966/6009182-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096230928414/6009182-WHT00-ALT-CONNECTION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096230993950/6009182-WHT00-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096230961182/6009182-WHT00-ALT-GRIPS.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096210087966/6009182-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096230928414/6009182-WHT00-ALT-CONNECTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096230993950/6009182-WHT00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096230961182/6009182-WHT00-ALT-GRIPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096210087966/6009182-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096230928414/6009182-WHT00-ALT-CONNECTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096230993950/6009182-WHT00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9096230961182/6009182-WHT00-ALT-GRIPS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Accent Energy Hybrid Touring Paddle",
+  "product_code": "6009-182",
+  "source_url": "https://www.mec.ca/en/product/6009-182/Energy-Hybrid-Touring-Paddle",
+  "tech_specs": {
+    "Blade dimensions": [
+      "46\u00a0x\u00a018cm\u00a0(18\u00a0x\u00a07.1in.)"
+    ],
+    "Blade material": [
+      "Fibreglass reinforced plastic"
+    ],
+    "Blade shape\n\nBlade shapes are designed to apply power efficiently. Short, wide: immediate power. Long, narrow: better leverage in turbulent water. Wing: channels water for maximum power and speed.": [
+      "Low angle"
+    ],
+    "Feathered\n\nThe angle of two blades relative to one another. Parallel blade = unfeathered. Offset blades = feathered. Feathered paddles reduce wind resistance. Adjustable paddles can be adjusted left or right.": [
+      "Adjustable"
+    ],
+    "Ideal for": [
+      "Kayak touring"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Shaft material": [
+      "Carbon fibre"
+    ],
+    "Shaft type": [
+      "Straight"
+    ]
+  }
+}

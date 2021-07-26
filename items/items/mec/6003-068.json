@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Gloves and mittens",
+    "Gloves",
+    "RS Warm Gloves"
+  ],
+  "description": "Windproof and insulated gloves for dedicated cross-country skiers who want warm hands.AdvancedSkin Shield softshell on back-of-hand is windproof, water-resistant and breathable.Thinsulate\u2122 insulation is bonded to the face so it won't bunch.Durable microfibre synthetic leather palms provide good grip.Short cuffs with minimal Velcro closures fit with pole straps.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055725879326/6003068-BK229.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9055725879326/6003068-BK229.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon RS Warm Gloves - Unisex",
+  "product_code": "6003-068",
+  "source_url": "https://www.mec.ca/en/product/6003-068/RS-Warm-Gloves",
+  "tech_specs": {
+    "Ideal for": [
+      "Cross-country skiing"
+    ],
+    "Insulation": [
+      "Medium"
+    ],
+    "Liner fabric": [
+      "100% polyester"
+    ],
+    "Liner type": [
+      "Sewn-in"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Main fabric": [
+      "92% polyester",
+      "8% spandex"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Synthetic leather"
+    ],
+    "Touchscreen compatible": [
+      "No"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Weight": [
+      "96g (Medium)"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

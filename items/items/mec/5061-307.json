@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Hiking: Prepare Your Voyages!"
+  ],
+  "description": "This guide gives you all the information you need to prepare for your hiking trips. Includes advice on physical and mental preparation, logistics, footwear and gear selection, packing your backpack, and taking care of your feet.This book includes brief descriptions of famous hikes around the world, as well as a section on the Camino de Santiago.Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8982031958046/5061307-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8982031958046/5061307-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hiking: Prepare Your Voyages!",
+  "product_code": "5061-307",
+  "source_url": "https://www.mec.ca/en/product/5061-307/Hiking%3A-Prepare-Your-Voyages%21",
+  "tech_specs": {
+    "Author": [
+      "Sylvain Bazin"
+    ],
+    "ISBN": [
+      "9782851809414"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Pages": [
+      "303"
+    ],
+    "Published": [
+      "2016"
+    ]
+  }
+}

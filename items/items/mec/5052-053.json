@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike racks, carriers and storage",
+    "Bike boxes and travel cases",
+    "Road Bike Disc Adapter"
+  ],
+  "description": "Travel safe. Protect the front fork and disc brake on your road bike while in transit inside Evoc's Bike Travel Bag and Bike Travel Bag Pro.Foam padding is encased in durable 600-denier polyester. Webbing straps cinch it in place.Designed to work with road and triathlon bikes with disc brakes.Dimensions are 17 x 10 x 33cm.Note: Not for use with the Evoc Bike Stand or Road Bike Aluminum Stand.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8959832064030/5052053-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8959860342814/5052053-BK000-ALT-WITHBIKE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8959832064030/5052053-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8959860342814/5052053-BK000-ALT-WITHBIKE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8959832064030/5052053-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8959860342814/5052053-BK000-ALT-WITHBIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8959832064030/5052053-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8959860342814/5052053-BK000-ALT-WITHBIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "EVOC Road Bike Disc Adapter",
+  "product_code": "5052-053",
+  "source_url": "https://www.mec.ca/en/product/5052-053/Road-Bike-Disc-Adapter",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling",
+      "Bike triathlon",
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "250g"
+    ]
+  }
+}

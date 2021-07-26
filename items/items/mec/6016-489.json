@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Button up shirts and polos",
+    "Abisko Cool Short Sleeve T-Shirt"
+  ],
+  "description": "Stay cool on sun-baked trails or while travelling in tropical heat. This lightweight tee is made with Tencel Lyocell, a viscose-like fibre that's soft on skin and wicks moisture.Underarm gussets for unrestricted movement.Sewn-in ventilation holes release excess heat.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n                      Preferred Lyocell",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199334686750/6016489-UNB18.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198858895390/6016489-SHG55.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199334686750/6016489-UNB18.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198858895390/6016489-SHG55.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199334686750/6016489-UNB18.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198858895390/6016489-SHG55.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9199334686750/6016489-UNB18.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9198858895390/6016489-SHG55.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fjallraven Abisko Cool Short Sleeve T-Shirt - Men's",
+  "product_code": "6016-489",
+  "source_url": "https://www.mec.ca/en/product/6016-489/Abisko-Cool-Short-Sleeve-T-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "100% Tencel Lyocell"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 external chest"
+    ],
+    "Product sustainability": [
+      "Preferred Lyocell"
+    ]
+  }
+}

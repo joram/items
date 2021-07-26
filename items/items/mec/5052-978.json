@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Pedals and cleats",
+    "Cleats",
+    "KeO Cleats"
+  ],
+  "description": "Replacement cleats for any K\u00e9O pedals.Black cleat angular float is 0 \u00b0, grey is 4.5 \u00b0 and red is 9 \u00b0.Lateral adjustment is 4mm, longitudenal is 12mm.Compatible with 3-hole road cycling shoes.Sold with all mounting hardware.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860028469278/5052978-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860027912222/5052978-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860028469278/5052978-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860027912222/5052978-GRY00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860028469278/5052978-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860027912222/5052978-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860028469278/5052978-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8860027912222/5052978-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Look KeO Cleats",
+  "product_code": "5052-978",
+  "source_url": "https://www.mec.ca/en/product/5052-978/KeO-Cleats",
+  "tech_specs": {
+    "Degrees of float\n\nFloat allows side to side movement of the foot while the foot is clipped in. This promotes comfort and helps prevent knee problems.": [
+      "Cleat dependent"
+    ],
+    "Ideal for": [
+      "Performance and race road cycling",
+      "Sport road cycling"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Weight": [
+      "68g"
+    ]
+  }
+}

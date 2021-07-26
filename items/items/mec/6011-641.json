@@ -1,0 +1,75 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill skis",
+    "Deacon 79 Skis + Bindings"
+  ],
+  "description": "Nice flex + great edges = good times. Even if you can't predict the weather, you can still rely on this ski to carve with glorious precision. When conditions are changing, this ski unleashes awesomeness on every run. With easy balance and fantastic edge grip, this setup leaves advanced skiers drooling for more. And on this low profile binding, you'll transfer power with superb efficiency to your ski.Dual Wood Core XL offers higher performance flex, stability and balance.Short centre sidewall is durable and dampens your ride.XTD tip and tail rocker handles on groomed and mixed conditions.Small turning radius lets you initiate turns with less effort.Full steel edges provides precision and control.P-Tex 2100 base gives exceptional glide.Included iPT WidRide XL 12 TCX GripWalk bindings keeps you close to the snow.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228237342/6011641-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136245309470/6011641-NOC02-ALt-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228237342/6011641-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136245309470/6011641-NOC02-ALt-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228237342/6011641-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136245309470/6011641-NOC02-ALt-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228237342/6011641-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136245309470/6011641-NOC02-ALt-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Volkl Deacon 79 Skis + Bindings - Unisex",
+  "product_code": "6011-641",
+  "source_url": "https://www.mec.ca/en/product/6011-641/Deacon-79-Skis-%2B-Bindings",
+  "tech_specs": {
+    "Ability\n\nBeginner: new or getting back into skiing.  Intermediate: confident with turning and stopping.  Advanced: highly confident carver. Expert: steeps, drops, park, double blacks -- bring it on.": [
+      "Advanced",
+      "Intermediate"
+    ],
+    "Bindings included": [
+      "Yes"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Sandwich"
+    ],
+    "Core": [
+      "Wood"
+    ],
+    "Dimension": [
+      "129-79-109 mmmm"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Rocker/camber profile": [
+      "Rocker tail",
+      "Rocker tip"
+    ],
+    "Snow conditions": [
+      "Groomed",
+      "Mixed"
+    ],
+    "Terrain": [
+      "On-Piste"
+    ],
+    "Turning radius": [
+      "12.7m (156cm)",
+      "14.1m (163cm)",
+      "15.6m (170cm)",
+      "17.1m (177cm)"
+    ],
+    "Weight": [
+      "5.34kg (156cm)",
+      "5.6kg (163cm)",
+      "5.88kg (170cm)",
+      "6.1kg (177cm)"
+    ]
+  }
+}

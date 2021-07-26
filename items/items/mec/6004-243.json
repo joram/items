@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country skate",
+    "Skate ski poles",
+    "Nordic Classic Jr Poles"
+  ],
+  "description": "Good poles aren't complicated. These are adjustable for smaller hands, amde of durable but light aluminum, and will last long enough to pass on to the next budding skier.Shafts are 16mm 5083 aluminum alloy.Structured Nordic XC grips for comfy, secure control.XC standard baskets.Steel tips.Shorter length suits smaller adults and junior skiers.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9043084443678/6004243-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9043084443678/6004243-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Komperdell Nordic Classic Jr Poles",
+  "product_code": "6004-243",
+  "source_url": "https://www.mec.ca/en/product/6004-243/Nordic-Classic-Jr-Poles",
+  "tech_specs": {
+    "Grip material": [
+      "Polyethylene"
+    ],
+    "Ideal for": [
+      "Recreational classic skiing"
+    ],
+    "Made in": [
+      "Austria"
+    ],
+    "Pole material": [
+      "Aluminum"
+    ],
+    "Sold in pairs": [
+      "Yes"
+    ]
+  }
+}

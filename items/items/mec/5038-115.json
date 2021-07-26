@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Saddles and seat posts",
+    "Seat posts",
+    "Seat post clamps and accessories",
+    "Mountain Seat Post Clamp"
+  ],
+  "description": "This secure seat post clamp is solid for tearing up trails and down mountains.Anodized finish.Select 28.6mm, 31.8mm, or 34.9mm diameter.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806908100638/5038115-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806908100638/5038115-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Mountain Seat Post Clamp",
+  "product_code": "5038-115",
+  "source_url": "https://www.mec.ca/en/product/5038-115/Mountain-Seat-Post-Clamp",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "18g (31.8mm)"
+    ]
+  }
+}

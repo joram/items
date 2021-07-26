@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Hike Light Margarita Crew Socks"
+  ],
+  "description": "Light cushion and fun colours to keep you going on the trails. The flat-knit toe seam keeps your toes comfortable and the arch brace prevents bunching.Made of soft merino wool, nylon and elastane.Arch brace holds sock securely in place.Flat-knit toe seam doesn't cause hotspots or chafing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185231699998/5062605-MOB11.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9185231699998/5062605-MOB11.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Hike Light Margarita Crew Socks - Unisex",
+  "product_code": "5062-605",
+  "source_url": "https://www.mec.ca/en/product/5062-605/Hike-Light-Margarita-Crew-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "60% merino wool",
+      "38% nylon",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Boots",
+    "Casual boots",
+    "Peyto Boots"
+  ],
+  "description": "Sitting a classic Chelsea boot profile atop a chunky sole, the Peyto are form and function. With both waterproof leather and Imper-X\u00ae water-resistant construction, these boots won\u2019t let puddles slow you down.Waterproof leather and Imper-X water-resistant construction keep your feet dry.Microfibre lining holds in warmth and wicks away moisture.Supportive leather and OrthoLite\u00ae footbed.Shock absorbing EVA heel.Grippy rubber sole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142268231710/6010577-WMR01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281437214/6010577-WMR01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281469982/6010577-WMR01-ALT-BOTH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281502750/6010577-WMR01-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281535518/6010577-WMR01-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281764894/6010577-WMR01-ALT-DETIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281797662/6010577-WMR01-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281863198/6010577-WMR01-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281830430/6010577-WMR01-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142268231710/6010577-WMR01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281437214/6010577-WMR01-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281469982/6010577-WMR01-ALT-BOTH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281502750/6010577-WMR01-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281535518/6010577-WMR01-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281764894/6010577-WMR01-ALT-DETIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281797662/6010577-WMR01-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281863198/6010577-WMR01-ALT-RIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281830430/6010577-WMR01-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142268231710/6010577-WMR01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281437214/6010577-WMR01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281469982/6010577-WMR01-ALT-BOTH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281502750/6010577-WMR01-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281535518/6010577-WMR01-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281764894/6010577-WMR01-ALT-DETIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281797662/6010577-WMR01-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281863198/6010577-WMR01-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281830430/6010577-WMR01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142268231710/6010577-WMR01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281437214/6010577-WMR01-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281469982/6010577-WMR01-ALT-BOTH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281502750/6010577-WMR01-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281535518/6010577-WMR01-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281764894/6010577-WMR01-ALT-DETIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281797662/6010577-WMR01-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281863198/6010577-WMR01-ALT-RIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142281830430/6010577-WMR01-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kodiak Peyto Boots - Women's",
+  "product_code": "6010-577",
+  "source_url": "https://www.mec.ca/en/product/6010-577/Peyto-Boots",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Full-grain leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "Yes"
+    ]
+  }
+}

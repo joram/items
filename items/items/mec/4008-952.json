@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Pots and pot sets",
+    "Pot handles, grippers and accessories",
+    "PanHandler Potlifter"
+  ],
+  "description": "Backpackers who begrudge every gram in their packs will appreciate the fact that the Panhandler is full of holes. These holes lighten the implement and give your hands a surer grip on it, without compromising its strength.Made of aluminum.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812723666974/4008952-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812723666974/4008952-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR PanHandler Potlifter",
+  "product_code": "4008-952",
+  "source_url": "https://www.mec.ca/en/product/4008-952/PanHandler-Potlifter",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "30g"
+    ]
+  }
+}

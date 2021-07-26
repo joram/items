@@ -1,0 +1,94 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training food and drinks",
+    "Energy and protein bars",
+    "Whole Berry Blast (Meal)"
+  ],
+  "description": "Tasty bar with an almond butter base, mixed with strawberries, blueberries, and other good-for-you ingredients. 100% vegan and trans-fat free.Low glycemic index grain sweeteners.Ingredients: brown rice syrup, oats, dates, sunflower seeds, cashew butter (cashews, sunflower oil), almond butter (almonds), cashews, raisins, flax seeds, sesame seeds, almonds, apple juice concentrate, dried cane syrup, strawberries, blueberries, crisp brown rice, expeller pressed canola oil, chocolate liquor drops, vegetable glycerin, blueberry puree, dried pineapple, dried cane syrup, dried papaya, oat flour, pumpkin seeds, molasses, citric acid, natural flavour, sunflower oil, blueberry flavour, salt.Allergens, contains: almonds, cashews, oats, sesame.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812346408990/5019650-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812346408990/5019650-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Probar Whole Berry Blast (Meal)",
+  "product_code": "5019-650",
+  "source_url": "https://www.mec.ca/en/product/5019-650/Whole-Berry-Blast-%28Meal%29",
+  "tech_specs": {
+    "Best consumed": [
+      "Before exercise",
+      "Recovery"
+    ],
+    "Calories per serving": [
+      "360Cal"
+    ],
+    "Carbohydrates": [
+      "51g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "5g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Cycling",
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Potassium": [
+      "330mg"
+    ],
+    "Protein": [
+      "8g"
+    ],
+    "Saturated fat": [
+      "2g"
+    ],
+    "Serving size": [
+      "1 bar"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "25mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "23g"
+    ],
+    "Total fat": [
+      "16g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "85g"
+    ]
+  }
+}

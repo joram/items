@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Tire repair and bike protection",
+    "Side of Bacon"
+  ],
+  "description": "A Side of Bacon and tubeless tires go hand-in-hand. Tubeless tires will seal themselves pretty much all the time, but when the puncture is too big, put in a plug to seal the deal.Vulcanized butyl rubber rope plugs are light at 1.5g each.Package of 20 plugs.Insertion tool required and sold separately.Eggs and toast not included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985459097630/5062043-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8985459097630/5062043-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Genuine Innovations Side of Bacon",
+  "product_code": "5062-043",
+  "source_url": "https://www.mec.ca/en/product/5062-043/Side-of-Bacon",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

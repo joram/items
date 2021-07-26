@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Cooking utensils and cutting boards",
+    "Cooking utensils and food prep",
+    "Glacier Stainless Radiant Toaster"
+  ],
+  "description": "This handheld, radiant-heat toaster ensures you will never have to endure a toastless trip again.Made of stainless steel.Folding handle takes up less space.Fine mesh distributes heat and secures toast.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812601376798/5007285-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812601376798/5007285-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Glacier Stainless Radiant Toaster",
+  "product_code": "5007-285",
+  "source_url": "https://www.mec.ca/en/product/5007-285/Glacier-Stainless-Radiant-Toaster",
+  "tech_specs": {
+    "Dimensions": [
+      "17\u00a0x\u00a014.5\u00a0x\u00a01.3cm"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Weight": [
+      "165g"
+    ]
+  }
+}

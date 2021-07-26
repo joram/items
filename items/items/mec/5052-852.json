@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Accessory carabiners and key holders",
+    "SlideLock Key Ring"
+  ],
+  "description": "A handy little stainless steel key chain carabiner with one key difference, the carabiner locks.  Get peace of mind, knowing your keys are exactly where you clipped them.Nylon webbing and key ring helps keep keys lie flat.Dimensions are 11.5 x 3.8cm.Not for climbing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853924806686/5052852-SNL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854158901278/5052852-SNL00-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854158934046/5052852-SNL00-ALT-PACKING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854158966814/5052852-SNL00-ALT-TABLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853924806686/5052852-SNL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854158901278/5052852-SNL00-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854158934046/5052852-SNL00-ALT-PACKING.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854158966814/5052852-SNL00-ALT-TABLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853924806686/5052852-SNL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854158901278/5052852-SNL00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854158934046/5052852-SNL00-ALT-PACKING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854158966814/5052852-SNL00-ALT-TABLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853924806686/5052852-SNL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854158901278/5052852-SNL00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854158934046/5052852-SNL00-ALT-PACKING.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854158966814/5052852-SNL00-ALT-TABLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nite Ize SlideLock Key Ring",
+  "product_code": "5052-852",
+  "source_url": "https://www.mec.ca/en/product/5052-852/SlideLock-Key-Ring",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

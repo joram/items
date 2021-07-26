@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Outdoor cookware",
+    "Cooking utensils and cutting boards",
+    "Cutting boards",
+    "Ultralight Cutting Board"
+  ],
+  "description": "Preserve the sharpness of your knives and keep your food off sketchy surfaces with this portable cutting board.Made of durable 2.4mm thick polyethylene.2-sided design with meat and vegetable icons helps to prevent cross-contamination.Integrated gutter keeps juices from spilling off the board.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812605407262/5031140-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812605407262/5031140-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Ultralight Cutting Board",
+  "product_code": "5031-140",
+  "source_url": "https://www.mec.ca/en/product/5031-140/Ultralight-Cutting-Board",
+  "tech_specs": {
+    "Dimensions": [
+      "23.1\u00a0x\u00a015\u00a0x\u00a0.25cm"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Polyethylene"
+    ],
+    "Weight": [
+      "74g"
+    ]
+  }
+}

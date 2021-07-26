@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Handlebars, headsets and stems",
+    "Headsets",
+    "Orbit No.8 Headset 1-1/8\" Integrated"
+  ],
+  "description": "This headset fits the Ridley Orion and Dean RS bikes.1 1/8 inch steerer.Integrated.For 46mm OD head tubes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806989627422/5037957-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806989627422/5037957-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "FSA Orbit No.8 Headset 1-1/8\" Integrated",
+  "product_code": "5037-957",
+  "source_url": "https://www.mec.ca/en/product/5037-957/Orbit-No-8-Headset-1-1-8%22-Integrated",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance",
+      "Road cycling"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

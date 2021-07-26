@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Quickdraws",
+    "Alpha Trad Quickdraw (6 Pack)"
+  ],
+  "description": "A six-pack of Alpha Trad draws to start or add to your trad or alpine rack. The shape  is easy to handle even when wearing gloves. Their clean nose won't snag when clipping or unclipping.Grippy backbone, so you're less likely to fumble the tricky clips.Strong, lightweight I-Beam construction.Notchless nose design won't snag on gear or ropes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087665078302/6008064-TNR01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9087665078302/6008064-TNR01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "DMM Alpha Trad Quickdraw (6 Pack)",
+  "product_code": "6008-064",
+  "source_url": "https://www.mec.ca/en/product/6008-064/Alpha-Trad-Quickdraw-%286-Pack%29",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.5cm"
+    ],
+    "Gate type": [
+      "Wire"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Material": [
+      "Aluminum alloy"
+    ],
+    "Sling length": [
+      "18cm (18cm)"
+    ],
+    "Sling material": [
+      "Dyneema"
+    ],
+    "Sling width": [
+      "11mm"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "24kN"
+    ],
+    "Strength cross-loaded": [
+      "7kN"
+    ],
+    "Strength open": [
+      "9kN"
+    ],
+    "Three sigma tested": [
+      "No"
+    ],
+    "Weight": [
+      "486g (18cm)",
+      "474g (12 cm)"
+    ]
+  }
+}

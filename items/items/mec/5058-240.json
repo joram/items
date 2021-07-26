@@ -1,0 +1,67 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Saws, axes and camp shovels",
+    "Saws",
+    "Compact Clearpath Machete"
+  ],
+  "description": "Compact, yet big enough to clear trails, process firewood, and take care of many more campsite tasks. This machete's size and secure sheath make it easy to pack. The straight edge makes short work of vines and green wood, while the saw-back helps you cut thicker, harder woods, so you get a machete and saw all in one.Rubberized, textured GatorGrip\u00ae handle provides a secure grip.Lanyard helps keep the tool securely in your hand.High-visibility orange accents.Large guard protects your hand while chopping.Saw-back makes short work of wood.Lined sheath for safe and secure transport.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926278549534/5058240-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8928704888862/5058240-NOC02-ALT-SHEATHE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8928704987166/5058240-NOC02-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926278549534/5058240-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8928704888862/5058240-NOC02-ALT-SHEATHE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8928704987166/5058240-NOC02-ALT-ANGLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926278549534/5058240-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8928704888862/5058240-NOC02-ALT-SHEATHE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8928704987166/5058240-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926278549534/5058240-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8928704888862/5058240-NOC02-ALT-SHEATHE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8928704987166/5058240-NOC02-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gerber Compact Clearpath Machete",
+  "product_code": "5058-240",
+  "source_url": "https://www.mec.ca/en/product/5058-240/Compact-Clearpath-Machete",
+  "tech_specs": {
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Straight"
+    ],
+    "Blade length": [
+      "28cm"
+    ],
+    "Blade material": [
+      "5Cr13 stainless steel"
+    ],
+    "Handle material": [
+      "Nylon + rubber"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Backpacking"
+    ],
+    "Knife length (open)": [
+      "44cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Sheath included": [
+      "Yes"
+    ],
+    "Sheath material": [
+      "Nylon"
+    ],
+    "Weight": [
+      "530g"
+    ]
+  }
+}

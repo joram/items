@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Footprints",
+    "AMP 3-Person Footprint"
+  ],
+  "description": "A footprint protects your tent floor from wear on rough ground. It's sized to fit the floor of the MEC AMP 3-person tent and designed so it doesn't channel rain under the tent. The footprint also allows a canopy-free ultralight setup.Dimensions: 212 x 190cm",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082332086302/5060370-SOU00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9082332086302/5060370-SOU00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC AMP 3-Person Footprint",
+  "product_code": "5060-370",
+  "source_url": "https://www.mec.ca/en/product/5060-370/AMP-3-Person-Footprint",
+  "tech_specs": {
+    "Attachment": [
+      "Grommets"
+    ],
+    "Fabric": [
+      "68-denier polyester"
+    ],
+    "Floor waterproofness\n\nThe standard test for coated fabrics uses a standing pipe (column) filled with water. The figures given are the water column height. A 1000mm coating allowed no leaks after 1 minute under 1000mm of water.": [
+      "2000mm"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Waterproof treatment": [
+      "Polyurethane-coated"
+    ],
+    "Weight": [
+      "348g"
+    ]
+  }
+}

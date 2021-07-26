@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Temagami 2 - Lake Temagami Map"
+  ],
+  "description": "This map shows the heart of Temagami, a sprawling lake that is one of Ontario's most popular destinations for paddlers and hikers. It includes the area from Obabika Lake to the west, Diamond Lake to the north, the village of Temagami, White Bear Forest and Cassels Lake to the east, and Wawiashkashi Lake, the edge of the Sturgeon River and Marion Lake to the south. Includes campsites, portages, historic features, fish species, and detailed land and water information.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815835447326/5009422-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815835447326/5009422-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Map Temagami 2 - Lake Temagami Map",
+  "product_code": "5009-422",
+  "source_url": "https://www.mec.ca/en/product/5009-422/Temagami-2---Lake-Temagami-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Canoeing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Ontario"
+    ],
+    "Scale": [
+      "1:80,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

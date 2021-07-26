@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Boardshorts",
+    "Taiva Boardshorts"
+  ],
+  "description": "Enter the splash zone with confidence. Forpaddleboarding on lakes oo extended paddling trips, the Taiva shorts go from water to land with ease.Quick dry polyester has 4-way mechanical stretch.Pull on elastic waist with drawstring.Contrast panels at hips.2 front slash pockets; 1 back pocket with drain hole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161339043870/5064444-BVT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161339109406/5064444-BVT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161339207710/5064444-BVT00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161339043870/5064444-BVT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161339109406/5064444-BVT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161339207710/5064444-BVT00-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161339043870/5064444-BVT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161339109406/5064444-BVT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161339207710/5064444-BVT00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161339043870/5064444-BVT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161339109406/5064444-BVT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161339207710/5064444-BVT00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Taiva Boardshorts - Women's",
+  "product_code": "5064-444",
+  "source_url": "https://www.mec.ca/en/product/5064-444/Taiva-Boardshorts",
+  "tech_specs": {
+    "Fabric content": [
+      "92% polyester",
+      "8% spandex"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "155gsm"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "5in. (M)"
+    ],
+    "Ideal for": [
+      "Kayaking",
+      "Paddleboarding",
+      "Beach",
+      "Surfing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 front",
+      "1 back"
+    ]
+  }
+}

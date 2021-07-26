@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "How to Rock Climb"
+  ],
+  "description": "Written by the venerable John Long, this edition is updated to reflect modern training methods and techniques for bouldering or transferring your gym knowledge to outdoor routes. Includes sections on face and crack climbing, ropes, anchors, belays, and descents. With a focus on specifics for footwork and handhold positions, finger, hand and off-width cracks, it will get you into the world of trad climbing or leading sport routes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815725412382/5023046-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815725412382/5023046-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Falcon How to Rock Climb",
+  "product_code": "5023-046",
+  "source_url": "https://www.mec.ca/en/product/5023-046/How-to-Rock-Climb",
+  "tech_specs": {
+    "Author": [
+      "John Long"
+    ],
+    "Edition": [
+      "5th"
+    ],
+    "ISBN": [
+      "9780762755349"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Climbing training"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "336"
+    ],
+    "Published": [
+      "2010"
+    ]
+  }
+}

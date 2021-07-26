@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Ski socks",
+    "Heat Sock XLP One Heat Socks"
+  ],
+  "description": "A spare pair of socks to work with the Hotronic Heat Sock XLP battery-powered heated sock system.Made of nylon, spandex and merino wool in thick knit for warmth.Padding on the shins adds comfort for hiking and skiing.Integrated heating element works with the Hotronic Heat Sock XLP battery (sold separately).Unisex sizes: Small fits Mens 4-6, Women's 5-7. Medium fits Mens 7-8, Women's 8-9. Large fits Mens 9-10, Women's 10-11. XL fits Mens 11-13.Socks only. Battery sold separately.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8928679231518/5055827-BK048.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8928679231518/5055827-BK048.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hotronic Heat Sock XLP One Heat Socks - Unisex",
+  "product_code": "5055-827",
+  "source_url": "https://www.mec.ca/en/product/5055-827/Heat-Sock-XLP-One-Heat-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Heated"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "Yes"
+    ],
+    "Cuff height": [
+      "Knee"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Shin"
+    ],
+    "Fabric content": [
+      "70% nylon",
+      "20% spandex",
+      "10% merino wool"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Snowboarding",
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

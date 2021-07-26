@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Fenders",
+    "Fender Stay Eyebolt, Nut& Cap"
+  ],
+  "description": "This Planet Bike fender replacement hardware pack fits the Hardcore, SpeedEZ and Cascadia fenders, and consists of 1x eyelet bolt, 1x 10mm lock nut, and 1x rubber cap.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806383845406/5021311-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806383845406/5021311-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike Fender Stay Eyebolt, Nut & Cap",
+  "product_code": "5021-311",
+  "source_url": "https://www.mec.ca/en/product/5021-311/Fender-Stay-Eyebolt%2C-Nut%26-Cap",
+  "tech_specs": {
+    "Attachment type": [
+      "Hardware"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum + plastic"
+    ],
+    "Sold": [
+      "Single"
+    ]
+  }
+}

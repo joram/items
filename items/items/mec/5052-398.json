@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike books and maps",
+    "Bike maps",
+    "Bow Lake Sask. Crossing Map 5th Edition"
+  ],
+  "description": "A map and guide to the areas around Bow Lake and Saskatchewan Crossing, covering the southern section of the Icefield's Parkway from Rampart Creek to Hector Lake. Includes contour lines, trails for hiking and mountain biking with names and distances marked, campgrounds, points of interest and much more. Find trail descriptions and photographs for 24 hiking trips including Bow Glacier Falls, Helen Lake, Bow Summit Lookout, Sunset Pass, and Cirque. There is also a 1:100,000-scale inset map of the Mosquito Creek/Fish Lakes area.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035647680542/5052398-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9035647680542/5052398-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Publishing Bow Lake Sask. Crossing Map 5th Edition",
+  "product_code": "5052-398",
+  "source_url": "https://www.mec.ca/en/product/5052-398/Bow-Lake-Sask-Crossing-Map-5th-Edition",
+  "tech_specs": {
+    "Edition": [
+      "5th"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Mountain biking",
+      "Day hiking",
+      "Cross-country skiing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:70,000"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

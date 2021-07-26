@@ -1,0 +1,70 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "A Paddler's Guide to Algonquin 3rd Edition"
+  ],
+  "description": "Plan a trip to Algonquin Park. Only 320km from Toronto, Algonquin is one of Canada\u2019s favourite canoeing destinations. The 3rd edition features 10 more routes (35 total) and 64 additional pages, with trip descriptions, maps, personal anecdotes and historical information.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192205647902/6015789-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203223070/6015789-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203288606/6015789-NOC02-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203321374/6015789-NOC02-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203255838/6015789-NOC02-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192205647902/6015789-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203223070/6015789-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203288606/6015789-NOC02-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203321374/6015789-NOC02-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203255838/6015789-NOC02-ALT-D.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192205647902/6015789-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203223070/6015789-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203288606/6015789-NOC02-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203321374/6015789-NOC02-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203255838/6015789-NOC02-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192205647902/6015789-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203223070/6015789-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203288606/6015789-NOC02-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203321374/6015789-NOC02-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192203255838/6015789-NOC02-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "A Paddler's Guide to Algonquin 3rd Edition",
+  "product_code": "6015-789",
+  "source_url": "https://www.mec.ca/en/product/6015-789/A-Paddler%27s-Guide-to-Algonquin-3rd-Edition",
+  "tech_specs": {
+    "Author": [
+      "Kevin Callan"
+    ],
+    "Edition": [
+      "3rd"
+    ],
+    "ISBN": [
+      "9780228102458"
+    ],
+    "Ideal for": [
+      "Canoe tripping",
+      "Canoeing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "240"
+    ],
+    "Published": [
+      "2020"
+    ],
+    "Regionality": [
+      "Ontario"
+    ]
+  }
+}

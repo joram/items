@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike chain rings",
+    "X-SYNC 2 DM 3mm Offset Eagle Chain Ring"
+  ],
+  "description": "Designed specifically to work with SRAM's Eagle\u2122 drivetrain, this chainring has a longer, positive-rake tooth shape that works perfectly with the Eagle\u2122 chain for improved chain retention, decreased wear and optimal pedalling efficiency.3mm offset (for GXP Boost or BB30).Increases chain retention and lifespan and decreases friction and noise.Designed for use with the Eagle\u2122 chain.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041931960350/6005208-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9041931960350/6005208-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SRAM X-SYNC 2 DM 3mm Offset Eagle Chain Ring",
+  "product_code": "6005-208",
+  "source_url": "https://www.mec.ca/en/product/6005-208/X-SYNC-2-DM-3mm-Offset-Eagle-Chain-Ring",
+  "tech_specs": {
+    "Attachment": [
+      "Direct mount (SRAM)"
+    ],
+    "Compatibility": [
+      "SRAM Eagle",
+      "11-speed"
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Aluminum"
+    ],
+    "Teeth": [
+      "30 (30)",
+      "32 (32)",
+      "34 (34)",
+      "36 (36)"
+    ]
+  }
+}

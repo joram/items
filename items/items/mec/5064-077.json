@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Flasks, growlers and wine storage",
+    "Growlers and beer glasses",
+    "Classic Easy-Pour Growler 1.9L"
+  ],
+  "description": "Cold beer for 24 hours, what's not to like?Leak-proof stainless steel construction.Double-walled and insulated to keep your beer cold for 24 hours.Steel inner lid, only metal touches your beer.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017093062686/5064077-MAT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9017093062686/5064077-MAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Stanley Classic Easy-Pour Growler 1.9L",
+  "product_code": "5064-077",
+  "source_url": "https://www.mec.ca/en/product/5064-077/Classic-Easy-Pour-Growler-1-9L",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Volume": [
+      "1.9L"
+    ],
+    "Weight": [
+      "1.18kg"
+    ]
+  }
+}

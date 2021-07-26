@@ -1,0 +1,67 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Mountaineering axes",
+    "Summit Ice Axe"
+  ],
+  "description": "The shape of this hybrid axe provides good clearance when needed on steep snow or ice. The curved shaft helps prevent bashed knuckles when swinging. A smooth adze supports your hand when walking and its edges make short work of chopping steps.Aluminum shaft has a curved upper for clearance. Straight lower for plunging.3mm pick is hot-forged chromoly steel. Thin tip offers good penetration in ice and the teeth offer solid hooking on rock.Steel adze supports your hand comfortably and is angle to direct force down the shaft.Stainless steel head has a wide oval hole for clipping a carabiner.Tilted adze directs the axe into the snow when used upright in cane position.Stainless steel spike with a clippable hole.The 52cm length weighs 360grams, 59cm length weighs 380grams, and 66cm length weighs 400grams.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8893523591198/5040664-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807176568862/5040664-NOC02-ALT-END.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807176699934/5040664-NOC02-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8893523591198/5040664-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807176568862/5040664-NOC02-ALT-END.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807176699934/5040664-NOC02-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8893523591198/5040664-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807176568862/5040664-NOC02-ALT-END.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807176699934/5040664-NOC02-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8893523591198/5040664-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807176568862/5040664-NOC02-ALT-END.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807176699934/5040664-NOC02-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Summit Ice Axe",
+  "product_code": "5040-664",
+  "source_url": "https://www.mec.ca/en/product/5040-664/Summit-Ice-Axe",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Adze"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "52, 59, 66cm"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Removable pick": [
+      "No"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "B-rated"
+    ],
+    "Weight": [
+      "360g (52 cm)",
+      "380g (59 cm)",
+      "400g (66 cm)"
+    ]
+  }
+}

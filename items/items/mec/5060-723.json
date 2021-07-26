@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Saddles and seat posts",
+    "Saddles",
+    "Standard Saddle"
+  ],
+  "description": "One saddle to rule them all. The Standard Saddle fits your road bike just as well as your mountain bike. A combination of 2 types of foam offers lightweight comfort, and a central channel in the base relieves pressure on soft tissues. Where will it take you?Saddle width of 140mm is ideal for more aggressive riding.A mix of light and high-density foam provides support and comfort.Nylon base provides great support while being comfortable.Chromoly rails blends low weight and high durability.Connection between the rails and the base of the saddle provides some suspension.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989351575582/5060723-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050320414/5060723-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050811934/5060723-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989351575582/5060723-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050320414/5060723-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050811934/5060723-BK000-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989351575582/5060723-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050320414/5060723-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050811934/5060723-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989351575582/5060723-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050320414/5060723-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050811934/5060723-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Standard Saddle - Unisex",
+  "product_code": "5060-723",
+  "source_url": "https://www.mec.ca/en/product/5060-723/Standard-Saddle",
+  "tech_specs": {
+    "Cover material": [
+      "Synthetic"
+    ],
+    "Dimensions": [
+      "27.8\u00a0x\u00a014cm"
+    ],
+    "Ideal for": [
+      "Urban cycling",
+      "Road cycling",
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Rails": [
+      "Chromoly"
+    ],
+    "Shell": [
+      "Nylon"
+    ],
+    "Weight": [
+      "337g"
+    ]
+  }
+}

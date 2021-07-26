@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "PFDs, helmets and safety equipment",
+    "PFDs",
+    "cVest Mesh Back PFD"
+  ],
+  "description": "With comfort and buoyancy taken care of, you can focus on your paddling. The cVest PFD has a high back panel and mesh lower panel for comfort and compatibility with your kayak seat. Purpose-built and featured for long days at sea.Type III PFD with sea level buoyancy of 7.3kg.High-back design accommodates most sea kayak seats.Mesh lower panel provides plenty of airflow.Contoured shoulder straps are padded for comfort.6 adjustment points provide a customized and secure fit.Front zipper for easy on and off.2 front lash points for your strobe, whistle or other accessories.4 pockets hold a VHF radio and other essentials.Reflective trim for night visibility.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188150673438/6016029-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188140515358/6016029-RED00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188150673438/6016029-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188140515358/6016029-RED00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188150673438/6016029-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188140515358/6016029-RED00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188150673438/6016029-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188140515358/6016029-RED00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "NRS cVest Mesh Back PFD",
+  "product_code": "6016-029",
+  "source_url": "https://www.mec.ca/en/product/6016-029/cVest-Mesh-Back-PFD",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Chest circumference": [
+      "76-106cm (Extra Small/Medium)",
+      "106-132cm (Large/X-Large)",
+      "127-142cm (X-Large/XX-Large)"
+    ],
+    "Ideal for": [
+      "Kayak touring"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "PVC-free foam": [
+      "Yes"
+    ],
+    "Pockets": [
+      "Yes"
+    ],
+    "Rescue harness compatible": [
+      "No"
+    ],
+    "Shell material": [
+      "400-denier nylon ripstop"
+    ],
+    "ULC approved": [
+      "Yes"
+    ],
+    "Weight": [
+      "850g (Extra Small/Medium)"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Splitboards",
+    "Eclipse Splitboard"
+  ],
+  "description": "A lightweight splitboard for human-powered powder surfing. The Eclipse has a wide nose and narrow tail for optimal float in the soft stuff, and a multi-radial profile for agility in tight trees. It's held together with Karakoram Ultraclips that maintain compression between sides, even as the board ages.Carbon fibre from tip to tail provides stiffness and pop.Castor bean top sheet sheds snow and is eco-friendly.Triaxial fibreglass offers a good balance of flex and torsional control.Poplar and paulownia wood core with full thickness base is resilient, light and durable.UHMW PE sidewall construction increases torsional stability.Directional multi-radial camber-rocker profile provides control on big lines.Sintered 4000 base has great wax retention for a fast ride.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131853742110/6011576-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9131853742110/6011576-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Weston Eclipse Splitboard - Women's",
+  "product_code": "6011-576",
+  "source_url": "https://www.mec.ca/en/product/6011-576/Eclipse-Splitboard",
+  "tech_specs": {
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Sandwich"
+    ],
+    "Core": [
+      "Wood"
+    ],
+    "Dimensions": [
+      "293-246-275mm (145cm)",
+      "300-250-281mm (150cm)",
+      "308-256-290mm (155cm)"
+    ],
+    "Effective edge\n\nThe portion of the metal edge in contact with the snow to engage turns. Shorter effective edges make for quicker turns. Longer effective edges help stability at high speeds.": [
+      "108cm (145cm)",
+      "113cm (150cm)",
+      "118cm (155cm)"
+    ],
+    "Ideal for": [
+      "Snowboarding",
+      "Backcountry skiing"
+    ],
+    "Includes": [
+      "Splitboard with clips"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Sidecut radius\n\nTurning radius of the snowboard. A smaller sidecut radius results in tighter turns. Larger sidecut radius results in larger arched turns.": [
+      "6.4m (145cm)",
+      "6.6m (150cm)",
+      "6.8m (155cm)"
+    ],
+    "Weight": [
+      "2.54kg (145cm)",
+      "2.7kg (150cm)",
+      "2.83kg (155cm)"
+    ]
+  }
+}

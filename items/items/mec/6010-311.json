@@ -1,0 +1,105 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Running and training footwear",
+    "Running shoes",
+    "Trail running shoes",
+    "Superior 4.5 Trail Running Shoes"
+  ],
+  "description": "Burly trail runners that promote a natural running gait. The ample toe box allows your toes to spread and splay naturally during your foot strike and zero drop promotes a natural stride. The Superior 4.5 has an updated upper for increased breathability and drainage. Great for training, racing and a great option for runners with high-volume feet.Breathable mesh upper has reinforced overlays for durability.Removable StoneGuard adds protection.Lightweight Quantic\u2122 midsole is flexible and supportive.MaxTrac\u2122 rubber outsole with directional lugs for off-road traction.Gaiter trap helps to secure a range of trail running gaiters.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160502280222/6010311-RSP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756789278/6010311-RSP00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756920350/6010311-RSP00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756985886/6010311-RSP00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756363294/6010311-DKS00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756428830/6010311-DKS00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120899268638/6010311-BK110-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120899498014/6010311-BK110-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120902119454/6010311-BK110-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160502444062/6010311-DKS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756559902/6010311-DKS00-LT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120897531934/6010311-BK110.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160502280222/6010311-RSP00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756789278/6010311-RSP00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756920350/6010311-RSP00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756985886/6010311-RSP00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756363294/6010311-DKS00-ALT-SOLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756428830/6010311-DKS00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120899268638/6010311-BK110-ALT-LEFT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120899498014/6010311-BK110-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120902119454/6010311-BK110-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160502444062/6010311-DKS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756559902/6010311-DKS00-LT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120897531934/6010311-BK110.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160502280222/6010311-RSP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756789278/6010311-RSP00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756920350/6010311-RSP00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756985886/6010311-RSP00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756363294/6010311-DKS00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756428830/6010311-DKS00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120899268638/6010311-BK110-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120899498014/6010311-BK110-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120902119454/6010311-BK110-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160502444062/6010311-DKS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756559902/6010311-DKS00-LT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120897531934/6010311-BK110.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160502280222/6010311-RSP00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756789278/6010311-RSP00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756920350/6010311-RSP00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756985886/6010311-RSP00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756363294/6010311-DKS00-ALT-SOLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756428830/6010311-DKS00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120899268638/6010311-BK110-ALT-LEFT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120899498014/6010311-BK110-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120902119454/6010311-BK110-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160502444062/6010311-DKS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160756559902/6010311-DKS00-LT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9120897531934/6010311-BK110.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Altra Superior 4.5 Trail Running Shoes - Women's",
+  "product_code": "6010-311",
+  "source_url": "https://www.mec.ca/en/product/6010-311/Superior-4-5-Trail-Running-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Drop\n\nThe drop is the difference in height between the heel and the forefoot midsole cushioning. Traditional running shoes tend to have a 10mm drop or higher while minimalist style shoes are on the lower end of the spectrum.": [
+      "0mm"
+    ],
+    "Feel\n\n'Minimal and natural' shoes offer low drop, lots of flex, and minimal cushioning. Most running shoes are 'Light and responsive' with medium cushioning and good energy return. 'Cushioned and floaty' shoes have maximum cushioning.": [
+      "Light and responsive"
+    ],
+    "Heel-to-toe cushioning\n\nThe approximate thickness of the midsole cushioning under the heel and the forefoot. A thicker heel and greater difference between heel and toe height tends to suit heel-strike runners, while forefoot and midfoot strikers may prefer a minimal drop between heel and toe cushioning.": [
+      "21-21mm"
+    ],
+    "Ideal for": [
+      "Trail running"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Stability\n\nSome shoes include added motion control or stability features to help minimize over pronation, where the foot tends to roll inward in a biomechanically imbalanced running position.": [
+      "Neutral"
+    ],
+    "Upper material": [
+      "Synthetic",
+      "Printed overlay"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ],
+    "Weight": [
+      "396g (7)"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "1000 Choses a Voir Dans le Monde 3e"
+  ],
+  "description": "Where do you start? Iconic buildings, awesome canyons, weird monuments, vast animal migrations, spooky dungeons and romantic vistas are just some of the man-made marvels and natural wonders in 1000 Ultimate Sights. Make your own list, hit the road, and start exploring the world\u2019s most breathtaking sights. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815680323614/5047346-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815680323614/5047346-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Lonely Planet 1000 Choses a Voir Dans le Monde 3e",
+  "product_code": "5047-346",
+  "source_url": "https://www.mec.ca/en/product/5047-346/1000-Choses-a-Voir-Dans-le-Monde-3e",
+  "tech_specs": {
+    "Author": [
+      "Collectif"
+    ],
+    "Edition": [
+      "3rd"
+    ],
+    "ISBN": [
+      "9782816149111"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Pages": [
+      "348"
+    ],
+    "Published": [
+      "2015"
+    ]
+  }
+}

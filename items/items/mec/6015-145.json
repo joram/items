@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Fenders",
+    "S-Guard Seat Rail Fender"
+  ],
+  "description": "A super-lightweight mudguard that will prevent your back from getting soaked. Clip it to your saddle rails to foil mud and water.Fits any standard saddle rails.Length is 290mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182663966750/6015145-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667833374/6015145-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667997214/6015145-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182663966750/6015145-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667833374/6015145-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667997214/6015145-BK000-ALT-BOTTOM.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182663966750/6015145-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667833374/6015145-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667997214/6015145-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182663966750/6015145-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667833374/6015145-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182667997214/6015145-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SKS S-Guard Seat Rail Fender",
+  "product_code": "6015-145",
+  "source_url": "https://www.mec.ca/en/product/6015-145/S-Guard-Seat-Rail-Fender",
+  "tech_specs": {
+    "Attachment type": [
+      "Clip-on"
+    ],
+    "Fits tires": [
+      "All"
+    ],
+    "Ideal for": [
+      "Cyclocross",
+      "Road cycling",
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Material": [
+      "Plastic"
+    ],
+    "Sold": [
+      "Single"
+    ],
+    "V-stays": [
+      "No"
+    ],
+    "Weight": [
+      "24g"
+    ]
+  }
+}

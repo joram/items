@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Climb accessories",
+    "Crag Gloves"
+  ],
+  "description": "Gloves to help you keep control of the rope when belaying. They protected your hands too when cleaning, climbing via ferrata, or hammering on aid lines.Breathable stretch mesh fabric and cush knuckle padding.Synthetic leather palms and fingers. Reinforced index fingers and thumbs add durability.Hook-and-loop cuff closuresClip-in loop.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798076928030/5031363-BK016.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798076698654/5031363-BK016-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798076928030/5031363-BK016.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798076698654/5031363-BK016-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798076928030/5031363-BK016.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798076698654/5031363-BK016-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798076928030/5031363-BK016.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798076698654/5031363-BK016-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Crag Gloves - Unisex",
+  "product_code": "5031-363",
+  "source_url": "https://www.mec.ca/en/product/5031-363/Crag-Gloves",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing",
+      "Alpine climbing and mountaineering"
+    ],
+    "Made in": [
+      "Pakistan"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Synthetic leather"
+    ],
+    "Type": [
+      "Gloves"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Weight": [
+      "70g (Medium)"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "None"
+    ]
+  }
+}

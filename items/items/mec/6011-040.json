@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Anton Toque"
+  ],
+  "description": "Don't be caught off guard when the cool season arrives. Bring along this toque for reliable warmth.Two layers of super-comfy acyrlic.Cuff allows a variety of looks.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137287430174/6011040-RD056.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137286774814/6011040-LHG01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137287430174/6011040-RD056.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137286774814/6011040-LHG01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137287430174/6011040-RD056.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137286774814/6011040-LHG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137287430174/6011040-RD056.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9137286774814/6011040-LHG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Chaos Anton Toque - Men's",
+  "product_code": "6011-040",
+  "source_url": "https://www.mec.ca/en/product/6011-040/Anton-Toque",
+  "tech_specs": {
+    "Fabric content": [
+      "100% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

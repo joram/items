@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Saddles and seat posts",
+    "Saddles",
+    "Waterproof Saddle Cover"
+  ],
+  "description": "Don't let a wet saddle chap your hide. This cover stows under your saddle and deploys quickly at the first drops of rain.Elastic drawstring creates snug fit.Reflective strap for visibility.One size fits most bike saddles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806408552478/5040327-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806408880158/5040327-BK000-ALT-STOWED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806408847390/5040327-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806408552478/5040327-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806408880158/5040327-BK000-ALT-STOWED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806408847390/5040327-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806408552478/5040327-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806408880158/5040327-BK000-ALT-STOWED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806408847390/5040327-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806408552478/5040327-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806408880158/5040327-BK000-ALT-STOWED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806408847390/5040327-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike Waterproof Saddle Cover",
+  "product_code": "5040-327",
+  "source_url": "https://www.mec.ca/en/product/5040-327/Waterproof-Saddle-Cover",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "Pakistan"
+    ]
+  }
+}

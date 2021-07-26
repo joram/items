@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Edge tuning tools",
+    "PRECO Ski and Snowboard Diamond Stone"
+  ],
+  "description": "A premium diamond stone lets you create the perfect edge finish on your skis or board. The Swiss-made diamond sheets are mounted on highly precise injection-moulded polycarbonate backers. The colour-coded backers help you select the right grit for the job at hand. The diamond cluster pattern lasts longer than conventional diamond sheets and makes for an easier cleaning job.Polycarbonate backing plates are flat and very precise.Available in extra-coarse (100-grit), coarse (200-grit), medium (400-grit), fine (800-grit) and extra-fine (1500-grit).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047769284638/6004949-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781343262/6004949-NOC02-ALT-100.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781376030/6004949-NOC02-ALT-400.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781539870/6004949-NOC02-ALT-800.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781572638/6004949-NOC02-ALT-1500.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047769284638/6004949-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781343262/6004949-NOC02-ALT-100.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781376030/6004949-NOC02-ALT-400.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781539870/6004949-NOC02-ALT-800.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781572638/6004949-NOC02-ALT-1500.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047769284638/6004949-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781343262/6004949-NOC02-ALT-100.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781376030/6004949-NOC02-ALT-400.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781539870/6004949-NOC02-ALT-800.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781572638/6004949-NOC02-ALT-1500.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047769284638/6004949-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781343262/6004949-NOC02-ALT-100.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781376030/6004949-NOC02-ALT-400.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781539870/6004949-NOC02-ALT-800.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047781572638/6004949-NOC02-ALT-1500.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Tools4Boards PRECO Ski and Snowboard Diamond Stone",
+  "product_code": "6004-949",
+  "source_url": "https://www.mec.ca/en/product/6004-949/PRECO-Ski-and-Snowboard-Diamond-Stone",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Off-track touring",
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Switzerland"
+    ]
+  }
+}

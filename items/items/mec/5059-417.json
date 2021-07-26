@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Backcountry ski bindings",
+    "Backcountry bindings",
+    "ST Radical Bindings"
+  ],
+  "description": "Light on the climb, secure on the down, the ST Radical lets you squeeze in one more lap. Building on the success of its predecessor, this binding features towers in the toepiece to make stepping in as easy as possible. The heelpiece is now stronger than before, and still features independant vertical and lateral release adjustment. By choosing forged aluminum for its construction, Dynafit managed to make a solid and reliable binding that won't hold you back on the skin track.Power plate under toe binding provides additional support and improved torsional rigidity.Power towers in toepiece block forward toe movement, easing entry and reducing potential for pre-release.Heel piece rotates fully for skiing and touring (remove ski to change from ski to tour mode).Heel lifts have medium and high settings for climbing.Heel piece has a total fore/aft adjustment of 25mm.Brake is permanently attached and cannot be removed from the mounting plate.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136433856542/5059417-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136433856542/5059417-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Dynafit ST Radical Bindings - Unisex",
+  "product_code": "5059-417",
+  "source_url": "https://www.mec.ca/en/product/5059-417/ST-Radical-Bindings",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "Tech"
+    ],
+    "Brake compatible": [
+      "Yes"
+    ],
+    "Crampon compatible": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Alpine touring",
+      "Freeride and freeskiing"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Mode change without exit\n\nEnables you to go from touring to descent mode without removing your skis.": [
+      "Tour to ski only"
+    ],
+    "Release setting\n\nThe release setting determines how easily the binding will release the ski boot from the ski is the skier falls.": [
+      "4-10"
+    ],
+    "Weight": [
+      "1.07kg (100mm)"
+    ]
+  }
+}

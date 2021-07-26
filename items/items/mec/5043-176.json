@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Bike service parts",
+    "AMR 29 Screw Kit #KE0087"
+  ],
+  "description": "This is a screw kit for your Ghost Cagua or AMR 29.Kit includes: 2 x axle \u00d813 x \u00d88 x 35.2mm, 2 x bearing cap \u00d819.5 x \u00d88 x 5.5mm, 2 x bearing cap \u00d819.5 x \u00d85.5 x 5.7mm, 2 x counter sunk screw M5 x 16 mm stainless steel",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807001423902/5043176-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807001423902/5043176-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ghost AMR 29 Screw Kit #KE0087",
+  "product_code": "5043-176",
+  "source_url": "https://www.mec.ca/en/product/5043-176/AMR-29-Screw-Kit-%23KE0087",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking",
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

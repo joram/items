@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling footwear",
+    "Cycling shoes",
+    "IC3 Spin Cycling Shoes"
+  ],
+  "description": "This spin-optimized shoe combines the breathable upper and comfortable fit of a sneaker with the stability and pedalling efficiency of a cycling shoe. Powerful enough for intense trainer sessions and comfortable enough for the ride to the post-workout festivities.Breathable upper has a sock-like fit.BOA\u00ae L6 dial provide a custom fit and are easy to adjust on the fly.Cushioning EVA midsole for walking comfort.Half-length foot plate strikes a balance between pedalling efficiency and walkability.Women's-specific for a comfortable fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070889926686/6006141-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070904803358/6006141-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070904934430/6006141-BK000-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070905131038/6006141-BK000-ALT-TOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070905262110/6006141-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070889926686/6006141-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070904803358/6006141-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070904934430/6006141-BK000-ALT-MEDIAL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070905131038/6006141-BK000-ALT-TOE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070905262110/6006141-BK000-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070889926686/6006141-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070904803358/6006141-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070904934430/6006141-BK000-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070905131038/6006141-BK000-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070905262110/6006141-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070889926686/6006141-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070904803358/6006141-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070904934430/6006141-BK000-ALT-MEDIAL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070905131038/6006141-BK000-ALT-TOE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070905262110/6006141-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano IC3 Spin Cycling Shoes - Women's",
+  "product_code": "6006-141",
+  "source_url": "https://www.mec.ca/en/product/6006-141/IC3-Spin-Cycling-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Ratchet cable"
+    ],
+    "Ideal for": [
+      "Cycle training"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Outsole": [
+      "Rubber"
+    ],
+    "Pedal compatibility": [
+      "2-hole clipless"
+    ],
+    "Upper material": [
+      "Mesh",
+      "TPU",
+      "Synthetic leather"
+    ],
+    "Weight": [
+      "567g (36)"
+    ]
+  }
+}

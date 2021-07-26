@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country classic",
+    "Classic ski bindings",
+    "Prolink Access CL Bindings"
+  ],
+  "description": "Classic bindings that suit training days and fitness-focused skiers. The Prolink Access CL Bindings clip manually to your boots so you can feel when they engage securely. A nice low profile gives you a good feel for the terrain.NNN-compatible Prolink composite guide ridge is low-profile so your boots sit close to the ski.Ergonomic lever with secure closure and a wide, easy-in, easy-out opening.Flexor stiffness rating of 85.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993218789406/5060620-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993065205790/5060620-NOC02-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993218789406/5060620-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993065205790/5060620-NOC02-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993218789406/5060620-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993065205790/5060620-NOC02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993218789406/5060620-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8993065205790/5060620-NOC02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Salomon Prolink Access CL Bindings",
+  "product_code": "5060-620",
+  "source_url": "https://www.mec.ca/en/product/5060-620/Prolink-Access-CL-Bindings",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "NNN"
+    ],
+    "Ideal for": [
+      "Recreational classic skiing",
+      "Fitness classic skiing"
+    ],
+    "Made in": [
+      "Austria"
+    ],
+    "Requires NIS plate": [
+      "No"
+    ]
+  }
+}

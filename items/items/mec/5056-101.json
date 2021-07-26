@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Hiking Trails I - 14th Edition"
+  ],
+  "description": "Find trails that lead to pretty coves, quiet lakes and even a forested bog on the southern tip of Vancouver Island. Details 140 walks and hikes, with 34 maps. With lots of options for easy walks or more multi-day backpacking trips, this hiking guide will navigate you to island favourites. Covers the Capital Regional District, including Saltspring, Portland, and Sidney islands; the Saanich Peninsula; Sooke west to Port Renfrew; the West Coast Trail; and north to Spectacle and Oliphant lakes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8892247900190/5056101-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8892247900190/5056101-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hiking Trails I - 14th Edition",
+  "product_code": "5056-101",
+  "source_url": "https://www.mec.ca/en/product/5056-101/Hiking-Trails-I---14th-Edition",
+  "tech_specs": {
+    "Author": [
+      "Gail F. Harcombe"
+    ],
+    "Edition": [
+      "14th"
+    ],
+    "ISBN": [
+      "9780987779717"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking"
+    ],
+    "Illustrator": [
+      "Judy Trousdell"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "232"
+    ],
+    "Published": [
+      "2017"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

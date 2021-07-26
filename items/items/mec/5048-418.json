@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Crank and bottom bracket tools",
+    "CCP-22 Crank Puller -Square Taper"
+  ],
+  "description": "A shop staple for more than 30 years, the CCP-22 removes cranks using a square taper, Power Drive\u00ae, or Power Spline\u00ae bottom bracket interface. The long, comfortable handle and fine thread provide leverage to remove even the tightest cranks.Rotating tip ensures smooth operation and long life.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806523994142/5048418-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806524223518/5048418-NOC02-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806523994142/5048418-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806524223518/5048418-NOC02-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806523994142/5048418-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806524223518/5048418-NOC02-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806523994142/5048418-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806524223518/5048418-NOC02-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Park Tool CCP-22 Crank Puller -Square Taper",
+  "product_code": "5048-418",
+  "source_url": "https://www.mec.ca/en/product/5048-418/CCP-22-Crank-Puller--Square-Taper",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

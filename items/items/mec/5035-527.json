@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Camp dinnerware",
+    "Mugs, cups and dishes",
+    "Bowls and plates",
+    "Nesting Bowl"
+  ],
+  "description": "A rugged bowl that's the right size to slide inside a 2L MSR Alpine cooking pot. The rolled rim fits a pot gripper, so you can press it into service for heating meals.Stainless steel construction is light, strong and corrosion-resistant.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812548718622/5035527-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812548718622/5035527-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Nesting Bowl",
+  "product_code": "5035-527",
+  "source_url": "https://www.mec.ca/en/product/5035-527/Nesting-Bowl",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Backpacking"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Weight": [
+      "84g"
+    ]
+  }
+}

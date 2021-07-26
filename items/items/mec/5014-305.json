@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Crampons and components",
+    "Crampon components",
+    "Valter Long Crampon Bar"
+  ],
+  "description": "Long replacement bars for Grivel crampons.Compatible with G10/12/14 and Airtech models.Sold in pairs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807441072158/5014305-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807441072158/5014305-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Grivel Valter Long Crampon Bar",
+  "product_code": "5014-305",
+  "source_url": "https://www.mec.ca/en/product/5014-305/Valter-Long-Crampon-Bar",
+  "tech_specs": {
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Made in": [
+      "Italy"
+    ]
+  }
+}

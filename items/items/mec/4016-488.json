@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "Toaster Ellipse Cord Lock"
+  ],
+  "description": "Handy little cord lock. Perfect for replacing broken bits-and-pieces on your backcountry clothing and gear.To attach to cords: thread the cord though the pre-aligned holes and squeeze the housing to engage the stainless steel spring.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977303961630/4016488-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8977303961630/4016488-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nexus Toaster Ellipse Cord Lock",
+  "product_code": "4016-488",
+  "source_url": "https://www.mec.ca/en/product/4016-488/Toaster-Ellipse-Cord-Lock",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

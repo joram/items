@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Mountaineering axes",
+    "Raven Ice Axe"
+  ],
+  "description": "A general mountaineering axe with a investment cast stainless steel head. Makes a fine companion for crossing moderately glaciated regions, trekking, or slogging through snow. (For steep faces and more technical terrain, you may want a more aggressive axe.)The ergonomically shaped head fills out to nestle naturally in your hand \u2013 it\u2019s both easy to manoeuvre, and comfortable to carry over long hauls.Stainless steel head, pick and spike. Pick curve and teeth are designed for self-arresting.Aluminum shaft is uncovered and has a flush spike, both to facilitate plunging.Long, aggressive adze makes short work of chopping and clearing.B-rated pick and shaft.Leash not included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807169589278/5015575-ALG01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807169589278/5015575-ALG01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Raven Ice Axe",
+  "product_code": "5015-575",
+  "source_url": "https://www.mec.ca/en/product/5015-575/Raven-Ice-Axe",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Adze"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "65 cm, 70 cm, 75cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Removable pick": [
+      "No"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "B-rated"
+    ],
+    "Weight": [
+      "452g (60cm)",
+      "467g (65 cm)",
+      "482g (70cm)",
+      "497g (75cm)",
+      "452g (80cm)",
+      "452g (90cm)"
+    ]
+  }
+}

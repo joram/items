@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Ultimate Guide to Trail Running"
+  ],
+  "description": "Find the essential information about finding trails, getting started, tackling ascents and descents, and navigating off-road obstacles. The book teaches strength, stretching, and cross-training exercises and guides you through selecting shoes, clothing, and accessories. It also covers safety on the trail and getting prepared for racing and trail events.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815723118622/5021304-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815723118622/5021304-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Falcon Ultimate Guide to Trail Running",
+  "product_code": "5021-304",
+  "source_url": "https://www.mec.ca/en/product/5021-304/Ultimate-Guide-to-Trail-Running",
+  "tech_specs": {
+    "Author": [
+      "Adam Chase, Nancy Hobbs"
+    ],
+    "Edition": [
+      "2nd"
+    ],
+    "ISBN": [
+      "9780762755370"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "272"
+    ],
+    "Published": [
+      "2010"
+    ]
+  }
+}

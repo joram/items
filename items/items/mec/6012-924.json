@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth clothing",
+    "Youth swimwear",
+    "Youth rashguards and sunguards",
+    "Ashley Leggings"
+  ],
+  "description": "Sun protection that won\u2019t wash off. From diving into the surf, to epic sand castle competitions, these lightweight leggings help keep your little one sun safe.Stretch nylon blend can keep up with active kids.Rated at UPF 50+, blocking more than 97% of UV.Chafe-free seems and wide elastic waistband for all day comfort.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182816469022/6012924-TEL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182816567326/6012924-TEL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182817484830/6012924-BVT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182816337950/6012924-BVT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182816469022/6012924-TEL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182816567326/6012924-TEL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182817484830/6012924-BVT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182816337950/6012924-BVT00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182816469022/6012924-TEL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182816567326/6012924-TEL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182817484830/6012924-BVT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182816337950/6012924-BVT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182816469022/6012924-TEL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182816567326/6012924-TEL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182817484830/6012924-BVT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182816337950/6012924-BVT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Level Six Ashley Leggings - Girls' - Youths",
+  "product_code": "6012-924",
+  "source_url": "https://www.mec.ca/en/product/6012-924/Ashley-Leggings",
+  "tech_specs": {
+    "Fabric content": [
+      "82% nylon",
+      "18% spandex"
+    ],
+    "Ideal for": [
+      "Beach"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

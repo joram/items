@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Personal protective face masks",
+    "ViralOff Mask"
+  ],
+  "description": "Light face coverings to help protect you and those around you. Treated with an antiviral ViralOff\u00ae, these reusable face masks offer an extra layer of protection.Polygiene\u2019s\u00ae ViralOff produces a 99% reduction of a virus\u2019s ability to stay on cloth after 2 hours (according to a standard ISO18184:2019 test, active ingredients are titanium dioxide and silver chloride).3D fit follows the contours of your face.Stretch polyester blend is highly breathable, wicks moisture and dries quickly.Hand wash and air dry.One size designed for kids 10-14 years old and petite adults.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140249231390/6012940-PNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140248379422/6012940-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140249231390/6012940-PNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140248379422/6012940-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140249231390/6012940-PNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140248379422/6012940-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140249231390/6012940-PNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140248379422/6012940-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Swany ViralOff Mask - Youths",
+  "product_code": "6012-940",
+  "source_url": "https://www.mec.ca/en/product/6012-940/ViralOff-Mask",
+  "tech_specs": {
+    "Fabric content": [
+      "80% polyester",
+      "20% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ]
+  }
+}

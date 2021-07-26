@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Short sleeved shirts",
+    "Distance Short Sleeve Shirt"
+  ],
+  "description": "Run-ready performance. This tee's quick-drying fabric moves sweat off your skin to keep you comfortable as you pick up the pace.DriLayer recycled polyester and lyocell blend is quick-drying and soft.Fabric wicks sweat away from skin to keep you comfortable.Semi-fitted to contour to your body and let you move freely.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188142481438/6005525-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188130357278/6005525-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188130422814/6005525-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188142481438/6005525-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188130357278/6005525-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188130422814/6005525-BK000-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188142481438/6005525-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188130357278/6005525-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188130422814/6005525-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188142481438/6005525-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188130357278/6005525-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188130422814/6005525-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Brooks Distance Short Sleeve Shirt - Men's",
+  "product_code": "6005-525",
+  "source_url": "https://www.mec.ca/en/product/6005-525/Distance-Short-Sleeve-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "88% recycled polyester",
+      "12% lyocell"
+    ],
+    "Ideal for": [
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ]
+  }
+}

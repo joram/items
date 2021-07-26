@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski base cleaners",
+    "Waxing Profile Clamps"
+  ],
+  "description": "Use these clamps to attach a Swix cross-country waxing profile to a waxing table.Designed to fit the drilled holes in the Swix waxing profile.Includes two clamps.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817186177054/5041773-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817186177054/5041773-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Swix Waxing Profile Clamps",
+  "product_code": "5041-773",
+  "source_url": "https://www.mec.ca/en/product/5041-773/Waxing-Profile-Clamps",
+  "tech_specs": {
+    "Ideal for": [
+      "Cross-country skiing"
+    ],
+    "Made in": [
+      "Norway"
+    ]
+  }
+}

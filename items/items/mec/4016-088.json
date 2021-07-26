@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Allen and Mike's Really Cool Backpackin' Book"
+  ],
+  "description": "Those new to hiking will find this a useful introduction to backpacking, hiking, and camping. Experienced outdoors people will likely pick up a few tricks and be thoroughly entertained. Written and illustrated by two guys who spend half their lives in the woods, it provides information about dressing and packing, equipment, travel techniques, trip planning, outdoor hazards, and leave-no-trace camping.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815707488286/4016088-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815707488286/4016088-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Falcon Allen and Mike's Really Cool Backpackin' Book",
+  "product_code": "4016-088",
+  "source_url": "https://www.mec.ca/en/product/4016-088/Allen-and-Mike%27s-Really-Cool-Backpackin%27-Book",
+  "tech_specs": {
+    "Author": [
+      "Allen O'Bannon"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9781560449126"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Illustrator": [
+      "Mike Clelland"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "162"
+    ],
+    "Published": [
+      "2001"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Running packs",
+    "Hydration vests and belts",
+    "VaporAir Race Vest"
+  ],
+  "description": "Body-mapped and designed to suit for the male form, this 7L race vest uses an innovative fit system. You can fit it at both the waist and bust to get the ride personalized to your shape and tuned for your running style.Designed to fit the male runners or those with a longer torso and wide shoulders.Adaptive-Fit \u2122 adjustable sizing provides a body-mapped fit for most body types.Breathable, chafe-free materials for maximum comfort.Includes a 2L bladder with quick release valve.Transparent zippered pocket for quick-viewing of key essentials.Back kangaroo pocket for stashing flasks or layers.Front pockets fit bottles and flasks up to 22oz.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161862873118/6013024-RDB12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161857433630/6013024-RDB12-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161857695774/6013024-RDB12-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161862873118/6013024-RDB12.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161857433630/6013024-RDB12-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161857695774/6013024-RDB12-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161862873118/6013024-RDB12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161857433630/6013024-RDB12-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161857695774/6013024-RDB12-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161862873118/6013024-RDB12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161857433630/6013024-RDB12-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9161857695774/6013024-RDB12-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nathan VaporAir Race Vest - Men's",
+  "product_code": "6013-024",
+  "source_url": "https://www.mec.ca/en/product/6013-024/VaporAir-Race-Vest",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top"
+    ],
+    "Additional feature(s)": [
+      "Reflective details",
+      "Hydration compatible (reservoir included)"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Ventilated back panel": [
+      "Yes"
+    ],
+    "Volume": [
+      "7L"
+    ],
+    "Weight": [
+      "347g (Extra Small-Medium)"
+    ]
+  }
+}

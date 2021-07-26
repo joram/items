@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Tanks and sleeveless shirts",
+    "Wander Tank"
+  ],
+  "description": "Performance for the trail or crag. This sun-protective tank works hard on hot days.Lightweight polyester (47% recycled content) with FlashDry-XD\u2122 high-abrasion resistance and wicking technology.UPF 50 sun protection keeps you covered.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192206991390/6011963-PBH04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192201617438/6011963-PBH04-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192201650206/6011963-PBH04-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165742407710/6011963-MJH00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166609154078/6011963-MJH00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192206991390/6011963-PBH04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192201617438/6011963-PBH04-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192201650206/6011963-PBH04-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165742407710/6011963-MJH00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166609154078/6011963-MJH00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192206991390/6011963-PBH04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192201617438/6011963-PBH04-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192201650206/6011963-PBH04-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165742407710/6011963-MJH00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166609154078/6011963-MJH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192206991390/6011963-PBH04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192201617438/6011963-PBH04-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9192201650206/6011963-PBH04-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165742407710/6011963-MJH00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9166609154078/6011963-MJH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Wander Tank - Women's",
+  "product_code": "6011-963",
+  "source_url": "https://www.mec.ca/en/product/6011-963/Wander-Tank",
+  "tech_specs": {
+    "Fabric content": [
+      "47% recycled polyester",
+      "47% polyester",
+      "6% elastane"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Rock climbing",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "Jordan"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

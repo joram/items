@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike bags and trailers",
+    "Bike trailers",
+    "Trailers and accessories",
+    "Bike trailer accessories",
+    "Travoy Trailer Hitch"
+  ],
+  "description": "A replacement hitch for the Burley Travoy Trailer.Add a hitch to your other bike, or keep using your trailer if your bike gets stolen.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037209894942/5026895-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037747978270/5026895-NOC02-ALT-ONBIKE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037209894942/5026895-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037747978270/5026895-NOC02-ALT-ONBIKE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037209894942/5026895-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037747978270/5026895-NOC02-ALT-ONBIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037209894942/5026895-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9037747978270/5026895-NOC02-ALT-ONBIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Burley Travoy Trailer Hitch",
+  "product_code": "5026-895",
+  "source_url": "https://www.mec.ca/en/product/5026-895/Travoy-Trailer-Hitch",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

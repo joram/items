@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tubes and tire liners",
+    "Bike tubes",
+    "26 x 1.25-1.5 Tube Schrader Valve"
+  ],
+  "description": "A value-priced tube that\u2019s great to carry as a spare.Fits 26 x 1.25\u20131.50in. mountain bike tires.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806712246302/5032711-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806712246302/5032711-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806712246302/5032711-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806712246302/5032711-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC 26 x 1.25-1.5 Tube Schrader Valve",
+  "product_code": "5032-711",
+  "source_url": "https://www.mec.ca/en/product/5032-711/26-x-1-25-1-5-Tube-Schrader-Valve",
+  "tech_specs": {
+    "Fits tire": [
+      "26 x 1.25-1.5in."
+    ],
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Valve\n\nBicycle tubes are valve-specific. Presta \u2013 narrow, with a built-in valve cap that you loosen when pumping up the tire and tighten again afterwards. Schrader \u2013 wide, with a pressure valve similar to those on a car tire.": [
+      "Schrader"
+    ],
+    "Weight": [
+      "142g"
+    ]
+  }
+}

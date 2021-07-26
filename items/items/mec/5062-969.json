@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Clothing",
+    "Running shirts and tops",
+    "Training tank tops",
+    "Energy Top"
+  ],
+  "description": "Energize your workout. The Vuori Energy top is made with stretchy fabric that wicks sweat away from your body so you can turn up the intensity without any restrictions. The UPF 50 sun protection makes this a great choice for cloudless, warm days.Polyester and spandex fabric is quick-drying and moisture-wicking to keep you dry and comfortable.Fabric has 4-way stretch for freedom of movement.UPF 50 sun protection.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990876729374/5062969-HTG00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990876729374/5062969-HTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vuori Energy Top - Women's",
+  "product_code": "5062-969",
+  "source_url": "https://www.mec.ca/en/product/5062-969/Energy-Top",
+  "tech_specs": {
+    "Fabric content": [
+      "94% polyester",
+      "6% spandex"
+    ],
+    "Ideal for": [
+      "Running",
+      "Yoga and fitness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

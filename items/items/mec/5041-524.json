@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Sleeping pads",
+    "Closed-cell foam sleeping pads",
+    "Evazote Standard Long Sleeping Pad"
+  ],
+  "description": "This 1-centimetre thick foam pad has good resiliency thanks to its high 18 percent EVA content. Evazote\u00ae pads are physically blown with pure nitrogen gas for durability. Flexible to \u201370 degrees Celsius, it\u2019s also abrasion and UV resistant.Dimensions are 190 x 50cm",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816504832030/5041524-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816504832030/5041524-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Zotefoams Evazote Standard Long Sleeping Pad - Unisex",
+  "product_code": "5041-524",
+  "source_url": "https://www.mec.ca/en/product/5041-524/Evazote-Standard-Long-Sleeping-Pad",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Ultralight"
+    ],
+    "Capacity\n\nThe number of average sized people that the product can comfortably sleep.": [
+      "1-person"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping"
+    ],
+    "Insulation": [
+      "Closed-cell foam"
+    ],
+    "Length": [
+      "190cm"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "R value (thermal resistance)\n\nMeasures insulative value. Higher values indicate more warmth: 1 to 3 are best for warm weather. 3 to 4 are best for 3-season use.4.5 or higher is best for winter.": [
+      "1.6"
+    ],
+    "Shape": [
+      "Rectangle"
+    ],
+    "Thickness": [
+      "1cm"
+    ],
+    "Type": [
+      "Foam pad"
+    ],
+    "Weight": [
+      "445g"
+    ],
+    "Width": [
+      "50cm"
+    ]
+  }
+}

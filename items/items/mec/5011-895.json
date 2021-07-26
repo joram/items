@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Wash, repair and maintenance",
+    "Cleaners and waterproofers",
+    "Performance Wash 300ml"
+  ],
+  "description": "Great for technical outerwear, like GORE-TEX\u00ae jackets, this cleaner helps maintain a garment's water repellency and breathabilty. This high-concentration G-Wash has the same cleaning and odour-killing qualities as the original formula but now goes further.Cleans up to ten wash loads.Biodegradable formula, contains no UV brighteners, whiteners, or perfumes.300ml bottle.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853547515934/5011895-NOC00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8853547515934/5011895-NOC00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Grangers Performance Wash 300ml",
+  "product_code": "5011-895",
+  "source_url": "https://www.mec.ca/en/product/5011-895/Performance-Wash-300ml",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "United Kingdom"
+    ],
+    "Type": [
+      "Cleanser"
+    ],
+    "Volume": [
+      "300ml"
+    ]
+  }
+}

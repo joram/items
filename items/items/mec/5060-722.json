@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Saddles and seat posts",
+    "Saddles",
+    "Classic Saddle"
+  ],
+  "description": "Whether you're on your daily commute or touring around wine country from vineyard to vineyard, the Classic Saddle provides comfortable support to keep you going. The central cut-out keeps the pressure low on soft tissues, so you can focus on the scenery around you.Nylon base is supportive and provides some flex for comfort.Light and high-density foam are mapped to spread pressure evenly.Chromoly rails are light and durable.Central cut-out reduces pressure on soft tissues.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989350952990/5060722-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050353182/5060722-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050484254/5060722-BK000-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989350952990/5060722-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050353182/5060722-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050484254/5060722-BK000-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989350952990/5060722-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050353182/5060722-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050484254/5060722-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989350952990/5060722-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050353182/5060722-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8990050484254/5060722-BK000-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Classic Saddle - Men's",
+  "product_code": "5060-722",
+  "source_url": "https://www.mec.ca/en/product/5060-722/Classic-Saddle",
+  "tech_specs": {
+    "Cover material": [
+      "Synthetic"
+    ],
+    "Dimensions": [
+      "27.7\u00a0x\u00a015.8cm"
+    ],
+    "Ideal for": [
+      "Cycle touring",
+      "Cycle commuting",
+      "Road cycling"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Rails": [
+      "Chromoly"
+    ],
+    "Shell": [
+      "Nylon"
+    ],
+    "Weight": [
+      "300g"
+    ]
+  }
+}

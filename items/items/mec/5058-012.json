@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Crampons and components",
+    "Crampon components",
+    "Stalker Anti-Balling Plates"
+  ],
+  "description": "Replacement anti-balling plates for your Camp Stalker Crampons.New dynamic design prevents snow and ice buildup underfoot.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034888871966/5058012-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9034888871966/5058012-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Stalker Anti-Balling Plates",
+  "product_code": "5058-012",
+  "source_url": "https://www.mec.ca/en/product/5058-012/Stalker-Anti-Balling-Plates",
+  "tech_specs": {
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Made in": [
+      "Italy"
+    ]
+  }
+}

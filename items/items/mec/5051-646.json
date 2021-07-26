@@ -1,0 +1,88 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Hiking footwear",
+    "Hiking shoes",
+    "Moab 2 Vent Light Trail Shoes"
+  ],
+  "description": "These shoes provide support and and athletic feel for cruising over trails. They are breathable and have cooling ventilation that's welcome in warmer weather.Uppers are breathable mesh and suede.Closed-cell foam bellows tongue keeps out moisture and debris.Breathable mesh lining with anti-microbial treatment reduces odor.Protective rubber toe cap.Multi-density contoured EVA footbed.Midsoles are compression-moulded EVA, with injection-moulded nylon arch shanks, and pronounced heel cups that cushion and centre the feet.Vibram TC5+ rubber outsole with 5mm lugs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870708215838/5051646-WNT03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872727937054/5051646-WNT03-ALT-OUT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728002590/5051646-WNT03-ALT-FRNT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728068126/5051646-WNT03-ALT-BACKANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728133662/5051646-WNT03-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728395806/5051646-WNT03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728231966/5051646-EAH00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728428574/5051646-EAH00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728461342/5051646-EAH00-ALT-INSDIE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728494110/5051646-EAH00-ALT-OUT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870690848798/5051646-EAH00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870708215838/5051646-WNT03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872727937054/5051646-WNT03-ALT-OUT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728002590/5051646-WNT03-ALT-FRNT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728068126/5051646-WNT03-ALT-BACKANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728133662/5051646-WNT03-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728395806/5051646-WNT03-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728231966/5051646-EAH00-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728428574/5051646-EAH00-ALT-INSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728461342/5051646-EAH00-ALT-INSDIE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728494110/5051646-EAH00-ALT-OUT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870690848798/5051646-EAH00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870708215838/5051646-WNT03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872727937054/5051646-WNT03-ALT-OUT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728002590/5051646-WNT03-ALT-FRNT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728068126/5051646-WNT03-ALT-BACKANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728133662/5051646-WNT03-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728395806/5051646-WNT03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728231966/5051646-EAH00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728428574/5051646-EAH00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728461342/5051646-EAH00-ALT-INSDIE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728494110/5051646-EAH00-ALT-OUT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870690848798/5051646-EAH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870708215838/5051646-WNT03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872727937054/5051646-WNT03-ALT-OUT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728002590/5051646-WNT03-ALT-FRNT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728068126/5051646-WNT03-ALT-BACKANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728133662/5051646-WNT03-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728395806/5051646-WNT03-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728231966/5051646-EAH00-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728428574/5051646-EAH00-ALT-INSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728461342/5051646-EAH00-ALT-INSDIE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8872728494110/5051646-EAH00-ALT-OUT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8870690848798/5051646-EAH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Merrell Moab 2 Vent Light Trail Shoes - Men's",
+  "product_code": "5051-646",
+  "source_url": "https://www.mec.ca/en/product/5051-646/Moab-2-Vent-Light-Trail-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Lace-up"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Removable insole": [
+      "Yes"
+    ],
+    "Upper material": [
+      "Suede",
+      "Mesh"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ],
+    "Weight": [
+      "888g (9 Medium)"
+    ]
+  }
+}

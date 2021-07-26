@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Adventure and documentary",
+    "American Alpine Journal 2017"
+  ],
+  "description": "Published annually since 1929, The American Alpine Journal documents the year's mountaineering accomplishments. The 400-page book records impressive achievements, notable routes, wild stories and significant expeditions from the world of climbing, mountaineering and ski mountaineering. This edition is dedicated to visionary climber Jeff Lowe, and features a \"Recon\" section covering the big granite walls of the Cirque of the Unclimbables in Canada's Northwest Territories.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8923117617182/5057299-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8923117617182/5057299-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "American Alpine Journal 2017",
+  "product_code": "5057-299",
+  "source_url": "https://www.mec.ca/en/product/5057-299/American-Alpine-Journal-2017",
+  "tech_specs": {
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

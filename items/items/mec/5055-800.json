@@ -1,0 +1,70 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tools",
+    "Gully Adze Ice Axe"
+  ],
+  "description": "Ultra-light axe for technical mountaineering and steep skiing. The gently curved shaft plunges well and allows a wee bit of clearance over bulges.Steel head with adze.Banana-shaped pick is tapered to 3mm for efficient penetration and easy unhooking.Durable beveled spike aids plunging.Includes the Trigrest handrest, which is adjustable without tools.Compatible with weights for a better swing (not included).Compact 45cm length is easy to store in your pack.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890286112798/5055800-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912711352350/5055800-NOC02-ALT-DETAILHEAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912711516190/5055800-NOC02-ALT-DETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912711680030/5055800-NOC02-ALT-BOTTOMDETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890286112798/5055800-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912711352350/5055800-NOC02-ALT-DETAILHEAD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912711516190/5055800-NOC02-ALT-DETAIL1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912711680030/5055800-NOC02-ALT-BOTTOMDETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890286112798/5055800-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912711352350/5055800-NOC02-ALT-DETAILHEAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912711516190/5055800-NOC02-ALT-DETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912711680030/5055800-NOC02-ALT-BOTTOMDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8890286112798/5055800-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912711352350/5055800-NOC02-ALT-DETAILHEAD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912711516190/5055800-NOC02-ALT-DETAIL1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8912711680030/5055800-NOC02-ALT-BOTTOMDETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Gully Adze Ice Axe",
+  "product_code": "5055-800",
+  "source_url": "https://www.mec.ca/en/product/5055-800/Gully-Adze-Ice-Axe",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Adze"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "43cm (43cm)",
+      "45cm (45cm)"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Removable pick": [
+      "No"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "B-rated"
+    ],
+    "Weight": [
+      "280g (45cm)"
+    ]
+  }
+}

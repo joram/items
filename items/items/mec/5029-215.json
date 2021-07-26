@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Avalanche safety gear",
+    "Avalanche airbags",
+    "Consumer Refill Kit for Float Packs"
+  ],
+  "description": "Refill your BCA cylinders. This kit includes all the pieces required to refill the cylinders, replace O-rings, and re-grease the seals.Includes: Allen wrench, toothpick, grease, and O-rings.Empty cylinders can be filled at BCA authorized depots.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815484305438/5029215-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815484305438/5029215-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Backcountry Access Consumer Refill Kit for Float Packs",
+  "product_code": "5029-215",
+  "source_url": "https://www.mec.ca/en/product/5029-215/Consumer-Refill-Kit-for-Float-Packs",
+  "tech_specs": {
+    "Ideal for": [
+      "Backcountry skiing",
+      "Snowboarding",
+      "Mountain snowshoeing"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Weight": [
+      "10g"
+    ]
+  }
+}

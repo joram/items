@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Jackets",
+    "Soft shell jackets",
+    "Crescent Half Zip Long Sleeve"
+  ],
+  "description": "Get inspired to hold the pose longer, add resistance to your workout, or go an extra kilometer. This half zip sweater is highly wicking and incredibly soft so you stay comfortable while you push your limits.Soft and wicking fabric has plenty of stretch.UPF 30+ sun protection.Flatlock seams throughout for chafe-free wear.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516179998/6009548-HTG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516278302/6009548-HTG00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516311070/6009548-HTG00-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516376606/6009548-HTG00-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516179998/6009548-HTG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516278302/6009548-HTG00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516311070/6009548-HTG00-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516376606/6009548-HTG00-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516179998/6009548-HTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516278302/6009548-HTG00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516311070/6009548-HTG00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516376606/6009548-HTG00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516179998/6009548-HTG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516278302/6009548-HTG00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516311070/6009548-HTG00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9132516376606/6009548-HTG00-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vuori Crescent Half Zip Long Sleeve - Women's",
+  "product_code": "6009-548",
+  "source_url": "https://www.mec.ca/en/product/6009-548/Crescent-Half-Zip-Long-Sleeve",
+  "tech_specs": {
+    "Fabric content": [
+      "88% polyester",
+      "12% elastane"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "180gsm"
+    ],
+    "Ideal for": [
+      "Running, fitness and training",
+      "Day hiking"
+    ],
+    "Length": [
+      "Above hip"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "1 back zippered"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "25-39 (Blocks ~96% of UVA/UVB)"
+    ]
+  }
+}

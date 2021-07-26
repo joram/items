@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Tent pegs and stakes",
+    "Ground Hog Tent Stake"
+  ],
+  "description": "A lightweight Y-beam design that can penetrate and hold in a wide range of soil conditions. Attached pull cords make them easy to remove.Made of light, strong 7000-series aluminum.Notches on head prevent guylines from sliding off.Length is 19cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816275718174/5032493-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816275718174/5032493-RED00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816275718174/5032493-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816275718174/5032493-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MSR Ground Hog Tent Stake",
+  "product_code": "5032-493",
+  "source_url": "https://www.mec.ca/en/product/5032-493/Ground-Hog-Tent-Stake",
+  "tech_specs": {
+    "Best used in": [
+      "Firm ground"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Length": [
+      "19cm"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ],
+    "Material": [
+      "7000-series aluminum"
+    ],
+    "Sold as": [
+      "Individually"
+    ],
+    "Weight": [
+      "16g"
+    ]
+  }
+}

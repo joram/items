@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "The Down and Dirty Guide to Camping with Kids"
+  ],
+  "description": "Plan a family camping adventure with tips and advice from a seasoned camper and mother of 3. Learn about choosing a destination, packing gear, setting up a campsite, and keeping little ones safe. Also includes simple and tasty recipe ideas, foolproof tactics to keep kids happy while hiking, and creative camp arts and craft projects. A practical guide for anyone heading outdoors with kids, from babies through pre-teens.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815745597470/5031918-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815745597470/5031918-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The Down and Dirty Guide to Camping with Kids",
+  "product_code": "5031-918",
+  "source_url": "https://www.mec.ca/en/product/5031-918/The-Down-and-Dirty-Guide-to-Camping-with-Kids",
+  "tech_specs": {
+    "Author": [
+      "Helen Olsson"
+    ],
+    "ISBN": [
+      "9781590309551"
+    ],
+    "Ideal for": [
+      "Car camping",
+      "Camping and hiking"
+    ],
+    "Illustrator": [
+      "Scotty Reifsnyder"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "256"
+    ],
+    "Published": [
+      "2012"
+    ]
+  }
+}

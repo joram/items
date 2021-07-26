@@ -1,0 +1,55 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike locks",
+    "Cable and chain locks",
+    "Transport/Storage Chain"
+  ],
+  "description": "This high security chain with a solid ring at one end lets you make a lasso for girth hitching your bikes in transport, or for locking up several bikes at home.Ultra-hardened steel links.Durable nylon sheath houses the chain and protects your bike\u2019s finish from scrapes.Lock not included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806429360158/5016857-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806429360158/5016857-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike Transport/Storage Chain",
+  "product_code": "5016-857",
+  "source_url": "https://www.mec.ca/en/product/5016-857/Transport-Storage-Chain",
+  "tech_specs": {
+    "Diameter": [
+      "34mm"
+    ],
+    "Ideal for": [
+      "Cycle commuting"
+    ],
+    "Length": [
+      "2m"
+    ],
+    "Locking mechanism": [
+      "Lock not included"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Ultra-hardened steel"
+    ],
+    "Mounting bracket": [
+      "No"
+    ],
+    "Number of keys": [
+      "0"
+    ],
+    "Type": [
+      "Cable lock"
+    ],
+    "Weight": [
+      "4.5kg"
+    ]
+  }
+}

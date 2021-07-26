@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tool components",
+    "Trigrest"
+  ],
+  "description": "The Trigrest has 2 support positions: a platform for hand switching in the high position, and a brace for the index finger in the low position.Made of plastic.Locking lever (bottom platform) swivels up so you adjust the position on the shaft without tools.Compatible with the Petzl\u00ae Ride, Glacier, Glacier Literide, Summit, Sum'tec, and Gully ice axes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926041079838/5057774-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926067687454/5057774-BK000-ALT-POSITION3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926067720222/5057774-BK000-ALT-POSITION2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926041079838/5057774-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926067687454/5057774-BK000-ALT-POSITION3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926067720222/5057774-BK000-ALT-POSITION2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926041079838/5057774-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926067687454/5057774-BK000-ALT-POSITION3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926067720222/5057774-BK000-ALT-POSITION2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926041079838/5057774-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926067687454/5057774-BK000-ALT-POSITION3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926067720222/5057774-BK000-ALT-POSITION2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Trigrest",
+  "product_code": "5057-774",
+  "source_url": "https://www.mec.ca/en/product/5057-774/Trigrest",
+  "tech_specs": {
+    "Ideal for": [
+      "Ice climbing"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Weight": [
+      "15g"
+    ]
+  }
+}

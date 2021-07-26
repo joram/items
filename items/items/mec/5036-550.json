@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training electronics",
+    "Heart rate monitor sensor straps",
+    "Tempe Temperature Sensor"
+  ],
+  "description": "This external temperature sensor is unaffected by body heat, so you won\u2019t get challenged about just how hot or cold it really was. The device clips to your pack, jacket or shoe and transmits data wirelessly to any compatible Garmin device.Works with many GPSMAP, Montana or Oregon GPS, the Fenix watch, and the VIRB Elite video camera.Uses 1 CR2032 battery.Transmits via 2.4GHz ANT+.Water resistant to 10m.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810604658718/5036550-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8810604658718/5036550-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Garmin Tempe Temperature Sensor",
+  "product_code": "5036-550",
+  "source_url": "https://www.mec.ca/en/product/5036-550/Tempe-Temperature-Sensor",
+  "tech_specs": {
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Backcountry skiing",
+      "Travel"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

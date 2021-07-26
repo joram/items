@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling footwear",
+    "Cycling shoes",
+    "XC1 Cycling Shoes"
+  ],
+  "description": "Hit single-track in shoes that are happy in the dirt. The XC1 use a robust, perforated upper that lets your feet breath when you put the hammer down. Equipped with a glass reinforced nylon midsole, you get great power transfer.Synthetic leather upper is easy to clean and breathes well.Glass fibre reinforced nylon sole provides stiff pedalling platform.Triple hook and loops straps.Offset strap design reduces pressure on the top of the foot.XC racing pattern tread offers  secure grip on the ground an easy cleat engagement on the pedal.Compatible with 2-bolt cleats.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127442350110/6011820-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285817374/6011820-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285784606/6011820-BK000-ALT-DOUBLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127442350110/6011820-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285817374/6011820-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285784606/6011820-BK000-ALT-DOUBLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127442350110/6011820-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285817374/6011820-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285784606/6011820-BK000-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127442350110/6011820-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285817374/6011820-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285784606/6011820-BK000-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano XC1 Cycling Shoes - Unisex",
+  "product_code": "6011-820",
+  "source_url": "https://www.mec.ca/en/product/6011-820/XC1-Cycling-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Hook-and-loop"
+    ],
+    "Ideal for": [
+      "Trail riding",
+      "Cross-country riding",
+      "Cyclocross",
+      "Gravel riding"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Outsole": [
+      "Rubber"
+    ],
+    "Pedal compatibility": [
+      "2-hole clipless"
+    ],
+    "Upper material": [
+      "Synthetic leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ]
+  }
+}

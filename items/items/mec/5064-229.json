@@ -1,0 +1,76 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Gear lofts, vestibules and tent add-ons",
+    "Homestead Shade"
+  ],
+  "description": "Add a porch to your Homestead series tent, or set it up alone for a simple sun shade. It's big enough to sit a few people and tall enough to stand up in.One-pole structure is easy to set up.Large vaulted opening provides sun and rain shelter.Includes 5 line lock stakes for easy guyline tensioning and 4 aluminum tent stakes.Compatible with the Homestead Roomy 2, Domey 3, and Super Dome 4 tents, or as a stand-alone shade.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024403570718/5064229-ZIN02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024697663518/5064229-ZIN02-ALT-STAKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024403570718/5064229-ZIN02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024697663518/5064229-ZIN02-ALT-STAKED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024403570718/5064229-ZIN02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024697663518/5064229-ZIN02-ALT-STAKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024403570718/5064229-ZIN02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024697663518/5064229-ZIN02-ALT-STAKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Homestead Shade",
+  "product_code": "5064-229",
+  "source_url": "https://www.mec.ca/en/product/5064-229/Homestead-Shade",
+  "tech_specs": {
+    "Floor length\n\nA measurement based on the longest point of the tent.": [
+      "3.76m"
+    ],
+    "Floor width\n\nA measurement based on the widest points of the tent.": [
+      "4.12m"
+    ],
+    "Fly coating": [
+      "Polyurethane"
+    ],
+    "Fly fabric": [
+      "75-denier polyester"
+    ],
+    "Fly waterproofness\n\nThe standard test for coated fabrics uses a standing column (a pipe) filled with water. The figures given are the column height. A 1000mm coating allowed no leaks after 1 minute under 1000mm of water.": [
+      "1200mm"
+    ],
+    "Free standing\n\nThese tents can be set up without stakes or pegs on any type of ground. All tents should be anchored or weighted, so they don't blow away.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Interior peak height": [
+      "2.21m"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Minimum weight\n\nIncludes just the tent, poles, and the fewest pegs and guylines needed to properly set it up.": [
+      "2.01kg"
+    ],
+    "Packed size": [
+      "13 x 58cm"
+    ],
+    "Packed weight\n\nIncludes the full tent with its stuff sack, repair swatches, and all the guylines and pegs.": [
+      "2.48kg"
+    ],
+    "Pole": [
+      "Aluminum"
+    ],
+    "Stuff sack": [
+      "Yes"
+    ],
+    "Weight": [
+      "2.48kg"
+    ]
+  }
+}

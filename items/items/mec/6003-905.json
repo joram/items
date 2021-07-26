@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Bouldering",
+    "Chalk and chalk bags",
+    "Chalk bags",
+    "Chalk Bag Kit"
+  ],
+  "description": "Set yourself up for a climbing road trip or give a welcome gift to the climbers in your life.Includes a chalk bag, small brush, roll of finger tape and bottle opener.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058538487838/6003905-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058538225694/6003905-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058538160158/6003905-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058538487838/6003905-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058538225694/6003905-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058538160158/6003905-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058538487838/6003905-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058538225694/6003905-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058538160158/6003905-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058538487838/6003905-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058538225694/6003905-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9058538160158/6003905-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Metolius Chalk Bag Kit",
+  "product_code": "6003-905",
+  "source_url": "https://www.mec.ca/en/product/6003-905/Chalk-Bag-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Rock climbing",
+      "Climbing training"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

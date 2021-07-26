@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Caps",
+    "Sahale Cap"
+  ],
+  "description": "When it's a wintery day but a toque doesn't fit your style, this insulated cap may be just the ticket.Wicking shell and lining moves sweat away.45g VerticalX synthetic insulation (85% recycled content) keeps your head warm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140110721054/6010455-FAT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140110753822/6010455-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140110721054/6010455-FAT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140110753822/6010455-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140110721054/6010455-FAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140110753822/6010455-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140110721054/6010455-FAT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140110753822/6010455-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outdoor Research Sahale Cap - Unisex",
+  "product_code": "6010-455",
+  "source_url": "https://www.mec.ca/en/product/6010-455/Sahale-Cap",
+  "tech_specs": {
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "48g (Large/X-Large)"
+    ]
+  }
+}

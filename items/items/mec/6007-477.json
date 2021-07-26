@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Button up shirts and polos",
+    "Lightweight A/C Buttondown Shirt"
+  ],
+  "description": "Warm-weather chaser? The lightweight breezy fabric of this AC button-down top will help you keep cool when AC might not be an option.Lightweight material is great for hot days.Chest pockets with button flaps keep small necessities close and safe.Regular fit.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081700745246/6007477-SDP01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081700712478/6007477-SDB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081700745246/6007477-SDP01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081700712478/6007477-SDB00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081700745246/6007477-SDP01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081700712478/6007477-SDB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081700745246/6007477-SDP01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081700712478/6007477-SDB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Patagonia Lightweight A/C Buttondown Shirt - Women's",
+  "product_code": "6007-477",
+  "source_url": "https://www.mec.ca/en/product/6007-477/Lightweight-A-C-Buttondown-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "95% organically grown cotton",
+      "5% hemp"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "85gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 external chest"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ]
+  }
+}

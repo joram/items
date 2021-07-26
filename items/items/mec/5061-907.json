@@ -1,0 +1,84 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Bike lights",
+    "Front bike lights",
+    "District 220 USB Front Light"
+  ],
+  "description": "See and be seen. A little light can make all the difference when it comes to getting home safe. With a 1-piece rubber body, integrated mount and a simple 1-button interface, the District 220 is a little light with a lot to offer. The easy-to-use, tool-free mount makes swapping between bikes easy.4 modes: high (1.5 hours at 200 lumens), medium (3 hours at 110 lumens), low (5.5 hours at 40 lumens) and quick flash (6.5 hours).Easy USB charging means you no longer have to get by with \"good enough\" batteries.LED battery indicator lets you know when it is time to charge.Light and efficient lithium-polymer batteries.Side cutouts and frosted front lens cap add side visibility for an extra level of protection.1-piece rubber housing makes for easy mounting (handlebars, seat post, chainstays, forks, helmet vents, etc.) and switching between bikes.O-ring seal makes this light ready for heavy rain \u2013 it's waterproof, but not submersible.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999431241758/5061907-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999433273374/5061907-BK000-ALT-CHARGE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999431241758/5061907-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999433273374/5061907-BK000-ALT-CHARGE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999431241758/5061907-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999433273374/5061907-BK000-ALT-CHARGE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999431241758/5061907-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8999433273374/5061907-BK000-ALT-CHARGE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC District 220 USB Front Light",
+  "product_code": "5061-907",
+  "source_url": "https://www.mec.ca/en/product/5061-907/District-220-USB-Front-Light",
+  "tech_specs": {
+    "Batteries": [
+      "Rechargeable battery pack (non-removable)"
+    ],
+    "Burn Time - steady": [
+      "5.5-1.5\u00a0h"
+    ],
+    "Burn time - flash": [
+      "6.5\u00a0h"
+    ],
+    "Charge time\n\nThe amount of time it takes to fully charge the battery. Applies to lithium and NiMH type batteries. Does not apply to rechargeable or non-rechargeable AA or AAA batteries.": [
+      "4\u00a0h"
+    ],
+    "Flash mode": [
+      "Yes"
+    ],
+    "Helmet attachment\n\nIncludes a bracket or mounting system that attaches to most bike helmets.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Urban cycling",
+      "Cycle commuting",
+      "Road cycling"
+    ],
+    "Light modes\n\nThe number of lighting levels/modes the light has (i.e., low, med, high, flash).": [
+      "4 modes"
+    ],
+    "Light source": [
+      "1 LED"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Max light output\n\nThe total quantity of light emitted in every direction from a source of light; measured in lumens.": [
+      "220\u00a0lumens"
+    ],
+    "Product sustainability": [
+      "Rechargeable batteries"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Rechargeable"
+    ],
+    "Red light mode": [
+      "No"
+    ],
+    "Regulated output\n\nOn regulated lights brightness is consistent, and does not decrease gradually as the batteries are drained.": [
+      "No"
+    ],
+    "Type\n\nMost Canadian municipalities require a white front light and a red rear light.": [
+      "Front"
+    ],
+    "Weight": [
+      "89g"
+    ]
+  }
+}

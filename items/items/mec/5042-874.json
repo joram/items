@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Gloves and mittens",
+    "Mitts",
+    "Snowflake Mitts"
+  ],
+  "description": "Snowmen, snow forts, snow angels \u2013 good things happen when snowflakes are involved. Show your love for winter with patterned mittens that are insulated to enjoy the snow longer.Made of ragg wool with comfortable nylon tricot lining.Thinsulate\u00ae synthetic insulation wraps your hands in warmth.Nice stitching detail around the edges.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798062215198/5042874-GRY23.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8987507130398/5042874-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798062215198/5042874-GRY23.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8987507130398/5042874-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798062215198/5042874-GRY23.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8987507130398/5042874-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8798062215198/5042874-GRY23.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8987507130398/5042874-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Auclair Snowflake Mitts - Women's",
+  "product_code": "5042-874",
+  "source_url": "https://www.mec.ca/en/product/5042-874/Snowflake-Mitts",
+  "tech_specs": {
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Insulation": [
+      "Medium"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Touchscreen compatible": [
+      "No"
+    ],
+    "Type": [
+      "Mittens"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "None"
+    ]
+  }
+}

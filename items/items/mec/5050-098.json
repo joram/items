@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike chain rings",
+    "Cinch Direct Mount Chainring"
+  ],
+  "description": "Direct mount chainring for use with Race Face cranks with CINCH system interface. The CINCH system allows easy switching between direct mount rings and spiders, giving you flexibility to try out drivetrain options.Machined with aerospace grade 7075-T6 aluminum.Narrow wide tooth profile for great chain retention.Stiff 4mm plate thickness to transfer loads without flexing.Compatible with 9, 10, 11 and 12-speed.Race Face proprietary spline design.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806765854750/5050098-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806765854750/5050098-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Race Face Cinch Direct Mount Chainring",
+  "product_code": "5050-098",
+  "source_url": "https://www.mec.ca/en/product/5050-098/Cinch-Direct-Mount-Chainring",
+  "tech_specs": {
+    "Attachment": [
+      "Direct mount (Cinch)"
+    ],
+    "Compatibility": [
+      "9-speed",
+      "11-speed",
+      "10-speed",
+      "12-speed"
+    ],
+    "Ideal for": [
+      "Enduro",
+      "Cross-country riding",
+      "Freeride and downhill riding",
+      "Trail riding"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "7075-T6 aluminum"
+    ],
+    "Teeth": [
+      "28 (28)",
+      "30 (30)",
+      "32 (32)",
+      "34 (34)",
+      "36 (36)"
+    ],
+    "Weight": [
+      "67g (32)"
+    ]
+  }
+}

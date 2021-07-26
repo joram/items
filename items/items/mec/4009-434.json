@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Electronics cases",
+    "Camera and radio cases",
+    "1120 Case"
+  ],
+  "description": "Long the standard-issue protection for cameras, radios, and other delicate equipment. Canoeists and kayakers love Pelican Cases for keeping cameras easily accessible, yet utterly safe and secure. Because they are fully watertight they are also airtight. This case has an automatic pressure equalization valve to equalize the interior air pressure, so its easier to open after flying or climbing.Made of lightweight structural foam resin that won\u2019t dent, crack, or corrode. Light enough to float unless you\u2019re carrying fossils or a fortune in gold.Sturdy gasket around the rim makes them watertight.Removable pick-n-pluck foam is perforated into cubes, so you can customize snug compartments for your gear.Both the Pelican warranty and MEC's Rocksolid Guarantee cover this case itself. Neither guarantee covers the contents you put inside the case.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8844586516510/4009434-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817395630110/4009434-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8844586516510/4009434-YLW00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817395630110/4009434-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8844586516510/4009434-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817395630110/4009434-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8844586516510/4009434-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817395630110/4009434-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pelican 1120 Case",
+  "product_code": "4009-434",
+  "source_url": "https://www.mec.ca/en/product/4009-434/1120-Case",
+  "tech_specs": {
+    "Crushproof": [
+      "Yes"
+    ],
+    "Customizable foam\n\nThe interior can be custom-fitted to accommodate various device storage.": [
+      "Yes"
+    ],
+    "External dimensions": [
+      "21\u00a0x\u00a017\u00a0x\u00a09cm"
+    ],
+    "IPX rating\n\nIndicates the degree of protection against liquid. IP X1: Dripping water while in normal operating orientation; IP X4: Splashing water; IP X5: Water jets; IP X6: Powerful water jets; IP X7: Immersion up to 1m \u2264 30 minutes; IP X8: Suitable for submersion as specified by manufacturer.": [
+      "IP X7"
+    ],
+    "Ideal for": [
+      "Watersports",
+      "Travel"
+    ],
+    "Internal dimensions": [
+      "18.4\u00a0x\u00a012.1\u00a0x\u00a07.8cm"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "ABS"
+    ],
+    "Submersible": [
+      "Yes"
+    ],
+    "Waterproofness\n\nWaterproof bags and cases are made with waterproof materials and have waterproof closures. Some are designed to be submersible. Water-resistant bags and cases are made with waterproof materials, but water could sneak in through the seams or closure.": [
+      "Waterproof"
+    ],
+    "Weight": [
+      "560g"
+    ]
+  }
+}

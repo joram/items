@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "UV-light purifiers",
+    "Ultralight UV Water Purifier"
+  ],
+  "description": "A pocket-sized water purifier for any adventure. Toss the SteriPEN\u00ae Ultralight UV in your carry-on, backpack or emergency kit so you'll always be able to make clean water. The USB-rechargeable battery is easy to top up from your computer, a wall charger, a solar panel or a car. No buttons, no moving parts \u2013 just fill your water bottle from a creek, rain barrel or tap, then submerge the lamp and stir to create clean, potable water.Immerse the lamp and stir. Shortwave ultraviolet light disrupts the DNA of bacteria, viruses and protozoa, rendering them harmless.LED indicates purification status and when battery is low.Treatment of 1L takes approximately 90 seconds.UV lamp supplies about 8000 1L treatments.USB-rechargeable battery treats about 20L per charge.Note: UV devices are intended for treating clear water. They have been shown to reduce microbial contamination in mildly turbid water. If you are treating highly turbid water, follow all package instruction carefully and consider pre-filtering the water.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992056246302/5063711-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992079773726/5063711-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992080527390/5063711-NOC02-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992056246302/5063711-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992079773726/5063711-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992080527390/5063711-NOC02-ALT-INUSE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992056246302/5063711-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992079773726/5063711-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992080527390/5063711-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992056246302/5063711-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992079773726/5063711-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8992080527390/5063711-NOC02-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "SteriPen Ultralight UV Water Purifier",
+  "product_code": "5063-711",
+  "source_url": "https://www.mec.ca/en/product/5063-711/Ultralight-UV-Water-Purifier",
+  "tech_specs": {
+    "Batteries": [
+      "Rechargeable battery pack (non-removable)"
+    ],
+    "Cartridge life\n\nThe life of the filter cartridge is based on the quantity of water you can treat before the cartridge is no longer effective. This does not apply to battery operated or chemical filter systems.": [
+      "8000L"
+    ],
+    "Dimensions": [
+      "13\u00a0x\u00a04cm"
+    ],
+    "Effective against bacteria\n\nBacteria can cause illnesses such as diarrhea and dysentery and are about 1.0 micron in size, although some can be as small as 0.2 microns.": [
+      "Yes"
+    ],
+    "Effective against particulate\n\nParticulate consists of very small bits and pieces such as dirt or bugs.": [
+      "No"
+    ],
+    "Effective against protozoa\n\nProtozoa are larger than one micron and include cryptosporidium and giardia.": [
+      "Yes"
+    ],
+    "Effective against viruses\n\nMost viruses are in the 0.1 micron size range, but they can be as small as 0.002 microns.": [
+      "Yes"
+    ],
+    "Filter type\n\nWater can be treated using various types of filters, chemicals or non-chemical purification methods, or a combination. Filters on their own will not remove viruses as they are too small.": [
+      "Shortwave UV light"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Emergency preparedness",
+      "Backpacking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output": [
+      ".67L/min"
+    ],
+    "Weight": [
+      "77g"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard clothing",
+    "Ski gloves and mittens",
+    "Ski mittens",
+    "Flurry Mitts"
+  ],
+  "description": "Warm, wool blend fabric and a snug fit make these mitts a just-right layer for multi-day trekking or shorter hikes that might get windy and cool.Made of Alpin-Wool\u2122 Plus wool and synthetic blend.Soft fleece liner is cozy against the skin.Anti-slip silicone print on fingers and palm.Leather grab tab on inner wrist allows glove to be pulled on easily.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143694032926/6012453-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448765982/6012453-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143694032926/6012453-CHA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448765982/6012453-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143694032926/6012453-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448765982/6012453-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143694032926/6012453-CHA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136448765982/6012453-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outdoor Research Flurry Mitts - Women's",
+  "product_code": "6012-453",
+  "source_url": "https://www.mec.ca/en/product/6012-453/Flurry-Mitts",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking",
+      "Snowshoeing"
+    ],
+    "Insulation": [
+      "Medium"
+    ],
+    "Liner fabric": [
+      "100% polyester"
+    ],
+    "Liner type": [
+      "Sewn-in"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Main fabric": [
+      "43% wool",
+      "38% polyester",
+      "19% nylon"
+    ],
+    "Palm material\n\nThe type of material used on the palm of the glove. Grippy palms have a raised silicone or polyurethane pattern to improve grip and are most often seen on cycling and paddling handwear.": [
+      "Grippy palm"
+    ],
+    "Touchscreen compatible": [
+      "No"
+    ],
+    "Type": [
+      "Mittens"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Weight": [
+      "54g (Medium)"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "None"
+    ]
+  }
+}

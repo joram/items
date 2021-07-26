@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Hiking socks",
+    "Midweight Hiker Boot Socks"
+  ],
+  "description": "Midweight socks with lots of cushion, designed to wear inside your hiking boots for long days on the trail.  This quick-drying and breathable fabric ensures you are warm in the winter and cool in the summer.Made of merino wool, nylon and Lycra.Lots of high density cushioning in the foot base and shin ensure the sock is super comfy and durable.Ribbed performance knit with seamless construction ensures no slipping, no bunching and no blisters.Darn Tough sources their wool from non-mulesed sheep.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160484356126/5040867-SLA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805814206494/5040867-MSS25.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160484356126/5040867-SLA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805814206494/5040867-MSS25.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160484356126/5040867-SLA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805814206494/5040867-MSS25.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160484356126/5040867-SLA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8805814206494/5040867-MSS25.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Darn Tough Midweight Hiker Boot Socks - Women's",
+  "product_code": "5040-867",
+  "source_url": "https://www.mec.ca/en/product/5040-867/Midweight-Hiker-Boot-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Forefoot",
+      "Heel",
+      "Shin"
+    ],
+    "Fabric content": [
+      "69% merino wool",
+      "27% nylon",
+      "4% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

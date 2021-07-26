@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Cape Cod, Nantucket, Martha's Vineyard"
+  ],
+  "description": "A guide to Cape Cod and the beautiful nearby islands of Nantucket and Martha's Vineyard. Explore the beauty of the Atlantic Coast with its beaches, lighthouses, and historic villages. Find out where to stay, where to eat, and what to do to get the most out of your trip. (Text in French)",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815656566814/5038956-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815656566814/5038956-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses Cape Cod, Nantucket, Martha's Vineyard",
+  "product_code": "5038-956",
+  "source_url": "https://www.mec.ca/en/product/5038-956/Cape-Cod%2C-Nantucket%2C-Martha%27s-Vineyard",
+  "tech_specs": {
+    "Author": [
+      "Louise Gaboury"
+    ],
+    "Edition": [
+      "5th"
+    ],
+    "ISBN": [
+      "9782894646052"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "184"
+    ],
+    "Published": [
+      "2014"
+    ],
+    "Regionality": [
+      "USA"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Long sleeved shirts",
+    "Nora Long Sleeve Top"
+  ],
+  "description": "A cool top for intense workouts. The wicking fabric has lots of stretch so you can move freely.Quick-drying fabric has 4-way stretch that moves with you.Mesh underarm panels vent excess heat.Flatlock seams for chafe-free wear.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189819318302/6013885-PRI50.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822464030/6013885-PRI50-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822365726/6013885-PRI50-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822005278/6013885-MRN37-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822038046/6013885-MRN37-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822267422/6013885-MRN37-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821775902/6013885-LIL00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821972510/6013885-LIL00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821874206/6013885-LIL00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821284382/6013885-BK000-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821448222/6013885-BK000-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821612062/6013885-BK000-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189819219998/6013885-MRN37.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189818761246/6013885-LIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189818794014/6013885-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189819318302/6013885-PRI50.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822464030/6013885-PRI50-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822365726/6013885-PRI50-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822005278/6013885-MRN37-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822038046/6013885-MRN37-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822267422/6013885-MRN37-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821775902/6013885-LIL00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821972510/6013885-LIL00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821874206/6013885-LIL00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821284382/6013885-BK000-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821448222/6013885-BK000-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821612062/6013885-BK000-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189819219998/6013885-MRN37.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189818761246/6013885-LIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189818794014/6013885-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189819318302/6013885-PRI50.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822464030/6013885-PRI50-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822365726/6013885-PRI50-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822005278/6013885-MRN37-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822038046/6013885-MRN37-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822267422/6013885-MRN37-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821775902/6013885-LIL00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821972510/6013885-LIL00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821874206/6013885-LIL00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821284382/6013885-BK000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821448222/6013885-BK000-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821612062/6013885-BK000-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189819219998/6013885-MRN37.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189818761246/6013885-LIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189818794014/6013885-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189819318302/6013885-PRI50.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822464030/6013885-PRI50-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822365726/6013885-PRI50-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822005278/6013885-MRN37-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822038046/6013885-MRN37-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189822267422/6013885-MRN37-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821775902/6013885-LIL00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821972510/6013885-LIL00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821874206/6013885-LIL00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821284382/6013885-BK000-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821448222/6013885-BK000-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189821612062/6013885-BK000-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189819219998/6013885-MRN37.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189818761246/6013885-LIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189818794014/6013885-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kari Traa Nora Long Sleeve Top - Women's",
+  "product_code": "6013-885",
+  "source_url": "https://www.mec.ca/en/product/6013-885/Nora-Long-Sleeve-Top",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Fabric content": [
+      "86% polyester",
+      "14% elastane"
+    ],
+    "Ideal for": [
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Secondary fabric": [
+      "92% polyester",
+      "8% elastane"
+    ]
+  }
+}

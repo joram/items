@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camp furniture",
+    "Chairs",
+    "Packlite Slacker Chair"
+  ],
+  "description": "A lightweight tripod seat that packs easily into your bag or car, because you never know when you'll need an elevated place to sit.Stable steel frame with polyester fabric seat.Seat wraps around folded frame when stowing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182819254302/6008382-RED00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182819254302/6008382-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Travel Chair Packlite Slacker Chair",
+  "product_code": "6008-382",
+  "source_url": "https://www.mec.ca/en/product/6008-382/Packlite-Slacker-Chair",
+  "tech_specs": {
+    "Cup holder": [
+      "No"
+    ],
+    "Dimensions": [
+      "30\u00a0x\u00a030\u00a0x\u00a045cm"
+    ],
+    "Folded dimensions": [
+      "8x30cm"
+    ],
+    "Frame material": [
+      "Steel"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Load capacity": [
+      "113kg"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main fabric": [
+      "Polyester"
+    ],
+    "Weight": [
+      "440g"
+    ]
+  }
+}

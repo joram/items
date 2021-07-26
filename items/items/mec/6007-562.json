@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Jeans",
+    "Ulterior Slim Pants"
+  ],
+  "description": "Perfect when you want something as comfortable as jeans, but just a little different. The Ulterior pants offer a familiar comfort, in an evolved style.Organic cotton and polyester blend with just enough spandex for a comfortable stretch.Classic 5-pocket layout lets you keep everything just where you like it.Slim fit bridges the middle ground between style and comfort.\n\n        Sustainability\n\n\n\n\n\n\n\n\nOrganic\n\n\n\n\n\n\n\n\n                      Organically grown content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081671843870/6007562-EMB06.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9081671843870/6007562-EMB06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Ulterior Slim Pants - Men's",
+  "product_code": "6007-562",
+  "source_url": "https://www.mec.ca/en/product/6007-562/Ulterior-Slim-Pants",
+  "tech_specs": {
+    "Fabric content": [
+      "87% organically grown cotton",
+      "11% polyester",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Sri Lanka"
+    ],
+    "Pockets": [
+      "1 front drop-in",
+      "2 front slash",
+      "2 back"
+    ],
+    "Product sustainability": [
+      "Organically grown content"
+    ]
+  }
+}

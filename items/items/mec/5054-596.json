@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child clothing",
+    "Toddler and child swimwear",
+    "Toddler and child rashguards and sunguards",
+    "Shadow Long Sleeve Sun Shirt"
+  ],
+  "description": "Comfortable sun protection for canoe passengers and sandcastle engineers. The high neckline protects the vulnerable area at the back of a child's neck, and long sleeves provide full coverage.Made of polyester and LYCRA\u00ae fabric that resists chlorine and has a UPF 50 rating.Flatlocked seams prevent chafing from sand and salt.Long sleeves and high collar extend coverage.\n\nRegular fit\n\n\n\nFit guide\n\nTechnical garments, designed for specific activities have features that aren\u2019t always adaptable to general use. For example, cycling clothing is longer in the back and arms. Activity aside, the fit of MEC clothing falls into these categories:\n\n\n\n\n\nTight, with no room to spare.\n\n\n\n\n\nVery close fit, with a bit of room.\n\n\n\n\n\nGenerous, but not oversized.\n\n\n\n\n\nOversized with lots of room for layers.\n\n\nAll MEC men\u2019s and boy\u2019s pants are regular rise.\n\n\n\n\n        Sustainability\n\n\n\n\n\n\n\n\nBluesign\n\n\n\n\n\n\n\n\n\n\n\n                      Bluesign\u00ae Approved Material",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196311379998/5054596-WVP04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196311314462/5054596-OBL02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196311019550/5054596-LWV03.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196311379998/5054596-WVP04.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196311314462/5054596-OBL02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196311019550/5054596-LWV03.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196311379998/5054596-WVP04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196311314462/5054596-OBL02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196311019550/5054596-LWV03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196311379998/5054596-WVP04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196311314462/5054596-OBL02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9196311019550/5054596-LWV03.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Shadow Long Sleeve Sun Shirt - Children",
+  "product_code": "5054-596",
+  "source_url": "https://www.mec.ca/en/product/5054-596/Shadow-Long-Sleeve-Sun-Shirt",
+  "tech_specs": {
+    "Fabric content": [
+      "80% polyester",
+      "20% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Watersports"
+    ],
+    "Made in": [
+      "Turkey"
+    ],
+    "Product sustainability": [
+      "Bluesign\u00ae Approved Material"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

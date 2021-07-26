@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Pedals and cleats",
+    "Cleats",
+    "SM-SH11 SPD-SL 6-Degree Cleats"
+  ],
+  "description": "Replacement cleats that are compatible with virtually all road shoes.Designed to fit PD-7800, PD-7750, PD-6610, PD-R600, and PD-R540 Shimano pedals.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806927335454/5019173-YLW02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806927335454/5019173-YLW02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano SM-SH11 SPD-SL 6-Degree Cleats",
+  "product_code": "5019-173",
+  "source_url": "https://www.mec.ca/en/product/5019-173/SM-SH11-SPD-SL-6-Degree-Cleats",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Weight": [
+      "90g"
+    ]
+  }
+}

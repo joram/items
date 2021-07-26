@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Stoves, fuel and fire",
+    "Camp stoves and grills",
+    "Car camping stoves",
+    "Xcursion Stand-Up Grill"
+  ],
+  "description": "Flex your grilling muscles. The Xcursion's wheeled legs can be pulled to your lunch location and elevate the grill to the perfect height, without the need of a table. It sets up in minutes for front-country camping, picnics, or backyard grilling.2 independently adjustable burners let you grill steaks or boil lots of water.Even-Temp\u2122 technology ensures even heat distribution.Large, 1840sq.cm cast iron cooking surface.Water pan grease catch cleans up easily.Single side table holds utensils or ingredients.Scissor leg stand is simple to set up and collapse.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162539204638/6013572-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162520952862/6013572-RED00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162521280542/6013572-RED00-ALT-UPRIGHT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162539204638/6013572-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162520952862/6013572-RED00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162521280542/6013572-RED00-ALT-UPRIGHT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162539204638/6013572-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162520952862/6013572-RED00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162521280542/6013572-RED00-ALT-UPRIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162539204638/6013572-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162520952862/6013572-RED00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9162521280542/6013572-RED00-ALT-UPRIGHT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coleman Xcursion Stand-Up Grill",
+  "product_code": "6013-572",
+  "source_url": "https://www.mec.ca/en/product/6013-572/Xcursion-Stand-Up-Grill",
+  "tech_specs": {
+    "Cooking surface(s)": [
+      "Two burner"
+    ],
+    "Fuel\n\nStoves are designed to burn specific fuels. All stoves should only be used with recommended fuels to prevent damage.": [
+      "Propane"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Output\n\nThe output of any heat generating device is shown in BTUs (British Thermal Units) which measure the amount of heat energy needed to raise the temperature of 1lb. of water by 1\u00b0F.": [
+      "2 x 10,000BTU"
+    ],
+    "Piezo ignition": [
+      "Yes"
+    ],
+    "Pot included": [
+      "No"
+    ],
+    "Simmers": [
+      "Yes"
+    ],
+    "Windscreen": [
+      "No"
+    ]
+  }
+}

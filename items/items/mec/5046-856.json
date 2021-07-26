@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Accessory carabiners and key holders",
+    "Wire Gate Accessory Carabiner"
+  ],
+  "description": "A small aluminum accessory carabiner that's great for dog leashes, keys, and coffee mugs.Dimensions are 7 x 4.5cm.Not for climbing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632422942/5046856-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632488478/5046856-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632554014/5046856-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632619550/5046856-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632685086/5046856-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632422942/5046856-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632488478/5046856-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632554014/5046856-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632619550/5046856-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632685086/5046856-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632422942/5046856-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632488478/5046856-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632554014/5046856-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632619550/5046856-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632685086/5046856-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632422942/5046856-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632488478/5046856-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632554014/5046856-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632619550/5046856-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851632685086/5046856-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Wire Gate Accessory Carabiner",
+  "product_code": "5046-856",
+  "source_url": "https://www.mec.ca/en/product/5046-856/Wire-Gate-Accessory-Carabiner",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ]
+  }
+}

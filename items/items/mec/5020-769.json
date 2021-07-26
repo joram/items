@@ -1,0 +1,84 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Snacks",
+    "Chocolate bars",
+    "Dark Whole Hazelnut Chocolate Bar"
+  ],
+  "description": "A square-shaped 50% dark chocolate bar packed with delicious whole roasted hazelnuts. It breaks into convenient bite-sized pieces so you can easily share it with friends.May contain traces of peanuts.Ingredients: sugar, hazelnuts, cocoa butter, chocolate liquor, dried cream, non-fat dry milk, dried whey, lactose, milk fat, lecithin, and vanillin.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812457066526/5020769-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812457066526/5020769-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ritter Sport Dark Whole Hazelnut Chocolate Bar",
+  "product_code": "5020-769",
+  "source_url": "https://www.mec.ca/en/product/5020-769/Dark-Whole-Hazelnut-Chocolate-Bar",
+  "tech_specs": {
+    "Calories per serving": [
+      "566Cal"
+    ],
+    "Carbohydrates": [
+      "41g"
+    ],
+    "Cholesterol": [
+      "4.1mg"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "6.2g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "7g"
+    ],
+    "Saturated fat": [
+      "17.5g"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "12.6mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "38.6g"
+    ],
+    "Total fat": [
+      "40g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "100g"
+    ]
+  }
+}

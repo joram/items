@@ -1,0 +1,108 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Headlamps and lighting",
+    "Headlamps",
+    "Tikka Headlamp"
+  ],
+  "description": "Small and bright enough to be useful almost anywhere. Great for travel, camp chores or just looking in the crawlspace. With a big lumen boost, this version of the Tikka is better than ever.Single LED casts a wide even beam, best for proximity lighting.Red LED preserves night vision and won't disturb tent mates.Single button cycles through 3 brightness settings and red mode.Light dims gradually, rather than suddenly dimming and going dark.IPX4 water proofing resists splashing or light rain.Glow in the dark ring aids finding it in the dark.Compatible with CORE rechargeable battery pack and Ni-MH rechargeable batteries (neither included).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038358544414/6004568-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038667874334/6004568-NOCLR-ALT-CHARGEOPTIONS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038667743262/6004568-BL000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038668136478/6004568-BL000-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038358577182/6004568-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038358282270/6004568-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038358544414/6004568-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038667874334/6004568-NOCLR-ALT-CHARGEOPTIONS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038667743262/6004568-BL000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038668136478/6004568-BL000-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038358577182/6004568-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038358282270/6004568-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038358544414/6004568-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038667874334/6004568-NOCLR-ALT-CHARGEOPTIONS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038667743262/6004568-BL000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038668136478/6004568-BL000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038358577182/6004568-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038358282270/6004568-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038358544414/6004568-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038667874334/6004568-NOCLR-ALT-CHARGEOPTIONS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038667743262/6004568-BL000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038668136478/6004568-BL000-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038358577182/6004568-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9038358282270/6004568-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Petzl Tikka Headlamp",
+  "product_code": "6004-568",
+  "source_url": "https://www.mec.ca/en/product/6004-568/Tikka-Headlamp",
+  "tech_specs": {
+    "Batteries": [
+      "3 AAA (included) or rechargeable battery pack (not included)"
+    ],
+    "Beam distance - high": [
+      "65m"
+    ],
+    "Beam distance - low": [
+      "10m"
+    ],
+    "Beam distance - med": [
+      "40m"
+    ],
+    "Beam pattern\n\nBeam pattern affects how much you can see within the area of light thrown from the headlamp. Wide beams are good for close-up; spot or focussed beams are good for long range visibility.": [
+      "Wide"
+    ],
+    "Boost mode\n\nBriefly increases the light output to maximum brightness and distance.": [
+      "No"
+    ],
+    "Burn time - high": [
+      "2\u00a0h"
+    ],
+    "Burn time - low": [
+      "120\u00a0h"
+    ],
+    "Burn time - med": [
+      "9\u00a0h"
+    ],
+    "Flash mode": [
+      "No"
+    ],
+    "IPX rating\n\nIndicates the degree of protection against liquid. IP X1: Dripping water while in normal operating orientation; IP X4: Splashing water; IP X5: Water jets; IP X6: Powerful water jets; IP X7: Immersion up to 1m \u2264 30 minutes; IP X8: Suitable for submersion as specified by manufacturer.": [
+      "IP X4"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Camping and hiking"
+    ],
+    "Light modes\n\nThe number of lighting levels/modes the light has (i.e., low, med, high, flash).": [
+      "4 modes"
+    ],
+    "Light source": [
+      "1 LED",
+      "1 red LED"
+    ],
+    "Made in": [
+      "Malaysia"
+    ],
+    "Max light output\n\nThe total quantity of light emitted in every direction from a source of light; measured in lumens.": [
+      "300\u00a0lumens"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Non-rechargeable"
+    ],
+    "Red light mode": [
+      "Yes"
+    ],
+    "Regulated output\n\nOn regulated lights brightness is consistent, and does not decrease gradually as the batteries are drained.": [
+      "No"
+    ],
+    "Weight": [
+      "86g"
+    ]
+  }
+}

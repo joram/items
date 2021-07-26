@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Ropes, cords and slings",
+    "Rope bags and accessories",
+    "Super Chute Rope Bag"
+  ],
+  "description": "A traditional rope bag with a large, innovative funnel-shaped tarp that makes loading easy. Lift up the corners of the tarp, and the rope shoots into the bag. No fuss, no muss.Bag is 400-denier nylon.Tarp is 200-denier nylon.Adjustable padded shoulder strap.Tie-in point helps locate the end of your rope.Capacity is 25L, ample room for long or fat lines.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938216521758/5039762-NKL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024247070750/5039762-BK000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090894364702/5039762-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938216521758/5039762-NKL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024247070750/5039762-BK000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090894364702/5039762-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938216521758/5039762-NKL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024247070750/5039762-BK000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090894364702/5039762-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8938216521758/5039762-NKL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024247070750/5039762-BK000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090894364702/5039762-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Super Chute Rope Bag",
+  "product_code": "5039-762",
+  "source_url": "https://www.mec.ca/en/product/5039-762/Super-Chute-Rope-Bag",
+  "tech_specs": {
+    "Bag fabric": [
+      "400-denier nylon"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Made in": [
+      "Philippines"
+    ],
+    "Tarp dimensions": [
+      "146\u00a0x\u00a0126cm"
+    ],
+    "Tarp included": [
+      "Yes"
+    ],
+    "Tie-down loops": [
+      "Yes"
+    ],
+    "Volume": [
+      "25L"
+    ],
+    "Weight": [
+      "486g"
+    ]
+  }
+}

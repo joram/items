@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Algonquin Provincial Park Backpacking Trails"
+  ],
+  "description": "Includes the 3 multi-day backpacking trails in the interior of Algonquin Park with outlines on backpacker rules and regulations as well as a helpful trip planning section.  Each of the 3 trails has its own scale and map with designated campsites.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089348829214/6011101-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089348829214/6011101-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Friends of Algonquin Park Algonquin Provincial Park Backpacking Trails",
+  "product_code": "6011-101",
+  "source_url": "https://www.mec.ca/en/product/6011-101/Algonquin-Provincial-Park-Backpacking-Trails",
+  "tech_specs": {
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2020"
+    ],
+    "Regionality": [
+      "Ontario"
+    ],
+    "Tearproof": [
+      "No"
+    ],
+    "Waterproof": [
+      "No"
+    ]
+  }
+}

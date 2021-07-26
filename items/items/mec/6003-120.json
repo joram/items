@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Footwear accessories",
+    "Gaiters",
+    "Crocodile Gaiters"
+  ],
+  "description": "Technical and tough gaiters for climbing and hiking. Rugged Cordura panels hold up to abrasion and prevents crampon punctures. A slightly larger circumference ensures they fit over mountaineering boots.Upper panel is 3-layer GORE-TEX\u00ae with an abrasion-resistant 70-denier nylon face.Lower panel is hard-wearing 1000-denier Cordura\u00ae nylon.Overlapping hook-and-loop closure is easy to put on and take off.Reinforced bootlace hooks keep gaiters in place.Buckle top closure provides a tight seal.Adjustable TPU-reinforced polyester webbing instep strap holds up to trail and mountain abuse.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028407328798/6003120-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030047072286/6003120-BK000-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030047760414/6003120-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028407328798/6003120-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030047072286/6003120-BK000-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030047760414/6003120-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028407328798/6003120-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030047072286/6003120-BK000-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030047760414/6003120-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9028407328798/6003120-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030047072286/6003120-BK000-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9030047760414/6003120-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outdoor Research Crocodile Gaiters - Men's",
+  "product_code": "6003-120",
+  "source_url": "https://www.mec.ca/en/product/6003-120/Crocodile-Gaiters",
+  "tech_specs": {
+    "Closure": [
+      "Hook-and-loop"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Backpacking"
+    ],
+    "Lower material": [
+      "Nylon"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Underarch material": [
+      "Polyurethane strap"
+    ],
+    "Waterproof": [
+      "Yes"
+    ],
+    "Weight": [
+      "289g (Large)"
+    ]
+  }
+}

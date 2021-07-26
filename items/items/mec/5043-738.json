@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill ski boots",
+    "Pure 70 Ski Boots"
+  ],
+  "description": "On-slope versatility and the essential boot-fitting elements to ensure high-performance power, precision, and comfort for intermediate skiers.  A wider (102mm) fit and sensor grid technology deliver comfort. A women-specific OptiSensor Thinsulate\u2122 liner wraps and supports your foot. Durable grip soles give you traction and won't wear out walking over rocks or rough snow. Pair them with Walk to Ride rockered soles for even easier hiking and walking \u2013 after all, you\u2019re here to move.Sensor blade polyurethane shell and cuff is forgiving and provides a precise, performance fit that wraps your foot comfortably.Women's OptiSensor T4 liner with Thinsulate insulation in the forefoot, have a lower cuff height, tulip-shaped rear flare with a scalloped profile to accommodate a woman\u2019s calf shape.4 diagonal aluminum micro-buckles with 3-position adjustable teeth deliver an enveloping fit, easy on-off convenience, and support.40mm power strap.Power wrap one-piece toe-box tongue.Interchangeable rockered Walk to Ride soles (available separately) offer an easy hike-walk experience.Canting adjustment for a neutral stance.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817095901214/5043738-BK093.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817095901214/5043738-BK093.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rossignol Pure 70 Ski Boots - Women's",
+  "product_code": "5043-738",
+  "source_url": "https://www.mec.ca/en/product/5043-738/Pure-70-Ski-Boots",
+  "tech_specs": {
+    "Boot/binding compatibility\n\nThe boot and binding systems must match for best performance and safe use.": [
+      "Downhill"
+    ],
+    "Buckles": [
+      "4"
+    ],
+    "Flex index\n\nIndicates how stiff the boots are when flexed forward.  Flex ranges from 50 (soft) to 130 (very stiff). Note: There is currently no industry standardized test.": [
+      "70"
+    ],
+    "Hike mode\n\nA mechanism that allows to release the boot cuff to switch to tour mode.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Last width\n\nThe width of the interior of the boot shell across the widest part of the forefoot.": [
+      "102mm"
+    ],
+    "Lower shell material": [
+      "Polymer"
+    ],
+    "Made in": [
+      "Romania"
+    ],
+    "Shell cuff material": [
+      "Polymer"
+    ],
+    "Sole type\n\nAlpine Touring: with tread; compatible with DIN touring bindings. Alpine Touring Tech (Tech): with tread; compatible with G3 Onyx and Dynafit. Downhill: without tread; compatible with freeride/downhill bindings.": [
+      "Downhill",
+      "Alpine Touring WTR (sold seperately)"
+    ],
+    "Thermoformable inner boot": [
+      "Yes"
+    ]
+  }
+}

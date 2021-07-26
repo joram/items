@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Swimsuits",
+    "One-piece swimsuits",
+    "Reaper Diamondfit Swimsuit"
+  ],
+  "description": "A streamlined suit that offers coverage and won\u2019t interfere with your hydrodynamics. From training for your first triathlon, to just fitting in a few laps, the Reaper Diamondfit swimsuit offers a 360 degree range of motion.TYR Durafast Elite\u2122 polyester is chlorine and fade resistant.Fabric provides UPF 50+ sun protection.Full lining has an antimicrobial treatment.Flexible straps and keyhole back allow complete freedom of movement.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488819742/6008724-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488983582/6008724-GRN00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488819742/6008724-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488983582/6008724-GRN00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488819742/6008724-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488983582/6008724-GRN00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488819742/6008724-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9106488983582/6008724-GRN00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "TYR Reaper Diamondfit Swimsuit - Women's",
+  "product_code": "6008-724",
+  "source_url": "https://www.mec.ca/en/product/6008-724/Reaper-Diamondfit-Swimsuit",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Antimicrobial treatment"
+    ],
+    "Fabric content": [
+      "94% polyester",
+      "6% spandex"
+    ],
+    "Ideal for": [
+      "Swim training",
+      "Swim triathlon"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

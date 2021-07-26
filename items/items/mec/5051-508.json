@@ -1,0 +1,116 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Daypacks and school bags",
+    "Daypacks",
+    "Robin Pack"
+  ],
+  "description": "A rugged backpack for intrepid cycle commuters. Rolltop and raincover protect your laptop and goods. Expansion panels on the side let you grab a few groceries on the way home. Lots of reflective elements help you stand out on dark streets and shady parking lots.Made of super durable 940-denier Cordura nylon with panels of water-resistant vinyl.When the rain comes down hard, deploy the included reflective ripstop-nylon rain cover from its dedicated pocket.Rolltop closure and hidden expansion panels increase capacity when needed.Lots of pockets keep you organized. Interior slip pocket fits a 13 in. laptop.Hidden loop under the bottom front panel lets you attach a blinky light.Incognito reflective mesh panel is subtle when not in use and illuminates when hit with direct light.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042331566110/5051508-OVE01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864705773598/5051508-JBL00-ALT-ACTION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864645316638/5051508-JBL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864705806366/5051508-JBL00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864705970206/5051508-JBL00-ALT-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864706068510/5051508-JBL00-ALT-LIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864646922270/5051508-JBL00-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864646561822/5051508-JBL00-ALT-MODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864646594590/5051508-JBL00-ALT-NIGHTLIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864647446558/5051508-JBL00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864647413790/5051508-JBL00-ALT-OUT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8863837782046/5051508-JBL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042331566110/5051508-OVE01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864705773598/5051508-JBL00-ALT-ACTION.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864645316638/5051508-JBL00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864705806366/5051508-JBL00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864705970206/5051508-JBL00-ALT-DETAIL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864706068510/5051508-JBL00-ALT-LIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864646922270/5051508-JBL00-ALT-MODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864646561822/5051508-JBL00-ALT-MODEL2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864646594590/5051508-JBL00-ALT-NIGHTLIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864647446558/5051508-JBL00-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864647413790/5051508-JBL00-ALT-OUT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8863837782046/5051508-JBL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042331566110/5051508-OVE01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864705773598/5051508-JBL00-ALT-ACTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864645316638/5051508-JBL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864705806366/5051508-JBL00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864705970206/5051508-JBL00-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864706068510/5051508-JBL00-ALT-LIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864646922270/5051508-JBL00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864646561822/5051508-JBL00-ALT-MODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864646594590/5051508-JBL00-ALT-NIGHTLIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864647446558/5051508-JBL00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864647413790/5051508-JBL00-ALT-OUT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8863837782046/5051508-JBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9042331566110/5051508-OVE01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864705773598/5051508-JBL00-ALT-ACTION.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864645316638/5051508-JBL00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864705806366/5051508-JBL00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864705970206/5051508-JBL00-ALT-DETAIL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864706068510/5051508-JBL00-ALT-LIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864646922270/5051508-JBL00-ALT-MODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864646561822/5051508-JBL00-ALT-MODEL2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864646594590/5051508-JBL00-ALT-NIGHTLIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864647446558/5051508-JBL00-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8864647413790/5051508-JBL00-ALT-OUT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8863837782046/5051508-JBL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Timbuk2 Robin Pack - Unisex",
+  "product_code": "5051-508",
+  "source_url": "https://www.mec.ca/en/product/5051-508/Robin-Pack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top"
+    ],
+    "Additional feature(s)": [
+      "Rain cover included",
+      "Reflective details"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Depth": [
+      "13cm"
+    ],
+    "Dynamic suspension\n\nThe hipbelt and/or shoulder straps of the pack are designed to move, pivot or flex to follow your body\u2019s movements.  Each brand uses their own technology.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling",
+      "School",
+      "Office"
+    ],
+    "Length": [
+      "50cm"
+    ],
+    "Made in": [
+      "Indonesia"
+    ],
+    "Main fabric": [
+      "940-denier Cordura nylon"
+    ],
+    "Padded sleeve fits most\n\nA padded slot to fit electronics or laptops, it may be partially or fully padded on each side.": [
+      "13-inch laptop"
+    ],
+    "Ventilated back panel": [
+      "No"
+    ],
+    "Volume": [
+      "20L"
+    ],
+    "Weight": [
+      "889g"
+    ],
+    "Width": [
+      "28cm"
+    ]
+  }
+}

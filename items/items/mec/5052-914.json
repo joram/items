@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid supplies",
+    "Kinesiology Tape - I Cut"
+  ],
+  "description": "Elastic tape that allows mobility without restricting blood flow. Using it raises awareness of injured, or prone to injury area, and helps reduce the risk of further damage.Breathable, multi-directional stretch allows full range of motion.Can be worn for multiple days.Includes 10 precut pieces (25 x 5cm).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855034363934/5052914-PNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856301633566/5052914-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856302059550/5052914-BK000-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854266380318/5052914-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854266150942/5052914-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855034363934/5052914-PNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856301633566/5052914-BK000-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856302059550/5052914-BK000-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854266380318/5052914-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854266150942/5052914-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855034363934/5052914-PNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856301633566/5052914-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856302059550/5052914-BK000-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854266380318/5052914-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854266150942/5052914-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8855034363934/5052914-PNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856301633566/5052914-BK000-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8856302059550/5052914-BK000-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854266380318/5052914-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8854266150942/5052914-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pro-Tec Athletics Kinesiology Tape - I Cut",
+  "product_code": "5052-914",
+  "source_url": "https://www.mec.ca/en/product/5052-914/Kinesiology-Tape---I-Cut",
+  "tech_specs": {
+    "Ideal for": [
+      "Fitness and training",
+      "Running"
+    ],
+    "Made in": [
+      "Taiwan"
+    ]
+  }
+}

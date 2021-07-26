@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "Chargers and adapters",
+    "Adapters",
+    "Travel Adaptors - Australia and China"
+  ],
+  "description": "Plug in far away from home. This adapter connects an ungrounded 2-prong appliance to an outlet so you can keep your travel essentials powered. (Note that this adapter is not a voltage converter. Your device must be compatible with the voltage of the outlet you\u2019re using.)Includes 2 adapter plugs.Suitable for use with angled 2-prong plugs found in Australia and China.Accepts non-grounded plugs only (not 3-prong).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9067239178270/6008210-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9067239178270/6008210-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sea To Summit Travel Adaptors - Australia and China",
+  "product_code": "6008-210",
+  "source_url": "https://www.mec.ca/en/product/6008-210/Travel-Adaptors---Australia-and-China",
+  "tech_specs": {
+    "Converts voltage": [
+      "No"
+    ],
+    "Female plug type(s)\n\nPlug types accepted by this device.": [
+      "Type A",
+      "Type C"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Male plug type(s)\n\nTypes of outlet this device can be plugged into.": [
+      "Type I"
+    ],
+    "Weight": [
+      "27g"
+    ]
+  }
+}

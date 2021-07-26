@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Kayaks",
+    "Recreational kayaks",
+    "GT 105 Kayak"
+  ],
+  "description": "Paddling fun for the whole family. This sit-in kayak is stable and easy to manoeuvre, perfect for novice or experienced paddler exploring lakes, rivers, inlets or estuaries. It's designed with handy features, such as carry handles, a storage hatch, and an adjustable seat and foot rests.Stable hull design made of durable roto-moulded plastic.Oversized sit-inside cockpit, with adjustable footrests.Full sized seat, with adjustable back rest.Deck bungees and front cup holder.Large stern bulkhead storage with rubber hatch.Drain plug.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200829235230/6015225-COB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200852664350/6015225-COB00-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201857822750/6015225-COB00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201857855518/6015225-COB00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201857888286/6015225-COB00-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200829235230/6015225-COB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200852664350/6015225-COB00-ALT-D.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201857822750/6015225-COB00-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201857855518/6015225-COB00-ALT-C.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201857888286/6015225-COB00-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200829235230/6015225-COB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200852664350/6015225-COB00-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201857822750/6015225-COB00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201857855518/6015225-COB00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201857888286/6015225-COB00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200829235230/6015225-COB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9200852664350/6015225-COB00-ALT-D.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201857822750/6015225-COB00-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201857855518/6015225-COB00-ALT-C.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9201857888286/6015225-COB00-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Seastream GT 105 Kayak",
+  "product_code": "6015-225",
+  "source_url": "https://www.mec.ca/en/product/6015-225/GT-105-Kayak",
+  "tech_specs": {
+    "Beam": [
+      "71cm (28in.)"
+    ],
+    "Hull material": [
+      "Single-layer roto-moulded plastic"
+    ],
+    "Ideal for": [
+      "Cottage and recreational kayaking"
+    ],
+    "Length": [
+      "3.2m\u00a0(10ft.\u00a06in.)"
+    ],
+    "Load": [
+      "150kg (330lb.)"
+    ],
+    "Made in": [
+      "Thailand"
+    ],
+    "Weight": [
+      "20.87kg"
+    ]
+  }
+}

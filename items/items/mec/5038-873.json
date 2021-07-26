@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Emergency and survival gear",
+    "Emergency blankets and bivies",
+    "Emergency XL Bivvy Sack"
+  ],
+  "description": "Sized for 2 people, this emergency bivy sack allows you to efficiently conserve body heat and stay dry. The metalized fabric reflects up to 90% of your radiated body heat. It's waterproof, windproof, and extremely light. Comes with its own extra-large stuff sack, which will also accommodate extra survival gear.Made of vacuum-metalized polyethylene.Stuff sack is made of silnylon.Dimensions are 213cm x 152cm",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010009047070/5038873-ORG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010009079838/5038873-ORG00-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010091065374/5038873-ORG00-ALT-UNPACKED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010009047070/5038873-ORG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010009079838/5038873-ORG00-ALT-INUSE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010091065374/5038873-ORG00-ALT-UNPACKED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010009047070/5038873-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010009079838/5038873-ORG00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010091065374/5038873-ORG00-ALT-UNPACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010009047070/5038873-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010009079838/5038873-ORG00-ALT-INUSE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9010091065374/5038873-ORG00-ALT-UNPACKED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Survive Outdoors Longer Emergency XL Bivvy Sack",
+  "product_code": "5038-873",
+  "source_url": "https://www.mec.ca/en/product/5038-873/Emergency-XL-Bivvy-Sack",
+  "tech_specs": {
+    "Dimensions": [
+      "2.13\u00a0x\u00a01.52m"
+    ],
+    "Fabric": [
+      "Polyethylene"
+    ],
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Stuff sack": [
+      "Yes"
+    ],
+    "Weight": [
+      "164g"
+    ]
+  }
+}

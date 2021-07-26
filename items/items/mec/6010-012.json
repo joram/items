@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Ski socks",
+    "Ski Lightweight Socks"
+  ],
+  "description": "Combines lovely merino wool with technical fibres to balance insulation with comfort. These lightweight socks offer warmth and cushioning for long days in your boots.Full terry knit foot for added warmth and cushioning with padding through toes, heels, shins and calves.Elasticated arch support prevents bunching and provides a performance fit.Flat toe seam for added comfort.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145824772126/6010012-GRS07.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9145824772126/6010012-GRS07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Bridgedale Ski Lightweight Socks - Unisex",
+  "product_code": "6010-012",
+  "source_url": "https://www.mec.ca/en/product/6010-012/Ski-Lightweight-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Knee"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot",
+      "Shin"
+    ],
+    "Fabric content": [
+      "51% nylon",
+      "20% merino wool",
+      "20% polypropylene",
+      "7% nylon",
+      "2% elastane"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Backcountry skiing",
+      "Snowboarding"
+    ],
+    "Made in": [
+      "South Africa"
+    ],
+    "Thickness": [
+      "Thin"
+    ]
+  }
+}

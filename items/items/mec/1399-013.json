@@ -1,0 +1,47 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Tent pegs and stakes",
+    "Aluminum Wire Tent Peg"
+  ],
+  "description": "Try bending one of these babies! They may look the same, but these superior-grade aluminum tent pegs are far stronger than most of their competitors.Made of 7001-T6 aluminum.Length is 18cm (7in.).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816273424414/1399013-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8816273424414/1399013-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Aluminum Wire Tent Peg",
+  "product_code": "1399-013",
+  "source_url": "https://www.mec.ca/en/product/1399-013/Aluminum-Wire-Tent-Peg",
+  "tech_specs": {
+    "Best used in": [
+      "Firm ground"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Car camping"
+    ],
+    "Length": [
+      "18cm"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "7001 T6 aluminum"
+    ],
+    "Sold as": [
+      "Individually"
+    ],
+    "Weight": [
+      "14g"
+    ]
+  }
+}

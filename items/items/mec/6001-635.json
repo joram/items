@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Kayaking",
+    "Kayak paddles",
+    "Whitewater",
+    "Rage FX Kayak Paddle"
+  ],
+  "description": "For river running, the medium power forgives misplaced plants or eddy ambushes, while the high performance dihedral lets you exercise precise control. Whether you\u2019re a beginner or an expert, the Accent Rage has a place in your paddle quiver.Nylon blade is reinforced with fibreglass for stiffness and durability.Shaft is ovalled to allow blade orientation without looking.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021968842782/6001635-IVR00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021968842782/6001635-IVR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Accent Rage FX Kayak Paddle",
+  "product_code": "6001-635",
+  "source_url": "https://www.mec.ca/en/product/6001-635/Rage-FX-Kayak-Paddle",
+  "tech_specs": {
+    "Blade angle": [
+      "30\u00b0"
+    ],
+    "Blade dimensions": [
+      "46\u00a0x\u00a020cm\u00a0(18.1\u00a0x\u00a07.7in.)"
+    ],
+    "Blade material": [
+      "Fibreglass reinforced plastic"
+    ],
+    "Blade shape\n\nBlade shapes are designed to apply power efficiently. Short, wide: immediate power. Long, narrow: better leverage in turbulent water. Wing: channels water for maximum power and speed.": [
+      "Whitewater"
+    ],
+    "Feathered\n\nThe angle of two blades relative to one another. Parallel blade = unfeathered. Offset blades = feathered. Feathered paddles reduce wind resistance. Adjustable paddles can be adjusted left or right.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Kayak river running",
+      "Kayak creeking",
+      "Freestyle and rodeo kayaking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Shaft material": [
+      "Fibreglass/carbon blend"
+    ],
+    "Shaft type": [
+      "Straight"
+    ],
+    "Weight": [
+      "1.02kg (194cm)"
+    ]
+  }
+}

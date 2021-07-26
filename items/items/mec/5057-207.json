@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling footwear",
+    "Shoe covers",
+    "Toe Thingy 2"
+  ],
+  "description": "Keep your feet warm without overheating. These toe covers blunt the wind and shed water, while letting the rest of your shoe breathe. In really brutal weather, layer them under full shoe covers for extra insulation.Made of 90% neoprene, 10% nylon.Rugged, rubberized sole with cleat openings that hold the covers in place.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930425667614/5057207-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930425667614/5057207-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Castelli Toe Thingy 2 - Unisex",
+  "product_code": "5057-207",
+  "source_url": "https://www.mec.ca/en/product/5057-207/Toe-Thingy-2",
+  "tech_specs": {
+    "Closure": [
+      "Slip-on"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Main material": [
+      "Neoprene"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Weight": [
+      "62g"
+    ]
+  }
+}

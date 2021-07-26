@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill skis",
+    "Flair 79 Skis + Bindings"
+  ],
+  "description": "This zippy ski is all about turn style \u2013 it goes wide and fast on groomers. Volkl\u2019s Flair 79 has a dual woodcore and a steel layer above it to tune the ride. The setup gives you lots of pop with stability from the sandwich construction and the dampening effect of a layer of steel. Weight-optimized Wideride XL light bindings keep you locked in so you can play all day.Dual Woodcore XL balances energy and weight for a very responsive feel.3D.Ridge construction removes some material near the ski's edges to reduce the swing weight.A layer of steel improves dampness and torsinal stiffness.Sandwich construction results in very durable edges.XTD tip and tail rocker helps with turn initiation and release.GripWalk-compatible iPT WiderideXL TCX  bindings are included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228499486/6011643-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136245407774/6011643-NOC02-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228499486/6011643-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136245407774/6011643-NOC02-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228499486/6011643-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136245407774/6011643-NOC02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136228499486/6011643-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9136245407774/6011643-NOC02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Volkl Flair 79 Skis + Bindings - Women's",
+  "product_code": "6011-643",
+  "source_url": "https://www.mec.ca/en/product/6011-643/Flair-79-Skis-%2B-Bindings",
+  "tech_specs": {
+    "Ability\n\nBeginner: new or getting back into skiing.  Intermediate: confident with turning and stopping.  Advanced: highly confident carver. Expert: steeps, drops, park, double blacks -- bring it on.": [
+      "Intermediate",
+      "Advanced"
+    ],
+    "Bindings included": [
+      "Yes"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Sandwich"
+    ],
+    "Core": [
+      "Wood"
+    ],
+    "Dimension": [
+      "129-79-109 mmmm"
+    ],
+    "Ideal for": [
+      "Downhill skiing"
+    ],
+    "Made in": [
+      "Germany"
+    ],
+    "Rocker/camber profile": [
+      "Rocker tip"
+    ],
+    "Snow conditions": [
+      "Mixed",
+      "Groomed"
+    ],
+    "Terrain": [
+      "On-Piste"
+    ],
+    "Turning radius": [
+      "11.8m (149cm)",
+      "12.7m (156cm)",
+      "14.1m (163cm)"
+    ],
+    "Weight": [
+      "5.03kg (149cm)",
+      "5.22kg (156cm)",
+      "5.5kg (163cm)"
+    ]
+  }
+}

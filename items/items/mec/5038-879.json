@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Long-Distance Hiking"
+  ],
+  "description": "When you're ready for a multi-week trip and are thinking about equipment and logistics, this book will help you meet the challenges. Includes advice about the nutrition of trail foods, dealing with medical issues, avoiding repetitive stress injury and dealing with weather and animals. You\u2019ll learn how to manage a hiking budget, choose trail food and arrange resupply, select gear, and keep the right frame of mind. There\u2019s lots of instructive feedback from ACT and PCT thru-hikers on gear, food, and more.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815761752094/5038879-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815761752094/5038879-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Stackpole Long-Distance Hiking",
+  "product_code": "5038-879",
+  "source_url": "https://www.mec.ca/en/product/5038-879/Long-Distance-Hiking",
+  "tech_specs": {
+    "Author": [
+      "Dan Feldman"
+    ],
+    "ISBN": [
+      "9780811712279"
+    ],
+    "Ideal for": [
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "224"
+    ],
+    "Published": [
+      "2013"
+    ]
+  }
+}

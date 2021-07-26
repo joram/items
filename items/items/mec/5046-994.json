@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Drivetrain systems",
+    "Bike cassettes and freewheels",
+    "Tiagra CS-HG500 10 Spd 11-32T Cassette"
+  ],
+  "description": "This 10-speed cassette offers fast, smooth and quiet shifting.Compatible with HG and HG-X 10 speed chains.Nickel-plated steel cogs.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806745735198/5046994-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806745735198/5046994-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano Tiagra CS-HG500 10 Spd 11-32T Cassette",
+  "product_code": "5046-994",
+  "source_url": "https://www.mec.ca/en/product/5046-994/Tiagra-CS-HG500-10-Spd-11-32T-Cassette",
+  "tech_specs": {
+    "Compatibility": [
+      "10-speed"
+    ],
+    "Gear ratio": [
+      "11-32T"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "Japan"
+    ],
+    "Nickel plated\n\nNickel plating can increase durability and product life.": [
+      "Yes"
+    ],
+    "Type": [
+      "Cassette"
+    ],
+    "Weight": [
+      "390g"
+    ]
+  }
+}

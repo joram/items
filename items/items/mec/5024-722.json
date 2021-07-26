@@ -1,0 +1,91 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike accessories",
+    "Fenders",
+    "Cascadia II Road Fenders"
+  ],
+  "description": "These full-coverage bike fenders feature new safety release tabs on the front V-stays at the fork attachment points. They fit 700 wheelsets and road bikes.Made of superflex, unbreakable all-weather polycarbonate.130mm mudflaps for additional coverage, double-riveted for durability.Hardware is stainless steel, pre-installed for hassle-free mounting.V-stays for added stability.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806386204702/5024722-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443107358/5024722-BK000-ALT-ATTACHMENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443172894/5024722-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443238430/5024722-BK000-ALT-BACKS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443271198/5024722-BK000-ALT-BACKSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443369502/5024722-BK000-ALT-FRONTSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443402270/5024722-BK000-ALT-PARTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070209925150/5024722-BK000-ALT-LIFESTYLE1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070210023454/5024722-BK000-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070210449438/5024722-BK000-ALT-LIFESTYLE3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070210482206/5024722-BK000-ALT-LIFESTYLE4.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806386204702/5024722-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443107358/5024722-BK000-ALT-ATTACHMENTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443172894/5024722-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443238430/5024722-BK000-ALT-BACKS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443271198/5024722-BK000-ALT-BACKSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443369502/5024722-BK000-ALT-FRONTSIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443402270/5024722-BK000-ALT-PARTS.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070209925150/5024722-BK000-ALT-LIFESTYLE1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070210023454/5024722-BK000-ALT-LIFESTYLE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070210449438/5024722-BK000-ALT-LIFESTYLE3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070210482206/5024722-BK000-ALT-LIFESTYLE4.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806386204702/5024722-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443107358/5024722-BK000-ALT-ATTACHMENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443172894/5024722-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443238430/5024722-BK000-ALT-BACKS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443271198/5024722-BK000-ALT-BACKSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443369502/5024722-BK000-ALT-FRONTSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443402270/5024722-BK000-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070209925150/5024722-BK000-ALT-LIFESTYLE1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070210023454/5024722-BK000-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070210449438/5024722-BK000-ALT-LIFESTYLE3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070210482206/5024722-BK000-ALT-LIFESTYLE4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806386204702/5024722-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443107358/5024722-BK000-ALT-ATTACHMENTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443172894/5024722-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443238430/5024722-BK000-ALT-BACKS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443271198/5024722-BK000-ALT-BACKSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443369502/5024722-BK000-ALT-FRONTSIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9068443402270/5024722-BK000-ALT-PARTS.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070209925150/5024722-BK000-ALT-LIFESTYLE1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070210023454/5024722-BK000-ALT-LIFESTYLE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070210449438/5024722-BK000-ALT-LIFESTYLE3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9070210482206/5024722-BK000-ALT-LIFESTYLE4.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike Cascadia II Road Fenders",
+  "product_code": "5024-722",
+  "source_url": "https://www.mec.ca/en/product/5024-722/Cascadia-II-Road-Fenders",
+  "tech_specs": {
+    "Attachment type": [
+      "Hardware"
+    ],
+    "Fits tires": [
+      "up to 700\u00a0x\u00a025mm"
+    ],
+    "Ideal for": [
+      "Road cycling",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Polycarbonate"
+    ],
+    "Sold": [
+      "Pair"
+    ],
+    "V-stays": [
+      "Yes"
+    ],
+    "Weight": [
+      "650g"
+    ]
+  }
+}

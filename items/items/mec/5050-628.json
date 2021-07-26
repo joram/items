@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Tent poles",
+    "Monadnock 4-Person 4-Season Tent Pole Set"
+  ],
+  "description": "Replacement pole set for the MEC Monadnock Tent.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8877516750878/5050628-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8877516750878/5050628-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Monadnock 4-Person 4-Season Tent Pole Set",
+  "product_code": "5050-628",
+  "source_url": "https://www.mec.ca/en/product/5050-628/Monadnock-4-Person-4-Season-Tent-Pole-Set",
+  "tech_specs": {
+    "Ideal for": [
+      "Winter and expedition camping"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ],
+    "Pole": [
+      "DAC Featherlite NSL 7001 T6 aluminum"
+    ],
+    "Pole diameter": [
+      "11mm"
+    ]
+  }
+}

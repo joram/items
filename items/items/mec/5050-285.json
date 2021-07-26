@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Ulysses Fabuleuse Cuba"
+  ],
+  "description": "Explore Old Havana, soak up the live music scene, or relax on the beach all with this trusted travel guide to Cuba. Included are photos, maps and comprehensive planning tools to help you get the most out of your trip. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815704473630/5050285-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815704473630/5050285-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses Ulysses Fabuleuse Cuba",
+  "product_code": "5050-285",
+  "source_url": "https://www.mec.ca/en/product/5050-285/Ulysses-Fabuleuse-Cuba",
+  "tech_specs": {
+    "ISBN": [
+      "9782894646366"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "224"
+    ],
+    "Published": [
+      "2015"
+    ],
+    "Regionality": [
+      "Central America"
+    ]
+  }
+}

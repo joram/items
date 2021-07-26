@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Horizon Beanie"
+  ],
+  "description": "Warmer days are on the horizon. Until then, this beanie adds a layer of warmth and style to your day.Double-layer acrylic is soft and warm.Fabric has UPF 50+ sun protection.Cuff it when you mean business, wear it slouchy when it's time to relax.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148710420510/6013518-TBS02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700393502/6013518-TBS02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700459038/6013518-TBS02-ALT-PATTERN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700622878/6013518-TBS02-ALT-ROLL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148710158366/6013518-SST13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148709961758/6013518-CDS02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148710420510/6013518-TBS02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700393502/6013518-TBS02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700459038/6013518-TBS02-ALT-PATTERN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700622878/6013518-TBS02-ALT-ROLL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148710158366/6013518-SST13.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148709961758/6013518-CDS02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148710420510/6013518-TBS02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700393502/6013518-TBS02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700459038/6013518-TBS02-ALT-PATTERN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700622878/6013518-TBS02-ALT-ROLL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148710158366/6013518-SST13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148709961758/6013518-CDS02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148710420510/6013518-TBS02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700393502/6013518-TBS02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700459038/6013518-TBS02-ALT-PATTERN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148700622878/6013518-TBS02-ALT-ROLL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148710158366/6013518-SST13.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9148709961758/6013518-CDS02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Sunday Afternoons Horizon Beanie - Unisex",
+  "product_code": "6013-518",
+  "source_url": "https://www.mec.ca/en/product/6013-518/Horizon-Beanie",
+  "tech_specs": {
+    "Fabric content": [
+      "100% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

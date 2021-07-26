@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike helmets and body armour",
+    "Body armour",
+    "Sendy Elbows"
+  ],
+  "description": "Tame the tumbles. These protective elbow pads allow for trial and error, without all the scrapes and bruises.Tear resistant cover, with breathable mesh backer.Removable D3O foam padding.2 Velcro\u00ae straps for adjustment.Recommended age: 8 to 12 years.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097909501982/6008604-SEH00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9097909501982/6008604-SEH00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Race Face Sendy Elbows - Youths",
+  "product_code": "6008-604",
+  "source_url": "https://www.mec.ca/en/product/6008-604/Sendy-Elbows",
+  "tech_specs": {
+    "Ideal for": [
+      "Mountain biking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Padding": [
+      "D3O"
+    ],
+    "Protection zone": [
+      "Knee"
+    ],
+    "Type": [
+      "Strap-on"
+    ]
+  }
+}

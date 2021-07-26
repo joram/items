@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Glacier National Park - Rogers Pass Summer Ma"
+  ],
+  "description": "A 1:50,000-scale map with more than 150km of hiking, skiing, and interpretive trails for the Rogers Pass and Glacier National Park area. Chart out your route to the Tupper, Avalanche, Illecillewaet, Asulkan, and Bonney glaciers, or the Hermit, Sir Donald, and Asulkan ranges.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815808741406/4011053-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815808741406/4011053-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Map Glacier National Park - Rogers Pass Summer Map",
+  "product_code": "4011-053",
+  "source_url": "https://www.mec.ca/en/product/4011-053/Glacier-National-Park---Rogers-Pass-Summer-Ma",
+  "tech_specs": {
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Scale": [
+      "1:50,000"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

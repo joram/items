@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Knife sharpeners and whetsones",
+    "Handle Wax 28g"
+  ],
+  "description": "Keep your axe haft looking great for years to come with this handle hax.Blend of plant-based oils and Canadian beeswax.Designed to treat and protect leather and wood.Petroleum free.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024691306526/6000806-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9024691306526/6000806-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Knife & Axe Handle Wax 28g",
+  "product_code": "6000-806",
+  "source_url": "https://www.mec.ca/en/product/6000-806/Handle-Wax-28g",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Canada"
+    ]
+  }
+}

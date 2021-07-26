@@ -1,0 +1,88 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Drinks",
+    "Coffee, tea and hot chocolate",
+    "Whole Milk Powder"
+  ],
+  "description": "Rehydrate by mixing with water, a luxurious addition to your morning coffee or enjoy on its own. Just don\u2019t forget the cookies.Ingredients: dried whole milk.May contain: nuts, egg, fish, sea food, mustard and milk.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188143595550/6012201-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132290590/6012201-NOC02-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188143595550/6012201-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132290590/6012201-NOC02-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188143595550/6012201-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132290590/6012201-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188143595550/6012201-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9188132290590/6012201-NOC02-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Happy Yak Whole Milk Powder",
+  "product_code": "6012-201",
+  "source_url": "https://www.mec.ca/en/product/6012-201/Whole-Milk-Powder",
+  "tech_specs": {
+    "Calories per serving": [
+      "120Cal"
+    ],
+    "Carbohydrates": [
+      "0g"
+    ],
+    "Cholesterol": [
+      "25mg"
+    ],
+    "Cook in package\n\nThe food can be cooked simply by adding hot water into the sealable package.": [
+      "Yes"
+    ],
+    "Dairy free": [
+      "No"
+    ],
+    "Dietary fibre": [
+      "0g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "7g"
+    ],
+    "Saturated fat": [
+      "4g"
+    ],
+    "Serving size": [
+      "\u00bc package"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "95mg"
+    ],
+    "Sugar": [
+      "10g"
+    ],
+    "Total fat": [
+      "7g"
+    ],
+    "Weight": [
+      "100g"
+    ]
+  }
+}

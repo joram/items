@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Algonquin - Barron/Achray Map"
+  ],
+  "description": "A 1:40,000-scale map of the popular Barron/Achray area on the east side of Algonquin Provincial Park. Home to the 100-m deep Barron Canyon, this section of the park also includes the Berm Lake Trail and the Eastern Pines Backpacking Trail. Use this map to plan a paddling trip along the Barron River, or the Grand, Stratton, St. Andrews, Opalescent, or Sec Lake canoe routes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815815295006/4015850-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815815295006/4015850-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Adventure Map Algonquin - Barron/Achray Map",
+  "product_code": "4015-850",
+  "source_url": "https://www.mec.ca/en/product/4015-850/Algonquin---Barron-Achray-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel",
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "Ontario"
+    ],
+    "Scale": [
+      "1:40,000"
+    ]
+  }
+}

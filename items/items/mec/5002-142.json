@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski tuning and tools",
+    "Ski wax",
+    "V-Line Wax"
+  ],
+  "description": "Developed for both racing and recreational skiing, this hard kickwax works best on new snow, or older snow that hasn't risen above 0\u00b0C.Contains 45g.V05 Polar. Fresh snow:-12 to -25\u00b0C. Old snow: -15 to -30\u00b0C.V20 Green. Fresh snow: -8 to -15\u00b0C. Old snow: -10 to -18\u00b0C.V30 Blue. Fresh snow: -2 to -10\u00b0C. Old snow: -5 to -15\u00b0C.V40 Blue Extra. Fresh snow: -1 to -7\u00b0C. Old snow: -3 to -10\u00b0C.V45 Violet Special. Fresh snow: 0 to -3\u00b0C. Old snow: -2 to -6\u00b0C.V50 Violet. Fresh snow: 0\u00b0C. Old snow: -1 to -3\u00b0C.V55 Red Special. Fresh snow: +1 to 0\u00b0C. Old snow: 0 to -2\u00b0C.V60 Red/Silver. Fresh snow: +3 to 0\u00b0C. Old snow: +1 to -1\u00b0C.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817211867166/5002142-PLR00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8817211867166/5002142-PLR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Swix V-Line Wax",
+  "product_code": "5002-142",
+  "source_url": "https://www.mec.ca/en/product/5002-142/V-Line-Wax",
+  "tech_specs": {
+    "Ideal for": [
+      "Cross-country classic skiing",
+      "Off-track touring"
+    ],
+    "Made in": [
+      "Norway"
+    ],
+    "State": [
+      "Bar"
+    ],
+    "Temperature range": [
+      "-25/-12\u00b0C",
+      "-20/-10\u00b0C",
+      "-15/-8\u00b0C",
+      "-10/-2\u00b0C",
+      "-7/-1\u00b0C",
+      "-3/0\u00b0C",
+      "0\u00b0C",
+      "0/+1\u00b0C",
+      "0/+3\u00b0C"
+    ],
+    "Type": [
+      "Grip"
+    ],
+    "Weight": [
+      "45g"
+    ]
+  }
+}

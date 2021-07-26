@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Rock hardware",
+    "Aid climbing gear",
+    "Universal Soft Piton"
+  ],
+  "description": "Soft pitons are essential on softer rock, like limestone, where you need something to mould into fissures without damaging the rock. The head angle provides ample holding power for both vertical and horizontal placements.Made of soft carbon steel that can mould into cracks.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022002888734/5064209-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023067258910/5064209-SIL00-ALT-LONGER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022002888734/5064209-SIL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023067258910/5064209-SIL00-ALT-LONGER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022002888734/5064209-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023067258910/5064209-SIL00-ALT-LONGER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9022002888734/5064209-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023067258910/5064209-SIL00-ALT-LONGER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Universal Soft Piton",
+  "product_code": "5064-209",
+  "source_url": "https://www.mec.ca/en/product/5064-209/Universal-Soft-Piton",
+  "tech_specs": {
+    "Ideal for": [
+      "Aid climbing"
+    ],
+    "Length": [
+      "100mm (10cm)",
+      "150mm (15 cm)",
+      "125mm (12 cm)"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Material": [
+      "Carbon steel"
+    ],
+    "Thickness": [
+      "6mm"
+    ],
+    "Weight": [
+      "63g (10cm)",
+      "104g (15 cm)",
+      "89g (12 cm)"
+    ]
+  }
+}

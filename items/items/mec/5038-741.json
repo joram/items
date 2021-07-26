@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Marine navigation",
+    "Maps",
+    "Desolation Sound Waterproof Map"
+  ],
+  "description": "Printed on synthetic paper that\u2019s waterproof and tear-proof, this paddlers map covers Desolation Sound with details such as campsites, launch locations and scenic features.Dimensions are 56 x 91cm when open, 10 x 28cm folded.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815856287774/5038741-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815856386078/5038741-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815856287774/5038741-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815856386078/5038741-NOC02-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815856287774/5038741-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815856386078/5038741-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815856287774/5038741-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815856386078/5038741-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Desolation Sound Waterproof Map",
+  "product_code": "5038-741",
+  "source_url": "https://www.mec.ca/en/product/5038-741/Desolation-Sound-Waterproof-Map",
+  "tech_specs": {
+    "Ideal for": [
+      "Kayak touring",
+      "Canoe tripping"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ],
+    "Tearproof": [
+      "Yes"
+    ],
+    "Waterproof": [
+      "Yes"
+    ]
+  }
+}

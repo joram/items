@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike wheels",
+    "Single wheels",
+    "C303 27\" 36H QR Front Wheel"
+  ],
+  "description": "A 27in. bike wheel that offers good value, durability, performance, and control.Made of pin-jointed, single wall aluminum.36-hole rim.Fits Schrader valves.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806636191774/5037742-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806636191774/5037742-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Alex C303 27\" 36H QR Front Wheel",
+  "product_code": "5037-742",
+  "source_url": "https://www.mec.ca/en/product/5037-742/C303-27%22-36H-QR-Front-Wheel",
+  "tech_specs": {
+    "Ideal for": [
+      "Sport road cycling"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Retention device": [
+      "Quick-release"
+    ],
+    "Rim ERD\n\nEffective Rim Diameter (ERD) is measured in millimeters. It is needed for calculating the correct spoke length.": [
+      "619"
+    ],
+    "Size": [
+      "27in."
+    ],
+    "Spoke count": [
+      "36"
+    ],
+    "Tire type": [
+      "Clincher"
+    ],
+    "Valve compatibility\n\nThe type of tube valve the rim will accommodate. Most Schrader wheels can be retrofitted to fit Presta valves.": [
+      "Schrader"
+    ],
+    "Weight": [
+      "1.19kg"
+    ]
+  }
+}

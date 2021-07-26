@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Mountaineering axes",
+    "Corsa Ice Axe"
+  ],
+  "description": "For ski mountaineering or adventure racing where low weight is key, this hyperlight axe has you covered. The hollow shaft has a nylon plug to keep snow from building up inside.7075-T6 aluminum alloy head and shaft.Hollow shaft with tapered point works as a light spike.Head slot accepts a leash.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143677190174/6010906-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143677190174/6010906-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Corsa Ice Axe",
+  "product_code": "6010-906",
+  "source_url": "https://www.mec.ca/en/product/6010-906/Corsa-Ice-Axe",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Adze"
+    ],
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Ski mountaineering"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "60cm (60cm)",
+      "70cm (70cm)",
+      "50cm (50cm)"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Removable pick": [
+      "No"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Strength": [
+      "B-rated"
+    ],
+    "Weight": [
+      "232g (60cm)",
+      "261g (70cm)",
+      "202g (50cm)"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Camp pillows",
+    "Compressible Large Pillow"
+  ],
+  "description": "An ultra-soft, generous pillow for trekkers and travellers who like creature comforts. Rolls up into its own built-in, drawcord-closure pocket for easy storage.Case is made from soft, comfortable brushed polyester.Fill is soft, expandable, foam cut-out pieces.Rolls into a built-in pocket that has a drawcord closure.Dimensions are 41 x 58 x 10cm",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708099614/5052426-FGP02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182817058846/5052426-BWD01-ALT-FOLD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182817091614/5052426-BWD01-ALT-MULTIPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708197918/5052426-FGP02-SWATCH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182811783198/5052426-BWD01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708099614/5052426-FGP02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182817058846/5052426-BWD01-ALT-FOLD.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182817091614/5052426-BWD01-ALT-MULTIPLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708197918/5052426-FGP02-SWATCH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182811783198/5052426-BWD01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708099614/5052426-FGP02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182817058846/5052426-BWD01-ALT-FOLD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182817091614/5052426-BWD01-ALT-MULTIPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708197918/5052426-FGP02-SWATCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182811783198/5052426-BWD01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708099614/5052426-FGP02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182817058846/5052426-BWD01-ALT-FOLD.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182817091614/5052426-BWD01-ALT-MULTIPLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708197918/5052426-FGP02-SWATCH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182811783198/5052426-BWD01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Therm-a-Rest Compressible Large Pillow",
+  "product_code": "5052-426",
+  "source_url": "https://www.mec.ca/en/product/5052-426/Compressible-Large-Pillow",
+  "tech_specs": {
+    "Dimensions": [
+      "42\u00a0x\u00a067\u00a0x\u00a010cm"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Polyester"
+    ],
+    "Weight": [
+      "340g"
+    ]
+  }
+}

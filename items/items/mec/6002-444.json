@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Popular Day Hikes: Vancouver Island - Revised"
+  ],
+  "description": "This unique and colourful guidebook features the very best day hikes on Vancouver Island, with locations throughout the region. With hikes ranging from 6 km to 25 km and from easy to challenging, these routes are all accessible from generally reliable roads. Each hike includes: detailed directions to trailheads, colour maps and photographs, seasonal information, round-trip distances, trail commentary and difficulty ratings. Revised second edition features a fresh design and the most current route updates.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072331294/6002444-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9032072331294/6002444-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Popular Day Hikes: Vancouver Island - Revised",
+  "product_code": "6002-444",
+  "source_url": "https://www.mec.ca/en/product/6002-444/Popular-Day-Hikes%3A-Vancouver-Island---Revised",
+  "tech_specs": {
+    "Author": [
+      "Theo Domrobowski"
+    ],
+    "Edition": [
+      "2nd"
+    ],
+    "ISBN": [
+      "9781771602839"
+    ],
+    "Ideal for": [
+      "Day hiking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "152"
+    ],
+    "Published": [
+      "2019"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

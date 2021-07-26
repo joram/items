@@ -1,0 +1,86 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike racks, carriers and storage",
+    "Car bike racks",
+    "Hitch-mounted racks",
+    "Hangover 6 Bike Rack"
+  ],
+  "description": "Transport your motley crew to the trailhead along with their bikes. With an integrated lock loop, you can add a bike lock for extra peace of mind.Vertical hanging design, with padding to protect your bike's fork.Capacity: 6 bikes (37.5 lbs max each).Designed for bikes with suspension-forks.Fits fat bikes and various wheelbases.Tilt mechanism for tailgate access.Integrated lock loop (bike lock not included).Hitch lock included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090896199710/6007970-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693333022/6007970-BK000-ALT-BOTTLEOPENER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693365790/6007970-BK000-ALT-LEVER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693529630/6007970-BK000-ALT-LOADED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693759006/6007970-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693791774/6007970-BK000-ALT-SIDE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693824542/6007970-BK000-ALT-SIDE3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693857310/6007970-BK000-ALT-STRAP2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090896199710/6007970-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693333022/6007970-BK000-ALT-BOTTLEOPENER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693365790/6007970-BK000-ALT-LEVER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693529630/6007970-BK000-ALT-LOADED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693759006/6007970-BK000-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693791774/6007970-BK000-ALT-SIDE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693824542/6007970-BK000-ALT-SIDE3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693857310/6007970-BK000-ALT-STRAP2.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090896199710/6007970-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693333022/6007970-BK000-ALT-BOTTLEOPENER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693365790/6007970-BK000-ALT-LEVER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693529630/6007970-BK000-ALT-LOADED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693759006/6007970-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693791774/6007970-BK000-ALT-SIDE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693824542/6007970-BK000-ALT-SIDE3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693857310/6007970-BK000-ALT-STRAP2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090896199710/6007970-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693333022/6007970-BK000-ALT-BOTTLEOPENER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693365790/6007970-BK000-ALT-LEVER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693529630/6007970-BK000-ALT-LOADED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693759006/6007970-BK000-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693791774/6007970-BK000-ALT-SIDE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693824542/6007970-BK000-ALT-SIDE3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090693857310/6007970-BK000-ALT-STRAP2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Yakima Hangover 6 Bike Rack",
+  "product_code": "6007-970",
+  "source_url": "https://www.mec.ca/en/product/6007-970/Hangover-6-Bike-Rack",
+  "tech_specs": {
+    "Folding": [
+      "No"
+    ],
+    "Ideal for": [
+      "Freeride and downhill riding",
+      "Cross-country riding",
+      "Trail riding",
+      "Enduro"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Steel"
+    ],
+    "Maximum carrying capacity": [
+      "102kg"
+    ],
+    "Number of bikes": [
+      "6"
+    ],
+    "Rear hatch access": [
+      "Yes"
+    ],
+    "Receiver class\n\nThe receiver class of the hitch. Type 1 and 2 are most common on cars and trucks.": [
+      "3 (2in.) + 4 (2in.)"
+    ],
+    "Type": [
+      "Hitch mount bike"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tool components",
+    "Hot Forged Mixed Pick"
+  ],
+  "description": "A replacement mixed pick for Black Diamond\u2122 interchangeable-pick ice tools. Made for drytooling, its aggressive front teeth aid hooking and a thick design adds durability and strength. The serrated top edge won't slip when cammed.Made of hot-forged chromoly steel.3-degrees steeper pick angle than previous model.T-rated \u2013 thicker and stronger than B-rated picks, but displaces more ice.Sold individually.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044914274334/6001777-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9044914274334/6001777-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Hot Forged Mixed Pick",
+  "product_code": "6001-777",
+  "source_url": "https://www.mec.ca/en/product/6001-777/Hot-Forged-Mixed-Pick",
+  "tech_specs": {
+    "Ideal for": [
+      "Ice climbing"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "97g"
+    ]
+  }
+}

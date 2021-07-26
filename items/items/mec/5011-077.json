@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Bike gauges and measuring tools",
+    "Alpine Digital Scale"
+  ],
+  "description": "You work hard to optimize your own strength-to-weight ratio. Do the same with your ride. This digital scale clamps to any bicycle repair stand or hangs from a hook to weigh your bike, wheels, and components.Rubber coated hook protects your frame's finish and prevents bike from sliding.Rubber housing is shock-resistant.Easy to read LCD displayFor small parts, hang a tray or bag on the hook and re-zero the scale.Measures up to 25kg, displays metric or imperial, with 0.005% accuracy.Auto shut-off saves powerUses 4 AAA batteries (included).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806591823902/5011077-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806591823902/5011077-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Feedback Sports Alpine Digital Scale",
+  "product_code": "5011-077",
+  "source_url": "https://www.mec.ca/en/product/5011-077/Alpine-Digital-Scale",
+  "tech_specs": {
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

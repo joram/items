@@ -1,0 +1,75 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Sleeping bags, sleeping pads, quilts and pillows",
+    "Sleeping pads",
+    "Closed-cell foam sleeping pads",
+    "Twistercane Bio Foam Hiking Pad"
+  ],
+  "description": "Made from sugarcane, this carbon-negative pad will have you dreaming sweet dreams. On warm nights the closed-cell foam is all you need to catch some Zzzzs. When the temperature drops, layer the TwisterCane under an inflatable sleeping pad for extra warmth and a cozy sleep.EVA foam contains more than 60% sustainably grown sugarcane resin.Sourced from farms that use Proforest\u00ae standards, audited by a third party.Smooth top surface, tire-tread bottom surface hugs uneven ground.Rolls tight for easy packing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160514207774/6012248-GRN07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160765538334/6012248-GRN07-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160765767710/6012248-GRN07-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160514207774/6012248-GRN07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160765538334/6012248-GRN07-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160765767710/6012248-GRN07-ALT-BOTTOM.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160514207774/6012248-GRN07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160765538334/6012248-GRN07-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160765767710/6012248-GRN07-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160514207774/6012248-GRN07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160765538334/6012248-GRN07-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160765767710/6012248-GRN07-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Big Agnes Twistercane Bio Foam Hiking Pad",
+  "product_code": "6012-248",
+  "source_url": "https://www.mec.ca/en/product/6012-248/Twistercane-Bio-Foam-Hiking-Pad",
+  "tech_specs": {
+    "Capacity\n\nThe number of average sized people that the product can comfortably sleep.": [
+      "1-person"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Winter and expedition camping"
+    ],
+    "Insulation": [
+      "Closed-cell foam"
+    ],
+    "Length": [
+      "183cm"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "R value (thermal resistance)\n\nMeasures insulative value. Higher values indicate more warmth: 1 to 3 are best for warm weather. 3 to 4 are best for 3-season use.4.5 or higher is best for winter.": [
+      "1.7"
+    ],
+    "Rolled diameter": [
+      "18cm"
+    ],
+    "Rolled length": [
+      "51cm"
+    ],
+    "Shape": [
+      "Rectangle"
+    ],
+    "Thickness": [
+      "1.3cm"
+    ],
+    "Type": [
+      "Foam pad"
+    ],
+    "Weight": [
+      "397g"
+    ],
+    "Width": [
+      "51cm"
+    ]
+  }
+}

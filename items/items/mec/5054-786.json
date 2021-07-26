@@ -1,0 +1,87 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Snacks",
+    "Chocolate bars",
+    "Mango Dark Chocolate Bar"
+  ],
+  "description": "Let the bright sweetness of fresh mango flood your mouth, finished with a hint of sour lime, smooth sea salt and fiery chile, for a celebration of flavour that must be experienced to be understood.Ingredients: 60% dark chocolate (cacao, sugar, cacao butter, sunflower lecithin [as an emulsifier], natural vanilla), dried mango (mango, cane sugar), pasilla, citric acid, sea salt, lime.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8874898456606/5054786-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8874898456606/5054786-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Chuao Mango Dark Chocolate Bar",
+  "product_code": "5054-786",
+  "source_url": "https://www.mec.ca/en/product/5054-786/Mango-Dark-Chocolate-Bar",
+  "tech_specs": {
+    "Calories per serving": [
+      "190Cal"
+    ],
+    "Carbohydrates": [
+      "24g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "3g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "2g"
+    ],
+    "Saturated fat": [
+      "7g"
+    ],
+    "Serving size": [
+      "1/2 bar"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "90mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "17g"
+    ],
+    "Total fat": [
+      "12g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "80g"
+    ]
+  }
+}

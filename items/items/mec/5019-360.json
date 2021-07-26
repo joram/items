@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Fun Climbs Red Rocks"
+  ],
+  "description": "For visiting climbers who aren't seeking late-night epic finishes. This guide provides info on moderate sport climbs, top-rope areas, and long but accessible multi-pitch routes. Visit one of the premier winter destinations in the US, and have fun.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815601352734/5019360-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815601352734/5019360-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Fun Climbs Red Rocks",
+  "product_code": "5019-360",
+  "source_url": "https://www.mec.ca/en/product/5019-360/Fun-Climbs-Red-Rocks",
+  "tech_specs": {
+    "Author": [
+      "Jason D. Martin"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "9781892540560"
+    ],
+    "Ideal for": [
+      "Sport and toprope climbing",
+      "Rock climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "203"
+    ],
+    "Published": [
+      "2009"
+    ],
+    "Regionality": [
+      "USA"
+    ]
+  }
+}

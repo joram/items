@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Sun hats",
+    "Trek Bucket Hat"
+  ],
+  "description": "Prevent your head from getting soggy or crisp. The fabric offers shelter from sun and rain, and the hat fits inside its own pocket when the sun sets.Ultralight polyester and elastane has a water-repellent finish.Moisture wicking band keeps sweat out of your eyes.Fits into it's own storage pocket.Adjustable drawstring anchors it in the wind.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158289948702/6012385-RMB02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158289850398/6012385-ACB01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158289948702/6012385-RMB02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158289850398/6012385-ACB01.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158289948702/6012385-RMB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158289850398/6012385-ACB01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158289948702/6012385-RMB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9158289850398/6012385-ACB01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Buff Trek Bucket Hat - Unisex",
+  "product_code": "6012-385",
+  "source_url": "https://www.mec.ca/en/product/6012-385/Trek-Bucket-Hat",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Stuffs in own pocket"
+    ],
+    "Fabric content": [
+      "90% polyester",
+      "10% elastane"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking",
+      "Travel"
+    ],
+    "Made in": [
+      "Spain"
+    ],
+    "Secondary fabric": [
+      "100% polyester"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike computers",
+    "Wireless bike computers",
+    "Padrone Bike Computer"
+  ],
+  "description": "With no wires to get in your way and a large, easy to read screen, this bike computer is a great addition to your cockpit. Keep focused on the road or trail, and let the large, high-contrast display tell you all about your ride at a glance.Wireless set-up.Current speed.Maximum speed.Average speed.Trip distance.Total distance.Elapsed time.Clock.FlexTight\u2122 universal bracket fits all handlebars and stems.Coin cell batteries in the computer and sensor, computer lasts around 1 year with 1 hour a day of use, sensor lasts for approximately 10,000km of riding.Easy to use ClickTec\u2122 button controls.Large displayDimensions: 68 x 43 x 15mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100925665310/6011084-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9100925665310/6011084-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Cat Eye Padrone Bike Computer",
+  "product_code": "6011-084",
+  "source_url": "https://www.mec.ca/en/product/6011-084/Padrone-Bike-Computer",
+  "tech_specs": {
+    "Alarm": [
+      "No"
+    ],
+    "Altimeter": [
+      "No"
+    ],
+    "Auto sleep\n\nAutomatically switches to sleep mode to preserve battery.": [
+      "Yes"
+    ],
+    "Auto start/stop\n\nAutomatically starts tracking data when riding, and stops tracking data when stopped.": [
+      "Yes"
+    ],
+    "Average speed": [
+      "Yes"
+    ],
+    "Batteries": [
+      "2 lithium CR2032 (included)"
+    ],
+    "Cadence\n\nRevolutions of crankset per minute.": [
+      "No"
+    ],
+    "Clock": [
+      "Yes"
+    ],
+    "Countdown timer": [
+      "No"
+    ],
+    "Current speed": [
+      "Yes"
+    ],
+    "Heart rate monitor": [
+      "No"
+    ],
+    "Ideal for": [
+      "Sport road cycling",
+      "Cycle commuting",
+      "Cycle touring"
+    ],
+    "Illumination": [
+      "No"
+    ],
+    "Included mounts": [
+      "Handlebar mount"
+    ],
+    "Low battery warning": [
+      "Yes"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Maximum speed": [
+      "Yes"
+    ],
+    "Oversized handlebar mount": [
+      "Yes"
+    ],
+    "Speed comparator\n\nIndicates pace relative to average speed.": [
+      "No"
+    ],
+    "Speed tendency\n\nIndicates whether the rider is accelerating or decelerating.": [
+      "No"
+    ],
+    "Stopwatch": [
+      "Yes"
+    ],
+    "Temperature": [
+      "No"
+    ],
+    "Time trial timer": [
+      "No"
+    ],
+    "Total odometer": [
+      "Yes"
+    ],
+    "Transmitting range\n\nMaximum distance between sensor and computer.": [
+      "70cm"
+    ],
+    "Trip odometer": [
+      "Yes"
+    ],
+    "Two bike compatibility\n\nCan be set up for two separate bikes.": [
+      "No"
+    ]
+  }
+}

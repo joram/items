@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Socks",
+    "Ski socks",
+    "The Brave Adult Socks"
+  ],
+  "description": "Chasing first turns or setting fresh tracks? These socks are designed to reduce bulk inside ski boots and provide cushion where it counts. Mesh ventilation zones allow them to breathe.Ski boot adapted cushioning on feet and shins for all day comfort.Mesh ventilation for maximum breathability and dryness.Movement support on arch and ankle allows the sock to move with you.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046121742366/6003050-BCR12.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046121742366/6003050-BCR12.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Kombi The Brave Adult Socks - Unisex",
+  "product_code": "6003-050",
+  "source_url": "https://www.mec.ca/en/product/6003-050/The-Brave-Adult-Socks",
+  "tech_specs": {
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "Yes"
+    ],
+    "Cuff height": [
+      "Knee"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot",
+      "Shin"
+    ],
+    "Fabric content": [
+      "68% acrylic",
+      "23% nylon",
+      "7% polyester",
+      "2% spandex"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Downhill skiing",
+      "Snowboarding",
+      "Snowshoeing",
+      "Alpine climbing and mountaineering"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

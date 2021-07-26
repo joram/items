@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water bottles",
+    "Collapsible bottles",
+    "Ultraflask 600ml"
+  ],
+  "description": "At 600ml, this is the largest of the Ultraflask family, but it's small enough to fit in most hydration vest pockets.  The beauty of a soft-bottle \u2013 once empty it compacts to a fraction of its full size.Removable drink tube can be cut to length.Fits in most hydration vest, belt or pack pockets.Body is 0.4mm BPA-free thermoplastic polyurethane with a nice, grippy feel.Cap configurations: high-flow, silicone bite valve mounted directly to the cap or with the strap in between.RF welded to create superior bonds.42mm opening is easy to fill, clean, or add drink mix.Can be frozen or filled with warm water (max temp 140\u00b0F / 60\u00b0C).",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8933541937182/5058362-MAB15.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948682948638/5058362-MAB15-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948688748574/5058362-MAB15-ALT-HYDRATIONLID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948690386974/5058362-MAB15-ALT-COLLAPSED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8933541937182/5058362-MAB15.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948682948638/5058362-MAB15-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948688748574/5058362-MAB15-ALT-HYDRATIONLID.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948690386974/5058362-MAB15-ALT-COLLAPSED.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8933541937182/5058362-MAB15.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948682948638/5058362-MAB15-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948688748574/5058362-MAB15-ALT-HYDRATIONLID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948690386974/5058362-MAB15-ALT-COLLAPSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8933541937182/5058362-MAB15.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948682948638/5058362-MAB15-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948688748574/5058362-MAB15-ALT-HYDRATIONLID.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8948690386974/5058362-MAB15-ALT-COLLAPSED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Hydrapak Ultraflask 600ml",
+  "product_code": "5058-362",
+  "source_url": "https://www.mec.ca/en/product/5058-362/Ultraflask-600ml",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Running",
+      "Trail running",
+      "Run triathlon",
+      "Fitness and training"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lid type": [
+      "Screw-top"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Polyurethane"
+    ],
+    "Volume": [
+      "600ml"
+    ],
+    "Water filter compatible": [
+      "No"
+    ],
+    "Weight": [
+      "47g"
+    ]
+  }
+}

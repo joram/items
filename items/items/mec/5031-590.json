@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bicycle pumps",
+    "CO2 inflators",
+    "25g Threaded CO2 Cartridge (2 Pack)"
+  ],
+  "description": "Reload your Planet Bike Air Kiss or Red Zeppelin or similar inflators that use a threaded attachment. The 25g charge suits 29in. tires and high pressure touring tires well.Contains pure CO2 with no oils or contaminants.100% recyclable steel cartridges (most MEC stores can accept empty cartridges for recycling).Package of 2.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806455410718/5031590-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806455410718/5031590-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Planet Bike 25g Threaded CO2 Cartridge (2 Pack)",
+  "product_code": "5031-590",
+  "source_url": "https://www.mec.ca/en/product/5031-590/25g-Threaded-CO2-Cartridge-%282-Pack%29",
+  "tech_specs": {
+    "Ideal for": [
+      "Road cycling",
+      "Cyclocross"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Weight": [
+      "191g"
+    ]
+  }
+}

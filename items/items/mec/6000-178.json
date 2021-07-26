@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Long sleeved shirts",
+    "Heritage Crew"
+  ],
+  "description": "This modernized version of a classic style in a warm mid-weight fabric. Just right for shoulder-seasons, cool evenings and over air-conditioned workplaces.Made of durable polyester blended with soft cotton.Heavier-weight ribbed collar and cuffs keeps it shape.Raglan sleeves move the seams off the tops of your shoulders.Cut slimmer through the body than the usual sweatshirt-y fit.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195466424350/6000178-SUM11.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473371166/6000178-SUM11-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473338398/6000178-BRB14-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195469701150/6000178-BRB14.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195466424350/6000178-SUM11.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473371166/6000178-SUM11-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473338398/6000178-BRB14-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195469701150/6000178-BRB14.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195466424350/6000178-SUM11.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473371166/6000178-SUM11-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473338398/6000178-BRB14-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195469701150/6000178-BRB14.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195466424350/6000178-SUM11.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473371166/6000178-SUM11-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195473338398/6000178-BRB14-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9195469701150/6000178-BRB14.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "The North Face Heritage Crew - Women's",
+  "product_code": "6000-178",
+  "source_url": "https://www.mec.ca/en/product/6000-178/Heritage-Crew",
+  "tech_specs": {
+    "Fabric content": [
+      "57% polyester",
+      "43% cotton"
+    ],
+    "Fabric weight\n\nMeasured in grams per square metre (gsm). The larger the number, the heavier and thicker the garment.": [
+      "280gsm"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Guatemala"
+    ]
+  }
+}

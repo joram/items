@@ -1,0 +1,93 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Avalanche safety gear",
+    "Avalanche beacons and transceivers",
+    "Barryvox S"
+  ],
+  "description": "An intuitive transceiver that's simple and efficient to use. Mammut\u2019s redesign of the Barryvox (a leading industry beacon for almost 10 years) focused on instinctive use in a highly stressful emergency. Antennas and processors allow a 70m-wide search strip. Quick and accurate arrow direction quickly gets you where you need to be. A better screen, marking and unmarking capabilities, analogue mode and advanced search settings make this pro model ideal for ski guides, ski patrollers and heavy users who use various search methods.Ergonomic design is impact-proof and can be operated with gloves on.Software is user-friendly and uses 3 intuitive buttons for navigation.Can be updated when new functions are added.Buried beacons can be marked and unmarked to speed up searching in multiple-burial scenarios.Display is backlit and easy to read, even with polarized sunglasses.Audio and visual guidance provides information on distance, direction and number of victims.Group test function activates itself when you turn the beacon on.70m search strips speed up signal pick-up.Auto-revert function will switch a searching beacon to send mode after the beacon has remained immobile for 4 minutes.Automatic self-test, frequency check and function test ensure your beacon is always functioning properly.Analog mode, with an 80m search strip width, can help resolve demanding search scenarios.Vital sign data helps rescuers allocate resources.Device continues to guide rescuers to the buried subject even through signal failures or overlaps.Start screen and user texts can be customized with your own info.Send mode battery life is 300 hours, search is 1 hour Llithium batteries last slightly longer.Pro-Search mode helps solve the most difficult scenarios that require the use of micro-strips, three-circle or micro-box search techniques.Barryvox\u00ae carrying system protects the transceiver while being easy to use with one hand.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926071291934/5054876-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997308446/5054876-NOC02-ALT-LIFE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997603358/5054876-NOC02-ALT-LIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997701662/5054876-NOC02-ALT-HAND3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997996574/5054876-NOC02-ALT-HAND2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916998062110/5054876-NOC02-ALT-HAND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926069489694/5054876-NOC02-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926071291934/5054876-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997308446/5054876-NOC02-ALT-LIFE2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997603358/5054876-NOC02-ALT-LIFE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997701662/5054876-NOC02-ALT-HAND3.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997996574/5054876-NOC02-ALT-HAND2.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916998062110/5054876-NOC02-ALT-HAND.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926069489694/5054876-NOC02-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926071291934/5054876-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997308446/5054876-NOC02-ALT-LIFE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997603358/5054876-NOC02-ALT-LIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997701662/5054876-NOC02-ALT-HAND3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997996574/5054876-NOC02-ALT-HAND2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916998062110/5054876-NOC02-ALT-HAND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926069489694/5054876-NOC02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926071291934/5054876-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997308446/5054876-NOC02-ALT-LIFE2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997603358/5054876-NOC02-ALT-LIFE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997701662/5054876-NOC02-ALT-HAND3.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916997996574/5054876-NOC02-ALT-HAND2.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8916998062110/5054876-NOC02-ALT-HAND.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926069489694/5054876-NOC02-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mammut Barryvox S Transceiver",
+  "product_code": "5054-876",
+  "source_url": "https://www.mec.ca/en/product/5054-876/Barryvox-S",
+  "tech_specs": {
+    "Auto-revert to transmit": [
+      "Yes"
+    ],
+    "Batteries": [
+      "3 AAA (included)"
+    ],
+    "Burial direction indicator": [
+      "Arrow"
+    ],
+    "Buried transmitter display": [
+      "1, 2, 3, 4, 5+ victims"
+    ],
+    "Dimensions": [
+      "6.7\u00a0x\u00a02.7\u00a0x\u00a011.5cm"
+    ],
+    "Earphone compatible": [
+      "No"
+    ],
+    "Ideal for": [
+      "Backcountry skiing",
+      "Mountain snowshoeing"
+    ],
+    "Made in": [
+      "Switzerland"
+    ],
+    "Mark function": [
+      "Mark and unmark"
+    ],
+    "Multiple burial modes": [
+      "Yes"
+    ],
+    "Receiving antennas": [
+      "3"
+    ],
+    "Search strip width": [
+      "70m"
+    ],
+    "Type": [
+      "Digital beacon"
+    ],
+    "Weight": [
+      "205g"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Gym climbing and indoor training",
+    "Climbing training gear",
+    "Strength Trainer (3 Pack)"
+  ],
+  "description": "Warm up to avoid injuries to the wrist, fingers, or forearm with this 3-pack of resilient rubberized donuts.3 distinct resistances to build strength.100% rubber.9cm diameter.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9062484213790/6000528-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9062484213790/6000528-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "So Ill Strength Trainer (3 Pack)",
+  "product_code": "6000-528",
+  "source_url": "https://www.mec.ca/en/product/6000-528/Strength-Trainer-%283-Pack%29",
+  "tech_specs": {
+    "Ideal for": [
+      "Climbing training"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

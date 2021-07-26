@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Pack accessories",
+    "Buckles and accessories",
+    "Rock Lockster 25mm Dual Adjust Buckle"
+  ],
+  "description": "A 25 millimetre dual-adjust replacement buckle.Male and female parts sold separately.Not compatible with some other buckle styles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815566487582/5006373-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815566258206/5006373-NOC02-ALT-FEMALE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815566290974/5006373-NOC02-ALT-MALE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815566487582/5006373-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815566258206/5006373-NOC02-ALT-FEMALE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815566290974/5006373-NOC02-ALT-MALE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815566487582/5006373-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815566258206/5006373-NOC02-ALT-FEMALE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815566290974/5006373-NOC02-ALT-MALE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815566487582/5006373-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815566258206/5006373-NOC02-ALT-FEMALE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815566290974/5006373-NOC02-ALT-MALE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "National Molding Rock Lockster 25mm Dual Adjust Buckle",
+  "product_code": "5006-373",
+  "source_url": "https://www.mec.ca/en/product/5006-373/Rock-Lockster-25mm-Dual-Adjust-Buckle",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ]
+  }
+}

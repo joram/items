@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tool components",
+    "Hammer For Mix And Ice+ Blade For New Machine"
+  ],
+  "description": "Hammer head to fit a Grivel Mix Blade Pick.Used on Grivel Light Machine, Machine 3.0, and Tech Machine Ice Tools.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807460470814/5047673-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807460470814/5047673-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Grivel Hammer For Mix And Ice+ Blade For New Machine",
+  "product_code": "5047-673",
+  "source_url": "https://www.mec.ca/en/product/5047-673/Hammer-For-Mix-And-Ice%2B-Blade-For-New-Machine",
+  "tech_specs": {
+    "Ideal for": [
+      "Ice climbing"
+    ],
+    "Made in": [
+      "Italy"
+    ]
+  }
+}

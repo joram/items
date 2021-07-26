@@ -1,0 +1,91 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training food and drinks",
+    "Energy and protein bars",
+    "Dark Chocolate& Almonds Protein Bar"
+  ],
+  "description": "Rich Peruvian dark chocolate, lightly toasted almonds and the perfect chew make every bite one to savour. This Protein Decadence bar is packed with 10g of plant-based protein.Ingredients: organic brown rice syrup, organic almond butter, organic protein blend (organic sprouted brown rice protein, organic pea protein), organic puffed brown rice, organic almonds, organic fair-trade chocolate chips (organic coconut sugar, organic cocoa, organic cocoa butter), organic sunflower seed butter, organic cacao powder, organic coconut sugar, organic vanilla flavor, sea salt.Manufactured in a facility that processes peanuts and other nuts.May contain pit or nutshell fragments.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056559235102/6008761-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056559235102/6008761-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GoMacro Dark Chocolate & Almonds Protein Bar",
+  "product_code": "6008-761",
+  "source_url": "https://www.mec.ca/en/product/6008-761/Dark-Chocolate%26-Almonds-Protein-Bar",
+  "tech_specs": {
+    "Best consumed": [
+      "Before exercise",
+      "Recovery"
+    ],
+    "Calories per serving": [
+      "270Cal"
+    ],
+    "Carbohydrates": [
+      "35g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "4g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Cycling",
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "10g"
+    ],
+    "Saturated fat": [
+      "2g"
+    ],
+    "Serving size": [
+      "1 bar"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "60mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "14g"
+    ],
+    "Total fat": [
+      "11g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "65g"
+    ]
+  }
+}

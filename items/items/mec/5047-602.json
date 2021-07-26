@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Rock climbing",
+    "Carabiners and draws",
+    "Locking carabiners",
+    "Steel Screw Lock Carabiner"
+  ],
+  "description": "A heavy-duty steel carabiner, perfect for top-roping and high-wear climbing use such as working with pulleys in rescue systems.Made of SCM 435 steel (not stainless or zinc-plated).Screwgate closure.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807131742238/5047602-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807131742238/5047602-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Metolius Steel Screw Lock Carabiner",
+  "product_code": "5047-602",
+  "source_url": "https://www.mec.ca/en/product/5047-602/Steel-Screw-Lock-Carabiner",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Gate opening": [
+      "2.1cm"
+    ],
+    "Gate type": [
+      "Straight"
+    ],
+    "Ideal for": [
+      "Sport and toprope climbing",
+      "Route building",
+      "High angle rescue"
+    ],
+    "Lock type\n\nAuto-locking biners use a spring mechanism to close. Screwgate have a collar that you screw open or closed.": [
+      "Screwgate"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Steel"
+    ],
+    "Snag-free nose": [
+      "Yes"
+    ],
+    "Strength closed": [
+      "40kN"
+    ],
+    "Strength cross-loaded": [
+      "15kN"
+    ],
+    "Strength open": [
+      "18kN"
+    ],
+    "Weight": [
+      "215g"
+    ]
+  }
+}

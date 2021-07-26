@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Lake O'Hara Map 5th Edition"
+  ],
+  "description": "This detailed map of the Lake O'Hara area is your guide to over 80km of hiking trails, alpine meadows, pristine mountain lakes, massive glaciers, and awesome vistas. This picturesque area of Yoho National Park is one of the best hiking destinations in the Rockies. The back includes descriptions of all the trails at Lake O'Hara, including the entire alpine route.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089841463326/6011505-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089841463326/6011505-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gem Trek Publishing Lake O'Hara Map 5th Edition",
+  "product_code": "6011-505",
+  "source_url": "https://www.mec.ca/en/product/6011-505/Lake-O%27Hara-Map-5th-Edition",
+  "tech_specs": {
+    "Edition": [
+      "5th"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2020"
+    ],
+    "Regionality": [
+      "Rockies"
+    ],
+    "Scale": [
+      "1:20,000"
+    ],
+    "Tearproof": [
+      "No"
+    ],
+    "Waterproof": [
+      "No"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Emergency and survival gear",
+    "Emergency blankets and bivies",
+    "Emergency Blanket"
+  ],
+  "description": "Lightweight insurance that could help keep you alive if you get lost or injured. This Emergency Blanket reflects 90% of your body heat and has a high-visibility orange exterior.Vacuum-metalized polyethylene reflects 90% of your body heat and stretches without shredding like Mylar\u00ae.Waterproof and windproof.High-viz orange exterior.Resealable bag can be used to store the blanket.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031729774622/6004532-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031729774622/6004532-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031729774622/6004532-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9031729774622/6004532-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Survive Outdoors Longer Emergency Blanket",
+  "product_code": "6004-532",
+  "source_url": "https://www.mec.ca/en/product/6004-532/Emergency-Blanket",
+  "tech_specs": {
+    "Dimensions": [
+      "213\u00a0x\u00a0142cm"
+    ],
+    "Fabric": [
+      "Polyethylene"
+    ],
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Stuff sack": [
+      "No"
+    ],
+    "Weight": [
+      "80g"
+    ]
+  }
+}

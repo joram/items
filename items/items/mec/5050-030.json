@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bug spray and bug nets",
+    "Bug spray and insect repellent",
+    "Anti-Insect 20% Icaridin Pump Spray 100ml"
+  ],
+  "description": "If you\u2019re looking for an alternative to DEET-based bug sprays, this one has 20% Icaridin as the active ingredient. Provides long-lasting protection and is a good choice for children from 6 months to 12 years.Active ingredient is Icaridin 20%, with 0% DEET.Formula is non-irritating, non-greasy and won\u2019t damage plastics or synthetics.Provides 12-hour protection from ticks, 12-hour protection from mosquitoes, and 10 hours from black flies.Suited to kids from 6 months and up.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809980755998/5050030-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809980755998/5050030-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Care Plus Anti-Insect 20% Icaridin Pump Spray 100ml",
+  "product_code": "5050-030",
+  "source_url": "https://www.mec.ca/en/product/5050-030/Anti-Insect-20%25-Icaridin-Pump-Spray-100ml",
+  "tech_specs": {
+    "DEET\n\nThe active ingredient in many bug repellents. It is not recommended for use on young children.": [
+      "0%"
+    ],
+    "Ideal for": [
+      "Travel",
+      "Backpacking",
+      "Car camping",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Picaridin\n\nAn odourless alternative to DEET; suitable for people with sensitive skin.": [
+      "20%"
+    ],
+    "Plant-based repellent\n\nPlant-based repellents such as citronella do not contain chemical deterents such as DEET and may be more suitable for children.": [
+      "No"
+    ],
+    "Volume": [
+      "100ml"
+    ]
+  }
+}

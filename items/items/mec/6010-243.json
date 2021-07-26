@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Shirts and tops",
+    "Long sleeved shirts",
+    "Milani V-Neck Long Sleeve Top"
+  ],
+  "description": "Just in time for sweater weather. With its oversized V-neck and organic cotton blend, the Milani sweater is ready for Fall.Merino blend is light and warm.Knit detailing at the shoulders and down the backRelaxed fit for all day comfort.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133330464798/6010243-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133330333726/6010243-GRY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133330726942/6010243-GRY00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133330464798/6010243-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133330333726/6010243-GRY00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133330726942/6010243-GRY00-ALT-DETAIL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133330464798/6010243-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133330333726/6010243-GRY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133330726942/6010243-GRY00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133330464798/6010243-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133330333726/6010243-GRY00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9133330726942/6010243-GRY00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Milani V-Neck Long Sleeve Top - Women's",
+  "product_code": "6010-243",
+  "source_url": "https://www.mec.ca/en/product/6010-243/Milani-V-Neck-Long-Sleeve-Top",
+  "tech_specs": {
+    "Fabric content": [
+      "60% organically grown cotton",
+      "30% nylon",
+      "10% merino wool"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

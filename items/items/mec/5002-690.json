@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Guyline and rigging",
+    "Poly Cord 15m"
+  ],
+  "description": "Tough braided utility cord. Handy around the campsite.Cleary, this one is not for climbing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532823582/5002690-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532725278/5002690-ORG00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532823582/5002690-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532725278/5002690-ORG00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532823582/5002690-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532725278/5002690-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532823582/5002690-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101532725278/5002690-ORG00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Poly Cord 15m",
+  "product_code": "5002-690",
+  "source_url": "https://www.mec.ca/en/product/5002-690/Poly-Cord-15m",
+  "tech_specs": {
+    "Diameter": [
+      "6mm"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Length": [
+      "15m"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Tensile strength": [
+      "45kg"
+    ],
+    "Type": [
+      "Utility"
+    ]
+  }
+}

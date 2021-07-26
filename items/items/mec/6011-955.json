@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Jackets",
+    "Soft shell jackets",
+    "Glide Hood Jacket"
+  ],
+  "description": "Blustery wind? No problem. Sleet? Who cares. The Gilde hooded jacket provides wind- and waterproof protection when training in less than ideal conditions. Vented panels help manage body temperature when you're working hard.3-layer Ventair\u00ae protects against wind and wetness.Fabric has some stretch for unrestricted movement.Elastic jersey side panels vent excess heat.Adjustable hood provides additional coverage during poor weather.\n\n        Sustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140719878174/6011955-APA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140720009246/6011955-APA00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140720140318/6011955-APA00-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140720336926/6011955-APA00-ALT-POCKET.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140719878174/6011955-APA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140720009246/6011955-APA00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140720140318/6011955-APA00-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140720336926/6011955-APA00-ALT-POCKET.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140719878174/6011955-APA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140720009246/6011955-APA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140720140318/6011955-APA00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140720336926/6011955-APA00-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140719878174/6011955-APA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140720009246/6011955-APA00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140720140318/6011955-APA00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140720336926/6011955-APA00-ALT-POCKET.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Craft Glide Hood Jacket - Men's",
+  "product_code": "6011-955",
+  "source_url": "https://www.mec.ca/en/product/6011-955/Glide-Hood-Jacket",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Hood": [
+      "Adjustable"
+    ],
+    "Ideal for": [
+      "Cross-country skiing"
+    ],
+    "Length": [
+      "Hip-length"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 handwarmer zippered"
+    ],
+    "Product sustainability": [
+      "Recycled content"
+    ],
+    "Secondary fabric": [
+      "92% recycled polyester",
+      "8% elastane"
+    ],
+    "Type": [
+      "Waterproof-breathable",
+      "Wind shell"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Waterproof without taped seams"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

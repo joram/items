@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Footwear",
+    "Footwear accessories",
+    "Gaiters",
+    "X-Gaiters"
+  ],
+  "description": "Add a layer of warmth and protection to your feet on high mountain ascents and descents. The X-Gaiters are insulated with Primaloft\u00ae Aerogel, an incredibly warm material used to insulate space suits, for maximum warmth in extreme environments. The grippy neoprene rand and undertoe cap provide a bombproof seal against snow.Front panels are abrasion-resistant 70-denier nylon, polyester and spandex for durability.Back panel is insulating 3mm neoprene.2mm Primaloft\u00ae Gold Aerogel insulation covers toes and lower boot.Hook-and-loop closure and top strap for a tight seal and easy on and off.Silicone-covered neoprene rand seals tightly around boots.Hypalon toe cap and underfoot shockcord hold gaiters securely in place.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084993634334/6003405-BKC99.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084977545246/6003405-BKC99-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104033284126/6003405-BKC99-ALT-BACK-PLAIN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104033415198/6003405-BKC99-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104033447966/6003405-BKC99-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084993634334/6003405-BKC99.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084977545246/6003405-BKC99-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104033284126/6003405-BKC99-ALT-BACK-PLAIN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104033415198/6003405-BKC99-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104033447966/6003405-BKC99-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084993634334/6003405-BKC99.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084977545246/6003405-BKC99-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104033284126/6003405-BKC99-ALT-BACK-PLAIN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104033415198/6003405-BKC99-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104033447966/6003405-BKC99-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084993634334/6003405-BKC99.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9084977545246/6003405-BKC99-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104033284126/6003405-BKC99-ALT-BACK-PLAIN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104033415198/6003405-BKC99-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9104033447966/6003405-BKC99-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outdoor Research X-Gaiters - Unisex",
+  "product_code": "6003-405",
+  "source_url": "https://www.mec.ca/en/product/6003-405/X-Gaiters",
+  "tech_specs": {
+    "Closure": [
+      "Hook-and-loop"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing",
+      "Snowsports"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Underarch material": [
+      "Polyurethane strap"
+    ],
+    "Waterproof": [
+      "No"
+    ],
+    "Weight": [
+      "477g (Large)"
+    ]
+  }
+}

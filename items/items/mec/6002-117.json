@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child footwear",
+    "Toddler and child socks",
+    "Wintersport Yo Yetti Socks"
+  ],
+  "description": "Keep the cold from feeling beastly when playing in the snow.Made of a merino wool and synthetic blend.Light cushioning in leg and footbed.Flat knit toe seam for comfort.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134111555614/6002117-OCA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134111260702/6002117-MIL22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057490272286/6002117-BRB00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134111555614/6002117-OCA01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134111260702/6002117-MIL22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057490272286/6002117-BRB00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134111555614/6002117-OCA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134111260702/6002117-MIL22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057490272286/6002117-BRB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134111555614/6002117-OCA01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9134111260702/6002117-MIL22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9057490272286/6002117-BRB00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Smartwool Wintersport Yo Yetti Socks - Children to Youths",
+  "product_code": "6002-117",
+  "source_url": "https://www.mec.ca/en/product/6002-117/Wintersport-Yo-Yetti-Socks",
+  "tech_specs": {
+    "Cuff height": [
+      "Mid-calf"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Shin",
+      "Forefoot"
+    ],
+    "Fabric content": [
+      "71% merino wool",
+      "28% nylon",
+      "1% elastane"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Snowsports"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Backcountry skiing gear",
+    "Climbing skins",
+    "Ski skins",
+    "Climb 2.0 - Splitboard 145mm CF V2 Skins"
+  ],
+  "description": "With these skins you'll be king of the hill . . . and the flats. High gripping power remains stable under all conditions for the entire life of the skin.Made of mohair with a plush surface for smooth glide and nylon for added durability.Safer Skin Light waterproof membrane keeps skins as dry as possible, as long as possible.Angled Clicklock tip loops fit a wide variety of splitboard tips.Adjustable tail-strap connector offers 10cm of adjustment.Skin-trimming tool makes the trimming process easy and successful on the first try.Skin bag included.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153152679966/6014013-YLW00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153152679966/6014013-YLW00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pomoca Climb 2.0 - Splitboard 145mm CF V2 Skins",
+  "product_code": "6014-013",
+  "source_url": "https://www.mec.ca/en/product/6014-013/Climb-2-0---Splitboard-145mm-CF-V2-Skins",
+  "tech_specs": {
+    "Ideal for": [
+      "Snowboarding"
+    ],
+    "Length": [
+      "149-159cm (Small)",
+      "158-168cm (Medium)"
+    ],
+    "Made in": [
+      "Switzerland"
+    ],
+    "Material": [
+      "Mohair + nylon blend"
+    ],
+    "Width": [
+      "145 mm"
+    ]
+  }
+}

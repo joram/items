@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Tires, tubes, wheels and hubs",
+    "Bike tires",
+    "Contact Plus 700C Reflex Wire Tire"
+  ],
+  "description": "The tire of choice for those months where the roads aren't exactly clean. The puncture-resistant design helps prevent inconvenient flats from making you late for work, and the grippy tread boosts your confidence on slick pavement.All-around tread gives you secure grip in all weather conditions.SafetyPlus Breaker offers incredible puncture protection.Reflex Sidewall reflector strips add visibility.Designed for the fast accelerations and cornering speeds of ebikes.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8953767297054/5058097-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8953767297054/5058097-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Continental Contact Plus 700C Reflex Wire Tire",
+  "product_code": "5058-097",
+  "source_url": "https://www.mec.ca/en/product/5058-097/Contact-Plus-700C-Reflex-Wire-Tire",
+  "tech_specs": {
+    "Bead\n\nThe bead holds the tire onto the rim. Beads may be hoops of wire, or made of a flexible material which allows them to be folded compactly. Folding tires are easier to store or pack on trips.": [
+      "Wire"
+    ],
+    "ETRTO\n\nISO/ETRTO universal tire sizing system number for matching the correct tire to the rim.": [
+      "28-622 (28)",
+      "32-622 (32)",
+      "37-622 (37)"
+    ],
+    "Ideal for": [
+      "Urban cycling",
+      "Cycle commuting",
+      "Cycle touring"
+    ],
+    "Made in": [
+      "India"
+    ],
+    "Recommended PSI\n\nInflating your tires over the recommended PSI (pounds per square inch) could cause your tube and/or tire to rupture.": [
+      "80-102psi (28)",
+      "70-85psi (32)",
+      "56-85psi (37)"
+    ],
+    "TPI\n\nThreads per inch. Tires with a higher TPI tend to be more supple and lighter, with less rolling resistance, but are less durable.": [
+      "180"
+    ],
+    "Tire size": [
+      "700\u00a0x\u00a028 (28)",
+      "700 x 32 (32)",
+      "700 x 37 (37)"
+    ],
+    "Tire type": [
+      "Clincher"
+    ],
+    "Weight": [
+      "740g (28)",
+      "760g (32)",
+      "935g (37)"
+    ],
+    "Wheel position": [
+      "Rear",
+      "Front"
+    ]
+  }
+}

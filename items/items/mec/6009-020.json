@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bug spray and bug nets",
+    "Bug spray and insect repellent",
+    "Wilderness Formula Travel Size 100ml"
+  ],
+  "description": "From the backyard BBQ to sub-Saharan Africa, biting insects range from a nuisance to a health risk. Get up to 8 hours of protection with the highest percentage of DEET allowed in Canada.Lasts for up to 8 hours.Contains 30% DEET.Effective against: mosquitoes, black flies, biting midges, deer flies, stable flies, ticks and chiggers.100ml pump spray can be carried in your carry-on.Pump spray uses no aerosol propellants.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099988303902/6009020-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9099988303902/6009020-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mosquito Shield Wilderness Formula Travel Size 100ml",
+  "product_code": "6009-020",
+  "source_url": "https://www.mec.ca/en/product/6009-020/Wilderness-Formula-Travel-Size-100ml",
+  "tech_specs": {
+    "DEET\n\nThe active ingredient in many bug repellents. It is not recommended for use on young children.": [
+      "30%"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Day hiking",
+      "Car camping",
+      "Travel"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Plant-based repellent\n\nPlant-based repellents such as citronella do not contain chemical deterents such as DEET and may be more suitable for children.": [
+      "No"
+    ],
+    "Volume": [
+      "100ml"
+    ]
+  }
+}

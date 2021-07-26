@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Swimsuits",
+    "Two-piece swimsuits",
+    "Swim bottoms",
+    "Marta Bottoms"
+  ],
+  "description": "Good coverage and a flattering fit are at home at the beach or by the pool.Quick-drying recycled ECONYL\u00ae nylon made from fishnets, carpet fluff and pre-consumer nylon waste.LYCRA\u00ae XTRA LIFE\u2122 Elastane fibers retain shape over time and resists degradation from chlorine, heat and sunscreen.UPF 50+ protects sensitive skin from harsh UV.Standard leg cut and moderate coverage through the seat.\n\n        Sustainability\n\n\n\n\n\n\nFairTrade\n\n\n\n\n\n\n\n\n\n\n\n                      Certified Fair Trade\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                      Recycled content",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168641490974/6012754-CSS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168804872222/6012754-CSS00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168804904990/6012754-CSS00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168805036062/6012754-CSS00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168805167134/6012754-CSS00-ALT-FULL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168641490974/6012754-CSS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168804872222/6012754-CSS00-ALT-DETAIL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168804904990/6012754-CSS00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168805036062/6012754-CSS00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168805167134/6012754-CSS00-ALT-FULL.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168641490974/6012754-CSS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168804872222/6012754-CSS00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168804904990/6012754-CSS00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168805036062/6012754-CSS00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168805167134/6012754-CSS00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168641490974/6012754-CSS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168804872222/6012754-CSS00-ALT-DETAIL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168804904990/6012754-CSS00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168805036062/6012754-CSS00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168805167134/6012754-CSS00-ALT-FULL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Prana Marta Bottoms - Women's",
+  "product_code": "6012-754",
+  "source_url": "https://www.mec.ca/en/product/6012-754/Marta-Bottoms",
+  "tech_specs": {
+    "Fabric content": [
+      "78% recycled nylon",
+      "22% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Beach"
+    ],
+    "Made in": [
+      "Sri Lanka"
+    ],
+    "Product sustainability": [
+      "Certified Fair Trade",
+      "Recycled content"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

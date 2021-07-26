@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Rock Climbs of Acadia"
+  ],
+  "description": "Climb the granite walls on the coast or inland and discover the beauty of America's East Coast. This comprehensive rock climbing guide covers Acadia National Park and includes detailed information for nearly 300 routes in 15 different areas. Also included in this guide are photos, diagrams and area information.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815666888734/5044234-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815666888734/5044234-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rock Climbs of Acadia",
+  "product_code": "5044-234",
+  "source_url": "https://www.mec.ca/en/product/5044-234/Rock-Climbs-of-Acadia",
+  "tech_specs": {
+    "Author": [
+      "Grant Simmons"
+    ],
+    "ISBN": [
+      "9780692357057"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pages": [
+      "124"
+    ],
+    "Published": [
+      "2015"
+    ],
+    "Regionality": [
+      "USA"
+    ]
+  }
+}

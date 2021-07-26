@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "On Va Ou Aujourd'hui? Montreal"
+  ],
+  "description": "Discover 150 tours in Montreal and surrounding areas. Includes maps for  all outings as well as itineraries for rain or shine. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815612133406/5026082-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815612133406/5026082-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses On Va Ou Aujourd'hui? Montreal",
+  "product_code": "5026-082",
+  "source_url": "https://www.mec.ca/en/product/5026-082/On-Va-Ou-Aujourd%27hui%3F-Montreal",
+  "tech_specs": {
+    "Author": [
+      "Alain Demers"
+    ],
+    "ISBN": [
+      "9782894648629"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pages": [
+      "240"
+    ],
+    "Regionality": [
+      "Quebec"
+    ]
+  }
+}

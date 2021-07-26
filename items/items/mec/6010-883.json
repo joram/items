@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Multi-tools",
+    "Prybrid-X Hybrid Tool"
+  ],
+  "description": "This compact tool blends the function of a hobby knife with a pocket prybar. By using replaceable hobby knife blade this little tool keeps its footprint small without losing functionality. The machined aluminum handle is both tough and lightweight. With an integrated keyring hole and paracord lanyard, it is easy to keep this tool close to hand.Uses replaceable hobby knife blades (like #11 X-Acto\u00ae blades) available at most hardware stores.Tough aluminum handle has traction grooves to give you a secure grip.Bottle opener for celebrating a job well done.Prying end also has a groove for removing nails.Keyring hole and paracord lanyard lets you mount this compact tool on your keys.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083344912414/6010883-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331837982/6010883-GRN00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331411998/6010883-BL000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083344846878/6010883-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083344912414/6010883-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331837982/6010883-GRN00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331411998/6010883-BL000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083344846878/6010883-BL000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083344912414/6010883-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331837982/6010883-GRN00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331411998/6010883-BL000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083344846878/6010883-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083344912414/6010883-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331837982/6010883-GRN00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083331411998/6010883-BL000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9083344846878/6010883-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gerber Prybrid-X Hybrid Tool",
+  "product_code": "6010-883",
+  "source_url": "https://www.mec.ca/en/product/6010-883/Prybrid-X-Hybrid-Tool",
+  "tech_specs": {
+    "Belt cutter": [
+      "No"
+    ],
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Straight"
+    ],
+    "Blade locking system": [
+      "Yes"
+    ],
+    "Bottle opener": [
+      "Yes"
+    ],
+    "Flathead (slot) screwdriver": [
+      "Yes"
+    ],
+    "Handle material": [
+      "Aluminum",
+      "Paracord"
+    ],
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Knife length (closed)": [
+      "10cm"
+    ],
+    "Lanyard attachment": [
+      "Yes"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Number of knives": [
+      "1"
+    ],
+    "Weight": [
+      "48g"
+    ],
+    "Wire stripper": [
+      "No"
+    ]
+  }
+}

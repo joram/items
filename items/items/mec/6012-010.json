@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Maps and guidebooks",
+    "Maps",
+    "Trail and topographic maps",
+    "Let's Go Biking in the Okanagan"
+  ],
+  "description": "Discover the Okanagan by bike. This book will guide you along the scenic trails of the Okanaga Valley and Shuswap region, with maps and spectacular colour photos to get you excited about your travels ahead.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128838135838/6012010-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9128838135838/6012010-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Let's Go Biking in the Okanagan",
+  "product_code": "6012-010",
+  "source_url": "https://www.mec.ca/en/product/6012-010/Let%27s-Go-Biking-in-the-Okanagan",
+  "tech_specs": {
+    "Author": [
+      "Colleen MacDonald"
+    ],
+    "ISBN": [
+      "9781775308126"
+    ],
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pages": [
+      "124"
+    ],
+    "Published": [
+      "2020"
+    ],
+    "Regionality": [
+      "British Columbia"
+    ]
+  }
+}

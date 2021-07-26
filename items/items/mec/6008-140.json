@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Toddler and child (2-7 yrs)",
+    "Toddler and child clothing",
+    "Toddler and child outerwear",
+    "Toddler and child jackets",
+    "Toddler and child rain jackets",
+    "Vesi Raincoat"
+  ],
+  "description": "Keep you little one dry as they show puddles who\u2019s the boss. The flexible material has a smooth interior, making this coat a year-round option to layer over  warm tops or sweaters.Waterproof material has welded waterproof seams.PVC-free polyurethane coating.Removable hood.Elasticised cuffs and hood closure help keep cold out.Reflective details and bright colours add low-light visibility.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193548185630/6008140-CPS50.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193689186334/6008140-CPS50-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193689219102/6008140-CPS50-ALT-B.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193548185630/6008140-CPS50.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193689186334/6008140-CPS50-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193689219102/6008140-CPS50-ALT-B.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193548185630/6008140-CPS50.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193689186334/6008140-CPS50-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193689219102/6008140-CPS50-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193548185630/6008140-CPS50.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193689186334/6008140-CPS50-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9193689219102/6008140-CPS50-ALT-B.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Reima Vesi Raincoat - Children to Youths",
+  "product_code": "6008-140",
+  "source_url": "https://www.mec.ca/en/product/6008-140/Vesi-Raincoat",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Reflective details"
+    ],
+    "Construction": [
+      "Bonded"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "No"
+    ],
+    "Fabric waterproof rating\n\nThe standard test for waterproof fabrics uses a standing column filled with water.  The figures given are the water column height.  A rating of 3,500mm or higher can be considered waterproof.  The higher the rating, the more durable the waterproof fabric will be over time.": [
+      "8000mm"
+    ],
+    "Face fabric": [
+      "Polyester"
+    ],
+    "Hood": [
+      "Removable"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Technology": [
+      "PU Coating"
+    ],
+    "Type": [
+      "Waterproof"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Waterproof with fully taped seams"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Windproof"
+    ]
+  }
+}

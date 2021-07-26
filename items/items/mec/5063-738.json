@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Hydration packs and accessories",
+    "Bladders, reservoirs and accessories",
+    "Hoser Reservoir"
+  ],
+  "description": "Uncomplicated design suits purists who want a light and simple reservoir. If you want to trick it out, a full range of Platypus accessories are available.HyFlow bite valve gives you even better flow rate compared to previous versions.Silver-ion embedded in the material protects clean water from mold and bacteria.Hanging loop to secure it in a backpack.Outlet accepts all threaded Platypus drink tubes and closure caps.All materials are certified food-grade, BPA-, BPS-, phthalate-free and taste-free, guaranteed.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027031793694/5063738-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9027031793694/5063738-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Platypus Hoser Reservoir",
+  "product_code": "5063-738",
+  "source_url": "https://www.mec.ca/en/product/5063-738/Hoser-Reservoir",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Bite valve shut-off switch": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking",
+      "Running",
+      "Mountain biking"
+    ],
+    "Internal baffle\n\nInternal baffles help reduce liquid sloshing.": [
+      "No"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Polyethylene"
+    ],
+    "Quick-disconnect tube": [
+      "No"
+    ],
+    "Volume": [
+      "2L (2L)"
+    ],
+    "Weight": [
+      "102g (2L)"
+    ]
+  }
+}

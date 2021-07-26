@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Coffee makers and kettles",
+    "Espresso makers",
+    "Moka Espresso Pot"
+  ],
+  "description": "Bring this espresso maker on your adventures, and you are only minutes away from 10 perfect double shots.Rugged stainless steel construction.Simple to use and pour.Makes 10 double shots (739ml) in minutes.Folding handle for easy storage and transport.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944854827038/5056108-STA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946103975966/5056108-STA00-ALT1.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944854827038/5056108-STA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946103975966/5056108-STA00-ALT1.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944854827038/5056108-STA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946103975966/5056108-STA00-ALT1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8944854827038/5056108-STA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8946103975966/5056108-STA00-ALT1.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "GSI Moka Espresso Pot",
+  "product_code": "5056-108",
+  "source_url": "https://www.mec.ca/en/product/5056-108/Moka-Espresso-Pot",
+  "tech_specs": {
+    "Dimensions": [
+      "11\u00a0x\u00a012\u00a0x\u00a022cm"
+    ],
+    "Foldable handle": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Car camping"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Stainless steel"
+    ],
+    "Volume": [
+      "739ml"
+    ],
+    "Weight": [
+      "876g"
+    ]
+  }
+}

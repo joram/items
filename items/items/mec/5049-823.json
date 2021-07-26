@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Guidebooks",
+    "Red Rocks Climbing"
+  ],
+  "description": "A guide to the classic multi-pitch climbs of Red Rocks plus some bonus cragging routes. Over 100 routes with grades ranging from 5.4 to 5.11c. Includes lots of approach and descent beta, strategy and retreat beta, and suggested itineraries for getting the most out of your visit. A great guidebook for first time visitors or returning climbers who want to add to their tick list.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815686025246/5049823-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815686025246/5049823-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Red Rocks Climbing",
+  "product_code": "5049-823",
+  "source_url": "https://www.mec.ca/en/product/5049-823/Red-Rocks-Climbing",
+  "tech_specs": {
+    "Author": [
+      "Greg Barnes"
+    ],
+    "Edition": [
+      "1st"
+    ],
+    "ISBN": [
+      "967239168"
+    ],
+    "Ideal for": [
+      "Rock climbing"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "155"
+    ],
+    "Published": [
+      "2004"
+    ],
+    "Regionality": [
+      "USA"
+    ]
+  }
+}

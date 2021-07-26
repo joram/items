@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Accessory carabiners and key holders",
+    "Mini Accessory Carabiner"
+  ],
+  "description": "A small aluminum accessory carabiner that's great for dog leashes, keys, and coffee mugs.Dimensions are 6 x 3cm.Not for climbing.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851637731358/5046855-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635765278/5046855-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635830814/5046855-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635863582/5046855-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635961886/5046855-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851637731358/5046855-RED00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635765278/5046855-PPL00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635830814/5046855-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635863582/5046855-BL000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635961886/5046855-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851637731358/5046855-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635765278/5046855-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635830814/5046855-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635863582/5046855-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635961886/5046855-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851637731358/5046855-RED00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635765278/5046855-PPL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635830814/5046855-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635863582/5046855-BL000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8851635961886/5046855-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Mini Accessory Carabiner",
+  "product_code": "5046-855",
+  "source_url": "https://www.mec.ca/en/product/5046-855/Mini-Accessory-Carabiner",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ]
+  }
+}

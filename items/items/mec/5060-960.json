@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Whiskey Peak Beanie"
+  ],
+  "description": "A microfleece ear-band keeps ears happy, while the wool construction keeps the Whiskey Peak Toque breathable. To top it off, the OR vintage patch adds just a touch of TBT flare.Made of warm, soft lamb's wool for cozy warmth.Polyester microfleece lining is super-comfy against the skin.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143693082654/5060960-NGT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989321396254/5060960-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143693082654/5060960-NGT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989321396254/5060960-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143693082654/5060960-NGT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989321396254/5060960-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9143693082654/5060960-NGT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8989321396254/5060960-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Outdoor Research Whiskey Peak Beanie - Unisex",
+  "product_code": "5060-960",
+  "source_url": "https://www.mec.ca/en/product/5060-960/Whiskey-Peak-Beanie",
+  "tech_specs": {
+    "Fabric content": [
+      "100% wool"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Secondary fabric": [
+      "100% polyester"
+    ],
+    "Weight": [
+      "52g (Black)"
+    ]
+  }
+}

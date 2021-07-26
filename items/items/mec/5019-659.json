@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike components",
+    "Brakes, pads and rotors",
+    "Brake pads",
+    "Shimano XTR 03-07 Burly Brake Pads"
+  ],
+  "description": "Brake Authority's Burly compound is designed for all mountain and enduro riding and lasts a remarkably long time.For Shimano\u00ae XTR 03-07, Saint 04-07, Deore LX 05-07, XT 04-07, and SLX 09 disc brake systems.Easy to control for progressive braking power.Ready to ride.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806823329822/5019659-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8806823329822/5019659-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Brake Authority Shimano XTR 03-07 Burly Brake Pads",
+  "product_code": "5019-659",
+  "source_url": "https://www.mec.ca/en/product/5019-659/Shimano-XTR-03-07-Burly-Brake-Pads",
+  "tech_specs": {
+    "Ideal for": [
+      "Enduro",
+      "Trail riding"
+    ],
+    "Made in": [
+      "France"
+    ],
+    "Type": [
+      "Disc"
+    ],
+    "Weight": [
+      "25g"
+    ]
+  }
+}

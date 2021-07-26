@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Watersports clothing",
+    "Paddling tops and pants",
+    "Paddling tops",
+    "Callan Jacket"
+  ],
+  "description": "A simple style for racing at your local regatta or spending your day paddling in a downpour. Waterproof and windproof, the fabric has stretch and breathability to promote activity and fluid motion.3-layer waterproof-breathable MarineSpec\u2122 MP is soft and dynamic.Fitted hood ensures full peripheral vision.Adjustable cuffs to tune the fit.YKK\u00ae AquaGuard\u00ae zippers keeps moisture out.Water-resistant zippers.Cinch to fit, with an adjustable draw cord waist.Single chest pocket, 2 hand pockets.Internal hanging loop, for easy drying.Fully seam sealed to keep water from seeping in.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020633907230/6000974-GR046.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021619732510/6000974-GR046-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020633907230/6000974-GR046.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021619732510/6000974-GR046-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020633907230/6000974-GR046.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021619732510/6000974-GR046-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9020633907230/6000974-GR046.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9021619732510/6000974-GR046-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Mustang Survival Callan Jacket - Men's",
+  "product_code": "6000-974",
+  "source_url": "https://www.mec.ca/en/product/6000-974/Callan-Jacket",
+  "tech_specs": {
+    "Ideal for": [
+      "Paddleboarding",
+      "Canoeing",
+      "Kayaking"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Pockets": [
+      "1 external chest",
+      "2 front zippered"
+    ]
+  }
+}

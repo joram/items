@@ -1,0 +1,96 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Luggage",
+    "Travel packs",
+    "Outpost 35L Pack"
+  ],
+  "description": "Back and tougher than ever, the Outpost daypack protects your laptop and other essentials on rainy commutes and adventures further afield. Rugged, waterproof fabrics and water-resistant (but not waterproof) zippers keep the insides dry in mean weather, with air mesh straps and a ventilated back panel for a comfortable carry in all conditions. Burly webbing handles make strong attachment points and are handy when you need to grab and run.Fabric is rugged 840-denier nylon, coated with polyurethane for waterproofness and abrasion resistance.Lined in 200-denier PU-coated nylon for extra water-stoppage.All zip closures are YKK reversed coil, durable and water-resistant (but not waterproof).Shoulder straps are cushioning 8mm EVA foam wrapped in super-tough 1680-denier nylon.Removable waistbelt is 38mm webbing, and attaches to durable bartacked loops via easy-to-use Gate Keeper buckles.Adjustable sternum strap.Airmesh on the backpanel and inside shoulder straps allows air to circulate.Stretch mesh side pocket carries a water bottle.Zippered bucket style opening to the main compartment.Multiple internal and external zippered mesh pockets for organization.Padded pocket holds a 15in. laptop and stops before the pack bottom to prevent fatal groundings.Strong 50mm webbing top and bottom handles.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040774758430/5059970-SAL42.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040773677086/5059970-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040773840926/5059970-BK000-ALT-LAPTOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048228593694/5059970-BK000-ALT-BODYBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048228691998/5059970-BK000-ALT-BODYFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053360586782/5059970-BK000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046685515806/5059970-RNF22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040774004766/5059970-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040774758430/5059970-SAL42.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040773677086/5059970-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040773840926/5059970-BK000-ALT-LAPTOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048228593694/5059970-BK000-ALT-BODYBACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048228691998/5059970-BK000-ALT-BODYFRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053360586782/5059970-BK000-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046685515806/5059970-RNF22.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040774004766/5059970-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040774758430/5059970-SAL42.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040773677086/5059970-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040773840926/5059970-BK000-ALT-LAPTOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048228593694/5059970-BK000-ALT-BODYBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048228691998/5059970-BK000-ALT-BODYFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053360586782/5059970-BK000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046685515806/5059970-RNF22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040774004766/5059970-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040774758430/5059970-SAL42.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040773677086/5059970-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040773840926/5059970-BK000-ALT-LAPTOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048228593694/5059970-BK000-ALT-BODYBACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9048228691998/5059970-BK000-ALT-BODYFRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9053360586782/5059970-BK000-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9046685515806/5059970-RNF22.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9040774004766/5059970-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Outpost 35L Pack - Unisex",
+  "product_code": "5059-970",
+  "source_url": "https://www.mec.ca/en/product/5059-970/Outpost-35L-Pack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Clamshell zip"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Depth": [
+      "17cm"
+    ],
+    "Hipbelt": [
+      "Removable waistbelt"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Length": [
+      "56cm"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "840-denier polyurethane coated nylon"
+    ],
+    "Padded sleeve fits most\n\nA padded slot to fit electronics or laptops, it may be partially or fully padded on each side.": [
+      "15-inch laptop"
+    ],
+    "Secondary fabric": [
+      "1680-denier polyurethane coated nylon"
+    ],
+    "Ventilated back panel": [
+      "Yes"
+    ],
+    "Volume": [
+      "35L"
+    ],
+    "Weight": [
+      "1.18kg"
+    ],
+    "Width": [
+      "34cm"
+    ]
+  }
+}

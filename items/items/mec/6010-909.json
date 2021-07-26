@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Snow and ice protection",
+    "Ice screws",
+    "Rocket XS Ice Screw"
+  ],
+  "description": "This extra-short version of the Rocket ice screw bites confidently in thin ice. It's burly yet light, with an integrated crank for fast and reliable placements. This size is not certified, and therefore should only be used for progression.Chromoly steel shaft and hanger is strong and durable.Reverse angle threads for holding power.Tooth geometry bite easily in compact ice.Fold out crank knob for fast placements and uninterrupted 360-degree motion.Colour-coded cranking handle makes identification easier.For progression only. This size is not certified.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157664145438/6010909-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157666373662/6010909-NOC02-ALT-SCREW.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157666406430/6010909-NOC02-ALT-TOP.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157664145438/6010909-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157666373662/6010909-NOC02-ALT-SCREW.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157666406430/6010909-NOC02-ALT-TOP.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157664145438/6010909-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157666373662/6010909-NOC02-ALT-SCREW.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157666406430/6010909-NOC02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157664145438/6010909-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157666373662/6010909-NOC02-ALT-SCREW.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9157666406430/6010909-NOC02-ALT-TOP.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Camp Rocket XS Ice Screw",
+  "product_code": "6010-909",
+  "source_url": "https://www.mec.ca/en/product/6010-909/Rocket-XS-Ice-Screw",
+  "tech_specs": {
+    "CE Certified": [
+      "No"
+    ],
+    "Hanger material": [
+      "Chromoly steel"
+    ],
+    "Ideal for": [
+      "Snow and ice climbing"
+    ],
+    "Lengths": [
+      "9cm"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Screw material": [
+      "Chromoly steel"
+    ],
+    "Weight": [
+      "94g"
+    ]
+  }
+}

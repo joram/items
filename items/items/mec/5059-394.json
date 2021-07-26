@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Travel accessories",
+    "Umbrellas",
+    "Auto Mini Umbrella"
+  ],
+  "description": "Great for commuting or travel and a secret weapon for thru-hiking, this compact umbrella folds up small and has an ultralight aluminum frame. Made by a company headquartered in Vancouver, where they know a thing or two about rain.Made of quick drying synthetic Pongee umbrella fabric.Ultralight aluminum frame is also sturdy in the gusts.Automatic opening mechanism.Closed length is 28cm. Open diameter is 107cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8981790326814/5059394-MEC01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8942407647262/5059394-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8942406959134/5059394-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8981790326814/5059394-MEC01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8942407647262/5059394-GRY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8942406959134/5059394-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8981790326814/5059394-MEC01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8942407647262/5059394-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8942406959134/5059394-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8981790326814/5059394-MEC01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8942407647262/5059394-GRY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8942406959134/5059394-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Vancouver Umbrella Inc Auto Mini Umbrella",
+  "product_code": "5059-394",
+  "source_url": "https://www.mec.ca/en/product/5059-394/Auto-Mini-Umbrella",
+  "tech_specs": {
+    "Ideal for": [
+      "Everyday use",
+      "Travel"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

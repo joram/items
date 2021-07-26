@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Moonlight Beanie"
+  ],
+  "description": "Slip on your toque and head out for some night runs on the mountain.Acrylic and merino blend is soft and warm.Microfleece lining adds an extra layer of warmth.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140249657374/6013120-PHB01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142277111838/6013120-BAH05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142276587550/6013120-ABS02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140249657374/6013120-PHB01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142277111838/6013120-BAH05.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142276587550/6013120-ABS02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140249657374/6013120-PHB01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142277111838/6013120-BAH05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142276587550/6013120-ABS02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140249657374/6013120-PHB01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142277111838/6013120-BAH05.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9142276587550/6013120-ABS02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Moonlight Beanie - Unisex",
+  "product_code": "6013-120",
+  "source_url": "https://www.mec.ca/en/product/6013-120/Moonlight-Beanie",
+  "tech_specs": {
+    "Fabric content": [
+      "50% acrylic",
+      "50% merino wool"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Secondary fabric": [
+      "100% polyester"
+    ]
+  }
+}

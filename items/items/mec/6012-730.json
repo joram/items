@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Training and electronics",
+    "Bike trainers and accessories",
+    "Bike trainers",
+    "Qubo Power Fluid Trainer"
+  ],
+  "description": "Everyone loves the strong, silent type. The big, oil-immersed flywheel on this bike trainer generates high levels of resistance even at low speeds and keeps the noise level to a whisper. The Crono compass system adjusts for your weight and power to deliver a convincing road feel. The frame has a wide support surface and an optimized centre of gravity designed to provide a stable platform as you hammer home on a breakaway.Provides over 900 Watts of resistance at 60km/h.Elastogel roller reduces noise and tire wear.Fast fixing blocking mechanism allows easy, ergonomic blocking.Fits wheels from 20-29in.When paired with the optional (sold separately) Misuro B+ sensor, you can broadcast your training data (power, speed and cadence) over Bluetooth to your phone or tablet running your favourite training app.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140110327838/6012730-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140111212574/6012730-WHT00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140110327838/6012730-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140111212574/6012730-WHT00-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140110327838/6012730-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140111212574/6012730-WHT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140110327838/6012730-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9140111212574/6012730-WHT00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Elite Qubo Power Fluid Trainer",
+  "product_code": "6012-730",
+  "source_url": "https://www.mec.ca/en/product/6012-730/Qubo-Power-Fluid-Trainer",
+  "tech_specs": {
+    "Adjustable resistance": [
+      "No"
+    ],
+    "Dimensions": [
+      "55\u00a0x\u00a058\u00a0x\u00a040cm"
+    ],
+    "External power supply required\n\nIf an external source is required, your trainer needs to be plugged into an outlet, or if unplugged, will have a reduced number of features.": [
+      "No"
+    ],
+    "Folding\n\nTrainer can be folded flat for storage.": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Cycle training"
+    ],
+    "Made in": [
+      "Italy"
+    ],
+    "Maximum resistance at 40Km/h": [
+      "600W"
+    ],
+    "Resistance type\n\nHow the trainer delivers resistance to the rear wheel of your bike.": [
+      "Fluid"
+    ],
+    "Zwift Certified\n\nZwift certified trainers can have their resistance controlled by the software for a realistic experience.": [
+      "No"
+    ]
+  }
+}

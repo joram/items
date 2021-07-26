@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Hats and toques",
+    "Toques and beanies",
+    "Janet Beanie"
+  ],
+  "description": "This cozy beanie adds warmth on chilly walks or apr\u00e8s ski trips to the village.Made of finely knit silky acrylic.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056005521438/6004168-VGY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056005455902/6004168-BK113.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056005521438/6004168-VGY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056005455902/6004168-BK113.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056005521438/6004168-VGY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056005455902/6004168-BK113.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056005521438/6004168-VGY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9056005455902/6004168-BK113.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Chaos Janet Beanie - Women's",
+  "product_code": "6004-168",
+  "source_url": "https://www.mec.ca/en/product/6004-168/Janet-Beanie",
+  "tech_specs": {
+    "Fabric content": [
+      "100% acrylic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water bottles",
+    "Collapsible bottles",
+    "Platy Bottle"
+  ],
+  "description": "Much lighter than a hard-sided bottle (about 80% lighter), this 2L collapsible container is great size for places where water sources are scarce or hard to locate.Free-standing design stands upright and is stable.Food-grade liner keeps water taste-free.Threaded cap is compatible with all Platy lids and drinking tubes.Dimensions are 19 x 35cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812209700894/5040766-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8812209700894/5040766-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Platypus Platy Bottle",
+  "product_code": "5040-766",
+  "source_url": "https://www.mec.ca/en/product/5040-766/Platy-Bottle",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Dishwasher safe\n\nDishwasher safe (top rack only) make sure no parts are touching the heating element.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Insulated": [
+      "No"
+    ],
+    "Lid type": [
+      "Screw-top"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Material": [
+      "Polyethylene"
+    ],
+    "Volume": [
+      "2L"
+    ],
+    "Water filter compatible": [
+      "No"
+    ],
+    "Weight": [
+      "36g"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling clothing",
+    "Cycling clothing accessories",
+    "Cycling caps",
+    "A/C Cycling Cap"
+  ],
+  "description": "When you wake up on century day and it's already 25 degrees, reach for this cap. Moisture-wicking mesh lets your head breathe when you're charging up hills and bombing down straightaways. A short visor helps keep the sun out of your eyes so you can focus on catching the leaders.Moisture wicking MicroMesh fabric is highly ventilated to keep your head cool.Short visor fits nicely under a helmet.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930420588574/5057144-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930420949022/5057144-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930420588574/5057144-WHT00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930420949022/5057144-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930420588574/5057144-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930420949022/5057144-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930420588574/5057144-WHT00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8930420949022/5057144-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Castelli A/C Cycling Cap - Unisex",
+  "product_code": "5057-144",
+  "source_url": "https://www.mec.ca/en/product/5057-144/A-C-Cycling-Cap",
+  "tech_specs": {
+    "Fabric content": [
+      "92% polyester",
+      "8% spandex"
+    ],
+    "Ideal for": [
+      "Road cycling"
+    ],
+    "Made in": [
+      "China"
+    ]
+  }
+}

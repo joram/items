@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Climbing",
+    "Mountaineering and ice climbing",
+    "Ice tools, axes and components",
+    "Ice tools",
+    "Fuel Hammer Ice Tool"
+  ],
+  "description": "A high-performance tool well-suited for moderate to steep ice, scrappy mixed cragging, and modern leashless routes. The shape offers vast clearance for overhanging terrain or heavily featured drips and columns. The offset grip allows switching hands and matching tools for smooth progress and manageable clipping on overhanging routes.Lightweight shaft is hydroformed from a single piece of aluminum for improved feel and rigidity.One-piece hammer head for increased swing weight and for pounding pins.Comes with BD Ice+ pick.Dual-density adjustable pommel uses washers to extend or shorten to suit your hand size and glove system.Offset grip and open geometry offer a  comfortable, secure grip.Removable bottom spike has a clipable hole.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8901455216670/5055848-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8901455216670/5055848-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Black Diamond Fuel Hammer Ice Tool",
+  "product_code": "5055-848",
+  "source_url": "https://www.mec.ca/en/product/5055-848/Fuel-Hammer-Ice-Tool",
+  "tech_specs": {
+    "CE certified": [
+      "Yes"
+    ],
+    "Head type": [
+      "Hammer modular"
+    ],
+    "Ideal for": [
+      "Ice climbing"
+    ],
+    "Leash included": [
+      "No"
+    ],
+    "Length": [
+      "50cm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Removable pick": [
+      "Yes"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Weight": [
+      "655g"
+    ]
+  }
+}

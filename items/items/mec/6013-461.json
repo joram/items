@@ -1,0 +1,98 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Electronics",
+    "GPS Navigation",
+    "Satellite communicators and locators",
+    "Resqlink View PLB-425 Personal Locator Beacon"
+  ],
+  "description": "Get the confidence that you call for help has been heard. The ResQLink View displays your exact GPS coordinates and lets you know the help is on the way. Activation is simple: deploy the antenna and press the ON button. A 66-channel GPS signal calculates your position within 100 metres. Transmitting your location to first responders to the MEOSAR satellite constellation via the 406Mhz frequency. The beacon also broadcasts a local signal on 121.5 MHz that searchers can pinpoint once they're in your vicinity.No paid subscription is required. The only additional expense is replacing the battery every 5 years. If you need to use the ResQLink View PLB-425, ACR will replace it with a PLB of equal or greater value in return for the old beacon and your rescue story.Screen displays live status and GPS coordinates throughout the rescue operation.Broadcasts SOS to government funded satellite networks, so there is no monthly fee.Transmits a unique identifier, registered with the Rescue Coordination Centre, to speed response time and lets SAR teams know what to look for.MEOSAR compatibility means faster response time, an average of 46 minutes faster than previous LEOSAR beacons.Simple 1-button operation is easy to in the worst conditions, just release the antenna and push the on/off button.66-channel GPS signal guides rescuers within 100m of your location (GPS and Galileo networks), the homing frequency and strobe bring them the rest of the way.UV resistant, durable polycarbonate composite housing.A built-in LED strobe and IR strobe help rescuers on final approach at night or in low visibility.Batteries are tested for a ~28 hour runtime at -20\u00b0C, are good for a total of 60 self-tests/20 GPS tests, and last for 5 years on standby. Batteries should be replaced after emergency use.Waterproof to 5m for 1 hour and 10 metres for 10 minutes. Exceeds RTCM waterproof requirements.Approvals: COSPAS-SARSAT, FCC, Canada, AMSA and RED.Included multi position clip system lets you put the beacon right where you want it.5-year manufacturer warranty.Free registration is required with the Canadian Beacon Registry to ensure pertinent information about you, your group, travel plans, and medical history is available. Information can be updated at any time through canadianbeaconregistry.forces.gc.ca.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191800700958/6013461-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191799291934/6013461-NOC02-ALT-A.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191800700958/6013461-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191799291934/6013461-NOC02-ALT-A.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191800700958/6013461-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191799291934/6013461-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191800700958/6013461-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9191799291934/6013461-NOC02-ALT-A.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "ACR Resqlink View PLB-425 Personal Locator Beacon",
+  "product_code": "6013-461",
+  "source_url": "https://www.mec.ca/en/product/6013-461/Resqlink-View-PLB-425-Personal-Locator-Beacon",
+  "tech_specs": {
+    "Ability to test\n\nAllows you to test the unit.": [
+      "Yes"
+    ],
+    "Batteries": [
+      "Lithium-manganese (non-removable, replaceable by manufacturer)"
+    ],
+    "Battery life (operating)": [
+      "28\u00a0h"
+    ],
+    "Battery life (standby)": [
+      "43800\u00a0h"
+    ],
+    "Check-in feature\n\nAllows you to send a 'check-in' message to let people know you are safe.": [
+      "No"
+    ],
+    "Delivery confirmation\n\nLets you know that your message was received.": [
+      "Yes"
+    ],
+    "Dimensions": [
+      "5.2\u00a0x\u00a03.8\u00a0x\u00a011.5cm"
+    ],
+    "Floats": [
+      "Yes"
+    ],
+    "Frequency (alert)": [
+      "406MHz"
+    ],
+    "Frequency (homing)": [
+      "121.5MHz"
+    ],
+    "GPS data sent in SOS\n\nGPS coordinates are sent in each SOS message.": [
+      "Yes"
+    ],
+    "IPX rating\n\nIndicates the degree of protection against liquid. IP X1: Dripping water while in normal operating orientation; IP X4: Splashing water; IP X5: Water jets; IP X6: Powerful water jets; IP X7: Immersion up to 1m \u2264 30 minutes; IP X8: Suitable for submersion as specified by manufacturer.": [
+      "IP X8"
+    ],
+    "Ideal for": [
+      "Emergency preparedness"
+    ],
+    "Lanyard attachment": [
+      "Yes"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Operating temperature": [
+      "-20 to 55\u00b0C"
+    ],
+    "Rechargeability\n\nRechargeable lights give you hassle-free recharging with almost any power source. Replaceable batteries provide instant power, but you\u2019ll need to bring extra batteries, recycle used ones and buy new ones.": [
+      "Non-rechargeable"
+    ],
+    "Replaceable batteries": [
+      "Yes"
+    ],
+    "Satellite network used": [
+      "COSPAS-SARSAT"
+    ],
+    "Standards": [
+      "COSPAS-SARSAT T.001/T.007 class2",
+      "RTCM SC110 STD"
+    ],
+    "Transmission duration": [
+      "28 hours @ -20\u00baC"
+    ],
+    "Weight": [
+      "148g"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Cycling footwear",
+    "Cycling shoes",
+    "RC1 Cycling Shoes"
+  ],
+  "description": "Slick looking road shoes with an aggressive aero profile. A robust,  perforated upper lets your feet breath when you put the hammer down. The glass reinforced midsole offers great power transfer. And heel pads make it easy to walk when you stop for coffee.Synthetic leather upper is easy to clean and breathes well.Glass fibre reinforced nylon sole provides stiff pedalling platform.Triple hook and loops straps.Offset strap design reduces pressure on the top of the foot.Durable, wide heel pads.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127441825822/6011815-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285162014/6011815-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285227550/6011815-BK000-ALT-DOUBLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127441825822/6011815-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285162014/6011815-BK000-ALT-BOTTOM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285227550/6011815-BK000-ALT-DOUBLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127441825822/6011815-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285162014/6011815-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285227550/6011815-BK000-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127441825822/6011815-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285162014/6011815-BK000-ALT-BOTTOM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9127285227550/6011815-BK000-ALT-DOUBLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Shimano RC1 Cycling Shoes - Unisex",
+  "product_code": "6011-815",
+  "source_url": "https://www.mec.ca/en/product/6011-815/RC1-Cycling-Shoes",
+  "tech_specs": {
+    "Closure": [
+      "Hook-and-loop"
+    ],
+    "Ideal for": [
+      "Sport road cycling",
+      "Performance and race road cycling"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Outsole": [
+      "Nylon"
+    ],
+    "Pedal compatibility": [
+      "3-hole clipless"
+    ],
+    "Upper material": [
+      "Synthetic leather"
+    ],
+    "Waterproof\n\nWaterproof shoes and boots feature a waterproof-breathable membrane and a gusseted tongue to help keep your feet dry in wet conditions.": [
+      "No"
+    ],
+    "Weight": [
+      "476g (42)"
+    ]
+  }
+}

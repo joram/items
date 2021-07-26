@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tools and accessories",
+    "Knives and tools",
+    "Pocket knives and fixed blade knives",
+    "Fixed blade knives",
+    "Eggen Knife"
+  ],
+  "description": "With a wood handle that feels like an extension of your hand, the Eggen is a quality tool designed for years of use. Helle\u2019s laminated, 3-layer steel creates a rugged, drop-point blade that holds its edge and is easy to sharpen.Helle laminated steel sandwiches hard steel between softer steel sides, for toughness and edge retention that's not hard to sharpen.Scandinavian (Scandi) grind excels at bushcraft tasks.Handle is curly birch wood.Sculpted guard keeps fingers safe.Leather sheath places the knife right on the belt-line, keeping it close at hand.Since 1932, Helle knives have been made in Norway, passing from experienced craftsmen on its way to your belt.Variations in colour and patterns mean no two are alike.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8947379470366/5059524-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950828564510/5059524-NOC02-ALT-SHEATH.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8947379470366/5059524-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950828564510/5059524-NOC02-ALT-SHEATH.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8947379470366/5059524-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950828564510/5059524-NOC02-ALT-SHEATH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8947379470366/5059524-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8950828564510/5059524-NOC02-ALT-SHEATH.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Helle Eggen Knife",
+  "product_code": "5059-524",
+  "source_url": "https://www.mec.ca/en/product/5059-524/Eggen-Knife",
+  "tech_specs": {
+    "Blade edge type\n\nSerrated edges are useful for cutting dense material like rope or webbing. They stay sharper longer than straight edges, but can be more difficult to sharpen.": [
+      "Straight"
+    ],
+    "Blade length": [
+      "10.1cm"
+    ],
+    "Blade material": [
+      "Stainless steel"
+    ],
+    "Handle material": [
+      "Wood"
+    ],
+    "Ideal for": [
+      "Backpacking",
+      "Day hiking"
+    ],
+    "Knife length (open)": [
+      "21.1cm"
+    ],
+    "Made in": [
+      "Norway"
+    ],
+    "Sheath included": [
+      "Yes"
+    ],
+    "Sheath material": [
+      "Leather"
+    ],
+    "Weight": [
+      "170g"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Water bottles and water treatment",
+    "Water filters, treatment and tablets",
+    "Water filters",
+    "Water filter parts and accessories",
+    "Carbon Filter Replacement"
+  ],
+  "description": "Replace the carbon filter on your LifeStraw Go or Universal bottles.Treats up to 100L.Reduces chlorine, odour and taste from water.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147285569566/6012392-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9147285569566/6012392-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "LifeStraw Carbon Filter Replacement",
+  "product_code": "6012-392",
+  "source_url": "https://www.mec.ca/en/product/6012-392/Carbon-Filter-Replacement",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel",
+      "Everyday use",
+      "Emergency preparedness"
+    ],
+    "Made in": [
+      "Korea, Republic of"
+    ]
+  }
+}

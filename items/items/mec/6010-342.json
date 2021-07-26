@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "Bath and sanitation products",
+    "Showers, soap & travel toothbrushes",
+    "Toothpaste Tablets Mint in Glass Jar 60g 80 T"
+  ],
+  "description": "Keep your teeth feeling smooth and clean, without worrying about squishable tubes of toothpaste or liquids at the airport.Simply chew a tablet and start brushing, the fluoride free ingredients and organic spearmint extract will do the rest.Ingredients: calcium carbonate, sodium bicarbonate, xylitol, potassium bitartrate (cream of tartar), *spearmint flavour, *peppermint flavour, gum arabic, sel marin (sea salt), menthol, magnesium stearate, silica. *organic ingredientFluoride and gluten free.Contains approximately 80 tablets (packaged by weight).Vegan.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088327155742/6010342-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9088327155742/6010342-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Crush & Brush Mint Toothpaste Tablets",
+  "product_code": "6010-342",
+  "source_url": "https://www.mec.ca/en/product/6010-342/Toothpaste-Tablets-Mint-in-Glass-Jar-60g-80-T",
+  "tech_specs": {
+    "Ideal for": [
+      "Travel",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Product sustainability": [
+      "Vegan-friendly"
+    ]
+  }
+}

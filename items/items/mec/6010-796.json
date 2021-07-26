@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Swim fitness",
+    "Performance swim and lap suits",
+    "Endurance Square Leg Swimsuit"
+  ],
+  "description": "Made from Speedo's longest lasting fabric, this suit is highly resistant to chlorine and resists fading in the sun. Designed for swimmers who are training and prepping to compete.Endurance+ fabric is chlorine-resistant and retaind colour and shape.Body-hugging fit reduces drag.No-slip drawcord at waist.Lined front panel.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549500446/6010796-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021589022/6010796-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549500446/6010796-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021589022/6010796-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549500446/6010796-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021589022/6010796-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089549500446/6010796-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9090021589022/6010796-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Speedo Endurance Square Leg Swimsuit - Men's",
+  "product_code": "6010-796",
+  "source_url": "https://www.mec.ca/en/product/6010-796/Endurance-Square-Leg-Swimsuit",
+  "tech_specs": {
+    "Fabric content": [
+      "50% PBT",
+      "50% polyester"
+    ],
+    "Ideal for": [
+      "Swim training",
+      "Triathlon"
+    ],
+    "Made in": [
+      "Sri Lanka"
+    ]
+  }
+}

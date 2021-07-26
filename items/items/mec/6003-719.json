@@ -1,0 +1,94 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training food and drinks",
+    "Energy and protein bars",
+    "Peanut Butter Banana with Dark Chocolate"
+  ],
+  "description": "Clif took the childhood classic of peanut butter and banana, and brought it to the next level with chunks of rich, dark chocolate. Another tasty new flavour in Clif Bar's line-up of energy options.Ingredients: brown rice syrup, soy protein isolate, peanuts, rolled oats, cane syrup, rice flour, peanut butter, oat fiber, cane sugar, unsweetened chocolate, banana powder, roasted soybeans, soy flour, dried bananas, sea salt, cocoa butter, natural flavors, barley malt extract, soy lecithin, mixed tocopherols (antioxidant).Contains peanuts and soy.May contain tree nuts, milk and wheat.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023112773662/6003719-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9023112773662/6003719-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Clif Bar Peanut Butter Banana with Dark Chocolate",
+  "product_code": "6003-719",
+  "source_url": "https://www.mec.ca/en/product/6003-719/Peanut-Butter-Banana-with-Dark-Chocolate",
+  "tech_specs": {
+    "Best consumed": [
+      "Before exercise",
+      "During exercise"
+    ],
+    "Calories per serving": [
+      "260Cal"
+    ],
+    "Carbohydrates": [
+      "41g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "4g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Cycling",
+      "Running",
+      "Fitness and training"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Potassium": [
+      "210mg"
+    ],
+    "Protein": [
+      "10g"
+    ],
+    "Saturated fat": [
+      "2g"
+    ],
+    "Serving size": [
+      "1 bar"
+    ],
+    "Servings": [
+      "1"
+    ],
+    "Sodium": [
+      "260mg"
+    ],
+    "Soy free": [
+      "No"
+    ],
+    "Sugar": [
+      "21g"
+    ],
+    "Total fat": [
+      "7g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "Yes"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ],
+    "Weight": [
+      "68g"
+    ]
+  }
+}

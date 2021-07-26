@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Tents and shelters",
+    "Tent accessories",
+    "Tent repair and maintenance",
+    "Metal Tent/Tarp Grommet Kit"
+  ],
+  "description": "The kit can be used on canvas, plastic, leather, cotton or synthetic fabrics.20 pieces of 1cm brass-plated grommets.One cutting tool.One insert punch.One setting die.Additional grommets sold separately in packs of 20.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101534822430/0106161-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101534789662/0106161-NOC02-ALT-OPEN.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101534822430/0106161-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101534789662/0106161-NOC02-ALT-OPEN.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101534822430/0106161-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101534789662/0106161-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101534822430/0106161-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9101534789662/0106161-NOC02-ALT-OPEN.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Coghlan's Metal Tent/Tarp Grommet Kit",
+  "product_code": "0106-161",
+  "source_url": "https://www.mec.ca/en/product/0106-161/Metal-Tent-Tarp-Grommet-Kit",
+  "tech_specs": {
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "265g"
+    ]
+  }
+}

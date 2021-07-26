@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Packs and bags",
+    "Hydration packs and accessories",
+    "Bladders, reservoirs and accessories",
+    "3D Hydro 2L Reservoir"
+  ],
+  "description": "Battle your thirst, not your reservoir. Made of a more rigid material than traditional reservoirs, this one is easier to fill and to dry.Made of polyethylene film that is BPA and PVC free.Soft moulded 3D shape with full length internal baffle prevents contact between the two sides to speed up drying time and discourage bacteria growth.DryLock magnetic bite valve lets you lock off the valve for leak-free travel to and from the trail.Rubberized fill port opening and crescent shaped handle design keep the reservoir steady in your hands no matter when you fill it up.Integrated QuickDry hanger makes it easy to hang the reservoir upside down to dry.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160490975262/6007496-BL150.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160744927262/6007496-BL150-ALT-HANG.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160745386014/6007496-BL150-ALT-SIDE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160490975262/6007496-BL150.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160744927262/6007496-BL150-ALT-HANG.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160745386014/6007496-BL150-ALT-SIDE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160490975262/6007496-BL150.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160744927262/6007496-BL150-ALT-HANG.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160745386014/6007496-BL150-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160490975262/6007496-BL150.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160744927262/6007496-BL150-ALT-HANG.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9160745386014/6007496-BL150-ALT-SIDE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Gregory 3D Hydro 2L Reservoir",
+  "product_code": "6007-496",
+  "source_url": "https://www.mec.ca/en/product/6007-496/3D-Hydro-2L-Reservoir",
+  "tech_specs": {
+    "BPA-free": [
+      "Yes"
+    ],
+    "Bite valve shut-off switch": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Day hiking",
+      "Backpacking"
+    ],
+    "Internal baffle\n\nInternal baffles help reduce liquid sloshing.": [
+      "Yes"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Material": [
+      "Polyethylene"
+    ],
+    "Quick-disconnect tube": [
+      "Yes"
+    ],
+    "Volume": [
+      "2L"
+    ],
+    "Weight": [
+      "185g"
+    ]
+  }
+}

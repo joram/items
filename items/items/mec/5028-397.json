@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Health and safety",
+    "First aid kits and supplies",
+    "First aid supplies",
+    "Tick Tweezers"
+  ],
+  "description": "Get ticked off in a good way. These tick extractors are ergonomically designed to efficiently remove ticks without leaving the head buried under the skin.Made of burly stainless steel.Dimensions are 120 x 10mm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809976823838/5028397-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8809976823838/5028397-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "LifeSystems Tick Tweezers",
+  "product_code": "5028-397",
+  "source_url": "https://www.mec.ca/en/product/5028-397/Tick-Tweezers",
+  "tech_specs": {
+    "Ideal for": [
+      "Alpine climbing and mountaineering",
+      "Travel",
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Weight": [
+      "31g"
+    ]
+  }
+}

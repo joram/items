@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Sunglasses",
+    "Kids' sunglasses",
+    "Trekker Sunglasses"
+  ],
+  "description": "Fun sunglasses for toddlers. They offer the same level of protection and performance as our adult styles. The rubber frames will endure being dropped overboard from the kid carrier.Lead-free materials.Lens has light transmission rates of 12.4% visible light, 4% blue.Fits kids from 0 to 3 years.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813295960094/5028044-BL117.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8813295960094/5028044-BL117.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Trekker Sunglasses - Infants",
+  "product_code": "5028-044",
+  "source_url": "https://www.mec.ca/en/product/5028-044/Trekker-Sunglasses",
+  "tech_specs": {
+    "100% UVA protected": [
+      "Yes"
+    ],
+    "100% UVB protected": [
+      "Yes"
+    ],
+    "Frame material\n\nTR90 thermoplastic offers good resistance to chemicals and torsion. Propionate is a light, nylon-based, hypoallergenic plastic that's very strong and offers more transparency and gloss than other plastics.": [
+      "Rubber"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Interchangeable lenses\n\nInterchangeable lenses let you change lenses to suit differing light conditions or activities.": [
+      "No"
+    ],
+    "Lens height\n\nMeasures the height of the lens within the frame, excluding the lens curve.": [
+      "36mm"
+    ],
+    "Lens material": [
+      "Polycarbonate"
+    ],
+    "Lens performance\n\nFixed tints provide a constant degree of darkness. Photochromic lenses adjust to changing light levels. Polarized lenses absorb horizontal reflected glare to improve clarity around surfaces like snow or water.": [
+      "Fixed tint"
+    ],
+    "Lens width\n\nRefers to the horizontal width in millimeters of one of the frame's lenses.": [
+      "47mm"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Nose bridge width\n\nThe gap between the lenses, measured at the smallest point.": [
+      "17mm"
+    ],
+    "Temple length\n\nThe length of an arm from tip to tip.": [
+      "104mm"
+    ]
+  }
+}

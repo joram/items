@@ -1,0 +1,103 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bikes",
+    "Mountain bikes",
+    "Fat CAAD 2 Bicycle"
+  ],
+  "description": "Pairing massive, ultra-capable 4in. tires with an industry-leading frame, this bike is a monster truck with the soul of a racer. For riding fast on snow and other loose surfaces, the Fat CAAD features a slack head angle for reassuring handling and nimbleness on tight curves. The frame is a thing of ultralight beauty, with hydroformed, mechanically shaped tubes, ultra-refined taper butting and durable double-pass welds. Simple, reliable Shimano 1X drivetrain provides a huge gear range for steep climbs, and integrated cranks with offset chainring reduce the Q-factor by 2.5cm (compared to most fat bikes), so it feels like you're riding a bike rather than straddling a horse.Ultralight and durable SmartForm C1 Alloy frame is Cannondale's premium 6061 aluminum construction.OutFront steering geometry pairs a slack head angle with long fork offset for stability, confidence and agility.Rigid aluminum fork is reliable and super-efficient on firm surfaces.Integrated cranks and offset chainring means a narrower Q-factor and comfortable, ergonomic pedaling.Shimano SLX 1x11-speed shifter and derailleur is paired with a Sunrace 11-46T cassette.SRAM Level Hydraulic disc brakes provide unmatched stopping power in all conditions.26in. wheels are agile and have a low rolling resistance.Huge Maxxis Minion tires provide float in snow, sand and mud, fantastic grip on climbs and a smooth ride in uneven terrain.Bikes are covered by MEC's Rocksolid Guarantee and Bike Service Agreement. You can bring your bike to any MEC Bike Shop for free adjustments and minor maintenance for two years after purchase.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168630087710/6013741-GCY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153619296286/6013741-GCY00-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168630087710/6013741-GCY00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153619296286/6013741-GCY00-ALT-ANGLE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168630087710/6013741-GCY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153619296286/6013741-GCY00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9168630087710/6013741-GCY00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9153619296286/6013741-GCY00-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Cannondale Fat CAAD 2 Bicycle - Unisex",
+  "product_code": "6013-741",
+  "source_url": "https://www.mec.ca/en/product/6013-741/Fat-CAAD-2-Bicycle",
+  "tech_specs": {
+    "Bottom bracket": [
+      "BB30"
+    ],
+    "Brake levers": [
+      "SRAM Level"
+    ],
+    "Brakes\n\nMechanical disc brakes are more powerful than rim brakes, but less powerful than hydraulic brakes.": [
+      "SRAM Level (hydraulic disc)"
+    ],
+    "Cassette\n\nCassettes with a smaller range allow you to go faster; a bigger range makes climbing hills easier.": [
+      "Sunrace MS8-E 11-speed 11-46T"
+    ],
+    "Chain": [
+      "KMC X11"
+    ],
+    "Crank + rings": [
+      "Cannondale 1 BB30 Ai Offset SpideRing X-Sync 30T"
+    ],
+    "Derailleur (rear)": [
+      "Shimano SLX GS"
+    ],
+    "Fork": [
+      "Cannondale Fatty aluminum"
+    ],
+    "Frame": [
+      "Cannondale SmartForm C1 Alloy aluminum"
+    ],
+    "Grips/tape": [
+      "Cannondale Dual Density"
+    ],
+    "Handlebars": [
+      "Cannondale 3 Riser 780mm 31.8mm"
+    ],
+    "Headset": [
+      "Tange Seiki Integrated"
+    ],
+    "Hub (front)": [
+      "Sun Ringle SRC 15x150"
+    ],
+    "Hub (rear)\n\nThe hub affects a bike\u2019s rolling efficiency. Internally geared hubs require significantly less maintenance.": [
+      "Sun Ringle SRC 12x197"
+    ],
+    "Ideal for": [
+      "Trail riding"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Pedals": [
+      "Sold separately"
+    ],
+    "Rims": [
+      "Sun Ringle Mulef\u00fct 80 SL"
+    ],
+    "Saddle": [
+      "Cannondale Stage 3"
+    ],
+    "Seatpost": [
+      "Cannondale 3 6061 Alloy"
+    ],
+    "Shifters": [
+      "Shimano SLX"
+    ],
+    "Spokes": [
+      "Stainless"
+    ],
+    "Stem": [
+      "Cannondale C3 6061 31.8mm 7\u00b0"
+    ],
+    "Tires": [
+      "Maxxis Minion FBF 26 x 4.0",
+      "Maxxis Minion FBR 26 x 4.0"
+    ]
+  }
+}

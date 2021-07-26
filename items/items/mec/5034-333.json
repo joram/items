@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike racks, carriers and storage",
+    "Bike storage racks",
+    "Velo Cache 2-Bike Column"
+  ],
+  "description": "Multi-story, indoor parking for your bikes. Store 2 bikes in the same square footage as a single ride. The free-standing design leaves your walls and ceilings unblemished.Cradle arm heights adjust independently to fit nearly any bike.Stable three-legged design.Body is anodized aluminum, arms are steel.Height is 2.1mBase footprint is 58cm x 83cm.Support arm length is 25cm.Load capacity is 18kg per cradle, 36kg total.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807070531614/5034333-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807070564382/5034333-BK000-ALT-ARM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807070597150/5034333-BK000-ALT-WITHBIKE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807070531614/5034333-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807070564382/5034333-BK000-ALT-ARM.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807070597150/5034333-BK000-ALT-WITHBIKE.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807070531614/5034333-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807070564382/5034333-BK000-ALT-ARM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807070597150/5034333-BK000-ALT-WITHBIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807070531614/5034333-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807070564382/5034333-BK000-ALT-ARM.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8807070597150/5034333-BK000-ALT-WITHBIKE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Feedback Sports Velo Cache 2-Bike Column",
+  "product_code": "5034-333",
+  "source_url": "https://www.mec.ca/en/product/5034-333/Velo-Cache-2-Bike-Column",
+  "tech_specs": {
+    "Ideal for": [
+      "Cycling"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Maximum load": [
+      "36kg"
+    ],
+    "Stores": [
+      "2 bikes"
+    ],
+    "Type": [
+      "Free-standing"
+    ]
+  }
+}

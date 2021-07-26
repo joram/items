@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike helmets and body armour",
+    "Bike helmets",
+    "Vio Adventure Helmet"
+  ],
+  "description": "A stylish helmet that won\u2019t clash with your business casual on the daily commute. Under the Vio\u2019s clean lines MIPS\u00ae technology (Multi-directional Impact Protection System) helps keep you safe.In-mould construction combines a polycarbonate shell with an EPS inner.MIPS technology improves protection from rotational impacts.Adjustable dial fit.Fidlock\u2122 magnetic buckle.Plenty of air vents.Removable sun visor.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182573428766/6014872-TOP01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182573395998/6014872-BUS00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182573428766/6014872-TOP01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182573395998/6014872-BUS00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182573428766/6014872-TOP01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182573395998/6014872-BUS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182573428766/6014872-TOP01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9182573395998/6014872-BUS00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Nutcase Vio Adventure Helmet - Unisex",
+  "product_code": "6014-872",
+  "source_url": "https://www.mec.ca/en/product/6014-872/Vio-Adventure-Helmet",
+  "tech_specs": {
+    "Approved for\n\nMost helmets are tested and certified for a specific sport. Some helmets are approved for multi-sports, but only after passing the safety tests for both sports (i.e., snowsports and cycling).": [
+      "Cycling"
+    ],
+    "Circumference\n\nThe internal circumference determines the size head that the helmet will fit.": [
+      "55-59cm (Topo Small/Medium)",
+      "59-62cm (Topo Large/X-Large)"
+    ],
+    "Construction\n\nMicroshell helmets are made of a thin polymer sheet over a foam liner; Hardshell helmets have a hard polymer outer shell and a foam liner; when the liner is being bonded to the outer shell during the manufacturing process, it is Molded in the shell.": [
+      "Molded in the shell"
+    ],
+    "Fit system": [
+      "Adjustable dial"
+    ],
+    "Ideal for": [
+      "Cycle commuting",
+      "Urban cycling"
+    ],
+    "Inner material": [
+      "EPS (expanded polystyrene)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Safety rating\n\nCetification is established by a variety of governing bodies who set impact standards. Most helmets are certified or approved for a specific sport, except in the case of multi-sport helmets (i.e., a snowsports helmet might also be approved for cycling if it meets the cycling safety standards).": [
+      "CPSC"
+    ],
+    "Shell material": [
+      "Polycarbonate"
+    ],
+    "Vents": [
+      "Yes"
+    ]
+  }
+}

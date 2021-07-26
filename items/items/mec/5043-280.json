@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Travel accessories",
+    "Locks, tags and flags",
+    "Prosafe 800 3-Dial Cable Lock"
+  ],
+  "description": "A three dial combo lock with a 10cm high tensile steel cable that is TSA approved so TSA (US) agents and HRSC (UK) officers can open and relock your bag using codes and secured tools \u2013 and leave your locks and bags undamaged.Lock is zinc alloy with a 10cm high-tensile steel cable.3-dial combo is resettable.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815442493470/5043280-SIL00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815442493470/5043280-SIL00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Pacsafe Prosafe 800 3-Dial Cable Lock",
+  "product_code": "5043-280",
+  "source_url": "https://www.mec.ca/en/product/5043-280/Prosafe-800-3-Dial-Cable-Lock",
+  "tech_specs": {
+    "Dimensions": [
+      "8\u00a0x\u00a03.3cm"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Locking mechanism": [
+      "Combination"
+    ],
+    "Made in": [
+      "Taiwan"
+    ],
+    "Material": [
+      "Zinc alloy"
+    ],
+    "Type": [
+      "Cable lock"
+    ],
+    "Weight": [
+      "53g"
+    ]
+  }
+}

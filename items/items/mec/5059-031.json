@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Bottoms",
+    "Pants",
+    "Jeans",
+    "311 Shaping Skinny Jeans"
+  ],
+  "description": "Designed to lift, shape and lengthen. The 311 Shaping Skinny has that classic skinny jean silhouette that goes with everything.5-pocket layout for all your day-to-day necessities.Shapes through the hips and thighs for a flattering silhouette.Slimming front panel creates a flat tummy look.Comfortable stretch in the waistband moves with you.Skinny leg and mid-rise for the classic skinny jean profile.Levi\u2019s sources more than 17% of its cotton through the Better Cotton Initiative (BCI). The BCI is a not-for-profit association committed to a holistic approach to sustainable cotton production.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708820510/5059031-ARN04.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9165708820510/5059031-ARN04.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Levis 311 Shaping Skinny Jeans - Women's",
+  "product_code": "5059-031",
+  "source_url": "https://www.mec.ca/en/product/5059-031/311-Shaping-Skinny-Jeans",
+  "tech_specs": {
+    "Fabric content": [
+      "60% cotton",
+      "24% polyester",
+      "12% viscose",
+      "4% spandex"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "30in. (8)"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Made in": [
+      "Turkey"
+    ],
+    "Pockets": [
+      "1 front drop-in",
+      "2 front slash",
+      "2 back"
+    ]
+  }
+}

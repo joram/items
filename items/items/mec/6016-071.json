@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Swimwear",
+    "Boardshorts",
+    "Guide Shorts"
+  ],
+  "description": "Comfy shorts for the beach or at base camp. A long inseam provides plenty of coverage, and a classic cut feels great where ever you wear them. Go ahead, take the plunge.Tough nylon fabric with plenty of stretch.Zippered fly with button closure.Plenty of pockets, some zippered, hold daily essentials.Low-rise cut.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189850316830/6016071-GUN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858443294/6016071-GUN00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858508830/6016071-GUN00-ALT-FRONT.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189850316830/6016071-GUN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858443294/6016071-GUN00-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858508830/6016071-GUN00-ALT-FRONT.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189850316830/6016071-GUN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858443294/6016071-GUN00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858508830/6016071-GUN00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189850316830/6016071-GUN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858443294/6016071-GUN00-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9189858508830/6016071-GUN00-ALT-FRONT.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "NRS Guide Shorts - Women's",
+  "product_code": "6016-071",
+  "source_url": "https://www.mec.ca/en/product/6016-071/Guide-Shorts",
+  "tech_specs": {
+    "Fabric content": [
+      "89% nylon",
+      "11% elastane"
+    ],
+    "Finished inseam\n\nThe finished inseam measurement of the garment.": [
+      "9in. (M)"
+    ],
+    "Ideal for": [
+      "Casual wear",
+      "Beach"
+    ],
+    "Made in": [
+      "Cambodia"
+    ],
+    "Pockets": [
+      "2 front slash",
+      "1 front zippered",
+      "1 side zippered",
+      "1 back zippered"
+    ],
+    "UPF rating\n\nThe Ultraviolet Protection Factor rating indicates how effective a fabric is at blocking out solar ultraviolet radiation.": [
+      "40-50+ (Blocks ~97.5% of UVA/UVB)"
+    ]
+  }
+}

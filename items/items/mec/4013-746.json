@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Cycling",
+    "Bike maintenance and storage",
+    "Bike tools",
+    "Bike chain service",
+    "Bio-Cycle 4L Chain Cleaner"
+  ],
+  "description": "This heavy-duty, biodegradable degreaser can be used to clean your bike components, or in a chain-cleaner device. It is water-soluble, containing an organic solvent and mild alkalis. Note: Do not soak bike parts in Bio Cycle for extended periods of time as damage may result.Contains no petroleum distillates, acids or silicones, and will not harm painted surfaces if used as directed.Contains 4L.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881910939678/4013746-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881910939678/4013746-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "MEC Bio-Cycle 4L Chain Cleaner",
+  "product_code": "4013-746",
+  "source_url": "https://www.mec.ca/en/product/4013-746/Bio-Cycle-4L-Chain-Cleaner",
+  "tech_specs": {
+    "Biodegradable": [
+      "Yes"
+    ],
+    "Ideal for": [
+      "Bike maintenance"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Volume": [
+      "4L"
+    ],
+    "Weight": [
+      "4kg"
+    ]
+  }
+}

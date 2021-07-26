@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Travel gear",
+    "Books and maps",
+    "Training guides and instructional books",
+    "Voyager avec des Enfants"
+  ],
+  "description": "A great reference for learning to travel and adventure with children. It covers local destinations, visits abroad, camping, and even five-star hotels. The authors, have 30 years of experience in the field of tourism, offer some effective tips and ideas for children of different ages and for using different modes of transport. Text is in French.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815754575902/5035969-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8815754575902/5035969-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Ulysses Voyager avec des Enfants",
+  "product_code": "5035-969",
+  "source_url": "https://www.mec.ca/en/product/5035-969/Voyager-avec-des-Enfants",
+  "tech_specs": {
+    "Author": [
+      "Isabelle Chagnon, Lio Kiefer"
+    ],
+    "ISBN": [
+      "9782894644386"
+    ],
+    "Ideal for": [
+      "Travel"
+    ],
+    "Language": [
+      "French"
+    ],
+    "Made in": [
+      "Canada"
+    ],
+    "Published": [
+      "2013"
+    ]
+  }
+}

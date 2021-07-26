@@ -1,0 +1,51 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Cross country skiing gear",
+    "Cross country classic",
+    "Classic skis",
+    "Nordic Intelligrip Cross-country Skis"
+  ],
+  "description": "Recreational racers and keen fitness skiers will appreciate the light core and slightly narrower, faster profile. A mohair and nylon skin ensures optimal kick, without needing to spend time waxing the kick zone.Paulownia wood core surrounded by carbon reinforcement for lightness, stiffness, and torsion.P-Tex 2000 Electra sintered racing bases.IntelliGrip\u00ae integrated skin provides strong grip and glide.NIS binding plate premounted.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9149335306270/6013636-WBR00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9149335306270/6013636-WBR00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Madshus Nordic Intelligrip Cross-country Skis - Unisex",
+  "product_code": "6013-636",
+  "source_url": "https://www.mec.ca/en/product/6013-636/Nordic-Intelligrip-Cross-country-Skis",
+  "tech_specs": {
+    "Bindings included": [
+      "No"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Structural cap"
+    ],
+    "Core": [
+      "Wood",
+      "Carbon"
+    ],
+    "Dimension (all lengths)": [
+      "48-44-46mm"
+    ],
+    "Ideal for": [
+      "Recreational classic skiing",
+      "Fitness classic skiing"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Metal edge": [
+      "No"
+    ],
+    "Waxless\n\nOften called \"fish scale\" skis, waxless skis are designed so you don't need to apply kick wax. However, you may still want to apply glide wax for a better glide. They are a good option for those who don't like waxing, or for regions where temperatures can vary greatly throughout the day.": [
+      "Yes"
+    ]
+  }
+}

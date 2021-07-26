@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Watersports",
+    "Paddleboarding",
+    "SUP paddles",
+    "Spark 85 2-Piece SUP Paddle"
+  ],
+  "description": "Easy to use and budget friendly. The bent-shaft add power to each stroke, and the shaped grip is comfy to grasp. The goldilocks of blades, not too big and not too small, is fun and won't tire out too fast.2-piece aluminum shaft.Fiberglass and epX polymer blade.Adjustable length reduces muscle fatigue and promotes good posture.2 length settings secure with a secure snap-button.10 degree bend for powerful paddling.Contoured grip.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089836449822/6010151-BK000.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9089836449822/6010151-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Aqua-Bound Spark 85 2-Piece SUP Paddle",
+  "product_code": "6010-151",
+  "source_url": "https://www.mec.ca/en/product/6010-151/Spark-85-2-Piece-SUP-Paddle",
+  "tech_specs": {
+    "Blade angle": [
+      "10\u00b0"
+    ],
+    "Blade dimensions": [
+      "46\u00a0x\u00a018cm\u00a0(18\u00bc\u00a0x\u00a07.125in.)"
+    ],
+    "Blade material": [
+      "Fibreglass reinforced plastic"
+    ],
+    "Blade shape\n\nBlade shapes are designed to apply power efficiently. Short, wide: immediate power. Long, narrow: better leverage in turbulent water. Wing: channels water for maximum power and speed.": [
+      "Teardrop"
+    ],
+    "Ideal for": [
+      "All-around SUP"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Shaft material": [
+      "Aluminum"
+    ],
+    "Shaft type": [
+      "Bent"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Camping kitchen and hydration",
+    "Food and drink",
+    "Snacks",
+    "Chocolate bars",
+    "Mintfully Brownie Chocolate Bar"
+  ],
+  "description": "Inspired by a letter from a 6th grade class, this blend of refreshing mint crystals, rich brownie and ultra-smooth dark chocolate, shows that delicious has nothing to do with age.Ingredients: 60% dark chocolate (cacao, cane sugar, cacao butter, sunflower lecithin [as an emulsifier], natural vanilla), brownie (wheat flour, sugar, palm oil, cocoa, salt, natural flavor, baking soda), mint sprinkle (cane sugar, natural flavor).Allergens: contains wheat.Manufactured in a facility that uses milk, soy, tree nuts and wheat on shared equipment.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9033561341982/6004451-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9033561341982/6004451-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Chuao Mintfully Brownie Chocolate Bar",
+  "product_code": "6004-451",
+  "source_url": "https://www.mec.ca/en/product/6004-451/Mintfully-Brownie-Chocolate-Bar",
+  "tech_specs": {
+    "Calories per serving": [
+      "220Cal"
+    ],
+    "Carbohydrates": [
+      "23g"
+    ],
+    "Cholesterol": [
+      "0mg"
+    ],
+    "Dairy free": [
+      "Yes"
+    ],
+    "Dietary fibre": [
+      "5g"
+    ],
+    "Gluten free\n\nMade with gluten-free ingredients, but not necessarily in a guaranteed gluten-free environment.": [
+      "No"
+    ],
+    "Ideal for": [
+      "Camping and hiking",
+      "Everyday use"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Nut free\n\nThis product is nut free and is produced in a nut free environment.": [
+      "No"
+    ],
+    "Protein": [
+      "3g"
+    ],
+    "Saturated fat": [
+      "8g"
+    ],
+    "Serving size": [
+      "1/2 bar"
+    ],
+    "Servings": [
+      "2"
+    ],
+    "Sodium": [
+      "50mg"
+    ],
+    "Soy free": [
+      "Yes"
+    ],
+    "Sugar": [
+      "16g"
+    ],
+    "Total fat": [
+      "13g"
+    ],
+    "Vegan\n\nThis product does not contain animal products or by-products.": [
+      "No"
+    ],
+    "Vegetarian\n\nDoes not contain animal products but may contain dairy or egg products.": [
+      "Yes"
+    ]
+  }
+}

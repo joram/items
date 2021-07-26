@@ -1,0 +1,92 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Clothing",
+    "Clothing accessories",
+    "Belts",
+    "Adventure Belt"
+  ],
+  "description": "Forged from durable nylon with a burly plastic buckle, it keeps your pants up wherever you're headed, whatever you're doing. Goes with your snow pants, jeans or fancy pants. Yes, it really is that versatile.Flat, low-profile buckle is easy to open and close, yet won't get in the way during activity.Stretch material.One-size design for the perfect fit every time.Machine washable should things get funky.Ranger Green Camo colourway is a limited release collaboration with Roark.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002660069406/5055506-RNA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049366331422/5055506-RNA00-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049366364190/5055506-RNA00-ALT-LOGO.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881066573854/5055506-MBK01-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881066803230/5055506-MBK01-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049365217310/5055506-HBL07-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049365381150/5055506-HBL07-ALT-LOGO.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164671123486/5055506-RIB02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164670959646/5055506-RHN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879370141726/5055506-MBK01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002659250206/5055506-HBL07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164670861342/5055506-BIG06.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002660069406/5055506-RNA00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049366331422/5055506-RNA00-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049366364190/5055506-RNA00-ALT-LOGO.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881066573854/5055506-MBK01-ALT-ONMODEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881066803230/5055506-MBK01-ALT-ANGLE.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049365217310/5055506-HBL07-ALT-FOLDED.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049365381150/5055506-HBL07-ALT-LOGO.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164671123486/5055506-RIB02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164670959646/5055506-RHN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879370141726/5055506-MBK01.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002659250206/5055506-HBL07.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164670861342/5055506-BIG06.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002660069406/5055506-RNA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049366331422/5055506-RNA00-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049366364190/5055506-RNA00-ALT-LOGO.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881066573854/5055506-MBK01-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881066803230/5055506-MBK01-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049365217310/5055506-HBL07-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049365381150/5055506-HBL07-ALT-LOGO.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164671123486/5055506-RIB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164670959646/5055506-RHN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879370141726/5055506-MBK01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002659250206/5055506-HBL07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164670861342/5055506-BIG06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002660069406/5055506-RNA00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049366331422/5055506-RNA00-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049366364190/5055506-RNA00-ALT-LOGO.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881066573854/5055506-MBK01-ALT-ONMODEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8881066803230/5055506-MBK01-ALT-ANGLE.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049365217310/5055506-HBL07-ALT-FOLDED.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9049365381150/5055506-HBL07-ALT-LOGO.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164671123486/5055506-RIB02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164670959646/5055506-RHN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8879370141726/5055506-MBK01.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9002659250206/5055506-HBL07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9164670861342/5055506-BIG06.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Arcade Adventure Belt - Unisex",
+  "product_code": "5055-506",
+  "source_url": "https://www.mec.ca/en/product/5055-506/Adventure-Belt",
+  "tech_specs": {
+    "Belt material": [
+      "Nylon"
+    ],
+    "Buckle material": [
+      "Plastic"
+    ],
+    "Ideal for": [
+      "Casual wear"
+    ],
+    "Length": [
+      "104cm (Foundation Heather Black)",
+      "104cm (Midnighter Black)",
+      "104cm (Ranger Navy)"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Width": [
+      "3.8cm (Foundation Heather Black)",
+      "3.8cm (Midnighter Black)",
+      "3.8cm (Ranger Navy)"
+    ]
+  }
+}

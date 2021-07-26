@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Kids",
+    "Youth (8-16 yrs)",
+    "Youth clothing",
+    "Youth accessories",
+    "Youth socks",
+    "Youth hiking socks",
+    "Hiker Junior 1/4 Socks"
+  ],
+  "description": "Tough socks for tough kids tackling tough hikes. The merino wool blend stands up to long days on the trail.Lightweight merino blend fabric feels cool in summer, warm in winter and is naturally anti-microbial.Seamless construction ensures no slipping, bunching or blisters.Darn Tough sources their wool from non-mulesed sheep.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926725996574/5057283-PNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926725963806/5057283-GRN00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926725996574/5057283-PNK00.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926725963806/5057283-GRN00.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926725996574/5057283-PNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926725963806/5057283-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926725996574/5057283-PNK00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8926725963806/5057283-GRN00.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Darn Tough Hiker Junior 1/4 Socks - Youths",
+  "product_code": "5057-283",
+  "source_url": "https://www.mec.ca/en/product/5057-283/Hiker-Junior-1-4-Socks",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Seamless toe"
+    ],
+    "Anatomical fit\n\nLeft foot and right foot specific socks provide precise fit.": [
+      "No"
+    ],
+    "Cuff height": [
+      "Quarter"
+    ],
+    "Cushioning\n\nLayers of cushioning, in some athletic socks, are knit in to reduce impact. Mapped socks are activity-specific and will offer cushioning in common pressure areas.": [
+      "Heel and forefoot"
+    ],
+    "Fabric content": [
+      "55% nylon",
+      "41% merino wool",
+      "4% Lycra Spandex"
+    ],
+    "Ideal for": [
+      "Camping and hiking"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Thickness": [
+      "Medium"
+    ]
+  }
+}

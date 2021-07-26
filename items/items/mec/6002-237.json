@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Ski and snowboard clothing",
+    "Ski and snow pants",
+    "Ridge Full Zip Pants"
+  ],
+  "description": "These warm and breathable soft shell pants let you ski on at your own pace. Stretch backing and articulated legs provide comfort and mobility. Wear them alone or pull them on over a base layer.Water and wind resistant soft shell with Bionic Finish Eco\u00ae (a natural fluorine \u2013 free hydrophobic finish).Elastic fabric, and articulated legs for maximum movement.Elastic waistband (with drawstring).Front pockets with YKK\u00ae zipper.Reflective details for enhanced visibility in low light.YKK full zipper on lower leg lets you pull them on easily.Cuffs with silicone grip to keep everything in place.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047972970526/6002237-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047967465502/6002237-BK000-ALT-BACK.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047972970526/6002237-BK000.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047967465502/6002237-BK000-ALT-BACK.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047972970526/6002237-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047967465502/6002237-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047972970526/6002237-BK000.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9047967465502/6002237-BK000-ALT-BACK.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "B Daehlie Ridge Full Zip Pants - Women's",
+  "product_code": "6002-237",
+  "source_url": "https://www.mec.ca/en/product/6002-237/Ridge-Full-Zip-Pants",
+  "tech_specs": {
+    "Additional feature(s)": [
+      "Ankle zips",
+      "Reflective details"
+    ],
+    "Durable water repellency\n\nUsually referred to as DWR. A treatment made to fabrics that causes water to bead and run off instead of soaking through.": [
+      "Yes"
+    ],
+    "Fabric content": [
+      "100% polyester"
+    ],
+    "Ideal for": [
+      "Cross-country skiing",
+      "Snowshoeing",
+      "Snowshoe running"
+    ],
+    "Made in": [
+      "China"
+    ],
+    "Pockets": [
+      "2 front zippered"
+    ],
+    "Secondary fabric": [
+      "92% polyester",
+      "8% spandex"
+    ],
+    "Type": [
+      "Soft shell"
+    ],
+    "Waterproofness\n\nWaterproof garments use waterproof-breathable technologies and are fully seam-taped. Water-resistant garments use waterproof-breathable technologies but their seams are not taped. Water-resistant garments repel water and protect against wind but are not made of waterproof fabric.": [
+      "Water-resistant"
+    ],
+    "Windproofness\n\nA windproof garment does not allow any air to permeate the fabric.  A garment with windproof panels has panels of fabric that are totally windproof, but the rest of the garment may not be windproof.  A wind-resistant garment resists some wind, but not as much as a garment that is windproof.": [
+      "Wind-resistant"
+    ]
+  }
+}

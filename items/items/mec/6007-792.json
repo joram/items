@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Camping and hiking",
+    "Packs",
+    "Backpacking packs",
+    "Overnight packs (35 - 55l)",
+    "Climber Backpack"
+  ],
+  "description": "Take your rock apprentice with you. Designed for young climbers, this pack is built with the same gear-focused details as Deuter's adult models. The harness provides a good balance of support and comfort and at 22 liters, it's big enough for your sidekick to carry their own gear. Exterior pockets keep water bottles and a headlamp grab-able.Durable 210-denier nylon.DWR coating sheds light precipitation.Top loading design closes with 2 buckes.Youth-specific Alpine Harness system for support and airflow.Sternum strap with an integrated safety whistle.Removable hipbelt with 2 gear loops.2 stretch mesh side pockets.1 zippered security pocket, with a key clip.Hydration compatible (reservoir sold separately).Helmet attachment.Tool/pole attachments.Recommended torso length: 25-43cm.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091646586910/6007792-CNY07.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9091646586910/6007792-CNY07.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Deuter Climber Backpack - Children to Youths",
+  "product_code": "6007-792",
+  "source_url": "https://www.mec.ca/en/product/6007-792/Climber-Backpack",
+  "tech_specs": {
+    "Access\n\nThe location of all access points into the main compartment of the pack.": [
+      "Top"
+    ],
+    "Additional feature(s)": [
+      "Compression straps",
+      "DWR-treated shell fabric",
+      "Helmet attachment",
+      "Hydration compatible (reservoir sold separately)",
+      "Ice axe/pole attachment"
+    ],
+    "Carry-on sized\n\nSize restrictions vary among airlines. Just to be sure, check with your carrier for their specific restrictions.": [
+      "Yes"
+    ],
+    "Hipbelt": [
+      "Removable waistbelt"
+    ],
+    "Ideal for": [
+      "Rock climbing",
+      "Day hiking"
+    ],
+    "Lid type\n\nSome pack lids can be adjusted to compensate for overloaded packs, or even removed, and some removeable lids have tuck-away hipbelts that allow youto use them as a waistpack.": [
+      "Fixed"
+    ],
+    "Made in": [
+      "Vietnam"
+    ],
+    "Main fabric": [
+      "210-denier HT ripstop nylon"
+    ],
+    "Ventilated back panel": [
+      "Yes"
+    ],
+    "Volume": [
+      "22L"
+    ]
+  }
+}

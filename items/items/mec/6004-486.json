@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Ski and snowboard gear",
+    "Downhill skiing gear",
+    "Downhill skis",
+    "Soul 7 HD Skis"
+  ],
+  "description": "A fat freeride ski that can serve as your entire quiver. Floaty in powder with crud-busting power, it's lightweight and easy to turn in all conditions. Powder-turn rocker with camber underfoot adds grip on the groomers, while rocker at the tip and tail offers flotation and steering control. Air tip 2.0 provides minimal swing weight so it's quick and easy to steer, while remaining torsionally stiff. The centre of gravity is right underfoot for lots of power and direct control.Mini-cap sandwich construction with reinforced topsheet for durability.Angled sidewalls reduce inertia and overall weight while improving grip.Light paulownia wood core keeps the ski nimble and easy to manoeuvre.Carbon and basalt weave reinforcement makes for a damp, powerful and playful ride.Centred sidecut features short shallow sidecut underfoot for grip and power in the centre, and liveliness in the tip and tail.Redesigned Air tip 2.0 provides maximum lightness while retaining torsional rigidity for power underfoot.Powder turn rocker: 50% low camber underfoot and 50% rocker at the tip and tail for versatile ski performance in both hard and soft snow.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054228250654/6004486-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054222778398/6004486-NOC02-ALT-BASES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054222811166/6004486-NOC02-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054222843934/6004486-NOC02-ALT-TIPUNDER.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054228250654/6004486-NOC02.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054222778398/6004486-NOC02-ALT-BASES.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054222811166/6004486-NOC02-ALT-HEEL.jpg",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054222843934/6004486-NOC02-ALT-TIPUNDER.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054228250654/6004486-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054222778398/6004486-NOC02-ALT-BASES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054222811166/6004486-NOC02-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054222843934/6004486-NOC02-ALT-TIPUNDER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054228250654/6004486-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054222778398/6004486-NOC02-ALT-BASES.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054222811166/6004486-NOC02-ALT-HEEL.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF",
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/9054222843934/6004486-NOC02-ALT-TIPUNDER.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Rossignol Soul 7 HD Skis - Men's",
+  "product_code": "6004-486",
+  "source_url": "https://www.mec.ca/en/product/6004-486/Soul-7-HD-Skis",
+  "tech_specs": {
+    "Ability\n\nBeginner: new or getting back into skiing.  Intermediate: confident with turning and stopping.  Advanced: highly confident carver. Expert: steeps, drops, park, double blacks -- bring it on.": [
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ],
+    "Bindings included": [
+      "No"
+    ],
+    "Construction\n\nSandwich and combination construction is generally used for big freeride-style skis while the lighter structural cap type of construction is more commonly found on cross-country skis.": [
+      "Sandwich"
+    ],
+    "Core": [
+      "Wood"
+    ],
+    "Dimension": [
+      "136-106-126mm (180cm)"
+    ],
+    "Ideal for": [
+      "Downhill skiing",
+      "Freeride and freeskiing"
+    ],
+    "Made in": [
+      "Spain"
+    ],
+    "Rocker/camber profile": [
+      "Rocker tip",
+      "Rocker tail"
+    ],
+    "Snow conditions": [
+      "Powder"
+    ],
+    "Terrain": [
+      "On-Piste",
+      "Off-Piste"
+    ],
+    "Turning radius": [
+      "18m (180cm)"
+    ],
+    "Weight": [
+      "3.8kg (180cm)"
+    ]
+  }
+}

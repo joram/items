@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "Home",
+    "All",
+    "Run and fitness",
+    "Training guides",
+    "Running Rewired"
+  ],
+  "description": "Do you want to become a stronger, faster and more resilient runner? Running Rewired distills cutting-edge biomechanical research into 15 workouts any runner can slot into their training program. This book shows you how to shed old injuries, mobility problems, weaknesses and imbalances to rewire your body-brain movement patterns and transform your running form.",
+  "img_urls": {
+    "high": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8956398829598/5061209-NOC02.jpg"
+    ],
+    "low": [
+      "https://cdn.mec.ca/medias/sys_master/high-res/high-res/8956398829598/5061209-NOC02.jpg?w=600&h=600&auto=format&q=60&fit=fill&bg=FFF"
+    ]
+  },
+  "name": "Running Rewired",
+  "product_code": "5061-209",
+  "source_url": "https://www.mec.ca/en/product/5061-209/Running-Rewired",
+  "tech_specs": {
+    "Author": [
+      "Jay Dicharry"
+    ],
+    "ISBN": [
+      "9781937715755"
+    ],
+    "Ideal for": [
+      "Running"
+    ],
+    "Language": [
+      "English"
+    ],
+    "Made in": [
+      "USA"
+    ],
+    "Pages": [
+      "256"
+    ],
+    "Published": [
+      "2017"
+    ]
+  }
+}
